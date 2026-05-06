@@ -1,0 +1,5 @@
+week,num_dialogues,total_repairs,mean_repairs_per_dialogue,mean_turns_per_dialogue,mean_words_per_turn
+1,117,179,1.53,43.49,21.37
+2,115,160,1.39,43.05,21.47
+3,122,163,1.34,37.85,22.38
+4,111,84,0.76,35.35,27.8

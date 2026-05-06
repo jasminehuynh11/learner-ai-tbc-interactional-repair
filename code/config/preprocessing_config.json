@@ -1,0 +1,675 @@
+{
+  "naming": {
+    "output_pattern": "S{student_id}_W{week}_T{task}.json",
+    "processed_dir": "data/processed"
+  },
+  "defaults": {
+    "tasks_per_week": 3,
+    "label_set": "english_standard",
+    "skip_keywords": [
+      "transcript was not available"
+    ]
+  },
+  "label_sets": {
+    "english_standard": {
+      "learner": [
+        "You said:",
+        "You:",
+        "Student:",
+        "Me:",
+        "User:",
+        "Julieth:",
+        "J:",
+        "Chat:"
+      ],
+      "bot": [
+        "English Conversational Partner said:",
+        "English Conversational Partner:",
+        "English Conversational Partner ha detto:",
+        "Assistant:",
+        "ChatGPT said:",
+        "ChatGPT:",
+        "AI:",
+        "English conversational partner said:",
+        "Shop Assistant:"
+      ]
+    },
+    "portuguese": {
+      "learner": [
+        "Você disse:",
+        "Você:",
+        "Tú dijiste:",
+        "Tú dijiste："
+      ],
+      "bot": [
+        "English Conversational Partner disse:",
+        "English Conversacional Partner disse:",
+        "English Conversational Partner dijo:",
+        "English Conversational Partner dijo："
+      ]
+    },
+    "korean": {
+      "learner": [
+        "나의 말:",
+        "나의 말：",
+        "학생:",
+        "학생："
+      ],
+      "bot": [
+        "English Conversational Partner의 말:",
+        "English Conversational Partner의 말："
+      ]
+    },
+    "japanese": {
+      "learner": [
+        "You:",
+        "You said:",
+        "あなた:",
+        "あなた："
+      ],
+      "bot": [
+        "English Conversational Partner said:",
+        "English Conversational Partner の発言："
+      ]
+    },
+    "spanish": {
+      "learner": [
+        "Tú dijiste:",
+        "Tú dijiste：",
+        "You said:"
+      ],
+      "bot": [
+        "English Conversational Partner dijo:",
+        "English Conversational Partner dijo：",
+        "English Conversational Partner said:"
+      ]
+    },
+    "chinese": {
+      "learner": [
+        "你说:",
+        "你说："
+      ],
+      "bot": [
+        "English Conversational Partner 说：",
+        "English Conversational Partner 说:",
+        "English Conversational Partner said:"
+      ]
+    },
+    "student39_week1": {
+      "learner": [
+        "You said:"
+      ],
+      "bot": [
+        "ChatGPT said:",
+        "English Conversational Partner said:"
+      ]
+    },
+    "student41": {
+      "learner": [
+        "You said:"
+      ],
+      "bot": [
+        "English Conversational Partner :",
+        "English Conversational Partner:",
+        "English Conversational Partner said:"
+      ]
+    },
+    "student47_mixed": {
+      "learner": [
+        "You said:",
+        "Você disse:"
+      ],
+      "bot": [
+        "English Conversational Partner said:",
+        "English Conversational Partner disse:"
+      ]
+    },
+    "student48": {
+      "learner": [
+        "You said:",
+        "You said"
+      ],
+      "bot": [
+        "ChatGPT said:",
+        "ChatGPT said",
+        "English Conversational Partner said:",
+        "English Conversational Partner said"
+      ]
+    },
+    "student1_w1": {
+      "learner": [
+        "My Words:"
+      ],
+      "bot": [
+        "English Conversation Partner의 말:",
+        "English Conversational Partner의 말:"
+      ]
+    },
+    "student1_w2_w4": {
+      "learner": [
+        "My Words:"
+      ],
+      "bot": [
+        "English Conversational Partner said:"
+      ]
+    },
+    "student4_spanish": {
+      "learner": [
+        "Dijiste:"
+      ],
+      "bot": [
+        "English Conversational Partner dijo:"
+      ]
+    },
+    "student22_w1_w2": {
+      "learner": [
+        "Me:"
+      ],
+      "bot": [
+        "Chat GPT:",
+        "ChatGPT:"
+      ]
+    },
+    "student27_w1": {
+      "learner": [
+        "ME:"
+      ],
+      "bot": [
+        "GPT:"
+      ]
+    },
+    "student27_w2_w4": {
+      "learner": [
+        "Me:"
+      ],
+      "bot": [
+        "AI:"
+      ]
+    },
+    "student33_w1": {
+      "learner": [
+        "ME:"
+      ],
+      "bot": [
+        "ChatGPT:"
+      ]
+    },
+    "student37_w2": {
+      "learner": [
+        "Você disse:"
+      ],
+      "bot": [
+        "English Conversational Partner disse:"
+      ]
+    },
+    "student10_w1": {
+      "learner": [
+        "You said:"
+      ],
+      "bot": [
+        "ChatGPT said:"
+      ]
+    },
+    "student11_w1": {
+      "learner": [
+        "You said:"
+      ],
+      "bot": [
+        "ChatGPT said:"
+      ]
+    },
+    "student42": {
+      "learner": [
+        "You said:"
+      ],
+      "bot": [
+        "English Conversational partner said:",
+        "English Conversational Partner said:"
+      ]
+    }
+  },
+  "students": {
+    "1": {
+      "label_set": "student1_w2_w4",
+      "weeks": {
+        "1": { "tasks": 1, "label_set": "student1_w1", "notes": "My Words:, English Conversation Partner의 말:" },
+        "2": { "tasks": 2, "notes": "My Words:, English Conversational Partner said:" },
+        "3": { "tasks": 2, "notes": "My Words:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "My Words:, English Conversational Partner said:" }
+      }
+    },
+    "2": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "Contains Student & AI combined note to skip." },
+        "2": { "tasks": 2 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2, "notes": "Also uses Me:, AI: labels." }
+      }
+    },
+    "5": {
+      "label_set": "korean",
+      "weeks": {
+        "1": { "tasks": 2 },
+        "2": { "tasks": 2 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2 }
+      }
+    },
+    "7": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 2 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2 }
+      },
+      "notes": "Some files start with English Conversational Partner said: before You said:."
+    },
+    "8": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "Contains Japanese sentences inline." },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 3 },
+        "4": { "tasks": 3, "notes": "Contains Japanese sentences inline." }
+      }
+    },
+    "9": {
+      "label_set": "korean",
+      "weeks": {
+        "1": { "tasks": 2 },
+        "2": { "tasks": 2 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2 }
+      }
+    },
+    "12": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2 }
+      }
+    },
+    "13": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3, "notes": "Includes ChatGPT said: sections." },
+        "2": { "tasks": 2 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2 }
+      }
+    },
+    "14": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 3 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "16": {
+      "label_set": "portuguese",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 3 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "17": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "Uses User:/Assistant: labels." },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 3 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "18": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 4 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "32": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 3 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "20": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 3 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "21": {
+      "label_set": "japanese",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 3, "notes": "Uses Japanese bot label." },
+        "4": { "tasks": 2 }
+      }
+    },
+    "23": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 4, "notes": "Task 2 split into #1 and #2 subtasks." },
+        "4": { "tasks": 2 }
+      }
+    },
+    "24": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2 },
+        "2": { "tasks": 2 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2 }
+      }
+    },
+    "25": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2 },
+        "2": { "tasks": 2 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2 }
+      }
+    },
+    "28": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 3 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "30": {
+      "label_set": "portuguese",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3, "notes": "Includes ChatGPT disse sections." },
+        "3": { "tasks": 3 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "26": {
+      "label_set": "english_standard",
+      "weeks": {
+        "3": { "tasks": 3 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "34": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 3 },
+        "4": { "tasks": 2 }
+      }
+    },
+    "36": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2 },
+        "2": { "tasks": 2 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2 }
+      }
+    },
+    "40": {
+      "label_set": "spanish",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "Mixed English/Spanish labels." },
+        "2": { "tasks": 2 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2 }
+      }
+    },
+    "38": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2 },
+        "2": { "tasks": 2 },
+        "3": { "tasks": 2 },
+        "4": { "tasks": 2 }
+      }
+    },
+    "43": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 4 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "44": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3 },
+        "2": { "tasks": 3 },
+        "3": { "tasks": 3 },
+        "4": { "tasks": 3 }
+      }
+    },
+    "31": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "2": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "3": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "39": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3, "label_set": "student39_week1", "notes": "You said:, ChatGPT said:, English Conversational Partner said:" },
+        "2": { "tasks": 3, "notes": "You said:, English Conversational Partner said:" },
+        "3": { "tasks": 3, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 3, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "41": {
+      "label_set": "student41",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "English Conversational Partner :, You said:" },
+        "2": { "tasks": 2, "notes": "English Conversational Partner :, You said:" },
+        "3": { "tasks": 2, "notes": "English Conversational Partner :, You said:" },
+        "4": { "tasks": 2, "notes": "English Conversational Partner :, You said:" }
+      }
+    },
+    "45": {
+      "label_set": "chinese",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "你说:, English Conversational Partner 说：" },
+        "2": { "tasks": 2, "notes": "你说:, English Conversational Partner 说：" },
+        "3": { "tasks": 2, "notes": "你说:, English Conversational Partner 说：" },
+        "4": { "tasks": 2, "notes": "你说:, English Conversational Partner 说：" }
+      }
+    },
+    "46": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "2": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "3": { "tasks": 3, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "47": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "label_set": "student47_mixed", "notes": "You said:, English Conversational Partner said:" },
+        "2": { "tasks": 2, "label_set": "student47_mixed", "notes": "You said:, ChatGPT said:" },
+        "3": { "tasks": 3, "label_set": "student47_mixed", "notes": "English Conversational Partner disse:, You said:" },
+        "4": { "tasks": 3, "label_set": "student47_mixed", "notes": "English Conversational Partner disse:, Você disse:" }
+      }
+    },
+    "48": {
+      "label_set": "student48",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "ChatGPT said:, You said" },
+        "2": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "3": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "49": {
+      "label_set": "korean",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "나의 말:, English Conversational Partner의 말:" },
+        "2": { "tasks": 2, "notes": "나의 말:, English Conversational Partner의 말:" },
+        "3": { "tasks": 2, "notes": "나의 말:, English Conversational Partner의 말:" },
+        "4": { "tasks": 2, "notes": "나의 말:, English Conversational Partner의 말:" }
+      }
+    },
+    "3": {
+      "label_set": "student1_w2_w4",
+      "weeks": {
+        "1": { "tasks": 2, "label_set": "student1_w1", "notes": "My Words:, English Conversation Partner의 말:" },
+        "2": { "tasks": 2, "notes": "My Words:, English Conversational Partner said:" },
+        "3": { "tasks": 2, "notes": "My Words:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "My Words:, English Conversational Partner said:" }
+      }
+    },
+    "4": {
+      "label_set": "student4_spanish",
+      "weeks": {
+        "1": { "tasks": 3, "notes": "Dijiste:, English Conversational Partner dijo:" },
+        "2": { "tasks": 3, "notes": "Dijiste:, English Conversational Partner dijo:" },
+        "3": { "tasks": 2, "notes": "Dijiste:, English Conversational Partner dijo:" },
+        "4": { "tasks": 2, "notes": "Dijiste:, English Conversational Partner dijo:" }
+      }
+    },
+    "19": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3, "notes": "You said:, English Conversational Partner said:" },
+        "2": { "tasks": 3, "notes": "You said:, English Conversational Partner said:" },
+        "3": { "tasks": 4, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 3, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "22": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "label_set": "student22_w1_w2", "notes": "Me:, Chat GPT:" },
+        "2": { "tasks": 2, "label_set": "student22_w1_w2", "notes": "Me:, Chat GPT:" },
+        "3": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "27": {
+      "label_set": "student27_w2_w4",
+      "weeks": {
+        "1": { "tasks": 3, "label_set": "student27_w1", "notes": "ME:, GPT:" },
+        "2": { "tasks": 3, "notes": "Me:, AI:" },
+        "3": { "tasks": 4, "notes": "Me:, AI:" },
+        "4": { "tasks": 3, "notes": "Me:, AI:" }
+      }
+    },
+    "29": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "English Conversational Partner said:, You said:" },
+        "2": { "tasks": 2, "notes": "English Conversational Partner said:, You said:" },
+        "3": { "tasks": 2, "notes": "English Conversational Partner said:, You said:" },
+        "4": { "tasks": 2, "notes": "English Conversational Partner said:, You said:" }
+      }
+    },
+    "33": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "label_set": "student33_w1", "notes": "A - ME, B - ChatGPT" },
+        "2": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "3": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "37": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "2": { "tasks": 2, "label_set": "student37_w2", "notes": "English Conversational Partner disse:, Você disse:" },
+        "3": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "10": {
+      "label_set": "student10_w1",
+      "weeks": {
+        "1": { "tasks": 3, "notes": "ChatGPT said:, You said:" }
+      }
+    },
+    "11": {
+      "label_set": "student11_w1",
+      "weeks": {
+        "1": { "tasks": 1, "notes": "ChatGPT said:, You said:" }
+      }
+    },
+    "35": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 3, "notes": "You said:, English Conversational Partner said:" },
+        "2": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "3": { "tasks": 3, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "42": {
+      "label_set": "student42",
+      "weeks": {
+        "1": { "tasks": 3, "notes": "English Conversational partner said:, You said:" },
+        "2": { "tasks": 3, "notes": "English Conversational partner said:, You said:" }
+      }
+    },
+    "50": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "label_set": "korean", "notes": "나의 말:, English Conversational Partner의 말:" },
+        "2": { "tasks": 2, "label_set": "korean", "notes": "나의 말:, English Conversational Partner의 말:" },
+        "3": { "tasks": 2, "notes": "You said:, English Conversational Partner:" },
+        "4": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "6": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "2": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "3": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" }
+      }
+    },
+    "15": {
+      "label_set": "english_standard",
+      "weeks": {
+        "1": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "2": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "3": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" },
+        "4": { "tasks": 2, "notes": "You said:, English Conversational Partner said:" }
+      }
+    }
+  }
+}
+

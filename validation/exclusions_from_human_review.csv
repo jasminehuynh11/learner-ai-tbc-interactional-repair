@@ -1,0 +1,6 @@
+case_id,dialogue_id,turn_indices,proposed_code,exclusion_reason,criterion_failed,confirmed_by,confirmation_date
+P2_W1_T1,S2_W1_T1,"[4,5]",LI-U-A,"No genuine communication trouble; no breakdown occurred.",Criterion 1,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
+P4_W1_T1,S4_W1_T1,"[17,18]",None-None,"No misunderstanding or repair sequence present.",Criteria 1 and 2,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
+P17_W1_T1,S17_W1_T1,"[26,27]",BI-R,"Surface mispronunciation understood without interactional breakdown.",Criterion 1,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
+P18_W2_T1,S18_W2_T1,"[23,24]",None-None,"Irrelevant utterance did not trigger repair sequence.",Criteria 1 and 2,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
+P43_W1_T1,S43_W1_T1,"[20,21]",BI-R,"Implicit correction without observable breakdown.",Criterion 1,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04

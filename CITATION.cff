@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Interactional Repair in Learner-AI Task-Based Conversations: Patterns of Initiation, Resolution and Participation - Replication Package"
+message: "If you use this repository, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: "Lee"
+    given-names: "Yeong-Ju"
+    orcid: "https://orcid.org/0000-0002-9251-6535"
+  - family-names: "Enríquez Raído"
+    given-names: "Vanessa"
+  - family-names: "Dras"
+    given-names: "Mark"
+  - family-names: "Proctor"
+    given-names: "Michael"
+  - family-names: "Roger"
+    given-names: "Peter"
+repository-code: "https://github.com/jasminehuynh11/learner-ai-tbc-interactional-repair"
+abstract: "Replication materials for interactional repair analyses in learner-AI task-based conversations."
+license: "CC-BY-4.0"
+keywords:
+  - learner-ai interaction
+  - interactional repair
+  - task-based conversation
+  - llm-assisted coding
+version: "1.0.0"
+date-released: 2026-04-29

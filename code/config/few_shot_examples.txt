@@ -1,0 +1,81 @@
+
+===============================
+FEW-SHOT EXAMPLES
+===============================
+
+These examples show correct repair annotations from real dialogues. Study them carefully to understand the expected format and reasoning.
+
+
+EXAMPLE: pronunciation/ASR – misrecognition of learner speech (BI → R)
+
+Dialogue excerpt:
+  Turn 5 (learner): “HOTAS.”
+  Turn 6 (bot): Great, a hot matcha latte it is! Would you like any specific milk, like almond, oat, or regular dairy?
+
+Correct annotation:
+{
+  "dialogue_id": "W1_T1_S18",
+  "repair_id": 1,
+  "turn_indices": [
+    5,
+    6
+  ],
+  "initiation": "BI",
+  "resolution": "R",
+  "trigger": "pronunciation/ASR – misrecognition of learner speech",
+  "evidence_summary": "The learner says 'HOTAS' in turn 5, which is an unclear utterance. The bot implicitly repairs this by interpreting it as 'hot' in turn 6, and the conversation continues smoothly, indicating successful understanding."
+}
+
+Reasoning:
+The learner says 'HOTAS' in turn 5, which is an unclear utterance. The bot implicitly repairs this by interpreting it as 'hot' in turn 6, and the conversation continues smoothly, indicating successful understanding.
+
+
+EXAMPLE: self-correction – learner corrects own previous utterance (LI → R)
+
+Dialogue excerpt:
+  Turn 29 (learner): “Yes, she'll have a slice of, um, no, a banana bread with gluten-free and she'll like espresso.”
+  Turn 30 (bot): Perfect! So that's one gluten-free banana bread and one espresso for your friend. That sounds lovely! Let me know if
+
+Correct annotation:
+{
+  "dialogue_id": "W1_T1_S18",
+  "repair_id": 2,
+  "turn_indices": [
+    29,
+    30
+  ],
+  "initiation": "LI",
+  "resolution": "R",
+  "trigger": "self-correction – learner corrects own previous utterance",
+  "evidence_summary": "The learner explicitly self-corrects their order from an initial hesitation ('um, no') to 'a banana bread' in turn 29. The bot successfully processes this corrected order in turn 30, resolving the self-correction."
+}
+
+Reasoning:
+The learner explicitly self-corrects their order from an initial hesitation ('um, no') to 'a banana bread' in turn 29. The bot successfully processes this corrected order in turn 30, resolving the self-correction.
+
+
+EXAMPLE: learner checking understanding – complex order change (LI → R)
+
+Dialogue excerpt:
+  Turn 35 (learner): “Okay. Oh, thank you. So I'll change my cake to banana bread so that makes a combo with two banana breads and one matcha latte and one espresso, right?”
+  Turn 36 (bot): Yes, exactly! So that’s two slices of banana bread, one hot matcha latte, and one espresso. That definitely gives you a nice combo! I’ll get that all ready for you. Let me know if there
+
+Correct annotation:
+{
+  "dialogue_id": "W1_T1_S18",
+  "repair_id": 3,
+  "turn_indices": [
+    35,
+    36
+  ],
+  "initiation": "LI",
+  "resolution": "R",
+  "trigger": "learner checking understanding – complex order change",
+  "evidence_summary": "The learner makes a complex order change in turn 35 and explicitly asks for confirmation ('right?'). The bot confirms the entire order correctly in turn 36, resolving the learner's check for understanding."
+}
+
+Reasoning:
+The learner makes a complex order change in turn 35 and explicitly asks for confirmation ('right?'). The bot confirms the entire order correctly in turn 36, resolving the learner's check for understanding.
+
+
+===============================

@@ -1,0 +1,66 @@
+
+================================================================================
+PLAIN-LANGUAGE SUMMARY 
+================================================================================
+
+HOW OFTEN DO REPAIRS HAPPEN?
+
+Repairs are relatively infrequent in learner-AI dialogues. On average, each dialogue 
+contains 1.26 repair sequences (median: 1). Approximately 
+48.8% of dialogues contain no repairs, 16.3% contain exactly one repair, 
+and 34.8% contain two or more repairs. When repairs do occur, they usually 
+involve 1-2 sequences; only a small handful of dialogues show very high repair activity 
+(up to 8 repairs).
+
+
+WHO INITIATES REPAIRS AND ARE THEY RESOLVED?
+
+Most repairs are learner-initiated (LI, n = 428, 73.0%) rather than 
+bot-initiated (BI, n = 155, 26.5%). Across both types, the vast majority 
+of repairs are resolved (86.0% resolution rate), with only a small number 
+of unresolved cases. The chi-square test shows no strong statistical evidence that 
+learner- vs bot-initiated repairs differ in resolution success in this pilot sample 
+(χ² = 404.3696, p = 0.0000).
+
+
+WHAT CAUSES REPAIRS?
+
+The most common triggers involve vocabulary/lexical issues (31.1%), 
+followed by vocabulary/lexical problems, ASR/pronunciation issues, and self-correction. 
+Bot misunderstandings and contextual errors are relatively rare but important, as they 
+highlight system design limitations. These patterns align with theoretical expectations 
+that vocabulary and comprehension problems are typical sites of negotiation for meaning 
+in second language learning contexts.
+
+
+HOW DO REPAIRS RELATE TO PARTICIPATION?
+
+Dialogues with more repairs also tend to have more turns (r = 0.352, 
+p = 0.000), which may reflect more engaged, extended interactions rather than purely 
+'problematic' sessions. We did not find strong evidence that unresolved repairs are 
+systematically associated with longer or more verbose sessions—unresolved repairs are 
+rare in this dataset (80 
+cases out of 586 total repairs).
+
+
+IMPLICATIONS FOR SYSTEM & PEDAGOGY
+
+• Support vocabulary scaffolding: Given that vocabulary and comprehension issues are 
+  common triggers, the system should provide contextual definitions and examples.
+
+• Improve ASR robustness and clarification strategies: ASR/pronunciation issues 
+  account for a notable proportion of repairs; better speech recognition and 
+  clarification protocols could reduce these.
+
+• Use repair patterns as indicators of productive struggle rather than failure: 
+  The positive correlation between repairs and turns suggests that repairs occur in 
+  more engaged dialogues, indicating active learning rather than breakdown.
+
+• Design for learner-initiated repairs: Since most repairs are learner-initiated, 
+  the system should support learners' self-monitoring and clarification requests.
+
+• Monitor resolution success: The high resolution rate (86.0%) 
+  suggests the current system effectively supports repair sequences, but attention 
+  should be paid to the small number of unresolved cases.
+
+================================================================================
