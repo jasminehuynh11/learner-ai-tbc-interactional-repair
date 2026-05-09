@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Any
@@ -24,9 +25,15 @@ from dialogue_parser import DialogueParser
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from path_utils import get_data_root, resolve_data_subpath
+
+DATA_ROOT = get_data_root()
 CONFIG_PATH = PROJECT_ROOT / "config" / "preprocessing_config.json"
-RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
-EXTRACTED_TEXT_DIR = PROJECT_ROOT / "data" / "extracted_text"
+RAW_DATA_DIR = DATA_ROOT / "raw"
+EXTRACTED_TEXT_DIR = DATA_ROOT / "extracted_text"
 
 DOC_PATTERN = re.compile(r"#(\d+)\.\s*Week\s*(\d+)", re.IGNORECASE)
 SUPPORTED_SUFFIXES = {".docx", ".pdf"}
@@ -187,7 +194,7 @@ def filter_skip_sections(text: str, skip_keywords: List[str]) -> Tuple[str, List
 
 def ensure_processed_dir(config: Dict[str, Any]) -> Path:
     processed_dir = config.get("naming", {}).get("processed_dir", "data/processed")
-    processed_path = (PROJECT_ROOT / processed_dir).resolve()
+    processed_path = resolve_data_subpath(processed_dir).resolve()
     processed_path.mkdir(parents=True, exist_ok=True)
     return processed_path
 

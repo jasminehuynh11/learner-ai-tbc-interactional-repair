@@ -12,9 +12,15 @@ from datetime import datetime
 if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8')
 
-PROJECT_ROOT = Path(__file__).parent.parent  # Go up one level from src/ to project root
-REPAIRS_DIR = PROJECT_ROOT / "data" / "repairs"
-OUTPUT_FILE = PROJECT_ROOT / "data" / "all_repairs.json"
+CODE_ROOT = Path(__file__).resolve().parents[1]
+if str(CODE_ROOT) not in sys.path:
+    sys.path.insert(0, str(CODE_ROOT))
+
+from path_utils import get_data_root
+
+DATA_ROOT = get_data_root()
+REPAIRS_DIR = DATA_ROOT / "repairs"
+OUTPUT_FILE = DATA_ROOT / "all_repairs.json"
 
 
 def load_repair_file(file_path: Path) -> List[Dict[str, Any]]:

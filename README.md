@@ -33,6 +33,10 @@ Included scope is limited to interactional repair analysis. Out-of-scope analyse
 
 ## Reproduction Overview
 
+Runtime path policy:
+- Canonical runtime data root is repository-level `data/` (for example, `data/raw`, `data/processed`, `data/repairs`).
+- Legacy `code/data/` is still supported for backward compatibility, but migration to `data/` is recommended.
+
 1. Install dependencies:
    - `pip install -r requirements.txt`
 2. Set environment variables:
@@ -43,6 +47,15 @@ Included scope is limited to interactional repair analysis. Out-of-scope analyse
 4. Rebuild consolidated repairs:
    - `python generate_all_repairs_json.py`
 5. Use frozen files in `results/` for manuscript-aligned values.
+
+## Migration Note
+
+If your existing workflow writes files under `code/data/`, move runtime folders to repository-root `data/`:
+
+- `code/data/raw` -> `data/raw`
+- `code/data/extracted_text` -> `data/extracted_text`
+- `code/data/processed` -> `data/processed`
+- `code/data/repairs` -> `data/repairs`
 
 ## Data Availability and Privacy
 

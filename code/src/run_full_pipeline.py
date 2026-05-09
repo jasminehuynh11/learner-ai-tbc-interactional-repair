@@ -94,6 +94,7 @@ PROJECT_ROOT = Path(__file__).parent.parent  # Go up one level from src/ to proj
 sys.path.insert(0, str(PROJECT_ROOT / 'scripts'))
 sys.path.insert(0, str(PROJECT_ROOT))
 
+from path_utils import get_data_root
 from preprocessing_pipeline import run_pipeline as run_preprocessing
 from repair_detector_gpt import detect_repairs_gpt, get_openai_client
 from repair_detector import save_repair_annotations, validate_repair_annotation
@@ -104,8 +105,9 @@ try:
     from generate_all_repairs_json import generate_all_repairs_json
 except ImportError:
     generate_all_repairs_json = None
-PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-REPAIRS_DIR = PROJECT_ROOT / "data" / "repairs"
+DATA_ROOT = get_data_root()
+PROCESSED_DIR = DATA_ROOT / "processed"
+REPAIRS_DIR = DATA_ROOT / "repairs"
 
 # Task topic classification (integrated from task_classifier.py)
 TASK_TOPICS = {
@@ -324,6 +326,7 @@ def run_full_pipeline(
     print("=" * 80)
     print("FULL PIPELINE: PREPROCESSING + REPAIR DETECTION")
     print("=" * 80)
+    print(f"Data root: {DATA_ROOT}")
     
     # Step 1: Preprocessing
     print("\n" + "=" * 80)
