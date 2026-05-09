@@ -1,1 +1,6 @@
 dialogue_id,repair_segment_id,coder1_initiation,coder2_initiation,coder1_resolution,coder2_resolution,final_decision,adjudicator,adjudication_date,rationale
+S2_W1_T1,P2_W1_T1,LI,LI,U-A,U-A,Exclude from validated repairs,"Consensus (Yeong-Ju Lee; Vanessa Enríquez Raído)",2026-03-04,"No genuine communication trouble and no observable interactional breakdown."
+S4_W1_T1,P4_W1_T1,None,None,None,None,Exclude from validated repairs,"Consensus (Yeong-Ju Lee; Vanessa Enríquez Raído)",2026-03-04,"No misunderstanding and no repair attempt; nothing to classify."
+S17_W1_T1,P17_W1_T1,BI,BI,R,R,Exclude from validated repairs,"Consensus (Yeong-Ju Lee; Vanessa Enríquez Raído)",2026-03-04,"Surface-level misalignment only; mutual understanding was not impeded."
+S18_W2_T1,P18_W2_T1,None,None,None,None,Exclude from validated repairs,"Consensus (Yeong-Ju Lee; Vanessa Enríquez Raído)",2026-03-04,"Irrelevant utterance did not create communication trouble and no repair followed."
+S43_W1_T1,P43_W1_T1,BI,BI,R,R,Exclude from validated repairs,"Consensus (Yeong-Ju Lee; Vanessa Enríquez Raído)",2026-03-04,"Implicit correction occurred without a registered breakdown requiring repair."

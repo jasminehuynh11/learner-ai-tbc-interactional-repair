@@ -74,9 +74,14 @@ LLM use, model roles, and disclosure language draft are provided in:
 
 ## Human Validation Materials
 
-Required two-coder files and date fields are defined in:
+Validation files and exclusion-audit documentation are in:
 
 - `validation/README.md`
+- `validation/data_cleaning_summary.md`
+- `validation/exclusions_from_human_review.csv`
+- `validation/validation_protocol.md`
+- `validation/validation_dates_metadata.csv`
+- `validation/validation_agreement_note.md`
 - `validation/coder1_annotations.csv`
 - `validation/coder2_annotations.csv`
 - `validation/adjudication_log.csv`

@@ -55,8 +55,8 @@
 - `exclusions_from_human_review.csv` (finalized exclusion register)
 - `validation_dates_metadata.csv` (dates and personnel metadata)
 - `validation_agreement_note.md` (agreement note from email confirmation)
-- `coder1_annotations.csv` (schema retained for traceability)
-- `coder2_annotations.csv` (schema retained for traceability)
-- `adjudication_log.csv` (schema retained for traceability)
-- `reliability_summary.csv` (schema retained for traceability)
+- `coder1_annotations.csv` (coder 1 records for the five exclusion-review cases)
+- `coder2_annotations.csv` (coder 2 records for the five exclusion-review cases)
+- `adjudication_log.csv` (consensus adjudication records for the five exclusion-review cases)
+- `reliability_summary.csv` (agreement metrics for the exclusion subset only)
 

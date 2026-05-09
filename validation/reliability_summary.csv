@@ -1,1 +1,5 @@
 metric,variable,value,confidence_interval,n_pairs,computed_by,computed_date,notes
+percent_agreement,initiation,1.0,Not computed (subset only),5,Yeong-Ju Lee; Vanessa Enríquez Raído,2026-03-04,"Computed on the five exclusion-review cases only."
+percent_agreement,resolution,1.0,Not computed (subset only),5,Yeong-Ju Lee; Vanessa Enríquez Raído,2026-03-04,"Computed on the five exclusion-review cases only."
+cohens_kappa,initiation,Not computed,Not computed (subset only),5,Not included in public package,2026-03-04,"Full reliability analysis is not released in this package."
+cohens_kappa,resolution,Not computed,Not computed (subset only),5,Not included in public package,2026-03-04,"Full reliability analysis is not released in this package."

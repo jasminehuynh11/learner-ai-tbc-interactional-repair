@@ -1,1 +1,6 @@
 dialogue_id,repair_segment_id,turn_indices,initiation,resolution,trigger,notes,coder_id,annotation_date,codebook_version
+S2_W1_T1,P2_W1_T1,"[4,5]",LI,U-A,no genuine communication trouble,"Excluded: no observable breakdown; conversation proceeded without interruption.",Vanessa Enríquez Raído,2026-03-04,Operational criteria in repair detector prompt
+S4_W1_T1,P4_W1_T1,"[17,18]",None,None,no communication trouble and no repair attempt,"Excluded: no misunderstanding and no repair sequence to classify.",Vanessa Enríquez Raído,2026-03-04,Operational criteria in repair detector prompt
+S17_W1_T1,P17_W1_T1,"[26,27]",BI,R,surface-level misalignment only,"Excluded: mispronunciation was understood without interactional breakdown.",Vanessa Enríquez Raído,2026-03-04,Operational criteria in repair detector prompt
+S18_W2_T1,P18_W2_T1,"[23,24]",None,None,no communication trouble and no repair attempt,"Excluded: irrelevant utterance did not trigger repair and no repair attempt followed.",Vanessa Enríquez Raído,2026-03-04,Operational criteria in repair detector prompt
+S43_W1_T1,P43_W1_T1,"[20,21]",BI,R,implicit correction without breakdown,"Excluded: correction occurred without a registered communication breakdown.",Vanessa Enríquez Raído,2026-03-04,Operational criteria in repair detector prompt
