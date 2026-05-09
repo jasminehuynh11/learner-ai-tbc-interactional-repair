@@ -2,6 +2,11 @@
 
 This folder is for two-human validation traceability.
 
+Release status for this package:
+- Exclusion audit files are finalized for publication (`exclusions_from_human_review.csv`, `validation_protocol.md`, `validation_agreement_note.md`, `validation_dates_metadata.csv`).
+- Narrative summary of the exclusion pass is provided in `data_cleaning_summary.md`.
+- `coder1_annotations.csv`, `coder2_annotations.csv`, `adjudication_log.csv`, and `reliability_summary.csv` are retained as schema stubs in this public package (header-only) to preserve template compatibility without releasing additional coder-level records.
+
 ## Required Files
 
 - `coder1_annotations.csv`

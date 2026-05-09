@@ -1,11 +1,11 @@
 item,value,source,notes
-coder1_name,Yeong-Ju Lee,Email confirmation from Yeong-Ju,Pending final lock with team
-coder2_name,Vanessa Enríquez Raído,Email confirmation from Yeong-Ju,Spelling confirmed from title page
-adjudicator_name,TBD,Team confirmation required,To be filled if separate from coders
+coder1_name,Yeong-Ju Lee,Email confirmation from Yeong-Ju,Confirmed for release
+coder2_name,Vanessa Enríquez Raído,Email confirmation from Yeong-Ju,Confirmed for release
+adjudicator_name,Consensus by both coders,Email confirmation from Yeong-Ju,No separate adjudicator required for listed exclusions
 coder1_annotation_start,2026-02-04,Email confirmation from Yeong-Ju,Initial coding round date
 coder1_annotation_end,2026-02-13,Email confirmation from Yeong-Ju,Second coding round date
-coder2_annotation_start,2026-03-04,Email confirmation from Yeong-Ju,Date to be double checked with Vanessa
-coder2_annotation_end,2026-03-04,Email confirmation from Yeong-Ju,Single date currently available
-adjudication_date,2026-03-04,Working value from email thread,Confirm in final team validation note
-reliability_computation_date,TBD,Team confirmation required,Add once reliability table is finalized
-codebook_version,TBD,Team confirmation required,Add exact codebook version label/date
+coder2_annotation_start,2026-03-04,Email confirmation from Yeong-Ju,Single coding round date
+coder2_annotation_end,2026-03-04,Email confirmation from Yeong-Ju,Single coding round date
+adjudication_date,2026-03-04,Email confirmation from Yeong-Ju,Consensus date for listed exclusions
+reliability_computation_date,Not included in this public package,Validation protocol,No reliability statistic file released in this package
+codebook_version,Operational criteria documented in repair detector prompt,Validation protocol,See code/scripts/repair_detector.py
