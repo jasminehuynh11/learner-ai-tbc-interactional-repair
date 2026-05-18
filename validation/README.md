@@ -1,11 +1,12 @@
 # Validation Package Requirements
 
-This folder is for two-human validation traceability.
+This folder is for validation traceability.
 
 Release status for this package:
 - Exclusion audit files are finalized for publication (`exclusions_from_human_review.csv`, `validation_protocol.md`, `validation_agreement_note.md`, `validation_dates_metadata.csv`).
 - Narrative summary of the exclusion pass is provided in `data_cleaning_summary.md`.
 - `coder1_annotations.csv`, `coder2_annotations.csv`, and `adjudication_log.csv` contain the five exclusion-review records used to finalize the 591 to 586 validated-repair count.
+- `coder3_annotations.csv` contains supplementary coder-3 records from an earlier Nov-Dec 2025 per-batch coding pass (non-overlapping candidate cases for additional review before later coder1/coder2 confirmation rounds). These candidate-screening notes do not modify the finalized five-case exclusion register.
 - `reliability_summary.csv` reports exclusion-subset agreement metrics only (full reliability analysis is not released in this package).
 
 ## Required Files
@@ -17,6 +18,7 @@ Release status for this package:
 - `validation_protocol.md`
 - `coder1_annotations.csv`
 - `coder2_annotations.csv`
+- `coder3_annotations.csv`
 - `adjudication_log.csv`
 - `reliability_summary.csv`
 

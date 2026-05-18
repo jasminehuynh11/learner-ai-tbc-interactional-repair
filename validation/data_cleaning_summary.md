@@ -15,7 +15,7 @@ A sequence is retained as a repair only when both conditions are met:
 
 Surface-level misalignments that did not impede mutual understanding were excluded.
 
-## Cleaning procedure (February review workflow)
+## Cleaning procedure (Feb-Mar 2026 review workflow)
 
 1. Search `repairs_export.xlsx` `Brief notes` column for the following markers:
    - `no genuine communication trouble`

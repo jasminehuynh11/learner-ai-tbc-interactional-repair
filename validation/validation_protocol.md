@@ -10,14 +10,17 @@
 
 - Coder 1: Yeong-Ju Lee
 - Coder 2: Vanessa Enríquez Raído
+- Coder 3 (supplementary early pass): Jasmine Huynh
 - Adjudication approach: Consensus confirmation between the two coders for listed exclusion cases (no disagreement recorded)
 
 ## Dates
 
 - Coder 1 coding rounds: 2026-02-04 and 2026-02-13
 - Coder 2 coding round: 2026-03-04
+- Coder 3 supplementary coding rounds: 2025-11-25 to 2025-12-11 (per-batch coding pass before coder1/coder2 confirmation rounds)
 - Exclusion confirmation date: 2026-03-04
-- Reliability computation date: Not included in this public package
+- Reliability summary date (exclusion subset): 2026-03-04 (`reliability_summary.csv`)
+- Full reliability analysis date: Not included in this public package
 
 ## Unit of Analysis
 
@@ -49,6 +52,7 @@
 - Candidate repairs before exclusions: 591
 - Validated repairs after exclusions: 586
 - Excluded cases: 5
+- Note on coder 3 supplementary file: `coder3_annotations.csv` records early candidate-screening notes and does not change the finalized five-case exclusion register above.
 
 ## Outputs
 
@@ -57,6 +61,7 @@
 - `validation_agreement_note.md` (agreement note from email confirmation)
 - `coder1_annotations.csv` (coder 1 records for the five exclusion-review cases)
 - `coder2_annotations.csv` (coder 2 records for the five exclusion-review cases)
+- `coder3_annotations.csv` (supplementary coder-3 per-batch records from the earlier exclusion-screening phase)
 - `adjudication_log.csv` (consensus adjudication records for the five exclusion-review cases)
 - `reliability_summary.csv` (agreement metrics for the exclusion subset only)
 

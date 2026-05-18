@@ -1,6 +1,6 @@
 case_id,dialogue_id,turn_indices,proposed_code,exclusion_reason,criterion_failed,confirmed_by,confirmation_date
 P2_W1_T1,S2_W1_T1,"[4,5]",LI-U-A,"Brief note flagged no genuine communication trouble: no breakdown occurred, no repair was needed, and the conversation proceeded without interruption.",Criterion 1,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
-P4_W1_T1,S4_W1_T1,"[17,18]",None-None,"No signs of misunderstanding or repair: the bot response was appropriate and there was nothing to classify for initiation or resolution.",Criteria 1 and 2,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
+P4_W1_T1,S4_W1_T1,"[17,18]",None-None,"No signs of misunderstanding or repair: the bot response was appropriate and there was nothing to classify for initiation or resolution.",Criteria 1, 2,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
 P17_W1_T1,S17_W1_T1,"[26,27]",BI-R,"Bot understood the learner mispronunciation without interactional breakdown; this was a surface-level misalignment that did not impede mutual understanding.",Criterion 1,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
-P18_W2_T1,S18_W2_T1,"[23,24]",None-None,"Learner utterance was irrelevant but did not signal communication trouble and no repair attempt followed.",Criteria 1 and 2,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
+P18_W2_T1,S18_W2_T1,"[23,24]",None-None,"Learner utterance was irrelevant but did not signal communication trouble and no repair attempt followed.",Criteria 1, 2,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
 P43_W1_T1,S43_W1_T1,"[20,21]",BI-R,"Bot implicitly corrected without observable breakdown; no party attempted to address a registered communication breakdown.",Criterion 1,"Yeong-Ju Lee; Vanessa Enríquez Raído",2026-03-04
