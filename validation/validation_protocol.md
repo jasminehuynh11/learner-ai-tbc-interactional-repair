@@ -52,7 +52,7 @@
 - Candidate repairs before exclusions: 591
 - Validated repairs after exclusions: 586
 - Excluded cases: 5
-- Note on coder 3 supplementary file: `coder3_annotations.csv` records early candidate-screening notes and does not change the finalized five-case exclusion register above.
+- Note on coder 3 supplementary file: `coder3_annotations.csv` records eight operational exclusions applied during batch pipeline review (Nov-Dec 2025). These exclusions do not alter the finalized five-case exclusion register or the published N = 586 count above.
 
 ## Outputs
 
@@ -61,7 +61,7 @@
 - `validation_agreement_note.md` (agreement note from email confirmation)
 - `coder1_annotations.csv` (coder 1 records for the five exclusion-review cases)
 - `coder2_annotations.csv` (coder 2 records for the five exclusion-review cases)
-- `coder3_annotations.csv` (supplementary coder-3 per-batch records from the earlier exclusion-screening phase)
+- `coder3_annotations.csv` (operational exclusions logged during batch pipeline review, Nov-Dec 2025)
 - `adjudication_log.csv` (consensus adjudication records for the five exclusion-review cases)
 - `reliability_summary.csv` (agreement metrics for the exclusion subset only)
 

@@ -1,7 +1,7 @@
 item,value,source,notes
 coder1_name,Yeong-Ju Lee,Email confirmation from Yeong-Ju,Confirmed for release
 coder2_name,Vanessa Enríquez Raído,Email confirmation from Yeong-Ju,Confirmed for release
-coder3_name,Jasmine Huynh,Email thread on RA batch analysis (Nov-Dec 2025),Coder-3 candidate screening annotations from earlier pre-validation batch rounds
+coder3_name,Jasmine Huynh,Email thread on RA batch analysis (Nov-Dec 2025),Operational exclusions during batch pipeline review (Nov-Dec 2025)
 adjudicator_name,Consensus by both coders,Email confirmation from Yeong-Ju,No separate adjudicator required for listed exclusions
 coder1_annotation_start,2026-02-04,Email confirmation from Yeong-Ju,Initial coding round date
 coder1_annotation_end,2026-02-13,Email confirmation from Yeong-Ju,Second coding round date
@@ -10,7 +10,8 @@ coder2_annotation_end,2026-03-04,Email confirmation from Yeong-Ju,Single coding 
 coder3_annotation_start,2025-11-25,Email thread on RA batch analysis (Nov-Dec 2025),Batch coding start date (pre-validation phase; first logged case entries dated 2025-12-01)
 coder3_annotation_end,2025-12-11,Email thread on RA batch analysis (Nov-Dec 2025),Batch coding end date (pre-validation phase)
 coder3_coding_mode,Per-batch coding pass,Email thread on RA batch analysis (Nov-Dec 2025),Coding and review conducted by student batches before coder1/coder2 confirmation rounds
-coder3_phase,Early exclusion screening before formal two-coder confirmation,Email thread on RA batch analysis (Nov-Dec 2025),Documented to clarify chronology
+coder3_phase,Operational exclusions during batch pipeline review before formal two-coder confirmation,Email thread on RA batch analysis (Nov-Dec 2025),Eight segments logged in coder3_annotations.csv
+coder3_operational_exclusions_count,8,validation/coder3_annotations.csv,Excluded during running; separate from five-case finalized register
 adjudication_date,2026-03-04,Email confirmation from Yeong-Ju,Consensus date for listed exclusions
 reliability_computation_date,2026-03-04,Validation protocol,Subset agreement metrics are reported in reliability_summary.csv; full reliability analysis is not released in this package
 codebook_version,Operational criteria in repair detector prompt,Validation protocol,See code/scripts/repair_detector.py

@@ -15,6 +15,14 @@ A sequence is retained as a repair only when both conditions are met:
 
 Surface-level misalignments that did not impede mutual understanding were excluded.
 
+## Operational exclusions during batch pipeline review (Coder 3)
+
+During Nov-Dec 2025, Coder 3 (Jasmine Huynh) ran the repair pipeline per student batch and excluded segments during running and cross-checking when they failed the operational repair definition (for example, transcript unavailable, no observable breakdown, or insufficient evidence).
+
+- Eight segments are logged in `coder3_annotations.csv`.
+- These operational exclusions are separate from the five cases later confirmed by Coders 1 and 2 (Feb-Mar 2026; see below).
+- The manuscript validated count (N = 586) reflects the finalized five-case exclusion register in `exclusions_from_human_review.csv`.
+
 ## Cleaning procedure (Feb-Mar 2026 review workflow)
 
 1. Search `repairs_export.xlsx` `Brief notes` column for the following markers:

@@ -28,7 +28,7 @@ Included scope is limited to interactional repair analysis. Out-of-scope analyse
 - `code/` - Reproduction code (`src`, `scripts`, `config`) for repair workflow.
 - `data/` - Publication-approved de-identified extracted text and coded repair JSON guidance.
 - `results/` - Frozen tables and statistics used in manuscript reporting.
-- `validation/` - Two-coder validation files and adjudication templates.
+- `validation/` - Human validation files (two-coder confirmation plus supplementary batch-pipeline screening).
 - `docs/` - Data governance, model disclosure, and journal submission support docs.
 
 ## Reproduction Overview
@@ -84,6 +84,7 @@ Validation files and exclusion-audit documentation are in:
 - `validation/validation_agreement_note.md`
 - `validation/coder1_annotations.csv`
 - `validation/coder2_annotations.csv`
+- `validation/coder3_annotations.csv`
 - `validation/adjudication_log.csv`
 - `validation/reliability_summary.csv`
 
