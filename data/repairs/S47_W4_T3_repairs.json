@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S47_W4_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner expresses confusion and asks the bot to repeat its previous question. The bot rephrases its question about the learner's class presentation, which resolves the learner's confusion."
+  },
+  {
+    "dialogue_id": "S47_W4_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner clarifies the nature of the task",
+    "evidence_summary": "The learner clarifies that the presentation is fictional, which the bot initially misunderstood. The bot acknowledges this clarification and adjusts its approach, indicating understanding of the fictional scenario."
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "dialogue_id": "S33_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous question – learner unsure about inspection time flexibility",
+    "evidence_summary": "The learner asks if the inspection time is fixed or flexible. The bot clarifies that the inspection runs for 30 minutes, allowing flexibility. The learner confirms understanding, resolving the issue."
+  },
+  {
+    "dialogue_id": "S33_W2_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unsure about 'register'",
+    "evidence_summary": "The learner asks if 'register' means creating an account. The bot clarifies it's just providing a name and email. The learner acknowledges understanding, resolving the confusion."
+  },
+  {
+    "dialogue_id": "S33_W2_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      22,
+      23,
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner clarifies 'unfurnished'",
+    "evidence_summary": "The learner seeks clarification on 'unfurnished'. The bot explains that kitchen appliances are included but no furniture. The learner confirms understanding, resolving the issue."
+  },
+  {
+    "dialogue_id": "S33_W2_T2",
+    "repair_id": 4,
+    "turn_indices": [
+      28,
+      29,
+      30
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "calculation – learner needs help with bond calculation",
+    "evidence_summary": "The learner struggles to calculate the bond amount. The bot provides the correct calculation. The learner acknowledges understanding, resolving the issue."
+  },
+  {
+    "dialogue_id": "S33_W2_T2",
+    "repair_id": 5,
+    "turn_indices": [
+      36,
+      37,
+      38
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner clarifies 'guarantor'",
+    "evidence_summary": "The learner asks for clarification on 'guarantor'. The bot explains it means someone responsible if the learner doesn't pay. The learner confirms understanding, resolving the issue."
+  }
+]

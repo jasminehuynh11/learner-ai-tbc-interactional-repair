@@ -1,0 +1,155 @@
+{
+  "student_id": 31,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S31_W3_T1",
+  "source_file": "data\\raw\\#31\\#31\\#31. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, good morning. I would like to tell you about the Internet. It stopped working.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Good morning! I'm sorry to hear that you're having trouble. Could you tell me if there are any specific error messages, or is the connection just not working at all?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“I can still see the connection on my phone, but if I'm going through Facebook or surfing the internet, it's not loading.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I see, so it sounds like you're experiencing a connection issue. Let's try a couple of things. Have you tried restarting your router or modem?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yes, I have restarted it like 3 times or 4 times, but it's still not working.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it. Thanks for trying that. It might be a broader issue. Could you please confirm if other devices are also unable to connect, or is it just one device?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“It's about my phone and my laptop. My mom and my dad are not here now, so I cannot check if the device can connect or not.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Understood. It sounds like the issue might be with your network. I recommend contacting your Internet service provider for further assistance. They can check if there's an outage in your area. Would you like me to provide their contact details, or is there anything else I can help with?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "You're welcome! If you need anything else, feel free to ask. Have a great day!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yeah, can I ask about, is there a technician available today? Like, yeah.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Certainly! If you need a technician to visit, I can help schedule one for you. Could you please provide your address and a"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yeah, because I'm really, like, busy and I have to do my deadline, my...”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "I understand."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yeah, I have to remember deadlines so that it's really good that you can sell someone really quickly.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I’ll do my best to assist you quickly. Could you please provide your address so I can check the earliest available appointment for a technician?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“There is 1-2-3-lambtang-2-2-9-9 in this URL.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Thank you for the address. Let me check the earliest available technician appointment for you. Please hold on for a moment."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Can I ask that can you check if there's an outage in the area, like also other houses and other people cannot connect with the internet?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Certainly, let me check if there's an outage in your area. Please give me a moment."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“How are you there? How are you doing with your research?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Thank you for your patience. I've checked and there is currently no outage reported in your area. We can proceed with scheduling a technician visit. Would you like the earliest available appointment, or do you have a preferred time?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“The first one, please, yeah, as quick as possible.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Got it. I'll schedule the technician for the earliest available slot today. You should receive a confirmation shortly. Is there anything else I can assist you with?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“So you have to try something before you send someone.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course. Before the technician arrives, you can try a few troubleshooting steps: Check if the cables are securely connected to your modem/router. Restart your modem/router one more time. Try connecting with a different device if possible. If the issue persists, the technician visit will be helpful. Let me know if you need further assistance!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I should wait here when someone call me when they come.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely. The technician will contact you when they are on their way. You should receive a confirmation and an estimated time of arrival soon. If you have any other questions, feel free to reach out. Thank you for your patience!"
+    }
+  ]
+}

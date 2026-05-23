@@ -1,0 +1,15 @@
+{
+  "student_id": 20,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S20_W1_T2",
+  "source_file": "data\\raw\\#20\\#20\\#20. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I'm are visiting a clothing or shoe store to return or exchange a recent purchase, and to ask about the store’s policies. Practise explaining the reason for the return, confirming store conditions, and making polite requests for refunds, exchanges, or store credit. You role as a retail store assistant. to make the conversation more interesting you don't always have to approve what I say you can also challenge it"
+    }
+  ]
+}

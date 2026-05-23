@@ -1,0 +1,255 @@
+{
+  "student_id": 14,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S14_W1_T3",
+  "source_file": "data\\raw\\#14\\#14\\#14. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Booking a Restaurant Table"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "\"Hi, l'd like to book a table for five.\""
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, l'd be happy to help with that! What date and time would you like to reserve the table for?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "\"Do you have a table available on this Sunday at 7pm?\""
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Let me check that for you. In the meantime, could you let me know if you have any special requests or preferences for your table?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "\"I'm booking for my friend's birthday.\""
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Oh, that sounds lovely! I'll make sure to note that it's for a birthday celebration. Anything else special you'd like us to arrange for the occasion?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "\"Do you offer any singing or decorations?\""
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "We do offer a birthday song and some simple decorations! Would you like us to arrange those for your friend's birthday?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "\"Can we sit near the window, if possible?\""
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course! I'll make a note to seat you near the window. Anything else I can help with for the reservation?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "\"Do you have vegetarian or halal options?\""
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, we do offer both vegetarian and halal options on our menu. I'll make a note of that for your party as well. Anything else I can assist you with?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "\"Can I change the private room instead of near the window seat?\""
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange a private room for you. I'll switch that note from the window seat to the private room. Is there anything else you'd like to customize for the celebration?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "\"Is it possible to bring some present?\""
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Of course, you're more than welcome to bring presents! We can also help you with a little setup if you'd like. Just let me know the details."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "\"We are going to have dinner at 7pm, and then we are going to celebrate for my birthday at 8pm.\""
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That sounds like a fantastic plan! I'll make sure everything is set up for the celebration at 8 p.m. and that you have a wonderful dinner beforehand. If there's anything else, just let me know!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "\"Would it be possible to separate the bill for each person at the end?\""
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely separate the bill for each person at the end of the meal. I’ll make a note of that for you as well. If there’s anything else, just let me know!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "\"Will I get the confirmed message?\""
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, absolutely! I’ll send you a confirmation message with all the details once everything is finalized. If you need any changes after that, just let me know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "\"Could you confirm the time and name for me?\""
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course! So, your reservation is for this Sunday at 7 p.m. for a party of five, and it’s for your friend’s birthday. I’ll send you a confirmation with all these details. If there’s anything else, just let me know!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "\"Great, I'll see you at 7 p.m. on Sunday.\""
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Perfect! We look forward to seeing you then. If you have any other questions before Sunday, just reach out. Have a wonderful day! Task 3: Returning or Exchanging Clothes"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "\"Hello, l'd like to return these shoes.\""
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Of course! I'm here to help. May I ask the reason for the return and if there's anything specific you'd like to exchange them for?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "\"I bought them online, but it's too small for me.\""
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Got it, that happens sometimes! No worries. Do you have the order number handy, and would you like a larger size or a different style?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "\"Can I get a refund or store credit?\""
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. Do you have the receipt or the original payment method with you so we can process that refund?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "\"Yes, I have the receipt here.\""
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Perfect! That makes it nice and easy. Could you please show me the receipt, and let me know if you'd prefer the refund back to the original payment method or as store credit?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "\"Yes, I have the receipt here. Do you accept returns online items? Do you accept return online items?\""
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Yes, we absolutely do! As long as they're in their original condition and within the return period, it's all good. Is there anything else I can help you with while we're at it?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "\"That's perfect. Thank you very much. Today, I'm looking for another shoes.\""
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "You're very welcome! I'd be happy to help you find the perfect pair. Do you have a particular style or color in mind that you're looking for today?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "\"I'm looking for running shoes and color is purple.\""
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Nice choice! Purple running shoes sound great. Do you have a specific brand or size in mind, or would you like me to recommend some options for you?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "\"I always wear Adidas running shoes.\""
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Got it, Adidas it is! I'll find you some great purple options from Adidas. Could you let me know your shoe size so l can narrow it down for you?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "\"My size is 6.5.\""
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Perfect, size 6.5 it is! I'll find some stylish purple Adidas running shoes for you. Just give me a moment, and I'll show you what we have!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "\"These shoes are good for me. I will take them.\""
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Fantastic! I'm so glad you like them. I'll just ring them up for you, and then you'll be all set. Anything else I can help with today?"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "\"That's all today. Thank you so much.\""
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. Have a great day and enjoy your new shoes!"
+    }
+  ]
+}

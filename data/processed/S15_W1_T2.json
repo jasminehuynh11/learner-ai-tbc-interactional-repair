@@ -1,0 +1,95 @@
+{
+  "student_id": 15,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S15_W1_T2",
+  "source_file": "data\\raw\\#15\\#15\\#15. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a table at a restaurant 🗨️"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’d like to book a table for two tonight."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course! What time would you like to come in tonight?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I would like to go around 6 p.m. if it's okay."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure, 6 p.m. works fine. Would you prefer to sit indoors or outside on the terrace?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Perfect! How’s the weather there? Would you say the terrace has a nice vibe tonight?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Yeah, it’s a lovely evening—mild breeze and clear skies. The terrace has a great atmosphere right now. Would you like me to reserve a table out there for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "yeah, sure. Thank you!"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Great! I’ll reserve a terrace table for two at 6 p.m. tonight. Could I have your name for the booking, please?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Under the name of Natalia Cardona"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Perfect, Natalia. Your table for two on the terrace at 6 p.m. is all set. Would you like me to note any special requests—like a birthday, dietary preference, or seating preference?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yeah, it's my friend's birthday, and she's vegetarian, actually"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it, thanks for letting me know! We’ll make sure there are good vegetarian options and a little birthday touch for your friend. Would you like us to bring out a small dessert with a candle after your meal?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "That would be great , thank you."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Perfect, we’ll arrange that for you. Everything’s confirmed for tonight at 6 p.m.—terrace table for two, vegetarian-friendly menu, and a birthday dessert. See you this evening, Natalia!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Thank you, see you!"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "You’re very welcome, Natalia. See you tonight—enjoy the celebration!"
+    }
+  ]
+}

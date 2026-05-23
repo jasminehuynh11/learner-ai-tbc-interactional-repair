@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S34_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      17,
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "misunderstanding of the term 'urgency' as 'Gogurjeet'",
+    "evidence_summary": "The learner misunderstood the term 'urgency' as 'Gogurjeet' in turn 17. The bot clarifies the intended meaning in turn 18, and the learner responds appropriately in turn 19, indicating the misunderstanding was resolved."
+  }
+]

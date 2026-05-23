@@ -1,0 +1,340 @@
+{
+  "student_id": 18,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S18_W1_T1",
+  "source_file": "data\\raw\\#18. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, I would like to order a coffee today!”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! What kind of coffee would you like today — something like an espresso, latte, or cappuccino?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, could I please get a matcha latte?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, a matcha latte sounds great! Would you like it hot or iced?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“HOTAS.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Great, a hot matcha latte it is! Would you like any specific milk, like almond, oat, or regular dairy?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I would like alt-milk, thank you.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect, oat milk it is! Would you like to add any sweetener or maybe some flavoring, like vanilla?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“No, thank you.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "All right, that sounds perfect! So, just a hot matcha latte with oat milk. Is there anything else I can get for you today?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Actually, I want to ask, is the banana bread gluten-free?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That's a great question! Let me check on that for you. Our banana bread does have a gluten-free option. Would you like to add a slice to your order?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“No, thanks. But I'd like a slice of cake.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it! We have a few cake options. Is there a particular type of cake you're in the mood for, like chocolate, cheesecake, or something else?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I would like chocolate, thanks.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Awesome, a slice of chocolate cake it is! So, to recap, you’ll have a hot matcha latte with oat milk and a slice of chocolate cake. Anything else I can do for you?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“No thanks, and how long will that take?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "It should be ready in just a few minutes, probably around three to five minutes at most. We'll have it fresh and waiting for you!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, thank you, and I'll wait near the door, thanks.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You're very welcome! I'll let you know as soon as it's ready. Thanks for your order, and we'll see you in just a bit!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You're welcome!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Sorry, hello, uh, do you, um, do you have anything vegan for my friend? How?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course! We do have several vegan options. For drinks, we have almond milk, oat milk, and soy milk. And for food, we have vegan pastries and snacks as well. Let me know what your friend might be interested in!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Wait a minute. I'd like to check. Sorry.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "No worries at all, take your time! Just let me know if you have any questions or need any help."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Alright, sounds good! Just let me know what you'd like to pick, and I'll make sure everything’s set."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yes, she'll have a slice of, um, no, a banana bread with gluten-free and she'll like espresso.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Perfect! So that's one gluten-free banana bread and one espresso for your friend. That sounds lovely! Let me know if"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Yes.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Awesome, that’s all set then! I’ll get everything prepared for you and your friend. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Um, yes, and is there a combo price or something else?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely! We do have combo deals, and if you get both the banana bread and the espresso, we can offer you a little discount. I’ll make sure to apply that for you! Let me know if you’d like any more details."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Okay. Oh, thank you. So I'll change my cake to banana bread so that makes a combo with two banana breads and one matcha latte and one espresso, right?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Yes, exactly! So that’s two slices of banana bread, one hot matcha latte, and one espresso. That definitely gives you a nice combo! I’ll get that all ready for you. Let me know if there"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You're very welcome! If you need anything else at all, just let me know. Otherwise, I’ll have everything ready shortly!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Okay, thank you very much. Have a good day!”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "You too! Thanks so much, and have a wonderful day. If you need anything else, just give me a shout. Take care!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Hello, um, what do you recommend today?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Hello! Well, today we’ve got some delicious options. Our matcha latte is always a favorite, and our chocolate cake is really popular as well. If you’re in the mood for something savory, we’ve got some great vegan pastries too. Let me know what you’re in the mood for!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Okay, and what is your most popular drink?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Our most popular drink is definitely the matcha latte, especially with oat milk. It's a big hit with our regulars! But if you're looking for something different, we also have some fantastic coffees and specialty teas. Let me know what sounds good to you!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Okay, and what's the difference between a flat white and a latte?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Great question! So, a flat white typically has a stronger espresso-to-milk ratio and a velvety microfoam, making it a bit more intense and less milky than a latte. On the other hand, a latte has more steamed milk and a lighter layer of foam, giving it a creamier, smoother texture. So it really depends on how strong and creamy you like your coffee!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Okay, appreciate your help. And I'd like to ask, is there a student discount?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely! We do offer a student discount. Just show your student ID when you order, and we’ll apply that discount for you. Let me know if you need any other info!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Okay, thank you very much. Um, then.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "You’re very welcome! And if you have any more questions or need anything else, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Yes, and I'd like to ask you about what kind of beans do you use for your espresso for my friends.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Of course! We use a blend of high-quality, ethically sourced Arabica beans, and they’re roasted locally for maximum freshness and flavor. It gives the espresso a nice, rich, and balanced taste. If your friend has any preferences, just let me know!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Oh, so your beans are sourced from Arabic.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Yes, exactly! We carefully select Arabica beans, known for their smooth and complex flavor profiles. It definitely makes a difference in the taste of our espresso!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“OK, and about brewing methods, I've never tried cold brew. What is like?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Great question! Cold brew is made by steeping coarsely ground coffee in cold water for an extended period, usually around 12 to 24 hours. The result is a smooth, less acidic coffee with a naturally sweet flavor. It’s really refreshing, especially over ice!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Okay, great. Thank you. And I'm interested in trying something new today. Can you make it have strength and without milk?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! I can definitely adjust the strength to be a bit lighter and use oat milk for a creamy, dairy-free option. That sounds like a delicious choice! Let me know if there’s anything else you’d like to customize."
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Oh, sorry, I'd like to change it to...”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "No problem at all! Just let me know what you’d"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“No, no, no, I'd want to change to AltMilk to...”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Got it, no worries!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Almond milk, thank you.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Perfect! We’ll switch it over to almond milk for you. That sounds great. If there’s anything else you’d like to tweak, just let me know!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“Thank you. No, thank you. That's it. That's it. All done, and have a good day.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. Have a fantastic day, and enjoy your drinks and treats! Take care!"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "student_id": 44,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S44_W1_T2",
+  "source_file": "data\\raw\\#44\\#44\\#44. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Q2-🍽️Booking a table at a restaurant 🗨️“Hi, I’d like to book a table for two tonight.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Yes, it's my boyfriend's birthday, so if you can provide a birthday cake for her.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course, that sounds lovely! We can definitely arrange a birthday cake. Do you have any specific flavor or type of cake in mind?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yes, something with chocolate and fruit like strawberry, blueberries, so this type of fruit.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That sounds delicious! We'll make sure to have a chocolate cake with fresh strawberries and blueberries. Is there anything else you'd like us to include, like a special message on the cake?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yeah, like, happy birthday, Maria. And, uh, can I ask for a dark chocolate... ...cake?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, a dark chocolate cake it is! And we’ll have the message “Happy Birthday Maria” on it. Is there a particular time tonight that works best for your reservation?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“at 9, please.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Perfect, I'll book your table for two at 9 PM. Is there any particular seating preference you have, like indoors or outdoors, or maybe a quieter corner?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“It depends on the weather, but we prefer in general to stay outside.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Got it, we'll aim for an outdoor table, weather permitting. If anything changes, we'll let you know. Is there any specific cuisine or dietary requirement we should be aware of?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yeah, we are both vegetarians, so do you have vegetarian dishes or choice?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, we have plenty of delicious vegetarian options on the menu. I'll make sure to highlight those for you. Is there anything else you'd like us to prepare or any special requests?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Do you have the menu online or can I check some dishes online?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do have our full menu available online, and I can share the link with you. That way, you can browse through the dishes before your visit. Would that work for you?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Okay, perfect. And do you have a lot of wine selection?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yes, we do have a wonderful selection of wines, including some great vegetarian- friendly options. If you have any particular preference or type of wine you enjoy, just let me know, and we’ll make sure to have it ready for you."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Her favorite wine is Chardonnay, so if you have a good Chardonnay, I will take it.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Perfect! We'll have a lovely Chardonnay ready for you. I’m sure you’ll enjoy it. If there's anything else you think of before your visit, just let me know!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Do you do something special like something with fireworks or these things?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange something special! We can have a little sparkler or a small celebratory surprise for the birthday. Just let us know what you’d prefer, and we’ll make it memorable!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Do you have some standards or something that you usually do for it?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, we do have some standard celebratory touches, like a complimentary dessert or a special toast from our staff. We can definitely personalize it even more if you’d like. Just let us know, and we’ll make it extra special!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Okay, perfect.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Great! I'm really looking"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“And can I ask for a table that is not surrounded by a lot of other tables, like something more private?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course, we can definitely arrange a more private table for you, away from the crowd. I'll make sure to find a cozy, quieter spot. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“What time do you close the kitchen and the restaurant?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Our kitchen usually closes around 10 PM, and the restaurant itself closes a bit later, around 11 PM. So you’ll have plenty of time to enjoy your evening. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Okay, thank you. So, can you make a summary of all about the time and these things?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely! So, we have your reservation for two at 9 PM tonight. You'll have a dark chocolate cake with strawberries and blueberries, and a special message saying \"Happy Birthday Maria.\" We'll also have a lovely Chardonnay ready for you, and a more private, quieter table outdoors. The kitchen closes at 10 PM, and the restaurant at 11 PM. If there's anything else, just let me know!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“And don't forget the vegetarian meal.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Absolutely, I’ve got that covered as well! We’ll ensure there are plenty of delicious vegetarian options for you both. Everything’s set for a wonderful evening. If anything else comes to mind, just let me know!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Okay, thank you so much, have a nice day.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You're very welcome! It’s my pleasure. Have a wonderful celebration, and if you need anything else, just reach out. Take care and have a great day!"
+    }
+  ]
+}

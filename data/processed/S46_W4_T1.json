@@ -1,0 +1,220 @@
+{
+  "student_id": 46,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S46_W4_T1",
+  "source_file": "data\\raw\\#46\\#46. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi there, I'm sure you want to practice English scenario with you.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to help! Just let me know what kind of scenario you have in mind, and we can jump right into it. Whether it’s a café setting, a travel situation, or anything else, just let me know!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Okay, so I'm trying to speak with the academic advisor about my current study plan. And you will be the university advisor. And I will try to ask you some questions about my study plan. And try to discuss exploring course structure, comparing qualifications, and evaluating career outcomes.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, that sounds great! I'll be your academic advisor. So, let's start with your current study plan. What program or major are you pursuing right now? And then we can dive into your questions about course structure and career outcomes."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Cool, so let's get started.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely! So, to begin, can you tell me which program or major you're currently enrolled in? And then we can explore the courses and career paths related to that field."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yeah, so hi, I'm currently studying the engineering, but I'm not sure it's the right fit.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I see, that makes sense. Well, we can definitely explore that further. Could you share a bit about what drew you to engineering in the first place, and what areas or specialties within engineering interest you the most?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Sorry, can you repeat the question again?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course! I was just asking what originally drew you to engineering and what specific areas or specialties within engineering you’re most interested in. That’ll help us figure out if it’s the right fit for you."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Actually, what brings me to study engineering is because I'm going to contribute to the community. I love problem-solving. I love solving big problems. And one of the aspects of my research in engineering is civil engineering.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That’s wonderful! It’s great that you’re motivated by problem-solving and helping the community. And civil engineering is definitely a fantastic field for that. So, would you like to explore more about the specific courses in civil engineering, or are you curious about career paths and opportunities after graduation?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yeah, I want to learn both about that, so I want to learn what I will study at civil engineering.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! So, in civil engineering, you'll typically study courses like structural analysis, fluid mechanics, construction management, and transportation engineering. And then, after graduation, civil engineers have a wide range of career paths, like working in construction firms, government agencies, or even consulting. Let me know if you'd like more details on any particular area!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“So, can you explain...”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course! I’d"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“A chat line generally about different firms you just mentioned like Structural, Construction, Garment, or Consulting.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely! So, in general, construction firms focus on the hands-on building and implementation of projects. Government agencies often handle public infrastructure, regulations, and urban planning. And consulting firms usually provide expert advice, design, and project management for various clients. Let me know if you’d like to dive deeper into any of those areas!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yeah, that would help me to explore the different career pathways I can go through.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Exactly, it definitely"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Can you talk more about Structural Data Constructing?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Of course! Structural engineering focuses on designing and analyzing buildings, bridges, and other structures to ensure they’re safe and stable. Structural engineers often work closely with construction firms to bring designs to life, and they also ensure that the materials and techniques used are appropriate. It’s a really impactful and rewarding specialty! Let me know if you’d like more details on that."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yeah, so just question, I do everything I need, I do experience before I apply for any...”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, that makes"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "No worries at all! Feel free to ask me anything whenever you're ready, and I'm happy to help you prepare and explore everything you need before you apply. Just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "All right, sounds good! Whenever you're ready, we can dive deeper into any details or questions you have. Just let me know how I can assist, and I’m here to help!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Also, can you tell me what type of job are for graduating students?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Of course! After graduating"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“I foresee you engineering the sample.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely! After graduating in civil engineering, you could pursue roles such as structural engineer, transportation engineer, construction manager, or even urban planner. You could also work in consulting firms, government agencies, or even start your own business. It really opens up a lot of exciting possibilities!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Like, you know, like, for next year, like, what should I do if I want to apply for some kind of training or internship for next year?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely! So, if you’re looking to apply for internships or job opportunities during college, it’s great to start by building a strong resume with any relevant coursework, projects, or even volunteer work. Networking with professors, attending career fairs, and reaching out to companies for informational interviews can also be super helpful. And definitely make sure to highlight any technical skills or software knowledge you have. If you need more specific tips, I’m here to help!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, I’m glad"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“How do I find alumni who have taken a similar path?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That’s a great question! You can often find alumni through your university’s alumni network or career services office. LinkedIn is also really useful for connecting with alumni from your program. You can join university-specific groups or even attend alumni events and networking sessions. It’s a great way to gain insights and advice!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions or need any more guidance along the way, just let me know. I’m always here to assist!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Thanks so much. Maybe next, you know, if I need something help on my application.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "That sounds perfect! I’m always happy to help whenever you need it. Just reach out anytime, and best of luck with everything!"
+    }
+  ]
+}

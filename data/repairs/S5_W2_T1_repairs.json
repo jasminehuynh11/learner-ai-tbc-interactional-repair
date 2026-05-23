@@ -1,0 +1,62 @@
+[
+  {
+    "dialogue_id": "S5_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially states a preference for morning but then corrects to afternoon due to having morning classes. The bot acknowledges the preference for afternoon, indicating the self-correction was successful."
+  },
+  {
+    "dialogue_id": "S5_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      23,
+      24
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner starts to say 'check out with' but corrects to 'get a regular checkup as well.' The bot confirms the request for a 3 p.m. slot and a regular check-up, resolving the self-correction."
+  },
+  {
+    "dialogue_id": "S5_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      33,
+      34
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner asks if they need to bring their Medicare card, repeating the question for clarity. The bot confirms it's a good idea to bring it, resolving the learner's concern."
+  },
+  {
+    "dialogue_id": "S5_W2_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      35,
+      36
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner clarifies lack of Medicare card",
+    "evidence_summary": "The learner clarifies they are an international student without a Medicare card. The bot reassures them that student health insurance can be used, resolving the issue."
+  },
+  {
+    "dialogue_id": "S5_W2_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      31,
+      32
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unsure about extra expense",
+    "evidence_summary": "The learner asks if there is any extra expense for urgent appointments compared to normal waiting. The bot clarifies that there is no extra fee, resolving the learner's concern."
+  }
+]

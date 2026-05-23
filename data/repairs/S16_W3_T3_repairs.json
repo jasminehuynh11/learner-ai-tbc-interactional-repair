@@ -1,0 +1,92 @@
+[
+  {
+    "dialogue_id": "S16_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      2,
+      3
+    ],
+    "initiation": "LI",
+    "resolution": "U-A",
+    "trigger": "learner's unclear task introduction",
+    "evidence_summary": "The learner's introduction is unclear and does not align with the expected task format. The bot proceeds with its own introduction and question, indicating a lack of alignment but not explicitly addressing the learner's introduction."
+  },
+  {
+    "dialogue_id": "S16_W3_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      16,
+      17,
+      18
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's unclear description",
+    "evidence_summary": "The learner provides additional details about the wallet, but the description is unclear and does not prompt any clarification or correction from the bot. The bot does not acknowledge any misunderstanding, and the conversation moves on without resolving the ambiguity."
+  },
+  {
+    "dialogue_id": "S16_W3_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      20,
+      21,
+      22
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "lack of understanding – learner didn't catch bot's previous utterance",
+    "evidence_summary": "The learner asks 'Could you repeat, please?', indicating they did not understand the bot's previous turn. However, the bot does not respond to this request within the provided turns, leaving the repair unresolved."
+  },
+  {
+    "dialogue_id": "S16_W3_T3",
+    "repair_id": 4,
+    "turn_indices": [
+      26,
+      27,
+      28
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding of bot's stated actions/timeline",
+    "evidence_summary": "The learner asks 'Did you check?' despite the bot repeatedly stating it *will* make the call. The bot then responds as if it just completed the call, providing the outcome. The learner's 'Oh, really?' in turn 28 indicates surprise but acceptance of the new information, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S16_W3_T3",
+    "repair_id": 5,
+    "turn_indices": [
+      34,
+      35,
+      36
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's mispronunciation or misstatement of 'someone' as '7-1-1'",
+    "evidence_summary": "The learner asks 'What happens if a 7-1-1 finds it?', but the bot does not address or correct this misstatement. The conversation continues without resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S16_W3_T3",
+    "repair_id": 6,
+    "turn_indices": [
+      42,
+      43,
+      44
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – bot assumes 'flooding'",
+    "evidence_summary": "After the learner mentions a 'big issue', the bot incorrectly assumes it's 'flooding'. The learner then clarifies that the air conditioner isn't working, and the bot acknowledges this clarification, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S16_W3_T3",
+    "repair_id": 7,
+    "turn_indices": [
+      55,
+      56,
+      57
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "language switch without prior trouble",
+    "evidence_summary": "The learner switches to Portuguese without any prior indication of trouble. The bot continues in English, but the learner does not revert to English in the next turn, leaving the issue unresolved."
+  }
+]

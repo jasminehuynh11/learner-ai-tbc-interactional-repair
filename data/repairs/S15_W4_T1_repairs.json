@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S15_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      11,
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous question – learner confused by bot's question",
+    "evidence_summary": "The learner was confused by the bot's question about being 'not ready' and initially thought it referred to skills. The learner clarifies that it is about confidence. The bot acknowledges this clarification and provides advice, resolving the issue."
+  }
+]

@@ -1,0 +1,240 @@
+{
+  "student_id": 25,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S25_W1_T2",
+  "source_file": "data\\raw\\#25\\#25\\#25. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Today, we are going to talk about ordering coffee at a café."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely! For a cozy morning, I'd definitely recommend our flat white or maybe a cappuccino. If you're in the mood for something a bit different, our oat milk latte is also a great choice. How does that sound? And let me know if you have any particular preferences!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "The transcript is unavailable"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Great question! A flat white is basically similar to a latte, but it has a higher ratio of coffee to milk and is topped with a velvety microfoam. It's smooth, creamy, and really highlights the espresso flavor. It's definitely a favorite for many coffee lovers!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "\"is it famous for Australia?\""
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "It definitely has a bit more of a bold coffee flavor compared to a latte, but it's still very smooth and balanced. If you enjoy a strong but creamy coffee, you'll likely love it! And of course, we can always customize it with your choice of milk or even add a little flavor if you like."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "\"Actually, I can try.\""
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That sounds great!"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "The transcript is unavailable"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Perfect! I'm sure you'll enjoy it. I'll get that flat white ready for you, and if you have any other questions or want to adjust anything, just let me know. Enjoy your coffee experience!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "\"I want to buy something to eat, so do you rer mend something?\" Task 2: Booking a Restaurant Table"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Good evening, Harbourview Bistro, this is Sam speaking. How can I help you today?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "The transcript is unavailable"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course, take your time. Whenever you’re ready, just let me know the details, and we’ll get everything sorted out for you!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "You might be able to continue going for two or three."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, we can"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "See you next week."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Got it! So, you’re looking to book a table for two or three next weekend. Could you let me know the exact date and time you have in mind? And also, do you have any seating preferences?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "I'm going to... The transcript is unavailable"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Just let me know whenever you’re ready with the details, and we’ll make sure everything’s perfect for your reservation."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Okay, and can I request a tutorial setting?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course! We can definitely arrange a table by the window for you. I’ll make a note of that. Is there a particular time next weekend that works best for you?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "\"I'm looking for my friend's first name. Do you offer any ticket or ticketation?\""
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "That sounds lovely! I’ll make sure to have a cozy table ready for you and your friend. Just let me know the exact date and time that works best, and we’ll handle the rest!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Have a great show."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make a note of that as well. If you have any other special requests or need anything else, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "My friends use vegetarian, so do you prefer vegetarian or other options?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, we have a variety of options! We can definitely cater to Australian cuisine, and we also have some international dishes available. If you let me know what you and your friend prefer, I can give you some recommendations as well!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Thank you and also my friend has allergies so if she can't eat"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Got it, no worries at all! We’ll definitely take that into account and make sure to accommodate any allergies. If you could let me know what specific allergies your friend has, I’ll make sure we choose dishes that are safe and delicious for them."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Cheerio."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You’re very welcome!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "So, it's a menu online."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Our menu is available online, and I can share the link with you so you can browse through it at your convenience. Just let me know if you’d like that, and I’ll get it over to you!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "My name is Ayi."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Nice to meet you, Ai! I’ll make sure to note that down for your reservation. If there’s anything else you’d like to share or any other details you need, just let me know!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Can you hear me?"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Great! I’ve got everything noted down. If you have any other questions or need anything else as we get closer to the date, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Thank you. Thank you."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "I will be late today, so my friends can't eat at the restaurant first."
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "No problem at all! We’ll be ready whenever you arrive, and we’ll make sure your friend is comfortable as well. Just let us know if there are any changes or anything else you need. We look forward to having you both!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Okay, last, could you confirm the time and the name for me?"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely! So, we have your reservation under the name Ai, for next weekend, and we’ll hold a table for two by the window. Just let us know the exact date and time when you’re ready, and we’ll confirm everything for you."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "Thank you."
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you have any other questions or need further assistance, just let me know. I’m happy to help anytime."
+    }
+  ]
+}

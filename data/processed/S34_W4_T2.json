@@ -1,0 +1,345 @@
+{
+  "student_id": 34,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S34_W4_T2",
+  "source_file": "data\\raw\\#34\\#34\\#34. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I want to practice how to participate in group discussion and negotiating responsibilities. You are a project group member working in company Sydney.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I'll point the role of a co-worker. Please create realistic company working scenario and respond as if we are really there. Keep the conversation going naturally by asking at least 3 follow-up questions.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sounds great! Let’s dive in. So, as your coworker in our Sydney office, we’re working on that client presentation for the new marketing campaign. To start, do you have any initial ideas on the key points we should highlight in the pitch?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“We should set our deadlines today. Can we agree on who does what?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a great idea. Let’s make sure we clarify everyone’s responsibilities. For example, which sections of the presentation would you like to take on, and what do you think about the timeline for each part?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, here are four people.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect! With four"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“You're under current. Please make a presentation.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it! So,"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Me and Tom.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, so it sounds"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“We will make a speech and take a survey for customers.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Great, that sounds like a solid plan! So, to keep everything organized, how about we set specific deadlines for each part? For example, when do you think we should have the initial draft ready, and how do we want to divide the tasks between the team members?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I think I and Tan should finish our survey until this Friday. Then, you and Karen should finish your initial draft of presentation by Wednesday.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "That sounds like a solid timeline! So, just to confirm, we’ll have the survey completed by Friday, and the initial draft ready by Wednesday. Does that work for you, and is there anything else we need to consider for our roles?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I think we should survey first, so we have more time to write.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense! Starting with the survey will give us solid data to shape the presentation. So, let’s plan to check in mid-week to see how things are going. Does that sound good to you?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“So we are all agreed on the timeline.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yes, definitely! It looks like we're on track and have a clear plan. We’ll keep each other updated as we go along. If anything comes up or we need to adjust anything, we’ll handle it together. Sound good?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I have no problem, but I remember you have a lot of business this week, so don't you have any problem with this timeline?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "I appreciate you considering that! I’ll definitely manage my schedule to make sure everything stays on track. If anything unexpected comes up, I’ll let you know right away. But for now, I’m confident we’ll be able to meet our deadlines. Sound good?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Could you show me your draft of presentation on next Thursday once you and Karin finish it?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a plan! Once we’ve got the draft ready, I’ll share it with you on Thursday so we can review it together and make any necessary adjustments. That way, we’ll be all set for the final presentation. Sound good to you?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yeah.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Perfect! I'm looking forward to working on this together. If anything else comes up in the meantime, just let me know. Let’s make this project a success!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Yes, of course. Let's message each other if we run into problems.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a great approach. We’ll keep the communication open and tackle any challenges as they come. Looking forward to collaborating and making this project shine!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Should we check every day to stay on track?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "That’s definitely a good idea! A quick daily check-in will help us stay aligned and catch any issues early. Let’s plan to touch base briefly each day, and that way we’ll keep everything running smoothly. Sound good?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Yeah, good. So, could you upload your data and check our survey data online? We can use the Dropbox.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that! I’ll make sure to upload all the data to Dropbox, and we can review everything together. That way, we’ll have easy access and can keep everything organized. Sounds like a plan!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“I will tell you guys the password later.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "That sounds perfect! Just let us know whenever you’re ready, and we’ll be ready to go. Looking forward to collaborating and making everything run smoothly!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Okay, good luck. See you later.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Thanks so much! Good luck to you too, and we’ll definitely stay in touch. See you later! I want to practice how to respond to feedback or a performance review. You are a manager working in a company in Sydney. I'll play the role of an employee. Please create a realistic workplace scenario and respond as if we are really there. Keep the conversation going naturally by asking at least three follow-up questions.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, let's dive in! Manager: Thanks for meeting with me today. Overall, your performance has been really strong, especially in your teamwork and collaboration. One area we could improve on is the timely submission of reports. How do you feel about that? And could you share any challenges you faced that might have contributed to those delays? Also, what support or resources do you think would help you meet deadlines more effectively?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“So, let's start. Hi, we've just finished our group project. I'd appreciate your feedback on my contribution and communication.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Of course! I’m glad to hear you're eager for feedback. Overall, your contribution to the project was really solid, and your communication was clear and effective. One area we could refine is the way we manage timelines, especially when coordinating with the team. How do you feel about that? And do you have any thoughts on how we can improve our collaboration in future projects?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“I understand. I'll try to manage the schedule more efficiently next time.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "That sounds great! I appreciate your willingness to improve. Out of curiosity, do you think there are any specific tools or strategies that might help you keep track of deadlines better? And is there any additional support or guidance that you think would be beneficial for you moving forward?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Now, I'm considering to use Google Schedule to organize our project next time because it is very convenient to check the deadline and schedule each other online, and it's free.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "That’s a great idea! Google Schedule can definitely help streamline our planning. I’m curious, do you think it’ll be easy for the whole team to adopt that tool? And are there any other aspects of project management you’d like to improve as well?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“I believe it's very easy to adapt to use for everyone because user UI is very simple and is definitely user-friendly tools, so I support they can use Google Schedule easy.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "That makes perfect sense! It’s definitely reassuring that the tool is user-friendly. In that case, I think we’ll have a smooth transition. Is there any particular training or support you’d like to have as we get started with it? And do you have any other suggestions for improving our workflow moving forward?"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Well, let me see.”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Absolutely, take your"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“I strongly recommend using Dropbox as well, because sometimes, some people forgot”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "That’s a great point!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“I forgot to submit their documentation, but if they use Google Schedule and Dropbox, I can remind them easily and they can submit the document as soon as possible.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Exactly, that combination will definitely help keep everyone on track and ensure that nothing falls through the cracks. I’m glad you brought that up! Is there anything else you’d like to discuss or any other tools you think could support our workflow?"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Could you give an example of something I did this well and something I could improve?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Absolutely! One thing you did really well was your proactive communication with the clients; you kept them informed and maintained a positive relationship. On the other hand, one area for improvement would be to set internal milestones a bit earlier to help avoid last-minute rushes. Does that sound helpful? And do you have any specific areas you’d like more detailed feedback on?"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Thank you. I focus on improving my schedule, organize, and milestone, how to set milestone.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I’m confident that with a bit of practice, you’ll get even more efficient at setting those milestones. If you ever need any guidance or want to run through some strategies together, just let me know. I’m here to support you!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Could we schedule a follow-up meeting in a few weeks?”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! I'll go ahead and set that up. Is there a particular day or time that works best for you? And we can definitely go over your progress and any new goals then."
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Would you mind if we have a meeting next Saturday?”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Not at all, next Saturday works perfectly for me! I'll schedule it and send you the invite. If there's anything specific you'd like to cover during that meeting, just let me know."
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Could I”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“Could I reconfirm, just in case, Saturday is a holiday, despite holiday, could you have a meeting with me?”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Of course, I completely understand! If it’s a holiday, we can definitely reschedule to a more convenient time for you. Just let me know what works best, and we’ll make sure it’s comfortable for both of us. Thanks for letting me know!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“Yeah, Saturday is perfect for me, but for you, I'm really worried about that. Is it, Saturday, is it, Saturday is suitable for you?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "I really appreciate your consideration! Saturday is absolutely fine for me, and I’m happy to accommodate. So, let’s plan on that, and if anything changes, we can always adjust. Thanks again for being thoughtful about it!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“Thank you. I appreciate it.”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m always here to help. If you have any other questions or need anything else before our meeting, just let me know!"
+    }
+  ]
+}

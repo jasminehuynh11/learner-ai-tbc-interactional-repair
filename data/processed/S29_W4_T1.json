@@ -1,0 +1,200 @@
+{
+  "student_id": 29,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S29_W4_T1",
+  "source_file": "data\\raw\\#29\\#29\\#29. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "I’m your university academic advisor—could you briefly tell me what you’re currently studying or doing, and at what stage you are in your studies?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I am studying occupational therapy.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That's great! Occupational therapy is a wonderful field. Could you let me know what year you’re in, and if you have any specific goals or areas of interest within occupational therapy?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I have just started my study journey, so the whole period of studying occupational therapy would be 2.5 years.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, that sounds like an exciting journey ahead! As you're just starting, are you looking for guidance on course selections, or perhaps exploring potential career paths after graduation?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Right now, I'm frustrating with the...”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“support of the course.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "I understand; it can definitely be challenging at times. Could you share a bit more about what specific aspects you're finding frustrating, so I can help you more effectively?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I think the whole curriculum is quite tense, so I have lots of things to study each week.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I see, that can definitely"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“And I'm afraid that I cannot catch up easily.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "I understand, that can feel overwhelming. Let’s see how we can break it down. Are there any particular subjects or topics that you find especially challenging, or do you feel it’s more about managing the overall workload?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I think the most difficult part is doing the placement. I need to...”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I see, placements can"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Have great communication with others.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, strong communication skills are crucial. We can definitely work on strategies to help you feel more confident and prepared. Would you like some tips on improving communication skills, or do you have specific concerns about your upcoming placement?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yeah, I want to improve my communication skills.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! We can definitely focus on that. Would you like to start with some practical exercises, or maybe discuss some common scenarios that you might encounter during your placement?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I want to know is there any materials or an online platform I can use to practice communication skills?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, there are quite a few great resources out there! For example, platforms like Toastmasters can be really helpful, and there are also online courses on sites like Coursera or LinkedIn Learning. Would you like me to recommend some specific ones for you?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yes, also besides improving communication skills, I also want to know what I will face in a placement.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course, that makes sense! During your placement, you'll likely encounter real-world scenarios such as patient assessments, developing treatment plans, and collaborating with other healthcare professionals. We can definitely go over what to expect and how to prepare. Would you like to focus on any particular aspect of the placement right now?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I don't have much idea about the placement, so can you give me an overall preview of the placement?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely! In general, during your placement, you'll get hands-on experience working directly with patients under the supervision of licensed occupational therapists. You'll likely rotate through different settings, such as hospitals, rehabilitation centers, or community clinics. We'll also focus on building your clinical reasoning and communication skills. Let me know if there are any particular settings or tasks you’re curious about, and we can dive deeper!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Besides the difficulties in placement, I also want to talk about the career path for being an occupational therapist.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a great topic! Occupational therapy offers a variety of career paths, such as working in pediatrics, geriatrics, mental health, or even in ergonomic consulting. We can definitely explore the different specializations and potential opportunities. Is there any particular area of occupational therapy that interests you the most?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“How do I explore different career paths?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Great question! A good starting point is to connect with professionals in various fields through networking events, internships, or mentorship programs. You can also explore specialized courses or certifications to get a feel for different areas. Additionally, shadowing practitioners or attending professional conferences can give you valuable insights. If you’d like, I can suggest some specific resources or steps to help you get started."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Well, what should I do now and what should I prepare if I want to apply for internship next year?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That’s a great plan! To get started, I’d recommend focusing on building a strong foundational knowledge of your field, as well as honing your practical skills. You can also start crafting a polished resume and cover letter, and consider reaching out to potential mentors or faculty for guidance. Additionally, gaining some volunteer experience or shadowing opportunities now can really help. If you’d like, I can help you break down a step-by-step plan for the next few months!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“I also heard about that the school provides an OT-related part-time job for students. It is recommended for students to take part in that part-time job. Is this part-time job can enrich my experience in the occupational therapy field?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, participating in a part-time job related to occupational therapy can be incredibly valuable. It not only enhances your practical skills, but also gives you a firsthand look at different work environments and patient interactions. Plus, it’s a great way to build your professional network and strengthen your resume. I’d definitely recommend exploring that opportunity if it’s available to you!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Do you know how much is the paid of the part-time job?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "It can vary quite a bit depending on the institution and the location, but generally, part-time roles for students in the occupational therapy field can offer an hourly wage that’s competitive and fair. It might range from around minimum wage up to slightly higher rates, depending on your experience and the complexity of the tasks. If you’d like, I can help you look into specific opportunities at your school or in your area."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Thanks for your help, I will look into the recommendations and find out more about my career path.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I’m glad I could help. If you have any more questions along the way, feel free to reach out anytime. Best of luck with everything, and I’m sure you’ll do great!"
+    }
+  ]
+}

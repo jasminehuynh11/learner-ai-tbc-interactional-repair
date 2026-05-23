@@ -1,0 +1,13 @@
+[
+  {
+    "dialogue_id": "S18_W1_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner starts an utterance with an incomplete phrase ('if I buy this as a'), then pauses and rephrases their thought process ('yes, I take this out, maybe I think this is better') before formulating a clear question. This is a self-correction of an unclear initial utterance, initiated by the learner and successfully resolved as the question becomes clear."
+  }
+]

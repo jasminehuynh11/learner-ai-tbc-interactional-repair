@@ -1,0 +1,235 @@
+{
+  "student_id": 43,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S43_W3_T1",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an internet outage at your housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I'm good. I want to practice reporting an internet outage at my house. In this scenario, you will be the person working for the internet provider and I will be the customer.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! I'll be your internet provider representative. Let's get started. So, hello! Thank you for contacting us. How can I assist you today with your internet issue?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, my internet has stopped working.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“There are no signals in my apartment.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I understand, that sounds frustrating. Could you let me know if you've tried any troubleshooting steps so far, like restarting your router?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I did try it several times, but there's still no signal in my apartment. It was fine this morning, but now it won't connect.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, that definitely helps narrow it down. Could you tell me if there have been any outages reported in your area, or if you’ve noticed any other devices that are also affected?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I'm sorry, I don't think that I hear my neighbor mention about any outers in my area, can you please check it for me?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course, I can definitely look that up. Just a moment while I check the status for your area. In the meantime, could you confirm your address or the account number so I can look it up accurately?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, sure, Unit 3.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Thank you! Let me"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "All right, I’ve"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“As soon as 3 is time worth, please.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Got it, thank you for that. Let me just check the status for Unit 3 in your building. One moment, and I’ll let you know what I find."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, thank you for that. Did you find any information about the outreach in my area yet?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yes, I’m seeing that there is indeed a reported outage affecting your area right now. Our technicians are already working on it, and it should be resolved within the next few hours. Is there anything else I can help you with in the meantime?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "No worries at all! If you have any more questions or need further assistance, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“I just contacted my neighbor and he said that his internet is still working, so I think it's just the problem with my internet. So I wonder if, is there any technician available today to give me your support?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "I see, that definitely helps narrow it down. We can definitely arrange for a technician to come by today. Let me check the availability and schedule an appointment for you. Could you let me know what time works best for you?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“I will be at home from now until maybe 3pm and then I have to go to work.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Got it, that works perfectly. I'll arrange for a technician to come by before 3 PM today. I’ll confirm the appointment details and let you know once it’s all set. If anything changes, just let me know!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“I just want to make sure that this is not the problem of the internet provider and it's just a problem with my router. So I want to know what should I try before you send someone over.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense! One thing you could try is unplugging your router for about 30 seconds and then plugging it back in to see if that helps. Also, you could check if all the cables are securely connected. And if you have a spare router or modem, swapping that out could help as well. Let me know if you need more guidance on any of those steps!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yes, thank you. I think I have tried all of these three methods before, but it's still not working.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "I see, got it. In that case, it does sound like it might be something on our end, and we’ll definitely get that technician scheduled for you. If anything else comes up or you need more troubleshooting, just let me know. I’m happy to help!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yes, thank you, but this problem has happened three times this month. What can be done?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "I’m really sorry to hear that it’s been recurring so often. We can definitely look into it more deeply, maybe send out a specialist to investigate the root cause. We can also consider upgrading any equipment if needed. Let’s make sure we get this sorted out for good!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yes, thank you for your help, but I really like to make a complaint. Can you tell me about the process?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Of course, I completely understand. To file a complaint, you can either fill out a form on our website or we can document it right now and escalate it for you. I’ll make sure it’s passed along to the right team. Just let me know how you’d like to proceed, and I’m here to help every step of the way."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Yes, thank you. Maybe I will fill the form online first.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That sounds great!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“I really want my internet to be sorted out today because I really need to work, I have my study, I need to submit my work today, so who can I contact if this isn't resolved today?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "I completely understand how important that is. If it’s not resolved today, you can definitely reach out to our dedicated support line or our escalation team, and they’ll make sure to prioritize your case. I’ll also keep an eye on it and follow up to make sure everything is on track. Just let me know if you need anything at all!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“I want to check if, what if I change to another service plan, would it be better?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "That’s definitely something we can explore. We can review your current plan and see if another one might offer more stability or better speeds. I can definitely help you compare the options and find what suits your needs best. Just let me know if you’d like to go that route, and we can get started!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Oh, yes. Thank you. Please...”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely, I’m happy to help with that! Just let me know any specific preferences or requirements you have, and we’ll find the best plan for you. Feel free to let me know anytime!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“I think I'm happy with the internet plan that I have right now, so please can you recommend some similar plan within the same similar range with the current plan, please?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Of course! I can definitely do that. I’ll take a look at some plans that are similar in price and features to what you have now, and we’ll find the best match for you. I’ll make sure to keep everything convenient and effective. Just let me know if you have any specific preferences, and I’ll get that info for you right away!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Thank you so much. Yes, maybe I will just wait until you can give me some recommendations on different service plans. And I will definitely have a look because I experienced this outage for like three times this month and it affected my study dramatically.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "I completely understand, and I'm really sorry for the inconvenience. I’ll make sure to get those recommendations to you as soon as possible, and we’ll find a solution that works for you. In the meantime, if you need anything else or have any questions, just let me know. I’m here to help!"
+    }
+  ]
+}

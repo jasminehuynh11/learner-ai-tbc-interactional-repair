@@ -1,0 +1,210 @@
+{
+  "student_id": 37,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S37_W1_T1",
+  "source_file": "data\\raw\\#37\\#37\\#37. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering at a café 🗨️ “Hi, I would like to order a coffee today!”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! What kind of coffee would you like today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I would like a coffee with milk without sugar"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it — a coffee with milk, no sugar. Would you like that hot or iced?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Hot, please."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, one hot coffee with milk. What size would you like — small, medium, or large?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I'd like a medium coffee and a small coffee for my husband."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect, one medium and one small coffee, both with milk and no sugar — is your husband’s coffee also hot?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Please, coffee my husband, hot too, and small coffee."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure thing — both hot coffees, one medium for you and one small for your husband. Would you like to have them here or take them away?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "What do you suggest to eat while I drink my coffee?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Good question! We’ve got some nice pastries — croissants, muffins, and a few slices of cake. Do you prefer something sweet or more savory to go with your coffee?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I prefer eating sweet."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Nice choice! We’ve got chocolate muffins, almond croissants, and carrot cake. Which one sounds good to you?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yes, I can. Chocolate muffins and my husband's carrot cake."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Great! So that’s one chocolate muffin for you and one slice of carrot cake for your husband. Would you like me to warm them up a little?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "I love this song."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Oh, it’s a good one, isn’t it? We play it here a lot. Do you like listening to music while you have your coffee?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Yes, I like. I like music calm."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Nice! Calm music goes perfectly with coffee time. Do you usually listen to that kind of music at home too?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Yes, in the morning i like listening when I eat my breakfast"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "That sounds lovely — a calm start to the day. What do you usually have for breakfast?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Usually, I eat bread, eggs, and avocado, and drink coffee at the morning in my breakfast."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Mmm, that sounds delicious and healthy! Do you make your coffee at home the same way you order it here — with milk and no sugar?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "I drink coffee with milk and no sugar. I don't like sugar."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Got it — you really like your coffee pure! Do you prefer using regular milk or something like oat or almond milk?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "I use some things oat, some things almond, almond because I don't can drink milk, because I have lactose, I need lactose free."
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Ah, I see — you’re lactose intolerant, so you go for oat or almond milk instead. Would you like me to make your coffee with lactose-free milk today?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "I bought the milk lactose-free. Then, in the morning, I make my coffee."
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "That’s a smart choice! It’s nice to start the day with coffee you make yourself. Do you usually eat breakfast alone or with someone?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Every day I have, I eat my breakfast with my husband."
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That’s lovely — sharing breakfast makes mornings nicer. Do you and your husband like the same kind of coffee?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Yes, he drink the same coffee and eat it too."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "How nice — you two have the same taste! Do you both like going to cafés together sometimes, like today?"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Yes, we enjoy go in the restaurant and bars and coffees because we need eating the new food and have the more experience."
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "That’s wonderful — trying new food is such a fun way to spend time together. What kind of new food do you like to try most?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "Maybe if I went to Brazil, then now I stay in Australia, I eat new foods. But I prefer Brazilian food because maybe I think my natural foods. But I don't like industrial foods, eating industrial foods."
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "I understand — you prefer fresh, homemade food, not processed ones. What’s your favorite Brazilian dish that you miss the most here in Australia?"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Polenta with free-range chicken meat"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Mmm, that sounds amazing — so comforting! Do you ever cook polenta and chicken yourself at home here?"
+    }
+  ]
+}

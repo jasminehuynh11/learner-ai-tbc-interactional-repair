@@ -1,0 +1,95 @@
+{
+  "student_id": 1,
+  "week": 3,
+  "task": 2,
+  "task_label": "T1",
+  "dialogue_id": "S1_W3_T2",
+  "source_file": "data\\raw\\#1\\#1\\#1. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, hello. You are a housing agent and I'm requesting maintenance or repairs in my rental property or something is broken or needs fixing.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hi there! I’m happy to help with that. Just let me know what specifically needs repair or what’s broken, and I’ll do my best to guide you through it or arrange for a technician if needed. Feel free to share any details!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Sí, en mi habitación no se enciende el acelerador.” “Yes, the accelerator doesn’t turn on in my room.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, that sounds like something we can definitely look into. We can arrange for a maintenance technician to come by and fix that shutter. Let me know if there are any other issues or if you have a preferred time for the appointment."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Ho chiamato questo oggi, scusate, ho bisogno di fixarlo.” “I called this today, sorry, I need to do it.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "No worries at all! I'll make a note that you'd like the repair done today. I’ll coordinate with our maintenance team and get it scheduled as soon as possible. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes. Can someone come today? They called me when the people arrived in here.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds good! I’ll make sure that the technician gives you a call before they arrive, so you’ll know exactly when they’re on their way. If you have any other preferences or details to share, just let me know!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yeah, the header is in my bedroom and I don't know if do I need to stay home for the repair or it's not necessary.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Got it! Usually, it's helpful if you're available so the technician can access the bedroom and the heater, but if you're not able to be there, we can definitely arrange it so they can still get in. Just let me know what works best for you, and we’ll make it as convenient as possible!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Now, thanks for organizing that so quickly!”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course! I’m always happy to help. If you need anything else or have more questions, just let me know. Have a great one!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Will I get an email or text when the people are writing in my room?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We’ll make sure to send you a notification, either by email or a text message, so you’ll know exactly when they’re on their way. We’ll keep you updated every step of the way!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Okay, thank you so much.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "You're very welcome! If anything else comes up, just let me know. Have a wonderful day!"
+    }
+  ]
+}

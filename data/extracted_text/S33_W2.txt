@@ -1,0 +1,215 @@
+Week 2 – Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment
+You said:
+Hi, um, I want to ask about making appointment to see doctor.
+Actually, I’m not sure if I should come in or call, so I’m calling first.
+English Conversational Partner said:
+That’s totally fine, you’ve called the right place. I can help you book an appointment.
+Is this for a new appointment, or are you changing an existing one?
+You said:
+New appointment.
+I didn’t come before, so… yeah, new one.
+English Conversational Partner said:
+No problem at all. Could you tell me a little bit about the reason for your visit?
+You said:
+Yes. I have sore throat and coughing.
+It started maybe three days ago, but yesterday was more uncomfortable.
+Not very serious, but annoying.
+English Conversational Partner said:
+Okay, thanks for explaining that. Are you looking to see a doctor as soon as possible, or are you flexible with timing?
+You said:
+I prefer today, but I understand maybe today is full.
+So tomorrow is also okay.
+But if possible, morning is better because I work in the afternoon.
+English Conversational Partner said:
+Let me check availability for you.
+We have an appointment tomorrow at 10:30am with one of our GPs. Would that suit you?
+You said:
+10:30am…
+Sorry, can I just confirm, that’s morning time, right?
+English Conversational Partner said:
+Yes, that’s 10:30 in the morning.
+You said:
+Okay, good.
+Because sometimes I confuse 10:30 and 22:30, so I just wanted to be sure.
+English Conversational Partner said:
+That’s completely understandable.
+So shall I book you in for 10:30am tomorrow?
+You said:
+Yes, please.
+But before confirming, can I ask something?
+English Conversational Partner said:
+Of course, go ahead.
+You said:
+I’m international student, so I don’t have Medicare.
+I have OSHC instead.
+Is that okay here?
+English Conversational Partner said:
+Yes, that’s absolutely fine. We accept Overseas Student Health Cover.
+You said:
+Okay, that’s good.
+Do I need to pay first, or after?
+English Conversational Partner said:
+You’ll pay after the appointment. The doctor will let you know the cost, and you can claim through your OSHC provider.
+You said:
+Claim meaning… I get money back later?
+English Conversational Partner said:
+Yes, exactly. You usually submit a receipt to your insurance provider.
+You said:
+Okay, I understand now.
+Sometimes these processes are confusing for me.
+English Conversational Partner said:
+That’s completely understandable. We’re happy to explain anything.
+You said:
+Thank you.
+Also, do I need to bring something tomorrow?
+English Conversational Partner said:
+Yes, please bring your OSHC card and some photo ID if you have it.
+You said:
+Passport is okay?
+English Conversational Partner said:
+Yes, a passport is perfect.
+You said:
+Okay.
+And should I arrive exactly at 10:30, or earlier?
+English Conversational Partner said:
+We recommend arriving about 10 minutes early to complete a short form at reception.
+You said:
+Form… is that paper form or online?
+English Conversational Partner said:
+It’s a paper form at the clinic.
+You said:
+Okay, paper is fine.
+I was worried maybe it’s online and I need link.
+English Conversational Partner said:
+No worries, we’ll give it to you when you arrive.
+You said:
+One more thing, sorry. I keep asking many questions.
+English Conversational Partner said:
+That’s completely fine, take your time.
+You said:
+If I need medical certificate for work, can I ask doctor during appointment?
+English Conversational Partner said:
+Yes, you can request a medical certificate during your consultation.
+You said:
+Okay, perfect.
+Then please book that appointment.
+English Conversational Partner said:
+Alright, I’ll just confirm your details.
+Could I have your full name, please?
+You said:
+Yes. My name is Min-Jae Kim.
+Do you need spelling?
+English Conversational Partner said:
+Yes, that would be helpful.
+You said:
+M-I-N, dash, J-A-E.
+Last name K-I-M.
+English Conversational Partner said:
+Great, thank you.
+So you’re booked in for tomorrow at 10:30am.
+You said:
+Okay.
+So tomorrow, 10:30am, bring OSHC card, arrive early, paper form.
+English Conversational Partner said:
+That’s exactly right.
+You said:
+Alright, I feel clear now.
+Thank you for explaining everything slowly.
+English Conversational Partner said:
+You’re very welcome. We’ll see you tomorrow. Take care.
+
+
+Week 2 – Task 3: Enquiring About a Rental Property or Housing Inspection
+You said:
+Hi, I’m calling about an apartment I saw online.
+I just want to ask some questions because I’m not very familiar with rental process in Australia.
+English Conversational Partner said:
+Sure, that’s no problem at all. Which property are you enquiring about?
+You said:
+It’s a one-bedroom apartment near Central Station.
+I think it was posted maybe yesterday or two days ago.
+English Conversational Partner said:
+Okay, I can see that listing. Are you calling about inspection times or the application process?
+You said:
+Inspection first.
+Because I don’t want to apply before I see inside.
+English Conversational Partner said:
+That makes sense. We have an inspection scheduled this Saturday at 11am.
+You said:
+Saturday 11am…
+Sorry, is that fixed time, or can I come earlier or later?
+English Conversational Partner said:
+The inspection runs for about 30 minutes, so you can arrive anytime between 11 and 11:30.
+You said:
+Ah okay.
+So not exactly 11, but within that time.
+English Conversational Partner said:
+Exactly.
+You said:
+Okay, good.
+Last time I went too late and missed it, so I wanted to confirm.
+English Conversational Partner said:
+That’s understandable. You’ll also need to register online before attending.
+You said:
+Register…
+Do you mean like make an account?
+English Conversational Partner said:
+Not a full account, just your name and email address.
+You said:
+Okay, that’s simple.
+And after register, I get email?
+English Conversational Partner said:
+Yes, you’ll receive a confirmation email.
+You said:
+Okay.
+Another question, sorry.
+English Conversational Partner said:
+That’s fine, go ahead.
+You said:
+Is the apartment furnished or unfurnished?
+Because photos sometimes confusing.
+English Conversational Partner said:
+It’s unfurnished.
+You said:
+Unfurnished meaning no bed, no fridge, no washing machine?
+English Conversational Partner said:
+There’s no furniture, but the kitchen appliances are included.
+You said:
+Ah, okay.
+So fridge yes, but bed no.
+English Conversational Partner said:
+That’s right.
+You said:
+Good, thanks for clarifying.
+And about bond, how much is it?
+English Conversational Partner said:
+The bond is four weeks’ rent.
+You said:
+Four weeks…
+Rent is 520 per week, so bond is…
+Sorry, I need a moment.
+English Conversational Partner said:
+That would be 2,080 dollars.
+You said:
+Ah okay.
+Yes, now it’s clear.
+English Conversational Partner said:
+Do you have any other questions?
+You said:
+Yes, one more.
+I’m international student and I don’t have rental history in Australia.
+Is that a big disadvantage?
+English Conversational Partner said:
+Not necessarily. Many students apply without rental history.
+You said:
+Okay, that’s good to hear.
+I was worried about that.
+English Conversational Partner said:
+You can include proof of income or a guarantor if needed.
+You said:
+Guarantor meaning someone responsible if I don’t pay?
+English Conversational Partner said:
+Yes, exactly.
+You said:
+Okay, I understand now.
+Thank you for explaining everything.

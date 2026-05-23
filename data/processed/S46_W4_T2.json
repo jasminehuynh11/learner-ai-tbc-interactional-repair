@@ -1,0 +1,205 @@
+{
+  "student_id": 46,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S46_W4_T2",
+  "source_file": "data\\raw\\#46\\#46. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Top of Form"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“I just want to practice in this scenario with you.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help you practice! Let me know what kind of scenario you're interested in, and we can jump right in. Are you thinking of something like a café interaction, a job interview, or something else? Let me know!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yeah, so this scenario is, this is in the, just in the team working on the group project.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, that sounds"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I need to share my opinion, agree, disagree, belong, share, grow, test, like, and contribution. You will be my teammates in the group project.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, that sounds like a great scenario. I'll be your teammate, and we can have a natural conversation about the project. Whenever you're ready, just share your thoughts or ask me anything, and we'll get started!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Hey there! Absolutely, we can definitely plan it out. I think we should start by breaking down the project into smaller tasks and assigning deadlines. What do you think should be our first priority?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yeah, so I agree with you. So I think first priority is about the writing of report, because it has the most writing by 50% of the marking. And then we got to focus on presentation. It's also 30% of marking and 20% about how we collab together.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That makes perfect sense!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“That's a good thing.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, so we’ll focus on the report first to get that solid foundation. After that, we can plan the presentation and make sure we coordinate well. Does that sound good to you? And do you have any specific tasks you want to handle yourself?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“What if we present first and then we have more time to write?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s an interesting approach! Presenting first could definitely give us more flexibility with the report afterward. I like that idea! Do you think we should outline the main points of the presentation first, and then refine the report based on the feedback?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yeah, it could be pretty good, and who wants to do the presentation, who wants to do the writing part, or we just like share, we just like do together, we share presentation, we do presentation together.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yeah, we could definitely do it together if that works best. That way, we can share the workload and support each other. Or, if you prefer, we can each take a part and then combine our efforts. How do you feel about dividing the roles?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yeah, I need to define a role. Maybe we can, definitely we can both focus on presentation and after that we can both focus on writing.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! So we can start by preparing the presentation together, and once that’s done, we can both collaborate on the report. That way, we’ll stay efficient and organized. Sound good?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“So for the report, I need to share the shared document. I can use the OneDrive to do that.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, sharing a document on OneDrive is a great idea. That way, we can both edit it in real time and keep everything up to date. Once we have the outline ready, we can dive into the details. Let me know when you’re ready to get started!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yeah, so should we check in every few days to stay on track?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "That’s a great idea! Regular check-ins will definitely help us stay on track and address any issues early on. Let’s plan to touch base every couple of days and keep the momentum going!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yeah, just one more thing I'm concerned with. If someone can meet the deadline, how should we handle that?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely help each other out. If anyone runs into any issues with deadlines, we’ll just communicate and adjust accordingly. We’ll make sure everything stays smooth and on schedule!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Awesome! I’m really"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah, so I think we should start focus on presentation from today until on the next Monday and then after that we can just focus on the report.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That sounds like a solid plan! We’ll give our full attention to the presentation first, and then once that’s wrapped up, we can shift gears to the report. I’m looking forward to working together on this! Let’s do it!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yeah, so, what's the most communication tool you want to use, like, you can use some form of way, like, use Gmail, or...”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Yeah, absolutely!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That sounds perfect! We can definitely use email for formal communication, and we can always hop onto something like Google Chat or another platform for quick updates. Whatever works best for us, I’m flexible!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“That's how I decided to use the metangel to do that. And so we all agree on the new timeline.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! I’m glad we’re on the same page with the timeline. Let’s keep each other updated on everything and make sure we stay on track. I’m looking forward to working on this together!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yeah, and nothing if you got any issues just let my net each other know”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a plan! We’ll definitely keep the communication lines open, and we’ll tackle any issues as they come up. I’m excited to get started, and I’m sure we’ll do great!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Cool, so see you later.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sounds good! I’m looking forward to it. Just let me know whenever you're ready to dive in, and we’ll make it all happen. Talk to you soon! Top of Form Bottom of Form ChatGPT can make mistakes. Check important info."
+    }
+  ]
+}

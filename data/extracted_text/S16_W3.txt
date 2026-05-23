@@ -1,0 +1,320 @@
+WEEK 3: REPORTING PROBLEMS AND SEEKING HELP
+
+Task 1: Reporting an Internet Outage at Your Housing
+
+Hi How are u?
+English Conversational Partner disse:
+Hey! I’m good, thanks for asking. How about you — how’s your day going so far?
+Você disse:
+I'm good. Thanks
+English Conversational Partner disse:
+Glad to hear that! What are you up to today?
+Você disse:
+Today you will be a call center operator for the internet company. I'm calling you because I'm having internet problems. So, you can start my call.
+English Conversational Partner disse:
+Sure! [phone line clicks]
+Hello, this is Alex from SkyNet Internet Support. Thanks for calling today. Can you please tell me what kind of problem you’re having with your internet?
+Você disse:
+Transcrição indisponível
+00:00
+English Conversational Partner disse:
+Absolutely. So let
+Você disse:
+“Hi, Alex.”
+00:00
+English Conversational Partner disse:
+Hi there! All right, let’s get started. Can you tell me a bit more about what exactly is going on with your connection right now?
+Você disse:
+“Oh, my internet doesn't work.”
+00:03
+English Conversational Partner disse:
+Got it. So your internet’s not working at all. Let’s start with this: are you seeing any error messages on your devices or is it just not connecting?
+Você disse:
+“Not connecting, since 1 o'clock p.m., 1 p.m.”
+00:09
+English Conversational Partner disse:
+All right, so it
+Você disse:
+“and in the morning it's okay, but now it doesn't work.”
+00:05
+English Conversational Partner disse:
+I see. So it was working fine this morning, and now it’s just stopped. Let me ask: have you tried restarting your router since it went out?
+Você disse:
+“Yes, I tried.”
+00:01
+English Conversational Partner disse:
+All right, good to know you’ve already tried that. In that case, let's check one more thing: do you have any lights on your router that are blinking or off that normally should be on?
+Você disse:
+“Could you repeat?”
+00:01
+English Conversational Partner disse:
+Sure! So I was just asking if you could take a look at your router and see if any of the lights are blinking or off when they should normally be on. What do you see there?
+Você disse:
+“Hi, it's normal.”
+00:01
+English Conversational Partner disse:
+All right, if the lights are normal, that’s helpful to know. Now, just to narrow it down a bit more, are you using Wi-Fi or a wired connection when you’re trying to get online?
+Você disse:
+“In the moment, I'm trying to use Wi-Fi, but our lights are not open.”
+00:09
+English Conversational Partner disse:
+Gotcha. You're on Wi-Fi and not all the lights are on. That definitely gives us a clue. Now, have you noticed if any other devices in your home are having the same issue, or is it just this one device you're trying?
+Você disse:
+“Sorry, I can't understand. Could you repeat, please?”
+00:05
+English Conversational Partner disse:
+Of course! So I was just asking if it's only one device having the problem or if all your devices can't connect. How is it for your other devices?
+Você disse:
+“Could you repeat, please?”
+00:01
+English Conversational Partner disse:
+Sure thing! So basically, I'm just asking: are all of your devices having the same internet issue, or is it just this one you're using right now?
+Você disse:
+“I'll adjust it when I use it right now.”
+00:02
+English Conversational Partner disse:
+All right, so it's just that one device acting up. That’s helpful to know. Let me ask you one more thing: have you tried forgetting the Wi-Fi network on that device and reconnecting it?
+Você disse:
+“Yes, I've tried but it doesn't work. I removed the socket on the wall and I put it again, but the wireless started, but it doesn't work. It doesn't have a signal, not for me and my other flatmates.”
+00:27
+English Conversational Partner disse:
+All right, I get you. So you did try unplugging and plugging it back in, and it's still not giving a signal for you or your flatmates. Let me ask this next: have you contacted your internet service provider before about outages in your area, or is this the first time you're reaching out?
+Você disse:
+“It's my first time.”
+00:01
+English Conversational Partner disse:
+All right, thanks for letting me know it's your first time reaching out. Let's do this: I'll go ahead and check if there's any known outage in your area on our end. Could you just tell me your address or the area you're located in?
+Você disse:
+“Of course, my address is Pitt Street.”
+00:03
+English Conversational Partner disse:
+Perfect, thanks for that. Let me just take a quick look and see if there's any reported issue in that area. In the meantime, is there anything else about the situation you'd like me to know?
+Você disse:
+“Is there a technical available today?”
+00:04
+English Conversational Partner disse:
+Absolutely, I can check that for you. Let me see if we have a technician available today who can come out and help. Meanwhile, is there a time today that would work best for you if we do need to send someone over?
+Você disse:
+“Could you check if there is an outage in the area?”
+00:07
+English Conversational Partner disse:
+Sure, I can definitely do that. Let me quickly check if there's an outage reported in your area. Just give me a moment. In the meantime, if there's anything else that comes to mind about the problem, feel free to let me know.
+Você disse:
+“What should I try before you send someone?”
+00:03
+English Conversational Partner disse:
+Yeah, of course! One last thing you might try is just restarting the device itself, like your computer or phone, and then reconnecting. But if that doesn't help, I'll definitely line up a technician for you. So let me know if that restart helps at all.
+Você disse:
+“Okay, but should I wait here, or will someone call me?”
+00:06
+English Conversational Partner disse:
+Sure, you can just hang tight here for a moment, and I'll let you know what I find. So no worries, I'll give you the update right here. And if we do need to send someone, I'll let you know how that’ll work. Sound good?
+Você disse:
+“Good.”
+00:00
+English Conversational Partner disse:
+Great! All right, I’ll just check that outage info and we’ll figure things out from there. So just sit tight, and I’ll let you know in a sec if we need to send someone or if there’s an update.
+Você disse:
+“Okay.”
+00:00
+English Conversational Partner disse:
+All right, perfect! So I’m checking that for you now. Just give me a moment and I’ll let you know what I find. In the meantime, just relax and I’ll keep you posted in just a sec.
+Você disse:
+“Yes, okay, I will to wait you.”
+00:02
+English Conversational Partner disse:
+All right, thanks for your patience! I’ll let you know as soon as I’ve got that info. So just hang tight for a moment and I’ll get right back to you.
+Você disse:
+“OK.”
+00:00
+English Conversational Partner disse:
+Great! So I’ve checked and it looks like there actually is a small outage in your area, which might explain the problem. We’re already working on it, and it should be fixed in a few hours. If you still have issues after that, just let us know and we can send someone out. Anything else I can help with?
+Você disse:
+“Who can I contact if this isn't resolved today?”
+00:05
+English Conversational Partner disse:
+Sure! If it’s not resolved today, you can just contact us again at this same support line and we’ll be happy to help. We’re here 24/7, so just reach out if you need anything else.
+Você disse:
+“Okay, thank you.”
+00:01
+English Conversational Partner disse:
+You're very welcome! If you need anything else, just let me know. Otherwise, I hope your internet is back up and running soon. Thanks for calling and have a great day!
+Você disse:
+“I hope you have a great day, too.”
+00:01
+English Conversational Partner disse:
+Thank you so much! I appreciate that. All right, well, if there's nothing else, feel free to reach out anytime. Have a lovely day!
+Você disse:
+“You, too.”
+00:00
+English Conversational Partner disse:
+Thanks a lot! Take care and I’ll be here if you need anything else. Have a good one!
+
+
+
+
+
+
+
+Task 2: Reporting a Lost Item or Filing a Minor Police Report
+
+Now you will be working as an officer at a police station. I need to report the loss of my wallet. tham, I have just arrived at the police station and you will be assisting me.
+English Conversational Partner disse:
+Of course. [sound of papers shuffling]
+Good afternoon. I’m Officer Daniels — I’ll help you with your report today. Can you tell me when you first noticed your wallet was missing?
+Você disse:
+“Bye, Daniels.”
+00:01
+English Conversational Partner disse:
+Hi there! All right, let’s get started. So just let me know roughly when you realized your wallet went missing, and we’ll take it from there.
+Você disse:
+“Last night, I have been in a pub. When I paid my account, I remember I put my wallet in my pocket. But after that, when I arrived in my house, my wallet didn't stay in my pocket.”
+00:30
+English Conversational Partner disse:
+Got it. So it sounds like it might have gone missing sometime between the pub and getting home. Let me ask: do you remember which pub you were at, just so we have that on record?
+Você disse:
+“The name is IveClub.”
+00:02
+English Conversational Partner disse:
+All right, thanks for
+Você disse:
+“I remember when I left the pub, I met some girls and I hugged the girls.”
+00:15
+English Conversational Partner disse:
+All right, that’s
+Você disse:
+“beautiful girls, but I just talked together some time. I took it just some time. And after that, I leave it. And when I arrived in my house, didn't my wallet.”
+00:23
+English Conversational Partner disse:
+Got it, that makes sense. So you chatted with them for a bit and then headed home. All right, we’ll note that down. Now, just to be thorough, do you remember if you noticed anyone acting suspicious or if you think the wallet might have fallen out somewhere along the way?
+Você disse:
+“I think no, but in my wallet, there's my driver's license and my MasterCard and $50 or $60.”
+00:16
+English Conversational Partner disse:
+All right, thanks for letting me know what was inside. That's definitely helpful for the report. So we'll note down your driver’s license, your MasterCard, and about 50 to 60 dollars in cash. Now, we'll go ahead and file this and keep an eye out. Is there anything else you’d like to add before we wrap it up?
+Você disse:
+“Could you check in the pub if any wallet was found in the place?”
+00:09
+English Conversational Partner disse:
+Absolutely, I can do that for you. I'll give the pub a quick call and see if anyone turned in a wallet matching your description. In the meantime, we'll have all your details on file here. Just hang tight and I’ll let you know what they say.
+Você disse:
+“Okay, I have more details. This wallet is black, it's the high-fired Heliosphere, the brain's Heliosphere, and there is a blue in the headline around this wallet.”
+00:25
+English Conversational Partner disse:
+Perfect, that’s really helpful. So a black Tommy Hilfiger wallet with a blue outline detail—got it. I'll mention those specifics when I give them a call, and hopefully that helps track it down. Let me do that real quick and I’ll get back to you.
+Você disse:
+“OK. I will try.”
+00:01
+English Conversational Partner disse:
+All right, thanks for waiting just a bit. I'll make that call and we’ll see what they say. Sit tight and I’ll be right back with an update.
+Você disse:
+“Could you repeat, please?”
+00:01
+English Conversational Partner disse:
+Of course! I’m just saying I’ll give them a quick call now and see if they’ve found your wallet. So just hang on for a moment and I’ll let you know what I find out.
+Você disse:
+“OK.”
+00:00
+English Conversational Partner disse:
+All right, thanks! I’ll handle that and get right back to you. Just a moment and we’ll see what they say.
+Você disse:
+“Okay, I'm waiting.”
+00:01
+English Conversational Partner disse:
+Perfect, I appreciate your patience! I’ll go ahead and check in with them now. Just give me a second and I’ll let you know as soon as I hear back.
+Você disse:
+“Did you check?”
+00:01
+English Conversational Partner disse:
+I sure did. So I just got off the phone with them, and unfortunately, they didn't find any wallet matching that description at the pub. But no worries, we've got all the details in the report here, and if anything turns up, we’ll let you know. Let me know if there's anything else you need!
+Você disse:
+“Oh, really?”
+00:01
+English Conversational Partner disse:
+Yeah, unfortunately,
+Você disse:
+“Oh, it's so bad for me.”
+00:01
+English Conversational Partner disse:
+I understand, it’s definitely frustrating to lose something like that. We’ll keep the report on file, and if anything comes up, we’ll let you know. In the meantime, if you need anything else, just let me know.
+Você disse:
+“What happens next if we finish it here?”
+00:05
+English Conversational Partner disse:
+Absolutely. So from here, we’ve got everything noted down and we’ll keep an eye out. If anything turns up, we’ll contact you. Otherwise, you’re all set and we’re done here. Thanks for coming in, and take care!
+Você disse:
+“I have another question. What happens if a 7-1-1 finds it?”
+00:05
+English Conversational Partner disse:
+Sure, that's a good question. If someone finds it and turns it in, we'll contact you right away so you can come pick it up. In the meantime, if you have any updates or if you find it yourself, just let us know.
+Você disse:
+“Okay, thank you so much. I will check back tomorrow again.”
+00:05
+English Conversational Partner disse:
+You're very welcome! Feel free to check back anytime. We'll be here if you need anything else. Have a good day, and we’ll see you tomorrow if you need to follow up.
+Você disse:
+“Okay, thank you. I appreciate your attendance, and I hope you have a very good day.”
+00:07
+English Conversational Partner disse:
+You're very welcome, and I really appreciate that. You have a great day as well! And of course, if you need anything else, just let us know. Take care!
+Task 3: Requesting Maintenance or Repairs in a Rental Property
+
+I will now call the real estate agency that manages the apartment I rent to report a problem that requires urgent maintenance. You will be the operator.
+English Conversational Partner disse:
+Sure! [phone ringing]
+Good afternoon, this is Emma from BrightHome Real Estate. How can I help you today? What seems to be the issue with your apartment?
+Você disse:
+“Hello, Emma. I have a big issue in my apartment. Could you help me?”
+00:05
+English Conversational Partner disse:
+Absolutely, I can help with that. Let's start with what kind of issue you're having. Is it a leak, or is it something else that's causing the flooding?
+Você disse:
+“My air conditioner isn't working and it's very hot. I'm almost boiling. I need help. Could you check if someone can come here to fix it?”
+00:18
+English Conversational Partner disse:
+Sure, I can definitely check that for you. Let me just see if we can get a maintenance person out there as soon as possible. Could you let me know your apartment number so I can look up the details and arrange that?
+Você disse:
+“It's number 100.”
+00:02
+English Conversational Partner disse:
+Got it, apartment 100. Thanks for that. Let me just check our schedule really quickly. All right, it looks like we can have someone come out this afternoon to fix that AC for you. Does that timing work for you?
+Você disse:
+“Yes, of course, I have time here.”
+00:01
+English Conversational Partner disse:
+All right, perfect! We’ll have someone out there this afternoon to take care of it for you. If you need anything else in the meantime, just let us know. Thanks for calling, and we’ll get that sorted out for you!
+Você disse:
+“Could they call or text me when they are on their way?”
+00:06
+English Conversational Partner disse:
+Absolutely, we can do that. I’ll make sure they give you a quick call or text when they’re on their way over so you know when to expect them. Thanks for letting me know, and we’ll get that arranged.
+Você disse:
+“Do I need to stay home for repair?”
+00:05
+English Conversational Partner disse:
+You’re welcome to if you prefer, but it’s not strictly necessary. If you’re comfortable with us having a key or access, we can handle it. Otherwise, you can just be home when they arrive. Whatever works best for you!
+Você disse:
+“I will leave the key at the reception if I am out, okay?”
+00:05
+English Conversational Partner disse:
+Absolutely, that works perfectly. Just leave the key at the reception, and we'll let the maintenance team know to pick it up there. They’ll take care of everything and leave the key safely afterwards. So that’s all set!
+Você disse:
+“Está aí algo que eu deveria preparar antes de eles chegarem?”
+00:05
+English Conversational Partner disse:
+Not really, just make sure they can easily get to the air conditioner and that there's nothing blocking the way. Other than that, you’re all set. We'll handle the rest!
+Você disse:
+“So, these problems will be fixed today.”
+00:06
+English Conversational Partner disse:
+Yes, absolutely. We'll have someone there today to get it fixed for you. So by the end of the day, your AC should be back up and running. Let us know if you need anything else!
+Você disse:
+“Oh, thank you so much for organizing that so quickly.”
+00:06
+English Conversational Partner disse:
+You’re very welcome! I’m glad we could get it sorted out fast for you. If you have any other issues, just let us know. Otherwise, have a great day!
+Você disse:
+“I hope you have a good day, too.”
+00:02
+English Conversational Partner disse:
+Thank you so much! I really appreciate that. You have a great day as well, and we’ll make sure everything’s taken care of for you.

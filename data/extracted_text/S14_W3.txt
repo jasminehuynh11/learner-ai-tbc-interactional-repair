@@ -1,0 +1,175 @@
+Task 1: Reporting an Internet Outage at Your Housing
+You said:
+Hi, my internet has stopped working. There is no signal in my apartment.
+English Conversational Partner said:
+Oh, that sounds frustrating! Let's see if we can figure it out. First, can you tell me if you've tried restarting your router?
+You said:
+Can you check if there's an outage in the area?
+English Conversational Partner said:
+Sure, I can definitely help with that. Let me just check if there's any known outage in your area. Could you let me know which internet service provider you use?
+You said:
+I'm using Australian internet.
+English Conversational Partner said:
+Got it, thanks for that info! I'll check for any outages with that provider. In the meantime, have you noticed if any of the lights on your router are off or blinking in an unusual way?
+You said:
+Unfortunately, I have no idea.
+English Conversational Partner said:
+No worries at all! It's totally fine if you're not sure. I'll look up the outage information for you and see what's going on. In the meantime, if you have any other details or questions, just let me know!
+You said:
+This has happened three times this month. What can be done?
+English Conversational Partner said:
+Oh, I see, that definitely sounds like a recurring issue.In that case, it might be a good idea to reach out to your provider's customer service and see if they can look into it more deeply or even send a technician out.
+You said:
+OK. Is there a technician available today?
+English Conversational Partner said:
+I can definitely check that for you! Let me just see if there's availability for a technician today. Could you also let me know your address, just so I can get the accurate details?
+You said:
+30 South Street.
+English Conversational Partner said:
+Great, thanks for that! I'll check the availability for a technician in Melbourne at that address and let you know what the earliest possible appointment is!
+You said:
+I'm available all day today, so anytime is okay.
+English Conversational Partner said:
+That's super helpful, thank you! I'll make a note of that and see what slots are open for today. I'll get back to you in just a moment!
+You said:
+Should I wait here, or will someone call me?
+English Conversational Partner said:
+I'd recommend being available at home just in case they arrive early, but usually, they'll give you a call or send a message when they're on their way. So you should be all set!
+You said:
+Thank you so much.
+English Conversational Partner said:
+You’re very welcome!
+You said:
+If the service isn't fixed by today, do I get a refund or a credit?
+English Conversational Partner said:
+That's a great question! Usually, providers do offer some kind of credit if the issue isn't resolved in a timely manner. I can help you find out their specific policy if you'd like!
+You said:
+Okay, or is it possible to change to a different service plan?
+English Conversational Partner said:
+Absolutely, you can usually switch providers if you're not satisfied. I'd recommend checking if there are any contract terms or fees, and then comparing the options. If you want, I can help you look into alternative providers as well!
+You said:
+OK, if this isn't resolved today, I will do that, but who can I contact if this isn't resolved today?
+English Conversational Partner said:
+Got it! If the issue isn't resolved today, you can reach out to their customer support line or even their retention department, and they'll guide you through the next steps. I can also help you find their contact details if you need them!
+You said:
+Can you give me a reference number for this request?
+English Conversational Partner said:
+Absolutely! I can definitely help you get a reference number. Once you contact their support, they'll generate one for you. If you'd like, I can help you with the contact details or even draft a quick message for you!
+You said:
+Thanks for the update. I'll wait for the technician.
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. Fingers crossed everything gets sorted out smoothly today. If you need anything else, just let me know!
+
+
+Task 2: Reporting a Lost Item or Filing a Minor Police Report
+You said:
+Hi, I've just realized I lost my phone. I'm at the train station and I'd like to check with the lost and found disk.
+English Conversational Partner said:
+Oh, I’m sorry to hear that. Let’s get that sorted out for you. Could you tell me when you last saw your phone and where exactly you think you might have lost it?
+You said:
+I last saw it at the train station around 3 p.m.
+English Conversational Partner said:
+Got it, that helps a lot. So, did you happen to leave it in a specific area, like near a particular platform or maybe a waiting area?
+You said:
+Maybe platform 9 because I took the train from there.
+English Conversational Partner said:
+Thanks for that detail! I’ll let the lost and found desk know. Just to confirm, did you have any specific case or cover on your phone that might help identify it?
+You said:
+Yeah, the phone has a purple case and a cracked screen.
+English Conversational Partner said:
+Perfect, that will definitely help them identify it. I’ll pass that along. Is there anything else you remember that could be useful, like any specific apps that were open or any other details?
+You said:
+The case design has a Japan flag.
+English Conversational Partner said:
+Oh, that’s a great detail! That should make it even easier to spot. Alright, I’ll make sure they have all that info. Is there a phone number or an email I can leave them so they can contact you if they find it?
+You said:
+Yes, My phone number is 123456789.
+English Conversational Partner said:
+Got it! I’ll make sure they have that number as well. Hopefully, they find your phone soon! If there’s anything else I can help with, just let me know.
+You said:
+Do I need to fill out a form?
+English Conversational Partner said:
+Usually, they do have a simple form for lost items, just to confirm all the details. I can give you the form or guide you through it if you’d like!
+You said:
+OK, and also do I need to show ID when collecting it?
+English Conversational Partner said:
+Yes, typically they’ll ask for an ID when you pick it up, just to confirm that it’s really yours. But no worries, we’ll get everything set up so you can retrieve it easily!
+You said:
+Thank you so much. Can you call me if it's found?
+English Conversational Partner said:
+Absolutely, I’ll make sure they have your contact number and give you a call if they find it. Hopefully, you’ll have it back in no time! If you need anything else, just let me know.
+You said:
+How long do you keep lost items on file?
+English Conversational Partner said:
+Typically, they keep lost items for about 30 days, but it can vary a bit depending on the station’s policy. If it’s not found within that time, they might donate or dispose of it. So, it’s always good to check in sooner rather than later!
+You said:
+OK, if it's found, I will collect it soon. And what should I do if I lost it in another city?
+English Conversational Partner said:
+In that case, you’d want to contact the lost and found department of that specific city or station. Usually, you can reach out to them online or by phone, and they’ll guide you through their process. But hopefully, you won’t have to worry about that!
+You said:
+Yeah, definitely. Is there a lost property website I can check?
+English Conversational Partner said:
+Yes, many train stations and transit systems have their own lost and found websites where they list items. It’s definitely worth checking the official website of the station or the transit authority. If you need help finding it, I can point you in the right direction!
+You said:
+I appreciate your help. Thank you for explaining everything.
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you have any other questions at all, just let me know. Good luck, and I hope you get your phone back soon!
+You said:
+I hope. Thank you so much. That's all today.
+English Conversational Partner said:
+You’re welcome! I’m glad I could help. If you ever need anything else, just reach out. Have a great day!
+You said:
+Thank you so much, you too.
+English Conversational Partner said:
+Thank you! Take care, and talk to you later!
+
+
+Task 3: Requesting Maintenance or Repairs in a Rental Property
+You said:
+Hello, I'm calling for requesting maintenance. Are you a property manager?
+English Conversational Partner said:
+Yes, I am! I’d be happy to help you with your maintenance request. Could you let me know what kind of maintenance issue you’re experiencing?
+You said:
+The heater in my bedroom isn't turning on and there is a leak under the kitchen sink.
+English Conversational Partner said:
+Oh, I see, that sounds like a couple of important issues. Thanks for letting me know! Could you tell me if you’ve noticed any specific time when the heater stopped working or how long the leak has been going on?
+You said:
+From this morning.
+English Conversational Partner said:
+Got it, thanks for clarifying. I’ll make sure to prioritize that. Just to confirm, is there any specific time frame that you’d prefer the maintenance to come by, or is anytime during the day fine?
+You said:
+Anytime is fine.
+English Conversational Partner said:
+Perfect, that makes it easier. Alright, I’ve got all the details I need. Is there anything else I can help you with, or are we all set?
+You said:
+Will you send a plumber or handyman?
+English Conversational Partner said:
+I can definitely arrange for a handyman to come by and take care of both issues. I’ll get that scheduled for you. If you think of anything else, just let me know!
+You said:
+Could they call or text me when they are on their way?
+English Conversational Partner said:
+Absolutely, I’ll make sure they give you a call or send a text when they’re on their way. That way you’ll know exactly when to expect them. If there’s anything else you need, just let me know!
+You said:
+Do I need to stay home for the repair?
+English Conversational Partner said:
+It’s usually a good idea to be present just so you can let them in and show them the issues, but if that’s not convenient, we can always arrange access another way. Just let me know what works best for you!
+You said:
+Okay, thank you. And should I turn off the water until they come?
+English Conversational Partner said:
+It’s a good precaution to turn off the water, especially with that leak, just to prevent any further issues. Once the repair is done, you can turn it back on. If you need any more help, just let me know!
+You said:
+Is there anything I should prepare before they arrive?
+English Conversational Partner said:
+Just make sure the area around the heater and the kitchen sink is accessible, so the handyman can easily get to the issues. Other than that, you should be all set! And of course, if you think of anything else, just let me know!
+You said:
+It was fixed last month, but the issue has returned. Should I be worried about any long-term damage?
+English Conversational Partner said:
+It’s definitely a good idea to get it checked out since it’s reoccurring. That way we can make sure there’s no underlying issue that could cause any long-term damage. We’ll get it sorted out and hopefully everything will be good as new!
+You said:
+Is there an emergency number I can call on weekends?
+English Conversational Partner said:
+Absolutely, we do have an emergency number that you can reach out to on weekends or outside of regular hours. I’ll make sure to share that with you so you have it handy just in case.
+You said:
+OK, thanks for organizing that so quickly. Have a good day.
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. You have a great day as well, and feel free to reach out anytime!

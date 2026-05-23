@@ -1,0 +1,16 @@
+[
+  {
+    "dialogue_id": "S30_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner expresses confusion in turn 9 by saying 'I'm sorry, I don't understand.' The bot rephrases the question in turn 10, asking for clarification about when the phone was last seen. The learner then provides a response in turn 11, and the bot acknowledges and continues the conversation in turn 12, indicating the issue was resolved."
+  }
+]

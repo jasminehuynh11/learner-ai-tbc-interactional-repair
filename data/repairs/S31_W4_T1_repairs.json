@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S31_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "pronunciation/ASR – bot did not understand learner's speech",
+    "evidence_summary": "In turn 24, the learner's message is marked as 'Transcript Unavailable', indicating a failure in communication. The bot in turn 25 explicitly states it didn't catch anything from the last message and asks for repetition. However, the learner does not respond to this request, and the issue is abandoned."
+  }
+]

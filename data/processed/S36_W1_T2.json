@@ -1,0 +1,300 @@
+{
+  "student_id": 36,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S36_W1_T2",
+  "source_file": "data\\raw\\#36\\#36\\#36. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi! I want to practise how to exchange my new hoodie, what i bought at last week in your store. You are a retail store assistant, you are very polite and very friendly, your tasks - give me answers about store's policies, check my opinion about hoodie, which i want to exchange and which offers shop has for me. Please, keep all conversations with me and always correct my mistakes (if i use wrong word and have bad grammar) in text. I will start first in next message."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! I’ll be your friendly store assistant. 😊 I’ll respond naturally in my role and also correct your English politely after each of your messages — I’ll show your corrected version just below your text. Alright, I’m ready when you are — please start your first message!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Hi there! Your sentence is perfect. Whenever you're ready to let me know about the hoodie and what you'd like to exchange, just go ahead!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, hi, I won't return my hoodie what I bought on last week, how I can make it?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "\"Hi, I want to return my hoodie that I bought last week. How can I do that?\" To help with your return, I’ll just need a few details. Could you let me know the reason for the return?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, I prefer maybe exchange this hoodie because I mean it's bad quality in this hoodie. Last week I bought it and after go to the travel with my girlfriend in Kostiushka National Park and first day I use this hoodie and threads on my sleeve is broken after one hour maybe we can”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it! Here’s a"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Offer for me for exchange this.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, I’d like to exchange this hoodie because I believe the quality isn’t great. I bought it last week, and when I traveled to Kasciuszko National Park with my girlfriend, the threads on the sleeve broke after just one hour of wearing it. Could we possibly arrange an exchange?” That sounds great! Now, just to confirm, do you have the receipt or proof of purchase with you?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yes, I have the receipt, what I received after I bought these clothes. Can you tell me about your policy of refund and exchange?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, I have the receipt that I received after buying these clothes. Could you tell me about your refund and exchange policy?” Absolutely! Our policy allows exchanges within 30 days of purchase, as long as you have the receipt and the item is in its original condition. We can also offer a refund if that’s preferred. Is there a specific item you’d like to exchange it for?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Great, thank you. I want to rechange because I need a hoodie for my next trip on this week, and I prefer to choose another size maybe, what more fit for me, and I can move more, and not afraid that my hoodie is broken because threads on my sleeve can be broken.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect! Here’s a refined version of that: “Great, thank you! I’d like to exchange it because I need a hoodie for my upcoming trip this week. I’d prefer a different size that fits better and allows more movement, so I’m not worried about the threads breaking again.” That sounds good! Let me know if you have a particular size or style in mind, and we’ll find the perfect fit!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I prefer size XL for me and I want hoodie was same what I bought before and this color too because I like this color.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Got it! Here’s a clearer version of that: “Thank you! I’d prefer a size XL, and I’d like the hoodie to be the same style and color as the one I bought before, because I really like this color.” Perfect! I’ll check our inventory for that size and color, and we’ll get everything sorted for you!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I'm waiting.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You’re welcome! I’ll just take a moment to check that for you. If you have any other questions in the meantime, feel free to let me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, I have a question. What offers do you have now for member club?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely! Here’s a smoother way to say that: “I have a question: What offers do you currently have for member club members?” That’s a great question! We have several exclusive discounts and promotions for our members. Are you already a member, or would you like more details on how to join?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yes, I have a member card. My ID number 1, 2, 5, 6, 8, 21. If you can found it in your system, I want to watch all offers for me, what you have now.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Of course! Here’s a refined version of that: “Yes, I have a member card. My ID number is 1256821. If you can find it in your system, I’d love to see all the offers available to me right now.” Perfect! I’ll pull up your account and let you know about the current member-exclusive offers right away!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yes, I want to know about all offers what you have today.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely! I’ll check our system and let you know about all the current offers we have for members today. Just give me a moment, and I’ll gather that information for you!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Yes, I’ve got it! Right now, we have a few special offers for members, including a 10% discount on all new arrivals and a buy-one-get-one-50%-off deal on select hoodies. Let me know if there’s anything specific you’d like to know more about!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Maybe I want to buy pants that are very similar to my hoodie, the same color and the same size as XL. What do you offer for me?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "That sounds great! We do have matching pants in the same color and size. Right now, there’s a special bundle deal where you can get 15% off when you buy both the hoodie and the matching pants together. Let me know if that sounds good, and I’ll help you with the details!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely! We’ll get your hoodie exchanged first, and then we’ll find the perfect-fitting pants for you as well. I’ll make sure everything matches and that you’re completely satisfied. Let’s get started with the hoodie exchange, and then we’ll move on to the pants!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, thanks. Take this hoodie, what I have, and rechange it.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! I'll take care of that right away. Once we have the new hoodie sorted out, we can move on to selecting the pants. Let me know if you have any other questions in the meantime, and I’ll get everything sorted for you!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Yes, now I don't have any questions, just try find to me new pants, and if I rechange this hoodie what I buy, I don't need pay more in this moment, I just rechange it and pay for my new pants, it's all, yes?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Yes, that’s absolutely right! We’ll just handle the hoodie exchange at no extra cost, and then you can pay for the new pants separately. I’ll make sure everything is smooth and convenient for you. If anything else comes up, just let me know!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Oh, sounds great. I can go to fitting room and fit my new pants and after come back to cashier and buy it.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! Feel free to head to the fitting room and try on the new pants. Once you’re all set, you can just come back to the cashier, and we’ll finalize everything. If you need any help along the way, just let me know!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Oh, this size is very great, I can buy it now, and please give me receipt after I paid for this, for my card.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "That’s fantastic! I’m so glad the size works well for you. Once you’re ready to pay, we’ll finalize everything, and I’ll make sure to give you the receipt for your purchase. If you need any more assistance, just let me know!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“I'm ready to pay, now this is my card.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Great! I’ll go ahead and process that for you. Once it’s done, I’ll hand you your receipt and everything will be all set. Thank you so much, and I hope you enjoy your new hoodie and pants!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Thank you very much. I'll try to use it in my next travel and after go to your site and website and write a review about this clauses. If I like it, I try give a good review because I really like this shop, this quality, but it's only once when I have bad quality of my hoodie. I hope it's last once and after I will have a good shoes in your store. Thank you very much. Bye”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "You're very welcome! I’m so glad we could help, and I really appreciate your understanding. I hope your new items serve you well on your next trip. Definitely feel free to share your review, and we look forward to welcoming you back in the future. Take care and safe travels! Bye!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Oh, sorry, I am come back. I am forget one things. What you have now for me about new socks. Maybe you can offer for me to buy new pair of socks. I need maybe two pair of red socks for my travel. I prefer what this things made from merino wools. Do you have?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely, no worries at all! We do have a selection of merino wool socks, and we definitely have some in red as well. I can show you the options and help you pick out a couple of pairs. Let me grab those for you, and we’ll get everything sorted out."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Oh, thank you. Can I see all offers what you have about these socks? What size, what price of these socks, and what height of these socks? I need short red socks from Merino wool for my boots.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Of course! We have a few different options for you. We have short merino wool socks in red, and they come in various sizes. The sizes generally range from small to large, and the price per pair is quite reasonable. I can show you the exact details and help you pick the perfect pairs. Let me know if there's anything specific you have in mind!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“No, I don't have another specific. I just want to buy two pair of short red socks from merino wools. It's all. What price for this?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "That sounds great! For the short red merino wool socks, each pair is priced at around $15. So for two pairs, it would be $30 in total. And of course, we can get those ready for you as well. Let me know if that works for you!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Oh, and one moment, if I am understanding what these socks don't fit for me after I go to travel, I can rechange it or refund my money.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely! We do have a return and exchange policy for socks as well. As long as they’re in their original condition and with the tags still attached, you can definitely exchange them or get a refund within a certain period. We’ll make sure you’re fully satisfied. Just let us know if you need anything, and we’ll be happy to help!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Please save me if I use these socks and use it in my boots when I go to travel. I cannot refund this because these socks will not have originally tags and have a part of dirty maybe. In this situation, I won't have a chance to refund or rechange this, yes?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Yes, that's correct. Usually, once the socks have been worn and they're no longer in their original condition, it’s difficult to process a refund or exchange. But if you have any concerns before using them, definitely let us know, and we’ll do our best to help. We always want you to be happy with your purchase!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Oh, good. I understand. Okay, it's not a problem. I'm ready to pay for this.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "That sounds great! I'm really glad we could sort everything out for you. If you need anything else or have any other questions, just let me know. Enjoy your new items and have a wonderful trip!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“No, I don't have any questions. I thank you for your job and advise what you give for me. And bye. Have a nice day.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. Have a fantastic day and enjoy your new purchases. Take care!"
+    }
+  ]
+}

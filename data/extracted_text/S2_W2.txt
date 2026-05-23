@@ -1,0 +1,136 @@
+Week 2
+Task 1: Medical clinic
+You said: 
+“Hey, did you remember I have an appointment next Tuesday at 2 p.m.?”
+00:14
+ChatGPT said:
+Let me check that for you... Yes, I can see you have an appointment booked for next Tuesday at 2 p.m. Would you like to keep that time, or are you looking
+You said:
+“Yeah, I have some situation need to take care, so I need to cancel the appointment. Could you help me to change another day?”
+00:16
+ChatGPT said:
+Of course, I can help with that! What days or times would work better for you? We can look at our schedule and find the next available slot that suits you!
+You said:
+“Next Friday, I am available.”
+00:07
+ChatGPT said:
+Great! Let me check... We have a few slots open next Friday. Would you prefer morning or afternoon? And is there a specific time that works best for you?
+You said:
+“Um, I, uh, expected afternoon.”
+00:05
+ChatGPT said:
+Afternoon it is!
+You said:
+Transcript Unavailable (Meaning roughly: Can you help me book an appointment sometime next Friday?)
+00:00
+ChatGPT said:
+We have a 1 p.m. and a 3 p.m. available next Friday. Do either of those times work for you?
+You said:
+“It's a better afternoon, and I have some estimate that Harald needs to see the doctor and see how it goes well.”
+00:22
+ChatGPT said:
+Got it, thank you for letting me know! In that case, let's lock in the 3 p.m. slot for you next Friday, so you’ll have plenty of time. Does that sound good to you?
+You said:
+“Could you help me to check the...”
+00:04
+ChatGPT said:
+Absolutely! I’ll book that for you right now and send you a confirmation. Is there anything else you'd like to ask about the appointment, like what to bring or any specific instructions from the doctor?
+You said:
+“Yeah, yeah, yeah. First, I want to know that today any teachers can speak Cantonese or Mandarin. If you had a doctor can speak my language, then I can explain much than today I talk to you like that.”
+00:26
+ChatGPT said:
+I completely understand! We do have a doctor who speaks Mandarin, and they will be available during your appointment time next Friday at 3 p.m. That way you can explain everything in your language comfortably. Does that help?
+You said:
+“Oh, thank you. And another thing I want to chat, the degree had parking. I want to drive car in the day.”
+00:14
+ChatGPT said:
+Yes, we do have parking available for patients. There's a free parking area just behind the clinic, so you can easily drive in that day. Is there anything else you'd like to know or prepare for before the appointment?
+You said:
+“All good. Thank you. Thank you.”
+00:02
+ChatGPT said:
+You're very welcome! I’m glad I could help. If anything else comes up, feel free to reach
+You said:
+“I forgot to mention my name. I know you have my phone number. I just want to double-chat. My name is Tonic Lee.”
+00:15
+ChatGPT said:
+Thank you, Tanic! Yes, I've got your phone number on file, and now we have your updated appointment all set. If you need anything else, just give us a call. Have a great day!
+You said:
+“All good. Thank you. Thank you.”
+00:01
+ChatGPT said:
+You're very welcome! Anytime, and good luck with your appointment next week. Take care!
+Top of Form
+
+Bottom of Form
+Task 2: Bank
+You said:
+“Hi, I'm Tonic. I'm calling the Wellbit Bank to open a new account.”
+00:15
+ChatGPT said:
+Hi Tonic! Thanks for calling. I’d be happy to help you open a new account. May I ask what type of account you’re interested in, and do you have any identification documents with you?
+You said:
+“I found a debit card, and yeah, I just need a debit card.”
+00:12
+ChatGPT said:
+Absolutely, we can get you set up with a debit account and card. I'll need a form of ID, like a passport or driver's license, and proof of address. Do you have those handy?
+You said:
+“I have a driver's license. I can give you my driver's license number 4A783821A.”
+00:10
+ChatGPT said:
+Thank you, Tonic. That’s perfect. We’ll also need your address. Could you let me know your current residential address so we can add that to your account details?
+You said:
+“Of course, I live in Parramatta, Tumultus Street.”
+00:05
+ChatGPT said:
+Got it, Tonic! Thank you for that. Now, I’ll just confirm a few more details with you, and we
+You said:
+“And, okay, you can continue.”
+00:04
+ChatGPT said:
+Perfect! Let's move forward. I'll set up your account now, and you’ll receive your debit card in the mail within 5-7 business days. Is there anything else I can help you with today?
+You said:
+“Yeah, before I opened this account, I didn't get my taxes numbers. Is it okay with that?”
+00:14
+ChatGPT said:
+That's totally fine, Tonic! You can still open the account now, and once you have your tax file number, you can provide it later. This will help you avoid any withholding tax on interest. Anything else you'd like to ask?
+You said:
+“OK, thank you, thank you so much. And then, you mentioned that you will send the card to my address, right?”
+00:11
+ChatGPT said:
+Yes, that's correct! We'll send the debit card directly to your address in Parramatta. You should receive it soon. Anything else I can assist you with today?
+You said:
+“I once asked, when I got a car, can I use my car to, for saving money?”
+00:23
+ChatGPT said:
+Ah, I see! The debit card is linked to your everyday account, so it's mainly for spending and accessing your money. If you'd like to save, we can also open a savings account for you, and you can transfer funds from your debit account into it. Would you like to do that?
+You said:
+“I also want to know, did the bank car, the debit car, have any bank app?”
+00:18
+ChatGPT said:
+Yes, absolutely! We have a mobile banking app that you can download. It lets you check your balance, transfer money, and even set savings goals. Once your card arrives, you can register for the app and start using it right away!
+You said:
+“I'm sorry to stop you, and could you just send a download QR code to my e-mail? My e-mail is 9727 at gmails.com.”
+00:22
+ChatGPT said:
+Of course, Tonic! I'll send the QR code to your email right now. You should receive it shortly. Anything else I can do for you?
+You said:
+“Oh, I got it. Thank you so much!”
+00:02
+ChatGPT said:
+You're very welcome, Tonic! It was my pleasure to help. If you have any other questions in the future, feel free to reach out. Have a wonderful day!
+You said:
+“I also have a question. I want to know did the ban had any people can speak Mandarin because I might gonna help my parents to open a new account and they might not speak English. So could you help me to do that by someone can speak Mandarin?”
+00:40
+ChatGPT said:
+Yes, absolutely! We do have staff who speak Mandarin and can assist your parents. Just let us know when they'd like to come in or if they need help over the phone, and we’ll arrange for a Mandarin-speaking team member to assist them.
+You said:
+“Oh, thank you so much, because last Friday I didn't have time to take them to the bank. Okay, would you just make an appointment for my parents? They may come Friday, this Friday in the afternoon, 2 p.m.”
+00:29
+ChatGPT said:
+Yes, I can arrange that for you! I’ll book an appointment for your parents this Friday at 2 p.m., and we’ll have a Mandarin-speaking staff member ready to help them. Anything else I can do?
+You said:
+“Okay, thank you, very bit hard. Have a good day.”
+00:03
+ChatGPT said:
+You're very welcome, Tonic! You have a great day too, and feel free to reach out anytime. Take care!

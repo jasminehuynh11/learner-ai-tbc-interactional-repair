@@ -1,0 +1,70 @@
+{
+  "student_id": 25,
+  "week": 1,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S25_W1_T1",
+  "source_file": "data\\raw\\#25\\#25\\#25. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Today, we are going to talk about ordering coffee at a café."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely! For a cozy morning, I'd definitely recommend our flat white or maybe a cappuccino. If you're in the mood for something a bit different, our oat milk latte is also a great choice. How does that sound? And let me know if you have any particular preferences!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "The transcript is unavailable"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Great question! A flat white is basically similar to a latte, but it has a higher ratio of coffee to milk and is topped with a velvety microfoam. It's smooth, creamy, and really highlights the espresso flavor. It's definitely a favorite for many coffee lovers!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "\"is it famous for Australia?\""
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "It definitely has a bit more of a bold coffee flavor compared to a latte, but it's still very smooth and balanced. If you enjoy a strong but creamy coffee, you'll likely love it! And of course, we can always customize it with your choice of milk or even add a little flavor if you like."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "\"Actually, I can try.\""
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That sounds great!"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "The transcript is unavailable"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Perfect! I'm sure you'll enjoy it. I'll get that flat white ready for you, and if you have any other questions or want to adjust anything, just let me know. Enjoy your coffee experience!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "\"I want to buy something to eat, so do you rer mend something?\""
+    }
+  ]
+}

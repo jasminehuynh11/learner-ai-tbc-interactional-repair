@@ -1,0 +1,186 @@
+TASK 1:
+
+English Conversational Partner said:
+Alright, thanks for reaching out. This is Internet Support - what seems to be the issue with your connection today?
+You said:
+"Hi, my internet has stopped working.""It was fine this morning but now it won't connect."
+English Conversational Partner said:
+Alright, I see — the connection was fine earlier but now it won't connect. Could I get the name on your account so I can pull up your details?
+You said:
+I'm Ryota
+English Conversational Partner said:
+Alright, Ryota, thanks. Could you tell me the address on the account so I can locate your service?
+You said:
+The addess is Miller street
+English Conversational Partner said:
+Alright, thanks for that. Just to confirm, could you give me the full street number on Miller Street?
+You said:
+345 Miller Street
+English Conversational Partner said:
+Alright, got it - 345 Miller Street. When you look at your router right now, what lights do you see on it?
+You said:
+My router show that red light
+English Conversational Partner said:
+Alright, a red light usually means the router isn't getting a proper signal. Have you already tried restarting it by turning it off and on again?
+You said:
+Yes, I tried three times but it couldn't working
+English Conversational Partner said:
+Alright, thanks for trying that - sounds like the restart didn't help. Could you check quickly if all the cables at the bar' of the router are firmly plugged in? What do you see there?
+You said:
+Yes firmly plugged in
+English Conversational Partner said:
+Alright, good to know everything's plugged in.
+When did the red light first appear — was it just a little while ago or earlier in the day?
+You said:
+I'm not sure but maybe little while ago
+English Conversational Partner said:
+Alright, sounds like it started fairly recently. Are any of your other devices able to connect to the Wi-Fi at all, or is everything completely offline?
+You said:
+My phone shows that Wi-Fi connected sign but I can't connect to the Internet
+English Conversational Partner said:
+Alright, so your phone shows it's connected but there's no actual Interr & Vhen you try to open a website. does anv error messade abnear on your phone?
+You said:
+I can't. So is there a technician available today?
+English Conversational Partner said:
+Alright, we can look at getting a technician out.Before I check today's availability, could I have the best contact number for you in case the technician needs to reach you?
+You said:
+Yes please
+English Conversational Partner said:
+Alright, great — what's the best phone number for the technician to contact you on?
+You said:
+000112233
+English Conversational Partner said:
+Alright, thanks for that. To book the visit, what time today are you available for a technician to come by?
+You said:
+I’m free at afternoon
+English Conversational Partner said:
+Alright, 1pm is noted. Just so the technician can get in smoothly, will someone be home at that time to let them in?
+You said:
+Yes I'm home at that time and let them in
+English Conversational Partner said:
+Alright, thanks. Before I lock in the 1 pm appointment, are you okay with the standard technician call-out fee if the issue is inside the unit rather than the building line?
+You said:
+Yes I'm okay
+English Conversational Partner said:
+Alright, great. Shall I go ahead and confirm the 1 pm technician for you?
+You said:
+Yes please
+English Conversational Partner said:
+Alright, the 1 pm technician appointment is now confirmed. Is there anything else I can help you with today?
+You said:
+That'll be all thank you.
+English Conversational Partner said:
+Alright, thanks for calling — hope your internet's back up soon. Have a good day.
+
+
+
+
+
+
+
+
+TASK 2: 
+English Conversational Partner said:
+Alright. This is the police front desk - what happened, and what item have you lost?
+You said:
+Hi I lost my wallet
+English Conversational Partner said:
+Alright, you've lost your wallet. When did you last have it with you?
+You said:
+I'm not sure because I drunk at 4am
+English Conversational Partner said:
+Alright, sounds like it was sometime around 4 a.m. after drinking. Where were you at that time do you remember the place or area you were in last?
+You said:
+Maybe near the Chinatown
+English Conversational Partner said:
+Alright, near Chinatown. Do you remember which part - maybe a bar, a street, or a station around there?
+You said:
+Cheers bar
+English Conversational Partner said:
+Alright, thanks - Cheers Bar helps narrow it down. Could you describe what your wallet looks like?
+You said:
+Black and folded small wallet
+English Conversational Partner said:
+Alright, a small black folded wallet. What items did you have inside it — cards, ID, cash?
+You said:
+Driver's license and two credit cards, 150 dollars bill
+English Conversational Partner said:
+Alright, so you had your driver's licence, two credit cards, and about $150 in cash inside.
+Could you tell me the name on the ID so we can record it correctly in the report?
+You said:
+Yes, sure I'm Ryota
+English Conversational Partner said:
+Alright, Ryota, thanks. What's the best phone number for us to contact you if the wallet is turned in?
+You said:
+0123456
+English Conversational Partner said:
+Alright, got your number. When did you first notice the wallet was missing — was it this morning when you woke up?
+You said:
+I noticed when I woke up at 11:30
+English Conversational Partner said:
+Alright, you realised it around 11:30. Have you had a chance to retrace your steps or contact Cheers Bar to see if anyone handed it in?
+You said:
+No I haven't
+English Conversational Partner said:
+Alright, no worries — it happens. Would you like me to file an official lost-property report for you now, or would you prefer to contact the bar first?
+You said:
+I'd like you to file a lost-property report
+English Conversational Partner said:
+Alright, l'll file the lost-property report for you now under your details. Is there anything else you'd like help with regarding the missing wallet?
+You said:
+Nothing thank you sir
+English Conversational Partner said:
+Alright, thanks for reporting it — we'll contact you if it's turned in. Take care.
+
+
+TASK 3: 
+English Conversational Partner said:
+This is your property manager - what seems to be broken in your unit today?
+You said:
+My fridge is making a loud noise and not cooling
+English Conversational Partner said:
+Alright, so the fridge is noisy and not cooling.
+How long has it been doing that?
+You said:
+About a week
+English Conversational Partner said:
+Alright, about a week. Has anything changed with it recently — like the light turning off or the freezer warming up too?
+You said:
+Sometimes the light turns off and freezer warms up
+English Conversational Partner said:
+Alright, that helps — the light cutting out and freezer warming up are good signs it's failing.
+Could I get your addres- co I can log the repair properly
+You said:
+Yes 345 Miller street
+English Conversational Partner said:
+Alright, thanks for that - 345 Miller Street. Could you tell me your unit number as well so I can send the technician to the right place?
+You said:
+House1,room5
+English Conversational Partner said:
+Alright, House 1, Room 5 - got it. When are you available for a technician to come and check the fridge?
+You said:
+1pm on Saturday is the best
+English Conversational Partner said:
+Alright, 1 pm on Saturday works. Will someone be home at that time to let the technician in?
+You said:
+I'll be home and let them in
+English Conversational Partner said:
+Alright, good to know you'll be there. Before I book it in, could I get yr - contact number in case the technician ne to call you on arrival?
+You said:
+Yes, 123456
+English Conversational Partner said:
+Alright, thanks, I've got your number noted.
+Just so I can mark the urgency, is the fridge completely not cooling now, or is it still a little bit cold inside?
+You said:
+It's still a little bit cold inside
+English Conversational Partner said:
+Alright, a little cold but not holding properly
+thanks. Would you like me to go ahead and confirm the Saturday 1 pm technician for you?
+You said:
+Yes please
+English Conversational Partner said:
+Alright, the Saturday 1 pm technician is now confirmed for your fridge repair. Is there anything else I can help you with today?
+You said:
+Nothing thank you
+English Conversational Partner said:
+Alright, thanks — just give us a call if anything else comes up. Have a good day.

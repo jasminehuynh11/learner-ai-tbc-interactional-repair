@@ -1,0 +1,232 @@
+TASK 1: 
+
+Você disse:
+“Hello, how are you? Can you help me?”
+00:03
+English Conversational Partner disse:
+Hello! I’m doing well, thank you! I’d be happy to help. What do you need assistance with today?
+Você disse:
+“Então, minha internet parou de funcionar hoje.”
+00:04
+English Conversational Partner disse:
+Oh, I’m sorry to hear that! Let’s see how we can fix it. Could you let me know if you’re having trouble with a specific device, or is it affecting everything in your house?
+Você disse:
+“In my house.”
+00:01
+English Conversational Partner disse:
+Got it, thanks for that. Alright, let me see… Have you tried restarting your router or modem yet?
+Você disse:
+“Yes, yes, I tried, but no, it turned the internet.”
+00:07
+English Conversational Partner disse:
+I see, gotcha. In that case, let’s try something else. Have you checked if the cables are securely connected, or maybe if there’s an outage in your area?
+Você disse:
+“No, it's connected, but not working.”
+00:04
+English Conversational Partner disse:
+Alright, I understand. In that case, we might want to check if other devices are connecting as well, or if it’s just one device. Also, have you tried checking the network settings on your device to see if it’s connected to the correct network?
+Você disse:
+“Okay”
+00:01
+English Conversational Partner disse:
+Great! Let me know
+Você disse:
+“If the service is easy to fix it by today, do I get a return or credit?”
+00:06
+English Conversational Partner disse:
+That’s a good question! Usually, providers do offer credits or refunds if there’s a prolonged outage. You might want to check with your internet service provider’s customer support to confirm their policy.
+Você disse:
+“So, can I get this in writing for my record?”
+00:04
+English Conversational Partner disse:
+Absolutely! Typically, they can provide you with a written confirmation or a statement detailing any credits or refunds. It’s definitely something you can request from their support team, and they should be able to send it to you via email or even through their online portal.
+Você disse:
+“Okay, perfect. And can you give me a reference number for this request?”
+00:08
+English Conversational Partner disse:
+Of course! Usually, the provider will generate a reference number for you once you contact their support. I’d recommend reaching out directly to them, and they’ll be able to provide that reference number right away. Let me know if you need help with anything else!
+Você disse:
+“Okay, so for now that's it. My internet go back today, yeah?”
+00:08
+English Conversational Partner disse:
+That’s great to hear! I’m glad it’s back up and running. If you need any more help in the future, just let me know. Otherwise, have a wonderful day!
+
+
+TASK 2
+Você disse:
+“Hello!”
+00:01
+English Conversational Partner disse:
+Hello! How
+Você disse:
+“How is the”
+00:00
+English Conversational Partner disse:
+I’m doing great, thank you! How about you? What can I help you with today?
+Você disse:
+“So, I'm staying at this hotel, and I believe I left my phone in the lobby.”
+00:07
+English Conversational Partner disse:
+Oh, I’m sorry to
+Você disse:
+“Could you help me check, please?”
+00:02
+English Conversational Partner disse:
+Of course, I’d be happy to help! Could you let me know approximately when you last saw your phone in the lobby?
+Você disse:
+“I'm sorry, I don't understand.”
+00:02
+English Conversational Partner disse:
+No worries at all! Could you tell me when you last saw your phone in the lobby, maybe the time or the day?
+Você disse:
+“Oh, yeah. Before the launch, then it's disappeared, so I use until launch. After, I don't know.”
+00:12
+English Conversational Partner disse:
+Got it, that’s helpful! So, it was there before lunch. Could you also let me know the exact location in the lobby where you left it, or maybe which seating area you were in?
+Você disse:
+“Oh, I don't know, maybe near the TV.”
+00:04
+English Conversational Partner disse:
+Alright, that definitely helps narrow it down! I’ll check near the TVs. Is there anything else you remember, like if you had any accessories with your phone, such as a case or headphones?
+Você disse:
+“Yes, the phone has a blue case and a cracked screen.”
+00:07
+English Conversational Partner disse:
+Perfect, that’s really useful to know. I’ll keep an eye out for that blue case and the cracked screen. Is there anything else that might help us identify it more easily?
+Você disse:
+“No, I think that's it. I appreciate your help.”
+00:05
+English Conversational Partner disse:
+Of course, I’m happy to help! I’ll go check the lobby and let you know if I find it. Feel free to let me know if you think of anything else in the meantime!
+Você disse:
+“Okay, so I will go back in maybe 13 minutes.”
+00:05
+English Conversational Partner disse:
+Sounds good! I’ll keep an eye out, and hopefully, we’ll have it ready for you by the time you return. Just let me know if you need anything else in the meantime!
+Você disse:
+“For now, no, it's okay. Thank you so much. I appreciate your help.”
+00:07
+English Conversational Partner disse:
+You’re very welcome! I’m glad to help. Just let me know if anything else comes up, and I’ll be here. Have a great time, and I hope you find your phone soon!
+
+TASK3
+🏠 Reporting an issue at a rental property 🗨️ 
+
+Você disse:
+“Hi, I'd like to report a damage at my rental property.”
+English Conversational Partner disse:
+Of course. Could you please tell me what kind of damage you’re reporting?
+Você disse:
+“So, how are you?”
+00:01
+English Conversational Partner disse:
+I’m doing well, thank you! How about you? Let me know the details of the damage, and I’ll help you out.
+Você disse:
+“Yes, please, I would like to report a damage at my rental property.”
+00:06
+English Conversational Partner disse:
+Absolutely, I’m here to help. Could you let me know what specific damage you’ve noticed, and which part of the property it’s in?
+Você disse:
+“Yes, my shower is only ice water.”
+00:08
+English Conversational Partner disse:
+Oh, I see! So the shower water is only coming out as ice-cold? That definitely sounds uncomfortable. Could you let me know if this issue started suddenly or if it’s been ongoing for a while?
+Você disse:
+“Okay, the problem started on Monday.”
+00:05
+English Conversational Partner disse:
+Got it, thanks for sharing that. And just to confirm, have you tried adjusting the temperature settings or is it consistently cold no matter what?
+Você disse:
+“Oh, I don't know the number, but it's very cold.”
+00:03
+English Conversational Partner disse:
+I understand, that must be frustrating. All right, could you let me know if there’s any other issue, like with the water pressure or maybe any visible leaks?
+Você disse:
+“Oh, I'm sorry, I don't understand, what do you repeat, please?”
+00:04
+English Conversational Partner disse:
+Of course, no problem! I was just asking if you’ve noticed any other issues, like low water pressure or any leaks around the shower area.
+Você disse:
+Transcrição indisponível
+00:03
+English Conversational Partner disse:
+I see, so there might be some leaks as well. Thanks for letting me know. Could you also tell me if you’ve already informed your landlord or property manager about this issue?
+Você disse:
+Transcrição indisponível
+00:01
+English Conversational Partner disse:
+Got it, thanks for sharing that. In that case, would you like some guidance on how to report it formally, or is there any additional detail you think I should know?
+Você disse:
+“Okay, so...”
+00:02
+English Conversational Partner disse:
+No worries at all!
+Você disse:
+Transcrição indisponível
+00:03
+English Conversational Partner disse:
+Absolutely, that makes sense. We'll definitely make sure to get that sorted out. Is there anything else you’d like to add or any other concerns you have about the property?
+Você disse:
+“Ah, okay. Perfect.”
+00:01
+English Conversational Partner disse:
+Great! If you need anything else or have any more questions, just let me know. I’m here to help!
+Você disse:
+“Okay, thank you. For now, that's it. So, thank you.”
+00:03
+English Conversational Partner disse:
+You’re very welcome! Glad I could help. If you need anything else in the future, just reach out. Have a wonderful day!
+Você disse:
+“Have a good day, see ya!”
+00:01
+English Conversational Partner disse:
+You too! Take care and see you next time. Bye for now!
+
+
+
+TASK4
+“Hello, good evening. Can you help me?”
+00:03
+English Conversational Partner disse:
+Of course, good evening! I’d be happy to help. What do you need assistance with today?
+Você disse:
+“So, my internet browsers won't load anything.”
+00:05
+English Conversational Partner disse:
+Oh, I see. That sounds frustrating. Let's try to figure it out. Could you let me know which browser you're using and if you've noticed any error messages?
+Você disse:
+“Okay, so I use my cell phone, it is iPhone 16, and I try send message and open the navigator, but I don't know, I can't.”
+00:24
+English Conversational Partner disse:
+Got it, thanks for sharing that. So you're using an iPhone, and the browser isn’t loading anything. Have you tried checking if your Wi-Fi or cellular data is working properly? Or maybe restarting your phone?
+Você disse:
+“Yes, my Wi-Fi is connected and working normally, but my internet, no.”
+00:09
+English Conversational Partner disse:
+I see, that helps narrow it down.In that case, have you tried opening a different app that uses the internet, just to confirm if it’s only the browser that’s affected? Or we could try clearing the browser’s cache as well. Let me know!
+Você disse:
+“Anything browser won't load. My internet sends messages. I try anything, but I don't know. Don't load.”
+00:16
+English Conversational Partner disse:
+I understand, that can be quite tricky. In that case, we can try restarting your phone and see if that helps refresh the connection. If that doesn’t work, we might also check if there are any updates pending for your phone or the browser app. Let me know how it goes!
+Você disse:
+“Okay, should I update this software?”
+00:03
+English Conversational Partner disse:
+Yes, definitely! Updating the software can often fix connectivity issues. So, if you check for any available updates and install them, that might help. Let me know if you need any guidance on how to do that!
+Você disse:
+“All right, so one moment, I will update the software now.”
+00:04
+English Conversational Partner disse:
+Sounds good! Take your time, and if you run into any issues or have more questions during the update, just let me know. I'll be here to help!
+Você disse:
+“Okay, finish now. It's working again, so thank you so much. Appreciate your support.”
+00:07
+English Conversational Partner disse:
+Oh, that’s wonderful to hear! I’m really glad it’s all working now. You’re very welcome, and if you need anything else, just let me know. Have a great day!
+Você disse:
+“Thank you so much. Have a good night.”
+00:02
+English Conversational Partner disse:
+You too! Have a wonderful night, and take care!
+

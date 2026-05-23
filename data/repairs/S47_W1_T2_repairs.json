@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S47_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – unclear about bot's suggestion",
+    "evidence_summary": "The learner asks the bot to repeat its previous suggestion, indicating a lack of understanding. The bot repeats its question, and the learner then provides a specific time for the reservation, resolving the issue."
+  }
+]

@@ -1,0 +1,332 @@
+WEEK 2: 
+TASK 1: APPOINTMENT IN MEDICAL CLINIC
+You said: 
+Hi, I would like to make an appointment for Medical Clinic
+English Conversational Partner said:
+Sure. What’s the reason for your visit so I can book the right appointment for you?
+You said:
+“Hi, I would like to make an appointment to see a doctor.”
+00:04
+English Conversational Partner said:
+Of course! What kind of medical concern or reason do you have for the appointment today?
+You said:
+“You see, this morning I woke up with a lot of pain in my left eye.”
+00:07
+English Conversational Partner said:
+I'm sorry to hear that. How long have you been experiencing this eye pain, and is there anything else unusual that you’ve noticed?
+You said:
+“It's too weird. It just started this morning and was...”
+00:05
+English Conversational Partner said:
+I see, that does
+You said:
+“I have a small pain, but right now it's 12 o'clock and I can't stand with the pain.”
+00:10
+English Conversational Partner said:
+I’m sorry it’s so uncomfortable. Let’s get you seen as soon as possible. Could you let me know your preferred date and time for the appointment?
+You said:
+“Can I get an appointment for today? What's the most closest available free schedule that you have?”
+00:11
+English Conversational Partner said:
+Absolutely, let me check the earliest slots for today. Could you also let me know your name and contact information so I can book it for you?
+You said:
+“Por supuesto, mi nombre es Nicolás Hernández.”
+00:03
+English Conversational Partner said:
+Great, thank you,
+You said:
+“And my phone number is 0450-932-...”
+00:06
+English Conversational Partner said:
+Perfect, thank you,
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+Got it! I’ll look for the earliest available slot today for you, Nicolas. Is there any particular time of day that works best for you?
+You said:
+“Could we today at 4pm?”
+00:02
+English Conversational Partner said:
+All right, let me check that for you. I’ll confirm if we have a 4 p.m. slot available and then we’ll get you all set. Just give me a moment.
+You said:
+“Sounds cool. Thank you.”
+00:01
+English Conversational Partner said:
+You’re welcome! I’ll let you know in just a moment once I have that confirmed. If you have any other preferences in the meantime, just let me know!
+You said:
+“Yeah, can you confirm my name and number just to be safe that it's the same, the right one?”
+00:06
+English Conversational Partner said:
+Of course! Your name is Nicolas Hernandez, and your phone number is 0450 932 105. That’s correct, and I’ll make sure everything matches up when I book the appointment. Let me confirm that slot for you now!
+You said:
+“Yeah, that's correct. Thank you.”
+00:01
+English Conversational Partner said:
+You’re very welcome! I’ll finalize everything and let you know once it’s all set. If you need anything else in the meantime, just let me know!
+You said:
+“Yeah, actually, I have a meeting, a job meeting with my co-workers. Is there any possibility to change, for example, for, I don't know, tomorrow at 1 p.m.?”
+00:15
+English Conversational Partner said:
+Absolutely, we can do that! Let me check availability for tomorrow at 1 p.m. and I’ll make sure to reschedule it for you. Just give me a moment!
+You said:
+“All right, I'm here with my appointment with Dr. James.”
+00:05
+English Conversational Partner said:
+Perfect, I’ve got that noted. I’ll make sure your appointment with Dr. James is set for tomorrow at 1 p.m. If anything else comes up, just let me know, and I’ll be happy to help!
+You said:
+“That's all for now, thank you, and I'm gonna see you tomorrow.”
+00:03
+English Conversational Partner said:
+You’re very welcome! I’m glad we got everything sorted out. Take care, and I’ll see you tomorrow. Have a great day!
+You said:
+“You too, thank you!”
+00:01
+English Conversational Partner said:
+You're welcome! Take care and see you soon!
+You said:
+“Hello, it's me again. It's Nicolas. Do you remember me?”
+00:02
+English Conversational Partner said:
+Of course, Nicolas! I remember you. It’s great to hear from you again. How can I help you today?
+You said:
+“As you see, I have a friend, can I make the appointment for him as well?”
+00:08
+English Conversational Partner said:
+Absolutely, we can do that! Just let me know your friend’s details and the reason for their visit, and I’ll get everything arranged.
+You said:
+“His name is Ravi Kamaladee.”
+00:03
+English Conversational Partner said:
+Great, thanks for that! Could you also let me know the reason for Ravi’s visit and any preferred date or time that works for him?
+You said:
+“Yeah, he has gonorrhea.”
+00:02
+English Conversational Partner said:
+I understand. In that case, I'll make sure we arrange an appointment that’s appropriate for his needs. If you could let me know his preferred time or any other details, that would be perfect.
+You said:
+“Yeah, he has time this week, he doesn't speak English, he just speaks Arabic. So, is there any possibility to have a translator in the appointment?”
+00:12
+English Conversational Partner said:
+Absolutely, we can definitely arrange for a translator who speaks Arabic. I’ll make a note of that and find a suitable time for Ravi this week. Thanks for letting me know, and I’ll take care of everything for you!
+You said:
+“Okay, what do I need for my appointment and Robby's appointment?”
+00:05
+English Conversational Partner said:
+For both appointments, we'll just need some basic details. For Ravi, we'll want his identification and any relevant medical history. For both of you, it’s good to have your contact information, any insurance details if applicable, and a list of any symptoms or concerns. Once we have that, we’ll be all set!
+You said:
+“Okay, for example, for me, I don't have Medicare.”
+00:03
+English Conversational Partner said:
+Got it, that’s totally
+You said:
+“Because I'm not a Thalian, it's any problem with that?”
+00:03
+English Conversational Partner said:
+Not a problem at all! We can still proceed with the appointment, and we’ll make sure everything is arranged accordingly. If there’s anything else you need, just let me know!
+You said:
+“I have some assurance. I'm gonna send you the details by email.”
+00:05
+English Conversational Partner said:
+That sounds perfect! Once we receive the details, we’ll have everything ready. Just let me know if you need any further assistance, and I’ll be happy to help!
+You said:
+“OK, I'm going to give you Robby's contact. His number is 0433981.”
+00:12
+English Conversational Partner said:
+Perfect, thank you for
+You said:
+“444”
+00:01
+English Conversational Partner said:
+Got it, I’ve noted that down. I’ll make sure to keep everything organized for Ravi as well. If there’s anything else you need, just let me know!
+You said:
+“Yeah, he has an space in his shuttle next Friday.”
+00:05
+English Conversational Partner said:
+Alright, that’s great to know! I’ll make sure to schedule his appointment for next Friday and keep everything coordinated. If there’s any other detail you want to share, just let me know!
+You said:
+“Yeah, I need for my appointment, I would like to have, I would like to get the...”
+00:12
+English Conversational Partner said:
+No worries at all! Whenever you’re ready, just let me know what you need, and I’ll make sure everything’s arranged for your appointment. Take your time!
+You said:
+“Yeah, the confirmation of the appointment, because at that specific time I have to work, so I need to show the confirmation to my boss.”
+00:14
+English Conversational Partner said:
+Absolutely, I’ll make sure to send you a confirmation once everything is booked. That way, you’ll have it handy for your work. Just let me know if you need anything else, and I’ll take care of it!
+You said:
+“Can I request a copy of my results after the visit, please?”
+00:04
+English Conversational Partner said:
+Of course! I’ll make sure that you receive a copy of your results after the visit. If there’s any specific format or way you’d like to receive them, just let me know, and I’ll arrange that for you as well!
+You said:
+“Yeah, I think that's everything. Dr. James told me that you're going to give me the prescription to get my eye drop for my eye.”
+00:11
+English Conversational Partner said:
+Got it, that sounds good! I’ll make sure everything is noted and that you’ll have that prescription ready for you. If you need anything else at all, just let me know, and I’m happy to help!
+You said:
+“I think that's all. Thank you so much.”
+00:01
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you need anything else in the future, just reach out. Have a wonderful day!
+You said:
+“Oh, thank you. You too. Have a lovely day.”
+00:01
+English Conversational Partner said:
+Thank you so much! Take care, and I’ll talk to you soon. Bye for now!
+You said:
+“Bye.”
+00:00
+English Conversational Partner said:
+Bye! Have a great
+
+
+TASK 2: OPEN A BANK ACCOUNT 
+You said:
+Hi, would like to open a new bank account
+English Conversational Partner said:
+Sure. Is this account for personal use or for a business?
+You said:
+“Hi, I would like to open a new saving account in the bank.”
+00:07
+English Conversational Partner said:
+Great! Are you planning to open this account individually, or will it be a joint account with someone else?
+You said:
+“Not individually, it's for me.”
+00:01
+English Conversational Partner said:
+Got it, just for you. Now, do you have any specific preferences for the type of savings account, like interest rates or features?
+You said:
+“I'm not sure, it's just a student account.”
+00:05
+English Conversational Partner said:
+Alright, a student account works perfectly. Could you let me know if you have any specific documents or ID that you’ll be bringing along for the application?
+You said:
+“아, 그럼요. 제 파스포드와 아이디가 있습니다.”
+00:04
+English Conversational Partner said:
+Perfect, that’ll work well. Is there a particular branch or location where you'd like to open the account, or is any branch convenient for you?
+You said:
+“I'm located in Redfern.”
+00:02
+English Conversational Partner said:
+Got it, Redfern works
+You said:
+“Thank you.”
+00:03
+English Conversational Partner said:
+Perfect! So we’ll go ahead with the Redfern branch. Is there a specific time or day that works best for you to come in, or are you flexible?
+You said:
+“I'm flexible, but I would like to know that should I do an appointment for that.”
+00:05
+English Conversational Partner said:
+It’s definitely helpful to have an appointment, but walk-ins are usually welcome as well. Would you like me to help you schedule an appointment, or do you prefer to just drop by at your convenience?
+You said:
+“Maybe we can do the appointment right now. What about Monday? Tomorrow is going to be Monday, maybe Monday at 3 p.m.”
+00:07
+English Conversational Partner said:
+That sounds great! I’ll schedule you for Monday at 3 p.m. Is there any additional information or special requests you’d like to add?
+You said:
+“No, I think that's it, but can I open my account without the TVN number?”
+00:10
+English Conversational Partner said:
+That’s a great question! In most cases, you’ll need a TFN for certain types of accounts, but we can definitely check the requirements for a student account. We’ll go over it during your appointment as well. Sound good?
+You said:
+“Okay, sure. You need my telephone number, iPhone number, sorry, or my home address?”
+00:05
+English Conversational Partner said:
+Yes, that would be helpful. If you could provide your phone number, that way we can confirm your appointment and reach out if needed. And if you’d like, we can also note your home address for any future correspondence. Whatever’s easiest for you!
+You said:
+“Awesome, awesome. Yeah, my phone number is 0450-932-105.”
+00:08
+English Conversational Partner said:
+Perfect, thank you! I've got that noted down. We’re all set for Monday at 3 p.m. If you have any other questions before then, just let me know!
+You said:
+“Yeah, my home address is 50 Wells Street.”
+00:04
+English Conversational Partner said:
+Awesome, thank you for
+You said:
+“Kode postal adalah 2016.”
+00:04
+English Conversational Partner said:
+Perfect, I’ve got all the details now. We’re all set for your appointment on Monday. If anything else comes up, feel free to reach out. Looking forward to helping you get started!
+You said:
+“Yeah, I would like to know, you mentioned about the features, what's the difference between one or another bank account, for example, mine is student, but what's the difference with another kind of bank accounts?”
+00:14
+English Conversational Partner said:
+Great question! Generally, student accounts often have lower fees, sometimes higher interest rates on savings, and additional perks like no minimum balance requirements. Regular accounts might have more standard fees or different features. We can definitely go over all the details during your appointment to find the best fit for you!
+You said:
+“I got it, I got it, thank you. Yeah, I have another question. Is there a monthly fee for this account?”
+00:07
+English Conversational Partner said:
+That’s a great question! Usually, student accounts have minimal or even no monthly fees, but it can vary by bank and by specific account type. We’ll definitely confirm all those details when we meet, so you’ll have a clear picture!
+You said:
+“Thank you, thank you so much. You guys offer also credit cards because I'm pretty new in the city and I think any moment I'm gonna need a credit card here.”
+00:11
+English Conversational Partner said:
+Absolutely, we do offer credit cards as well! We can go over the options during your appointment and find one that suits your needs, especially as you settle into the city. We’ll make sure everything’s covered!
+You said:
+“Yeah, I did the process already online, but unfortunately, I forgot.”
+00:08
+English Conversational Partner said:
+No worries at all,
+You said:
+“My online banking password. Can you help me with that, please?”
+00:05
+English Conversational Partner said:
+Of course! We can definitely help you reset your password during your visit, and make sure you have everything set up properly. Just bring along any identification and we’ll get it sorted out for you!
+You said:
+“Yeah, just in case if someday I lost my card. What's the process to get a new one?”
+00:06
+English Conversational Partner said:
+Absolutely! If you ever lose your card, you can contact us right away, and we’ll freeze it to prevent any unauthorized charges. Then, we’ll arrange for a replacement card, usually sent to your address. We’ll go through all the steps and make it super easy for you!
+You said:
+“Yeah, could you confirm my address, please?”
+00:03
+English Conversational Partner said:
+Of course! Your address is 50 Wells Street, Redfern, with the postal code 2026. Let me know if that’s correct or if there’s anything else you’d like to update!
+You said:
+“That's absolutely absolutely right. Thank you. And how do I check if international platforms are enabled on my account?”
+00:11
+English Conversational Partner said:
+Great question! You can usually check that through your online banking portal, where you can manage your settings. And if you prefer, we can also help you enable or confirm that during your appointment, so you’ll be all set for international transfers.
+You said:
+“What's the feed for the international transfers?”
+00:02
+English Conversational Partner said:
+That can vary depending on the destination and the amount, but we can definitely go over the specific fee structure during your appointment. We’ll make sure you have a clear understanding of everything before you get started!
+You said:
+“Yeah, for example, my transfers that are going to be to Colombia.”
+00:05
+English Conversational Partner said:
+Got it! Transfers
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+That makes sense! We can look into the specific rates and fees for transfers to Colombia and find the best option for you. We’ll make sure everything’s clear and convenient when we meet!
+You said:
+“質問に答えられますが、アバラッシュストリートを教えてください。”
+00:11
+English Conversational Partner said:
+Of course! Typically, the fee can range from a small flat fee to a percentage of the amount being transferred. On average, it might be around $10 to $20, but we can give you a precise number once we look at your specific bank and the amount. We’ll cover all that in detail when we meet!
+You said:
+“Okay, no, no, no, that's perfect. For now, that's, uh, that's okay.”
+00:04
+English Conversational Partner said:
+Absolutely, that sounds
+You said:
+“So, okay, I'll see you, I think, I'll see you tomorrow for the appointment and thank you.”
+00:10
+English Conversational Partner said:
+You’re very welcome! I’m looking forward to it. If you have any other questions before then, just let me know. Have a great day, and see you tomorrow!
+You said:
+“Yeah, thank you.”
+00:01
+English Conversational Partner said:
+You're very welcome! Take care, and I'll see you soon. Have a wonderful day!
+You said:
+“See you soon. Thank you.”
+00:01
+English Conversational Partner said:
+Absolutely, see you soon! Take care!

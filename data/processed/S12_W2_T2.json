@@ -1,0 +1,190 @@
+{
+  "student_id": 12,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S12_W2_T2",
+  "source_file": "data\\raw\\#12\\#12\\#12. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“a local bank branch and calling a customer service to request to help with everyday banking service and you are the you are the shopper and I'm the customer so let's start the communication.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, let's get started! Hello! This is your local bank branch. How can I assist you today with your banking needs?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to open a new CV account in your bank.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to help you with that. Could you please let me know if you have any specific requirements or if there's a particular type of savings account you're interested in?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“No yet, but you can find the table that I have finished on the website.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it! That makes it easy. I'll just confirm a few details with you. Could you please provide me with your ID and any initial deposit amount you'd like to make?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yeah, of course, and you can check it in 100.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect, I’ll take a look at that for you right away. Once I confirm everything, we’ll be all set to open your new savings account!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“So, can I set up online banking at the same time?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, we can get that set up for you as well! I'll include that in the process. Just a moment, and we'll have everything ready for you!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“And could I open the saving account and the everyday account at the same time?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely do that! I'll set up both the savings account and the everyday account for you at the same time. Let me just take care of that for you!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Can your account add into the Apple Pay?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Of course, I can help with that as well! Once we have everything set up, I'll guide you through adding your new accounts to Apple Pay. Just a moment, and we'll get it all done!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“So when will I receive your physical card?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "You should receive your physical card within about 5 to 7 business days. In the meantime, you'll be able to use the accounts digitally. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“So if I want to use the card emergency, could I use the online bank?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely! You can start using the online banking right away, and that will give you access to all your accounts digitally, including making payments and transfers. If you need any help with that, I’m here for you!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“If I want to transfer a large amount of my money, how do you verify the identity for me?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "We do have a security process in place for larger transfers. Typically, we’ll verify your identity through a secure code sent to your phone or email, and sometimes we might need a quick verification call. I can guide you through that whenever you're ready!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“So could you assure that you will make nothing wrong when I transfer a huge amount of money?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure everything is handled securely and smoothly for you. You can count on me to guide you through the process, and if you have any concerns, I’m here to help."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“OK, so at the same time, can I get, um, can I...”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course, I’m here whenever you need"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“So, I can open a joint account with my partner.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely open a joint account with your partner. I'll just need a few details from both of you, and we can get that set up at the same time. Let me know when you're ready!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Yes, we are ready. So what details do you need?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Great! I'll just need some basic information from both of you, like your full names, addresses, and identification details. We can also discuss any specific preferences for the account. Let’s get started!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, that's all, and I won't give you the details.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Perfect! I'll be ready to take those details from you whenever you're set. Just let me know, and we'll get everything all squared away!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“You will receive the physical card just a few days later and in our home, right?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, that’s perfect! You can expect to receive your physical card in just a few days at home. If you have any other questions or need help with anything else, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“ご視聴ありがとうございました。”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you need anything else in the future, just reach out. Have a wonderful day!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Have a good day. Bye.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Take care! Bye for now, and have a great day!"
+    }
+  ]
+}

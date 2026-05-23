@@ -1,0 +1,280 @@
+{
+  "student_id": 34,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S34_W3_T1",
+  "source_file": "data\\raw\\#34\\#34\\#34. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I want to practice how to report an internet outage at my housing.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course! Let’s"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“You are an internet support staff working in an internet company in Sydney. I'll play the role of a customer. Please create a realistic internet company scenario and response as if we are really there. Ask me about the program and assistant. Keep the conversation going naturally by asking at least three follow-up questions.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! Let’s get started. HarbourNet Support: Hi there! Thank you for contacting HarbourNet Internet Support. How can I assist you with your internet connection today?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Hi, my internet has stopped working.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that! Could you let me know when you first noticed the outage, and if you’ve tried any troubleshooting steps so far?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“It was fine this morning, but now it won't connect.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, thanks for"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I've already checked my modem, but it is moving properly.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, that’s helpful to know. Just to confirm, are you experiencing this outage in just one room, or is it happening throughout the entire house?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“well”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Thanks for clarifying. And just one more thing: have you noticed any error messages or lights on the modem that might be unusual?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“When I check the modem,”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, that sounds good."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I saw green light”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Great, that means the"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“And I think it's usual.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Got it, that’s good to know. In that case, let me check if there are any outages in your area. Could you also let me know your address or the account number so I can look it up for you?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect, thank you! Once I have"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“My address is ABC. My name is blah blah blah.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Thank you for that information! Let me just pull up your account details and see what’s going on in your area. One moment, please."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You’re welcome! I’ll check everything and let you know what I find. Just give me a moment, and I’ll keep you updated."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Few minutes later”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Alright, I’ve checked the system, and it looks like there is a minor outage in your area right now. Our technicians are working on it, and it should be resolved within the next few hours. Is there anything else I can help you with in the meantime?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Do I need to reset the modem after outage would be solved?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, once the outage is resolved, your modem should reconnect automatically. But if you still don’t have a connection after that, a quick reset can definitely help. I’ll be here if you need any assistance!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Thank you”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you have any other questions or need further help, just let me know. Otherwise, I hope your internet gets back up and running smoothly soon!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“This has happened three times this month. What can be done?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "I’m really sorry to hear that it’s been recurring. We can definitely look into more permanent solutions, like scheduling a technician visit to check the lines or even considering a modem upgrade. Would you like me to arrange a technician appointment for you?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“A yes, please.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll get"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“I would like to technician check my model.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Great! I’ll arrange that for you. Could you let me know a convenient date and time for the technician visit, and I’ll make sure everything is set up?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Well, this weekend, I will have work at the morning, but it might be free at noon. So, if technician can come here at noon exactly, I can deal with it.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That sounds perfect!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“But if they cannot come here at noon, I prefer weekdays like Monday night or Tuesday evening.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Got it, that’s really helpful to know. I’ll do my best to schedule the technician for noon on the weekend, and if that’s not possible, we’ll aim for Monday night or Tuesday evening. I’ll confirm the appointment details and let you know shortly!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“A few minutes later...”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Alright, I’ve got everything set up! The technician will be visiting at noon this weekend. If anything changes or if you need further assistance, just let me know. Hopefully, this will resolve the issue for good!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Oh, sorry. What day the wheels they come?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "No worries at all! They’ll be coming this weekend, specifically on Saturday at noon. If that time doesn’t work out, we can always look at Monday night or Tuesday evening as backup. Let me know what works best for you!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Okay, starting here is fine for me.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Perfect, that’s all set then! I’ll confirm that the technician will be there on Saturday at noon. If anything comes up in the meantime, just reach out. I’m glad we could sort this out!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“What should I try before they will come?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "That’s a great question! Before the technician arrives, you can try restarting your modem and router just to make sure everything is as it should be. Also, double-check any cables and connections to ensure they’re secure. And if you notice any specific error messages, that can help the technician as well. But hopefully, everything will be fine by then!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Okay, I'll try it.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "That sounds great! If you have any other questions or need help in the meantime, just let me know. I’m here to help, and I hope everything goes smoothly for you!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“No, thank you. I'll wait for the technician this weekend.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Sounds perfect! I’m glad we could get everything arranged. If anything comes up, don’t hesitate to reach out. Have a great day, and I hope your internet is back to normal soon!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Thank you, you too. Bye.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care, and goodbye for now!"
+    }
+  ]
+}

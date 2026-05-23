@@ -1,0 +1,165 @@
+{
+  "student_id": 37,
+  "week": 4,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S37_W4_T1",
+  "source_file": "data\\raw\\#37\\#37\\#37. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Participating in Group Decisions and Negotiating Responsibilities"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Participating in Group Decisions and Negotiating Responsibilities: “ Hello, our assignment is due next week. Can we decide who will do each part?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! What are the main parts of the assignment that we need to divide up?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Yes, we can divide, I can start and them you can continuous"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, got it—you’ll start, and I’ll continue after you. Which part would you like to take first?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I think I can start about introduction, then after you can talk about the main part and the middle part, and then together we can say about the conclusion."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Okay, that works for me. I’ll handle the main and middle parts—does that include research and examples, or just explaining the ideas?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I think you can include research and explain your idea. It's good."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Great, that sounds good to me. When would you like us to work together on the conclusion—before submission or on the due day?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "We can send submission."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, so we’ll submit it together. When exactly is the deadline, and how do we need to submit it—online or in class?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "On-line at 20/12"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Okay, noted—online on the 20th of December. When would you like me to send you my part so you have time to review it?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "You can send me... tomorrow?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure, tomorrow works for me. What time would be best for you to receive it so you can review it comfortably?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Any time it’s good for me, thank you"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, perfect 👍 I’ll send you my part tomorrow then—should I send it by email or through our online platform?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Yes you can sendo for my email- lemes223@gmail.com"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, no problem. I’ll send it to lemes223@gmail.com tomorrow—do you want it as a Word document or a PDF?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Yes, please"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Okay, great. Just to confirm, which format do you prefer—Word document or PDF?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Word because I can editing"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Perfect, that makes sense. I’ll send you a Word document to your email tomorrow—anything specific you want me to focus on in the research part?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "No, that’s ok"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright, sounds good 👍 I’ll prepare the research and main sections and send the Word file tomorrow. If you think of any changes or extra ideas later, what’s the best way to let me know?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Yes, sure. I think we can talk on the email"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Great, that works for me. I’ll email you tomorrow, and we can discuss any changes there—anything else you’d like to add before I start?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "No, thank so much!!"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You’re welcome! 😊 I’ll send everything tomorrow—talk to you by email. See you soon"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "See you!"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "See you! 👋 Talk to you soon."
+    }
+  ]
+}

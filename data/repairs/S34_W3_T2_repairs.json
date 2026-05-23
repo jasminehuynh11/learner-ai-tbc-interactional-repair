@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S34_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner wants to restart the scenario",
+    "evidence_summary": "The learner asks to restart the scenario in turn 5, indicating a misunderstanding or dissatisfaction with the current flow. The bot acknowledges this request and allows the learner to restart, resolving the issue."
+  },
+  {
+    "dialogue_id": "S34_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      17,
+      20
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner corrects bot's assumption about lost item",
+    "evidence_summary": "The learner expresses dissatisfaction with the bot's mention of a lost item in turn 17. The bot acknowledges the learner's preference in turn 20, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S34_W3_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      43,
+      44
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requests repetition of previous information",
+    "evidence_summary": "The learner asks the bot to repeat the previous information in turn 43. The bot complies by repeating the details in turn 44, resolving the learner's request for clarification."
+  }
+]

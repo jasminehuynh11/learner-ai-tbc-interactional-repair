@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S44_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6,
+      7
+    ],
+    "initiation": "LI",
+    "resolution": "U-A",
+    "trigger": "bot's incomplete utterance",
+    "evidence_summary": "The bot's utterance in turn 5 was incomplete ('Got it, that makes'). The learner initiated a repair by asking 'Why?' in turn 6, seeking clarification or completion of the bot's thought. The bot did not complete its previous thought but instead moved on to the next conversational step in turn 7, which the learner accepted, thus abandoning the specific issue of the incomplete sentence."
+  }
+]

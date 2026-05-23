@@ -1,0 +1,190 @@
+{
+  "student_id": 23,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S23_W3_T3",
+  "source_file": "data\\raw\\#23\\#23\\#23. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "2"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Then let's try again with the same topic."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, let's do it! Whenever you're ready, we can jump right back into the scenario, and I'll be here to help you practice again."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Hi, I'm here at the police station because I need to report my lost wallet."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course, I’m here to help. Let’s get started. Could you first tell me a bit about the wallet, like its color and any distinctive features?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "The color is yellow."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, a yellow with the rectangle shape."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Perfect, a yellow rectangular wallet. That’s really helpful. Could you also let me know when and where you last had your wallet, and what you were doing at that time?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I don't remember because when I came back to my hotel, I just realized I lost my wallet."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "I see, no worries at all. That’s still helpful to know. In that case, could you tell me the name of the hotel and the approximate time you noticed it was missing? That’ll help us narrow things down."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "I arrived at my hotel at 3 p.m. so it because happened before 3 p.m."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "No problem at all, Got it, that helps a lot. So, it was before 3 p.m. at your hotel. One more thing: could you let me know if there were any important items inside the wallet, like credit cards or ID, just so we have a complete picture?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Oh yeah, inside the wallet, it's including my ID, and my credit card, and some cash."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, thanks for sharing that. That definitely helps us in identifying the wallet and protecting your items. If there's anything else you can think of, just let me know, and we’ll make sure to get everything sorted out."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yeah, I think I dropped it in the library."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, that’s really helpful to know. We’ll definitely focus on the library area as well. If you have any specific details about where in the library you think you might have left it, that would be great. Otherwise, we’ll do our best to track it down."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "I just take a picture of me and my friend in front of the library, so it might be there."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That’s a great clue! We’ll definitely check that area thoroughly. Thank you for the details. If you think of anything else, just let me know, and we’ll make sure we do everything we can to help you out."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Okay, then can I leave my contact details?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, that would be perfect. Feel free to share your contact details, and we’ll make sure to reach out if we find anything. Let’s get that sorted."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Okay, here's my contact number and what happens if someone finds it."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Great, thank you for that. If someone finds it, we’ll contact you right away using the information you provided. We’ll also keep you updated on any developments. And if it’s not found, we’ll guide you on the next steps to take."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Do I need to fill out the form?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, we’ll just need a brief form with some details about the wallet and your contact info. It won’t take long at all, and then we’ll have everything on record. Let’s get that done, and we’ll be all set."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Can you call me if it's found and do I need to show my ID card when collecting it?"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll give you a call as soon as we have it. And yes, when you come to collect it, just bring your ID so we can verify that it’s really yours. That way, everything will go smoothly."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Thank you for today. It's really helped."
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you need anything else, just let me know. Take care, and I hope everything works out well!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Thank you. See you tomorrow."
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You're welcome! See you tomorrow, and take care until then!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Okay, how was this conversation?"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "I think it went really well! You did a fantastic job providing details and keeping the conversation natural. It’s great practice, and if you ever want to run through it again or try different scenarios, I’m here to help!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "And I think that is enough for today."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds good! I'm glad we could practice, and if you need anything in the future, just let me know. Have a great day!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Thank you!"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care, and I'll be here whenever you need me. Have a wonderful day! Week 3 –"
+    }
+  ]
+}

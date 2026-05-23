@@ -1,0 +1,150 @@
+{
+  "student_id": 22,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S22_W1_T1",
+  "source_file": "data\\raw\\#22\\#22\\#22. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I would like to order a coffee today!”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! What kind of coffee would you like today — something like a latte, cappuccino, or maybe just a black coffee? Me : “One latte and one cappuccino, please.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, a vanilla latte coming up. Would you like that hot or iced? Me : I’d like to hot please."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, hot vanilla latte. And would you prefer a particular milk—like regular, oat, or almond?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I'd like to oak milk, please.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, oat milk it is. And would you like any extra flavor shots or maybe a bit of whipped cream on top?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Name on top, please.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure thing, we’ll add some whipped cream on top. Now, will this be for here or to go?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I’d like to take away please.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "No problem, we'll make it to go. Finally, can I get your name for the order? Me : “My name is Laila.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Thanks, Lara. We’ve got that all set. Just one last thing: would you like to pay by card or cash today? συνο\"strings to match\"urls to matchurls. Me :“I would like to pay by credit card.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure, card is perfect. We’ll just run that through and you’ll be all set. Thanks for ordering with us! Let me know if you need anything else. Me :“Can I have one question.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Of course, feel free to ask whatever you need. What else can I help you with?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Can I have one chocolate chip cookie? Can I have one chocolate chip cookie?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, you sure can. We’ve got some chocolate chip cookies right at the counter. Anything else you'd like to add on? Me : “Yes, nothing else.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Perfect, I'll just add that cookie for you. That should do it. Thanks for your order, and enjoy your coffee and cookie! Me : “Yes, thank you.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You’re very welcome! Enjoy and have a great day, Lara. Me : “Thank you so very much.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "You're welcome! Take care and see you next time. Me : “See you next time!”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, see you then! Thanks again and have a good one! Me : 텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Hey there! It looks like we're all set. If you need anything else, just let me know. Me : “Can I change the milk?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure, go right ahead and let me know what you'd like to change. Me : “Yeah, I don't like to. General milk, please.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, let's shift gears. If you want to practice a different scenario or change up how we’re chatting, just let me know what you have in mind and we’ll dive right in. Me :“Could you say that again?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely! I'll switch it up. Just let me know what new role or scenario you’d like, and we’ll roll with it. Me :텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "All right, sounds good! Just let me know the new scenario whenever you're ready, and we'll jump right in."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“OK, thanks.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You're welcome! Just let me know anytime if you want to dive into a new scenario. I'm here whenever you're ready. Me : “Yeah, thank you.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Of course! Happy to help. Just let me know if you need anything else."
+    }
+  ]
+}

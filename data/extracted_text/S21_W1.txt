@@ -1,0 +1,190 @@
+Task 1:
+You said:
+Ordering Coffee at a Café Scenario: You walk into a café to order coffee and food. Practise making casual and polite requests. You will need to define the chatbots’ role as a café barista. You can choose situations from the examples below; start with a simple order and try a more detailed interaction by asking about coffee types or preparation methods. Learning objectives: • Order food and drinks using polite requests. • Ask about dietary options and food recommendations. • Inquire about prices, combos, and waiting times. • Practise informal greetings and polite closings. • Respond to casual small talk or unexpected questions. • (Advanced option) Manage extended interactions asking about coffee preferences, beans, or preparation methods. Instructions: Try to: • Ask at least three follow-up questions. • Make one change to your order or ask for a recommendation. • Respond to at least one casual or unexpected comment from the barista. • Finish the conversation politely. • (Advanced option) Use the extension prompts below to have a longer conversation. Examples of situati
+English Conversational Partner said:
+Sure. Let’s start.
+(Role: Café Barista)
+Hi there, welcome in! What kind of coffee would you like today?
+You said:
+“Latte, Latte, please.”
+00:02
+2/2
+English Conversational Partner said:
+Great choice! Would you like any specific type of milk, like almond or oat, or just regular dairy milk?
+You said:
+“Is it possible to change the soy milk?”
+00:04
+English Conversational Partner said:
+Absolutely, we can do that. Would you like any flavoring added, like vanilla or caramel?
+You said:
+“Oh, no thanks.”
+00:01
+English Conversational Partner said:
+Alright, got it! So, a latte with soy milk. Would you like something to go with that, like a pastry or a sandwich?
+You said:
+“Yao, what is your recommend today?”
+00:02
+English Conversational Partner said:
+We’ve got a fresh blueberry muffin and a delicious avocado toast. Which one sounds good to you?
+You said:
+“Thank you, Sue. I would like to choose something sweet, but I'm not good at blueberries, so instead, what do you recommend? Do you have it?”
+00:11
+English Conversational Partner said:
+Of course! In that case, we also have a classic chocolate croissant. Would you like to try that instead?
+You said:
+“Oh, yes, please. That's amazing.”
+00:02
+English Conversational Partner said:
+Perfect! So, that’s a latte with soy milk and a chocolate croissant. Would you like to have that for here, or will it be to go?
+You said:
+“I also want to order, uh, is there, is there, do you have anything vegan for my friend?”
+00:08
+English Conversational Partner said:
+Absolutely, we do! We have a vegan avocado toast and some vegan pastries as well. Would your friend prefer something savory or sweet?
+You said:
+“Maybe savory is good for health?”
+00:03
+English Conversational Partner said:
+Great! In that case, the vegan avocado toast would be perfect. Anything else you’d like to add to the order?
+You said:
+“Yeah, and also reverse, please. Maybe she wants to get some soda flavor. So do you have something new one?”
+00:09
+English Conversational Partner said:
+Absolutely! We have a sparkling raspberry lemonade and a mango iced tea. Which one do you think she’d prefer?
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+Perfect, so that’s a latte with soy milk, a chocolate croissant, a vegan avocado toast, and a mango iced tea. Anything else I can get for you?
+You said:
+“Yeah, that's enough for me. And could you give me a tap water, please?”
+00:04
+English Conversational Partner said:
+Of course, I'll add a tap water to your order. That’s all set! Anything else before I get that ready for you?
+You said:
+“This is enough. Thank you so much.”
+00:01
+English Conversational Partner said:
+You’re very welcome! I’ll have that ready for you in just a moment. Enjoy!
+You said:
+“Thank you. Have a good day.”
+00:01
+English Conversational Partner said:
+Thank you! You have a great day as well.
+You said:
+🍽️ Task 2: Booking a Restaurant Table Scenario: You are calling or visiting to make a reservation. Your Role: Customer Chatbot Role: Restaurant staff
+English Conversational Partner said:
+Sure.
+(Role: Restaurant Staff)
+Good evening, thanks for calling. How many people will you be booking the table for?
+You said:
+“Peace.”
+00:00
+English Conversational Partner said:
+Alright, a table for
+You said:
+“I'd like to make my reserve for two people at 7 p.m.”
+00:07
+English Conversational Partner said:
+Great, a table for two at 7 PM. May I have your name for the reservation, please?
+You said:
+“Okay, my name is Rui, R-U-I, Rui.”
+00:04
+English Conversational Partner said:
+Perfect, Rui. I’ve got that noted. Do you have any special requests or dietary preferences we should be aware of?
+You said:
+“Could we have a table near the window, if possible?”
+00:04
+English Conversational Partner said:
+Of course, I’ll make a note to seat you by the window. Is there anything else we can do to make your visit more comfortable?
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+All right, noted. We’ll have everything set for you. If you need anything else, just let us know.
+You said:
+“Sorry, so my friend is vegetarian, so do you have any vegetarian options?”
+00:07
+English Conversational Partner said:
+Absolutely, we have plenty of vegetarian options on our menu. I’ll make sure to let the kitchen know. Anything specific your friend would like, or should we just leave it open?
+You said:
+“And I'd like to give some cakes for my friend because this weekend is my friend's birthday, so that's why I would like to surprise something.”
+00:16
+English Conversational Partner said:
+That sounds wonderful! We can definitely arrange a birthday surprise. I’ll make a note for a special dessert or cake. Anything particular you have in mind for the cake?
+You said:
+“Could you write her name on the plate something?”
+00:03
+English Conversational Partner said:
+Absolutely, we can do that! Just let me know her name, and we’ll make it special.
+You said:
+“Her name is Manami. It's M-A-N-A-M-I.”
+00:06
+English Conversational Partner said:
+Perfect, I’ll make sure to include Manami’s name on the plate. Everything is all set for your reservation. If there’s anything else you need, just let us know!
+You said:
+“Thank you so much. So everything is good for me.”
+00:02
+English Conversational Partner said:
+You’re very welcome! We look forward to having you both. Have a great day!
+You said:
+“Thank you very much. Looking forward to it.”
+00:02
+English Conversational Partner said:
+My pleasure! We’ll see you soon. Take care!
+You said:
+👕 Task 3: Returning or Exchanging Clothes Scenario: You visit a clothing store to return or exchange something. Your Role: Customer Chatbot Role: Store assistant
+English Conversational Partner said:
+Sure.
+(Role: Store Assistant)
+Hi there, welcome back. Are you looking to return or exchange an item today?
+You said:
+“last week, but it doesn't fit me.”
+00:03
+English Conversational Partner said:
+I understand. No worries. Could you let me know the item you have and the reason it doesn’t fit?
+You said:
+“It's a little bit tiny for me, so is it possible to return or exchange the size, this medium to large?”
+00:12
+English Conversational Partner said:
+Absolutely, we can help with that. Do you have the receipt with you, and would you prefer to exchange it for the larger size or would you like a refund?
+You said:
+“We have the recipe here, so what's the return policy?”
+00:05
+English Conversational Partner said:
+Our return policy allows returns or exchanges within 30 days of purchase, as long as the item is in its original condition and you have the receipt. We can definitely proceed with the exchange for a larger size.
+You said:
+“Thank you so much. So, I have received and I also bought it last week, so maybe it's in our condition, I think. So, could you exchange the larger one, please?”
+00:20
+English Conversational Partner said:
+Of course, we can do that. Let me just verify the item and get the larger size for you. Thank you for bringing everything in!
+You said:
+“Oh, I'm sorry. I realize now. So can I return this? I've already taken off the text. I forgot to remove this text.”
+00:11
+English Conversational Partner said:
+No problem at all. We can still help with the exchange as long as the item is in good condition. Let’s take a look and we’ll get that sorted for you.
+You said:
+“Uh, so thank you so much. Thank you for your help. I appreciate your explaining the policy. Thank you so much.”
+00:09
+English Conversational Partner said:
+You’re very welcome! I’m happy to help. If you need anything else, just let me know.
+You said:
+“Yeah, so should I wait here or something next day or something like that? Should I come again?”
+00:10
+English Conversational Partner said:
+You’re welcome to wait here while we get it ready, or if you prefer, you can come back later and we’ll have it prepared for you. Just let us know what’s most convenient for you.
+You said:
+“Okay, how many hours or how many minutes, how much time?”
+00:05
+English Conversational Partner said:
+It should only take about 10 to 15 minutes to get everything sorted. Feel free to relax, and we’ll let you know as soon as it’s ready.
+You said:
+“Okay, so thank you so much. So I will stay here and I will waiting for you. Thank you very much.”
+00:08
+English Conversational Partner said:
+Of course! We’ll get everything done promptly. Thank you for your patience, and if you need anything in the meantime, just let us know!
+You said:
+“And now that's all. Thank you very much. Thank you for helping.”
+00:03
+English Conversational Partner said:
+You’re very welcome! It’s my pleasure. If you need anything else, just let us know. Have a great day!

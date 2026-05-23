@@ -1,0 +1,145 @@
+{
+  "student_id": 1,
+  "week": 3,
+  "task": 3,
+  "task_label": "T4",
+  "dialogue_id": "S1_W3_T3",
+  "source_file": "data\\raw\\#1\\#1\\#1. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Seeking Technical Support for a Device or Service"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hola, ahora voy a practicar buscando soporte técnico para un dispositivo o servicio. Eres nuestro asistente de servicio al cliente.” “Hello, now I’m going to practice finding technical support for a device or service. You are our customer service assistant.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds good! If you have any more questions or need assistance in the future, just reach out. I’m always here to help. Have a great one!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yes, I described my problem, okay? My phone keeps restarting by Excel.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, no worries at all! If you need any help or have any updates, just let me know. I’m here whenever you need me. Take care!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“My phone fell down this morning and after that it keeps restarting by itself all day and I need help with my phone because I have all information in it and I need to do payments in all places.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I’m sorry to hear about your phone! That can definitely be frustrating. If you need any help troubleshooting or figuring out what to do next, just let me know. I’m happy to assist in any way I can!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I told you save me if it's possible to fix it, it's a Samsung Galaxy 24 and I had two years ago and I don't know if it has a warranty.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, I can definitely help with that. If you share the details about your phone model and the issue, I can guide you through the steps or help you find a reliable repair service. Just let me know what you need, and we'll get it sorted out!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“It's possible to go to repair service.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course! I can definitely help you with that. Just let me know your phone model and the specific issues you’re facing, and I can point you toward some good repair options or steps to take. Just let me know!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, you have one place to, I go, I will go for repair, repair my phone.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely! I can definitely recommend some trusted repair shops or service centers, depending on your location and your phone brand. Just let me know a bit more, and I'll help you find the best place!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, where can I find this place?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "I can definitely help with that! If you let me know your location or the brand of your phone, I can suggest some reliable repair shops nearby. Just share a bit of info, and I’ll point you in the right direction!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“If they live in Adelaide, it's possible to go to the city in Adelaide.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Of course, I'd be happy to help with that! If you share your city or your general location, I can look up some good repair places for you. Just let me know, and we'll get that sorted out!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“What happens if it is not fixed after trying this step to go to repair?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "If it’s not fixed after trying, you might want to consider a few options: you could contact the manufacturer’s support, or perhaps look into a different repair service that specializes in your phone model. Sometimes, if it’s a more complex issue, it might be best to get a second opinion or even consider replacement options. But I'm here to help you navigate through it, so just let me know!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“¿Es posible... no sé cómo se dice conservar la información en inglés en mi teléfono?” \"Is it possible... I don't know how to say 'retain the information' in English on my phone?\""
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "No worries at all! I’m happy to help with that. If you want to share how it’s written or let me know the context, I can definitely help you translate or phrase it correctly in English. Just let me know what you need!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Now, I am really worried about my phone and I need your help and I am not thinking clearly, sorry. It's all for today. Maybe if could you send me for my email, in my email, the places to I go. It is really cool. Thank you so much.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course, I completely understand! I’ll be happy to send you the information via email so you have everything you need. Just let me know your email address, and I’ll make sure to get that over to you. And if you need anything else at all, just let me know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“My email is julianghilain1996, I don't know how I say it, @, gmail.com.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "No worries at all! I’ve got that. I’ll make sure to send the information to julian.ghailia1996@gmail.com. If you need anything else or have more questions, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“No, it's okay for today. Thank you so much. I appreciate your help.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If anything else comes up, don’t hesitate to reach out. Have a wonderful day!"
+    }
+  ]
+}

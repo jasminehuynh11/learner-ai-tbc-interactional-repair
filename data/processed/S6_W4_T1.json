@@ -1,0 +1,100 @@
+{
+  "student_id": 6,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S6_W4_T1",
+  "source_file": "data\\raw\\#06\\#06\\#6. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello… I want to talk about my study plan. I’m not very sure about my future."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That’s completely fine. Many students feel unsure at this stage. Let’s start with your current situation. What are you studying now?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I study business. But… I don’t know if it is right for me."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Okay, so you’re studying business, but you’re questioning whether it’s the right fit. Can you tell me what makes you feel uncertain about it?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "The subjects are okay… But I don’t feel very interested. Also, I don’t know what job I can do after."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I see. So it’s not just about the classes, but also about not seeing a clear future job path. Have you enjoyed any particular subjects so far, or do they all feel similar?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I like one subject about marketing. But accounting is very hard. I feel stressed."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That makes sense. Enjoying some subjects but struggling with others is very common. When you think about marketing, what do you like about it?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "It feels more creative. I can think more… freely."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Okay, so you’re drawn to the creative side of business. There are pathways that focus more on that area, or even related fields. Have you thought about changing your major, or are you thinking about changing your degree completely?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "I’m not sure. Changing degree feels very big. I feel scared to choose wrong again."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That’s a very honest feeling. Instead of thinking about one big decision, it might help to think about smaller steps. For example, exploring different majors, or talking to people working in different roles. How does that sound to you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "That sounds… less scary. I think I can do that."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Good. You don’t need to decide everything today. A good next step could be booking another session after you’ve explored a few options. Would you like help with that?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes. I think that would help."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Great. I’ll note that as your next step. You’re thinking carefully about this, which is a very good sign."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Thank you. I feel a bit clearer now."
+    }
+  ]
+}

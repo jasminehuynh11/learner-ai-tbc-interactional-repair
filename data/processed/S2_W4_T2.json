@@ -1,0 +1,135 @@
+{
+  "student_id": 2,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S2_W4_T2",
+  "source_file": "data\\raw\\#2\\#2\\#2. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2 Discuss Research Task"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hey, we just start our growth process. Can we plan the tags together?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, let’s do it! We can break down the project into smaller tasks and set some deadlines. Do you have any specific areas you want to focus on, or should we just brainstorm together?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "And did you know, this is a Wi-Fi project presentation, and this is the final work in this week. And last week, we already decided the infographic and robot design, and it can help avoid cancer. People can get the treatment."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That sounds like a really impactful project! So it seems like we already have a solid foundation with the infographic and the robot design. We can plan out the content for the presentation, assign different sections, and set some milestones. Let me know how you’d like"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Awesome! Just let me know what you’d like to tackle first, and we can get started on planning it all out together!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Yes, yes. And I'm gonna go to the first speech to introduction, and you're gonna tell about more detail and data information. And another, Maggie gonna tell about the robots how gonna work, how gonna work and deal with boy cancer."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect! That sounds like a solid plan. I’ll make sure to support you with the detailed data and information for your part, and Maggie can take care of the robot details. Just let me know if there’s anything specific you need!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I think, I think, because I know recently, Australia singer and actors, with second I just can't remember the news."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it! It sounds like you’ve got a recent piece of news in mind about an Australian singer and actor. If you want, we can definitely chat about that or incorporate it into our project if it’s relevant!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Oh, I remember the details. In the first, my speech, I'm going to tell about the Ben Levis, the Australian actor and singer. And because he sadly passed away at the age of 46 from the bowel cancer, and he's the shocking many in the performing arts community. And I think this is the best way for the beginning. And then it can remind anyone that disease can affect anyone, no matter how healthy, active, or successful they appear to be. What do you think?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I think that’s a really impactful and compassionate way to start your speech. It definitely sets the tone and makes the issue feel very real and relatable. I’m sure it’ll resonate with your audience. If you need any help with the details or the transition into the next section, just let me know!"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, I do know about ostomy bags! They are medical devices that help patients who have had certain types of surgeries related to the digestive system. It’s definitely an important and often overlooked aspect of living with certain health conditions, so it sounds like a really meaningful topic to include in your speech."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yeah, yeah, yeah, yeah, I'm just scared when I speak, then no one answers me. So when I mentioned about the Ostermer back, so please, you can tell the details to the classmates, please."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, I’ve got your back! If there’s a pause or if the audience needs a bit more detail, I’ll jump in and explain it clearly. I’m sure you’ll do great, and we’ll make sure everything flows smoothly!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "And this is my point, this is my opinion, and I'm kind of a bit worried about the times, because we only had, everyone had three minutes to talk about the presentation. So, when I finished this speech, and you are the next to talk about the information, did you have any idea about this part?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Got it! I’ll keep my part concise and to the point so we stay within the time limit. And if you ever need a quick recap or any help with the timing, just let me know. We’ll make sure everything fits perfectly!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Yeah, yeah, yeah. I have great ideas. Did you think in the end, when Maggie's speech, after Maggie's speech, then we can, in conclusion together, talk about bowel cancers, the theory, how serious they are, and then, and our robots can, hope our robots decide can fix this problem. What do you think?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I think that’s a fantastic idea! It will bring everything full circle and leave the audience with a strong, unified message. We’ll make sure that conclusion really drives home the impact of the project. Sounds like a solid plan!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "And did you think before we in presentation to anyone, should we just need to practice together before the presentation test?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, practicing together is a great idea! It helps everyone get comfortable with their parts, and you can fine-tune the transitions and timing. Plus, it’s a great confidence booster. So let’s definitely plan a practice session before the actual presentation!"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Yeah, yeah, yeah. So sad that Maggie got sick today. And you must let Maggie prepare the speech about his path for the robot design. And as we talked about before, the robots had the different skill where he had X eyes and his right hand can turn into the treatment. And I've just forgot a lot of other parts. Please just remind Maggie to have more idea about the robots. And before Maggie's speech, we must know more about the robot's design details. Because Maggie promised us that he do the robot design part."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Got it! I’ll make sure to remind Maggie about those details and the importance of having everything ready for the presentation. I hope she feels better soon, and we’ll make sure everything is on track for the group!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Okay, see you tomorrow, the final presentations work, I like to work with you guys, and you are the best group for me, and goodbye, see you."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Thank you so much! I really appreciate that, and I’m always here to help. Good luck with everything, and I’ll see you tomorrow! Have a great day!"
+    }
+  ]
+}

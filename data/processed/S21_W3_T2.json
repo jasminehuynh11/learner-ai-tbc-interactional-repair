@@ -1,0 +1,190 @@
+{
+  "student_id": 21,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S21_W3_T2",
+  "source_file": "data\\raw\\#21\\#21\\#21. Week3.docx.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting a Lost Item or Filing a Minor Police Report Scenario: You have lost something important (e.g. your wallet or phone) and need to report it either to a lost-and-found service or to a police station for a minor report. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a lost-and-found assistant or police officer. You can choose situations from the examples below; start with a simple report and try a more detailed interaction by asking about recovery steps, documentation, or how to follow up."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. I’ll play the role of a police officer taking your report. Good afternoon. You’re at the local police station. What item have you lost?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Bye to you.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Hello, I'd like to report a lost item. I think I lost my wallet in the train around 5 AM.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I understand. Thank you for letting us know. Could you please provide a few details about your wallet, such as its color, brand, or any distinguishing features?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“It's supposed to be brown, and the color is dramatic, but it's a really colorful one.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, a colorful"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“with their mental team.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Understood, a pale metal chain as well. Thank you for that detail. Could you also let me know the train line or the station where you last had it?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I'm sorry.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "No worries at all. Whenever you’re ready, just let me know the details, and we’ll proceed from there."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Sorry, can I, can I, what did you say that, I'm so sorry.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Of course, no problem at all. I was just asking if you could let me know the train line or the station where you last had your wallet. Whenever you're ready, feel free to share that information."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yes, so what is your question before?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I was asking for the train line or the station where you last had your wallet, just to help narrow down the location."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Oh, I see.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "No worries at all. Whenever you have that information,"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“The last train is, the last train lane is the Metro.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Got it, the Metro"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“to tell who another Gadigal to translate.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Thank you for that detail. That definitely helps. I’ll note that information, and we’ll proceed with the report from here."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“So can I leave my contact detail in case someone brings it?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, please go ahead and share your contact details, and we’ll make sure to reach out if it’s found."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“So, if someone...”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "If someone finds it,"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“If someone brings my web, please text me this number 123-456-799.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "All right, I’ve got that noted. We’ll be sure to contact you if it’s recovered. Let us know if there’s anything else we can assist you with."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Oh, do I need to fill out a report or some form?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Yes, I’ll provide you with a form to fill out with the details we discussed. Once that’s completed, we’ll have everything on record."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, could you send me an email or this short message?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Of course, I can send you the form via email or a text message, whichever you prefer. Just let me know your preferred contact method, and I’ll take care of it."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“text message please. so please text me about this number."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Perfect, I’ll make sure to text you with all the details. If you need anything else, just let me know."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“None so far, thank you for your help. I'll check back later.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "You’re very welcome! Feel free to reach out anytime. Take care, and we’ll be in touch."
+    }
+  ]
+}

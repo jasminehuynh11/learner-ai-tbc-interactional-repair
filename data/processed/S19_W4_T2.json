@@ -1,0 +1,125 @@
+{
+  "student_id": 19,
+  "week": 4,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S19_W4_T2",
+  "source_file": "data\\raw\\#19\\#19\\#19. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Participating in Group Decisions and Negotiating Responsibilities Scenario: You are part of a team working on a group project or task. You need to share opinions, agree or disagree politely, and negotiate roles, deadlines, or contributions. Practise speaking respectfully and collaboratively in a semi-formal setting. You will need to define the chatbot’s role as a teammate or project group member. You can choose situations from the examples below; start with a basic opinion or suggestion and gradually develop a more complex negotiation about deadlines, roles, or contributions. Learning objectives: • Use language for turn-taking and respectful disagreement. • Practise suggesting and clarifying ideas. • Use polite negotiation strategies. • (Advanced option) Engage in more complex group scenarios involving accountability, follow-up planning, and conflict resolution. Instructions: Try to: • Share your opinion and listen to others. • Agree, disagree, or propose a compromise. • Negotiate deadlines or roles clearly and politely. • End with a clear summary or agreement. • (Advanced option) Use the extension prompts below to have a longer or more complex discussion. Examples of situations and prompts: 1. Describe your situation • “Hi, we’ve just started our group project. Can we plan the tasks together?” • “Hello, our assignment is due next week. Can we decide who will do each part?” • “Hi, we need to choose the presentation order. What do you think works best?” “Hello, let’s talk about how to divide the research and writing sections fairly.” • “Hi, we should set our deadlines today. Can we agree on who does what?” 2. Giving and responding to opinions • “I think we should present first so we have more time to write.” • “I see your point, but I’m worried about time.” 3. Negotiating tasks • “Who wants to do the writing part?” • “Can I take notes while someone else presents?” 4. Finalising the decision • “So we’re all agreed on the new timeline?” • “Let’s message each other if we run into problems.” Extension prompts: Want to challenge yourself? (Optional) 5. Handling disagreement or hesitation Page 24 of 27 Faculty of Medicine, Health and Human Sciences/ Department of Linguistics Faculty of Science and Engineering/ School of Computing • “It sounds like we have different views. Can we find a middle option?” • “If someone can’t meet the deadline, how should we handle that?” 6. Planning for accountability and follow-up • “Should we check in every few days to stay on track?” • “Do you think we need a shared document to manage tasks?” • “How do we make sure everyone is doing their part fairly?” 7. Dealing with workload or confidence concerns • “I’m happy to try the presentation, but I’ve never done it before. Any tips?” • “This part feels too difficult for me. Can I swap with someone else?” • “Does anyone have experience with this type of project? We could learn from each other.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright, sounds good — I’ll be one of your teammates on the project. To get us started, what part of the project do you think we should plan first: research, writing, or the presentation?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, we've just started our group project. Can you plan the tasks together?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sure! Let’s figure that out together. So maybe first, let’s decide who’s comfortable handling which part. Do you have any preference on whether you’d like to do the research, the writing, or maybe the presentation part? Transcript Unavailable"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, presentation part for you, that sounds good. So from there, let’s see who might want to take on the research or the writing next. Which one do you think we should sort out now: who’ll do the research or who’ll do the writing?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I think you can do both.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sure, I can handle both if that works for everyone. So I’ll dive into the research and the writing side. Now, how about we talk a bit about when we want to have each part done? What kind of timeline are you thinking for the first draft of the presentation?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Do you have any ideas?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, we can figure that out. Let’s say maybe we aim for a first draft in about three days or so, and then we can review it together. Does that timeline sound reasonable to you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yeah, just sounds great.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Great! Three days it is. Now let’s just confirm who’s doing what so we’re all clear. I’ll handle the research and the writing, and you’ll prepare that first draft of the presentation. Does that sound like a good plan?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Do you think we need a shared document to manage tasks?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a smart idea. We can definitely set up a shared document so we can keep track of everything. How about we use something like Google Docs? Does that work for you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yeah, Google Docs is good. And how do we make sure everyone is doing their part fairly?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure! Google Docs it is. One way is we can check in every couple of days just to see how we’re all doing. So, how often would you like us to do a quick progress check-in?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“So anyway, I'm happy to try the presentation, but I've never done it before. Any tips?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to help. One tip is to keep it simple and practice a couple of times. We can also run through it together if that helps. Now, do you want to set a time for a quick practice session before we finalize everything?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yeah, I can do it in my ChatGPT. Don't worry about that.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, sounds good! If you’re comfortable practicing on your own, that works perfectly fine. So, let’s just lock in our plan: we’ve got our tasks divided, and we’ll keep track on Google Docs. Anything else you’d like to go over before we wrap up?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“No, just let's let up, and then let's message each other if we run into problems.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect. We'll just keep each other posted if anything comes up. So, with that settled, I think we’re all set. Anything else on your mind or are we good to go?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Just good to go.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Great, we’re good to go then! I’ll see you around and we’ll keep in touch on the progress. Let’s do this! Thanks for sorting everything out together. If you need anything else, just let me know."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "dialogue_id": "S34_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      19,
+      21,
+      22
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner confusion – unclear about rent amount",
+    "evidence_summary": "The learner expresses confusion about the rent amount in turn 19 by stating '$8000', which is incorrect. In turn 21, the learner clarifies their confusion by asking whether the rent is $1,800 or $8,000. The bot resolves this by confirming the correct amount as $1,800 in turn 22, and the conversation continues smoothly."
+  },
+  {
+    "dialogue_id": "S34_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      31,
+      32
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner scheduling preference – incorrect time",
+    "evidence_summary": "The learner indicates a scheduling conflict in turn 31 by stating they have an appointment at 3 PM and prefer 1:30 PM. The bot acknowledges this preference and confirms the new time in turn 32, resolving the issue."
+  }
+]

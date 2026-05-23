@@ -1,0 +1,41 @@
+[
+  {
+    "dialogue_id": "S31_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      12,
+      13,
+      14
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – learner's reference to 'Wacom'",
+    "evidence_summary": "The learner mentions 'Wacom', which is unclear in the context of scheduling an appointment. The bot interprets this as a request for weekend options and provides relevant information. The learner then confirms a Friday appointment, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S31_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner confused about discussing symptoms",
+    "evidence_summary": "The learner questions why they haven't discussed their symptoms. The bot apologizes and asks for a description of symptoms. The learner provides details, and the bot acknowledges them, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S31_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      32,
+      33
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – options for non-in-person appointments",
+    "evidence_summary": "The learner expresses uncertainty about options if they can't attend in person. The bot clarifies that telehealth options are available, resolving the learner's confusion."
+  }
+]

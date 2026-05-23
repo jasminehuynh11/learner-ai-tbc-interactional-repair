@@ -1,0 +1,160 @@
+{
+  "student_id": 6,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S6_W1_T2",
+  "source_file": "data\\raw\\#06\\#06\\#6. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a Table at a Restaurant"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi… I want to book a table."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure, no problem at all. I can help you with that. First, how many people will be coming to the restaurant?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Two people."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, a table for two. And what time were you hoping to come in today? If you’re flexible, I can also let you know what times are available."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Um… when can I get time? Sorry, I mean what time is available?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That’s okay. Let me check for you. We currently have tables available at  this evening, or at . Both times are fine, so just let me know which one works better for you."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I want… having table at 7 p.m. Sorry, I want to have a table at 7."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No problem at all. I’ll book the table for 7 p.m. Now, would you prefer to sit inside the restaurant, or would you like to sit outside if the weather is nice?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Inside. Near the window, please."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Okay, outside near the window."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Uh… sorry, not outside. Inside. Window seat inside."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Ah, I see. Thanks for letting me know. Inside the restaurant, near the window. I’ll make sure to note that request for you."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Is this booking for a special occasion, like a birthday or celebration, or is it just a regular meal?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes… it is my husband birthday."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That’s lovely. We’re happy to help celebrate. We can add a candle to the dessert if you’d like, and there’s no problem arranging that. Would you like us to do that for you?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Yes, please. Is extra money? Sorry… is there extra fee?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "No, there’s no extra charge for that at all. We’re happy to include it."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Okay, good. Also… we bring our own cake. Is it okay?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Yes, that’s absolutely fine. Just let our staff know when you arrive, and they’ll help you with it."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Okay. Um… do you have vegetarian menu? Sorry, vegetarian option?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, we do. We have several vegetarian options available on the menu, so there should be a few choices to pick from."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Okay, thank you."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright, before I finish the booking, let me just quickly confirm the details with you so everything is correct. I have a table for two people booked for today at 7 p.m., inside the restaurant, near the window."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Sorry, can you say again time and seat?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course. Your table is booked for 7 p.m. this evening, inside the restaurant, by the window."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Yes, that’s right."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Perfect. Your booking is all set. We look forward to welcoming you later today."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Okay. Thank you so much. フォームの終わり"
+    }
+  ]
+}

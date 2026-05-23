@@ -1,0 +1,215 @@
+{
+  "student_id": 28,
+  "week": 2,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S28_W2_T1",
+  "source_file": "data\\raw\\#28\\#28\\#28. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, today can we practice about the English conversation?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! Let me know what kind of scenario or setting you're interested in, and we can jump right into some roleplay practice. Feel free to suggest any particular situation you have in mind!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Okay, now we are going to practice the...”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sounds great! Whenever you're ready, just let me know the scenario or the context, and we can get started with a fun and realistic conversation. Just let me know what you have in mind!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Okay, today we are going to practice the formal interlocution with essential services.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it! We can definitely focus on formal interactions related to essential services. For example, we could practice scenarios like visiting a government office, speaking with customer service, or even dealing with utilities. Just let me know which specific service you’d like to start with, and we’ll dive right in!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Okay, today our text 1 is Facing a Medical and Booking or Changing Appointment.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Perfect! Let's do that. So, I'll take on the role of a receptionist at a medical clinic, and you can be the patient. You can let me know if you’d like to book a new appointment or change an existing one. Whenever you're ready, just let me know the details, and we'll get started!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Okay. Hi, I would like to make an appointment to see a dentist.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to help. Could you let me know which day and time would work best for you, and if you have any preferred dentist or specific concerns?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Is anyone available tomorrow morning?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Let me check that for you. We do have a few slots available tomorrow morning. Do you have a preferred time, maybe around 9 a.m. or 10 a.m.?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“OpenAI and DALL·E would be great for me.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Perfect! I’ll go ahead and schedule you for 10 a.m. tomorrow. Could you also please provide your full name and any contact details we might need?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Sorry, it's 9 a.m., okay?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We can do 9 a.m. tomorrow as well. I’ll book you in for that time. Just let me know your full name and contact info, and we’ll be all set!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“OK, my name is Jessie Wong, J-E-S-S-I-E. And last name is W-A-N-G. And should I give you my phone number or my medical number?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Thank you, Jessie! If you could provide your phone number, that would be perfect for any confirmations or reminders. And if there's a medical number or patient ID, you can share that as well. Whatever's easiest for you!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Okay, got it. I give you my phone number is 04305X6448.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Great, thank you, Jessie! I’ve got that down. So, we’re all set for your appointment tomorrow at 9 a.m. with Dr. Smith. If you have any other questions or need to make any changes, just let me know!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Oh, sorry, I need to change my appointment. Can I cancel my tomorrow's appointment?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course, no problem at all! I can cancel tomorrow’s appointment for you. Would you like to reschedule for another day or just cancel it altogether? Let me know what works best for you."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Can I train you for 2 p.m.?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that for you! I’ll reschedule your appointment to 2 p.m. tomorrow. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Yes, and can I have an appointment with Dr. Wu?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely! I'll make sure to schedule you with Dr. Wu at 2 p.m. tomorrow. Let me just confirm that for you, and you're all set! If you need anything else, just let me know."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah, and I also want to ask, is there a cancellation fee?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That’s a great question! Typically, we do have a cancellation fee if the appointment is canceled within 24 hours. But let me confirm the exact policy for you. If you need any more details, I'm happy to help!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Okay, and is it okay if I come in 10 minutes earlier?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely, that’s perfectly fine! We’d be happy to have you arrive 10 minutes earlier. That way, you can complete any paperwork and settle in comfortably. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“OK, and can I make an appointment from someone else?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Of course, you can! Just let me know their name and any details you have, and I’ll be happy to help schedule an appointment for them as well. Just let me know what you need!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Okay, can I booking one for Aaron Wu and for 3pm after me tomorrow?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that! I’ll book an appointment for Aaron Wu at 3 p.m. tomorrow, right after yours. If there are any specific details or preferences for Aaron, just let me know, and we’ll get everything arranged!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yeah, I give you his name. His name spelling is E-R-I-A-M, and the family name is W. And the phone number is 04586110099.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Perfect, thank you for that information! I’ll go ahead and schedule Aaron Wu for 3 p.m. tomorrow. If there’s anything else you need or any other details, just let me know."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Should we bring our medical card tomorrow?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Yes, that would be great! Bringing your medical card will help us confirm all the details quickly. If you have any other documents or questions, just bring them along as well. Looking forward to seeing you both tomorrow!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Okay, and we just want to check our tooth and for an ear. Should we need to pay the fee for the doctor?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, routine check-ups for your teeth and ears are covered by insurance, but it can depend on your plan. It’s always good to check beforehand, and if you need any assistance, we can definitely help you out. Just let us know if you have any specific concerns!"
+    }
+  ]
+}

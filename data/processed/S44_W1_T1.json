@@ -1,0 +1,195 @@
+{
+  "student_id": 44,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S44_W1_T1",
+  "source_file": "data\\raw\\#44\\#44\\#44. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Q1- Ordering at a café 🗨️“Hi, I would like to order a coffee today!”"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“I would like to order a cappuccino.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Awesome choice! And would you prefer that cappuccino in a small, medium, or large size?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Can you please tell me what you put inside the cappuccino?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! A cappuccino is typically made with a shot of espresso, steamed milk, and a generous layer of foamed milk on top. It’s got that nice balance of rich espresso and creamy foam. Let me know if you have any specific preferences!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Because I would like also a little bit of chocolate inside it, so can you suggest me something with it?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! We can add a little chocolate syrup or even some cocoa powder on top to give it that extra chocolaty touch. That’ll definitely make it even more delicious! Let me know if that sounds good to you."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Oh, it's perfect. And I would like to choose the medium size.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Great choice! So we'll go with a medium cappuccino, with a touch of chocolate as well. That’s going to be delicious! Is there any particular type of milk you’d prefer, or would you like to keep it standard?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“...a light milk, something without a lot of fat inside.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, light milk it is! That’ll give you a nice, creamy texture without too much richness. Perfect! Is there anything else you’d like to add, or are we all set for your order?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“The cup is big, the medium size is enough, do you think?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, a medium size is definitely plenty and will give you that perfect balance. Alright, so we have a medium cappuccino with light milk and a hint of chocolate. That sounds absolutely delicious! Let me know if there's anything else you’d like to add."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“You can offer also some biscuits or something similar to it.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Oh, absolutely! We’ve got a lovely selection of biscuits and pastries. We can add a butter biscuit, a biscotti, or even a little croissant if you'd like. Just let me know what sounds good to you!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Can you please tell me something that you have?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Of course! We have a variety, like buttery shortbread cookies, crunchy biscotti in different flavors, and some almond cookies as well. We also have a few sweet pastries, like mini croissants or fruit danishes. Just let me know what you’re in the mood for!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Do you have pain au chocolat?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yes, we do! We have delicious pain au chocolat available, fresh and flaky. That would pair wonderfully with your cappuccino. Would you like to add one to your order?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, and also our orange juice, please.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! So, we’ll have a medium cappuccino with light milk, a hint of chocolate, a pain au chocolat, and a fresh orange juice. That’s going to be a delightful combo! Let me know if there’s anything else you’d like to add."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“No, it's okay. Thank you so much.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’ll get everything prepared for you. If you need anything else at all, just let me know. Enjoy your coffee and your treats!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Thank you. Can I sit here? There?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course, absolutely! Feel free to take a seat wherever you’d like, and I’ll bring your order over as soon as it’s ready. Enjoy your time!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“I have to wait over there, or I can take it by myself.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You’re welcome to do either! If you’d like, you can have a seat and I’ll bring it right over once it’s ready, or if you prefer, you can just pick it up at the counter. Whatever’s most convenient for you!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "(Transcription not available)"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That sounds perfect! I’ll bring your order right over to you as soon as it’s ready. In the meantime, just relax and enjoy yourself!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Thank you so much.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything at all, just let me know. Enjoy your time and your coffee!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“And about the payment, can I pay with my card?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Absolutely, you can pay with your card. We’ll have everything ready for you, and when it’s time, you can just settle up at the counter or right at your table. No worries at all!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Can I pay now?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Of course, you can definitely pay now if you’d like! Just let me know when you’re ready, and I’ll get everything set up for you."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Okay, I'm ready.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Great! Let me go ahead and process that for you. I'll take your card and get everything squared away. Once that’s done, you can just relax and enjoy your order!"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "student_id": 49,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S49_W3_T2",
+  "source_file": "data\\raw\\#49\\#49\\#49. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello, my phone keeps restarting by itself.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that! That sounds frustrating. Let me help you out. Could you tell me what kind of phone you have and maybe when this issue started happening?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“My phone is iPhone 16 Pro Max and it's happening this morning.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, thanks for sharing that. So it just started today. Have you tried any troubleshooting steps so far, like restarting it or updating the software?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Now I've tried restarting right after that happening, but I don't know is it fixed.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I see, gotcha. Well, sometimes it helps to check for any software updates or even reset settings. Have you noticed if any specific app is running when it restarts, or does it happen randomly?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I don't know, but maybe it's just happened, I mean, randomly.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. In that case, it might be worth checking if there's enough storage space or if any recent app updates could be causing it. Would you like some tips on how to check those things?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, please.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! So first, you can check your storage by going into your settings and looking under General and then iPhone Storage. Also, make sure your iOS is up to date by going to Settings and then General and Software Update. And if that doesn't help, we can try a few more steps. Let me know if you need more guidance!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Should I update the software?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Yes, definitely! Updating the software can often fix bugs and improve stability. It’s usually a good first step. If you want, I can guide you through the process step-by-step!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, please.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, sounds good! So, to start, just open your Settings app on your iPhone, then tap on General, and then tap on Software Update. From there, if there's an update available, you'll see the option to download and install it. Let me know if you need any help along the way!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, but what happens if it's not fixed after trying these steps?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "That's a great question! If it’s still happening after updating, we might try a few more steps, like resetting your phone’s settings or even backing it up and restoring it. But hopefully, the update will do the trick. And of course, I'm here to help you with each step if needed!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, we'll resetting delete my files or photos.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That’s a really good concern. Usually, if you just reset the settings, it won't delete your files or photos. But if you do a full factory reset, that would erase everything. So it’s always best to back up your data first, just to be safe. Let me know if you need guidance on backing up!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, I need to guide. Is there any way to backup before I reset the phone?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely! One of the easiest ways is to use iCloud. You can go to your Settings, tap on your name at the top, then choose iCloud and iCloud Backup, and then just tap on Back Up Now. Alternatively, you can also back up to your computer using iTunes or Finder. Just let me know which method you'd prefer, and I can walk you through it!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I will try it.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you run into any issues or need more help along the way, just let me know. Good luck, and I hope it all gets sorted out smoothly!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I have one more question, I have Apricare service and my phone screen was cracked a little bit, is this covered under warranty or do I need to pay for repairs?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That's a great question! Usually, AppleCare covers accidental damage, but there might be a service fee for screen repairs. It’s best to check the specifics of your plan. You can either look up your coverage online or contact Apple Support directly. If you’d like, I can help you with that as well!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Oh, I'm sorry, could you tell me again?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course! No worries at all. So, generally, AppleCare does cover accidental damage, but there’s usually a service fee for things like a cracked screen. It’s a good idea to check the details of your specific plan or contact Apple Support to confirm. And if you need any help with that, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, thanks. I'll check.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you have any more questions or need further assistance, just let me know. I’m happy to help anytime. Good luck with everything!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Thanks for your help. I'll try those steps.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If anything comes up or you have more questions later, just reach out. Good luck, and have a great day!"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "student_id": 32,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S32_W3_T2",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting a Lost Item or Filing a Minor Police Report:"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, let's do that! Hello! Welcome to the Brisbane Train Station Lost and Found. How can I help you today? What item have you lost?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Yes, hi. Just a few minutes ago, I got off the train to Gold Coast, and I realized that I forgot my shopping bag under the seat of the train. So, I don't know what I have to do”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "No worries at all! We can definitely help you out. Could you let me know what was in the shopping bag or any specific details about it? That way, we can track it down more easily."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, sure. The shopping mall is pink, and inside of them I have a t-shirt and they have a perfume that I bought. The bottle of the perfume is purple and the jeans are dark blue.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Great, that definitely helps us narrow it down. Could you also let me know approximately what time you were on the train, and which train number it was? That way, we can check the right carriage."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I think I was on the train at 4.30pm, and the number, I don't know, I just know there is the usual train that we take to Gold Coast to Brisbane, so I think, I don't know exactly the name, the number of the train.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries at all, that’s still helpful. We’ll check the trains around that time. Could you also share your contact details, like your phone number or email, so we can reach out if we find your bag?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yeah, sure. Is it necessary that I give my number and my email, or just my number?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "It’s totally up to you! If you prefer, we can just use your phone number, but having an email as well can be helpful. Either way works perfectly fine!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, my phone number is 355678910 And my email is mol1888@gmail.com”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great, I’ve got that noted down. We’ll keep an eye out for your bag and let you know as soon as we find it. Is there anything else I can assist you with right now?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“What happens if someone finds it and is not a person from the staff of the train?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, if someone finds it, they’ll turn it in to the station’s Lost and Found or a staff member. We also have procedures in place to ensure that any found items are logged and held safely until the owner can claim them. But we’ll definitely keep you updated!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“What's happening if someone didn't report that someone left the shopping bag in the train and just go with them?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I understand your concern. In that case, we do rely on passengers and staff to report found items, but we also regularly check the trains and the lost property area. If the bag isn’t turned in right away, we’ll continue to monitor and keep you informed until we can recover it."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I'm going to wait about the call, and I hope as soon as possible you can advise me about that.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll keep you posted as soon as we have any news. And if you have any other questions in the meantime, just let us know. We’ll do our best to help!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“How long do you think you can find the shopping bag or let me know about that.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll do our best to keep you updated as quickly as possible. Usually, it can take a day or two, but we’ll let you know as soon as we have any information. Feel free to reach out anytime in the meantime!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, thank you. Thank you for your help. I hope you can find the shopping bag.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re very welcome! We’ll definitely do our best, and I’m hopeful we’ll get it back to you soon. If you need anything else at all, just let us know. Take care!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“And that's it. Thank you so much. Have a good day.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "“Thank you. Bye-bye.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "You're welcome! Bye-bye, and take care!"
+    }
+  ]
+}

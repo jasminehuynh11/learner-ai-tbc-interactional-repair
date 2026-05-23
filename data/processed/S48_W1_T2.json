@@ -1,0 +1,95 @@
+{
+  "student_id": 48,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S48_W1_T2",
+  "source_file": "data\\raw\\#48\\#48\\#48. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to practise how to book a table at a restaurant. You work at that restaurant. I’ll play the role of a customer. Please create a realistic scenario and respond. Ask me about my preferences. Keep the conversation going naturally by asking at least 3 follow-up questions"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": ": Great! Let’s set the scene: You’re calling “The Olive Grove,” a cozy Mediterranean restaurant in Sydney, to book a table. I’ll be the host taking your reservation."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": ": Good afternoon! Thank you for calling The Olive Grove. This is Mia speaking. How can I help you today? (Your turn!)"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": ": Hi Mia, I would like to book a table for 4 this Saturday"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": ": Absolutely! Let me check our availability. What time were you thinking for Saturday? Also, would you like an indoor or outdoor table? And is this for lunch or dinner?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": ": We would come for lunch, about 12. I guess we refer an indoor table if it is feasible."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": ": Perfect, let me see… Yes, we can reserve an indoor table for 4 at 12 noon this Saturday. Just to make it extra special, do you have any seating preferences—like near the window or a quieter corner? Also, will there be any children in your group, so we can prepare accordingly? And finally, do you or your guests have any dietary preferences or allergies we should be aware of?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": ": Thanks for your offers. A quiet corner would be perfect. We bring no kids so no worries about that, but we have a vegetarians. I think your menu does include vegetarian options, doesn't it?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": ": Absolutely! We have a few delicious vegetarian options, like our grilled vegetable platter, mushroom risotto, and falafel salad. I’ll make a note that there will be vegetarians in your party so the kitchen can prepare accordingly. Would you like me to suggest some vegetarian dishes in advance? Also, do you plan to celebrate any special occasion during your lunch? And finally, may I have a name and a contact number for the reservation?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": ": I'm Kim by the way. We'll pick the dishes when we come. No big deal. Just an gathering for the weekend so no special decoration is needed, but thanks for asking. My contact number is 04119xxx"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": ": Thank you, Kim! I’ve got you down for a quiet indoor table for 4 this Saturday at 12 noon, with a note that there will be vegetarians in your group. No special occasion, so just a relaxed lunch—perfect! We’ll hold the table under your name, and if anything changes, feel free to give us a call. Would you like me to send a confirmation via SMS as well? And do you prefer any seating arrangement within that quiet corner, like a round table or a rectangular one?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": ": Thanks for that. A confirmation message would be perfect. Any types of table is just fine."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": ": Great! I’ve noted that, Kim. You’ll receive a confirmation SMS shortly. We’re all set for your relaxed lunch this Saturday at 12 noon for 4 people, indoor, quiet corner, with vegetarian options noted. Just one last thing—do you plan to arrive right at 12, or should we hold the table a little earlier in case you’re running ahead of schedule?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": ": I would appreciate if you can hold it a bit earlier. Thank you"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": ": No problem at all, Kim! We’ll have your table ready a little before 12 so you can settle in comfortably. We’re looking forward to welcoming you and your friends this Saturday! If anything changes, just give us a call. See you soon and have a great week until then! If you like, we can do another round where I challenge you with more tricky scenarios—like last-minute changes, dietary restrictions, or special requests—to make your practice even more realistic. Do you want to try that next?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": ": Thank you. Bye"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": ": You’re very welcome, Kim! Have a wonderful day, and we’ll see you Saturday. Goodbye!"
+    }
+  ]
+}

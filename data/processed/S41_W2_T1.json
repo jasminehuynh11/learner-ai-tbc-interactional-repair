@@ -1,0 +1,110 @@
+{
+  "student_id": 41,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S41_W2_T1",
+  "source_file": "data\\raw\\#41\\#41. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“The scenario is I'm calling, emailing, or visiting a real estate agency to ask about rental property. I want to attend an inception and ask about the application process or follow up after submitting my document. I want to practice English clearly and politely in a formal setting.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“So now, I will go to the real estate property, and you are the counselor.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I'm interested in the one-bedroom, one-bedroom, one-bathroom unit on the Australia's”"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“here about two months ago. No, no, no. I mean two months later. And I have the rental budget. My rental budget is...”"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I need to, the location need to in the Melbourne city and I like the high level of apartment. And also.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“If I want an application, can I apply online or do I need to visit the office?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Then I will ask what documents do I need to include with my application.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, and...” English Conversational Partner ： Awesome! Whenever you're ready to continue, just let me know. I'm here to help with whatever you need."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I mean, can I go to the apartment? Can I have the inception time on the weekend?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Also, I want to apply to another apartment that I'm interested in. Can I apply to both apartments?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“And also, would it be possible to negotiate the list length?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I want to know what makes a strong rental application? I mean, I have a rental history in Australia before, and what kind of another strong rental application that I need to have?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I'm an international student. I don't have the stable income, but my parents will pay all of the bills and my rental stuff.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I mean, if I apply to a people who have stable jobs, it will affect my application.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“So, if someone else also applies, how do you choose?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“So, can I apply now and bring the documents later?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Do I need to pay any bound before signing the list?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“How many bonds should I need to pay?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, and last question. If I break the list earlier, what's the consequence?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Okay, that's enough. Thank you.”"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "student_id": 35,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S35_W1_T3",
+  "source_file": "data\\raw\\#35\\#35\\#35. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Return clothes"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I would like to return this shirt"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure, no problem. What seems to be the issue with the shirt?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello, I bought this shirt last week.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it! And do you have the receipt with you, or would you like to exchange it for something else?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Unfortunately, I don't have the receipt, but yeah, can I change the shirt for maybe another thing, maybe pants?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! Could you let me know what size you need for the pants, and if you have any particular style or color in mind?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yeah, actually I would like that nice shoes, nice pants, sorry They are like, like a cargo, oversized, a really good style, really”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, cargo-style"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Really timeless”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! And what size would you like for those cargo pants? Just so we can make sure we get the right fit for you."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“It's like medium, could be 30 or 32.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Perfect, a medium size, around 30 or 32. That definitely helps. Is there a specific color you’re looking for, or are you open to different shades?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Can I see your options guys?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! We have a few different options in stock, from classic black and khaki to some olive green. Would you like to see those in person, or would you prefer a specific color right now?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yeah, I will prefer any specific color right now, or maybe you have another option to Keep it in mind”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely explore a few options! We can check out the colors we have available, and if there's something specific you have in mind, just let me know. Sound good?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“아니면... 아템포랄? 아니면... 아니면... 아니면... 데님쿨초!”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That sounds great! We do have some denim cargo pants that have a timeless look. Let me show you those, and we can see which one fits your style best. Sound good?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh, thank you. You are so kind. I'm sorry for the shield, but I actually didn't use it because I got the wrong one.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "No worries at all! That happens sometimes. We'll definitely get you something that fits perfectly. Just let me know if there's anything else I can help with, and we'll get it sorted out!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yeah, I think it's quite difficult if I don't have the receipts, so how we can figure out this issue?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "I understand, and we can definitely work through it. If you have any proof of purchase, like a bank statement, or if you used a loyalty account, we can look that up. Otherwise, we can still exchange the item as long as it’s in good condition. Let me know what works best for you!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yeah, actually, I paid with my card, so I'm 100% sure that it's in my bank account.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Perfect, that definitely helps! We can look up the transaction using your card details, and that should make the process smooth. Let’s get that sorted, and then we can get you the perfect pants!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Thank you so much. Next time, can I know about your return politics?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to go over our return policy with you anytime. Just let me know whenever you have questions, and I'll make sure you have all the details. Sound good?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah, for example, how many days do I have to return any product like jackets, shirts, or whatever?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely! Typically, you have about 30 days from the date of purchase to return items like jackets, shirts, and so on. And as long as they’re in good condition, we should be all set! If you have any other questions, just let me know."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Can you repeat to me, please?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course! Generally, you have about 30 days from the date of purchase to return items like jackets, shirts, and so forth. And as long as they're in good condition, you'll be all set! Let me know if you need any more details."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Oh, thank you, thank you. Yeah, I have some questions. For example, if I, in an hypothetical case that I use the shield, can I return it anyway if it's in a good condition but it's clearly used?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, as long as the item is still in good condition, and it’s not heavily worn, we can typically accept it. It often depends on our store’s policy, but we’re usually flexible as long as it’s reasonable. Feel free to ask if you have any other concerns!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Yeah, for example, if I would get underwear, but I didn't use it, can I return it?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That’s a good question! Generally, for items like underwear, we do have a no-return policy for hygiene reasons, even if they’re unused. But if there’s any issue, definitely let us know, and we’ll do our best to help!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yeah, actually I got a nice underwear from here and I opened the box already, I did it, but I didn't notice that it's a large size.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "I understand!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Yeah, it's any problem if I return it, guys?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "In that case, we can definitely check it out. Often, if the item is still in its original packaging and unused, we can help with an exchange or store credit. Just bring it in, and we’ll do our best to assist you!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Wow, thank you. You are very, very kind. Yeah, the problem is that in an Asian brand, I'm large. So I thought maybe in that brand, I'm large as well, but it seems like I'm medium in that one brand. Sorry, guys. Sorry for that.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "No worries at all! Sizing can definitely vary between brands, and it’s totally understandable. We’re more than happy to help you find the right fit. Just let us know whenever you’re ready, and we’ll get it all sorted out for you!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Yeah, I have right here my underwear. So I would like the same one, but just in medium. It's not necessary to change the color. But actually, my mom has the same problem.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Got it, that makes"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“She has exactly the same problems, but she would like to know if it's possible to get a store credit instead.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that as well! If your mom prefers store credit, we can definitely arrange that for her. Just bring in the items, and we’ll make sure everything is sorted out smoothly for both of you!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Oh yeah, thank you. But actually, my mom has a problem. She already taken off all the tags. All the tags. There are like these box with three underwear, and she taken off all of them. It's a problem, but she didn't use it. She didn't use them. Sorry.”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "I understand, and that’s totally okay. Usually, as long as the items are unused and in good condition, we can still offer an exchange or store credit. So, we’ll definitely do our best to help out and make it as smooth as possible for both of you!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Oh, thank you. And actually, you guys are very kind. So I think I'm going to buy something, like a gift, because my coworker is going to celebrate his birthday really, really soon. So you guys have any political return if he didn't like any, he don't like any item?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds wonderful! We do have a flexible return policy for gifts as well. Usually, as long as it’s within the return period and the item is in new condition, we can offer an exchange or store credit. So, no worries at all—your coworker will be taken care of!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Oh, thank you. You are so, so kind. But actually, I like this specific item. And this one is an offer for the Black Friday. So it's half price. He could change it if he don't like it because it's a really good price, like $30, but usually it's in $60. He could change for any other object.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense! Even if it’s a discounted item, we can still offer an exchange or store credit if your coworker isn’t happy with it. We’ll make sure that it’s all straightforward and easy, so no worries at all!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Okay, but with the regular prices or the prices that I'm seeing at this moment?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Got it! Usually, the exchange or store credit will be based on the price at the time of return, so if it’s on offer right now, we’ll honor that discounted price. That way, your coworker can choose something else at the same value. We’ll make sure everything’s fair and easy!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Oh, thank you. But what happens if the item is damaged?”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "If the item is damaged, we’ll definitely take care of it. We can offer a replacement or a full refund, depending on the situation. Just let us know, and we’ll make sure we resolve it as quickly and smoothly as possible."
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Okay, and also I would like to ask you another question.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Of course! Feel free to ask whatever you need, I’m here to help. What’s on your mind?"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Yeah, you know, I bought jeans three weeks ago. I used the washing machine to clean it, but now I could notice that my jeans are smaller. Can I exchange it for another thing?”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that happened! Usually, for items that have been washed and shrunk, it can be a bit tricky, but we can definitely take a look and see what we can do. If it’s within the return window and in good condition, we’ll do our best to help you find a suitable replacement or a different option. Let’s see what we can work out!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Okay, for example, I noticed that you guys have a lot of oversized options, so that's quite nice, but I would like to know about the materials of these shirts. The shirts look pretty nice, but I would like to know, after using the washing machine to wash them,”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Absolutely, that"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“You know, if they are, right now they are like loose, you know, loose. But I don't, I would like to know if they are going to change like, quite this.”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "I totally get that! Typically, the material of the shirts can shrink slightly after washing, especially if they’re cotton-based. But we do have shirts made from blends that are more resistant to shrinking. If you have any specific fabric in mind, just let me know, and I can give you more details!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“It could be, but I don't know. A lot of fabrics. You have any in your mind?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Absolutely! Some common fabrics that hold up well are cotton blends, like cotton with a bit of polyester, or even fabrics like linen or modal. Those tend to resist shrinking a bit better. But we can definitely help you find the perfect option that suits your needs!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“Yeah, maybe, what is the perfect load in Tendence at this moment? And can you tell me as well the material?”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Absolutely! Right now, oversized fits are definitely on trend, and materials like organic cotton, lightweight denim, and even sustainable blends are really popular. We can definitely explore some of those styles and materials to find what works best for you!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“Oh cool, maybe any...”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "“Q. 오버사이즈 티셔츠나 베이지색 티셔츠나 옵션이 있나요?”"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do have some oversized organic cotton t-shirts in a lovely beige color. We can definitely show you those options and help you find the perfect fit. Just let me know whenever you’re ready!"
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "“Awesome. Okay, I'm gonna take all of these things. Thank you so much. You are very nice, very kind, and very patient.”"
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "You're so welcome! I'm really glad I could help. If you need anything else at all, just let me know. Enjoy your shopping, and I hope everything works out perfectly for you!"
+    },
+    {
+      "turn": 74,
+      "speaker": "learner",
+      "text": "“Oh, thank you so much. You are very specific. I appreciated you explaining for me. Thank you. Have a good one.”"
+    },
+    {
+      "turn": 75,
+      "speaker": "bot",
+      "text": "You’re very welcome! It’s been a pleasure helping you, and I’m always here if you have more questions. Have a fantastic day, and take care!"
+    }
+  ]
+}

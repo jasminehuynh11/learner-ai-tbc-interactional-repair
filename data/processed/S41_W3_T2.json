@@ -1,0 +1,155 @@
+{
+  "student_id": 41,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S41_W3_T2",
+  "source_file": "data\\raw\\#41\\#41. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Here is a scenario I need to practice my English. Scenario is something is broken or needs flexing in my rental accommodation. I contact my property manager or landlord to request a repair, practice speaking clearly and policy in service settings. I will need to define the chatbot's role as a property manager or housing agent.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "： Absolutely, that sounds great! I’ll be your property manager. Let’s get started. Just let me know what issue you’re facing in your rental, and we’ll go from there. What’s the problem you need repaired?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“My heating is broken, I think. It doesn't work, and there is no hot water in my apartment.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "： Oh, I’m sorry to hear that. That definitely sounds uncomfortable. Let’s get that sorted. Could you tell me when you first noticed the heating and hot water issue?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I don't know, but I restart again and again, and I don't know what is happening.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "： No worries, I understand. We’ll figure it out. Could you let me know the make or model of the heating system, if you know it? That’ll help us diagnose the problem more quickly."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Actually, I don't know, um, is there have any, will you send a plumber or handyman to fix my”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "： We’ll definitely send someone over to help. Could you let me know your preferred time for the repair, or if there’s a specific day that works best for you?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Can someone come today or tomorrow?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "： Sure, I’ll arrange for someone to come as soon as possible. Could you please confirm your address and the best contact number so we can coordinate with you?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "： Perfect, thank you!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yeah.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "： All right, I’ll make sure we have everything set up. If there’s anything else you need, just let me know. Otherwise, we’ll arrange the repair and keep you updated."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Should I turn off the water until they come?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "： That’s a good idea, just to be on the safe side. If you’re comfortable, turning off the water might help prevent any issues. And of course, if you need any guidance, just let me know."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Um, should I, should I prepare anything?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "： It would be great if you could clear the area around the heating unit or any access points, just to make it easier for the technician. Other than that, you should be all set!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Could you send me a confirmation when the repair is scheduled?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "： Of course, I’ll make sure to send you a confirmation once everything is arranged. You’ll have all the details, and if you have any questions, just reach out."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Also, I want to know, to fix my hating system, should I pay some of the bills or some of the”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "： That’s a great question. Typically, it depends on the terms of your lease and the nature of the repair. I can definitely look into that for you and let you know what applies in your situation."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“And also, should I be worried about any long-term damage?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "： I understand your concern. Generally, we’ll assess the situation thoroughly, and we’ll make sure everything is properly repaired to prevent any long-term issues. But I’ll keep you updated throughout the process and let you know if there’s anything to be concerned about."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“And also, is there an emergency number that I can call on the weekends?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "： Yes, absolutely! We do have an emergency contact number for weekends and after hours. I’ll make sure to provide that information so you can reach us if anything urgent comes up."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Okay, thank you Please Please help me book the book the repair”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "： Of course! I’ll take care of that right away. I’ll confirm the appointment and send you all the details shortly. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“No, thank you.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "： You’re very welcome! If anything comes up, feel free to reach out. Have a great day!"
+    }
+  ]
+}

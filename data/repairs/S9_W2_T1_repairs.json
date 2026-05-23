@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S9_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner realizes they made a mistake in their previous utterance and asks to say it again. They then repeat their request to make an appointment, indicating the issue is resolved."
+  }
+]

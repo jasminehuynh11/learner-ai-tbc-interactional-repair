@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S47_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner requests clarification",
+    "evidence_summary": "The learner requests the bot to repeat its previous statement more slowly, indicating a need for clarification. However, the bot does not directly address this request and instead continues with a related explanation. The learner's request was not properly addressed, leaving the issue unresolved."
+  }
+]

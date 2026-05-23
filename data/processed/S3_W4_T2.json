@@ -1,0 +1,190 @@
+{
+  "student_id": 3,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S3_W4_T2",
+  "source_file": "data\\raw\\#03\\#03\\#3. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Responding to Feedback or a Performance Review"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi. I got feedback from my supervisor, and I’m not sure what to do."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That’s okay. Feedback can feel uncomfortable. Let’s go through it together. Was the feedback given in a meeting or in writing?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Email. Long email."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright. When you read it, what feeling did you have first?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Stress. Because I don’t know if it’s bad."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That’s understandable. Was the feedback mostly positive, mostly critical, or mixed?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Mixed. Some praise, some comments."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Let’s separate those. What’s one positive thing they mentioned?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "They said I’m reliable and careful."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That’s strong feedback. Reliability is very valued. Now, what’s one comment that confused you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "They said I need to be more proactive. I don’t know how much is enough."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That’s a very good question. In your role, do you usually wait for instructions before acting?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes. Because if I do wrong, I’m scared."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That makes sense. “Being proactive” usually doesn’t mean taking big risks. It can mean small things, like asking questions earlier or offering help. Does that sound more manageable?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes, but… if I ask too many questions, is that annoying?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Another excellent question. Usually, asking thoughtful questions is seen as engagement, not annoyance. It depends on timing and tone."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Okay. Another thing… should I reply to the email quickly, or wait?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "It’s generally good to reply within a day or two. You don’t need a long reply, just a professional one."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "What if my English is not perfect in reply?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That’s okay. Clear and polite is more important than perfect grammar. You can keep it simple."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Can I say I will try, even if I’m not sure how?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, and you can also ask for clarification. For example, you can say you’d like examples of being proactive in your role."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "That feels safer."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Good. Did the feedback mention any future review or follow-up?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Yes. Review again in three months."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "That’s helpful. It gives you time to apply the feedback. You might even keep small notes about what you try, so you can show progress later."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Notes is good idea. Otherwise I forget."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Exactly. Before we finish, is there anything about the feedback that still feels uncomfortable?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "They didn’t say I’m bad. But I still feel like I did something wrong."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That feeling is very common. Mixed feedback often feels heavier than it is. Try to see it as guidance, not judgement."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Okay. I’ll try to think like that."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Let me summarise. You received mixed feedback, including praise for reliability and a suggestion to be more proactive. You’ll reply professionally, acknowledge the feedback, ask for clarification if needed, and track small improvements. Does that sound right?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Yes. That sounds right."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Excellent. You’re handling this thoughtfully."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Thank you."
+    }
+  ]
+}

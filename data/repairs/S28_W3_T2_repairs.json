@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S28_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "In turn 10, the learner explicitly states they cannot understand the bot's question. The bot rephrases the question in turn 11, and the learner responds appropriately in turn 12, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S28_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      28,
+      30,
+      31
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "In turn 28, the learner makes an unclear statement about walking someone on the weekend. In turn 30, the learner corrects themselves to clarify they meant to ask if they can call on the weekend if there is a problem. The bot confirms understanding in turn 31, resolving the issue."
+  }
+]

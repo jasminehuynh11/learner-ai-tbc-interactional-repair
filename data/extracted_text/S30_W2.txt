@@ -1,0 +1,264 @@
+WEEK2- TASK 1: 
+👨🏻‍⚕️Booking or Changing a medical appointment 🗨️
+Você disse: 
+ “Hi, I’d like to make an appointment to see a doctor.”  
+English Conversational Partner disse: 
+Of course. What seems to be the reason for your visit today? 
+Você disse: 
+“I would like to make an appointment.” 
+00:06 
+English Conversational Partner disse: 
+Got it! Could you please let me know which 
+Você disse: 
+“No, I'm sorry. I am a student, so I learn English. You... you... help me.” 
+00:15 
+English Conversational Partner disse: 
+No worries at all! I’m happy to help you practice English. So, let’s just have a casual conversation. Is there any particular topic you’d like to talk about, or any area you’d like to focus on? 
+Você disse: 
+“Yes, now I need to talk about doctor and medical. I don't know.” 
+00:12 
+English Conversational Partner disse: 
+That’s perfectly fine! We can definitely chat about doctors and medical appointments. Feel free to ask me anything, and I’ll help you with vocabulary or phrases. What would you like to start with? 
+Você disse: 
+“So now I need practical conversation in English about doctors or appointments.” 
+00:15 
+English Conversational Partner disse: 
+Absolutely, that sounds great! We can pretend that you’re making an appointment or asking about symptoms. Let’s start with something simple: maybe you can imagine that you need to schedule a check-up. How would you start that conversation? 
+Você disse: 
+“Yes, so, hello, I need a checkup with doctor. Can you help me?” 
+00:08 
+English Conversational Partner disse: 
+Absolutely! I'd be happy to help. Let me know which doctor you’d like to see, and also if you have a preferred date or time for the appointment. 
+Você disse: 
+“I prefer day appointment, please.” 
+00:06 
+English Conversational Partner disse: 
+Got it! A daytime appointment it is. And do you have a specific doctor in mind, or are you flexible with which doctor you see? 
+Você disse: 
+“I'm sorry, I don't understand, won't you repeat, please?” 
+00:05 
+English Conversational Partner disse: 
+Of course! I was just asking if you have a specific doctor you’d like to see, or if you’re open to seeing any doctor. Let me know what you prefer! 
+Você disse: 
+“Don't specifically because I don't have nothing, it's only ChatGP.” 
+00:08 
+English Conversational Partner disse: 
+That makes perfect sense! We can definitely arrange a general check-up. Could you let me know which day and time would be most convenient for you? 
+Você disse: 
+“Okay, I prefer 10 a.m. Thursday or Friday.” 
+00:09 
+English Conversational Partner disse: 
+Perfect! So we can look at either Thursday or Friday at 10 a.m. Let me know if you have a preference between those two days, and we’ll get that scheduled! 
+Você disse: 
+“Those days, please.” 
+00:01 
+English Conversational Partner disse: 
+Alright, Thursday at 10 a.m. it is! I’ll go ahead and mark that down. Is there anything else you’d like to know or anything else I can help you with regarding the appointment? 
+Você disse: 
+“Okay, perfect.” 
+00:01 
+English Conversational Partner disse: 
+Awesome! I’m glad that works for you. If you need anything else, just let me know. Otherwise, we’re all set for Thursday at 10 a.m. 
+Você disse: 
+“Yes, of course.” 
+00:01 
+English Conversational Partner disse: 
+Great! I'm glad we could sort that out. Feel free to reach out anytime if you have more questions. Otherwise, I’ll look forward to our chat next time. Have a wonderful day! 
+Você disse: 
+“Thank you so much, you too!” 
+00:02 
+English Conversational Partner disse: 
+You’re very welcome! Take care, and I’ll talk to you soon. Bye for now! 
+Você disse: 
+“Take care, bye-bye.” 
+00:01 
+English Conversational Partner disse: 
+Bye-bye! Have a great one! 
+ 
+
+WEEK 2 – TASK 2: 
+Você disse: 
+
+“Hello, how are you? Can you help me?”
+00:04
+O ChatGPT disse:
+Hey there! I'm doing great, thanks for
+Você disse:
+Transcrição indisponível
+00:00
+O ChatGPT disse:
+Awesome! I'm here to help with whatever you need, so just let me know what's on your mind.
+Você disse:
+“Yes, so I would like to open a new savings account.”
+00:05
+O ChatGPT disse:
+Got it! I can definitely help with that. Are you looking for some guidance on the process, or do you have any specific questions about the account features? Let me know!
+Você disse:
+“Do I need an appointment or can I come in today?”
+00:04
+O ChatGPT disse:
+That can depend on the bank or credit union you’re choosing. Some places let you walk right in, while others prefer appointments. I can help look up specifics if you let me know which bank you have in mind!
+Você disse:
+“In this bunk,”
+00:01
+O ChatGPT disse:
+Perfect! If you let me know the name of the bank, I can definitely check their requirements and see whether you need an appointment or if you can just drop by today.
+Você disse:
+“All I'm sorry chatting is the conversation.”
+00:04
+O ChatGPT disse:
+No worries at all!
+Você disse:
+“For practice my English so you can help me. Can you help me?”
+00:07
+O ChatGPT disse:
+Memória salva atualizada
+Of course, I’d be happy to help you practice your English! Just let me know what you’d like to work on, and we’ll go from there.
+Você disse:
+“So, it's a conversation about OpenNeoSaves account, okay?”
+00:06
+O ChatGPT disse:
+Absolutely, that sounds great! We can go through a mock conversation about opening a new savings account, and I’ll help you along the way. Let’s get started whenever you’re ready!
+Você disse:
+“Okay, so start now.”
+00:01
+O ChatGPT disse:
+Sounds good! So, for example, we can start with you asking about the requirements for opening an account, and I can respond as if I’m a bank representative. Whenever you’re ready, just go ahead and start.
+Você disse:
+“So, I would like to open a MuleSaves account. Can you help me?”
+00:05
+O ChatGPT disse:
+Of course! I’d be happy to help you with that. To get started, I’ll just need some basic information and a valid ID. We can also discuss the different types of savings accounts we offer. Let me know if you have any specific questions!
+Você disse:
+“So, what ID do I need to rank?”
+00:04
+O ChatGPT disse:
+Typically, you'll need a government-issued photo ID, like a passport or driver's license, and sometimes proof of address, such as a utility bill or a lease agreement. If you have any specific questions, I’m here to help!
+Você disse:
+“Oh, perfect. And can I open in a code tweet without a job beat?”
+00:08
+O ChatGPT disse:
+Yes, absolutely! Many banks do allow you to open a savings account without needing to have a job. As long as you can provide the necessary identification and possibly a source of funds, you should be good to go!
+Você disse:
+“Oh, perfect. Do you offer debt cards with this?”
+00:04
+O ChatGPT disse:
+Yes, definitely! Most savings accounts do come with a debit card, so you can easily access your funds. We can go over the details and the features once you’re ready!
+Você disse:
+“Perfect! So, I want to open a new account now.”
+00:06
+O ChatGPT disse:
+Great! We can definitely get that started. If you have your ID and any other required documents handy, we can walk through the process step-by-step. Just let me know how you'd like to proceed!
+Você disse:
+“Here, my documents, it's here, so...”
+00:04
+O ChatGPT disse:
+Awesome! You're all set then. Once you provide those documents, we can fill out the application, and I’ll guide you through the rest. Just let me know if you need any help along the way!
+Você disse:
+“Oh, perfect. Thank you for opening my account. One question...”
+00:07
+O ChatGPT disse:
+You’re very welcome! And absolutely, feel free to ask any questions you have at any time. I’m here to help!
+Você disse:
+“Yes, will I get confirmation it's update?”
+00:04
+O ChatGPT disse:
+Yes, absolutely! Once your account is opened, you'll receive a confirmation email or a notification, and you’ll also get your debit card and any account details sent your way. If you have any concerns, just let me know!
+Você disse:
+“Oh, perfect. So, thank you so much. I think that's it.”
+00:05
+O ChatGPT disse:
+You’re very welcome! I’m glad I could help. If anything else comes up, just let me know. Have a great time with your new account!
+Você disse:
+“Thank you so much.”
+00:01
+O ChatGPT disse:
+You're so welcome! It was my pleasure. If you need anything else, just give me a shout. Have a wonderful day!
+Você disse:
+“You too, bye-bye!”
+00:01
+O ChatGPT disse:
+Thanks so much! Take care and talk to you soon!
+Parte superior do formulário
+Parte inferior do formulário
+
+
+
+WEEK2 – TASK 3:
+ 
+Você disse:
+
+“Hello, how are you? I am interested in the 3-bedroom with spot wood.”
+00:11
+English Conversational Partner disse:
+Hi there, I’m doing well, thank you! That sounds great. So, you're interested in the three-bedroom unit on Spotswood. Could you tell me what your preferred move-in date is?
+Você disse:
+“So, I don't know, maybe in two weeks?”
+00:05
+English Conversational Partner disse:
+Alright, two weeks from now works! That gives us a good timeframe. And do you have any specific requirements or preferences for the unit, like amenities or pet policies?
+Você disse:
+“No, but I have questions. It's okay?”
+00:04
+English Conversational Partner disse:
+Of course, absolutely! Feel free to ask me anything you’d like about the unit or the process. What would you like to know?
+Você disse:
+“So, do I need to register before attending?”
+00:05
+English Conversational Partner disse:
+That’s a great question! Usually, we do recommend registering beforehand, just so we can secure your spot and have everything ready for you. Would you like some guidance on how to register?
+Você disse:
+“Okay, how much is the bond?”
+00:02
+English Conversational Partner disse:
+Got it! The security deposit typically is equivalent to one month’s rent. But it can vary a bit depending on the property. Would you like more details on the exact amount for this unit?
+Você disse:
+“Okay, are pets alloyed?”
+00:03
+English Conversational Partner disse:
+Yes, pets are definitely allowed! There's usually a pet deposit and maybe a small monthly fee. Do you have any specific pets in mind?
+Você disse:
+“Yes, I have one cat. It is very, very kind.”
+00:07
+English Conversational Partner disse:
+That sounds lovely! I’m sure your cat will be very happy there. We can definitely accommodate that. Is there anything else you’d like to know about the pet policy or the apartment itself?
+Você disse:
+“I'm not sure, but I think yes.”
+00:02
+English Conversational Partner disse:
+No worries at all! Feel free to ask anything that comes to mind, and I’m here to help. Just let me know whenever you’re ready, and we can go from there!
+Você disse:
+“Can I apply online or do I need to visit the office?”
+00:04
+English Conversational Partner disse:
+You can definitely do it online! We have a simple registration portal that you can use from the comfort of your home. But if you prefer, you’re also welcome to visit the office in person. Whatever’s more convenient for you!
+Você disse:
+“Perfect.”
+00:01
+English Conversational Partner disse:
+Awesome! I’m glad
+Você disse:
+“So, when do I...”
+00:04
+English Conversational Partner disse:
+Whenever you're ready,
+Você disse:
+Transcrição indisponível
+00:02
+English Conversational Partner disse:
+No rush at all!
+Você disse:
+Transcrição indisponível
+00:01
+English Conversational Partner disse:
+Absolutely, take your time! If you have any more questions or need any assistance, just let me know.
+Você disse:
+“So I think that's okay. Thank you for the information. I will attend the session on Sunday. It's okay?”
+00:11
+English Conversational Partner disse:
+That sounds perfect! Sunday works just fine. I’m glad I could help, and if anything else comes up, just let me know. Looking forward to seeing you on Sunday!
+Você disse:
+“So perfect, see ya!”
+00:02
+English Conversational Partner disse:
+Absolutely, see you then! Have a great day, and feel free to reach out anytime. Take care!

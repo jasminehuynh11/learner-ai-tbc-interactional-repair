@@ -1,0 +1,135 @@
+{
+  "student_id": 32,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S32_W1_T3",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Returning or Exchanging Clothes and Asking About Store Policies"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Prompt: “I want to practice how to return or exchange clothes or different items and asking about store policies. So, you are a retail store assistant in a store in Brisbane. I will play the role of a customer. Please create a realistic scenario and respond naturally.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Let 's dive in. Hi there! Welcome to our store. How can I help you today? Are you looking to return or exchange something?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Hi, yes, I was given these shoes as a gift, but they're the wrong size, so I want to know what your exchange policy is."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course! We can definitely help with that. Our exchange policy allows you to exchange items within 30 days of purchase, as long as they’re in their original condition and you have the receipt or proof of purchase. Could you let me know if you have the receipt with you?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yes, I have their receipt with me.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, that’s great! And could you also let me know what size you’re looking to exchange them for, so we can find the right fit for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, sure. The size of the shoes is 7.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, got it! We'll look for a size 7 for you. Just to confirm, is there a specific style or color that you'd prefer in exchange?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, if it's possible, I want to change the color of the shoes for black.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! Let me just check our inventory for a black pair in size 7. Is there anything else I can help you with while I do that?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“No, I think that's it.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Great! I'll check on that for you and we’ll get everything sorted out. Just give me a moment, and I’ll be right back with the details."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“OK, thank you.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "You're very welcome! I'll be back in just a moment with the update. Feel free to have a look around in the meantime."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Do you find the size of the shoe?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yes, I did! We have the black size 7 shoes in stock, so we can definitely make that exchange for you. Is there anything else you need, or would you like to proceed with the exchange now?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Can I try on the shoes first to know if the size is correct?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Of course, absolutely! Feel free to try them on right here, and if you need any assistance, just let me know. Take your time!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Okay, I think the size is correct, so I will take them.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That’s wonderful to hear! I’ll get everything processed for you. If you have any other questions or need anything else, just let me know."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“And now I think everything is correct for the moment.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Perfect! I'm glad everything worked out. If you need anything else in the future, just let us know. Have a wonderful day and enjoy your new shoes!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Thank you for your help, and have a good day.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "You're very welcome! You have a great day as well, and take care!"
+    }
+  ]
+}

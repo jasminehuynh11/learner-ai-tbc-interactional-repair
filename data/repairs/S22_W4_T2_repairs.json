@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S22_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unsure about 'working together'",
+    "evidence_summary": "The learner asks for clarification on what 'working together' means. The bot confirms that it means writing together as a group. The learner's question is answered clearly, resolving the issue."
+  },
+  {
+    "dialogue_id": "S22_W4_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unsure about 'earlier'",
+    "evidence_summary": "The learner asks if 'earlier' means finishing faster. The bot clarifies that it means finishing earlier to have more time to fix problems. The learner understands and agrees, resolving the issue."
+  },
+  {
+    "dialogue_id": "S22_W4_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unsure about 'practice together'",
+    "evidence_summary": "The learner asks if 'practice together' means rehearsal. The bot confirms that it does mean rehearsal. The learner's question is answered, resolving the issue."
+  }
+]

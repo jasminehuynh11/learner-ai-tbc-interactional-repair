@@ -1,0 +1,324 @@
+Task 1:
+You said：
+“Some more, I'm visiting a medical clinic in person, and you will help me to book the service.”
+00:14
+English Conversational Partner said：
+Absolutely, I'd be happy to help with that! Let's get started. What kind of medical service are you looking to book, and do you have a preferred date and time?
+You said：
+“Hi, I'd like to make an appointment to see a doctor.”
+00:09
+English Conversational Partner said：
+Sure thing! I'd be happy to help with that. May I ask what the reason for your visit is, so I can find the right doctor for you?
+You said：
+“I have a toothache.”
+00:02
+English Conversational Partner said：
+I'm sorry to hear that you're dealing with a toothache. I'll make sure we get you an appointment with a dentist as soon as possible. Do you have a preferred date or time for the appointment?
+You said：
+“Sorry, I didn't catch you.”
+00:01
+English Conversational Partner said：
+No worries at all! I was just asking if you have a preferred date or time for your appointment, so we can find a slot that works best for you.
+You said：
+“I just want as soon as possible because my toothache is a little bit heavy.”
+00:06
+English Conversational Partner said：
+I'm sorry you're in pain. I'll prioritize getting you the earliest available appointment. Let me just check the soonest slot for you!
+You said：
+“When is the up-to-date time to the appointment?”
+00:05
+English Conversational Partner said：
+Let me quickly check that for you. I’ll find the earliest available time and let you know in just a moment!
+You said：
+“So, which is the period time?”
+00:03
+English Conversational Partner said：
+Alright, I’ve found an appointment available later today in the afternoon. Does that work for you?
+You said：
+“Oh, yes?”
+00:00
+English Conversational Partner said：
+Great! I’ll go ahead and book that for you. You should receive a confirmation shortly. If there's anything else you need, just let me know!
+You said：
+“Sorry, but what time is it?”
+00:03
+English Conversational Partner said：
+The appointment is scheduled for 3 PM this afternoon. I hope that works perfectly for you!
+You said：
+“Okay, that's okay.”
+00:01
+English Conversational Partner said：
+Fantastic! I'm glad that works for you. If you need any more assistance before your appointment, just let me know. Otherwise, I hope you feel better soon!
+You said：
+“Who will I be seeing, the doctor or just as a student of the dentist?”
+00:08
+English Conversational Partner said：
+You'll be seeing a dentist for your toothache, so you'll get the right care for that. If you have any other questions before your appointment, just let me know!
+You said：
+“Sorry, but I want a female dentist. I'm a little bit shy.”
+00:06
+English Conversational Partner said：
+Of course, I totally understand. I'll make sure to schedule you with a female dentist. I'll confirm that for you right away. Thank you for letting me know!
+You said：
+“I need some check before I visit the dentist.”
+00:07
+English Conversational Partner said：
+Absolutely, we can arrange that for you as well. I'll make sure you have a check-up with the appropriate medical professional before seeing the dentist. Let me take care of that for you!
+You said：
+“So will I get to the hospital more earlier?”
+00:05
+English Conversational Partner said：
+I can definitely try to arrange an earlier check-up for you. I'll see what's available and let you know as soon as possible. Just hang tight, and I'll get that sorted!
+You said：
+“Maybe I will arrive at 2 p.m.”
+00:03
+English Conversational Partner said：
+Got it! I’ll make sure everything is set for your arrival at 2 PM. If there's anything else you need in the meantime, just let me know!
+You said：
+“So if you confirm it and I will receive an email.”
+00:05
+English Conversational Partner said：
+Absolutely, I'll confirm everything and send you an email with all the details. You'll have it shortly! If there's anything else you think of, just let me know.
+You said：
+“When will I receive the email?”
+00:02
+English Conversational Partner said：
+You should receive the email confirmation within the next few minutes. If you don't see it shortly, just let me know, and I'll make sure it gets to you.
+You said：
+“But as soon as I went to a restaurant to meet my friend, so what will I do when I didn't well, I haven't received the email.”
+00:18
+English Conversational Partner said：
+No worries at all! If you don't receive the email right away, just let me know and I'll resend it to you. You can also check your spam folder just in case, but I'll make sure you get it.
+You said：
+“So how can I contact you?”
+00:02
+English Conversational Partner said：
+You can reach out to me anytime by replying to the email I'll send you, or you can give us a call at the clinic. Whatever is easiest for you!
+You said：
+“Would you give me your number?”
+00:01
+English Conversational Partner said：
+I’m here to help you anytime through our chat or email, but if you need the clinic's phone number, I can definitely provide that for you in the confirmation email. Just let me know if there's anything else you need!
+You said：
+“That's fine.”
+00:01
+English Conversational Partner said：
+Great! I'm glad everything's sorted out. If you have any other questions or need anything else, just let me know. Otherwise, I hope everything goes smoothly for your appointment!
+You said：
+“No, thank you. Let's meet at 2 p.m.”
+00:03
+English Conversational Partner said：
+You're very welcome! I'll be here if you need anything else. Take care and see you soon!
+You said：
+“Thank you, bye!”
+00:01
+English Conversational Partner said：
+Bye! Take care, and have a wonderful day!
+
+
+
+Task 2:
+You said：
+“a local bank branch and calling a customer service to request to help with everyday banking service and you are the you are the shopper and I'm the customer so let's start the communication.”
+00:22
+English Conversational Partner said：
+Absolutely, let's get started!
+Hello! This is your local bank branch. How can I assist you today with your banking needs?
+You said：
+“Hi, I'd like to open a new CV account in your bank.”
+00:05
+English Conversational Partner said：
+Of course! I'd be happy to help you with that. Could you please let me know if you have any specific requirements or if there's a particular type of savings account you're interested in?
+You said：
+“No yet, but you can find the table that I have finished on the website.”
+00:07
+English Conversational Partner said：
+Got it! That makes it easy. I'll just confirm a few details with you. Could you please provide me with your ID and any initial deposit amount you'd like to make?
+You said：
+“Yeah, of course, and you can check it in 100.”
+00:07
+English Conversational Partner said：
+Perfect, I’ll take a look at that for you right away. Once I confirm everything, we’ll be all set to open your new savings account!
+You said：
+“So, can I set up online banking at the same time?”
+00:04
+English Conversational Partner said：
+Absolutely, we can get that set up for you as well! I'll include that in the process. Just a moment, and we'll have everything ready for you!
+You said：
+“And could I open the saving account and the everyday account at the same time?”
+00:09
+English Conversational Partner said：
+Absolutely, you can definitely do that! I'll set up both the savings account and the everyday account for you at the same time. Let me just take care of that for you!
+You said：
+“Can your account add into the Apple Pay?”
+00:05
+English Conversational Partner said：
+Of course, I can help with that as well! Once we have everything set up, I'll guide you through adding your new accounts to Apple Pay. Just a moment, and we'll get it all done!
+You said：
+“So when will I receive your physical card?”
+00:04
+English Conversational Partner said：
+You should receive your physical card within about 5 to 7 business days. In the meantime, you'll be able to use the accounts digitally. If you need anything else, just let me know!
+You said：
+“So if I want to use the card emergency, could I use the online bank?”
+00:10
+English Conversational Partner said：
+Absolutely! You can start using the online banking right away, and that will give you access to all your accounts digitally, including making payments and transfers. If you need any help with that, I’m here for you!
+You said：
+“If I want to transfer a large amount of my money, how do you verify the identity for me?”
+00:12
+English Conversational Partner said：
+We do have a security process in place for larger transfers. Typically, we’ll verify your identity through a secure code sent to your phone or email, and sometimes we might need a quick verification call. I can guide you through that whenever you're ready!
+You said：
+“So could you assure that you will make nothing wrong when I transfer a huge amount of money?”
+00:09
+English Conversational Partner said：
+Absolutely, I’ll make sure everything is handled securely and smoothly for you. You can count on me to guide you through the process, and if you have any concerns, I’m here to help.
+You said：
+“OK, so at the same time, can I get, um, can I...”
+00:08
+English Conversational Partner said：
+Of course, I’m here whenever you need
+You said：
+“So, I can open a joint account with my partner.”
+00:05
+English Conversational Partner said：
+Absolutely, you can definitely open a joint account with your partner. I'll just need a few details from both of you, and we can get that set up at the same time. Let me know when you're ready!
+You said：
+“Yes, we are ready. So what details do you need?”
+00:05
+English Conversational Partner said：
+Great! I'll just need some basic information from both of you, like your full names, addresses, and identification details. We can also discuss any specific preferences for the account. Let’s get started!
+You said：
+“Okay, that's all, and I won't give you the details.”
+00:04
+English Conversational Partner said：
+Perfect! I'll be ready to take those details from you whenever you're set. Just let me know, and we'll get everything all squared away!
+You said：
+“You will receive the physical card just a few days later and in our home, right?”
+00:09
+English Conversational Partner said：
+Absolutely, that’s perfect! You can expect to receive your physical card in just a few days at home. If you have any other questions or need help with anything else, just let me know!
+You said：
+“ご視聴ありがとうございました。”
+00:02
+English Conversational Partner said：
+You're very welcome! I'm glad I could help. If you need anything else in the future, just reach out. Have a wonderful day!
+You said：
+“Have a good day. Bye.”
+00:01
+English Conversational Partner said：
+Take care! Bye for now, and have a great day!
+
+Task 3: 
+You said：
+“This time, I'm calling you to ask about a rental property.”
+00:07
+English Conversational Partner said：
+Absolutely, I'd be happy to help you with that! Let's get started. Are you looking to rent a place for yourself, or is it for someone else?
+You said：
+“OK, let's start. Hi, I'm interested in the two-bedroom unit on Lucenda Street. And I want to register. I want to attending to look at the house.”
+00:18
+English Conversational Partner said：
+That sounds great! I'd be happy to arrange a viewing for you. Could you let me know what day and time would work best for you?
+You said：
+“Maybe this weekend?”
+00:02
+English Conversational Partner said：
+Perfect, that works for me! I'll check the availability for this weekend and confirm the exact time with you. I'm looking forward to showing you the place!
+You said：
+“Saturday, can you?”
+00:01
+English Conversational Partner said：
+Absolutely, I can definitely arrange that for you. Just let me know your preferred day and time, and I'll make sure everything is set up for the viewing!
+You said：
+“So do I need to register before the attending?”
+00:05
+English Conversational Partner said：
+It would be helpful if you could let me know in advance, just so I can confirm the time and prepare everything for you. But I'll make it as easy as possible!
+You said：
+“So will I receive an email to confirm the details?”
+00:06
+English Conversational Partner said：
+Absolutely! I'll send you an email with all the details shortly, and you can just confirm from there. If you have any questions, feel free to let me know!
+You said：
+“Are pets allowed?”
+00:01
+English Conversational Partner said：
+That’s a great question! I’ll check the pet policy for that property and include that information in the email as well. Thanks for asking!
+You said：
+“How much is the bound?”
+00:01
+English Conversational Partner said：
+I'll find out the exact amount for the bond and include that in the email as well. That way, you'll have all the details you need. Thanks for bringing that up!
+You said：
+“I have submitted my application yesterday on the website and you can confirm it to my details and confirm my attending.”
+00:18
+English Conversational Partner said：
+Got it! I’ll look up your application details and confirm your attendance for the viewing. I’ll include everything in the email so you have all the information you need. Thanks for letting me know!
+You said：
+“Should I provide any other documents?”
+00:03
+English Conversational Partner said：
+I’ll take a look at the application and see if there are any additional documents needed. If anything comes up, I’ll let you know, but I think you’re all set for now!
+You said：
+“So, on the third day, the whole day is okay, right?”
+00:04
+English Conversational Partner said：
+Yes, absolutely! I’ll make sure to schedule the viewing at a time that’s most convenient for you during the day. I’ll confirm everything in the email, and we’ll make it super easy for you!
+You said：
+“Because I want to see the situation both in the morning and in the evening, so may I come twice to attend?”
+00:17
+English Conversational Partner said：
+Of course, that sounds totally fine! You’re welcome to come by both in the morning and in the evening to get a full sense of the place. I’ll make sure everything is arranged for both visits!
+You said：
+“That's great, thank you. And I'm also interested in another unit just beside it, and could I apply for both?”
+00:11
+English Conversational Partner said：
+Absolutely, you can definitely apply for both! I'll make sure to include all the details for that second unit as well. We’ll get everything sorted so you have all the options you need!
+You said：
+“If someone else also applies, how will you choose?”
+00:04
+English Conversational Partner said：
+If there are multiple applicants, I’ll make sure to keep you updated on the status, and we can go from there. I’ll do my best to make the process as smooth and transparent as possible for you!
+You said：
+“Do I pay the bond before signal the lease?”
+00:04
+English Conversational Partner said：
+Typically, the bond is paid once your application is approved and before you sign the lease. But I’ll confirm the exact process for you and let you know in the details.
+You said：
+“So is it okay to email a copy of my ID?”
+00:05
+English Conversational Partner said：
+Yes, absolutely! You can email a copy of your ID, and I'll make sure everything is kept secure. If you have any other documents or questions, just let me know!
+You said：
+“I remember I don't have rental history in Australia, so can I still apply?”
+00:07
+English Conversational Partner said：
+Absolutely, you can still apply! We can consider other factors like your employment details and personal references. I’ll make sure the process is as smooth as possible for you!
+You said：
+“Is my passport okay to apply?”
+00:03
+English Conversational Partner said：
+Absolutely, that should be perfectly fine! We'll take everything into account and make the application as smooth as possible. If there's anything else you need, just let me know!
+You said：
+“If I break the list early, what are the consequences?”
+00:05
+English Conversational Partner said：
+That's a great question! Usually, there might be a notice period and possibly a fee for breaking the lease early. I’ll get the exact details for you and include them in the email so you have a clear understanding.
+You said：
+“OK, so every important things and details will in the email to me, right?”
+00:07
+English Conversational Partner said：
+Exactly! I'll make sure to include all the important details in the email so you have everything you need in one place. If you have any other questions, just let me know!
+You said：
+“No, thank you, that's all.”
+00:02
+English Conversational Partner said：
+You're very welcome! I'm glad I could help. If anything else comes up, just reach out. Have a wonderful day!
+You said：
+“Okay, thank you. Bye.”
+00:02
+English Conversational Partner said：
+Bye! Take care, and have a great day!
+

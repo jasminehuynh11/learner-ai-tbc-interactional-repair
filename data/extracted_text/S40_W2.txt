@@ -1,0 +1,163 @@
+TASK 1: 
+Tú dijiste:
+👨🏻‍⚕️Booking or Changing a medical appointment 🗨️ “Hi, I’d like to make an appointment to see a doctor.” 
+English Conversational Partner dijo:
+Sure. What’s the reason for your visit today?
+Tú dijiste:
+The reason for my visit today is because I had been feeling under th wheaterr, I had a headache, stomach ache, and flu.
+English Conversational Partner dijo:
+Alright, so you’ve been feeling under the weather with a headache, stomach ache, and flu symptoms. How soon would you like to come in?
+Tú dijiste:
+As soon as possible because I really feel bad.
+English Conversational Partner dijo:
+Sure. Since you’d like something as soon as possible, do you prefer a morning or an afternoon appointment?
+Tú dijiste:
+I prefer morning time.
+English Conversational Partner dijo:
+Alright. Which morning works best for you—tomorrow morning or another specific day?
+Tú dijiste:
+Tomorrow morning
+English Conversational Partner dijo:
+Alright. Tomorrow morning is fine—what time works better for you, around 9:00 or around 10:00?
+Tú dijiste:
+Sorry, I have a question. Do you have an appointment this afternoon?
+English Conversational Partner dijo:
+Sure. You’re asking if we have anything this afternoon—yes, we do. What time this afternoon would you prefer?
+Tú dijiste:
+Do you have an appointment at 2 p.m.?
+English Conversational Partner dijo:
+Alright. Yes, we can book you in at 2 p.m. this afternoon.
+Can I have your full name, please?
+Tú dijiste:
+Yes, of course, my name is Alejandro Suárez Salazar.
+English Conversational Partner dijo:
+Great, Alejandro Suárez Salazar. And what’s the best phone number to reach you at?
+Tú dijiste:
+My number is 3104589942.
+English Conversational Partner dijo:
+Alright. And what’s your date of birth, Alejandro?
+Tú dijiste:
+May 21st, 1990.
+English Conversational Partner dijo:
+Alright, thanks. Are you an existing patient with us, or will this be your first visit here?
+Tú dijiste:
+It's my first visit.
+English Conversational Partner dijo:
+Sure. Since it’s your first visit, do you have any medical insurance you’d like to use for the appointment?
+Tú dijiste:
+No, I don't have any medical insurance, but I don't like to eat a lot of pills. I prefer natural things.
+English Conversational Partner dijo:
+Alright, I hear you — you prefer natural treatments. Thanks for letting me know.
+So, with no medical insurance, I’ll just confirm your booking.
+Would you like me to go ahead and schedule your appointment for 2 p.m. this afternoon?
+Tú dijiste:
+Absolutely.
+English Conversational Partner dijo:
+Alright, your 2 p.m. appointment is confirmed.
+Is there anything else you’d like me to note before you come in?
+Tú dijiste:
+Do you have any contraindication about the appointment, maybe fasting or something like that?
+English Conversational Partner dijo:
+Sure. There’s no need to fast for this appointment — just come as you are.
+Is there anything in particular you’re worried about before the visit?
+Tú dijiste:
+Now, all the information is right for me, I've really appreciated your time and your opportunity appointment.
+English Conversational Partner dijo:
+Of course. I’m glad I could help today.
+Take care, and we’ll see you at 2 p.m. this afternoon.
+Tú dijiste:
+Thank you. Have a good day.
+English Conversational Partner dijo:
+You too. Take care.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TASK 2: 
+Hello, good morning, I'd like to open a new savings account.
+English Conversational Partner dijo:
+Alright, good morning. Is this savings account going to be a personal account or a joint account?
+Tú dijiste:
+I would like to open a personal account.
+English Conversational Partner dijo:
+Sure, a personal savings account is fine. May I ask what form of identification you have with you today?
+Tú dijiste:
+I have my national ID or my passport. What do you prefer?
+English Conversational Partner dijo:
+Alright, either works, but the passport is perfectly fine. Could you also tell me what document you have for proof of address?
+Tú dijiste:
+I have a letter for the government about approve my extended visa. In this document have my address. Is enough support for you?
+English Conversational Partner dijo:
+Sure, I see — your visa approval letter with your address should work, yes. I’ll just need to confirm one more detail. Do you already know how much you’d like to deposit as your initial opening balance?
+Tú dijiste:
+Yes, I would like to save 100 USD, but I know it's possible to save USD here or I need to exchange first .
+English Conversational Partner dijo:
+Alright, no problem — you can deposit the 100 USD directly; we can hold it in a USD-denominated savings account, so there’s no need to exchange it unless you prefer to. Could I get your contact phone number so we can attach it to your new account?
+Tú dijiste:
+Absolutely, currently I don't have my number, my phone number here, but I have my number, phone number of my country is +573104589941. You can send me a WhatsApp message.
+English Conversational Partner dijo:
+Alright, thanks for that number — I’ll note it down with a note that WhatsApp is your preferred contact. Could you also give me an email address we can link to your new savings account?
+Tú dijiste:
+Absolutely, my email address is asuarez0521@gmail.com 
+English Conversational Partner dijo:
+Sure, thanks for that. I’ve added your email to the application. Could you confirm your current residential address exactly as it appears on your visa letter?
+Tú dijiste:
+Absolutely, it's 123 Hawker Street, North Adelaide, South Australia
+English Conversational Partner dijo:
+Alright, thanks for confirming that address. One last detail for the application — could you give me your date of birth as it appears on your ID?
+Tú dijiste:
+Of course, it's May 21st, 1990.
+English Conversational Partner dijo:
+Alright, perfect, thanks for that. Would you like to set up online banking access for your new savings account as well?
+Tú dijiste:
+Oh perfect, I love that. Can you show me what is the correct process to update the app?
+English Conversational Partner dijo:
+Sure, so you’d like to update the banking app — just to confirm, you mean updating the app on your phone to the latest version, right? On which device are you using the app, Android or iPhone?
+Tú dijiste:
+Currently, I have a Samsung, it's Android.
+English Conversational Partner dijo:
+Alright, on Android that’s easy. First, can you open the Google Play Store on your Samsung and tell me if you see an “Update” button next to our banking app?
+Tú dijiste:
+Perfect, when I update the application for the bank, you give me some information, maybe one password or user?
+English Conversational Partner dijo:
+Sure, updating the app doesn’t change your login details. After we finish opening your account, we’ll give you a temporary username and a one-time password so you can sign in the first time. Then the app will ask you to create your own permanent password.
+Which method would you prefer for receiving that one-time password — SMS to WhatsApp or email?
+Tú dijiste:
+I think that the best option is you send me an email, it's possible.
+English Conversational Partner dijo:
+Alright, we can send the one-time password to your email, no problem. When you receive it, you’ll just enter it on the login screen and then create your new password.
+Would you like help with the steps for your first-time login once the email arrives?
+Tú dijiste:
+Thank you for that, I really appreciate it. But I would like to know about what's the difference between the save account and investment account. Do you have invesment account?
+English Conversational Partner dijo:
+Sure, good question. Yes, we do offer investment accounts. A savings account is mainly for keeping your money safe and earning a small, stable interest. An investment account can grow your money faster, but the value can go up and down with the market.
+What kind of goal do you have in mind — short-term saving or longer-term investment?
+Tú dijiste:
+I don't know exactly. I would like to know what is the % of interest.
+English Conversational Partner dijo:
+Sure. For our standard savings account, the interest rate is 2.1% per year, fixed and low-risk. For an investment account, the return isn’t fixed — it usually ranges between 4% and 10% per year, but it can be lower or higher depending on market performance.
+What level of risk are you comfortable with — very low, moderate, or higher risk?
+Tú dijiste:
+I would like to invest maybe in the higher ranks, what is the rate?
+English Conversational Partner dijo:
+Alright, for our higher-risk investment options, the typical annual return ranges between about 8% and 14%, though it can vary more because it depends on market movement.
+To recommend the right product, could you tell me how long you’re thinking of investing this money — short term, like 1–2 years, or longer term?
+Tú dijiste:
+I need to think about that, maybe the other options, but for now I only want to open a save account and I really appreciate you send me the email with the information to use the application and if it's possible just send me the information about higher investment risk. Thank you so much.
+English Conversational Partner dijo:
+Of course, thank you for letting me know. I’ll send the email with your app login instructions, along with a separate summary of our higher-risk investment options.
+If you need anything else, feel free to contact us. Have a great day.
+Tú dijiste:
+Thank you too much, have a good day.
+English Conversational Partner dijo:
+Sure, thank you. Have a wonderful day.

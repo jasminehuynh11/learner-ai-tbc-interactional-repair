@@ -1,0 +1,110 @@
+{
+  "student_id": 30,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S30_W1_T3",
+  "source_file": "data\\raw\\#30\\#30\\#30. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello, how are you?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "I'm doing great, thank you! How about you? How can I assist you today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I'm fine, thank you. So I bought this dress last week and no, it doesn't fit, so I would like change it.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, no worries"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“It's possible?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, it's definitely possible. Could you let me know what size you'd like to exchange it for, and also if you have the receipt handy?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“So, I both size medium and now maybe tend for size small.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, that sounds good. And do you have the receipt with you, or maybe the order number, so we can process that exchange smoothly?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, I have to sit here. One moment.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Perfect, take your time. Let me know when you have it, and we’ll get everything sorted out."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Here.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great, thanks!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“It's received both the last week, so it's recently.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That’s perfect, that should make the exchange process nice and easy. Is there anything else I can help you with regarding the exchange?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yes, please. I would like change for a new color. Is it possible?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely do that. Just let me know which color you're interested in, and we'll make sure we get the right one for you."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“So, I want a dress small and red, please.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Got it, a small red dress. That sounds lovely! I’ll make sure we get that arranged for you. Anything else you’d like to add or any other questions?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“For now, no, it's okay. Thank you so much.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You're very welcome! If you need anything else at all, just let me know. Have a great day!"
+    }
+  ]
+}

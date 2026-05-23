@@ -1,0 +1,18 @@
+[
+  {
+    "dialogue_id": "S44_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – assumed address was provided",
+    "evidence_summary": "In turn 5, the bot asked the learner to confirm an address. The learner's response in turn 6, 'Yes, it's this,' was vague and did not provide the actual address. The bot misinterpreted this in turn 7, assuming an 'updated address' was now known. The learner initiated the repair in turn 8 by clarifying their intent to provide a *new* address, which they then did in turn 10. The bot confirmed understanding in turn 11, successfully resolving the issue."
+  }
+]

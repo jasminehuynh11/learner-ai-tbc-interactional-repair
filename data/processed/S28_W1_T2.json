@@ -1,0 +1,365 @@
+{
+  "student_id": 28,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S28_W1_T2",
+  "source_file": "data\\raw\\#28\\#28\\#28. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Can we practice taking order for coffee?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course! Let's do it. I’ll be the barista again, and you can be the customer. Whenever you're ready, just let me know what coffee you'd like to order, and we’ll go from there."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Okay, today I, um, can I, could I get three of coffee? One cappuccino, flat white, and the other one is mocha.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! So, that’s one cappuccino, one flat white, and one mocha. Would you like them all in large sizes, or do you have any specific preferences for each?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Oh yes, I want large for flat white and mocha, and a regular one for cappuccino. And also cappuccino can I change for the milk?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Of course! So that means we’ll have a large flat white, a large mocha, and a regular cappuccino with oat milk. That sounds great! Anything else you'd like to add or any other preferences?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Sorry, excuse me, the cappuccino will add the chocolate powder.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries at all! So we’ll have the cappuccino with oat milk and a sprinkle of chocolate powder on top. That sounds delicious! Is there anything else I can do for you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Let's, oh, can I have it in?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely! We’ll make it all for here then. I’ll get those ready for you to enjoy at the shop. Anything else you’d like to add or any other questions?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Do you have a recommendation for mail?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely! We have some delicious pastries and sandwiches that pair really well with coffee. For example, our almond croissant or a classic avocado toast is always a hit. Let me know if you’d like to try any of those!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Do you have Australian Big Breakfast?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Yes, definitely! We have a hearty breakfast platter that includes eggs, bacon, toast, and some fresh fruit. It’s a great way to start the day! Would you like to add that to your order as well?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yeah, but sorry, I'm vegan, so can I without bacon?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Of course, no problem at all! We’ll make sure the breakfast platter is completely bacon-free and just as delicious. Anything else you'd like to customize or add to your order?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“And I also want the element custom to take away.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely! We’ll add an almond croissant for takeaway as well. That’s a lovely addition. So, to recap, we’ve got the three coffees, the breakfast platter without bacon, and the almond croissant to go. Sounds perfect! Let me know if there's anything else."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Can I have a shared plan for breakfast?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely! We can definitely do a shared breakfast platter as well. I’ll make sure it’s portioned so that it’s perfect for sharing. Anything else you’d like to add or adjust?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Oh, I'm so sorry, I already ordered the mocha, right? Can I change for chai latte?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "No problem at all! We’ll switch that mocha to a chai latte for you. That sounds lovely. Let me know if there’s anything else you’d like to adjust!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yeah, and I also my chart latte, can I change for the regular one?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course! We’ll make that chai latte a regular size instead of large. That’s absolutely fine. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“My breakfast, big breakfast, can I have a little scrambled egg?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely! We’ll make sure the breakfast platter comes with scrambled eggs instead. That sounds delicious! If there’s anything else you’d like to tweak, just let me know."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Okay, now I think we need a little tap of water. Thank you.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You're very welcome! I’ll make sure to include a top of water as well. Everything sounds great. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“All good, thank you.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad we could sort everything out. If you need anything else in the future, just let me know. Enjoy your coffee and breakfast!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yeah, thank you.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You're so welcome! Have a wonderful time, and feel free to reach out anytime. Take care! ​​Task 2: Booking a Restaurant Table"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I'm trying to make a booking with at least one special, so like I'm going to booking for regular dinner. Hi, I would like to book a table for two tonight.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That sounds perfect! Let’s go ahead and start with that. So, you’d like a table for two for tonight. Could you let me know what time you’d prefer and if there are any special requests or preferences?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Do you have a table available at 7 p.m.?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Yes, let me check that for you. A table for two at 7 p.m. should be available. Is there any particular seating preference, like indoor or outdoor, or any special occasion you’d like us to note?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Can we sit near the door if possible?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make a note to seat you near the door if possible. That sounds great! Is there anything else you’d like to add to your reservation?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Yeah, I'm booking for my friend's birthday. Do you offer singing or decorations?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Oh, that’s wonderful! Yes, we can definitely arrange for a little birthday celebration. We can provide a special decoration and maybe even a little birthday song. Just let us know any specific details or preferences, and we’ll make it extra special!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“and maybe I would bring our own cake, would it be okay?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely, that’s totally fine! You’re more than welcome to bring your own cake. Just let us know in advance, and we’ll make sure we have everything set up for you. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Yes, and I also will bring a candle and I need to borrow the lighter from your restaurant.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Of course, that sounds great! We’d be happy to help with a candle, and we can definitely provide a lighter for you as well. Just let us know when you arrive, and we’ll make sure everything’s ready. If there’s anything else, just let me know!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Perfect! Everything sounds good,"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Sorry, I think I need to change the time. Can I make the booking for Friday at 7 and can I change it for late?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "No worries at all! We can definitely move the booking to Friday at 7 p.m. and adjust any other details you need. Just let me know if there’s anything else you’d like to change, and I’ll make sure it’s all set for you!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Yes, and we would bring another people, so we will add another one.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Got it! I’ll update the reservation to include one more person, so that’ll be three people in total. Everything’s noted, and we’ll make sure everything’s ready for Friday at 7 p.m. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Yes, and because of the other people, he is a child, would you over the child's chair?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Of course! We can definitely provide a child’s chair for you. I’ll make a note of that as well. Everything is shaping up nicely! Just let me know if there are any other special requests, and we’ll take care of it."
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“I also want to confirm the menu. Do you have a vegan or halal choice?”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Absolutely, we do offer both vegan and halal options on our menu. I can make sure to highlight those choices for you and your guests. If you have any specific dietary requests or preferences, just let me know, and we’ll make it all perfect for you!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Yeah, and can I also check the menu is the online menu or can I see the whitelist?”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Absolutely! I can definitely provide you with a link to our online menu, and we can also share the wine list in advance. That way, you can take a look at everything and plan ahead. Just let me know if you’d like me to send that over, and I’ll get it done!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Okay, and is there have any special, is there have any food use the mango or lychee inside? Because I'm allergic for that too.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Of course, I’ll make sure to note that you have an allergy to mango and lychee. We’ll double-check the menu to ensure there are no ingredients that could cause any issues. And if you have any other dietary concerns, just let me know, and we’ll make sure everything is safe and delicious for you!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Okay, and the final, can we confirm the end of our booking detail?”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Absolutely! So, to recap: we have a reservation for three people on Friday at 7 p.m., with a child’s chair provided. We’ll have vegan and halal options available, and we’ve noted your allergy to mango and lychee. You’re also welcome to bring your own cake and candle, and we’ll provide a lighter. Plus, we’ll make sure the seating is near the door if possible. Everything should be all set! If there’s"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“Everything is perfect. Should I give you my name and my phone number?”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Yes, that would be perfect! If you could share your name and phone number, we’ll make sure everything is confirmed and easy to reach. Whenever you’re ready, just let me know!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“OK, my name is Jessie, J-E-S-S-I-E. And my phone number is 0430-486-333.”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Perfect, Jessie! I’ve got all the details noted down. Your reservation is all set, and we’ll be looking forward to welcoming you on Friday. If you need anything else before then, just let us know. Thanks so much!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“OK, can we double check about my phone number?”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Of course! Your phone number is 0430 486 303. I’ve got it noted correctly. If there’s anything else you’d like to confirm or update, just let me know!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“Oh sorry, my phone number, the last is 333, not 303.”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "No worries at all! I’ve updated it to 0430 486 333. Everything is correct now. Thanks for clarifying! If there’s anything else you need, just let me know."
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "“Yeah, all good. Thank you, see you on Friday. Bye-bye.”"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m looking forward to it. Have a great day, and we’ll see you on Friday. Bye for now!"
+    }
+  ]
+}

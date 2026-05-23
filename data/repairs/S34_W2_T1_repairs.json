@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S34_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "clarification – learner confused about wait time",
+    "evidence_summary": "The learner is confused about the wait time, asking if it is '1-5 minutes or 5-0 minutes' in turn 69. The bot clarifies that it is '15 minutes' in turn 70. The learner confirms understanding in turn 71, and the bot reaffirms in turn 72, resolving the confusion."
+  },
+  {
+    "dialogue_id": "S34_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      111,
+      112
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "request for repetition – learner asks for slower repetition",
+    "evidence_summary": "The learner asks the bot to repeat its previous statement slowly in turn 111. The bot complies by repeating the question in turn 112, resolving the learner's request for clarification."
+  }
+]

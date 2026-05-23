@@ -1,0 +1,15 @@
+{
+  "student_id": 1,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S1_W1_T1",
+  "source_file": "data\\raw\\#1\\#1\\#1. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering Coffee at a Café"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "dialogue_id": "S44_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "lack of understanding – learner asks for repetition",
+    "evidence_summary": "The learner explicitly asks the bot to repeat its previous question in turn 8. The bot rephrases and repeats the question in turn 9, and the learner provides a relevant answer in turn 10, indicating successful resolution."
+  },
+  {
+    "dialogue_id": "S44_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's fragmented/unclear phrasing – learner struggles to articulate",
+    "evidence_summary": "The learner struggles to articulate their response in turn 12, using fragmented speech. The bot implicitly acknowledges this in turn 13 and explicitly offers time and reassurance in turn 15. The learner then successfully completes their thought in turn 16, resolving the communication difficulty."
+  },
+  {
+    "dialogue_id": "S44_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "lack of understanding – learner asks for repetition",
+    "evidence_summary": "The learner asks the bot to repeat the address in turn 24. The bot repeats the address in turn 25, and the conversation continues, indicating the learner understood."
+  },
+  {
+    "dialogue_id": "S44_W3_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      38,
+      39,
+      40
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner hesitates and rephrases",
+    "evidence_summary": "The learner hesitates and self-interrupts in turn 38 ('Um... Wait.'), indicating trouble formulating their question. The bot offers reassurance in turn 39, and the learner successfully articulates their question in turn 40, resolving the self-correction."
+  },
+  {
+    "dialogue_id": "S44_W3_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      42,
+      43
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's fragmented/unclear phrasing – grammatical errors",
+    "evidence_summary": "The learner uses grammatically incorrect and fragmented phrasing in turn 42 ('Can come one of your colleague to see the the process because it's I can't say at home'). The bot correctly interprets the learner's intent and rephrases it clearly in turn 43, showing understanding and resolving the potential misunderstanding."
+  },
+  {
+    "dialogue_id": "S44_W3_T1",
+    "repair_id": 6,
+    "turn_indices": [
+      48,
+      49,
+      50
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous utterance – learner's 'sorry'",
+    "evidence_summary": "The learner says 'Sorry' in turn 48, which is an ambiguous utterance. The bot interprets this as a minor apology or hesitation and offers reassurance in turn 49. The learner then clarifies they have no further questions in turn 50, resolving the ambiguity."
+  }
+]

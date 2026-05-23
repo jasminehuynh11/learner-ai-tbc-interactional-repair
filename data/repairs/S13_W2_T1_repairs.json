@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S13_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner's utterance in turn 10 is unclear, possibly due to language switching or mispronunciation. The bot interprets it as '10 a.m.' in turn 11, which aligns with the context of scheduling an appointment, and the conversation continues smoothly, indicating successful resolution."
+  }
+]

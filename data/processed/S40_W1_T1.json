@@ -1,0 +1,150 @@
+{
+  "student_id": 40,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S40_W1_T1",
+  "source_file": "data\\raw\\#40\\#40\\#40. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering at a café “Hi, I would like to order a coffee today!”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! What kind of coffee would you like today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I would like to have a cup of cappuccino, please, with oat milk. Thank you."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it — one oat milk cappuccino. Would you like it hot or iced?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Like a hot please"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, a hot oat milk cappuccino. Would you like any sugar or sweetener with that?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I don't want sugar or sweetener. Thank you."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No problem! What size would you like — small, medium, or large?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I would like a large please ."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Perfect, a large hot oat milk cappuccino. Would you like anything to eat with your coffee, like a pastry or sandwich?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Which sandwich do you have?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "We’ve got ham and cheese, chicken pesto, and a veggie option with roasted peppers and hummus. Would you like to try one of those?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I'm not sure. Maybe I would like to add chicken pesto, please 4/4"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Great choice — the chicken pesto is really tasty. Would you like your sandwich heated or cold?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I would like my sandwich a little toaster, please."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure thing, I’ll have it lightly toasted for you. Are you having your order here or taking it to go?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Takeaway, please."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, one large hot oat milk cappuccino and a lightly toasted chicken pesto sandwich to go. Would you like a receipt with your order?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Yes, and I want to additional one small latte, thank you."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Got it — adding one small latte. Would you like regular milk in your latte, or a different type?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Please add almond milk."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure, a small almond milk latte added. Would you like that one hot or iced?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Please hot and please give me a receipt and how much in total"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Alright — one large hot oat milk cappuccino, one lightly toasted chicken pesto sandwich, and one small hot almond milk latte, all to go with a receipt. The total comes to $14.80. How would you like to pay — card or cash?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Pay with card. Thank you."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Perfect, you can tap your card right here when you’re ready. Thanks a lot — your order will be ready in just a few minutes. Have a great day!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Thank you. Have a good one."
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Thanks! You too — enjoy your coffee and sandwich!"
+    }
+  ]
+}

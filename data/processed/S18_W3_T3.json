@@ -1,0 +1,150 @@
+{
+  "student_id": 18,
+  "week": 3,
+  "task": 3,
+  "task_label": "T4",
+  "dialogue_id": "S18_W3_T3",
+  "source_file": "data\\raw\\#18\\#18\\#18. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“There's a leak under my kitchen sink.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Oh no, that sounds frustrating! Hopefully it's not too serious. Have you had a chance to check where the leak is coming from, or do you need some tips on what to do next?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes, it's too busy to talk about it, but, um, and still, and also, there's still another problem. My fridge is making a loud noise and it's not cooling.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Oh, that definitely sounds like a double headache! Hopefully, we can get both things sorted out soon. If you need any troubleshooting tips or guidance on either the leak or the fridge, just let me know."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Can someone come today or tomorrow?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely! For plumbing, Proximity Plumbing offers 24/7 emergency service with a 30-minute response time. And for your fridge, Fridges R Us can also provide urgent repairs. So you should be able to get someone out either today or tomorrow!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, could they call or text me when they're on their way?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, most of these services do offer that option. When you book an appointment, you can usually request a call or a text notification when they're on their way. Just let them know your preference when you contact them, and they'll make sure to keep you updated!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, and I think I should turn off the water until they come, right?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Yes, that's definitely a good idea. Turning off the water will help prevent any further damage and keep things under control until the plumber arrives. Hopefully, that'll make things a bit easier and less messy!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, and I'll leave a key at reception if I'm out.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! That way, they can still get in and take care of everything even if you're not home. Hopefully, it'll all be sorted out quickly and smoothly!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Is there anything I should prepare before they arrive?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "It might help to clear out the area under the sink so they have easy access, and maybe move any items away from the fridge as well. It’s also good to have your details ready, like any warranty info for the fridge or any past plumbing details. And just make sure you’re reachable if they have any questions!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, so can you send me a confirmation because my repair is scheduled?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course! Once you've booked the appointment, I'll be sure to help you keep track of it and send you a confirmation. Just let me know once you’ve arranged everything, and I'll make sure you're all set!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“And I'd like to follow up as there's no one came today.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Updated saved memory Got it! I’ll make a note of that, and if anything comes up and no one shows up, we can definitely follow up and make sure everything's on track. Let me know if you need anything else!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“And also, I think this is the third time it's happened. Can it be checked more thoroughly?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Updated saved memory Absolutely, I’ll make sure to note that so the technician can do a more thorough inspection this time. Hopefully, that’ll help prevent it from happening again in the future! Let me know if there's anything else you'd like to add."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, and should I be worried about any longer, uh, long d— long-term damage?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "It definitely depends on how severe the leak and the fridge issue are. If it's been happening multiple times, it could potentially lead to some long-term damage, like mold growth or structural issues with the cabinets. It's definitely good to get everything checked thoroughly so you can catch any potential issues early on. If you’re concerned, it’s always good to mention it to the professionals so they can keep an extra eye on things."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, that's really bad. Um, is there an emergency number I can call on weekends?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Most plumbing and appliance repair services have emergency hotlines that are available 24/7, including weekends. I can look up some local emergency numbers for you if you'd like!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, thanks for organizing that so quickly.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm always here to help. Just let me know if you need anything else, and I hope everything gets sorted out smoothly for you!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, thank you, bye, have a good day.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You too! Take care and have a wonderful day. Bye for now!"
+    }
+  ]
+}

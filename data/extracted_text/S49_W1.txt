@@ -1,0 +1,285 @@
+WEEK1 
+TASK 1: 
+나의 말:
+“Hi, could I get a, uh, cappuccino, please?”
+00:04
+English Conversational Partner의 말:
+Absolutely! One cappuccino coming right up. Would you like any specific type of milk, like whole milk, skim milk, or maybe a dairy-free option?
+나의 말:
+“Is there any special milk here? Like oat milk?”
+00:06
+English Conversational Partner의 말:
+Yes, absolutely! We do have oat milk available. Would you like to try your cappuccino with oat milk then?
+나의 말:
+“Yes, please. And one pump of vanilla syrup, please.”
+00:05
+English Conversational Partner의 말:
+Perfect, oat milk cappuccino with a pump of vanilla syrup. That sounds delicious! Anything else I can add for you?
+나의 말:
+“Actually, today was a very tough day to me, so I need some special sweet dessert.”
+00:07
+English Conversational Partner의 말:
+Oh, I’m sorry to hear that. We do have some lovely desserts! Would you like something like a pastry, maybe a cake, or a cookie to go with your drink?
+나의 말:
+“Cake or pudding. I like it, especially the chocolate one. Could you recommend?”
+00:07
+English Conversational Partner의 말:
+Absolutely! We have a delicious chocolate cake and also a rich chocolate pudding. I think both would pair wonderfully. Which one would you prefer to try today?
+나의 말:
+“What kind of chocolate pudding? Please, please explain me more detail.”
+00:06
+English Conversational Partner의 말:
+Of course! Our chocolate pudding is super creamy and made with rich dark chocolate, and it has a smooth, velvety texture. It’s topped with a little whipped cream and maybe a sprinkle of cocoa powder. It’s definitely a treat! Sounds good?
+나의 말:
+“Yeah, that's as good.”
+00:01
+English Conversational Partner의 말:
+Perfect! So we’ll get you an oat milk cappuccino with vanilla syrup and a serving of our chocolate pudding. I’ll have that ready for you in just a moment! Anything else I can help with?
+나의 말:
+“That's all. No, thank you. One more, please. My coffee, can I get a light one? I mean just one shot, please. Maybe it's a two shot, right?”
+00:14
+English Conversational Partner의 말:
+Got it! We can definitely make it a single shot for a lighter coffee flavor. So, one shot of espresso it is! I'll make sure everything's perfect for you. Anything else before I get started?
+나의 말:
+“That's all. Thank you. And where is the bathroom?”
+00:03
+English Conversational Partner의 말:
+You're very welcome! The bathroom is just down the hall to your left, right next to the seating area. If you need anything else, just let me know!
+나의 말:
+“Is tissue in there?”
+00:01
+English Conversational Partner의 말:
+Yes, absolutely! You’ll find tissues inside the bathroom as well, so you should be all set. If you need anything else, just let me know!
+나의 말:
+“Now, thank you.”
+00:00
+English Conversational Partner의 말:
+You're very welcome!
+나의 말:
+“Have a good day.”
+00:00
+English Conversational Partner의 말:
+You too! Enjoy, and if you need anything else, just let me know.
+나의 말:
+“Can I get a cup of water, please? And… Is there any… Tea?”
+00:09
+English Conversational Partner의 말:
+Of course! I’ll get you a cup of water right away. And yes, we do have tea as well. Would you like to try a specific type of tea, like black tea, green tea, or herbal?
+나의 말:
+“I need milk decaffeinated one. I mean, I don't want more. I don't want a caffeinated one. My coffee is enough.”
+00:08
+English Conversational Partner의 말:
+Got it, that makes sense! I’ll bring you a nice, soothing decaf tea with your order. I’ll have that all set for you as well. Let me know if there’s anything else you need!
+나의 말:
+“I want to know some kind of tea with no caffeine.”
+00:07
+English Conversational Partner의 말:
+Absolutely! We have several caffeine-free options, like chamomile, peppermint, and rooibos tea. Any of those sound good to you?
+나의 말:
+“Louisville's, that would be nice, the hot one.”
+00:03
+English Conversational Partner의 말:
+Perfect choice! I’ll get you a hot rooibos tea along with your order. That should be really cozy. If there's anything else, just let me know!
+나의 말:
+“Now, that's all. Thank you.”
+00:01
+English Conversational Partner의 말:
+You're very welcome! I’ll get everything ready for you. Enjoy, and if you need anything else, just let me know.
+나의 말:
+“And where can I sit?”
+00:02
+English Conversational Partner의 말:
+You’re welcome to sit anywhere you’re comfortable! We have seating available just over there by the windows, or you can choose a cozy spot in the corner. Just pick whatever feels best for you!
+나의 말:
+“Oh, next to the window is good, but it looks like a little bit cold. Can I have a kind of blanket or something?”
+00:14
+English Conversational Partner의 말:
+Absolutely, we can definitely provide a blanket for you! I'll grab one and make sure you're nice and cozy by the window. If there's anything else you need, just let me know!
+나의 말:
+“Thank you.”
+00:00
+English Conversational Partner의 말:
+You're very welcome! I’ll take care of everything, and I hope you have a lovely, relaxing time. Just let me know if you need anything at all!
+
+
+TASK 3: 
+나의 말:
+“Hi, how are you?”
+00:01
+English Conversational Partner의 말:
+I'm doing great, thank you! How about you? How can I help you today?
+나의 말:
+“I'd like to return these shirts, but I don't have the receipt.”
+00:05
+English Conversational Partner의 말:
+Oh, I see. No worries at all! Could you let me know when you purchased the shirt and if you have any details about the transaction? That might help us figure out the return.
+나의 말:
+“Yesterday, 3 o'clock maybe, but I don't exactly remember the time.”
+00:10
+English Conversational Partner의 말:
+Got it, no problem! That's definitely helpful. And do you recall the store location or maybe the payment method you used? That can also help us look it up.
+나의 말:
+“I'm sorry, could you say it again?”
+00:01
+English Conversational Partner의 말:
+Of course! I was just asking if you remember which store location you bought it from or the payment method you used. That can help us track down the purchase more easily.
+나의 말:
+“I bought this shirt this store.”
+00:02
+English Conversational Partner의 말:
+Perfect, that helps a lot! And do you happen to remember how you paid, like with a credit card or cash? That'll make it easier for us to confirm the purchase.
+나의 말:
+“I use my credit card. Here, this is.”
+00:04
+English Conversational Partner의 말:
+Great, that's really helpful!
+나의 말:
+텍스트 기록 사용할 수 없음
+00:00
+English Conversational Partner의 말:
+Alright, perfect! With that information, we should be able to process the return smoothly. Is there anything else I can help you with regarding the shirt?
+나의 말:
+“No, but I got the wrong size maybe, so I'd change another cloth because it doesn't have a small size, right?”
+00:09
+English Conversational Partner의 말:
+Gotcha, that makes sense! In that case, we can definitely help you find an alternative item or check if we can order the correct size. Would you like to look at a different style, or do you have something specific in mind?
+나의 말:
+“Actually, I want to buy some jumpsuit, like one-piece.”
+00:08
+English Conversational Partner의 말:
+That sounds great!
+나의 말:
+“I mean, jumpsuit. Yeah, please.”
+00:03
+English Conversational Partner의 말:
+Absolutely, no worries at all! We can definitely look at some jumpsuits for you. Do you have a particular color or style in mind that you're interested in?
+나의 말:
+“I want…”
+00:00
+English Conversational Partner의 말:
+Alright, no problem!
+나의 말:
+텍스트 기록 사용할 수 없음
+00:19
+English Conversational Partner의 말:
+I totally get what you mean! Sometimes those colors can look a bit similar in different lighting. We'll definitely find a jumpsuit in that range. Would you prefer something more casual or maybe a bit more formal?
+나의 말:
+“Um, casual one, please. Because I want to buy some jumpsuits, like, like, factory workers.”
+00:13
+English Conversational Partner의 말:
+Got it, that sounds great! We can definitely look for something comfortable and durable, like a utility-style jumpsuit. Let me know if you have any specific size in mind, and we’ll find the perfect one for you!
+나의 말:
+“Small size, please. And can I have... Can I try this?”
+00:04
+English Conversational Partner의 말:
+Of course, absolutely! We can get you a small size, and you’re more than welcome to try it on. Let me know if you need any help, and we’ll make sure it fits perfectly for you!
+나의 말:
+“Thank you and where is the Fitment Loom?”
+00:02
+English Conversational Partner의 말:
+You're welcome! The fitting room is just around the corner to your left. If you need any assistance at all, just let me know. Enjoy trying it on!
+나의 말:
+“Thank you. And how much is it? I mean, do I need to pay more?”
+00:04
+English Conversational Partner의 말:
+You're welcome! The price should be the same as the original shirt, and we can easily adjust it for the exchange. If there’s any difference in price, we’ll let you know right away. But we’ll make it as smooth as possible for you!
+나의 말:
+“Okay, then, do you have another color?”
+00:02
+English Conversational Partner의 말:
+Absolutely! We have a variety of colors available, so if you’d like to see other options, we can definitely check them out. Just let me know what color you have in mind, and we’ll find the perfect one for you!
+나의 말:
+“I want some dark green one. Do you have it?”
+00:06
+English Conversational Partner의 말:
+Yes, we do have dark green available! I’ll be happy to show you those options. Let me grab one for you, and you can take a look and see how it fits!
+나의 말:
+“Oh, I like it. And do you have shoes, too?”
+00:04
+English Conversational Partner의 말:
+Absolutely, we do have
+나의 말:
+“Like fit on this clothes.”
+00:02
+English Conversational Partner의 말:
+Got it! We can definitely help you find some shoes that match perfectly. Let me know what style or type you’re looking for, and we’ll find something that complements your outfit nicely!
+나의 말:
+“I don't know exactly. Could you recommend?”
+00:02
+English Conversational Partner의 말:
+Of course! I’d be happy to recommend. We can look at some comfortable, casual shoes, maybe some sneakers or slip-ons that go well with the jumpsuit. Let me know if you have a preference, and I’ll help you find the perfect pair!
+나의 말:
+“んー、スニッカーズ、ウッピーナイス。 Can I say it?”
+00:04
+English Conversational Partner의 말:
+Absolutely! I’ll grab a few pairs of sneakers for you to check out, and we can see which ones match best with your outfit. I'll be right back with some options!
+나의 말:
+“I like this white one and that black one.”
+00:05
+English Conversational Partner의 말:
+Awesome choices! Both the white and the black sneakers will look great. If you’d like, you can try them on and see which one feels more comfortable and suits your style best. Let me know if you need any help with that!
+나의 말:
+“I don't know what color is more fit to me.”
+00:03
+English Conversational Partner의 말:
+No worries at all! We can definitely try them both on and see which one you prefer. Sometimes it helps to see how they look with the jumpsuit. So take your time, and I’m here to help you figure out the best match!
+나의 말:
+“What's your opinion? White or black? What color is more a fit on me?”
+00:06
+English Conversational Partner의 말:
+I think both are great options, but if you’re going for a more versatile look, the white sneakers can add a fresh, clean touch. On the other hand, the black sneakers can give a sleek, more understated vibe. Ultimately, it depends on the style you’re going for, but I’m happy to help you decide!
+나의 말:
+“The white one would be nice, but I have, I'm worried about cleaning, you know, white shoes would be...”
+00:14
+English Conversational Partner의 말:
+I completely understand that concern! White shoes can definitely show dirt more easily. If you’d like, we can also look at some ways to keep them clean or even consider a different color that’s a bit lower maintenance. Just let me know what you prefer!
+나의 말:
+“Oh, do you have any cleaning system here?”
+00:03
+English Conversational Partner의 말:
+Yes, absolutely! We do have some cleaning kits and sprays that are perfect for keeping white shoes looking fresh. I can show you a few options, and that way, you’ll have everything you need to maintain them easily!
+나의 말:
+“How much is it, just for one claim?”
+00:03
+English Conversational Partner의 말:
+It’s usually pretty affordable! The cleaning kits are typically around $10 to $15, and they last quite a while. If you’d like, I can give you the exact pricing and show you some options right now!
+나의 말:
+“If I use your cleaning system, then how long would it take?”
+00:06
+English Conversational Partner의 말:
+It’s actually quite quick and easy! Usually, cleaning a pair of shoes with the kit only takes about 10 to 15 minutes, and you’ll have them looking good as new in no time. If you’d like, I can walk you through the process as well!
+나의 말:
+“That would be great. Then...”
+00:04
+English Conversational Partner의 말:
+Absolutely, I’m happy
+나의 말:
+텍스트 기록 사용할 수 없음
+00:01
+English Conversational Partner의 말:
+No worries at all! Just let me know whenever you’re ready, and I’ll be here to help you out. Feel free to ask anything at any time!
+나의 말:
+“So I want to buy these white shoes and exchange the shirts to these jumpsuits.”
+00:11
+English Conversational Partner의 말:
+That sounds perfect! We’ll get everything sorted out for you. I’ll make sure we process the exchange for the shirt and get you the white shoes as well. Just let me know if you need anything else, and we’ll take care of it!
+나의 말:
+“Can I pay it by the credit card half and another half one to the cash? Is it okay?”
+00:10
+English Conversational Partner의 말:
+Absolutely, that’s totally fine! We can definitely split the payment between your credit card and cash. Just let me know how you’d like to divide it, and we’ll get that all set up for you!
+나의 말:
+“Just exactly half price, please.”
+00:04
+English Conversational Partner의 말:
+Got it! That’s absolutely doable. I’ll make sure we split the exact half of the total price between your credit card and cash. We’ll handle it smoothly, and you’ll be all set!
+나의 말:
+“That's all, thank you, and can I have some one shopping bag, please?”
+00:05
+English Conversational Partner의 말:
+Of course! I’ll make sure to include a shopping bag for you. You’re very welcome, and if you need anything else at all, just let me know!
+나의 말:
+“Thank you!”
+00:01
+English Conversational Partner의 말:
+You're very welcome! It was my pleasure to help. If you need anything else, just let me know. Have a great time with your new items!

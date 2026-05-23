@@ -1,0 +1,106 @@
+[
+  {
+    "dialogue_id": "S36_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding – misremembered bot's previous question",
+    "evidence_summary": "The learner asks the bot to repeat a question about a 'hard reset' (Turn 9), which the bot had not asked. The bot clarifies its actual previous question and then introduces the concept of a hard reset (Turn 10), resolving the learner's confusion about the past interaction."
+  },
+  {
+    "dialogue_id": "S36_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      21,
+      22
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding – implications of recovery steps (data loss)",
+    "evidence_summary": "The learner expresses concern and asks for clarification about losing data if they follow the recovery steps (Turn 21). The bot confirms the risk of data loss with a factory reset and offers alternatives (Turn 22), resolving the learner's concern."
+  },
+  {
+    "dialogue_id": "S36_W3_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      27,
+      28
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner confirmation – re-emphasizing data loss concern",
+    "evidence_summary": "After the bot's cut-off turn (Turn 26), the learner reiterates the consequence of a full reset: 'A full reset of my phone, all my data is deleted' (Turn 27). This acts as a confirmation of understanding or re-emphasis of the problem. The bot acknowledges this in Turn 28, showing mutual understanding."
+  },
+  {
+    "dialogue_id": "S36_W3_T2",
+    "repair_id": 4,
+    "turn_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner incomplete utterance – adding crucial context",
+    "evidence_summary": "The learner's request for information about repair stores in Turn 29 is incomplete. After the bot's cut-off response in Turn 30, the learner adds the crucial context 'in Sydney' in Turn 31, completing their request. The bot then provides relevant information in Turn 32, showing the clarification was successful."
+  },
+  {
+    "dialogue_id": "S36_W3_T2",
+    "repair_id": 5,
+    "turn_indices": [
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – suggested irrelevant store",
+    "evidence_summary": "The bot suggests an Apple Store (Turn 34) despite the learner previously stating they have a Samsung phone. The learner corrects this in Turns 35 and 37, reminding the bot of their phone model. The bot acknowledges the correction and provides only Samsung-specific options in Turn 38, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S36_W3_T2",
+    "repair_id": 6,
+    "turn_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner incomplete utterance – completing a question",
+    "evidence_summary": "The learner's question in Turn 47 is incomplete. After the bot's cut-off response in Turn 48, the learner completes their question in Turn 49 by adding 'For repairing my phone in this store.' The bot then provides the requested information in Turn 50, resolving the incomplete utterance."
+  },
+  {
+    "dialogue_id": "S36_W3_T2",
+    "repair_id": 7,
+    "turn_indices": [
+      51,
+      52
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner request for repetition/clarification – price estimate",
+    "evidence_summary": "The learner explicitly asks the bot to repeat the price information and clarify it for a firmware-specific issue (Turn 51). The bot then provides a more precise and lower price range for firmware-related repairs (Turn 52), successfully clarifying the information."
+  },
+  {
+    "dialogue_id": "S36_W3_T2",
+    "repair_id": 8,
+    "turn_indices": [
+      53,
+      54,
+      55
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner persistent request for repetition – price estimate",
+    "evidence_summary": "The learner explicitly asks for repetition of the price information for the second time (Turn 53). The bot repeats the information (Turn 54), and the learner's subsequent 'Thank you' (Turn 55) indicates the issue is finally resolved."
+  }
+]

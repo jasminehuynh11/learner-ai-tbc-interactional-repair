@@ -1,0 +1,210 @@
+{
+  "student_id": 4,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S4_W2_T2",
+  "source_file": "data\\raw\\#04\\#04\\#4. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Now we are going to change, let's practice if we are like in a bank and I want to open a bank account"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! Is this bank account for personal use or for your business?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "It's for personal use, and I have a question. What type of accounts are available for students?"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright. For students, we usually offer two main types: a student everyday account with no monthly fees, and a student savings account with higher interest. Are you looking mainly for daily use, like payments and transfers, or more for saving money?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "I'm interested in daily use, like payments and transfers."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it. The student everyday account would be best then—it includes a debit card, online banking, and no account-keeping fees. Are you currently studying in Australia or overseas?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Yeah, I'm a student in Australia, so I need to have a bank account."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect. Do you already have any form of ID here, like your passport or student ID, to open the account?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Yeah, I wrote my passport and my student ID.Do I need something else? Do I need to make an appointment?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That’s great—you’ve got the main documents. You don’t need an appointment; you can just walk in. But if you prefer, we can book a time to make it quicker. Would you like to book an appointment anyway?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "No, no, it's fine. I can wait.Do I need another document or just my student ID and my passport?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Those two are usually enough, but it’s helpful if you also bring proof of your address, like a rental agreement or a recent bill. Do you already have an Australian address to use for the account?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Yeah, of course I have an Australian address, but unfortunately I didn't bring proof of my address."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That’s okay. You can still start the process today—we’ll just need you to email or bring the proof later to finish setting up the account. Do you want your debit card sent to your address or picked up at the branch?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I prefer that you send to my address, because the bank is a little far from my house. So, please, can you send the debit card to my address?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure, we can do that. It usually arrives within 5–7 business days. Would you like to set up online banking access at the same time?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Yeah, set up online banking, it could be fine. Do I need my cell phone for the set up online?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Yes, you’ll need your phone to verify your identity and get a security code during setup. Do you already have an Australian phone number registered in your name?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Yes, yesterday I went to the telephonic company. So, now I have..."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect! Then you’ll be able to link your number easily. Would you like to receive bank alerts and account updates by text message or only by email?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Yeah, by text message it will be ok."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, I’ll note that. Just one last thing—would you like your account to include an overdraft option, or do you prefer to spend only the money you have available?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "What is the meaning of the overdrive option?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Good question! An overdraft means the bank lets you spend a bit more than what’s in your account—like a small loan—if you run out of money. You’d pay it back later with some interest. Would you like that option, or prefer to keep it simple with no overdraft?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Oh, sounds very, very interesting, but no, thank you. I prefer just spend only the money that I have in my account."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure, that’s a safe choice. Everything’s ready then—you’ll get your debit card by mail and your online banking access today. Would you like me to explain how to activate your card when it arrives?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Yes, please"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Alright. When your debit card arrives, just log in to your online banking app or website, enter the last four digits of your card, and follow the steps to create your PIN. It only takes a minute. Do you want me to explain how to use the card for payments, too?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "No, that's not necessary. I have friends and I have seen how they use their accounts. But if in the future I have a question, maybe can I come here and ask you? Right?"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Of course, absolutely! You can come anytime or call us if you have questions. We’re always happy to help. Anything else you’d like to check before we finish opening your account today?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Yeah, one more question. Is there a monthly fee for this account?"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Good question. No, there’s no monthly fee for student accounts—as long as you’re enrolled as a student, it stays free. Would you like me to email you the full account details and conditions?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Yay, that's a good idea. And maybe when I receive the email, I have more time to read about the conditions. But until here, you are being so clear and so kind. Your explanation, it'll help me a lot. I mean, so far everything has been clear."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "That’s really nice to hear, thank you, Pamela. I’m glad it’s all clear for you. I’ll send that email with your account details today. Is there anything else you’d like to ask before you head off?"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "No, thank you. That's all."
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "You’re very welcome, Pamela. Have a great day, and good luck with your studies!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "Thank you. You are so kind. I hope that if I come back in one or three months, if I have a question, I can be more clear with my English. Thank you."
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That’s such a lovely goal, Pamela! Your English is already very good—and you’re getting clearer every time you speak. I’ll be happy to talk with you again anytime. Take care and see you soon!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Thank you so much, take care, and see you soon."
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "You’re very welcome, Pamela. Take care and see you soon! 🌷 _______________________"
+    }
+  ]
+}

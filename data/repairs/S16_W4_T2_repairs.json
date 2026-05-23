@@ -1,0 +1,16 @@
+[
+  {
+    "dialogue_id": "S16_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner asks the bot to repeat its question in turn 10, indicating they did not understand due to noise. The bot repeats the question in turn 11, but the learner asks again in turn 12 due to ongoing noise. The bot repeats the question again in turn 13, and the conversation continues smoothly, indicating the issue was resolved."
+  }
+]

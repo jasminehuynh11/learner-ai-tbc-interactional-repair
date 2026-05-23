@@ -1,0 +1,34 @@
+[
+  {
+    "dialogue_id": "S31_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies question about available times",
+    "evidence_summary": "The learner struggles to ask about available times in turn 6, showing hesitation and self-correction. The bot provides available times in turn 7, resolving the issue."
+  },
+  {
+    "dialogue_id": "S31_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "misunderstanding of 'wireless' as 'wine list'",
+    "evidence_summary": "The bot does not understand the learner's request for 'wireless' in turn 46, leading to a series of unclear exchanges. The learner attempts to clarify by spelling out 'wine' in turn 50, but the bot still fails to understand. The repair remains unresolved within the specified turns."
+  }
+]

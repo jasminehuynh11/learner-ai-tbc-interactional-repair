@@ -1,0 +1,343 @@
+Week 3: Reporting Problems and Seeking Help
+
+Task 1: 
+Task 1: Reporting an Internet Outage at Your Housing Scenario: You are contacting your housing provider or Internet company to report that the Internet is not working. You need to describe the problem, ask for assistance, and check when the issue will be fixed. Practise speaking clearly and politely in a service setting. You will need to define the chatbot’s role as a housing manager or Internet support staff. You can choose situations from the examples below; start with a simple report and try a more detailed interaction by asking about troubleshooting steps, technician availability, or service timelines. Learning objectives: • Use and ask about specific vocabulary for technical problems (e.g., router, connection, or outage). • Practise sequencing (e.g., when it happened and what you tried). • Use polite and persistent questioning to request assistance. • (Advanced option) Manage extended service interactions by troubleshooting the issue, confirming steps, and negotiating next actions. Instructions: Try to: • Describe the problem clearly. • Ask for possible causes or timelines. • Provide any relevant details (e.g., room number, service provider, etc.). • Close the chat once a solution or next step is agreed. • (Advanced option) Use the extension prompts below to have a longer conversation. 
+English Conversational Partner said:
+Alright — I’ll step in as your housing provider’s Internet support staff.
+Sure. What seems to be happening with your internet connection right now?
+You said:
+“Bye.”
+00:00
+English Conversational Partner said:
+Alright, I’ve been having some trouble. The internet just isn't working at all in my apartment. Could you let me know when this started and if you've tried restarting your router yet?
+You said:
+“Hi, my internet has stopped working.”
+00:02
+English Conversational Partner said:
+Got it. So the internet just stopped working. Could you tell me when you first noticed the issue, and have you already tried rebooting your router or any other steps on your end?
+You said:
+“It happened since last night and then I tried to reboot already several times.”
+00:07
+English Conversational Partner said:
+Alright, thanks for letting me know. Since it’s been going on since last night and you’ve already tried rebooting a few times, let’s check the next step. Can you tell me your apartment number so I can look into any building-wide issues or see if we need to send a technician out?
+You said:
+“So is there a technician available today?”
+00:02
+English Conversational Partner said:
+Absolutely. Let me just note that down. Once I have your apartment number, I'll check our technician schedule and see if we can get someone out to you today. What’s your apartment number? All good? Let me know.
+You said:
+“So my apartment number is 255, and then do you know what the issue might be?”
+00:07
+English Conversational Partner said:
+Sure, apartment 251 noted. Thanks for that. It could be a local outage or just something with the line to your unit. Let me find out. Now, do you have a preferred time today for the technician to drop by, or should we just send them as soon as possible?
+You said:
+“SS password is good”
+00:02
+English Conversational Partner said:
+Alright, as soon as possible it is! We’ll aim to get someone over to you shortly. Just hang tight and we’ll keep you posted on their arrival time. Anything else you’d like to ask while we’re setting that up?
+You said:
+“So what should I try before you send someone?”
+00:04
+English Conversational Partner said:
+Sure! One last thing you can try is just double-checking that all the cables are firmly plugged in and maybe even switching the router off for a full minute before turning it back on. But if that doesn't do the trick, no worries—we'll still send someone over. Does that sound okay to you?
+You said:
+“So should I wait here or will someone call me?”
+00:03
+English Conversational Partner said:
+Sure, you can just wait right there. Our technician will give you a quick call before they arrive, so you’ll know exactly when to expect them. Anything else you’re wondering about for now? Let me know.
+You said:
+“If the service isn’t fixed by today, do I get a refund or credit?” 
+00:05
+English Conversational Partner said:
+Absolutely, that's a fair question. If we can't get it fixed today, you'll definitely get a credit for the downtime on your account. We'll make sure you're covered. Anything else on your mind that I can help with? Let me know.
+You said:
+“So can I get this in writing from my record?”
+00:03
+English Conversational Partner said:
+Sure, I’ll send you a confirmation email with all these details so you have it in writing. You’ll get that shortly. Is there anything else you’d like to go over before we wrap up? Let me know.
+You said:
+“Is it possible to change to a different service plan?”
+00:03
+English Conversational Partner said:
+Absolutely. We can definitely look at different service plans if you're interested. Just let me know what kind of changes you're thinking about, and I can walk you through your options. What kind of plan are you considering? Let’s figure it out.
+You said:
+“It's all good. Just I'd like to make a complaint. What's the process?”
+00:06
+English Conversational Partner said:
+Alright, understood. If you want to make a complaint, that’s no problem at all. I'll let you know the process: you can simply let me know the details here, or I can direct you to our formal complaint form online. Which way would you prefer to do it? Let me know.
+You said:
+“A formal complaint, yeah.”
+00:02
+English Conversational Partner said:
+Alright, a formal complaint it is. I’ll send you a link to our online form where you can fill out all the details. Once you’ve submitted it, our team will review and get back to you. Anything else you need before I send that over? Just let me know.
+You said:
+Transcript Unavailable
+00:03
+English Conversational Partner said:
+Of course, you can always reach back out if things aren't fixed in the next hour or so. Thanks for letting me know, and we’ll do our best to sort it quickly. If there’s nothing else, just let me know anytime.
+
+Task 2: 
+
+Task 2: Reporting a Lost Item or Filing a Minor Police Report Scenario: You have lost something important (e.g. your wallet or phone) and need to report it either to a lost-and-found service or to a police station for a minor report. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a lost-and-found assistant or police officer. You can choose situations from the examples below; start with a simple report and try a more detailed interaction by asking about recovery steps, documentation, or how to follow up. Learning objectives: • Use past tense and time expressions clearly. • Provide specific object descriptions. • Practise formal and calm reporting language. • (Advanced option) Manage formal reporting interactions by describing the situation clearly, asking about recovery processes, and confirming next steps. Instructions: Try to: • Give clear details about the lost item. • Describe where and when you lost it. • Answer follow-up questions politely. • Ask what happens next and how to follow up. • (Advanced option) Use the extension prompts below to have a longer conversation. 
+English Conversational Partner said:
+Alright. I’m sorry to hear you’ve lost something. What happened?
+You said:
+“Hi, I've just realized I lost my phone. I'm at the train station, and I'd like to check with the lost and found desk.”
+00:08
+English Conversational Partner said:
+Alright, I understand. Can you tell me about when you last had your phone and maybe what it looks like? Let’s start there.
+You said:
+“I have a black phone with a white case, and… I lost it about two hours ago.”
+00:10
+English Conversational Partner said:
+Got it. A black phone with a white case and you think it’s been about two hours since you lost it. Thanks for that info. Now, could you let me know exactly which part of the station you were in when you last remember having it?
+You said:
+“I was in the...”
+00:02
+English Conversational Partner said:
+Alright, I’m with
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Sure, that helps. So you were in the Newcastle station area. Now, can you let me know if you had any identifying details on the phone, like a sticker or any special wallpaper that could help us identify it?
+You said:
+Transcript Unavailable
+00:04
+English Conversational Partner said:
+Alright, that’s good to know. So you’ve got a black leather wallet with your ID in it as well. Now, just to be sure, could you let me know if there's anything else unique inside that wallet or phone that might help us confirm it’s yours if we find it?
+You said:
+“And the phone has a cracked screen.”
+00:03
+English Conversational Partner said:
+Sure, that’s helpful. So the phone’s got a cracked screen, which makes it easier to identify. Now let me just ask, do you remember if you were near any particular shop or platform in the station when you think you lost it?
+You said:
+Transcript Unavailable
+00:05
+English Conversational Partner said:
+Alright, that’s a good detail. So you were in the station library area before lunch. Thanks for that. Now, let me ask you, would you like to know the next steps on how we’ll try to recover it and how you can follow up with us?
+You said:
+“Yes, sure.”
+00:00
+English Conversational Partner said:
+Sure thing. So what we'll do next is we’ll file a report here, and then you can check back with us in about a day or two to see if it’s turned up. Now, can I just get your contact number or an email so we can reach you if we find it?
+You said:
+“Right, before that, what happens if someone find it?”
+00:03
+English Conversational Partner said:
+Absolutely. So if someone does find it, we'll contact you using the info you give us, and you can come in and pick it up. Now, could you just share the best phone number or email for us to reach you at?
+You said:
+“Okay, here we go.”
+00:00
+English Conversational Partner said:
+Okay, got it. Thanks for that. We'll use that info to let you know if we find your phone or your wallet. And if you need anything else, just let us know.
+You said:
+“Do I need to show my ID card when collecting?”
+00:03
+English Conversational Partner said:
+Sure, yes, you will. We'll just need to see your ID when you come to pick it up so we can confirm it’s yours. And that’s it. So if you have any more questions, just let me know.
+You said:
+“So, can you call me if it's found?”
+00:02
+English Conversational Partner said:
+Absolutely, we can do that. We'll give you a call as soon as we have any news on it. And that should cover it. If there's anything else you need, just let me know.
+You said:
+“So how long do you keep lost items or files?”
+00:03
+English Conversational Partner said:
+Sure, yeah, that's a good question. We typically hold on to lost items for about 30 days. So you’ll have some time to come and pick it up. Anything else you’d like to know?
+You said:
+“Should I file an official police report for this?”
+00:04
+English Conversational Partner said:
+Sure, that's totally up to you. For something minor like this, you can if you want a record. But it's not required. Anything else on your mind?
+You said:
+“Is there a lost property website I can check?”
+00:03
+English Conversational Partner said:
+Absolutely, there is. We do have an online lost property page where you can check for updates. I can give you that link when you come by, or you can find it on our main website. Anything else you’re curious about?
+You said:
+“Okay, I appreciate your help.”
+00:02
+English Conversational Partner said:
+Of course, happy to help! And if you need anything else, just let us know. Take care!
+
+Task 3: 
+
+Task 3: Requesting Maintenance or Repairs in a Rental Property Scenario: Something is broken or needs fixing in your rental accommodation. You are contacting your property manager or landlord to request a repair. Practise speaking clearly and politely in a service setting. You will need to define the chatbot’s role as a property manager or housing agent. You can choose situations from the examples below; start with a basic repair request and try a more detailed interaction by discussing access arrangements, urgency levels, or safety concerns. Learning objectives: • Use clear descriptive and locational language. • Ask and answer questions about cause and urgency. • Practise formal yet direct request language. • (Advanced option) Manage extended repair requests by negotiating access times, explaining complications, or requesting updates on repair status. Instructions: Try to: • Describe the issue clearly with location and urgency. • Ask how and when it can be fixed. • Respond to any questions about damage or access. • Confirm next steps and thank the person. • (Advanced option) Use the extension prompts below to have a longer conversation. 
+English Conversational Partner said:
+Alright. This is the property management office — how can I help you today?
+What exactly needs fixing in your rental?
+You said:
+Transcript Unavailable
+00:05
+English Conversational Partner said:
+Alright, I understand. So the heater in your bathroom isn't turning on. Could you let me know how urgent this feels for you and if there's a particular time that's best for someone to come take a look?
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Sure thing. Thanks
+You said:
+“and GPT-4.”
+00:07
+English Conversational Partner said:
+Absolutely, we can do that. Now just to confirm, could you let me know which days or times you're generally at home so we can arrange a visit that works for you?
+You said:
+“Friday at 2 p.m. is all right.”
+00:02
+English Conversational Partner said:
+Alright, Friday at 2 p.m. works just fine. We'll have someone come by then. And just to double-check, is there anything else we should know about getting into the bathroom or any other issues we should be aware of?
+You said:
+Transcript Unavailable
+00:04
+English Conversational Partner said:
+Got it. Thanks for letting me know about the fridge as well. We'll definitely note that down and have the maintenance team check both. Now, before we wrap up, can you confirm that Friday at 2 p.m. works for both the bathroom heater and the fridge, and then we'll get it all arranged?
+You said:
+“about today or tomorrow.”
+00:01
+English Conversational Partner said:
+Absolutely, let me see
+You said:
+“It's possible.”
+00:00
+English Conversational Partner said:
+Sure, we can try to arrange that sooner. Let me just check our availability and would you prefer today or tomorrow?
+You said:
+“Also, it's working for me.”
+00:01
+English Conversational Partner said:
+Alright, got it. We can definitely aim for tomorrow then. So, just to confirm, we'll have someone come by tomorrow to look at both the heater and the fridge. Thanks for letting us know, and we'll see you then!
+You said:
+“Do I need to stay home for the repair?”
+00:02
+English Conversational Partner said:
+Sure. Usually, it's good if someone can be home just to let them in and point things out. But if that's tricky, let me know and we can figure out an alternative. How does that sound?
+You said:
+“If I'm not there, I will leave a key at reception if I out.”
+00:05
+English Conversational Partner said:
+Sure, that works perfectly. If you leave a key at the reception, we'll let the maintenance team know to pick it up. So with that settled, is there anything else you need us to handle for you?
+You said:
+“Will I get an email or text message once it’s booked?” 
+00:04
+English Conversational Partner said:
+Absolutely, we can do that. We'll send you a quick message as soon as everything's done. Thanks for arranging that, and we'll take care of it.
+You said:
+“Should I be worried about any long-term damage?”
+00:03
+English Conversational Partner said:
+Sure. Generally, it doesn't sound like anything too major, so I wouldn't worry. But once we take a look, we'll let you know if there's anything more serious. Is that okay with you?
+You said:
+“Yes, is there an emergency number I can call on a weekend?”
+00:04
+English Conversational Partner said:
+Absolutely, there is. We do have an emergency number you can use if anything urgent pops up over the weekend. I'll make sure to share that with you right after this. Anything else you need for now?
+
+
+Task 4: 
+
+Task 4: Seeking Technical Support for a Device or Service Scenario: You are contacting customer support for a technical problem with your phone, computer, or an online service. You need help troubleshooting or asking for service options. Practise speaking clearly and politely using technology-related vocabulary. You will need to define the chatbot’s role as a tech support agent or customer service assistant. You can choose situations from the examples below; start with a simple issue and try a more detailed interaction by discussing troubleshooting steps, data recovery, or service coverage. Learning objectives: • Practise using tech-related vocabulary and error descriptions. • Follow instructions and sequence events. • Use polite and persistent enquiry language. • (Advanced option) Manage extended support conversations by clarifying error symptoms, asking about warranties or replacements, and confirming next actions. Instructions: Try to: • Describe what went wrong in clear steps. • Respond to questions about device or account information. • Follow troubleshooting suggestions. • Ask what happens next. • (Advanced option) Use the extension prompts below to have a longer conversation. 
+English Conversational Partner said:
+Alright, happy to help! I’m your tech support agent today.
+What problem are you having with your device or service?
+You said:
+Transcript Unavailable
+00:03
+English Conversational Partner said:
+Got it. Let's start with the basics. Can you tell me what model your phone is and how long this has been happening?
+You said:
+“My phone is a Galaxy Tab and it happens a lot.”
+00:04
+English Conversational Partner said:
+Alright, a Galaxy phone, and this has been going on for a while. Let's see what we can do. Have you noticed if it restarts when you're using a specific app or just randomly?
+You said:
+“It's just a random name, yeah?”
+00:01
+English Conversational Partner said:
+Alright, randomly it is. Let's try a quick step. Could you go ahead and restart the phone yourself once and let me know if it still keeps rebooting after that?
+You said:
+“Yeah, it keeps rebooting, yes.”
+00:02
+English Conversational Partner said:
+Alright, so it’s still doing it even after a manual restart. Let’s dig a bit deeper. Could you tell me if you’ve installed any new apps or updates recently, just before this started happening?
+You said:
+“Nothing I know of.”
+00:01
+English Conversational Partner said:
+Sure, nothing new that you can think of. No worries. Let’s try another step then. Could you check if your phone’s software is fully up to date, and let me know if there are any pending updates showing up?
+You said:
+“Not really, I can't check any screen now.”
+00:02
+English Conversational Partner said:
+Alright, so you can't really check the screen right now. No problem. Let's just move on to another angle. Have you tried maybe charging it fully or using a different charger just to see if that makes any difference?
+You said:
+“No, I just use usual one.”
+00:02
+English Conversational Partner said:
+Gotcha. You just used your usual charger. That’s totally fine. Let’s keep it simple. Could you let me know if the phone is still under any kind of warranty or if you have any coverage plan that we should know about?
+You said:
+“I think I have a warranty for 5 years soon.”
+00:02
+English Conversational Partner said:
+Alright, a five-year warranty sounds good. That’s helpful to know. So next, let’s figure out how we can use that. Would you like me to walk you through how to contact the warranty service, or do you want to try another troubleshooting step first?
+You said:
+“I can go troubleshooting first.”
+00:02
+English Conversational Partner said:
+Sure thing! We can keep troubleshooting a bit more. Let me ask: have you tried starting the phone in safe mode to see if it still restarts there?
+You said:
+“I do know about that.”
+00:01
+English Conversational Partner said:
+Alright, no worries. Safe mode is basically a way to start your phone without any third-party apps running. So let's try that next. Can you go ahead and power it off completely and then turn it back on by holding the volume down button? Let me know if that gets you into safe mode.
+You said:
+“So I connect it to safe mode. What should I do next?”
+00:03
+English Conversational Partner said:
+Alright, great job getting into safe mode! So from here, let's just see if the phone still restarts on its own. If it doesn't reboot randomly in safe mode, that means it’s probably an app causing the issue. So just let me know if it stays stable or if it still restarts while you're in this mode.
+You said:
+“I guess to restart it in this mode.”
+00:02
+English Conversational Partner said:
+Alright, so it still restarts even in safe mode. That’s good info. In that case, let’s lean on that warranty. I’ll help you with the next steps to contact the service center so they can take care of it. So, just let me know if you're ready to reach out to them or if you need anything else first.
+You said:
+“Uh, they're gonna reset my files or photos or deleting.”
+00:05
+English Conversational Partner said:
+Sure, that makes sense. We can definitely do a reset or a factory reset if you’re comfortable with that. Just remember it’ll erase your data, so let me know if you want to back anything up first. And then we can walk through that reset step together.
+You said:
+“Yeah, I mean, I wanted to save my photos and files.”
+00:03
+English Conversational Partner said:
+Alright, got it! You want to save your photos and files first. So let’s do that before we reset anything. You can back them up to a cloud service or transfer them to a computer. Once you've got them safe, just let me know and we’ll take the next step together.
+You said:
+Transcript Unavailable
+00:03
+English Conversational Partner said:
+Absolutely, it's good to think about that. If you're backing up to a trusted cloud service or a computer you trust, you should be fine. Just make sure you're using a secure account and you're all set. Once everything's backed up, we can move on to that factory reset. Let me know when you're ready!
+You said:
+“I'm leaking my photos or files or my account, something like that.”
+00:06
+English Conversational Partner said:
+Sure, I hear you. So basically, you're just worried about your photos or files leaking or your account info getting out. As long as you're using a trusted method, like a well-known cloud service or a safe computer, you're good. And once we do the reset, that should wipe everything off the phone cleanly. Just let me know when you're all backed up and we’ll jump to the next step.
+You said:
+“So what if this problem keeps happening after maintenance?”
+00:05
+English Conversational Partner said:
+Sure, totally understandable to wonder about that. So if the problem keeps happening even after we do a reset, then it's likely a hardware issue rather than a software one. In that case, we’d definitely want to use that warranty and have a technician look at it. So let's just back things up, do the reset, and if it still acts up, we’ll go from there.
+You said:
+“Can I open a case number to follow up later, and what's the case number again?”
+00:05
+English Conversational Partner said:
+Absolutely, we can do that. So let me go ahead and open a case number for you. That way you can follow up easily if you need to. And your case number is 12345. So if you have any more issues, just mention that number and we’ll pick up where we left off. Let me know if you need anything else!
+You said:
+“So what does that mean, case number, in this context?”
+00:03
+English Conversational Partner said:
+Sure! So a case number is basically just a reference number that lets us keep track of your issue. It means that if you contact us again, we can quickly find all the details about what's been done so far. So just hang on to that number, and it'll help if you need to reach out to us again. Anything else on your mind?
+You said:
+“I'll reach you all again if I still have problems. Thank you.”
+00:03
+English Conversational Partner said:
+Of course! You're very welcome. Just keep that case number handy and reach out any time you need more help. Have a good one!

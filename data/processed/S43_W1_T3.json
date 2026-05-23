@@ -1,0 +1,315 @@
+{
+  "student_id": 43,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S43_W1_T3",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Returning or exchanging clothes and asking about store policies"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, I want you to practice returning or exchanging clothes and asking about the store policies. In this scenario, you will play the role of the staff and I will be the client.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Can we stop now?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course, we can stop anytime. Just let me know if you’d like to continue or if you have any other questions."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Hi, I bought this jean last week but it doesn't fit.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I wonder if I can I change it for a smaller size.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely help with that. Do you have your receipt with you, and would you like to exchange it for the same style in a smaller size?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Maybe I would just want another smaller size for the same design because I really like the design and the color.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That sounds great! We’ll make sure to get you the right size. Could you let me know which size you need exactly, and also if you’d like to try it on before finalizing the exchange?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, definitely. My waistline, usually I would have the 28, but for deep jeans, I think I would try the size 27.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! We can definitely check if we have a size 27 in stock for you. Would you like to head to the fitting room and try them on, or would you prefer to just exchange them right away?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Maybe I will spend some time to try it on and see how it feels.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That sounds perfect! Take your time, and if you need any assistance or another size, just let me know. And feel free to call me if you have any questions."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "You're very welcome! Enjoy trying"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“I just...”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "All right, feel free"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“I just realized that the Cy27 fits my waistline, but it does not fit my thigh. It feels very, very tight, and I don't feel comfortable with the jean anymore.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "I understand, comfort"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“I have my receipt here. I wonder if I can have a refund.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course, we can definitely look into that for you. Just let me know if you’d prefer a refund to your original payment method, and we’ll get that sorted out right away."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“But first, I want to know about your return policy.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to explain. Generally, we accept returns within 30 days with the receipt, and the item should be unworn and in its original condition. If you’d like more details, I’m happy to help!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“So I have a little problem with the gene, because as I can remember, I think I...”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "No worries at all,"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I think a part of the tag is already torn.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "I understand."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“I don't know if it's still eligible for return or refund policy.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That’s totally understandable. In that case, we can definitely take a look and see what options are available. Let’s check the details, and we’ll do our best to find a solution for you."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yes, that's great. Thank you so much.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You’re very welcome! Just let me know if you need anything else, and I’m here to help."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I wonder, sorry, because last week I also bought another item, which is the same jean, which is different color from my friend. I don't know if it was given as a gift, and it's the wrong side. What is your exchange policy? Can my friend just come here without the receipt and get the refund or exchange to another item?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! Typically, for gifts, we can offer an exchange or store credit even if the receipt isn’t available, as long as it’s within our return period and in new condition. Your friend can definitely come by, and we’ll make sure to take care of them."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“So can I just give her my receipt? So next time if she wants to exchange it or have a refund, she can use the receipt again.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Yes, absolutely! That’s a great idea. If you provide the receipt to your friend, she can use it for the exchange or refund without any issues. Just let us know, and we’ll be happy to help her out."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“I have another question. I wonder if I can exchange the gene for something else in the same price range.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, that's definitely possible! We can exchange it for any item within the same price range or even slightly adjust if needed. Just let us know what you’re interested in, and we’ll get that sorted for you!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“All that's great, I definitely will go have a look around the shop. As I have another question, I bought to my husband a coat recently, and when we get home, and after his first try,”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Got it, no worries"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“the zip is broke and I don't think that he has something to do with it. I wonder if I can bring the coat with a broken zip to the shop to have a refund or a change to another item.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely, that’s definitely something we can help with. If the coat is faulty, we can offer either a refund or an exchange, whichever you prefer. Just bring it in, and we’ll take care of everything for you."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Oh, that's great.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "I’m glad to hear that! If you have any more questions or need any assistance, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“But as you say that I have to return it within 30 days”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Exactly, yes!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "No worries at all! If you have any other questions or need any help with the process, just let me know. I’m always happy to assist!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Yes, so I just checked and the date that I bought the coat is within 30 days, so It is eligible for your refund policy But as I can remember I bought that items on sale I don't know if you accept returns on sale items”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, we do accept returns on sale items as well, though sometimes store credit is provided instead of a refund. But we can definitely look at the details and find the best solution for you."
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Yes, thank you. I wonder if your shop has any tailoring service, because around my area I cannot find any tailor around there, so it would be perfect if you offer such service for us.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Absolutely, we do offer tailoring services in-store, and we’d be happy to assist with any adjustments you need. Just bring the item in, and our tailor will take care of it for you. Feel free to ask us anytime!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“So, um...”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "No problem at all!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Is it a separate tailoring service or it includes in your shop service? Because I also have a lot of clothes that I need to repair but some of them I did not buy from your shop. I wonder if I can just bring all of them and get prepared and then I will pay service fee for the tailoring.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Absolutely, we do offer tailoring services for items bought elsewhere as well, and you can definitely bring in your clothes for repairs. There will be a service fee based on the alterations needed, and we’ll make sure everything’s taken care of smoothly. Feel free to bring them by anytime!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Yes, that's great. Thank you so much. So what I'm going to do now is I will maybe have a look around to see if I can find another item within the price range with the gene that I bought. If I can't find anything, maybe I will proceed to the refund procedure. Is that okay?”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "That sounds perfect! Take your time browsing, and if you need any help or have more questions, I’m here for you. And if it comes down to a refund, we’ll make that process as smooth as possible. Enjoy your shopping!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Yes, that's great. Thank you very much. I think that's it. I really appreciate your help.”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you need anything else, just let me know. Have a wonderful day, and happy shopping!"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "dialogue_id": "S1_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand phrase",
+    "evidence_summary": "The learner asks the bot to repeat the last part of its previous statement, indicating a lack of understanding. The bot repeats the phrase, and the learner continues the conversation, showing that the issue was resolved."
+  },
+  {
+    "dialogue_id": "S1_W4_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      27,
+      28,
+      29
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – irrelevant cultural reference",
+    "evidence_summary": "The bot mistakenly refers to Chinese cultural aspects, which the learner corrects by pointing out the focus on Colombian and Australian cultures. The bot acknowledges the mistake and refocuses on the correct cultures, resolving the misunderstanding."
+  }
+]

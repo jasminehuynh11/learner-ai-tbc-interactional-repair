@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S33_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand word 'thermostat'",
+    "evidence_summary": "The learner did not understand the word 'thermostat' and asked for an explanation. The bot clarified that it is the temperature control on the wall, and the learner acknowledged understanding and continued the conversation, indicating the issue was resolved."
+  }
+]

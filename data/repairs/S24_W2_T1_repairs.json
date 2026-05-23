@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S24_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner unable to proceed without headphones",
+    "evidence_summary": "The learner indicates they cannot begin the task because they don't have headphones in turn 8. The bot acknowledges this and offers to start again when the learner is ready in turn 9, resolving the issue."
+  },
+  {
+    "dialogue_id": "S24_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requests slower speech for better understanding",
+    "evidence_summary": "The learner asks the bot to speak slowly in turn 24 to understand the details better. The bot agrees and repeats the information more slowly in turn 25, resolving the learner's request."
+  }
+]

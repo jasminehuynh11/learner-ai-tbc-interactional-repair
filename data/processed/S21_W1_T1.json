@@ -1,0 +1,155 @@
+{
+  "student_id": 21,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S21_W1_T1",
+  "source_file": "data\\raw\\#21\\#21\\#21. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering Coffee at a Café Scenario: You walk into a café to order coffee and food. Practise making casual and polite requests. You will need to define the chatbots’ role as a café barista. You can choose situations from the examples below; start with a simple order and try a more detailed interaction by asking about coffee types or preparation methods. Learning objectives: • Order food and drinks using polite requests. • Ask about dietary options and food recommendations. • Inquire about prices, combos, and waiting times. • Practise informal greetings and polite closings. • Respond to casual small talk or unexpected questions. • (Advanced option) Manage extended interactions asking about coffee preferences, beans, or preparation methods. Instructions: Try to: • Ask at least three follow-up questions. • Make one change to your order or ask for a recommendation. • Respond to at least one casual or unexpected comment from the barista. • Finish the conversation politely. • (Advanced option) Use the extension prompts below to have a longer conversation. Examples of situati"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure. Let’s start. (Role: Café Barista) Hi there, welcome in! What kind of coffee would you like today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Latte, Latte, please.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Great choice! Would you like any specific type of milk, like almond or oat, or just regular dairy milk?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Is it possible to change the soy milk?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. Would you like any flavoring added, like vanilla or caramel?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Oh, no thanks.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, got it! So, a latte with soy milk. Would you like something to go with that, like a pastry or a sandwich?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yao, what is your recommend today?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "We’ve got a fresh blueberry muffin and a delicious avocado toast. Which one sounds good to you?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Thank you, Sue. I would like to choose something sweet, but I'm not good at blueberries, so instead, what do you recommend? Do you have it?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! In that case, we also have a classic chocolate croissant. Would you like to try that instead?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Oh, yes, please. That's amazing.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect! So, that’s a latte with soy milk and a chocolate croissant. Would you like to have that for here, or will it be to go?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I also want to order, uh, is there, is there, do you have anything vegan for my friend?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, we do! We have a vegan avocado toast and some vegan pastries as well. Would your friend prefer something savory or sweet?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Maybe savory is good for health?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Great! In that case, the vegan avocado toast would be perfect. Anything else you’d like to add to the order?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yeah, and also reverse, please. Maybe she wants to get some soda flavor. So do you have something new one?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely! We have a sparkling raspberry lemonade and a mango iced tea. Which one do you think she’d prefer?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Perfect, so that’s a latte with soy milk, a chocolate croissant, a vegan avocado toast, and a mango iced tea. Anything else I can get for you?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yeah, that's enough for me. And could you give me a tap water, please?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course, I'll add a tap water to your order. That’s all set! Anything else before I get that ready for you?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“This is enough. Thank you so much.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’ll have that ready for you in just a moment. Enjoy!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Thank you. Have a good day.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Thank you! You have a great day as well."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "🍽️"
+    }
+  ]
+}

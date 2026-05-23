@@ -1,0 +1,180 @@
+{
+  "student_id": 8,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S8_W2_T2",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to deposit my money.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright, absolutely. Are you looking to deposit cash or a check today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Um, that's great.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sure, cash is fine. And just to confirm, do you already have an account with us, or is this your first time depositing here?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, got it. Welcome! So let me just ask, do you have any form of ID with you today for the deposit?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“So, I hope this gave you a great idea.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, that’s perfect. Thanks for that. Now, roughly how much are you looking to deposit today, just so I can note it down?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I would like to depreciate Tam Nguyen, the author.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure thing, that sounds good. So let me just get that set up for you. And did you want a receipt for this deposit when we're done?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, I'll make sure you get that receipt. Now, just one last thing: would you like this deposited into your checking or savings account?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, checking it is. I'll go ahead and process that for you. And while I'm doing that, is there anything else you need help with today?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“To be honest, I've forgotten my online banking password. Could you help me?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure, I can definitely help with that. Let me just finish up your deposit first, and then I'll check on your online banking access for you."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure, absolutely. Happy to help with both. So I'll get this deposit wrapped up first, and then we’ll sort out your online login. Just hang tight for a moment—do you happen to remember the last time you tried logging in?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, uh, well, uh, my time is free, so I can do this.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, no worries at all. We can definitely help reset that for you if needed. So let me just finish up your deposit here, and then we'll go ahead and take a look at your login details."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Uh, now, I'm thinking about to invent in, um...”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. Well, we can definitely help you with the deposit and the login first, and then if you need any advice on anything else, just let me know. So let's get this all sorted out for you first."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Ok, how about to invest in India?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds good. We can definitely chat about investment questions once we've wrapped up these basics. So let me just get this deposit finished for you and then we can go from there."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“And that's pretty much it. Thanks for watching.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course, you're very welcome. I'm glad to help. So your deposit is all set, and if you need anything else or you want to talk investments, just let me know."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You got it! Thanks for coming in, and"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, take care and have a great day."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure thing! Have a good one, and if you need anything else, just let us know."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Sure, my pleasure. I'm really glad I could help out. If there's anything else you ever need, just feel free to come by. Take care!"
+    }
+  ]
+}

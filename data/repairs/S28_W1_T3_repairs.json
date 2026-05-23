@@ -1,0 +1,52 @@
+[
+  {
+    "dialogue_id": "S28_W1_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – 'whitelist' misheard as 'wine list'",
+    "evidence_summary": "The learner says 'whitelist' in turn 24, which is misrecognized by the bot as 'wine list' in turn 25. The bot provides a response about the wine list, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S28_W1_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects phone number",
+    "evidence_summary": "The learner asks to double-check the phone number in turn 34. The bot repeats the incorrect number in turn 35, and the learner corrects it in turn 36. The bot acknowledges and updates the number in turn 37, resolving the issue."
+  },
+  {
+    "dialogue_id": "S28_W1_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      46,
+      47
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand explanation",
+    "evidence_summary": "The learner expresses confusion and asks for an explanation in turn 46. The bot provides a clearer explanation in turn 47, and the learner's subsequent response indicates understanding, resolving the issue."
+  },
+  {
+    "dialogue_id": "S28_W1_T3",
+    "repair_id": 4,
+    "turn_indices": [
+      66,
+      67
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand explanation",
+    "evidence_summary": "The learner asks for clarification about the return policy for a washed item in turn 66. The bot reiterates the policy in turn 67, and the learner's subsequent response indicates understanding, resolving the issue."
+  }
+]

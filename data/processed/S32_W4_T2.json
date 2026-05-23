@@ -1,0 +1,150 @@
+{
+  "student_id": 32,
+  "week": 4,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S32_W4_T2",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Participating in Group Decisions and Negotiating"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Alright, let's say we're working on a project about developing a new app. We’re three team members: you, me, and another teammate. So, let’s dive in! To start, maybe you can let me know what your main idea or your perspective is on the project, and then we can go from there. Sound good?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I think for the first part, we need to select what kind of app we want to create. And when we have what kind of app, we can decide what is the target, how can look the app, the interface of the app, and all these kind of things. So first, I want to know if someone of you have an idea or what app we can create or something like that.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That sounds like a great approach! I totally agree that we need to define the type of app first. I’ve been thinking about maybe a productivity app, but I’m curious if you or our other teammate have any specific ideas in mind. So, what kind of app were you envisioning?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I really like the idea that you say it's a productive app, and I think it's really good for students in general. What do you think about that?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, I think that’s a fantastic idea! A productivity app for students could definitely meet a real need. We could focus on features like task management, scheduling, and reminders. So, do you have any specific features or functionalities in mind that you’d like to include?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I agree with that, but I'm not sure if we just decide the target is just students, or we are focused in university students, or high school students, or what do you think is the best target that we can focus and dip in that?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That’s a great point! Narrowing down the target audience definitely helps. We could focus on university students, since they often juggle a lot of tasks and deadlines. But we could also consider high school students if we want to keep it broader. What do you think would be more beneficial or more interesting for our project?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, I agree. Definitely, we can choose university students. So, now that we decide what type of app we want to create, maybe the target that is the app, we have to decide what person do the research about the target, why it's a good idea, like the investigation, the research about that, and maybe the other person is focused to create a presentation, and the other person is the person who finds examples that exist in the market, or I don't know.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense! We can definitely divide the responsibilities that way. One person can focus on market research and understanding our target audience in depth, another can work on creating a compelling presentation to showcase our ideas, and the third person can look at existing apps in the market for inspiration. So, does that sound like a good plan for how we can divide the tasks?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I don't know if something is missing. Do you think that we have to do another thing? Because I think the presentation is important and we need a good design for the presentation, but we can focus on that in the last part of the project if we have all the information before. So I think we can do together the presentation, but I don't know if you agree with that or someone wants to do by themselves the presentation or not.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I completely agree! It definitely makes sense to gather all the information first before we dive into the presentation design. And I’m totally open to collaborating on that final part together. That way, we can ensure consistency and a really polished final result. So, I think we’re definitely on the same page! Let me know if you have any other ideas or if you want to add anything else."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“No, I agree. If it's okay, I want to do the part in who is the research, the examples from the apps that exist to compare the market. I don't know, what do you think about the limit of doing all parts? What is better for you in this case?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That sounds great! I’m happy to take on the research or the presentation part, whichever works best for you. And I think we can set some clear deadlines for each part so that we stay on track. So, let me know what timeline works for you, and we can coordinate it nicely."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“So, we have one month to do all the project, so I don't know if we used two weeks to make all the research and have all the information that we need, and no, I don't know, maybe just, yeah, two weeks for that, for deadline, and the other two weeks to create a presentation and maybe design a basic of how looks the app and all these kind of things or what do you think that is a long time or short time for that or what is the best deadline for each person, I don't know.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I think your plan sounds really balanced! Giving two weeks for research definitely allows us to gather everything thoroughly, and then having the next two weeks for the presentation and design is perfect. That way, we have a nice buffer for revisions and final touches. I think it’s a great timeline, and it should keep us on track and stress-free. Let me know if you want to adjust anything, but I think we’re good to go!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, if everyone is agree with that, I want to suggest another thing, like, if it's possible to each week see what things are done and where things are, we have, we need to improve, so have a meeting per week, that it's okay, let me know which day for you is good for that, I think for me, on Thursday in the afternoon, it's okay, so what do you think about that?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That sounds like a fantastic idea! Having weekly check-ins will definitely help us stay on track and address any issues early on. Thursday afternoons work well for me too, so that should be perfect. I’m looking forward to staying connected and making great progress together! Let’s do it!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, so now, I don't know, I don't have clear what part you decide to do on the project, so if you let me know what is your part, I'm happy if you told me, please.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course! I’m happy to help out with the presentation and the design part, making sure it all looks polished and cohesive. That way, you can focus on the research and market comparison. And of course, we can always collaborate and support each other along the way. Sound good?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, sounds good. Now that we know which part we need to do, I think for now it's okay if we finish the meeting and we start to work. If someone has a question or a problem, please let us know in the WhatsApp group that we have. Yeah, I think that's for today or now, right?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! We’ve got everything laid out, and we can definitely keep in touch through the group if anything comes up. I’m excited to get started, and I’m sure we’ll do great. So, let’s jump in and make some awesome progress!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, so the next meeting is the next Thursday, so we can talk about what's happened this day, or if you need a more quick meeting, we can decide another day, but for the moment, just see you on Thursday in the meeting.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! We’ll keep Thursday on the schedule, and if anything urgent pops up, we can always arrange another quick check-in. I’m looking forward to seeing what we accomplish by then. Thanks so much, and I’ll talk to you soon!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, thank you, have a good day.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You too! Have a great day, and I’ll talk to you soon. Take care!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Thank you. Bye-bye.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Bye-bye! Take care and talk to you soon!"
+    }
+  ]
+}

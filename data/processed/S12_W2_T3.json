@@ -1,0 +1,230 @@
+{
+  "student_id": 12,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S12_W2_T3",
+  "source_file": "data\\raw\\#12\\#12\\#12. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“This time, I'm calling you to ask about a rental property.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help you with that! Let's get started. Are you looking to rent a place for yourself, or is it for someone else?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“OK, let's start. Hi, I'm interested in the two-bedroom unit on Lucenda Street. And I want to register. I want to attending to look at the house.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That sounds great! I'd be happy to arrange a viewing for you. Could you let me know what day and time would work best for you?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Maybe this weekend?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Perfect, that works for me! I'll check the availability for this weekend and confirm the exact time with you. I'm looking forward to showing you the place!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Saturday, can you?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, I can definitely arrange that for you. Just let me know your preferred day and time, and I'll make sure everything is set up for the viewing!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“So do I need to register before the attending?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "It would be helpful if you could let me know in advance, just so I can confirm the time and prepare everything for you. But I'll make it as easy as possible!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“So will I receive an email to confirm the details?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely! I'll send you an email with all the details shortly, and you can just confirm from there. If you have any questions, feel free to let me know!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Are pets allowed?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That’s a great question! I’ll check the pet policy for that property and include that information in the email as well. Thanks for asking!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“How much is the bound?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I'll find out the exact amount for the bond and include that in the email as well. That way, you'll have all the details you need. Thanks for bringing that up!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I have submitted my application yesterday on the website and you can confirm it to my details and confirm my attending.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Got it! I’ll look up your application details and confirm your attendance for the viewing. I’ll include everything in the email so you have all the information you need. Thanks for letting me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Should I provide any other documents?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "I’ll take a look at the application and see if there are any additional documents needed. If anything comes up, I’ll let you know, but I think you’re all set for now!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“So, on the third day, the whole day is okay, right?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Yes, absolutely! I’ll make sure to schedule the viewing at a time that’s most convenient for you during the day. I’ll confirm everything in the email, and we’ll make it super easy for you!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Because I want to see the situation both in the morning and in the evening, so may I come twice to attend?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course, that sounds totally fine! You’re welcome to come by both in the morning and in the evening to get a full sense of the place. I’ll make sure everything is arranged for both visits!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“That's great, thank you. And I'm also interested in another unit just beside it, and could I apply for both?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely apply for both! I'll make sure to include all the details for that second unit as well. We’ll get everything sorted so you have all the options you need!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“If someone else also applies, how will you choose?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "If there are multiple applicants, I’ll make sure to keep you updated on the status, and we can go from there. I’ll do my best to make the process as smooth and transparent as possible for you!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Do I pay the bond before signal the lease?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Typically, the bond is paid once your application is approved and before you sign the lease. But I’ll confirm the exact process for you and let you know in the details."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“So is it okay to email a copy of my ID?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Yes, absolutely! You can email a copy of your ID, and I'll make sure everything is kept secure. If you have any other documents or questions, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“I remember I don't have rental history in Australia, so can I still apply?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, you can still apply! We can consider other factors like your employment details and personal references. I’ll make sure the process is as smooth as possible for you!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Is my passport okay to apply?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, that should be perfectly fine! We'll take everything into account and make the application as smooth as possible. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“If I break the list early, what are the consequences?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That's a great question! Usually, there might be a notice period and possibly a fee for breaking the lease early. I’ll get the exact details for you and include them in the email so you have a clear understanding."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“OK, so every important things and details will in the email to me, right?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Exactly! I'll make sure to include all the important details in the email so you have everything you need in one place. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“No, thank you, that's all.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If anything else comes up, just reach out. Have a wonderful day!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Okay, thank you. Bye.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Bye! Take care, and have a great day!"
+    }
+  ]
+}

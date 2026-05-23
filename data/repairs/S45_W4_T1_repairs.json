@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S45_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand word/phrase",
+    "evidence_summary": "The learner mentions 'vessel design,' which seems to be a misunderstanding or miscommunication. The bot initiates the repair by suggesting 'visual design' as the intended term. The learner does not explicitly confirm, but the conversation continues smoothly with the bot's interpretation, indicating resolution."
+  },
+  {
+    "dialogue_id": "S45_W4_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      13,
+      14
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially says they graduated from senior high school, then corrects themselves to say primary school. The bot acknowledges the learner's situation and continues the conversation, indicating the issue is resolved."
+  }
+]

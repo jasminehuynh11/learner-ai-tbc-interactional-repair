@@ -1,0 +1,40 @@
+[
+  {
+    "dialogue_id": "S20_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – misinterpretation of learner's request",
+    "evidence_summary": "The learner's request in turn 5 is unclear, mentioning 'a scene with a possibility for an expression in your house.' The bot interprets this as a request for properties available for expansion in turn 6, which aligns with the learner's intent to get more details, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S20_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner clarification – learner corrects bot's misunderstanding of location",
+    "evidence_summary": "The learner clarifies in turn 13 that they have already mentioned a specific property. The bot acknowledges this in turn 16 and asks for more details, resolving the confusion about the location."
+  },
+  {
+    "dialogue_id": "S20_W2_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      23,
+      24
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding – confusion about property details",
+    "evidence_summary": "The learner expresses confusion in turn 23 about the bot's inability to provide specific property details. The bot clarifies in turn 24 that it can provide a general idea but needs more specifics for accuracy, resolving the learner's misunderstanding."
+  }
+]

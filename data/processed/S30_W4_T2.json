@@ -1,0 +1,120 @@
+{
+  "student_id": 30,
+  "week": 4,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S30_W4_T2",
+  "source_file": "data\\raw\\#30\\#30\\#30. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, we have Josh. I am talking now. One moment, please.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course, take your time! I'm here whenever you're ready. Just let me know how I can help."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“So, hi, we have just started your group project, can we plan the tasks together?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Let’s dive into it. What kind of tasks or goals do you have in mind for the project?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Oh, perfect. I think we should present first so we have more time to write after.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That sounds like a solid plan! So, who do you think will take the lead on the presentation portion, and what topics do we want to cover first?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Can I take notes while someone else presents?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, that's a great idea! That way we can keep everything organized. Who would you like to have present first, and do you have any particular points you want to make sure we include?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, maybe you can present first while I take notes.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That works perfectly fine! I’ll kick things off, and then you can jot down the key points. Is there a specific area you want me to focus on first in the presentation?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Ok, então...”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sounds good! Just let"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "If someone can’t meet the deadline, how should we handle that?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "That’s a great question! I think we can discuss it as a team and maybe set up some backup plans or redistribute tasks if needed. How do you feel about setting up regular check-ins to keep everyone on track?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Ok, do you think we need a shared document to manage text keys? Because I think it is a good idea.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, a shared document would be really helpful for keeping everything organized and transparent. Let’s definitely set that up so everyone can access it easily. Sound good to you?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“So perfect.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Great! I’m glad we’re on the same page. If you need any help setting that up or have any other ideas, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Thanks so much! See you."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure — thanks, and see you!"
+    }
+  ]
+}

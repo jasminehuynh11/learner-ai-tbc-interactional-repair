@@ -1,0 +1,194 @@
+TASK 1: 
+You said: 
+“Hello.”
+00:00
+English Conversational Partner said:
+Hi there! So, what can I help you with today?
+You said:
+“Actually, my internet has not been working, so could you help me?”
+00:09
+English Conversational Partner said:
+Absolutely! Let's sort that out. So, can you tell me a bit about what exactly is going on with your connection right now?
+You said:
+“Probably, two minutes ago, the noise was caused, and then the networking is not working.”
+00:13
+English Conversational Partner said:
+Got it! Sounds like maybe something disrupted your connection a couple of minutes ago. So, have you already tried restarting your router, or is that something you’d like to do next?
+You said:
+“Yes, I tried to restart, but the generator is not working, so probably the problem is outlet.”
+00:12
+English Conversational Partner said:
+Alright, I see. So it might actually be a power issue with the outlet itself. In that case, have you noticed any other devices having trouble with that same outlet, or is it just your router that's plugged in there?
+You said:
+“So, how do I fix this outlet?”
+00:05
+English Conversational Partner said:
+Sure! Well, typically if it's an outlet issue, you'd want to check if there's maybe a tripped circuit breaker or if you can try a different outlet first. So have you had a chance to plug the
+You said:
+“Notice.”
+00:00
+English Conversational Partner said:
+Absolutely! Trying another
+You said:
+“Thank you.”
+00:00
+English Conversational Partner said:
+Alright! So go ahead and give that a shot. Just let me know if plugging it into a different outlet gets things working again, and we'll figure it out from there.
+You said:
+“OK, I will try it. I have a question. What should I prepare to fix my address?”
+00:09
+English Conversational Partner said:
+Sure! So if you're going to look at the outlet itself, it's good to have maybe a screwdriver handy and definitely make sure the power is off before you do anything. So does that sound doable for you?
+You said:
+“All right, so what should I concern? Actually, I'm anxious to fix that because I don't have any Agible to fix my... to fix electric things.”
+00:28
+English Conversational Partner said:
+Of course! So if you're feeling anxious about it, that’s totally understandable. In that case, it might be best to get someone who’s a bit more comfortable with electrical stuff to help you out, or maybe a professional. So would you like some advice on how to find someone like that?
+You said:
+“Yes, I'm interested in it, but how much is it?”
+00:05
+English Conversational Partner said:
+Sure! Usually getting an electrician to take a quick look can vary in cost, but it's often not too pricey for a simple fix. So you could just call a local electrician and ask for a rough estimate. Does that sound like a plan?
+You said:
+“Okay.”
+00:01
+English Conversational Partner said:
+Great! So go ahead and give that a try, and if you need anything else, just let me know. What else would you like to ask about?
+You said:
+“Yes. I'll try it.”
+00:02
+English Conversational Partner said:
+Alright, sounds good! Well, go ahead and give it a shot and just let me know how it goes. And of course, if anything else comes up, just ask.
+You said:
+Thank you
+00:03
+English Conversational Partner said:
+You're very welcome! Glad I could help a bit. Take care and see you next time!
+
+
+TAKS 2:
+You said: 
+“Today, I lost my cell phone.”
+00:03
+English Conversational Partner said:
+Oh, I’m sorry to hear that. Let’s figure this out. Could you tell me where you last remember seeing it?
+You said:
+“This is the way I enter the station to go to Sydney. Last time, maybe I lost my cellphone.”
+00:14
+English Conversational Partner said:
+Got it! So it sounds like you might have lost it somewhere around the station on your way to Sydney. Let me ask, do you remember if you used it on the train or maybe right before you got on?
+You said:
+“Yes, I catched train, which was number 445, and I got a platform 8.”
+00:17
+English Conversational Partner said:
+All right, that’s helpful to know. So you were on train 445 and got off at platform eight. Let’s start there. Have you tried contacting the station’s lost and found yet, or would you like to do that next?
+You said:
+“Also, probably my cell phone was not working because”
+00:09
+English Conversational Partner said:
+Sure, I get it. So maybe the phone itself had an issue too. Let’s do this: if you think it’s not working, it might be good to mention that to the lost and found as well. So would you like to go ahead and give them a call now?
+You said:
+“because my cell phone was expired.”
+00:06
+English Conversational Partner said:
+Gotcha! If your phone's expired or maybe out of service, that definitely makes it trickier to track down. So in that case, let's just have you head over to the station's lost and found in person or use another device to reach out to them. How does that sound?
+You said:
+“Yes, that's great. Okay, now I'm going to tell about my phone.”
+00:10
+English Conversational Partner said:
+Perfect! That sounds like a plan. So go ahead and let them know all those details about your phone, and hopefully they'll be able to help you out. Let me know if you need anything else!
+You said:
+“Yes, my phone is suddenly prepare Celsius.”
+00:12
+English Conversational Partner said:
+Alright, got it! So you'll let them know that it's a Sydney flip phone and give them those details. That should help them identify it more easily. And if you need any more help, just let me know!
+You said:
+“Yes, this consists of red, purple, and black, and there was no cover.”
+00:10
+English Conversational Partner said:
+Got it! So you'll let them know it’s a flip phone that's red, purple, and black, and there's no cover on it. That should help them spot it more easily. Good luck, and let me know how it goes!
+You said:
+“And so, if you find my phone, would you tell me your information?”
+00:10
+English Conversational Partner said:
+Absolutely, that makes sense. Just let them know how they can contact you once they find it. Maybe give them a number or an email they can reach you at. And hopefully you’ll have your phone back soon!
+You said:
+“OK, this is my email, xxxyyy.”
+00:05
+English Conversational Partner said:
+All right, perfect! Just give them that email and they should be able to reach out to you if they find your phone. Hopefully that helps and you’ll get it back soon!
+You said:
+“And I come up with a design about my phone. In my phone, it's got a tracker.”
+00:13
+English Conversational Partner said:
+Oh, perfect! That’s actually really helpful. So you can also let them know there’s a tracker attached to the phone. That might make it even easier for them to identify it if they come across it. Sounds like you’re all set!
+You said:
+“Yes, I will send you a phone URL to which can find our phone location exactly.”
+
+
+Task 3: 
+You said: 
+My car was broken
+00:05
+English Conversational Partner said:
+Oh, I see. So now there's also an issue with your car being broken. Let's tackle that too. Could you tell me a bit about what's going on with your car exactly?
+You said:
+“Probably, as you know, this car, which I rent from you, your company.”
+00:08
+English Conversational Partner said:
+Ah, got it! So this is a rental car from my "company." No problem at all—let’s sort that out. First, can you tell me what kind of issue you’re having with the car, like is it not starting or something else?
+You said:
+“Probably my car was not working because the tire is not in good condition.”
+00:11
+English Conversational Partner said:
+All right, that makes sense. So it sounds like the tire might be in bad condition and that’s probably why the car isn’t working properly. Let’s do this: if you can, let the rental company know about the tire issue and they’ll help you get it sorted out. Just let me know if you need any more help!
+You said:
+“Yes, please. I would like to change my car tires.”
+00:10
+English Conversational Partner said:
+Sure! Absolutely, you can let them know you’d like to get those tires changed. Just reach out to the rental company, and they’ll sort that out for you. And if there’s anything else you need, just let me know!
+You said:
+“Can someone come today?”
+00:03
+English Conversational Partner said:
+Absolutely! We can arrange for someone to come out today and help you with that tire. Just let them know your location, and they’ll send someone over. So just give them your address or where you’re parked, and they’ll take care of it.
+You said:
+“Yes, that's right, my location is ABC Park.”
+00:06
+English Conversational Partner said:
+Perfect, got it! Just let them know you're at ABC Park, and they should be able to send someone over to help you out today. So you should be all set. Let me know if there’s anything else you need!
+You said:
+“But, in two hours, I ought to go to a party to talk to my friends.”
+00:11
+English Conversational Partner said:
+Sure, understood! So you've got to get to the airport in about two hours. Let them know your timing, and they’ll try to speed things up for you so you can make it on time. And if you need anything else, just let me know!
+You said:
+“Can you come here until 3 p.m.?”
+00:05
+English Conversational Partner said:
+Absolutely! I'll let them know you need someone there by 3 p.m. so you can catch your flight. They’ll do their best to get to you in time. And if you need anything else, just let me know!
+You said:
+“Wow, you are kind. Also, I'm concerned about our project. So how much is that to repair my car?”
+00:14
+English Conversational Partner said:
+Of course! Happy to help. So about the budget, you can just ask the rental company for a quick estimate on the tire repair and they’ll let you know the cost. That way you can plan ahead and there won't be any surprises. Let me know if you need anything else!
+You said:
+“Yes, my budget is only 300, so if over 300, it's out of budget.”
+00:09
+English Conversational Partner said:
+All right, that’s totally understandable. Just let them know you need to keep it under 300, and they’ll work with you on that. Hopefully, it’ll be a quick fix and stay within your budget. Let me know how it goes!
+You said:
+“Also, I want to know why my car was broken.”
+00:07
+English Conversational Partner said:
+Sure, that’s a good question. They can definitely check out what caused the tire issue once they take a look. Just ask them to let you know what they find, and they’ll give you a reason so you know what happened. Let me know if you need anything else!
+You said:
+“Is this my responsibility or your company's responsibility?”
+00:06
+English Conversational Partner said:
+Absolutely, that’s a fair thing to ask. So usually, the rental company will figure out if it’s something that’s just normal wear and tear or if it’s something else. They’ll let you know whose responsibility it is once they check it out. So just ask them, and they’ll clarify for you.
+You said:
+“okay thank you see you soon”
+00:03
+English Conversational Partner said:
+You're very welcome! See you soon and take care.

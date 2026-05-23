@@ -1,0 +1,270 @@
+{
+  "student_id": 13,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S13_W4_T1",
+  "source_file": "data\\raw\\#13\\#13\\#13. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hey.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hey there! How can I help you today? Are we practicing a specific scenario or roleplay? Let me know!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes, they will have a new scenario”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That sounds great! Do you have any specific scenario in mind, like a café order, a travel inquiry, or something else? Just let me know, and we can jump right in!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“In this case, you will be...”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, I'm ready!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries, take your time. Whenever you're ready to dive into the scenario, just let me know, and I'll jump right into character!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yeah, you will be a university advisor.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Perfect, I can do that! As a university advisor, I'm here to help with course selection, academic planning, and anything else you need. Just let me know what you'd like to focus on, and we'll get started!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yes, the scenario is that I have been working part-time in hospitality, but I would like to try something new.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! So, are you looking to shift your major or explore a different field of study? Let me know what kind of areas you're interested in, and we can go from there!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Actually, I have a background in business and insurance.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Oh, that's great! With a background in business and insurance, there are definitely a lot of pathways we can explore. Are you considering something like finance, marketing, or maybe even something entirely different? Let me know!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Could you give me more information about each one?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely! I can definitely provide more details. For example, finance often involves things like banking, investment analysis, and financial planning. Marketing focuses on branding, advertising, and market research. And then, of course, there are plenty of other fields we could look into as well. Is there a particular area that catches your interest first?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I'm not sure.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That's totally fine! We can definitely explore your interests together. Maybe we can start by looking at what you enjoy most about your current work or what skills you’d like to develop, and then go from there. Sound good?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, of course.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Awesome! So, let’s start with what you enjoy most about your current work in hospitality. Is it the customer interaction, the fast-paced environment, or something else? That can help us figure out which direction might be a great fit for you."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Well, I really like the customer experience, to talk with people, to help them.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "That’s fantastic! It definitely sounds like you have a passion for customer relations. In that case, we could look into fields like marketing, hospitality management, or even customer service in different industries. Let me know if any of those sound intriguing, and we can dive deeper!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Could you repeat that?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a plan! We can explore those options in more detail and see which one aligns best with your goals. Just let me know whenever you're ready, and we’ll get started on narrowing things down!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I am ready.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Awesome, let's do it! So, to get started, maybe we can look at your current skills and experiences and see how they translate into those new fields. What do you think your top strengths are that you'd like to bring along?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“But do you think what?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I’d say your strong interpersonal skills and your customer-focused mindset are"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“All right, thank you.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Exactly! Those qualities are definitely valuable in a lot of fields. So, we can definitely leverage that as we explore new opportunities. Let me know if there's a particular industry or role you’re curious about, and we’ll dive deeper into that!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“queries in a specific role.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, I'd love to help with that! Just let me know which role or industry you have in mind, and we can go over what that entails, the skills needed, and how your background can fit in. Whenever you're ready, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“I would like to have more information about the insurance industry in Australia.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! The insurance industry in Australia is quite robust, and it covers areas like health, life, property, and general insurance. There's a strong demand for professionals in underwriting, claims management, and customer service. We can definitely explore the specific roles and qualifications needed. Let me know if there's a particular area you want to dive into first!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“And what if I have an upper-intermediate level of English? Do you think it's enough to work in Australia?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, an upper-intermediate level of English is definitely a solid foundation, especially in the insurance industry. It’s often about clear communication and being able to understand clients and colleagues. With some targeted practice and perhaps a bit of industry-specific vocabulary, you’ll be well-prepared. If you'd like, we can also go over some key terminology and tips to help you feel more confident."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Yes, of course.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Perfect! We can definitely focus on some key industry terms, common phrases, and ways to communicate effectively in that environment. We can also look at some practice scenarios to build your confidence. Just let me know if there’s any specific area you’d like to start with, and we’ll jump right in!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Before that, I would like to know if I need a diploma or study a specific degree in Australia to get a job in this industry.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Great question! In Australia, many roles in the insurance industry do prefer candidates with relevant qualifications, like a diploma or a degree in business, finance, or insurance. That said, there are also entry-level positions that might not require a formal degree, especially if you have relevant experience or strong transferable skills. We can definitely look at specific roles and see what the requirements are for each."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Could you give more information about the role of underwriting and claims?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely! So, underwriting in insurance involves evaluating risks and determining the terms and pricing of insurance policies. Underwriters analyze information, assess risk factors, and decide whether to provide coverage. On the other hand, claims roles focus on assisting customers who have experienced a loss. This involves investigating claims, assessing damages, and ensuring that customers are compensated fairly. Both roles are crucial and offer different types of challenges and rewards. Let me know if you’d like more detail on either one!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Hmm, that sounds like something I would enjoy.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "That’s fantastic to hear!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“So, in your opinion, business should be a good degree to get a job in this area.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "In general, a degree in business, finance, or even risk management can be really beneficial for a career in insurance. Many people also pursue specialized certifications, like those offered by the Australian and New Zealand Institute of Insurance and Finance. Ultimately, having a solid business foundation and a good understanding of risk will definitely help you stand out. Let me know if you want more specifics or any guidance on choosing the right path!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Yes, what should I do now if I want to apply for internships in that area? Probably next year or two years.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! To get started, you can begin by researching insurance companies and their internship programs and checking their application timelines. It’s also a great idea to build up relevant skills, maybe through online courses or workshops, and also to network with professionals in the field. And of course, updating your resume and highlighting any relevant experience will be key. If you need any guidance along the way, I'm here to help!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Ok, you know, I'm very clear now.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "That’s wonderful to hear! I’m really glad we could clarify things for you. If you have any more questions down the line or need further assistance, just let me know. Otherwise, best of luck with your journey into the insurance field!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "You’re very welcome! Anytime you need help, just reach out. Have a great day and good luck with everything!"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "student_id": 27,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S27_W3_T1",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Role: You are a housing manager or internet support staff. Please help me improve my spoken English"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, my internet has stopped working. There’s no signal in my apartment."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, thanks for letting me know—are the modem or router lights on right now, or are they completely off?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Oh they are completely off."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Okay, got it—have you checked if the power cable is firmly plugged in to both the router and the wall socket?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Yes, I checked, they're plugged in. Also the power outlet seems fine because I tried my phone charger and it works."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, thanks for checking that—have you tried pressing the power button on the router, or unplugging it for about 30 seconds and plugging it back in?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Just give me a moment to try."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure, no problem—take your time. Let me know what happens when you plug it back in, do any lights turn on at all?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Okay, I've done that. The modem lights are on, but the router still has no lights."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, thanks—that helps. Is the router connected to the modem with an Ethernet cable, and if so, is that cable firmly plugged in on both ends?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Could you please tell me which one is the Ethernet cable and what it looks like?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure—an Ethernet cable usually looks like a thick phone cable with a clear plastic clip on the end, and it plugs into a port labeled LAN or Ethernet. Do you see a cable like that going from the modem to the router?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes, I see it. I think the cable is plugged in on both ends yet the light is still off. Do you know what the issue might be?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Alright, thanks for checking—that likely means the router itself isn’t getting power or has failed. Could you look at the router and tell me if there’s a power light label or a different power adapter plugged into it?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "The power adapter which plugged into it feels cold. Do I need to reset the modem again?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Okay, good question—you don’t need to reset the modem again right now, since it’s already on. Could you try plugging the router’s power adapter into a different wall outlet, or check if you have another compatible adapter to test it?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I tried a different outlet, yes it works!"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Great! Glad it’s working now. Since the router’s power adapter is getting power, let’s wait about 1–2 minutes for the router to boot up and check that the lights come on."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "The router lights are on and it’s working. Thanks!"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Perfect. No need to reset the modem again. If the internet doesn’t come back within a couple of minutes, try power-cycling the modem once, then check your devices."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Got it. I’ll wait and see."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Sounds good. If you run into any issues later, feel free to reach out. Have a great day!"
+    }
+  ]
+}

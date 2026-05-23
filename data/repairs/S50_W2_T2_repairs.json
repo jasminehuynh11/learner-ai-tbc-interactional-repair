@@ -1,0 +1,39 @@
+[
+  {
+    "dialogue_id": "S50_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      3,
+      4
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requested slower speech",
+    "evidence_summary": "The learner expressed difficulty understanding the bot's question and requested slower speech. The bot responded by rephrasing the question more slowly, which resolved the issue."
+  },
+  {
+    "dialogue_id": "S50_W2_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      9,
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requested simpler language",
+    "evidence_summary": "The learner asked the bot to speak more slowly and use simpler words. The bot complied by simplifying its language, and the learner confirmed understanding, resolving the issue."
+  },
+  {
+    "dialogue_id": "S50_W2_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      17,
+      18
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrected own pronunciation",
+    "evidence_summary": "The learner corrected their previous statement about the deposit amount from '1 billion' to '1 million'. The bot acknowledged the correction, resolving the misunderstanding."
+  }
+]

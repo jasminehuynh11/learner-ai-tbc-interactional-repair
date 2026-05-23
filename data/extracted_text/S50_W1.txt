@@ -1,0 +1,447 @@
+TASK 1: 
+나의 말:
+“I would like to order something for coffee.”
+00:06
+
+English Conversational Partner의 말:
+Absolutely! What kind of coffee would you like to order today?
+나의 말:
+“It is my first time at this cafe, so what do you recommend today?”
+00:08
+
+English Conversational Partner의 말:
+Sure! I'd say our most popular choice is a cappuccino—it's got a nice balance of coffee and foam. Now, do you prefer something more on the sweet side or just a classic taste?
+나의 말:
+“Um, actually, is anything caffeine-free?”
+00:04
+
+English Conversational Partner의 말:
+Of course! We do have decaf options as well, so you can get a decaf cappuccino or even a nice herbal tea if you like. Would you prefer a decaf coffee or maybe a tea instead?
+나의 말:
+“Aww.”
+00:00
+
+English Conversational Partner의 말:
+All right! So if you're leaning toward a decaf coffee, we can do a decaf cappuccino or a decaf latte. Now, would you like any flavoring or just keep it plain?
+나의 말:
+“I want the cappuccino for large size.”
+00:05
+
+English Conversational Partner의 말:
+Got it! A decaf cappuccino in a large size coming up. Now, would you like that with any kind of milk, like regular, almond, or oat?
+나의 말:
+“What's your most popular?”
+00:01
+
+English Conversational Partner의 말:
+I'd say our most popular pick is probably oat milk—it gives a nice creamy flavor. So does that sound good for your decaf cappuccino?
+나의 말:
+“Um, I want that”
+00:04
+
+English Conversational Partner의 말:
+Sure! Oat milk it is. We'll make that a large decaf cappuccino with oat milk. Now, would you like anything to eat with that, or just the drink today?
+나의 말:
+“Thank you for joining us today.”
+00:01
+
+English Conversational Partner의 말:
+All right, just the drink it is. I'll get that ready for you. Anything else you need or any other questions while you're here?
+나의 말:
+“How long I wait.”
+00:04
+
+English Conversational Partner의 말:
+It should just be a couple of minutes, so not long at all. Just hang tight, and we'll have it right up for you.
+나의 말:
+“Okay, I will take a seat now.”
+00:02
+
+English Conversational Partner의 말:
+Sure! Feel free to grab a seat and relax. We'll call you as soon as it's ready.
+나의 말:
+“Thank you. Can I grab any seat inside?”
+00:03
+
+English Conversational Partner의 말:
+Absolutely, any seat you like inside is fine. Just make yourself comfortable, and we'll take care of the rest.
+나의 말:
+“Excuse me, can I grab any blanket?”
+00:05
+
+English Conversational Partner의 말:
+Sure! We actually have a few blankets by the corner over there if you'd like to borrow one. Just help yourself and get cozy.
+나의 말:
+“Okay, thank you. I will wait.”
+00:02
+
+English Conversational Partner의 말:
+Of course! Just make
+나의 말:
+“On my site. Thanks.”
+00:02
+
+English Conversational Partner의 말:
+You got it! Enjoy your seat and I'll let you know when your drink is ready.
+나의 말:
+“Is there a student discount?”
+00:02
+
+English Conversational Partner의 말:
+Absolutely! We do offer a student discount, so just show us your student ID when you come up to pay, and we'll apply it for you.
+나의 말:
+“Oh, I don't have my ID card today. What can I do?”
+00:06
+
+English Conversational Partner의 말:
+Sure, no worries. If you don't have it today, that's totally fine. Just let us know next time and bring it along, and we'll give you the discount then.
+나의 말:
+“Oh, thanks a lot!”
+00:01
+
+English Conversational Partner의 말:
+Of course, you're very welcome! Just let me know if you need anything else, and I'll be around.
+나의 말:
+“Could I change for iced cappuccino?”
+00:04
+
+English Conversational Partner의 말:
+Absolutely! We can switch that to an iced cappuccino for you, no problem at all. Anything else you want to tweak?
+나의 말:
+“Exactly, iced decaf cappuccino, right?”
+00:04
+
+English Conversational Partner의 말:
+Exactly, you got it. We'll do an iced decaf cappuccino for you. I'll get that going, and you just relax.
+나의 말:
+“Thank you very much. I will wait over there.”
+00:02
+
+English Conversational Partner의 말:
+Sure thing! Just go ahead and make yourself comfortable, and we'll have it ready in no time.
+나의 말:
+“What kind of beans do you use for your espresso?”
+00:05
+
+English Conversational Partner의 말:
+Sure! We actually use a medium roast blend that has a nice smooth flavor, so it's not too bitter. And you'll definitely taste it in that iced cappuccino.
+나의 말:
+“What flavor do you like?”
+00:01
+
+English Conversational Partner의 말:
+Well, personally, I kind of like a little vanilla in there because it adds a nice sweetness. But of course, it's totally up to you. Just let me know if you want to add anything like that.
+나의 말:
+“Actually, I want Brazil.”
+00:05
+
+English Conversational Partner의 말:
+Absolutely, we can do a Brazil roast for you. That's got a nice smooth taste as well. So we'll switch it to that and we'll get it ready.
+나의 말:
+“Is that ready for me?”
+00:02
+
+English Conversational Partner의 말:
+Absolutely, we can do that for you. We'll use that Brazil roast and have your iced decaf cappuccino ready in just a bit.
+나의 말:
+“Is there a take-away discount?”
+00:02
+
+English Conversational Partner의 말:
+Sure, we do offer a small discount if you're taking it to go instead of dining in. So just let us know at the register and we'll apply that for you.
+나의 말:
+“I appreciate your help. Have a great day!”
+00:03
+
+English Conversational Partner의 말:
+You're very welcome! Enjoy your day too, and just let me know if you need anything else.
+양식의 맨 위
+양식의 맨 아래
+
+TASK 2: 
+“I'd like to book a table for two tonight.”
+00:06
+English Conversational Partner의 말:
+Absolutely! So, you're looking to
+나의 말:
+텍스트 기록 사용할 수 없음
+00:00
+English Conversational Partner의 말:
+Got it! How many people should I set that table for tonight?
+나의 말:
+“I'd like to make a booking for two people, but I'm a prisoner now.”
+00:10
+English Conversational Partner의 말:
+Sure, no problem! So a table for two, and we’ll make sure you’re nice and comfortable. Now, do you have a preferred time in mind for tonight?
+나의 말:
+“Sorry, I don't understand. Please speak slowly.”
+00:04
+English Conversational Partner의 말:
+Of course! Absolutely, I’ll slow down a bit. So, we’ve got a table for two noted. Now, could you tell me what time you’d like to come in this evening?
+나의 말:
+“Why can't I go for... When can I get time?”
+00:09
+English Conversational Partner의 말:
+Absolutely, we can do that. So let's pick a time that works for you. Would you prefer maybe around seven in the evening, or is there another time you have in mind?
+나의 말:
+“Oh, okay. I want having a table available at 7 p.m.”
+00:08
+English Conversational Partner의 말:
+Perfect! Seven p.m. it is. Now, do you have any special requests or maybe dietary preferences we should know about?
+나의 말:
+“Can we sit near the window, if possible?”
+00:04
+English Conversational Partner의 말:
+Sure! A window seat is absolutely possible. We'll note that down for you. And just one more thing: do you have a name you'd like to put the booking under?
+나의 말:
+“Sure, my name is Yuna.”
+00:01
+English Conversational Partner의 말:
+Alright, Yuna, got it! We’ll have your table by the window at seven p.m. under your name. Anything else you need?
+나의 말:
+“I want an ocean view.”
+00:03
+English Conversational Partner의 말:
+Absolutely, I'll note that down. We'll make sure you have a nice ocean view if we've got it available. And I think we’re all set! Let me know if there's anything else on your mind.
+나의 말:
+“Maybe the ocean view is more expensive, right?”
+00:07
+English Conversational Partner의 말:
+Yeah, that's right! Usually, there's a small extra charge for the ocean view tables. It's not too big, but just letting you know. Is that okay for you?
+나의 말:
+“Is there an extra fee?”
+00:01
+English Conversational Partner의 말:
+Sure! It's just a small extra fee, about ten dollars more for the ocean view seating. If that's all right with you, we'll go ahead and confirm it that way.
+나의 말:
+“Okay, I'm booking for Oceanview room.”
+00:04
+English Conversational Partner의 말:
+Great! We'll book that ocean view table for you then. Thanks, Yuna. If there's anything else, just let me know!
+나의 말:
+“I'm booking for my husband's birthday. Do you offer any singing or decorations or some card?”
+00:13
+English Conversational Partner의 말:
+Absolutely! We can definitely help with that. We can arrange a little birthday song and some decorations or even a small card for your husband. Just let me know if that sounds good!
+나의 말:
+“Is there any extra charge?”
+00:02
+English Conversational Partner의 말:
+Sure! Nope, no extra charge for a little birthday singing or a card. That's on the house. We just want to make it special. Anything else you'd like?
+나의 말:
+“We bring our own cake for the celebration.”
+00:05
+English Conversational Partner의 말:
+Sure! You're welcome to bring your own cake for the celebration, no problem at all. We'll just keep it for you until you're ready. Anything else on your mind?
+나의 말:
+“Could I borrow some candles on the dessert?”
+00:04
+English Conversational Partner의 말:
+Absolutely! We can add some candles to the dessert for you, no problem at all. We'll take care of that. Anything else you need?
+나의 말:
+“Is there an extra charge?”
+00:02
+English Conversational Partner의 말:
+Sure! Nope, no extra charge for the candles either. We'll just pop them on for you and make it all festive. Anything else at all?
+나의 말:
+“OK, how can I get some candles?”
+00:07
+English Conversational Partner의 말:
+Sure! We'll just handle that for you. We'll put the candles on the dessert before we bring it out. So you don't have to worry about a thing. Anything else I can help with?
+나의 말:
+“Okay, thank you. Is there anything special you can arrange?”
+00:05
+English Conversational Partner의 말:
+Absolutely! We can definitely add a special touch. We can arrange a little birthday message on the dessert plate or even have the staff do a cheerful greeting. Just let me know what you’d like!
+나의 말:
+“Very nice. I will take it.”
+00:03
+English Conversational Partner의 말:
+All right! We'll make sure to arrange that special touch for you and make it a lovely celebration. Thanks for letting me know, and we’re all set!
+나의 말:
+“Will I get a confirmation message?”
+00:03
+English Conversational Partner의 말:
+Sure! Absolutely, I'll send you a confirmation message shortly so you have all the details. Anything else you need?
+나의 말:
+“I want to know about menu and detailed needs.”
+00:08
+English Conversational Partner의 말:
+Sure! I can definitely help with that. So, I'll send you the menu details along with the confirmation. You can take a look and let us know if you have any favorites. Anything else you'd like to know?
+나의 말:
+“Is there a menu online?”
+00:01
+English Conversational Partner의 말:
+Absolutely! Yep, the menu is online, so I'll include a link for you in that confirmation message. You can browse it anytime. Let me know if there's anything else!
+나의 말:
+“What do you recommend the best menu?”
+00:03
+English Conversational Partner의 말:
+Sure! I'd be happy to recommend something. One of our most popular dishes is the seafood platter, which goes great with that ocean view. But of course, you can choose anything you like. Just let me know what you're in the mood for!
+나의 말:
+“Sorry, I don't like a seafood.”
+00:04
+English Conversational Partner의 말:
+Sure, no worries at all! If seafood's not your thing, I'd definitely recommend our steak or maybe the vegetarian risotto. Both are really delicious. Just have a look at the menu and pick what you like!
+나의 말:
+“Very nice. I want some steak. Two steaks.”
+00:04
+English Conversational Partner의 말:
+Absolutely! Two steaks coming right up. We’ll note that down for your booking. And I think we’ve got everything sorted for you!
+나의 말:
+“That’s fine. I need the steaks cooked medium.”
+00:09
+English Conversational Partner의 말:
+Sure! Our steaks are delicious, and you can absolutely have them cooked medium. We'll make a note of that for the kitchen. Anything else on your mind?
+나의 말:
+“Great. I will see you at 7 tonight.”
+00:05
+English Conversational Partner의 말:
+Perfect! We’ll see you at seven tonight then. Thanks, Yuna, and we’re looking forward to it!
+나의 말:
+“How can I get my stakes?”
+00:03
+English Conversational Partner의 말:
+Sure! So once you arrive tonight, just let your server know you’d like your steaks cooked medium, and we'll take care of everything. See you soon!
+나의 말:
+“Okay. Thank you very much. Looking forward to it.”
+00:05
+English Conversational Partner의 말:
+Of course! We’re looking forward to it too. Thanks so much, Yuna, and we’ll see you this evening!
+
+
+나의 말:
+“I bought this shirt last week, but it doesn't fit. Could I exchange it for a large size?”
+00:11
+English Conversational Partner의 말:
+Sure! So you're looking to do an exchange. No problem at all—just bring the shirt in with you, and we’ll swap it out for a larger size. What size do you need exactly?
+나의 말:
+“Probably, I...”
+00:02
+English Conversational Partner의 말:
+Sure! So you’re
+나의 말:
+“I already bought this shirt medium size, I want exchange larger.”
+00:10
+English Conversational Partner의 말:
+Absolutely! A large size sounds good. We’ll have that ready for you to exchange when you come in. Just let us know if you need anything else!
+나의 말:
+“I think the zipper, it doesn't work.”
+00:03
+English Conversational Partner의 말:
+All right! Thanks for letting me know about the zipper. We’ll definitely check that out and make sure the new size has everything working properly. Just bring it on in, and we’ll sort it for you!
+나의 말:
+“When can I bring my shirt?”
+00:08
+English Conversational Partner의 말:
+Sure! You can bring it in anytime during our opening hours, and we’ll do the exchange for you. Just drop by whenever it’s convenient for you!
+나의 말:
+“Watch your exchange policy.”
+00:02
+English Conversational Partner의 말:
+Absolutely! So our exchange policy is nice and simple: you can bring the shirt back within 30 days as long as it's in its original condition, and we'll swap it out for you. So just bring it in whenever you're ready!
+나의 말:
+“Sorry, I don't understand. Please speak slowly.”
+00:04
+English Conversational Partner의 말:
+Of course! No problem at all. Our exchange policy is that you have 30 days to bring the shirt back, and as long as it's still in its original condition, we can exchange it for you. Just come in whenever you like!
+나의 말:
+“Sorry, I cannot bring for three days. I want to bring my home.”
+00:17
+English Conversational Partner의 말:
+Sure! I understand. No rush at all. You can just bring it in whenever you can, even if it's after a few days. We'll still help you out with the exchange. Let me know if you need anything else!
+나의 말:
+“But I bought this shirt on sale. Can I return or exchange it if it doesn't fit?”
+00:14
+English Conversational Partner의 말:
+Absolutely! Yes, even if you bought it on sale, you can still exchange it if it doesn't fit. So just bring it in when you can, and we'll take care of that for you.
+나의 말:
+“Is there an extra fee?”
+00:02
+English Conversational Partner의 말:
+Absolutely! No worries, there’s no extra fee for that. We’ll handle the exchange at the same price you paid. Just come by whenever you’re ready!
+나의 말:
+“very nice i released i already have something uh sorry sorry i but i and i want exchanges the color it”
+00:20
+English Conversational Partner의 말:
+Sure! Absolutely, we can do that. If you want to exchange for a different color, that’s totally fine as well. Just let us know which color you’d like when you come in, and we’ll get that sorted for you!
+나의 말:
+“I have already yellow shirt and then I want pink shirt.”
+00:08
+English Conversational Partner의 말:
+Absolutely! We'll get you that pink shirt instead of the yellow one, no problem at all. Just come on by and we'll swap it out for you. Let me know if you need anything else!
+나의 말:
+“Pink color and large size shirt, right?”
+00:04
+English Conversational Partner의 말:
+Exactly! A pink shirt in a large size, just as you wanted. We'll have that ready for you. See you when you come by!
+나의 말:
+“There isn't extra fee, right?”
+00:03
+English Conversational Partner의 말:
+That's right! No extra fee at all for changing the color or the size. We’ll just do the exchange for you. See you soon!
+나의 말:
+“Could I see it for a different color?”
+00:05
+English Conversational Partner의 말:
+Absolutely! You can definitely see it in a different color when you come in. We'll show you the pink one and make sure it's exactly what you like. See you soon!
+나의 말:
+“But I want see another color right now.”
+00:03
+English Conversational Partner의 말:
+Ah, I see! Unfortunately, I can't show it to you right now in person, but when you come in, we'll have the pink one ready for you to take a look at. Let me know if that works for you!
+나의 말:
+“Could I see it for a different color with picture?”
+00:07
+English Conversational Partner의 말:
+Sure! Let me paint you a quick picture. The pink shirt is a nice soft pastel pink, and it looks just like the yellow one you have, just in that different color. When you come in, you can see it in person, but hopefully that helps you imagine it for now!
+나의 말:
+“Can I looking for a different color online?”
+00:04
+English Conversational Partner의 말:
+Absolutely! You can definitely check out the different colors online. Just have a look at our website, and you'll be able to see all the options there before you come in. Let me know if you need the link!
+나의 말:
+“What is your website?”
+00:01
+English Conversational Partner의 말:
+Sure! Our website is just our store name followed by dot com. So you can head over there, and you'll find all the colors and options. Let me know if you need any more help!
+나의 말:
+“Can I log in?”
+00:01
+English Conversational Partner의 말:
+Absolutely! Yes, you can log in on our website if you want to check your order details or see the colors. Just go ahead and create an account or log in, and you’ll be all set!
+나의 말:
+“But I can’t log in that site.”
+00:07
+English Conversational Partner의 말:
+Sure! No worries at all. If you're not logged in, that's completely fine. You can still browse the colors without logging in. And if you need any help, just let me know!
+나의 말:
+“OK, thank you. If I buy this as a gift, can I, the person, return it without a receipt?”
+00:10
+English Conversational Partner의 말:
+Sure! Absolutely. If you buy it as a gift, the person can still return or exchange it. Ideally, having a gift receipt helps, but if they don’t, we can still work something out. Just let them know to come in, and we’ll help them out!
+나의 말:
+“Could I bring a receipt for me, not my friends?”
+00:08
+English Conversational Partner의 말:
+Absolutely! Yes, you can definitely bring the receipt for yourself if you need to. That way we can easily handle any returns or exchanges. Just bring it in whenever you come by!
+나의 말:
+“Could I buy a gift box for my friend?”
+00:03
+English Conversational Partner의 말:
+Sure! Absolutely, you can buy a gift box as well. We have some available so you can package it nicely. Just let us know when you're here, and we'll get that set up for you!
+나의 말:
+“Okay, and please get it repaired, the zip.”
+00:10
+English Conversational Partner의 말:
+Absolutely! We’ll make sure to get that zipper repaired for you as well. Just bring it in, and we’ll take care of it. Thanks for letting me know!
+나의 말:
+“Thank you very much. Can I return online purchase in this store?”
+00:06
+English Conversational Partner의 말:
+Of course! You're very welcome. And yes, you can absolutely return an online purchase right here in the store. Just bring it in and we’ll help you out.
+나의 말:
+“Okay, have a good day.”
+00:01
+English Conversational Partner의 말:
+You’re very welcome! Thanks so much, and you have a great day too!

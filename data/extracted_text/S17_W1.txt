@@ -1,0 +1,106 @@
+☕ Task  1: Ordering Coffee
+User:
+"Hi, can I have a long black, please?"
+Assistant:
+Absolutely, a long black it is! Would you like that in a small, medium, or large size?
+User:
+"Medium, please."
+Assistant:
+Great choice! And would you like any milk or sugar added to your long black, or do you prefer it black as is?
+User:
+"I prefer it black as is."
+Assistant:
+Perfect, we’ll keep it nice and simple. And how would you like to pay today? Cash, card, or maybe mobile payment?
+User:
+"Can I pay my card?"
+Assistant:
+Of course, card payment works perfectly. All set! Your medium long black will be ready in just a moment. Anything else I can help you with?
+User:
+"Nothing. That’s it."
+Assistant:
+Awesome, thank you! I’ll have that ready for you in just a moment. Enjoy, and have a great day!
+User:
+"Thank you. Have a good one."
+Assistant:
+You too! Take care, and feel free to come by anytime. Cheers!
+
+User:
+"What’s your recommendations?"
+Assistant:
+Well, if you enjoy a strong, concentrated flavor, an espresso is perfect. If you prefer something a bit milder with more water, then a long black or an Americano would be great. Do you have a preference for intensity?
+User:
+"Yeah, I prefer a little bit strong."
+Assistant:
+Got it! In that case, I’d recommend going with an espresso. It’s rich and bold. Would you like that in a single shot or a double shot?
+User:
+"Double shot, please. And what size do you have?"
+Assistant:
+Perfect, a double shot it is! We typically have small, medium, and large sizes. For an espresso, it’s usually just a small cup, but we can definitely adjust if you prefer. How does that sound?
+User:
+"I like to drink a lot, so can I have a medium size, please?"
+Assistant:
+Absolutely, a medium size it is! That’ll give you a bit more to enjoy.
+User:
+"Yeah, that sounds great."
+Assistant:
+Perfect! I’ll get that ready for you. Anything else I can help you with while you wait?
+User:
+"What is a recommended food that goes well with espresso?"
+Assistant:
+A classic choice would be a buttery croissant or maybe a biscotti, as they pair really nicely with espresso. We also have some delicious muffins and sandwiches if you’re in the mood for something more filling.
+User:
+"I got it, so I order a convalescent, please."
+Assistant:
+Excellent choice! I’ll add a croissant to your order as well. That’ll be a perfect pairing with your espresso. Anything else you’d like to add?
+User:
+"Now, that’s all."
+Assistant:
+All right, that sounds perfect! I’ll get your espresso and croissant ready for you. Thank you so much, and enjoy!
+User:
+"Thank you, have a good one."
+Assistant:
+You’re very welcome! Have a fantastic day, and enjoy your coffee and croissant!
+
+🍽️ Task  2: Booking a Restaurant Table
+User:
+"Hi, I’d like to book a table for two tonight."
+Assistant:
+Sure! What time would you like to come in tonight?
+User:
+"Do you have a table available at 7 p.m.?"
+Assistant:
+Let me check that for you. Yes, we do have a table available at 7 p.m. Can I have your name for the reservation?
+User:
+"I’m Leota."
+Assistant:
+Great, thank you, Layota! I’ve got you down for two people at 7 p.m. Is there any special occasion or any special requests we should know about?
+User:
+"I’m looking for my friend’s birthday, so do you have any decorations or something?"
+Assistant:
+Absolutely, we can arrange some birthday decorations for you. Would you like something simple, like balloons, or perhaps a cake as well?
+User:
+"I’d like to order something simple and a cake."
+Assistant:
+Perfect, that sounds lovely! I’ll make sure we have a simple decoration and a cake ready for you. Is there a specific flavor or any special message you’d like on the cake?
+User:
+"Got it, chocolate flavor."
+Assistant:
+And what message would you like written on the cake?
+User:
+"The message is, just happy birthday."
+Assistant:
+Perfect, we’ll have a chocolate cake with “Happy Birthday” on it. Everything is set for your reservation at 7 p.m. Is there anything else you’d like to add or any other requests?
+User:
+"Do you have any vegetarian food?"
+Assistant:
+Absolutely, we do have a variety of vegetarian options. Would you like me to include some vegetarian dishes in your reservation, or do you have any specific preferences?
+User:
+"I got it. My friends is vegetarian, so one is vegetarian options, and the other is no more option."
+Assistant:
+Perfect, I’ll make sure we have one vegetarian option and one regular option for your table. Everything sounds good to go! If there’s anything else you need, just let me know.
+User:
+"Would you be able to hold my reservation if we are delayed?"
+Assistant:
+Of course! We can hold your reservation for up to 15 minutes past the scheduled time. If you think you’ll be later than that, just give us a quick call, and we’ll adjust accordingly. Sound good?
+User:
+"Sounds great. Thank you so much. See you then."

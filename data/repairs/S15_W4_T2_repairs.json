@@ -1,0 +1,27 @@
+[
+  {
+    "dialogue_id": "S15_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10,
+      11
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – clarification on willingness to present",
+    "evidence_summary": "The bot asks if the learner doesn't want to present at all, which is a misunderstanding. The learner clarifies that they can present if needed but prefer not to. The bot acknowledges this clarification, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S15_W4_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      14,
+      15
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous question – clarification on deadline timing",
+    "evidence_summary": "The learner asks for clarification on what the bot means by 'small deadline', specifically whether it refers to this week or next week. The bot clarifies that it means by the end of next week, resolving the ambiguity."
+  }
+]

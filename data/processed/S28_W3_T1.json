@@ -1,0 +1,175 @@
+{
+  "student_id": 28,
+  "week": 3,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S28_W3_T1",
+  "source_file": "data\\raw\\#28\\#28\\#28. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, today we are going to practice about the reporting problems and the cycling help. Would you help me? You are the role for the staff and I will ask you some questions.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help! So, I'll take on the role of, say, a customer service representative, and you can let me know what kind of problem or situation you have in mind. Just go ahead and start whenever you're ready!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yeah, thank you. Hi, my internet has stopped working. Could you help me?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that your internet’s down. Of course, I can help. Could you let me know if you’ve noticed any error messages or if there’s a specific time that the internet stopped working?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“There is no signal in my apartment, so I cannot use the Wi-Fi.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. Thanks for letting me know. And just to check, have you tried restarting your router or modem, or is it something that you haven’t attempted yet?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, I'm trying to restart my router and it still cannot working.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "I see, that can be frustrating. Alright, let me ask then: have you noticed if any other devices are also affected, or is it just one device that’s having trouble connecting?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Sorry, I cannot understand.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "No worries at all! Let me rephrase that. Are you experiencing the internet issue on just one device, like your phone or laptop, or are multiple devices in your apartment having trouble connecting?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I think it's not, just no have any signal. Could you give me some support? Is there have any engineer there? Can they come to this area to check my internet?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, I can definitely help arrange that. Just to confirm, can you let me know your address or the location so that we can schedule a technician to come out and check everything for you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Can we have a video phone call, and I show you, and you tell me how can I fix it.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course, that sounds like a great idea! We can definitely arrange a video call. Could you let me know a convenient time for you, and then we can set that up and walk through everything together?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yeah, I think now we can try it, and what should I do first?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Perfect! To start, I’ll just need you to make sure that your device’s camera and microphone are working. Then we can connect via a video call app. Once we’re on the call, I’ll guide you step-by-step. Sound good?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, thank you. All good.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "You’re very welcome! Alright, whenever you're ready, just let me know, and we’ll get everything set up. Looking forward to helping you sort this out!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Okay, I'm getting ready, so what should I do for next?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Great! So, the next step would be to open up the video call app that we’ll use and make sure your camera and mic are enabled. Once you’re ready, just send me the invite, and we’ll go from there. Let me know if you need any help along the way!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, I'm ready. So I already opened my video camera and my microphone. So what should I do? How can I do the router? Should I renew again, or what should I do?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Awesome, that sounds perfect! So, let’s start by checking the router’s lights to see if anything looks off. You can point the camera at the router, and I’ll guide you step-by-step. If needed, we can try rebooting it once more, and I’ll let you know what to look for. Sound good?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Oh, that’s wonderful"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“I see, yeah, thank you for your help. If they have any problem, I will call you back.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course, I’m always here to help! Feel free to reach out anytime, and I’m glad everything’s working now. Have a great day!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah, and the story about that is let's walk him on the weekend.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "No worries at all! I’m really glad we got it sorted out. And definitely, just let me know if anything comes up again. Have a fantastic weekend!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“No, no, no, no, no. Sorry, I mean, if they have a problem again, can I call you on weekend?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Oh, got it! Yes, absolutely, you can definitely reach out on the weekend as well. I’ll be here to help whenever you need. So, no worries at all!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You're very welcome! Anytime, and have a great one. Feel free to reach out whenever you need. Take care!"
+    }
+  ]
+}

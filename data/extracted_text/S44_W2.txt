@@ -1,0 +1,187 @@
+Week 2: Formal Interactions with Essential Services 
+TASK 1: 
+🏻‍⚕️Booking or Changing a medical appointment 🗨️“Hi, I’d like to make an
+ appointment to see a doctor.”
+ can you tell me a bit about the symptoms or the health concerns you’re experiencing?
+ You said:
+ “Hi, Doctor.”
+ 00:02
+ English Conversational Partner said:
+ Hello! It’s nice to meet you. How can I assist you today? Let me know what’s been going
+ on, and we’ll figure out the best course of action.
+ You said:
+ “I'm not feeling very well this week. I have a headache and a lot of stomach problems.
+ Also, I'm feeling very tired. I have no idea what's happening in my body.”
+ 00:11
+English Conversational Partner said:
+ I’m sorry to hear that. That does sound uncomfortable. Let’s get some more details.
+ How long have you been experiencing these symptoms, and have you tried any
+ remedies or medications so far?
+ You said:
+ “Since last week, I start feeling these things. I just try to eat a lot of food and to eat
+ vitamins and magnesium and stuff that give me energy, but it's not working.”
+ 00:24
+ English Conversational Partner said:
+ I see, that definitely helps to know. It sounds like you’ve tried some basic remedies.
+ Have you noticed any other symptoms, like nausea, changes in appetite, or maybe any
+ fever?
+ You said:
+ “Know any one of these?”
+ 00:01
+ English Conversational Partner said:
+ Got it, that’s helpful to know. Alright, and just to get a clearer picture, have you had any
+ recent changes in your routine, like stress, sleep patterns, or diet?
+ You said:
+ “Yes, I changed my sleep habits because I move on another country, so I really feel bad
+ for the jet lag. Also, my alimentation, my habits, my alimentary habits have changed a
+ lot because I'm trying to be vegetarian. So maybe it's for this.”
+ 00:27
+ English Conversational Partner said:
+ That definitely could be a factor. Adjusting to a new time zone and changing your diet
+ can both impact how you feel. Let’s explore that a bit more. Have you been able to
+ maintain a balanced diet, or do you feel like you’re missing certain nutrients?
+ You said:
+ “I think I missed some protein.”
+ 00:02
+ English Conversational Partner said:
+ That makes sense, especially if you're transitioning to a vegetarian diet. We can
+ definitely look into that. In the meantime, how have your energy levels been throughout
+ the day? Are you feeling more tired at certain times?
+ You said:
+ (Transcription not available)
+ 00:02
+English Conversational Partner said:
+ Of course! I was asking how your energy levels have been throughout the day. Are you
+ feeling more tired at certain times?
+ You said:
+ “Yes, I'm feeling always tired. Also, because due to my bad sleep habits in this week,
+ I'm feeling always tired and also the fact that I don't feel that I have the right nutrients
+ makes me feel so tired.”
+ 00:20
+ English Conversational Partner said:
+ I completely understand. It sounds like it’s a combination of factors. We can definitely
+ look into some nutritional adjustments and maybe some tips to help with sleep as well.
+ Is there anything specific you’d like advice on first?
+ You said:
+ “No, it's the same, just I don't understand why I had also headache, a strong
+ headache.”
+ 00:05
+ English Conversational Partner said:
+ I see, that definitely adds another layer. Headaches can sometimes come from
+ dehydration, sleep issues, or even changes in diet. We can definitely explore those
+ possibilities. In the meantime, make sure you’re staying hydrated, and we can go from
+ there.
+ You said:
+ “Okay, perfect. Did you have some, um, pharma that you suggest me?”
+ 00:06
+ English Conversational Partner said:
+ Absolutely! For headaches, sometimes a mild over-the-counter pain reliever like
+ ibuprofen or acetaminophen can help. And of course, we can also look at some
+ supplements or dietary changes for the fatigue. If you’d like, I can recommend a few
+ options for both.
+ You said:
+ “Yes, thank you. Can you write me the receive?”
+ 00:03
+ English Conversational Partner said:
+ Of course! I’ll be happy to do that. I’ll put together a list of suggestions and make sure
+ everything’s clear for you. And if you have any other questions or need anything else,
+ just let me know!
+You said:
+ “Can I ask you to book an appointment? Because I prefer to see you in face, for real.”
+ 00:11
+ English Conversational Partner said:
+ Absolutely, I can arrange that for you! Let me know what day and time works best for
+ you, and I'll make sure we set up that appointment for an in-person visit.
+ You said:
+ “Next Monday, at 7... 6 p.m.”
+ 00:05
+ English Conversational Partner said:
+ Great, Monday at 6 PM works perfectly. I’ll go ahead and book that for you. If anything
+ changes or you need to adjust the time, just let me know. Looking forward to seeing you
+ then!
+ You said:
+ “Okay, bye.”
+ 00:01
+ English Conversational Partner said:
+ Alright, take care! If you need anything else, just let me know. Bye for now! 
+Task 2: Visiting a Bank and Asking for Help with Banking Services 
+You said: 
+Good morning, Kay. You please help me with my... with a problem that I have with my bank account. 
+00:11 English Conversational Partner said: Good morning! Absolutely, I'd be happy to help. Could you let me know what specific issue you're experiencing with your account? 
+You said: “I tried to obtain my physical card, but I think the address that I put one month ago is wrong, so I never receive my physical card in this time.” 
+00:19 English Conversational Partner said: I see, that can definitely be frustrating. No worries, we can sort it out. Could you confirm the address you had originally provided, and then we can update it if needed? 
+You said: “Yes, it's this.” 
+00:02 English Conversational Partner said: Got it, thank you for that. Now, just to confirm, would you like us to resend the card to this updated address, and is there any other issue I should be aware of? 
+You said: “Now I would like to change in another address. The new address is...” 
+00:05 English Conversational Partner said: Alright, that sounds good. 
+You said: “abc123” 
+00:02 English Conversational Partner said: Perfect, I’ve got that noted down. Is there anything else I can assist you with regarding your account or the card? 
+You said: “What are the approaches that I have to do to receive my card?” 
+00:05 English Conversational Partner said: Sure! Once we update the address, we’ll process the card and send it out to the new location. Usually, it takes about 5 to 7 business days for it to arrive. And of course, we’ll confirm everything once it’s sent out. Does that work for you? 
+You said: “Yes, but can I receive an email the day before the arrive?” 
+00:06 English Conversational Partner said: Absolutely, we can arrange that. I’ll make sure to set up an email notification for you the day before it arrives. Is there anything else you’d like to add or any other questions you have? 
+You said: “Yes, I have another issue because I think my surname in my bank account profile is wrong.” 
+00:09 English Conversational Partner said: I understand. We can definitely update that as well. Could you let me know the correct surname, and then we’ll make sure everything matches up properly? 
+You said: “You have to change the N with the M.” 
+00:03 English Conversational Partner said: Got it, that makes sense. I’ll update that for you right away. Is there anything else you’d like to adjust or any other details I should know about? 
+You said: “Let me think... You give also some information about tax invoices?” 
+00:11 English Conversational Partner said: Of course! I can definitely help with information about tax invoices. Are you looking to get details on how to access them, or do you have specific questions about them? 
+You said: “I have a specific question, but I would like, if it's possible, to book an appointment next week.” 
+00:06 English Conversational Partner said: Absolutely, we can arrange that. Just let me know what day and time works best for you, and we’ll get that appointment scheduled. Sound good? 
+You said: “I'm free in early evening, so maybe on Wednesday or Thursday evening.” 
+00:07 English Conversational Partner said: Perfect, that works for me! I'll go ahead and book you for either Wednesday or Thursday evening. Once we finalize the time, I'll confirm everything with you. Sound good? 
+You said: “Do you have my email?” 
+00:01 English Conversational Partner said: Yes, I do have it on file. I’ll make sure to send you a confirmation email with all the details as well. If you need to update it or have any other questions, just let me know! 
+You said: “If I have to do some changes in my profile, can I do it by myself or is it necessary that I came here again?”
+00:11 English Conversational Partner said: You can definitely make some changes on your own through our online banking platform. But if you need more complex updates, we can always schedule another appointment. Whatever’s more convenient for you! 
+
+Task 3: Enquiring About a Rental Property or Housing Inspection 
+You said: 
+“I chat with you last week for the apartment in Piermont Street.” 
+00:08 English Conversational Partner said: Got it! I remember that. Are you still interested in that particular apartment, or are you looking at other properties as well? 
+You said: “I'm looking for the apartment with just one bedroom and for two people.” 
+00:08 English Conversational Partner said: Alright, that sounds good! Do you have a preferred move-in date or any specific requirements for the apartment, like amenities or location details? 
+You said: “It's not near a big street, and also, even if it's small, it's okay.” 
+00:10 English Conversational Partner said: Got it, no problem! 
+You said: “They have to have a big living room and a bedroom with two beds.” 
+00:12 English Conversational Partner said: Alright, that makes sense! So you’re looking for a place with a spacious living room and a bedroom that can accommodate two beds. Is there a particular budget range you have in mind? 
+You said: “We are near or around to 500.” 
+00:07 English Conversational Partner said: Perfect, that definitely helps 
+You said: Trascrizione non disponibile 
+00:01 English Conversational Partner said: Got it, around $2,500 per month. That’s a great starting point. Is there anything else you’d like to add, like pet policies or parking requirements? 
+You said: “Sorry.” 
+00:00 English Conversational Partner said: No worries at all! 
+You said: “It's 500 per week.” 
+00:02 English Conversational Partner said: Ah, understood, so around $500 per week. That definitely gives us a clearer idea. Is there a specific neighborhood or area you prefer? 
+You said: “Maybe I told you something with a green area near the apartment is not too, like, noisy place, like near a street maybe can give us some noising for the crowded.” 
+00:22 English Conversational Partner said: Absolutely, that makes perfect sense. So we’ll look for a quieter area with some green spaces nearby. Is there a particular length of lease you’re interested in, like a 12-month lease or something shorter? 
+You said: “I don't understand, sorry, can you repeat?” 
+00:02 English Conversational Partner said: Of course! No worries at all. I was just asking if you have a preferred lease length, like a 12-month lease, or if you’re looking for something shorter. Let me know what works best for you! 
+You said: Trascrizione non disponibile 
+00:01 English Conversational Partner said: Got it, a three-month lease sounds good. That definitely gives us some flexibility. Is there anything else you’d like to add or any other questions you have in mind? 
+You said: “Are there any inspection times this weekend?” 
+00:03 English Conversational Partner said: Absolutely! Let me check the availability for this weekend. Do you have a preferred day or time that works best for you for the inspection? 
+You said: “Maybe on the early evening this Wednesday or Thursday.” 
+00:07 English Conversational Partner said: That sounds good! I’ll look into early evening slots for either Wednesday or Thursday. I’ll get that arranged for you. Is there anything else I can help you with in the meantime? 
+You said: “and there is a property, is the property furnished or unfurnished?” 
+00:05 English Conversational Partner said: Great question! I’ll confirm that detail for you as well. Do you have a preference for furnished or unfurnished, or are you open to either option? You said: “We are talking about the Precise Apartment in Pyrmont, so...” 
+00:09 English Conversational Partner said: Absolutely, I You said: “It's furnished or not?” 
+00:01 English Conversational Partner said: Got it, I’ll find out whether it’s furnished or not for that Pyrmont apartment. I’ll let you know as soon as I have the details. Is there anything else you’d like me to check on? You said: “Some policy like pet policy or smokes policy” 
+00:03 English Conversational Partner said: Absolutely, I'll check on the pet policy and the smoking policy as well. I'll make sure to get all those details for you. Let me know if there's anything else you need! You said: “Can you give me this information now, please?” 
+00:02 English Conversational Partner said: Of course! I’ll go ahead and confirm all of those details for you right away and get back to you as quickly as possible. Thanks for your patience! You said: “So...” 
+00:00 English Conversational Partner said: You’re very welcome! If you have any other questions in the meantime, just let me know. I’ll be here to help! 
+You said: “No, sorry, I would like if your pet and maybe smoke pull a roll.” 
+00:08 English Conversational Partner said: No worries at all! I'll make sure to clarify the pet and smoking policies for you as well. I’ll gather that information and let you know shortly! 
+You said: “Yeah, but in general, you can smoke in the apartment with your agency or not.” 
+00:05 English Conversational Partner said: In general, most agencies do have a no-smoking policy inside the apartment. But I’ll confirm the specific details for that Pyrmont property and let you know for sure! 
+You said: “And, uh, how much is the bond?” 
+00:02 English Conversational Partner said: Great question! I’ll find out the specific bond amount for that apartment and let you know right away. If there’s anything else you’d like to know in the meantime, just let me know! 
+You said: “But can you say this to me now, because I can write you an email for everything.” 
+00:07 English Conversational Partner said: Of course, I understand! You said: “But I came here for to have a” 
+00:04 English Conversational Partner said: Absolutely, I’m here 
+You said: “The information right now...” 
+00:02 English Conversational Partner said: Got it, I’ll definitely provide you with everything right away. I’ll confirm the pet and smoking policies, the bond amount, and all the details for you so you have it all at once. Let’s get that sorted out! 
+You said: “Okay, thank you so much. I wait your email for everything.” 
+00:05 English Conversational Partner said: You’re very welcome! I’ll make sure to send all the details over to you as soon as possible. If you have any other questions in the meantime, just let me know. Thanks so much! 
+You said: “No thank you, see you on Wednesday evening.” 
+00:02 English Conversational Partner said: Sounds perfect! I’ll look forward to seeing you on Wednesday evening. Have a great day, and if anything comes up, just reach out. Take care!

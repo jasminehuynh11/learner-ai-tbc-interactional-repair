@@ -1,0 +1,226 @@
+Task 1: Formal Interactions with Essential Services
+You said:
+"Hi, l'd like to make an appointment to see a doctor."
+English Conversational Partner said:
+Absolutely, I can help with that! May I ask what the reason for your visit is today?
+You said:
+"I've had a sore throat and cough a few days. Is anyone available tomorrow morning?"
+English Conversational Partner said:
+I'm sorry you're feeling under the weather! Let me check the schedule for tomorrow morning. Do you have a preferred time, maybe around 9 AM?
+You said:
+"Yes, it works for me."
+English Conversational Partner said:
+Great! I'll book you in for 9 AM tomorrow. Could I have your full name and a contact number just in case we need to reach you?
+You said:
+"012-345-67893."
+English Conversational Partner said:
+Perfect, thank you! I've got that down. Is there anything else I can help you with or any other details you'd like to share about your visit?
+You said:
+"Is it okay if I come early in 10 minutes?"
+English Conversational Partner said:
+Absolutely, that's totally fine! We'll see you in about 10 minutes. If you need anything else before then, just let me know!
+You said:
+"Do I need to bring my Medicare card?"
+English Conversational Partner said:
+Yes, it would be great if you could bring your Medicare card along with you, just to make sure everything's in order. If there's anything else you think of, feel free to ask!
+You said:
+"Who will I be seeing?"
+English Conversational Partner said:
+You'll be seeing Dr. Smith. She's our general practitioner and she'll take good care of you. If you have any other questions, just let me know!
+You said:
+"Can I request a copy of my result after the visit?"
+English Conversational Partner said:
+Absolutely! You can definitely request a copy of your results after the visit, and we'll make sure it's ready for you. If there's anything else you need, just let me know!
+You said:
+"Would I need a follow-up appointment after this?"
+English Conversational Partner said:
+That will depend on what Dr. Smith recommends after your visit. She'll let you know if a follow-up is necessary, but it's always good to keep an eye on how you're feeling. If you have any other questions, just let me know!
+You said:
+"Do you offer translator or language support for appointments?"
+English Conversational Partner said:
+Yes, we do offer language support and can arrange a translator if needed. Just let us know in advance, and we’ll make sure everything is set for you. If you have any other requests, feel free to let me know!
+You said:
+"Because I'm Japanese and I'm not good at speaking, so it's definitely helpful if there will be a translator who can speak Japanese."
+English Conversational Partner said:
+Of course, we can absolutely arrange for a Japanese-speaking translator for your appointment. That way, you'll feel more comfortable and everything will go smoothly. Just let us know if there's anything else we can do for you!
+You said:
+"Could you please repeat the details of my appointment?"
+English Conversational Partner said:
+Of course! Your appointment is set for tomorrow at 9 AM with Dr. Smith, and we’ll have a Japanese-speaking translator for you as well. If there’s anything else you need, just let me know!
+You said:
+"That really helped.I appreciate your time. Bye for now."
+English Conversational Partner said:
+Alright, take care! If you need anything else, just reach out. Bye for now!
+
+
+Task 2: Visiting a Bank and Asking for Help with Banking Services
+You said:
+"Hi, l'd like to open a new savings account. Do I need an appointment or can I come in today?"
+English Conversational Partner said:
+Hello! You can definitely come in today, no appointment needed. Could you let me know if this account is for personal or business use?
+You said:
+"What type of accounts are available for students?"
+English Conversational Partner said:
+We have a special student savings account that has no monthly fees and a higher interest rate. Would you like more details about that?
+You said:
+"Can I set up online banking at the same time?"
+English Conversational Partner said:
+Absolutely, we can set that up for you right away. Do you already have an existing account with us, or is this your first one?
+You said:
+"It's my first one."
+English Conversational Partner said:
+Got it! No worries at all. We'll get everything set up for you. Could you please bring a valid ID and proof of your student status when you come in?
+You said:
+"Can I open an account without a job yet?"
+English Conversational Partner said:
+Absolutely, you can! You don't need to have a job to open a student account. Just make sure to bring your student ID and any other required documents.
+Anything else I can help you with?
+You said:
+"Here is my student ID."
+English Conversational Partner said:
+Perfect, thank you! We'll get everything set up for you right now. Is there anything else you'd like to know about the account or our services?
+You said:
+"Do you offer debit cards with this?"
+English Conversational Partner said:
+Yes, we do! You'll get a debit card as soon as your account is open. Would you like it to be linked to any particular account or just the savings?
+You said:
+"This is just savings."
+English Conversational Partner said:
+Got it! We'll make sure that debit card is linked just to your savings account. Anything else I can help with before we finish up?
+You said:
+"We will get the confirmation once it's updated."
+English Conversational Partner said:
+Absolutely, you'll get a confirmation once everything is set up, and we'll also send you a welcome email with all the details. If you have any other questions, just let me know!
+You said:
+"How do I check if international transfers are enabled on my account?"
+English Conversational Partner said:
+You can check that by logging into your online banking or by giving us a quick call. Would you like me to guide you through the online steps?
+You said:
+"Thank you. Also, do you have an app?"
+English Conversational Partner said:
+Yes, we do have an app! You can easily manage your account, check transfers, and more right from your phone. If you need any help getting set up with it, just let me know!
+You said:
+"What should I do if I accidentally transfer money to the wrong account?"
+English Conversational Partner said:
+Oh, I'm here to help if that happens! Just contact our support team as soon as possible, and they can assist you in reversing the transaction. Is there anything else I can help you with today?
+You said:
+"Okay, and what happens if I lose my bank card overseas?"
+English Conversational Partner said:
+If that happens, just contact our support team immediately so we can block the card and issue a replacement. In the meantime, we can also help you access emergency funds. Just let us know!
+You said:
+"Are there any limits on how much I can transfer daily?"
+English Conversational Partner said:
+Yes, there are some limits, but they can vary depending on your account type. I can give you the exact details if you'd like. Would you like me to look that up for you?
+You said:
+"Yes, please."
+English Conversational Partner said:
+Alright, I'll get that information for you right away. Just give me a moment, and I'll confirm the daily transfer limits for your account.
+You said:
+"Could I move some money into a term deposit? What are the options?"
+English Conversational Partner said:
+Absolutely! We have a few options with different terms and interest rates. Could you let me know how long you'd like to keep the money in the deposit, and if you have a specific amount in mind?
+You said:
+"I'd like to keep the money for over one year."
+English Conversational Partner said:
+Got it! We have several term deposit options for over a year, with different terms and interest rates.
+You said:
+"Could you please provide the specific terms and interest rates for each option?"
+English Conversational Partner said:
+Sure. Here are the available options:1-year deposit: 2.5% interest,2-year deposit: 3.0% interest,3-year deposit: 3.3% interest.Interest is paid annually.
+You said:
+"I think I’ll choose the 1-year deposit at 2.5% interest."
+English Conversational Partner said:
+Great choice. Let me walk you through the next steps for the application.
+You said:
+"Thank you so much. I will follow the instructions you sent. Thank you today."
+English Conversational Partner said:
+You're very welcome! I'm glad I could help. If you have any more questions, just let me know. Have a great day!
+You said:
+"Thank you, see you again."
+English Conversational Partner said:
+See you! Take care and have a wonderful day!
+
+
+Task 3: Enquiring About a Rental Property or Housing Inspection
+You said:
+"Hi, I'm interested in the own room unit on Main Street. Are there any inspection times this weekend?"
+English Conversational Partner said:
+Absolutely! We do have some inspection times available. Would you like to come by on Saturday or Sunday, and what time works best for you?
+You said:
+"Is it possible to attend the inspection on Saturday?"
+English Conversational Partner said:
+Yes, absolutely. We have a slot available on Saturday at 10 a.m. Does that time work for you, or would you prefer a different time?
+You said:
+"Yes,it works for me."
+English Conversational Partner said:
+Great! I've got you down for Saturday at 10 a.m. Is there anything specific you'd like to know about the unit before you come by?
+You said:
+"Is the property furnished or unfurnished?"
+English Conversational Partner said:
+It's actually unfurnished, so you'll have a blank canvas to make it your own. Is there anything else you'd like to know or any other details I can provide?
+You said:
+"How much is the bond?"
+English Conversational Partner said:
+The bond is typically four weeks rent. If you'd like, I can confirm the exact amount once we know the rent figure. Is there anything else I can help you with?
+You said:
+"Could you give me some specific details?"
+English Conversational Partner said:
+Absolutely! The unit is a one-bedroom with a modern kitchen, a spacious living area, and a balcony. The bond would be equivalent to four weeks' rent, and I'll confirm the exact amount for you. If you have any other questions, just let me know!
+You said:
+"Also, can I apply online or do I need to visit the office?"
+English Conversational Partner said:
+You can definitely apply online; it's super convenient.But if you have any questions or need assistance, you're always welcome to visit the office as well.Anything else I can help with?
+You said:
+"What documents do I need to include with my application?"
+English Conversational Partner said:
+You'll typically need a photo ID, proof of income, like recent pay slips, and a reference from a previous landlord. If you have any questions about specific documents, just let me know!
+You said:
+"Should I provide any other documents?"
+English Conversational Partner said:
+Those are the main ones, but sometimes a rental history or a credit report can be helpful. If you need any help gathering those, just let me know!
+You said:
+"I'm also interested in another unit.
+Could I apply for both?"
+English Conversational Partner said:
+Absolutely, you can apply for both units if you'd like!
+Just let me know, and we can make sure the process is smooth for you.
+You said:
+"Are there any furnished properties available around the same price?"
+English Conversational Partner said:
+Let me check on that for you! We do have a few furnished options in that price range. I'll gather the details and let you know shortly.
+You said:
+"May I inspection someday?"
+English Conversational Partner said:
+Of course! We can definitely arrange an inspection for you on Sunday as well. Just let me know what time works best for you!
+You said:
+"If someone else also applies, how do you choose?"
+English Conversational Partner said:
+That's a great question! We generally consider factors like the completeness of the application, the references provided, and the overall suitability. But we always aim to be fair and transparent. If you have any concerns, just let me know!
+You said:
+"I don't have rental history in Australia, can I still apply?"
+English Conversational Partner said:
+Absolutely, you can still apply! We can consider other factors like your employment history and personal references. Just let me know, and we'll work through it together!
+You said:
+"Thank you. Also, can I apply now and bring the documents later?"
+English Conversational Partner said:
+Absolutely, you can start the application now and bring in the documents a bit later. Just let us know when you have them ready, and we'll make sure everything is all set.
+You said:
+"Okay, is it okay to email a copy of my ID?"
+English Conversational Partner said:
+Absolutely, that works perfectly fine! You can just email it over to us, and then bring the physical copy When you can. Let me know if you need anything else!
+You said:
+"Do I pay the bond before signing the lease?"
+English Conversational Partner said:
+Typically, the bond is paid at the same time as signing the lease, so everything is all set at once. If you have any other questions about the process, just let me know!
+You said:
+"Will I receive a return tenancy agreement before payment?"
+English Conversational Partner said:
+Yes, absolutely! You'll get a copy of the tenancy agreement to review before you make any payment, so you'll know exactly what you're agreeing to. If you need any clarification, just let me know!
+You said:
+"Thank you for the information. I'll attend the inspection on Saturday 10 a.m."
+English Conversational Partner said:
+You're very welcome! I'm looking forward to meeting you on Saturday at 10 a.m. If you have any other questions in the meantime, just let me know!
+You said:
+"Thank you so much."
+English Conversational Partner said:
+You're very welcome! I'm glad I could help. Have a great day, and I'll see you on Saturday!

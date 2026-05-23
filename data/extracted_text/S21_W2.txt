@@ -1,0 +1,235 @@
+Week 2 
+Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment
+English Conversational Partner said:
+Hello, this is Green Valley Medical Clinic. How can I help you today—are you calling to make, change, or cancel an appointment?
+You said:
+“Good morning.”
+00:01
+English Conversational Partner said:
+Good morning! How can I assist you today? Are you looking to schedule a new appointment or adjust an existing one?
+You said:
+“Yeah.”
+00:00
+English Conversational Partner said:
+Alright, let’s get
+You said:
+“I'd like to make an appointment to see my doctor, please.”
+00:03
+English Conversational Partner said:
+Of course. May I have your name and the reason for your visit, please?
+You said:
+“My name is Rui Hashimoto, R-U-I H-A-S-H-I-M-O-T-O.”
+00:07
+English Conversational Partner said:
+Thank you, Rui Hashimoto.
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Could you please let me
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+…know the reason for your visit and any preferred date or time for the appointment?
+You said:
+“Yeah, because my sore throat is not in bad condition, and I have cough and phlegm as well.”
+00:15
+English Conversational Partner said:
+I’m sorry to hear that. Let’s find a suitable time for you. Do you have a preferred day or time for the appointment?
+You said:
+“Is anyone available tomorrow morning?”
+00:03
+English Conversational Partner said:
+Let me check our schedule for tomorrow morning. One moment, please.
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Alright, we have an opening at 10 a.m. tomorrow. Does that work for you?
+You said:
+“Yes, perfect. Thank you so much. Could you please book that for me?”
+00:05
+English Conversational Partner said:
+Absolutely, I’ll book that for you. You’re scheduled for tomorrow at 10 a.m. Is there anything else I can assist you with?
+You said:
+“Do I need to have something to see a doctor?”
+00:15
+English Conversational Partner said:
+Yes, please bring your ID and your insurance card, if you have one. Also, any relevant medical records would be helpful. Let us know if you have any other questions.
+You said:
+“Okay, I understand.”
+00:02
+English Conversational Partner said:
+Great! We’ll see you tomorrow at 10 a.m. If you need anything else, just let us know.
+You said:
+“I'm so sorry. I have misunderstood. So, could I take... Could I go to...”
+00:11
+English Conversational Partner said:
+No worries at all!
+You said:
+“Sir, could I make an appointment at 11.30?”
+00:08
+English Conversational Partner said:
+Of course, let me check availability for 11:30 a.m. tomorrow. One moment, please.
+You said:
+“Yes, I'm sorry. Thank you.”
+00:01
+English Conversational Partner said:
+No problem at all! I’ll confirm that for you right away.
+You said:
+“Thanks.”
+00:00
+English Conversational Partner said:
+You’re very welcome! If you need anything else, just let me know.
+You said:
+“So, could I, could I book at 11.30 a.m. tomorrow?”
+00:06
+English Conversational Partner said:
+Absolutely, I’ll schedule you for 11:30 a.m. tomorrow. All set! Let me know if there's anything else you need.
+You said:
+“Thank you very much.”
+00:01
+English Conversational Partner said:
+You're very welcome!
+You said:
+“OK.”
+00:00
+English Conversational Partner said:
+All right, have a great day, and we’ll see you tomorrow.
+You said:
+“I'm sorry, I would like to confirm one thing. How long would the appointment take?”
+00:08
+English Conversational Partner said:
+Typically, the appointment will take about 30 minutes. If you need more time, just let us know.
+You said:
+“Great. Thank you for your help. See you tomorrow at 11.30 a.m.”
+00:04
+English Conversational Partner said:
+You’re very welcome! We’ll see you tomorrow at 11:30 a.m. Have a great day!
+
+Task 2: Visiting a Bank and Asking for Help with Banking Services Scenario
+You said:
+You are visiting a local bank branch or calling customer service to request help with everyday banking services. You may need to open a new account, update your details, or ask about specific features such as online banking or international transfers. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a bank staff or customer service officer. You can choose situations from the examples below; start with a simple request and try a more detailed interaction by asking about documents, account features, or banking procedures.
+English Conversational Partner said:
+Of course. I’ll take the role of a bank customer service officer.
+Hello, welcome to Maple Bank. How can I help you today? Are you looking to open a new account, update your details, or ask about a specific service?
+You said:
+“Hi, I'd like to open my new saving account.”
+00:04
+English Conversational Partner said:
+Absolutely! I'd be happy to assist you with that. May I start by confirming your identification details? Do you have a valid ID with you right now?
+You said:
+“Yeah, I have Penang passport.”
+00:02
+English Conversational Partner said:
+Perfect, that works well. We’ll also need your proof of address. Could you provide a recent utility bill or a bank statement?
+You said:
+“I'm sorry.”
+00:01
+English Conversational Partner said:
+No worries at all. Whenever you're ready, just let me know. Is there anything else I can help you with in the meantime?
+You said:
+“Sorry, I couldn't understand your opinion, previous one, so could you tell me again?”
+00:08
+English Conversational Partner said:
+Of course, no problem. I was just mentioning that we’ll need a proof of address, like a recent utility bill or bank statement, along with your passport. Let me know if you have those documents ready.
+You said:
+“okay so i'm not actually i'm an international student so i'm not student so i'd like i'm working i come i came here for working holiday so is it okay to bring only passport”
+00:21
+English Conversational Partner said:
+Got it, that makes sense. Yes, your passport will definitely work as your ID. For proof of address, we can also consider a rental agreement or a letter from your employer if you have one. Let me know what you can provide.
+You said:
+“This is the only passport I can provide.”
+00:02
+English Conversational Partner said:
+That’s perfectly fine. We can proceed with your passport for identification. We may just need to verify your address in another way. Let me know if you have any questions or if you need help with the next steps.
+You said:
+“Can I also start up online banking today?”
+00:06
+English Conversational Partner said:
+Absolutely, we can set that up for you today as well. I’ll guide you through the process. Do you have a valid email address that we can use to register your online banking?
+You said:
+“Okay, thank you. So, do I need to make an appointment, or can I walk in?”
+00:05
+English Conversational Partner said:
+You’re welcome! You can absolutely walk in, but if you prefer, you can also make an appointment to ensure faster service. Whatever works best for you!
+You said:
+“So, could you have an appointment?”
+00:03
+English Conversational Partner said:
+Of course, I can help you schedule that. Could you let me know what date and time would be most convenient for you?
+You said:
+“Is it available to come this afternoon?”
+00:05
+English Conversational Partner said:
+Let me check that for you. We do have availability this afternoon. What time would you prefer, around 2 PM or maybe a bit later?
+You said:
+“2 p.m. is fine.”
+00:01
+English Conversational Partner said:
+Great, I’ll schedule you for 2 PM this afternoon. If you need any further assistance before your appointment, just let me know. Looking forward to seeing you then!
+You said:
+“Thank you, and do I need to something to do before I go, I come?”
+00:06
+English Conversational Partner said:
+You’re welcome! Just make sure to bring your passport and any proof of address you have, and we’ll handle the rest. If you have any questions before then, feel free to reach out.
+You said:
+“Thank you.”
+00:01
+English Conversational Partner said:
+You’re very welcome! Have a great day, and we’ll see you this afternoon.
+Top of Form
+Task 3: Enquiring About a Rental Property or Housing Inspection Scenario
+You said:
+ You are calling, emailing, or visiting a real estate agency to ask about a rental property. You may want to attend an inspection, ask about the application process, or follow up after submitting your documents. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a property manager or real estate agent. You can choose situations from the examples below; start with a simple enquiry and try a more detailed interaction by asking about inspections, application documents, or follow-up procedures. Learning objectives: • Use polite, clear language when enquiring about rental properties. • Ask specific questions about availability, inspections, or applications. • Practise understanding and confirming important information. • Gain confidence communicating in housing-related situations. • (Advanced option) Handle more detailed rental enquiries by discussing application steps, document requirements, or follow-up actions. Instructions: Try to: • Ask about property details or inspection times. • Inquire about the application or rental process. • Confirm next steps or follow up on your application. • Finish the conversation politely and professionally. • (Advanced option) Use the extension prompts below to have a longer conversation. Examples of situations and prompts: 1. Asking about inspections • “Hi, I’m interested in the two-bedroom unit on Main Street.” • “Are there any inspection times this weekend?” • “Do I need to register before attending?” 2. Asking about the property • “Is the property furnished or unfurnished?” • “Are pets allowed?” • “How much is the bond?” 3. Clarifying the application process • “Can I apply online or do I need to visit the office?” • “What documents do I need to include with my application?” • “How long does it take to hear back?” 4. Following up on an application • “I submitted my application yesterday. Could you confirm if it was received?” • “Do you know when a decision will be made?” • “Should I provide any other documents?” 5. Finishing the conversation politely • “Thank you for the information.” • “I’ll attend the inspection on Saturday.”
+English Conversational Partner said:
+Sure. I’ll be your real estate agent for this practice.
+Let’s start:
+Hello, this is Sarah from Greenleaf Property Management. How can I help you today—are you calling about a specific rental property?
+You said:
+“Hi, I'm interested in the two-bedroom unit on Main Street.”
+00:07
+English Conversational Partner said:
+Great! That unit is available. Are you looking to know about inspection times or more details about the property?
+You said:
+“Hi, I'd like to know inspection times on this weekend.”
+00:04
+English Conversational Partner said:
+Absolutely! We have an inspection scheduled for Saturday at 10 a.m. Would that time work for you?
+You said:
+“That's fine. So do I need to register before attendance?”
+00:04
+English Conversational Partner said:
+Yes, we do ask that you register beforehand. I can send you the registration link if you’d like. Would you like me to email that to you?
+You said:
+“Yes, please. And what document do I need to bring when I apply, or yeah, inspection, or something like that?”
+00:11
+English Conversational Partner said:
+Sure! Typically, you’ll need proof of income, identification, and rental references. I’ll include all those details in the email as well. Does that sound good?
+You said:
+“Thank you for the information. I'll attend the inspection on Saturday, 10 AM.”
+00:06
+English Conversational Partner said:
+You’re welcome! I’ll send that email shortly. If you have any other questions, just let me know. Looking forward to seeing you on Saturday!
+You said:
+“And should I provide any other document? No, sorry. Do you know when a decision will be made?”
+00:08
+English Conversational Partner said:
+No worries at all! Typically, we aim to make a decision within about three to five business days after receiving your application. I’ll let you know if we need any additional documents as well.
+You said:
+“I got it.”
+00:01
+English Conversational Partner said:
+Perfect! If
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Alright, sounds good! If you have any other questions before the inspection, feel free to reach out. Looking forward to meeting you on Saturday!
+You said:
+“Yeah, thank you. Bye-bye.”
+00:01
+English Conversational Partner said:
+You’re welcome! Take care and goodbye!
+Top of Form

@@ -1,0 +1,27 @@
+[
+  {
+    "dialogue_id": "S3_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "bot error – incomplete time range",
+    "evidence_summary": "The bot provides an incomplete time range for the inspection, saying '10am until am'. The learner's response '10 to … okay.' indicates confusion but does not explicitly request clarification. The conversation continues without resolving the incomplete information."
+  },
+  {
+    "dialogue_id": "S3_W2_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      28,
+      29,
+      30
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner calculates bond",
+    "evidence_summary": "The learner hesitates while calculating the bond amount, saying 'Four weeks… so bond is… wait.' The bot provides the correct calculation, '$2,040 in total for the bond.' The learner confirms with 'Yes. Correct.', resolving the issue."
+  }
+]

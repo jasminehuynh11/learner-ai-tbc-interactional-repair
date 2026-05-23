@@ -1,0 +1,286 @@
+Task 1: 
+“Hello.”
+00:00
+English Conversational Partner said:
+Hey there! So, it sounds like we're just having a regular everyday chat. What’s on your mind today?
+You said:
+“Today, I'd like to decide my career.”
+00:04
+English Conversational Partner said:
+Absolutely, that’s a big topic! So, let’s figure it out together. What kind of career are you leaning towards or interested in exploring?
+You said:
+“I have a degree in Economics.”
+00:03
+English Conversational Partner said:
+Got it! Since you
+You said:
+“But actually, I'm not keen on economics.”
+00:03
+English Conversational Partner said:
+Alright, that’s totally understandable. So let’s think outside the economics box. What kind of things do you actually enjoy doing or feel passionate about?
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Sure, so let's dive into that a
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Absolutely! So,
+You said:
+Transcript Unavailable
+00:04
+English Conversational Partner said:
+Sure, no worries at
+You said:
+“Not practical for me.”
+00:03
+English Conversational Partner said:
+Absolutely, I get that. So let's think about something a bit more practical for you. What kind of work environment or daily tasks do you think you'd enjoy?
+You said:
+“Yes, I have some friends who work at IT company.”
+00:07
+English Conversational Partner said:
+Okay, that’s a good lead. So maybe we can explore something in the IT or tech world. What kind of roles in IT are you curious about or have you heard about from your friend?
+You said:
+“Yes, I would like to IT company, especially in like 3D modulator, other 3D modulator.”
+00:12
+English Conversational Partner said:
+All right, that sounds pretty cool! So you're interested in something like being a 3D modeler in an IT company. What kind of projects or industries would you love to work on—like gaming, animation, or something else?
+You said:
+“Actually, I don't decide that.”
+00:03
+English Conversational Partner said:
+Sure, that's totally fine. We can keep it open-ended. So let's say you're just exploring the idea of 3D modeling in general. What kind of tools or skills do you think you'd want to learn to get started with that?
+You said:
+“I think I have to study Blender.”
+00:04
+English Conversational Partner said:
+Absolutely, Blender's a great choice and a really popular tool. So it sounds like that's a good starting point for you. Now, is there anything else you feel you need to figure out before diving into that, or are you feeling pretty good about that direction?
+You said:
+“実は、私はブレンダーを高校で勉強しました。”( Actually, when I was highshool student, I studied Blender.)
+00:04
+English Conversational Partner said:
+Got it! So you
+You said:
+“But I don't forget that.”
+00:01
+English Conversational Partner said:
+All right, that makes sense. So you just need a bit of a refresher. Maybe you can start by revisiting some basic Blender tutorials to get back into the groove. What do you think—does that sound like a good next step for you?
+You said:
+“Do you have something, a recommendation to render?”
+00:06
+English Conversational Partner said:
+Sure! I'd say a great recommendation is to start with Blender's official tutorials or something like Blender Guru on YouTube. They have a lot of beginner-friendly content that will get you back on track. So how about you check one of those out and see if it feels comfortable to you?
+You said:
+“and Harvard Studying.”
+00:01
+English Conversational Partner said:
+Absolutely, that sounds like a solid plan. So you can start by diving into those tutorials and just practicing a bit each day. Once you get comfortable, you can think about specific projects or areas you want to focus on. So is there any other resource or tip you feel you need before you jump in?
+You said:
+“Sorry, I'm away from the desk.”
+00:02
+English Conversational Partner said:
+Of course, no problem at all! It sounds like you've got a good direction now. If you have any more questions along the way, just let me know.
+You said:
+“How about studying Python?”
+00:02
+English Conversational Partner said:
+Sure! If you're thinking about studying Python as well, that's a great complementary skill, especially in IT or even alongside something like 3D work. So what kind of projects or uses do you have in mind for Python?
+You said:
+“I'd like to make an avatar, a 3D avatar.”
+00:04
+English Conversational Partner said:
+All right, that sounds like a fun goal! Using Python to maybe automate some 3D tasks or create tools for your 3D art is a great idea. So I'd say start with some beginner Python courses and then you can tie it into your Blender work over time. Is there anything else you want to know before you dive in?
+You said:
+“How about study... Wait, wait, wait... Unity.”
+00:10
+English Conversational Partner said:
+Absolutely, Unity is another great choice if you want to get into 3D modeling for games or interactive media. So if you're leaning that way, you could definitely start looking at some Unity tutorials as well. How about you just pick one of these areas to focus on first, and then you can add more as you go along?
+You said:
+“この3つのソフトフォーミュレートがシンセサイザーを作成するのは良いアイデアです。”　(I think that is good idea to formulate these three softs to make synthesis.)
+00:08
+English Conversational Partner said:
+Absolutely, I think that's a great idea. Combining those three—Blender for modeling, Python for scripting, and Unity for bringing things to life—can really open up a lot of possibilities for you. So yeah, just take it step by step, and you’ll be on a good path. Anything else you’re curious about before we wrap up?
+You said:
+“So, how do I face my economics?”
+00:05
+English Conversational Partner said:
+Sure, so to handle your economics background, I'd say you can just treat it as a bonus skill set that can come in handy down the road. It’s always useful to have that knowledge, even if you're shifting to a more creative or technical field. So just keep it in your back pocket and focus on what excites you right now. Anything else on your mind?
+You said:
+“like when I invest in something in the future.”
+00:06
+English Conversational Partner said:
+Absolutely, that's a great way to look at it. Your economics background can definitely help you out if you decide to invest or manage finances in the future. So it's a nice built-in advantage. All right, if there's nothing else pressing, just let me know.
+You said:
+“Thanks.”
+00:00
+English Conversational Partner said:
+You're very welcome! I'm glad I could help. If you need anything else in the future, just let me know. Take care!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TASK 2:
+“Hello, our assignment is due next week. Can we decide who will do each part?”
+00:06
+English Conversational Partner said:
+Sure! Let's sort that out together. So what kind of project parts do we have to split up, and what are the main tasks we need to cover?
+You said:
+“I dare say I prefer making slides. So could you make a script?”
+00:09
+English Conversational Partner said:
+Sure, that sounds like a good plan. If you prefer doing the slides, I'm happy to take on the script part. So I'll go ahead and start drafting the script, and you can focus on putting the slides together. Does that work for you?
+You said:
+“Yes, it works for me.”
+00:01
+English Conversational Partner said:
+Perfect! Then we’ve got our plan. You do the slides, I’ll handle the script, and we’ll bring it all together. Just let me know if you need any info from me, and we’ll be all set.
+You said:
+“I forget how much time should I be giving a presentation.”
+00:07
+English Conversational Partner said:
+Sure! Usually for a class presentation, something around 10 to 15 minutes is pretty standard unless they told us otherwise. So I'd aim for that. We can always adjust once we see how much material we have. Sound good?
+You said:
+“Yes.”
+00:00
+English Conversational Partner said:
+Great! Then we’re all set. You focus on those slides, I’ll get that script ready, and we’ll keep it right around that time limit. Let me know if you need anything else!
+You said:
+“Okay, I made a slide.”
+00:03
+English Conversational Partner said:
+Awesome! That’s great to hear. I’ll get started on the script then, and we’ll have everything ready to go. Just let me know if you have any questions as we go along.
+You said:
+“Please review that slide. Do you have some questions?”
+00:05
+English Conversational Partner said:
+Sure! I'd be happy to. If you want to show me the slides, I can take a look and see if I have any questions or feedback. Feel free to share them whenever you’re ready!
+You said:
+“Okay, tomorrow is the presentation day.”
+00:02
+English Conversational Partner said:
+Absolutely, got it! So with the presentation tomorrow, I’ll just quickly review your slides, and we’ll make sure everything’s smooth. Then we’ll be all set for tomorrow. Just send them over, and I'll take a look!
+You said:
+“I will give a presentation about Japan side, so can you represent of New Zealand?”
+00:11
+English Conversational Partner said:
+Absolutely, I can do that. So if you're covering the Japanese slides, I'll go ahead and present all the other sections. That way we split it up nicely. Just let me know if there's any specific part you want me to focus on, and we’ll be good to go.
+You said:
+“And please give a presentation about our introduce. On the other hand, I will give a presentation about our in conclusion.”
+00:09
+English Conversational Partner said:
+Sure! I'll handle the introduction part at the start, and then you can wrap it up with the conclusion at the end. That way we’ve got a nice, clear structure. Just let me know if there's anything else you need, and we’ll be all set for tomorrow.
+You said:
+“Okay, I'm happy with that.”
+00:01
+English Conversational Partner said:
+Great! I’m really glad to hear that. Sounds like we’ve got everything lined up. We’ll do awesome tomorrow. If you need anything else, just let me know.
+TASK 3:
+
+“Hi, I've just finished my class presentation. Could you talk about it?”
+00:03
+English Conversational Partner said:
+Absolutely! So, in that case, let’s talk a bit about how it went. If you want to share how you felt about it or if there's anything that stood out to you, go ahead. I’m here to chat it through with you!
+You said:
+“As you know, we gave a presentation with you. How about it?”
+00:05
+English Conversational Partner said:
+Of course, I remember! Well, from what we planned out, it sounds like we covered all the key parts smoothly. You did the slides, I did the intro, you wrapped up with the conclusion, and it seems like it went really well. If there's anything else you want to reflect on or ask about, just let me know!
+You said:
+“So, you don't have any regret?”
+00:03
+English Conversational Partner said:
+No regrets at all! I think we covered everything really nicely, and you did a great job. So from my side, I’m all good. And if you’re feeling good too, then I’d say we nailed it!
+You said:
+“I think, in my turn, I gave a Japanese slide, but maybe it's not easy to view. How about, how do you think?”
+00:15
+English Conversational Partner said:
+Absolutely, I get what you mean. I think your Japanese slide was just fine, and everyone could follow along. But if you felt like it wasn't easy to view, maybe next time we can just simplify a bit or add some visuals. Overall, you did great, and it’s all part of learning.
+You said:
+“Our teacher said, in two weeks, we will give a presentation, which is a renewed version.”
+00:11
+English Conversational Partner said:
+All right, that sounds like a plan! So in a couple of weeks, we’ll have a renewed project to present. We can definitely tackle that together, and we’ll just make any improvements based on what we learned this time around. So when we get closer, we’ll just plan it out again.
+You said:
+“How about other Australian slides, not only New Zealand, but also Australia?”
+00:13
+English Conversational Partner said:
+Sure, we can definitely do that. We can include some Australian slides as well, so it's not just New Zealand. That way, we can expand the presentation a little bit and make it even more interesting. So when we prep for the next round, we’ll just add those in.
+You said:
+“Should I change three pages, right?”
+00:04
+English Conversational Partner said:
+Absolutely, if you want to update that slide to include Australia as well, that’s a great idea.
+You said:
+“ご清聴ありがとうございました。”
+00:00
+English Conversational Partner said:
+Sure! Just go ahead and tweak that
+You said:
+“Thank you.”
+00:00
+English Conversational Partner said:
+Absolutely, just go
+You said:
+How about give a presentation not only Japan and New Zealand but also Australia. 00:02
+English Conversational Partner said:
+Absolutely, just go ahead and tweak that slide to add in the Australian part. That'll make it even more complete. And if you need any help or want me to take a quick look after you've updated it, just let me know!
+You said:
+“We schedule a follow-up meeting in a few weeks to review progress.”
+00:04
+English Conversational Partner said:
+Sure thing! Let’s do that. We can set up a meeting in a couple of weeks to check in and see how everything’s going. That way we can review our progress and make any changes we need. Just let me know a time that works for you, and we’ll lock it in!
+You said:
+“And at that meeting, I'd like to give a presentation, like, practically.”
+00:08
+English Conversational Partner said:
+Absolutely, we can do that. So at that meeting, we’ll make it more like a practice presentation run. You can go through your slides, and we’ll just treat it like a rehearsal so you feel extra ready. That sounds like a great plan!
+You said:
+“Goodbye.”
+00:00
+English Conversational Partner said:
+Great! Then we’ve got a plan. We’ll do that practice run at our meeting and make sure everything’s smooth. Just let me know when you want to set it up, and we’ll be all set!
+You said:
+“Okay, finally, we complete our making slide.”
+00:07
+English Conversational Partner said:
+Awesome! That’s fantastic to hear. We’ve got all the slides done, and now we’re all set for the next steps. If you need anything else, just let me know, but it sounds like we’re in great shape!
+You said:
+“I will give a presentation about Japan.”
+00:04
+English Conversational Partner said:
+Absolutely, that sounds
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+Sure thing! So you'll be handling the part about Japan in the presentation. That sounds great, and you can just focus on making that section as interesting as you like. If you need any support with it, just let me know!
+You said:
+“Thank you, Medar, Osterhjelm, and Nusran.”
+00:05
+English Conversational Partner said:
+Absolutely, I can
+You said:
+“Also, I will make a conclusion.”
+00:04
+English Conversational Partner said:
+Sure, that sounds like a good plan. I'll cover the Australian and New Zealand parts, and you'll handle the Japan section as well as the conclusion. That way we've got everything nicely divided up. Just let me know if you need any help along the way!

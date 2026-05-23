@@ -1,0 +1,115 @@
+{
+  "student_id": 48,
+  "week": 4,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S48_W4_T1",
+  "source_file": "data\\raw\\#48\\#48\\#48. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": ": You are speaking with an academic advisor or career counsellor to get guidance about your current study plans or future career options. You want to explain your situation, ask for advice, and clarify next steps. Practise speaking clearly and professionally in a formal setting. You will need to define the chatbot’s role as a university advisor or career counsellor. You can choose situations from the examples below; start with a basic question about your study plan, and try a more extended interaction by exploring course structures, comparing qualifications, or evaluating career outcomes."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": ": Alright, happy to help. As your university advisor, let me start with the basics — what study program or area are you thinking about right now?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": ": My background is Bachelor of Pharmacy and I would like to work in academic area such as teaching. I am thinking about pursuing a master degree in Pharmacy"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": ": Alright, I see — you’ve got a Bachelor of Pharmacy and you’re aiming for an academic pathway, possibly teaching. That’s a solid foundation. To guide you properly, what kind of teaching role are you imagining — university lecturing, vocational training, or school-level teaching?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": ": I was thinking about university lecturing as I think it would be more interesting and challenging"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": ": Sure, that makes sense — university lecturing is both stimulating and research-focused. To aim for that path, you’ll usually need a strong research direction even at the master’s level. What specific area of pharmacy are you most interested in developing expertise in?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": ": I have a bit of experience in Clinical Pharmacy and it is also the area that I would love to do"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": ": Alright, clinical pharmacy is a strong and in-demand academic field. For university lecturing, the type of master’s program you choose matters quite a lot. Are you thinking about a coursework-based master’s or a research-focused master’s (like a Master of Research or MPhil)?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": ": A master of research Would be better for my career in long term. I think lecturers are require to have a Phd degree and msc of research are in line with that"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": ": Alright, that’s a good understanding — a research master’s is the typical stepping stone toward a PhD and an academic career. To plan properly, I need to know your timeline. When are you hoping to start your Master of Research — this year, next year, or later?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": ": Alright, starting this year could be feasible if deadlines are still open. To check realistic options, which country or universities are you considering for your Master of Research?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": ": I consider applying to Monash University, Melbourne"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": ": Alright, Monash has a strong reputation in pharmacy and clinical research. To see if you’re a good fit for their MRes entry, can you tell me about your academic record—your GPA or overall performance in your Bachelor of Pharmacy?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": ": My Gpa is 8/10 and I’m top 6/256 students in my cohort"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": ": Great, that’s an excellent academic standing — Monash will definitely take that seriously. To move forward with a research master’s, they’ll also look at your research background. What kind of research experience have you had so far — projects, internships, or any publications?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": ": I have a 1-month internship at a community pharmacy and 1 internation publication"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": ": Sure, that’s a solid start — having an international publication is a strong advantage. For Monash, the next key step is usually matching with a potential supervisor. Do you already have a specific clinical-pharmacy research topic or professor at Monash you’re interested in working with?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": ": Not really"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": ": Alright, no problem — it’s normal not to have a supervisor in mind yet. To help you narrow it down, which part of clinical pharmacy interests you most — medication safety, pharmacotherapy, patient outcomes, pharmacoepidemiology, or something else?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": ": Patients’ outcomes interested me the most"
+    }
+  ]
+}

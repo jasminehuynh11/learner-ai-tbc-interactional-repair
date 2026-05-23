@@ -1,0 +1,27 @@
+[
+  {
+    "dialogue_id": "S8_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6,
+      8
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – irrelevant response to learner's health issue",
+    "evidence_summary": "The learner mentions 'brain tinnitus' in turn 5, but the bot responds with 'foot' in turn 6, indicating a misunderstanding. The bot then continues with a relevant question in turn 8, suggesting the issue was resolved as the conversation progresses smoothly."
+  },
+  {
+    "dialogue_id": "S8_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner request for repetition – unclear previous bot question",
+    "evidence_summary": "The learner asks for repetition in turn 9, indicating they did not understand the bot's previous question. The bot repeats the question in turn 10, and the conversation continues, showing the issue was resolved."
+  }
+]

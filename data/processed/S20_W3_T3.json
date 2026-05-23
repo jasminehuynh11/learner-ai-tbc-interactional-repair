@@ -1,0 +1,120 @@
+{
+  "student_id": 20,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S20_W3_T3",
+  "source_file": "data\\raw\\#20\\#20\\#20. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "You are a tech support agent or customer service assistant. Your role is to simulate a realistic service interaction with me, the customer. I am reporting a technical problem with my phone, computer, or an online service. You must respond professionally and politely, but you should not always agree with me. Instead, ask clarifying questions, propose troubleshooting steps, and explain possible service options"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright, I can help you with that. What problem are you having with your device or service right now?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, today I opened my notebook and I saw that the screen is broken. It's still working but in the middle there is like a line that I can see that this screen is broken. Can you do something?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I'm sorry to hear about that issue. Just to clarify, is the line on the screen a crack or is it more like a discoloration or a flickering line? And have you tried any troubleshooting steps so far, like restarting the notebook or adjusting the display settings?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yeah, there is some option like change the screen, some method that I can repair for myself and I need to go to the customer service, which are the best option for me.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, there are a few options we can consider. If the damage is minor, sometimes adjusting the screen settings or updating your drivers can help. However, if the screen itself is cracked or damaged, it might be necessary to have it repaired or replaced by a professional. We can definitely arrange a service appointment for you, or if you'd prefer, you could look into some DIY repair kits. Let me know what you'd like to do!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Now, my screen is already broken, so I'm short about that, so you know if it's better to repair or just change with a new one, or my computer is a little bit old, maybe it's better if I I will buy a new computer.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That’s definitely something to consider. If your computer is older and the cost of repairing the screen is significant, sometimes it’s more cost-effective in the long run to invest in a new device. On the other hand, if the rest of the laptop is still in good shape and you’re happy with its performance, repairing the screen might be a more budget-friendly option. I’d be happy to help you weigh the pros and cons or arrange a repair quote for you as well. Let me know how you’d like to proceed!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, my computer is a Samsung Galaxy Book 360 Pro So can you search the option? Is this better about the new version or about this computer or just repair the screen?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course! The Galaxy Book 360 Pro is definitely a solid device. If your current model is a few years old, the newer versions usually come with improved performance, battery life, and display quality. On the other hand, if the repair cost for the screen is relatively low, that could extend the life of your current device. I can definitely look into the costs and benefits of both options for you. If you’d like, I can provide some details on the latest models and compare them to your current one. Let me know what you'd prefer!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yeah, can you give me some detail?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely! The latest Galaxy Book models generally feature more powerful processors, better battery efficiency, and upgraded displays, like higher resolution or improved color accuracy. They also tend to have enhanced security features and lighter, more portable designs. In terms of repair, if the screen replacement for your current Galaxy Book is relatively affordable, that might give you more time with your device before upgrading. But if you’re looking for a significant performance boost and newer features, then going for the latest model could be a great choice. If you’d like, I can provide a more detailed comparison or even look into specific pricing for both repair and new models. Just let me know!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Can you search the specific price and tell me, please?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! I can definitely look up some pricing details for you. For a screen replacement on a Galaxy Book 360 Pro, the cost can vary depending on the model year and the service provider, but generally it might range from around $200 to $400. On the other hand, a brand-new Galaxy Book model can range from about $1,000 to $1,500, depending on the specs and configurations. I can definitely get you more specific pricing if you’d like, and also check for any current promotions or discounts. Just let me know if you’d like me to dive deeper into that!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, maybe I can go to some store and try to fix that the problem”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, that's definitely an option as well! You can take your laptop to an authorized service center or a local repair shop that specializes in Samsung devices. They can often provide a quick diagnostic and give you a more accurate estimate for the repair cost. Plus, you can get a sense of how quickly they can fix it. If you need any help finding a reputable repair shop or have any other questions, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Can you tell me the more closer store?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Of course! If you let me know your location or the area where you’re located, I can look up some nearby authorized service centers or reputable repair shops for you. That way, you can get the best service possible and have your laptop fixed efficiently. Just let me know, and I’ll be happy to help!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Got it! In Sydney, there are several authorized Samsung service centers and reputable repair shops. For example, there’s a Samsung Service Centre in the city center, and there are also some trusted third-party repair shops in areas like Surry Hills or Newtown. I can definitely provide more specific addresses and contact details if you’d like. Just let me know if you have a preferred area or any additional details, and I’ll get that information for you!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Thank you very much for your help, so tomorrow I will go to check in a store if it's possible to do something different.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions or need anything else, definitely feel free to reach out. Good luck with the repair, and I hope everything goes smoothly for you tomorrow!"
+    }
+  ]
+}

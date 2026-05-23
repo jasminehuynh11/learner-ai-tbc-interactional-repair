@@ -1,0 +1,350 @@
+{
+  "student_id": 34,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S34_W2_T2",
+  "source_file": "data\\raw\\#34\\#34\\#34. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to practise how to Visiting a Bank and Asking for Help with Banking Services . You are a receptionist at a local bank branch. I’ll play the role of a customer. Please create a realistic a local bank branch scenario and respond as if we were really there. Help me talk about bank service. Keep the conversation going naturally by asking at least 3 follow-up questions about bank service"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course! Let’s imagine you’ve just walked into Riverside Community Bank, a bright local branch on a weekday morning. I’m standing behind the reception desk, ready to assist you. Good morning! Welcome to Riverside Community Bank. How can I help you today? Are you here to open a new account, or do you need help with an existing service?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to open a new serving account. Do I need an appointment or can I come in today?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, you can come in today without an appointment. We’ll be happy to help you right away. Just make sure to bring a valid ID and proof of address. Would you like to know more about the types of savings accounts we offer?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, please.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Great! We have a few options. For example, we have a standard savings account with a competitive interest rate, and we also have a high-yield savings account if you’re looking to earn more on your balance. Do you have any specific goals for your savings, or any questions about the benefits of each account type?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I'm an international student. I'll stay here until next May.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, that’s great"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“So I don't need, I don't use, I won't use this account long time and I prefer the cost is free.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense! We do have a student-friendly savings account that has no monthly fees and offers convenient features. I can also help you with any required documents, like your student ID and visa details. Would you like more information about how to open that account or about any additional services we offer?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Do you have any campaign to open new account?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Yes, actually we do have a promotional campaign right now for new accounts, which includes a welcome bonus and reduced transaction fees for the first few months. I can definitely give you more details and walk you through the process. Is there anything specific you’d like to know about the campaign or any other services?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I'd like to know about the campaign. If I open account today, what kind of benefit I can receive?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! If you open an account today, you'll receive a welcome bonus credited to your account within the first month. Plus, you'll enjoy zero monthly maintenance fees for the first six months, and also reduced fees on international transfers. If that sounds good, we can get everything set up right now. Would you like to proceed with the application?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Would you proceed, please?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect! Let’s get started. I’ll just need to take down some details from you, like your full name, your contact information, and your student ID. Once we have that, we can move forward with the application process. Sound good?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“OK, I'll fill it out. Please check it. Here you are.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Wonderful, thank you! I’ll take a look at the information now and make sure everything is correct. Once we confirm the details, we can finalize your account setup. If you have any questions in the meantime, just let me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“What ID do I need to show?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Typically, you'll need to provide a valid government-issued photo ID, such as your passport or a national ID card. Additionally, we’ll need a document that proves your address, like a utility bill or a rental agreement. If you have your student visa as well, that’ll be helpful. Let me know if you have any of those documents ready!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yes, I have passport and visa details. Here you are. Also, I have a proof of my address. It is the tax number's letter. Is it useful for this situation?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Your passport, visa details, and the proof of address from the tax number letter will all be useful and acceptable. That’s perfect! Once I verify these documents, we can proceed with the account setup. Let me know if you have any other questions or need any assistance!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yes, can I set up online banking at the same time?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course! We can definitely set up online banking at the same time. Once your account is open, I’ll guide you through the registration process and help you activate it right away. That way, you’ll have convenient access to your account anytime. Sound good?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Do you offer debit card with this?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do offer a debit card that comes with your savings account, and we can issue it right when your account is set up. You’ll be able to use it for purchases, ATM withdrawals, and more. If you’d like, we can also arrange to have it mailed to your address or pick it up in branch. Let me know what you prefer!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I prefer sent to my post.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That’s no problem at all! We’ll make sure your debit card is mailed directly to your address, and it should arrive within a few business days. Once everything is set, I’ll provide you with all the details. If you have any other questions or need further assistance, just let me know!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Perfect. I have no more questions. Thank you.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If anything else comes up, don’t hesitate to reach out. Have a wonderful day, and best of luck with your new account!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care, and goodbye!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Please use only English. Do not translate in Japanese."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! Let’s continue entirely in English."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Next roleplay is few weeks later I received the bank account card.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sounds great! In that case, we can continue the roleplay as if you’re now visiting or calling the bank with questions about using your new debit card, or maybe you need some help with online banking features. Just let me know how you’d like to proceed, and we’ll jump right in!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“I'm calling back, hello, hello, is this reverse side bunk?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Hello! Yes, you've reached Riverside Bank. How can I assist you today? Are you calling about your new debit card or something else?"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Thanks. I'm calling about... I forgot my online banking password. Can you help?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Of course, I can help with that! We’ll just need to verify a few details to confirm your identity. Could you please provide your account number or the phone number associated with your account?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“I see. My account number is blah blah blah. Also, my phone number is blah blah blah.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Thank you for that information! I’ll just take a moment to verify your details. Once that’s done, I’ll guide you through the password reset process. Is there a preferred method for resetting your password, like via email or SMS?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Sorry. what is e-su-mu-su?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Of course! SMS stands for Short Message Service, and it’s basically a text message sent to your mobile phone. So if we reset your password via SMS, you’d receive a code or a link directly on your phone. Let me know which method you’d prefer!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“I save things. I prefer SMS.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Perfect! In that case, I’ll go ahead and send a verification code to your phone number. Once you receive it, just let me know the code, and we can reset your password right away. Let me know if you have any other questions in the meantime!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“few minutes later: I received SMS new password and log in”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "That’s great to hear! Now that you have the code, go ahead and enter it into the password reset portal, and you’ll be able to set a new password right away. If you run into any issues or need any additional help, just let me know. Otherwise, you should be all set!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Oh, but it's possible... Hm? Sorry. It's temporarily freeze my account.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "I understand, that can happen sometimes. No worries! Let’s go ahead and confirm a few details to lift that freeze. Could you let me know if you received any notification or if there’s a specific reason mentioned for the freeze? That way, we can resolve it quickly."
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Now, I try to log in with new password, but I can't open my account, and dialog shows it froze, this account is temporarily freezed.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "I see, thank you for letting me know. In that case, we can definitely look into it further. I’ll just need to verify some security details with you. Once we confirm your identity, we can remove the freeze and restore access. If you have any recent transaction details or any information that might help, feel free to share that as well."
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“So how should I show you my transaction history or my passport? Because we are talking for now. Should I make an appointment tomorrow?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, for security purposes, it’s best to handle certain verifications in person. We can definitely arrange an appointment for you tomorrow, and that way, you can bring your ID and any necessary documents. In the meantime, if you have any other questions, I’m here to help!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“So, could I...”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Absolutely, feel free to let me know"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Could I make an appointment at 11 a.m. tomorrow?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Of course! I can definitely schedule that for you. We'll set your appointment for 11 a.m. tomorrow, and that way, we can take care of everything in person. If you need any further assistance or have any more questions before then, just let me know!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Can you explain again what should I bring for identify, just in case?”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Absolutely! For your appointment, it’s best to bring a valid government-issued photo ID, like your passport or national ID card. Also, it’s helpful to have any documents related to your address, such as a utility bill or a bank statement. And if you have any recent transaction details or any correspondence from the bank, that can be useful as well. If you bring these along, we should be able to sort everything out smoothly!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Is it possible to use screenshots for transaction history?”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "In most cases, it’s better to have official statements or documents, but screenshots can definitely help as a reference. If you bring them along, we can review them, and then we’ll confirm everything in person. But having the official documents on hand is always the safest approach. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“No, thank you.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "You’re very welcome!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“See you tomorrow.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Absolutely, see you tomorrow! Have a great day, and take care until then!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“You too. Bye.”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Bye! Have a wonderful day!"
+    }
+  ]
+}

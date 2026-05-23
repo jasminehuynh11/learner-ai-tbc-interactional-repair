@@ -1,0 +1,235 @@
+{
+  "student_id": 3,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S3_W3_T2",
+  "source_file": "data\\raw\\#03\\#03\\#3. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’m calling about a problem in my apartment."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hi there! No problem at all, thanks for calling. I can help you with maintenance issues. Before we get into the details, can I just confirm the address of the property so I’m looking at the right file?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Yes. 24 King Street. Unit 603."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Perfect, thank you. I’ve got that open now. Alright, what seems to be the issue today?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "The bathroom. Something is wrong."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Okay, the bathroom — thanks for letting me know. When you say something is wrong, is it related to water, electricity, or something else?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Water. But not always."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, water-related but intermittent — that’s helpful. Can you tell me what actually happens when the problem occurs?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Shower is okay. Then suddenly cold. Then hot again."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Okay, so the water temperature changes suddenly while you’re showering. That can definitely be frustrating. Does this happen every time you shower, or only sometimes?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Not every time. Mostly at night."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Mostly in the evenings — that’s an important detail. That can sometimes be related to water pressure or the system heating up. I’ll make a note of that. When did you first notice this happening?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Maybe two weeks ago. But before it was small."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Okay, so it started about two weeks ago and has gradually become more noticeable. Have you changed anything recently, like adjusting the hot water settings or using a new appliance?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "No. Nothing new."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That’s good to know. Just to check, when the water goes cold, does it stay cold for a long time, or does it return to hot fairly quickly?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Few seconds. But sometimes scary."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I understand — even a few seconds of cold water can be unpleasant, especially unexpectedly. I’ll make sure the technician is aware that the temperature changes suddenly. Now, is this happening in the shower only, or also in the sink?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Sink is okay. Only shower."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Perfect, that helps narrow it down. That suggests it’s likely related to the shower unit rather than the whole apartment. I’ll log it that way so the right person attends."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Just so you know how the process works, I’ll submit this as a non-urgent maintenance request today. A plumber or technician will usually contact you within one to two business days to arrange a time to inspect it."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "They call me?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, they usually call or text first to organise access. Would weekday daytime access be okay, or do you prefer evenings?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Evening is better. After work."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "No problem at all — I’ll note evening access preferred. And just to double-check, is there any leaking water, strange noises, or visible damage around the shower?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "No leak. No noise. Just temperature."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That’s very clear, thank you. That information really helps us diagnose the issue faster. I’ve now logged the request with those details."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You should receive a confirmation email shortly with a reference number. Please keep that email in case you need to follow up later."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Email is fine."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Great. If the problem suddenly gets worse — for example, if the water stops completely or becomes dangerously hot — please contact us straight away, as that could be considered urgent."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Okay. I understand."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Before we finish, can I just quickly check — is there anything else in the bathroom or apartment that’s been bothering you, even if it seems small?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Um… the fan. It’s loud."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Thank you for mentioning that. Is the fan loud all the time, or only when it’s been on for a while?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Only when long time."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Alright, I’ll add that as an additional note. The technician can take a look at both issues during the same visit, which is usually more efficient."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Okay. That’s good."
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Perfect. So just to recap before I let you go: we’ve logged a maintenance request for sudden temperature changes in the shower, mostly in the evenings, and a noisy bathroom fan after extended use. A technician will contact you within one to two business days to arrange an evening visit."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Yes. That’s correct."
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Great. Everything is submitted now. Thanks for letting us know, and we’ll get that sorted for you as soon as possible."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "Okay. Thank you."
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "You’re very welcome. Have a good rest of your day."
+    }
+  ]
+}

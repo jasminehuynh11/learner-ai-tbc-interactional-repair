@@ -1,0 +1,140 @@
+{
+  "student_id": 7,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S7_W2_T2",
+  "source_file": "data\\raw\\#7\\#7\\#7. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, today I'd like to open a new saving account."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure, no problem! I can help with that. Could you please tell me if this savings account will be for your personal use, or are you saving for something specific, like your education or future plans?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "It will be for my personal use. Could I open a new account although I am still a uni student?"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Students can open savings accounts too. We just need to confirm a few details. Could you tell me if you already have any other account with our bank, or will this be your first one here?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "It'll be my first account. Could I ask you questions? What kinds of accounts are available for uni students? And could I operate the new account online as well?"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! For university students, we usually offer two main options: a basic savings account with no monthly fees, and a student saver account that gives a bit more interest if you deposit regularly. Yes, you can definitely manage both types online — through our app or website. Would you like me to explain the main differences between the two account types?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Yes, please. I'm sorry for my poor English, what's the word deposit mean?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries at all — your English is clear! The word “deposit” means to put money into your bank account. For example, when you get money from a part-time job and add it to your account, that’s a deposit. So, here’s the difference: The basic savings account is simple — no monthly fee, and you can use it anytime. The student saver account gives a higher interest rate, but you need to deposit a small amount each month to keep that rate. Do you think you’d prefer something simple, or would you like to earn extra interest by saving regularly?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I do part-time job regularly, so is the student saves account matches me?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Yes, that sounds perfect for you! Since you have a regular part-time job, the student saver account would suit you well — you can deposit a small amount each month and earn more interest on your savings. Could you tell me what kind of ID you have with you today — for example, a passport, student card, or national ID?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "I have a student card and national ID. I forgot to ask this. Could I use a debit card with this account?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Yes, you can! Every savings account comes with a debit card, which you can use to withdraw cash, shop online, or make payments in stores. Would you like your debit card to be a physical card, a digital one for your phone, or both?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I have already made this card, so I'll use this, thank you. It's OK, could you start opening my account?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect, that makes it easier! Since you already have a card, we’ll just link it to your new savings account. I’ll need a few details to start — could you please tell me your full name as it appears on your ID?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "My name is Tanaka Teru."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Thank you, Mr. Tanaka. Nice to meet you! Next, could you please tell me your current address for the account registration?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Corrimal 654."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Got it, thank you. And just to confirm, that’s Corrimal, New South Wales, right? Also, could you please give me your date of birth for verification?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Yes, it's right. My birthday is November 23."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Thank you, Mr. Tanaka. Could you please tell me the year of your birth as well, just to complete the record?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "It's 1989."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Perfect, thank you. Just one last thing — could you give me your phone number or email address so we can contact you if there’s any issue with your account?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "I'm sorry, I don't have time now, so could I confirm this online?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course, that’s completely fine! You can finish the verification online anytime through our secure portal. Thanks for coming in today, Mr. Tanaka. Have a great day, and good luck with your studies!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Thank you for your consideration, have a good day too!"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You’re very welcome, Mr. Tanaka. Take care, and we look forward to seeing you again!"
+    }
+  ]
+}

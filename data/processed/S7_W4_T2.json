@@ -1,0 +1,75 @@
+{
+  "student_id": 7,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S7_W4_T2",
+  "source_file": "data\\raw\\#7\\#7\\#7. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to practice speaking English. You are a member of project group, and we have to decide those: deadline, plan, budget, and each members' role. The project is about that we have to hold a summer festival event, and we will invite approximately 100 people."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright! Since we’re planning this summer festival together, let’s start with the basics. What deadline do you think we should set for the event?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "So, our summer festival event will be held in December 10th or something. So, next month. So, I think the deadline should be the previous week."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, makes sense — a deadline one week before December 10th gives us some buffer. So that would be around December 3rd. Next, we should map out the overall plan. What kind of activities or program do you want to include in the festival?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "It's just my opinion, but I think we should invite some singers or musicians to be held live performance. And also we have to invite some market at the place where we have summer festival. How would you think about that?"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure, that sounds great — live music and market stalls would make the festival really lively. What kind of budget do you think we can work with for all of this?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I'm so afraid, but I'm not good at calculating or measures how much budget we should have. So could you decide our budget for us, please?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, no problem — if we’re inviting about 100 people, a simple working budget could be around $5,000–$7,000, covering performers, stalls, equipment, and basic logistics. What role do you think you’d like to take in the project team?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "In this case, I recommend to you to invite some musicians or live performers. I would like to search what should someone we can invite. I will contact them. If you could, could you make some documents of this event, please?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Summer Festival Project Document Summer Festival Event Plan Event Date: December 10 Final Deadline: December 3 Estimated Attendance: ~100 people 1. Overview This document outlines the plan, budget, roles, and key tasks for organizing the Summer Festival event. 2. Event Components Live music performances (singers, musicians) Market stalls (food, crafts, local vendors) Basic stage and sound setup Guest and crowd management 3. Budget Estimate Total Estimated Budget: $5,000–$7,000 Performer fees: $2,000–$3,000 Sound & stage equipment: $1,000–$1,500 Vendor coordination & logistics: $500–$1,000 Advertising & printing: $300–$500 Miscellaneous buffer: $500–$1,000 4. Roles & Responsibilities"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Researching musicians and performers, contacting them, gathering quotes Me (AI Partner): Creating documentation and supporting planning Other Team Members: (To be assigned) Vendor coordination Logistics & equipment Marketing & promotion Finance & payments 5. Next Steps Confirm performer options Prepare vendor list Finalize budget Begin promotion Let me know if you'd like to add more details or another section! Sure! I’ve put together the event document for you. If you'd like to expand any section — performers, vendors, schedule, or anything else — just let me know."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Sure. Thank you. Thank you for making these documents. So today, other group members are absent, not here. So I will try to contact them later and assign them to each roles. So you don't have to do that. I do later. So that's all we could do in current situation. If you have something you are not sure or something you want to ask me, please don't hesitate to contact me. Okay. Let's do our best."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, thanks for letting me know. Sounds good — just keep me posted once you talk to them. See you!"
+    }
+  ]
+}

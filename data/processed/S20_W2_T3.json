@@ -1,0 +1,160 @@
+{
+  "student_id": 20,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S20_W2_T3",
+  "source_file": "data\\raw\\#20\\#20\\#20. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Please do not apologize for every question. Sometimes you have to say no."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Got it — I’ll keep things natural and confident, not over-apologizing. Would you like to start a roleplay scenario now?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "you are a real estate agen"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sure! Are you looking to rent or buy a property?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Hi, I was walking along the street and I saw a scene with a possibility for an expression in your house. Can you have some more additional details?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely! We do have some properties available for expansion. Could you let me know what type of property you’re interested in and what kind of expansion you have in mind?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“yes in George street.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it! The property on George Street. Could you share what kind of expansion you're considering, like adding more rooms, or perhaps renovating certain areas?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Can you please talk about the house?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course! We have a few different options available. Are you looking for something residential, commercial, or maybe a mix of both?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I'm just a student and I'm searching a room to sleep, maybe with a kitchen, some additional details, something like this.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! So, you're looking for a room to rent, ideally with a kitchen area. Do you have any preferences for the location or your budget range?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“No, I tell you which one I saw.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Just let me know the location or the specific property you had in mind, and we can dive into the details from there."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yeah, but I told to you the first, my sentence was I saw a house in Jarlstreet.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Ah, I see what you mean! Thanks for clarifying. In that case, can you let me know the exact address or any more details about the house you saw, so I can give you the right info?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“there is just one in Geroge street.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "No worries at all! We can definitely explore some options. Would you like to share any preferences about the type of neighborhood or the features you’re looking for in the house?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“tell me about the hause.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely! The house on George Street is a charming, recently renovated property with a modern kitchen and spacious living areas. It also has a cozy bedroom and some extra storage space. If there's anything specific you’d like to know, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“And how much for a week?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Great question! The weekly rent typically depends on the exact size and features of the property. Would you like me to give you an estimate based on the general range, or do you have any specific details in mind?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“So, you have a property in JavaScript that you don't know how it's big and how it's cost.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That's right, I can definitely provide a general idea, but the exact details can vary. If you have any particular preferences or if you can share any more specifics, I can give you a more accurate estimate."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I'm calling you for no information about the house, and you cannot give me information about the house?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "I understand, and I appreciate your patience. If you have any specific questions or details you can share, I’ll do my best to help. Otherwise, I'm happy to assist in any other way you need."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Oh, sorry, but I decided to move to another company because you cannot talk to me about your house, so I cannot understand if you are good or not, and I don't want to stay here for nothing. Sorry, but you have to discover more things about your house and about your job.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I completely understand, and I appreciate your honesty. If there's anything I can do in the future, or if you have any other questions, definitely let me know. Best of luck with your search, and thank you for your time."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Now, bye.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Alright, take care! If you ever need anything in the future, just reach out. Bye for now!"
+    }
+  ]
+}

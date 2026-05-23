@@ -1,0 +1,304 @@
+[Week 2] 
+Task 1: Visiting a Medical Clinic
+
+나의 말:
+“Hello.”
+00:00
+Sure! Hey there. Sounds like you might have something in mind. Just let me know what you need help with and I’ll jump right into character.
+
+나의 말:
+“uh okay is there the skin medical center right?”
+00:05
+Absolutely! So, welcome to the medical center. What brings you in to see the doctor today?
+
+나의 말:
+“Yes, and I'd like to make an appointment to see a doctor”
+00:04
+Alright, no problem. So go
+
+나의 말:
+“Oh, sorry. Oh, sorry, sorry. Okay, can I say back again?”
+00:05
+Of course! No worries at all. Just take your time and go ahead and tell me what's been bothering you today.
+
+나의 말:
+“Yes, hi, I'd like to make an appointment to see a doctor.”
+00:06
+Sure thing! So let's start with the basics: do you have any particular day or time in mind for that appointment?
+
+나의 말:
+“Oh, can you say that again slowly?”
+00:02
+Absolutely, I can slow it down a bit. So, let's just start simple: do you have a certain day or time that you'd prefer for your appointment?
+
+
+나의 말:
+“Is it okay any day?”
+00:02
+Sure, any day works just fine. We'll find something that fits you in. Now, do you have any specific concerns or symptoms you want the doctor to know about?
+
+나의 말:
+“Yes, I have allergy to cat and I have a cold and tickles in skin and eyes.”
+00:16
+Alright, that’s helpful to know. So you've got some allergies and some issues with your skin and your eyes. We'll definitely note that down. Now, just to make sure, do you have a preferred doctor here, or is anyone okay for you?
+
+나의 말:
+“Is it anyone okay for... me?”
+00:02
+Sure, anyone is totally fine. We'll just book you in with the next available doctor. So last thing, does morning or afternoon work better for you?
+
+
+나의 말:
+“I will go to English school in the morning, so I'd like to make an appointment in the afternoon.”
+00:09
+Got it! Afternoon it is then. We'll set you up with an afternoon slot that works for you. Now, anything else you want to mention before we confirm that appointment time?
+
+나의 말:
+텍스트 기록 사용할 수 없음
+00:00
+Alright, perfect! We'll get that afternoon appointment all set for you. If you need anything else, just let us know. Thanks for booking!
+
+나의 말:
+“You have to say that appointment days or time.”
+00:07
+Sure, absolutely! So let me say it clearly: your appointment will be scheduled for an afternoon slot. Let's say tomorrow at 2 PM, for example. And if that works for you, we'll lock it in.
+
+
+나의 말:
+“I'll see you tomorrow at 2pm.”
+00:01
+Exactly, you've got it. Tomorrow at 2 PM it is. We'll have everything ready for you then. Anything else you need in the meantime?
+
+나의 말:
+“Oh yes, is it okay, but if I don't have an appointment, how long is the current wait that day?”
+00:09
+Sure! So if you just walk in without an appointment, usually the wait might be around 30 minutes to an hour depending on how busy we are. So it’s definitely a bit more flexible if you have a booking. Let me know if that helps!
+
+나의 말:
+“Okay, I'd like to make an appointment at 2 p.m. on tomorrow.”
+00:11
+Perfect, we'll lock that in for you at 2 PM tomorrow then. You're all set. If you have any other questions, just let us know.
+
+나의 말:
+“Is it okay if I come in 10 minutes early?”
+00:04
+Absolutely, that's no problem at all. Feel free to come in 10 minutes early, and we'll be ready for you.
+
+나의 말:
+“Yes, and is there a cancellation fee?”
+00:04
+Sure! So just so you know, there's no cancellation fee as long as you let us know a little in advance. We just appreciate the heads-up. Anything else you're curious about?
+
+나의 말:
+“Yes, and I'd like to confirm my appointment for tomorrow.”
+00:09
+Sure, absolutely! Consider it confirmed. Your appointment is all set for tomorrow at 2 PM, and we’ll see you then. Anything else on your mind?
+
+나의 말:
+“Yes, and can I make an appointment for someone else?”
+00:03
+Of course! You can absolutely make an appointment for someone else. Just let me know their name and any details we need, and we’ll get them booked in as well.
+
+나의 말:
+“Yes, her name is Diana, but I don't know that her symptom.”
+00:08
+Alright, got it! We’ll set up an appointment for Diana as well. It's totally fine if you don't know her symptoms right now. We'll just book her in and she can explain when she
+
+나의 말:
+“Yes. I don't know.”
+00:03
+Sure, no worries at all. We'll just get Diana an appointment and she can fill in the details when she comes in. So, let me know if there's a day and time that works for her, and we'll sort that out.
+
+나의 말:
+“And do I need to bring the medical card? My medical card?”
+00:09
+Sure! Yeah, it's definitely a good idea to bring your medical card if you have one, just so we can have all your details on file. But if you forget it, it's not a big deal. Anything else on your mind?
+
+나의 말:
+“Yes, I'm a foreigner, so do I need to bring my passport?”
+00:08
+Sure! As a foreigner, it's always helpful to bring your passport or some form of ID, just so we can verify your details. But other than that, you should be all set, and we'll take care of you.
+
+나의 말:
+“And I just needed to repeat pre-inception.”
+00:05
+Absolutely, that's no problem at all. If you just need a prescription refilled, we can handle that when you come in. We'll see you at your appointment, and we'll get everything sorted out for you.
+
+나의 말:
+“I have to ask for some documents for insurance.”
+00:10
+Of course! No problem at all. If you need any documents for insurance, just let us know when you come in, and we'll get that sorted out for you. We’ll make sure you have everything you need.
+
+나의 말:
+“Yes, but getting a document is free.”
+00:04
+Absolutely, yes. Getting that document for your insurance is completely free. We won't charge you anything extra for that. So you're all good to go, and we'll have it ready for you.
+
+나의 말:
+“Okay, thank you so much. I will see you at 2 p.m. on tomorrow.”
+00:07
+Goodbye! Thanks for stopping by and have a great day.
+
+나의 말:
+“Goodbye.”
+00:00
+
+
+TASK 2: BANK 
+나의 말:
+“Hello, is there a Common wealth bank?”
+00:03
+Absolutely! Looking for a bank around here, got it. So, is there a particular type of service you're hoping to get from the bank, like opening an account or something else?
+
+나의 말:
+“Yes, I have a problem with my account.”
+00:06
+Alright, got it. So you've got an account issue. What exactly seems to be the problem with your account?
+
+나의 말:
+“Before, when I put my PIN number in ATM, but my PIN number was wrong, so after, I couldn't use my check card.”
+00:17
+Sure, I understand. So it sounds like maybe your card got locked because of the wrong PIN attempts. Let me ask: do you remember how many times you might have tried that PIN, or is it just once or twice?
+
+나의 말:
+“I'm not sure, but I tried it maybe over three times.”
+00:09
+Alright, that makes sense. Yeah, if it was over three times, it probably triggered a security lock. So the next step is we’ll just need to verify your identity at the bank. Could you tell me if you have any ID with you today?
+
+나의 말:
+“Yes.”
+00:00
+Perfect. That definitely helps.
+
+나의 말:
+“Sorry, can you say that again?”
+00:01
+Of course! So, I was just saying that it's great you have your ID with you. Now, do you happen to know which branch of the bank you opened your account at, or would you like me to help you find that?
+
+나의 말:
+“You said I have to go.”
+00:03
+Absolutely, I’ll just repeat that for you.
+Exactly, yes. So basically, you’d just need to come in person with your ID. Now, do you already know which branch is closest to you, or do you need a hand finding it?
+
+00:01
+나의 말:
+“Okay, and I don't have an ID because I'm a foreigner, so I have to, will I bring my passport?”
+00:10
+Sure, that works perfectly. Your passport is totally fine as ID. So just bring that along. Now, do you need any directions to the nearest branch, or are you all set on that?
+
+나의 말:
+“I have one more question.”
+00:03
+Of course! Go right ahead. What's your next question?
+
+나의 말:
+“If I go a bank, how long current wait?”
+00:08
+Sure! So typically, it might just take about 10 or 15 minutes to sort out at the bank if it’s not too busy. Now, is there a particular time you’re planning to head there, or do you need any advice on that?
+
+나의 말:
+“OK.”
+00:00
+All right! So whenever
+
+나의 말:
+“Can I, I do like to make an appointment at that bank, is it possible?”
+00:09
+Absolutely, you can do that. We can definitely set up an appointment for you. So let me just ask, what day and time would you like to book that?
+
+나의 말:
+“Today 2 p.m.”
+00:01
+Sure, today at 2 p.m. works just fine. I'll note that down for you. And is there anything else you need before we wrap this up?
+
+나의 말:
+“Thank you. See you that day.”
+00:02
+All right, perfect! I'll see you then. Take care and have a great day!
+
+나의 말:
+“Okay, thank you.”
+00:02
+You're very welcome! Thanks for dropping by, and have a great one.
+
+나의 말:
+“Please thank you for helping me.”
+00:01
+Of course! Happy to help. Thanks for chatting, and take care!
+
+
+3) Housing Inspection
+
+Hi there! What can I help you with today?
+나의 말:
+“Yes, and are you a house owner, right? I saw the share house in Hojunara.”
+00:15
+
+Absolutely! So you're interested in a share house in Hojnara. Are you looking to rent a room for yourself or for someone else?
+나의 말:
+“Yes, I'm looking for a single room and I'm interested in the one bedroom unit on the town hall.”
+00:12
+
+Got it! So you're after a single room in that one-bedroom townhouse. Now, can you let me know when you'd ideally like to move in?
+나의 말:
+“Two weeks, after two weeks.”
+00:02
+
+Sure, that’s pretty soon. So in about two weeks’ time. And do you have any particular budget range in mind for the rent?
+나의 말:
+“Oh, sorry. Can you say back again?”
+00:02
+
+Of course! So you're looking to move in in about two weeks. Now let's talk budget. Do you have a certain price range you’re aiming for?
+나의 말:
+“have ranges? What do you mean?”
+
+Sure! I just mean how much you'd like to spend on rent each month. So what's the monthly budget you're comfortable with?
+00:02
+나의 말:
+“I saw that the room in share house is $300 in a week.”
+00:10
+
+Alright, that makes sense. So you're looking at around three hundred dollars a week. Now, do you have any preferences about your housemates or anything else in the house?
+나의 말:
+“Yes.”
+00:00
+
+Sure thing! So just let me know if you have any particular preferences about who you’d like to live with or any other details you'd like us to consider.
+나의 말:
+“Yes, and are there any expansion time? Can I go to Inspection?”
+00:07
+
+Absolutely! We can definitely arrange a time for you to come and inspect the place. When would be a good day or time for you to drop by and take a look?
+나의 말:
+“Are there any inspection times this weekend?”
+00:03
+
+Sure! So we do have a couple of inspection slots this weekend. Would Saturday afternoon or Sunday morning work better for you?
+나의 말:
+“I prefer to see the Saturday afternoon.”
+00:05
+
+Alright, Saturday afternoon it is! I'll pencil you in for that. And if you have any other questions, just let me know.
+나의 말:
+“For how much is the bond?”
+00:01
+
+Sure! So the bond is usually about four weeks' rent, so you'd be looking at roughly twelve hundred dollars. Does that sound all right to you?
+나의 말:
+“Okay, is there any furniture, or I have to buy this?”
+00:06
+
+Yep, good question! The room does come furnished with the basics, like a bed and a desk, so you won't need to buy those. Is there anything else you're wondering about the furnishings?
+나의 말:
+“Is there any washing machine?”
+00:03
+Absolutely! Yes, there's a washing machine in the house, and the kitchen does have an induction cooktop as well. Anything else you'd like to know about the amenities?
+나의 말:
+“Okay, if I have a question, I will ask you on inspection day.”
+00:06
+Sure, absolutely! Feel free to ask me anything when you come by for the inspection. I'm happy to help then.
+나의 말:
+“Thank you so much. Bye-bye.”
+00:01

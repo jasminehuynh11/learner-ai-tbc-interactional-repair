@@ -1,0 +1,195 @@
+{
+  "student_id": 33,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S33_W3_T2",
+  "source_file": "data\\raw\\#33\\#33\\#33. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’m calling because there’s a problem in my apartment, and I’m not sure what to do."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That’s okay, I can help. What seems to be the issue?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "The heater in my bedroom is not working properly."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Can you tell me what exactly is happening with it?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "It turns on, like the light is on, but there’s no warm air coming out."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright. When did you first notice this problem?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Last night. It was quite cold, so I tried several times."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Have you adjusted the thermostat?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Thermostat… sorry, can you explain what that is?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "The temperature control on the wall."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Ah okay. Yes, I changed the number higher, but nothing changed."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Did you hear any unusual noise from the heater?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "No noise. Just silence, which feels wrong."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That does sound like it needs checking. We can organise a technician."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Is it possible for someone to come today?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "It’s unlikely today, but tomorrow morning is possible."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Tomorrow is okay. I just wanted to check because the room is very cold at night."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I understand. Is the heater in other rooms working?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Actually, living room heater works fine. Only bedroom one is not working."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That’s useful information."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Okay. Do I need to stay home when the technician comes?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, or you can leave a key with reception."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "I think I’ll stay home. But can they call before coming?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, I can request that."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Please do, because sometimes I’m in the shower and don’t hear knock."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "No problem. I’ll note that."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "One more question, sorry."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That’s fine."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "If the heater is broken, do I have to pay for repair?"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "No, heating is the landlord’s responsibility."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Okay, good. I was worried about extra cost."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You don’t need to worry about that."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Alright. So tomorrow morning, technician comes, they call before, and I stay home."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That’s correct."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Thank you very much. Winter here is harder than I expected."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "I understand. We’ll get it sorted as soon as possible."
+    }
+  ]
+}

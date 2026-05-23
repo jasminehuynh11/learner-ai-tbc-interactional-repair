@@ -1,0 +1,95 @@
+{
+  "student_id": 38,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S38_W1_T2",
+  "source_file": "data\\raw\\#38\\#38\\#38. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a restaurant table :"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Good afternoon. I would like to make a reservation for tomorrow night, please.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help with that! Could you let me know what time you'd like to reserve and how many people will be in your party?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Of course. So I would like to book a table for two people, only me and my partner. It's for an anniversary.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That sounds wonderful! Congratulations on your anniversary. Could you let me know what time tomorrow night you'd prefer, and any special requests you might have?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“is 7 p.m. okay for you?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Yes, 7 PM works perfectly! I’ll reserve a table for two at that time. If there's anything special you'd like us to prepare for your anniversary, just let me know!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, so on the site I saw that you had a really beautiful view and I would like to get a special table over there, if possible, as it is on the seaside of the restaurant.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make a note to reserve a table with that lovely seaside view for you. That sounds like a perfect setting for your anniversary. If there's anything else you'd like to add or any special requests, just let me know!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, please. I would like to pre-order a cake, a strawberry cake, and a chocolate cake, just small one, because we have a different taste, so it would be easier for us to, you know. So, the chocolate one, is it possible to make it less sweet and less heavy on the taste? And for the strawberry, is it possible to do a sponge cake with a strawberry and cream?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That sounds absolutely lovely! I’ll make sure to arrange a small strawberry sponge cake with cream and also a lighter, less sweet chocolate cake. That way, you’ll have the best of both worlds! If there’s anything else you need, just let me know."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I wanted to know, is it possible to book the entire seaside of where we will be seated? Because anything, well actually, anything that is more romantic and really a quieter place would be good. But still on the seaside of the restaurant, of course.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to book you a spot on the seaside with a romantic and quiet atmosphere. I’ll do my best to make it really special for your anniversary. If there’s anything else at all, just let me know!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“That would be all, thank you”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "No worries at all! Just let me know whenever you’re ready, and I’ll be here to assist. If you have any other requests or questions, just let me know!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Everything is good. Thank you very much. I'll see you tomorrow night.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m looking forward to it. Have a wonderful day, and I’ll see you tomorrow night. Take care!"
+    }
+  ]
+}

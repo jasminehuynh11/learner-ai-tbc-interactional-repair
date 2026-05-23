@@ -1,0 +1,310 @@
+{
+  "student_id": 36,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S36_W2_T2",
+  "source_file": "data\\raw\\#36\\#36\\#36. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi! I want practice how to buy/rent house in New South Wales. You - real estate agent from \"Noah Real Deal\", who always recommend to buy houses in city, that placed near Sydney (Kiama, Newcastle) and doesnt like to sell new houses in Sydney CBD. I am a customer, who wants to buy new house with now money down and wants to live in dead end house with view on forest. Try to help me and offer expedient bargain. I will start first in next message."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Got it! I’m ready when you send your first message to start the roleplay."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hello, it's a real estate agency.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Hello! Great to meet you. I’m here to help you find the perfect home. To get started, are you looking to buy or rent?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I want to buy a house in Newcastle, maybe in Kiama, and I prefer a place in New South Wales, near the ocean, but I”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That sounds wonderful!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Don't have money for down payment. Vote UFL for me.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I understand. Well, we can definitely explore some flexible financing options. Are you open to properties in the suburbs of Newcastle or Kiama that might offer more affordable options?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Please say me more about this and what price now always for this type of houses in New South Wales.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! In Newcastle and Kiama, you’ll find a range of prices, but generally, homes near the ocean and with a forest view tend to be more affordable than those in Sydney CBD. Typically, you might see prices ranging from around $500,000 to $800,000, depending on the specifics. Would you like to know about any particular area or property features?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Thank you for your information, what's your name?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "You can call me Noah! I’m here to help you every step of the way. Is there any specific feature or requirement you’d like in your future home?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Nice to meet you. I want buy a house with four bedrooms and two water closet. My family include me and my wife and two children.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect, that gives me"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Now I won't buy a new house because previously we rent house in CBD in Sydney because I work near”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I see, that makes"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“But now I won't left this place and go to small town near Sydney.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Got it, that sounds"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Please, say me more about it.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course! We can definitely explore some charming small towns near Sydney, like Kiama or Newcastle, and find a home that suits your family’s needs. Would you like to focus on any particular amenities or features in the new area?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yes, I want to live not in ghetto, and...”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, that makes"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I prefer that my house have a balcony and we can use it with my wife for view on forest.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That sounds lovely! We’ll definitely look for homes that have a balcony and a beautiful forest view for you and your wife. Anything else that’s important to you in terms of location or features?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yes, how I asked before, I prefer house in dead end because I don't like noisy sounds from cars and what lived in calm place without different sound and I don't want hear cars on another public transport.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense. We’ll focus on properties located on quiet cul-de-sacs or dead-end streets to ensure you get that peaceful environment. Anything else you’d like to add to your wish list for your new home?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, fine. I'm thinking sometimes about it. For example, I want to have a place for our car, and maybe I want to live near a big mall, because for me, we always need to go to shop and buy products, and buy other things for our big family. And for me, it's more helpful if our house is placed near the mall. And I mean, for me, it's very important that I don't have noisy nine boards, and this house doesn't be run down. I want a new house with a new...”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, that all"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“new buildings. Yes, what you can offer at me.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Got it! I’ll make sure to find you a new, well-maintained home with a garage for two cars, close to a big mall, and in a peaceful location without any noise. I’ll get started on that and keep you updated with some great options!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I'm waiting. Please come back after five seconds.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Of course! I'll gather some great options for you and be right back shortly. Feel free to let me know if you have any other preferences in the meantime!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Please give me three offers what can help me now more about various off-house.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll put together three great options for you, each with those key features you mentioned. I’ll get back to you in just a moment with the details!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“I am waiting.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "All right, I’m on it! I’ll gather those options and be back with you in just a few seconds. Thanks for your patience!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Five seconds left. Can you come back now and say me more about options what you have?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely! So, I’ve found three great options for you. The first one is a beautiful four-bedroom home in Kiama, with a spacious balcony and a garage for two cars, located near a shopping center and in a quiet cul-de-sac. The second option is in Newcastle, featuring a modern design, close to a large mall, and tucked away in a serene neighborhood. And the third option is another lovely home in a smaller town near Sydney, also with all the features you’re looking for. Let me know which one interests you the most!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Can you tell me more about price for utilities? What price more in Kiama or Newcastle? And for me, I need understanding what schools I have near my house because to my children go to the school next year and I need have”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely, I can"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“School for them.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Perfect, I’ll provide detailed information on the pricing for utilities and the overall costs in both Kiama and Newcastle, as well as information on nearby schools for your children. I’ll make sure you have a clear understanding of all those details!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“What information you found?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Sure! So, in Kiama, the utility costs tend to be a bit higher due to the coastal location, but the property prices are generally slightly lower compared to Newcastle. On the other hand, Newcastle offers a wider range of options and can sometimes be more affordable in terms of utilities. As for schools, both areas have excellent educational facilities. Kiama has some top-rated local schools, and Newcastle also offers a variety of well-regarded options. I can provide more specific details on each school if you'd like!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Oh yes, I need more information about school, and I prefer Newcastle because I like this place, and if this place have more...”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely, that makes"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“school or more offers, I try to choose something at this place.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "That sounds great! I’ll definitely focus on Newcastle and provide you with detailed information about the top schools in the area, along with more property options. I’ll make sure we find the perfect fit for you and your family!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Yes, I agree. Can you say to me more information about price range in this place? And send me one message with information about schools in this place.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Of course! In Newcastle, the price range for a four-bedroom home generally varies from around $600,000 to $900,000, depending on the location and the features. And I’ll also put together a detailed overview of the top schools in Newcastle, so you’ll have everything you need in one message. I’ll get that ready for you shortly!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“All links will be in the description of this video.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely, I understand."
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“I can buy a house cheaper near Newcastle.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Of course, we can definitely look at more budget-friendly options around Newcastle. I’ll find some homes that are more affordable and still meet your needs. Just let me know any additional preferences, and I’ll make sure we find the right fit for you."
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“For me very important what price for this house not been more than 500 $1,000 because I cannot pay more in this moment and if Talking about another preference for me very important What is this place? Being near forest and how I told before I need have a view on a forest maybe on on hills and just can breathe”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to focus on options that are under $500,000 and"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "Okey, thank you for your information. Send me options, what you have on my e-mail and i come back tomorrow after my thinking about choose"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Sure! I’ll prepare those options for you. Thanks for your time, and I’ll be here whenever you come back tomorrow. Have a great day!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "Thank you bye!"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Thanks, take care! Bye!"
+    }
+  ]
+}

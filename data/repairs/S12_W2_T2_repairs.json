@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S12_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      23,
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner hesitates and produces an incomplete utterance in turn 23, signaling trouble in formulating their thought. The bot offers a supportive response in turn 24, and the learner successfully completes their question in turn 25, resolving the initial trouble."
+  }
+]

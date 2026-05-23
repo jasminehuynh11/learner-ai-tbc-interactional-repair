@@ -1,0 +1,200 @@
+{
+  "student_id": 33,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S33_W2_T2",
+  "source_file": "data\\raw\\#33\\#33\\#33. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Enquiring About a Rental Property or Housing Inspection"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’m calling about an apartment I saw online. I just want to ask some questions because I’m not very familiar with rental process in Australia."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure, that’s no problem at all. Which property are you enquiring about?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "It’s a one-bedroom apartment near Central Station. I think it was posted maybe yesterday or two days ago."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Okay, I can see that listing. Are you calling about inspection times or the application process?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Inspection first. Because I don’t want to apply before I see inside."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That makes sense. We have an inspection scheduled this Saturday at 11am."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Saturday 11am… Sorry, is that fixed time, or can I come earlier or later?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "The inspection runs for about 30 minutes, so you can arrive anytime between 11 and ."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Ah okay. So not exactly 11, but within that time."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Exactly."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Okay, good. Last time I went too late and missed it, so I wanted to confirm."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That’s understandable. You’ll also need to register online before attending."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Register… Do you mean like make an account?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Not a full account, just your name and email address."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Okay, that’s simple. And after register, I get email?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yes, you’ll receive a confirmation email."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Okay. Another question, sorry."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That’s fine, go ahead."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Is the apartment furnished or unfurnished? Because photos sometimes confusing."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "It’s unfurnished."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Unfurnished meaning no bed, no fridge, no washing machine?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "There’s no furniture, but the kitchen appliances are included."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Ah, okay. So fridge yes, but bed no."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "That’s right."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Good, thanks for clarifying. And about bond, how much is it?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "The bond is four weeks’ rent."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Four weeks… Rent is 520 per week, so bond is… Sorry, I need a moment."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That would be 2,080 dollars."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Ah okay. Yes, now it’s clear."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Do you have any other questions?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Yes, one more. I’m international student and I don’t have rental history in Australia. Is that a big disadvantage?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Not necessarily. Many students apply without rental history."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Okay, that’s good to hear. I was worried about that."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You can include proof of income or a guarantor if needed."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Guarantor meaning someone responsible if I don’t pay?"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Yes, exactly."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Okay, I understand now. Thank you for explaining everything."
+    }
+  ]
+}

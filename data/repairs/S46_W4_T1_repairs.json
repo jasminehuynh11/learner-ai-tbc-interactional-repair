@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S46_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand question",
+    "evidence_summary": "The learner asks the bot to repeat the question, indicating they did not understand it. The bot repeats the question, and the learner then provides a relevant response, indicating the issue was resolved."
+  }
+]

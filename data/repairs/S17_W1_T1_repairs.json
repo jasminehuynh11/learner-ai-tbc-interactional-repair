@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S17_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      26,
+      27
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner says 'convalescent' in turn 26, which is likely a mispronunciation or misrecognition of 'croissant'. The bot implicitly repairs this by interpreting it as 'croissant' in turn 27, and the conversation continues smoothly, indicating successful understanding."
+  }
+]

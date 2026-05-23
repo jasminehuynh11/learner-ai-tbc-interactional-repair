@@ -1,0 +1,15 @@
+{
+  "student_id": 33,
+  "week": 1,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S33_W1_T1",
+  "source_file": "data\\raw\\#33\\#33\\#33. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "ME, English Conversational Partner said: ChAtGPT"
+    }
+  ]
+}

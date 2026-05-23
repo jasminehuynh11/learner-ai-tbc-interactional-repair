@@ -1,0 +1,140 @@
+{
+  "student_id": 8,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S8_W3_T1",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hi there! So, what can I help you with today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Actually, my internet has not been working, so could you help me?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! Let's sort that out. So, can you tell me a bit about what exactly is going on with your connection right now?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Probably, two minutes ago, the noise was caused, and then the networking is not working.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it! Sounds like maybe something disrupted your connection a couple of minutes ago. So, have you already tried restarting your router, or is that something you’d like to do next?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, I tried to restart, but the generator is not working, so probably the problem is outlet.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, I see. So it might actually be a power issue with the outlet itself. In that case, have you noticed any other devices having trouble with that same outlet, or is it just your router that's plugged in there?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“So, how do I fix this outlet?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure! Well, typically if it's an outlet issue, you'd want to check if there's maybe a tripped circuit breaker or if you can try a different outlet first. So have you had a chance to plug the"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Notice.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely! Trying another"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright! So go ahead and give that a shot. Just let me know if plugging it into a different outlet gets things working again, and we'll figure it out from there."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“OK, I will try it. I have a question. What should I prepare to fix my address?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure! So if you're going to look at the outlet itself, it's good to have maybe a screwdriver handy and definitely make sure the power is off before you do anything. So does that sound doable for you?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“All right, so what should I concern? Actually, I'm anxious to fix that because I don't have any Agible to fix my... to fix electric things.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Of course! So if you're feeling anxious about it, that’s totally understandable. In that case, it might be best to get someone who’s a bit more comfortable with electrical stuff to help you out, or maybe a professional. So would you like some advice on how to find someone like that?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, I'm interested in it, but how much is it?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure! Usually getting an electrician to take a quick look can vary in cost, but it's often not too pricey for a simple fix. So you could just call a local electrician and ask for a rough estimate. Does that sound like a plan?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Great! So go ahead and give that a try, and if you need anything else, just let me know. What else would you like to ask about?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yes. I'll try it.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Alright, sounds good! Well, go ahead and give it a shot and just let me know how it goes. And of course, if anything else comes up, just ask."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Thank you"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You're very welcome! Glad I could help a bit. Take care and see you next time!"
+    }
+  ]
+}

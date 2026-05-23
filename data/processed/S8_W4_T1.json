@@ -1,0 +1,250 @@
+{
+  "student_id": 8,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S8_W4_T1",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hello.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hey there! So, it sounds like we're just having a regular everyday chat. What’s on your mind today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Today, I'd like to decide my career.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a big topic! So, let’s figure it out together. What kind of career are you leaning towards or interested in exploring?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I have a degree in Economics.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it! Since you"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“But actually, I'm not keen on economics.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, that’s totally understandable. So let’s think outside the economics box. What kind of things do you actually enjoy doing or feel passionate about?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure, so let's dive into that a"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely! So,"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure, no worries at"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Not practical for me.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, I get that. So let's think about something a bit more practical for you. What kind of work environment or daily tasks do you think you'd enjoy?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yes, I have some friends who work at IT company.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Okay, that’s a good lead. So maybe we can explore something in the IT or tech world. What kind of roles in IT are you curious about or have you heard about from your friend?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, I would like to IT company, especially in like 3D modulator, other 3D modulator.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "All right, that sounds pretty cool! So you're interested in something like being a 3D modeler in an IT company. What kind of projects or industries would you love to work on—like gaming, animation, or something else?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Actually, I don't decide that.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure, that's totally fine. We can keep it open-ended. So let's say you're just exploring the idea of 3D modeling in general. What kind of tools or skills do you think you'd want to learn to get started with that?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I think I have to study Blender.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, Blender's a great choice and a really popular tool. So it sounds like that's a good starting point for you. Now, is there anything else you feel you need to figure out before diving into that, or are you feeling pretty good about that direction?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“実は、私はブレンダーを高校で勉強しました。”( Actually, when I was highshool student, I studied Blender.)"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Got it! So you"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“But I don't forget that.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "All right, that makes sense. So you just need a bit of a refresher. Maybe you can start by revisiting some basic Blender tutorials to get back into the groove. What do you think—does that sound like a good next step for you?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Do you have something, a recommendation to render?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sure! I'd say a great recommendation is to start with Blender's official tutorials or something like Blender Guru on YouTube. They have a lot of beginner-friendly content that will get you back on track. So how about you check one of those out and see if it feels comfortable to you?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“and Harvard Studying.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a solid plan. So you can start by diving into those tutorials and just practicing a bit each day. Once you get comfortable, you can think about specific projects or areas you want to focus on. So is there any other resource or tip you feel you need before you jump in?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Sorry, I'm away from the desk.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course, no problem at all! It sounds like you've got a good direction now. If you have any more questions along the way, just let me know."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“How about studying Python?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure! If you're thinking about studying Python as well, that's a great complementary skill, especially in IT or even alongside something like 3D work. So what kind of projects or uses do you have in mind for Python?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“I'd like to make an avatar, a 3D avatar.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "All right, that sounds like a fun goal! Using Python to maybe automate some 3D tasks or create tools for your 3D art is a great idea. So I'd say start with some beginner Python courses and then you can tie it into your Blender work over time. Is there anything else you want to know before you dive in?"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“How about study... Wait, wait, wait... Unity.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely, Unity is another great choice if you want to get into 3D modeling for games or interactive media. So if you're leaning that way, you could definitely start looking at some Unity tutorials as well. How about you just pick one of these areas to focus on first, and then you can add more as you go along?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“この3つのソフトフォーミュレートがシンセサイザーを作成するのは良いアイデアです。” (I think that is good idea to formulate these three softs to make synthesis.)"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely, I think that's a great idea. Combining those three—Blender for modeling, Python for scripting, and Unity for bringing things to life—can really open up a lot of possibilities for you. So yeah, just take it step by step, and you’ll be on a good path. Anything else you’re curious about before we wrap up?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“So, how do I face my economics?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Sure, so to handle your economics background, I'd say you can just treat it as a bonus skill set that can come in handy down the road. It’s always useful to have that knowledge, even if you're shifting to a more creative or technical field. So just keep it in your back pocket and focus on what excites you right now. Anything else on your mind?"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“like when I invest in something in the future.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely, that's a great way to look at it. Your economics background can definitely help you out if you decide to invest or manage finances in the future. So it's a nice built-in advantage. All right, if there's nothing else pressing, just let me know."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Thanks.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you need anything else in the future, just let me know. Take care!"
+    }
+  ]
+}

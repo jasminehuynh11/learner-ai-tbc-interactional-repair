@@ -1,0 +1,50 @@
+[
+  {
+    "dialogue_id": "S7_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner says 'Banana Blade' in turn 6, which is likely a mispronunciation or misrecognition of 'banana bread'. The bot clarifies by asking if the learner meant 'banana bread' in turn 7, and provides a description, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S7_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand 'cold brew'",
+    "evidence_summary": "The learner expresses confusion about 'Code Blue' in turn 12, which is a misunderstanding of 'cold brew'. The bot explains what 'cold brew' is in turn 13, resolving the learner's confusion."
+  },
+  {
+    "dialogue_id": "S7_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      26,
+      27
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner unsure about their order",
+    "evidence_summary": "The learner asks to check what they ordered in turn 26, indicating uncertainty. The bot repeats the order in turn 27, confirming the details and resolving the learner's uncertainty."
+  },
+  {
+    "dialogue_id": "S7_W1_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      82,
+      83
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand 'savory'",
+    "evidence_summary": "The learner asks for the meaning of 'savory' in turn 82, indicating a lack of understanding. The bot provides a clear explanation in turn 83, resolving the learner's confusion."
+  }
+]

@@ -29,15 +29,10 @@ The pipeline code is split into several modules, each with a specific purpose:
    - Handles configuration and file organization
    - Main function: run_pipeline()
 
-4. scripts/repair_detector.py
-   - Detects repair sequences using Google Gemini API
+4. scripts/repair_detector_gpt.py
+   - Detects repair sequences using OpenAI GPT-4o
    - Implements the repair detection codebook framework
-   - Main functions: detect_repairs(), validate_repair_annotation()
-
-5. scripts/repair_detector_gpt.py
-   - Alternative repair detection using OpenAI GPT-4 Turbo
-   - Provides higher-quality detection for complex cases
-   - Main functions: detect_repairs_gpt(), get_openai_client()
+   - Main functions: detect_repairs_gpt(), validate_repair_annotation(), save_repair_annotations()
 
 6. generate_all_repairs_json.py (root directory)
    - Consolidates all repair data into a single JSON file
@@ -56,8 +51,7 @@ WHERE TO FIND FUNCTIONALITY:
 - Text extraction: scripts/document_extractor.py
 - Dialogue parsing: scripts/dialogue_parser.py
 - Full preprocessing workflow: scripts/preprocessing_pipeline.py
-- Repair detection (Gemini): scripts/repair_detector.py
-- Repair detection (GPT): scripts/repair_detector_gpt.py
+- Repair detection: scripts/repair_detector_gpt.py
 - Data consolidation: generate_all_repairs_json.py
 
 This main file (run_full_pipeline.py) imports and orchestrates all these modules
@@ -96,8 +90,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 
 from path_utils import get_data_root
 from preprocessing_pipeline import run_pipeline as run_preprocessing
-from repair_detector_gpt import detect_repairs_gpt, get_openai_client
-from repair_detector import save_repair_annotations, validate_repair_annotation
+from repair_detector_gpt import detect_repairs_gpt, get_openai_client, save_repair_annotations, validate_repair_annotation
 from openai import OpenAI
 
 # Import consolidation function

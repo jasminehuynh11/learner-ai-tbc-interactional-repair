@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S34_W1_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      16,
+      17
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's previous utterance",
+    "evidence_summary": "The learner asks the bot to repeat its previous statement in turn 16, indicating a lack of understanding. The bot repeats and clarifies its previous message in turn 17, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S34_W1_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      68,
+      69
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner confused about exchange policy confirmation",
+    "evidence_summary": "The learner expresses confusion about whether the bot confirmed with the manager regarding the exchange policy in turn 68. The bot clarifies the situation in turn 69, resolving the learner's confusion and allowing the conversation to proceed."
+  },
+  {
+    "dialogue_id": "S34_W1_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      48,
+      49
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand 'those lighter shades'",
+    "evidence_summary": "The learner asks for clarification on the phrase 'those lighter shades.' The bot provides a detailed explanation, and the conversation continues without further issues, indicating the problem was resolved."
+  }
+]

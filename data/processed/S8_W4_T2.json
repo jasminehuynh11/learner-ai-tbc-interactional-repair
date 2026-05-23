@@ -1,0 +1,120 @@
+{
+  "student_id": 8,
+  "week": 4,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S8_W4_T2",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hello, our assignment is due next week. Can we decide who will do each part?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! Let's sort that out together. So what kind of project parts do we have to split up, and what are the main tasks we need to cover?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I dare say I prefer making slides. So could you make a script?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sure, that sounds like a good plan. If you prefer doing the slides, I'm happy to take on the script part. So I'll go ahead and start drafting the script, and you can focus on putting the slides together. Does that work for you?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, it works for me.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Perfect! Then we’ve got our plan. You do the slides, I’ll handle the script, and we’ll bring it all together. Just let me know if you need any info from me, and we’ll be all set."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I forget how much time should I be giving a presentation.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure! Usually for a class presentation, something around 10 to 15 minutes is pretty standard unless they told us otherwise. So I'd aim for that. We can always adjust once we see how much material we have. Sound good?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Great! Then we’re all set. You focus on those slides, I’ll get that script ready, and we’ll keep it right around that time limit. Let me know if you need anything else!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, I made a slide.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Awesome! That’s great to hear. I’ll get started on the script then, and we’ll have everything ready to go. Just let me know if you have any questions as we go along."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Please review that slide. Do you have some questions?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure! I'd be happy to. If you want to show me the slides, I can take a look and see if I have any questions or feedback. Feel free to share them whenever you’re ready!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, tomorrow is the presentation day.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, got it! So with the presentation tomorrow, I’ll just quickly review your slides, and we’ll make sure everything’s smooth. Then we’ll be all set for tomorrow. Just send them over, and I'll take a look!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I will give a presentation about Japan side, so can you represent of New Zealand?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that. So if you're covering the Japanese slides, I'll go ahead and present all the other sections. That way we split it up nicely. Just let me know if there's any specific part you want me to focus on, and we’ll be good to go."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“And please give a presentation about our introduce. On the other hand, I will give a presentation about our in conclusion.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure! I'll handle the introduction part at the start, and then you can wrap it up with the conclusion at the end. That way we’ve got a nice, clear structure. Just let me know if there's anything else you need, and we’ll be all set for tomorrow."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, I'm happy with that.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Great! I’m really glad to hear that. Sounds like we’ve got everything lined up. We’ll do awesome tomorrow. If you need anything else, just let me know."
+    }
+  ]
+}

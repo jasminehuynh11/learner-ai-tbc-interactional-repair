@@ -1,0 +1,16 @@
+[
+  {
+    "dialogue_id": "S42_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      52,
+      53,
+      55,
+      56
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous order",
+    "evidence_summary": "The learner realizes they received the wrong type of milk in their cappuccino and corrects the order by stating they wanted oat milk instead of almond milk. The bot acknowledges the mistake and promises to fix it, and the learner expresses gratitude, indicating the issue is resolved."
+  }
+]

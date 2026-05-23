@@ -1,0 +1,63 @@
+[
+  {
+    "dialogue_id": "S9_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner's phrase 'And then we cast the outdoor setting' in turn 6 is unclear. The bot interprets this as a request for outdoor seating in turn 7, and the conversation continues smoothly, indicating successful understanding."
+  },
+  {
+    "dialogue_id": "S9_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      16,
+      17
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "vocabulary – misunderstanding of 'character' as 'cake'",
+    "evidence_summary": "The learner asks about bringing 'our own character for this elaboration' in turn 16, which the bot misinterprets as 'cake' in turn 17. The bot's response does not address the learner's original question, leaving the misunderstanding unresolved."
+  },
+  {
+    "dialogue_id": "S9_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      28,
+      29
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "vocabulary – learner asks about 'convolution'",
+    "evidence_summary": "The learner asks 'What is a convolution?' in turn 28, but the bot does not address this question and instead continues discussing dessert options in turn 29. The learner's question remains unaddressed, indicating a persistent issue."
+  },
+  {
+    "dialogue_id": "S9_W1_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      46,
+      47
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "hearing issue – learner asks for repetition due to noise",
+    "evidence_summary": "The learner indicates they heard noise and asks for repetition in turn 46. The bot repeats the information in turn 47, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S9_W1_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      48,
+      49,
+      50
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "clarification needed for 'heads-up'",
+    "evidence_summary": "The bot introduces the term 'heads-up' in turn 49, which might be unfamiliar to the learner. The learner does not explicitly express confusion but acknowledges understanding in turn 50, indicating the bot's explanation was sufficient."
+  }
+]

@@ -1,0 +1,235 @@
+{
+  "student_id": 24,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S24_W2_T2",
+  "source_file": "data\\raw\\#24\\#24\\#24. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Bank and Asking for Help with Banking Services"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "You are a bank staff member or customer service officer at a local Australian bank. I am a customer visiting the branch (or calling) to ask for help with banking services. Please act as if we are having a real, two-way conversation — not a scripted talk. Focus on interaction and understanding, not on finishing the task quickly. Wait for my answers before continuing, and respond naturally to what I say. Avoid jumping straight to confirmation (for example, don’t just repeat appointment times or account openings). Instead, ask follow-up questions, show interest, and adapt your answers based on what I say. If I sound unsure, explain things step by step, like a real professional helping a client. The conversation should last about 10 minutes, with genuine back-and-forth between the two. Your role and topics to include: Opening a new account. Ask what kind of account I’m interested in (student, savings, or everyday). Explain what documents or ID I’ll need. Offer to describe account features if I ask. Documents and verification: Ask if I already have an account with your bank. Explain proof of address, enrolment, or other requirements. Mention whether I can open an account without a job yet. Updating details: Show how to update my phone number, email, or address. Ask if I prefer doing this in person or online. Account features and fees: Describe monthly fees, debit cards, student discounts, and online access. Encourage me to ask questions about how to use those services. Technical or access issue.Help me if I forgot my online banking password or need a replacement card. Ask if I’ve ever used international transfers before and explain how to enable them. (Advanced options – include these naturally in the dialogue): Opening a joint account with a partner. Temporarily freezing an account while overseas. What to do if I sent money to the wrong account? Identity verification for large transfers. Losing a card overseas. Transfer limits and safety. How to close an account or move money to a term deposit. During the conversation: Use natural, polite questions like “Could I ask if you’ve banked with us before?”, “Would you like me to explain how the process works?”, “Do you happen to know which type of account you’d prefer?” Ask me at least five genuine follow-up questions that depend on what I said. Keep your tone polite, professional, and patient. End the conversation clearly and politely once everything feels naturally complete"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure, happy to help. Hi there — welcome to the bank. How can I help you today? Are you looking to open a new account, or did you want to chat about an existing one?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Hello! Alright, well, it’s nice to have you here. So just to get us started, could I ask if you’re looking to open a new account with us, and if so, do you know what type you might be interested in?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yes, my friends recommend your bank because they told me that you have good customer service. It's right.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, we do try to offer the best service we can, so I'm glad to hear that. Now, just to help us figure out the right fit for you, do you happen to know if you're after something like a student account, a savings account, or maybe just an everyday transaction account? Let me know what you're thinking. Thanks!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, I would like to open a new savings account.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure thing! A savings account is a great choice. Now, could I just check if you've banked with us before, or is this your first time opening any account here?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“No, I had a savings account with another bank in another country, and now I need to open my new savings account here.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Got it, thanks for letting me know. So, since it’s your first time opening one here, let me quickly explain that we’ll just need some ID and proof of address from you to get started. And by the way, do you have any questions about the documents you might need?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "All right, perfect. So yeah, typically just a passport or a driver's license and something that shows your local address will do. Now, would you like me to go over a bit about the features and fees of the savings account, or do you have something else in mind first?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“No, I need to know the features and the advantages that this bank offers to the clients because I have some money to put in my savings account, but sometimes I need to transfer some amount of money from my other bank in another country.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure, absolutely. So one nice thing is our savings account does come with no monthly fees, and you'll get a debit card for easy access. We also have a pretty straightforward way to do international transfers. But let me ask you, do you happen to have any specific questions about how those transfers work or anything else about the features?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yes, I'm interested to know if you have an app, because for me it's easier if I use an app, and this is a good option to avoid taking cash in my wallet. I prefer that the transactions be all by app. Do you offer this service?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, we do have a banking app, so that's no problem at all. You can definitely handle all your transactions right from the app, and it's a great way to avoid carrying cash. So that should work perfectly for you. Now, just to check, would you prefer to do most of these things yourself through the app once it's set up, or would you like a bit of help in person to get started?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“I want to start it now. I need the bank. I need to receive my salary from my employer. I need to open an account for this objective.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Sure, that makes total sense. So we can definitely get you set up so you can receive your salary right into the new account. And since you want to get started now, we can begin with those ID documents and get the account open today. So let me know if you have your ID handy, and we can just get that process rolling."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“I am Henry. What kind of documents do I need to open a new savings account?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Sure, so usually you'll just need something like a passport or a driver's license for ID, and then a proof of address, like a utility bill or a rental agreement. That should be enough to get your savings account open. So if you've got those, we can definitely start right now. And just let me know if you need any more details about that."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Sorry, yes, you told me that this kind of document before. Yes, I have all the documents with me to open an account now. It's possible, for example, if you have two savings accounts and all the salary goes to only one savings account. Just to know how much money I can save from my work. Is it possible this?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, that’s no problem at all. You can definitely have two savings accounts if you’d like, and you can have your salary go just into one of them and use the second one to keep track of your savings separately. So we can set that up for you. And since you’ve got all your documents, we can get that sorted out right now. So let's go ahead and do that."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yes, I have my ID, my passport, some complements about my current address, and other documents. I don't remember if you told me that any document is required for this.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Sure, that sounds perfect. So you've got your ID and your proof of address, and that really covers what we need. There's no extra document beyond that. So we're all set to get this going. Let’s go ahead and start opening that account for you. And if anything else comes to mind, just let me know."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“For example, yes, I have a question. Maybe because during my holidays, I need to know if it's possible to temporarily freeze my account while I am overseas. This is possible.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, that's a great question. So yes, if you're heading overseas, we can absolutely help you temporarily freeze the account for security. It's really easy to arrange that if you need to, and then unfreeze it when you get back. So just let us know, and we can help you with that. And of course, if there's anything else, feel free to ask."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Who is the person that I should ask about freezing my account in future events?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Sure, so basically you can just reach out to anyone here at the bank, like a customer service officer like myself, or just give us a call through our main helpline. Anyone on our team can handle that freezing process for you. So there's no special person you have to ask for, just let us know and we'll take care of it. Anything else on your mind?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yes, what happens if I lose my bank card overseas?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely, that's a good thing to know. So if you do lose your card while you're overseas, just let us know right away. We can block that card immediately for your security, and we can arrange to get a replacement card sent out to you. So it's definitely something we can handle. And if you need any more details, just ask."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“For example, if this problem happens, can I use the banking app instead of the car? Or everything is blocked?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yeah, absolutely. You can definitely still use the banking app even if the physical card is blocked. So you'll still be able to manage your money, make transfers, and do all of that through the app. It's just the card itself that would be frozen. So you'll have no worries there. And if you need anything else, just let me know."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Excellent, because I can use my car overseas, although my card physically could be blocked.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Exactly, you've got it. So even if your physical card is blocked for safety, you can still use the app to handle everything you need. It's a great backup. And it means you won't be stuck without access to your money. So that’s all sorted. And if there's anything else, just let me know."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yes, I will meet with my accountant. I have to present all my money movements in 2024 and 2025. I need to know if I can request a written statement showing my transaction history to show in this meeting.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely do that. So you can request a written statement from us anytime that shows your full transaction history. It's super easy. You can do it through the app, or we can print it out for you at the branch. So you'll have everything you need for that meeting with your accountant. And if you need any help with that, just let me know."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Could you explain to me how I can find these kinds of details on my app?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Of course! So basically, once you're in the app, you'll just go to your account details and look for a section called Statements or Transaction History. From there, you can select the dates you need and either view them or download them as a PDF. It's pretty straightforward, and if you have any trouble, just let me know, and we can walk through it."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Thank you so much. This is so helpful for me. I definitely will do. Okay, just all for today. I prefer to go to the bank in person and talk with you to open my new savings account. Could you remember, could you tell me again your name, please?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely, more than happy to help, and I'm glad it was useful. And sure, my name is [Sam], so you can just ask for me when you come in, and we’ll get everything sorted out in person. Thanks again, and I’ll see you soon!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“See you soon. My name is Mel. I will go next week to talk with you. Thank you.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely, Mel! I’ll see you next week then, and I’ll be happy to help you when you come by. Thanks for the chat and take care!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Bye.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Bye, Mel! Take care"
+    }
+  ]
+}

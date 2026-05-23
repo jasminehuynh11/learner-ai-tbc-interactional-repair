@@ -1,0 +1,90 @@
+{
+  "student_id": 7,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S7_W4_T1",
+  "source_file": "data\\raw\\#7\\#7\\#7. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "You are a university advisor and please listen to my story."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright, I’m here for you. What’s happening today that you’d like to talk about?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Hi, I would like you to give me some advice about my future. I majored English Literature and I was eager to become a teacher but I gave up and now I want to hunt a job. Need, it's need. English skills, using English. So, could you give me some advice ?"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sure. Since you want to use your English skills, what kind of job are you most interested in right now?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "It's a difficult question. Now I'm interested in tourism. If I can live in foreign countries, I want to work for Japanese tourist. And if I get a job in Japan, I want to work for foreign tourist to look around Japan. Could you understand?"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, I understand — you’re interested in tourism, either helping Japanese travelers abroad or helping foreign visitors in Japan. To help you move forward, what specific strengths do you feel confident about right now—your English ability, communication, or something else?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Actually, I'm confident. For example, I am good at teaching classical Japanese, modern Japanese, and English. I worked as a crum school teacher for two years. From college students to high school students, I am confident. I learned English grammar and English knowledge. As a result, I gained more skills in speaking English. So I'm confident. Could I ask you a question? What jobs are common in my degree such as English literature?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure. With an English Literature degree, many graduates go into jobs like tourism, education, translation, customer service, and international business support. Since you’re open to working abroad or in Japan, which location do you want to focus on first?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I am studying abroad for the first time, but I don't have confidence of living in a foreign country because I can't do a small talk as usual. Sometimes I can't hear English properly, so I want to work in Japan for foreign customers. Yes. So, in current situation, would you think that I should make an effort to hunt a job like that?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure, I hear you — living abroad for the first time can feel overwhelming. Wanting to start in Japan is completely reasonable. If your goal is to work with foreign customers in Japan, yes, it makes sense to put effort into that path. Your English background and teaching experience already give you a strong base. To help you target the right jobs, what kind of tourism work in Japan sounds most appealing to you — for example, customer service at hotels, guiding tours, or working at travel agencies?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Among them, now I'm interested in guiding tours or working at travel agencies. But I have not thought about that industries deeply. I have not prepared for job hunting, so I will have to search at first. Thanks for your time. From now, I feel like I can find my path to the future. Thank you."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course. I’m glad our talk helped even a little. Tour guiding or travel agencies could be a great match for your skills. Take your time exploring, and you’ll find the path that fits you. Good luck — and if you ever need more guidance, I’m here."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I'm sorry, could I ask you a last question? So, I said I have worked as a cram school teacher for two years. How would you think that my experience will be some advantages or not?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure. Your cram-school teaching experience is definitely an advantage — it shows strong communication skills, patience, and the ability to explain things clearly, which are all valuable in tourism and travel work. What part of that teaching experience do you think shows your strengths the best?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Oh, good question. Thank you. I think the most strongest point is I made plans for each student to rate their skills. For example, I decided their homework and their tasks and measured how they improved their skills. So I got skills to make a plan which suits each people. I'm glad to hear your advice. I appreciate it. Thank you for your time."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course — and thank you. Your experience making personalized plans is a real strength. Take care, and I wish you the very best with your next steps."
+    }
+  ]
+}

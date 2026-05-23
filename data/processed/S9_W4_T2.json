@@ -1,0 +1,750 @@
+{
+  "student_id": 9,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S9_W4_T2",
+  "source_file": "data\\raw\\#9\\#9\\#9. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Discussing Study"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hello there! So, let's get started. What can I help you with today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yeah, is this academic advisor office, right?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! You’ve reached the academic advisor. So, let’s start with the basics: What kind of program or subject are you looking to get advice on?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Okay, and my role is just a student, a university student, or that.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, a university"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I'm studying in English academy here.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it! A current student it is. So let’s dive in: Are you looking for advice about your courses this semester, or is this more about planning for next year?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I'm studying in English academy here.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Sure, that makes sense. So you're focusing on English studies here. Now, are you trying to figure out which specific English courses you should take, or is it more about how to meet your overall academic requirements?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, I'm studying English Academy in Sydney. I have two months left, but I want to...”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, studying English in Sydney with"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I want to go to Sydney University because I already had an economic master's degree back home.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure, that makes sense. So you’re aiming to get into a university program in Sydney next, since you’ve already got that economics master’s. Now, are you looking for advice on which English courses will help you qualify for that, or is it more about navigating the university admissions process?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yes, but I want to get another master's degree.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, understood."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“In here.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Sure, that makes sense. So you're aiming for another master’s here. Now, do you already have a particular master's program in mind, or do you need some help choosing the right one that fits your goals?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh, sorry. Can you say it again?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course! So I was just asking if you already have a specific master's program in mind here in Sydney, or if you need a bit of help choosing the right one for your goals."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, I want to learn about policy.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Got it! So you're interested in something related to policy. Now let me ask: are you more interested in public policy, like government and social issues, or maybe something like economic policy?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Economic policies, because I already had an economic master's degree in Korea.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Sure, that lines up perfectly. So you're leaning toward something in economic policy. Now, let's figure out the next step: have you already looked at which universities in Sydney offer that kind of program, or do you need a bit of help with that part?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“I don't know the Sydney programs well, so can you tell me the difference? And what is the diploma before master's degree?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that. So, basically in Sydney, some universities offer a graduate diploma that you can do before a full master's. It's like a stepping stone. Now, let me ask you: would you prefer to start with that kind of diploma program to get familiar with the field, or do you want to jump straight into a master's program if possible?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I got it.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Great! So now that you’ve got that, let me know: would you rather ease in with a diploma first, or just go straight into the master’s if you can?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“How long I take a diploma?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Sure! So typically a graduate diploma might take around a year of full-time study. Now, does that timeline sound like something that would fit into your plans, or are you hoping for something shorter?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Should I do a default LOMA before a master's degree?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Sure! So generally, doing a diploma first can help if you want a smoother entry into a master's, especially if you want to build up some local credentials. So my question for you is: do you feel like you'd be more comfortable easing in that way, or are you confident you want to jump straight into the master's program directly?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I'm not good at English school. Is it okay?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, that's totally okay. We can work with that. In fact, starting with a diploma might actually give you some extra time to get comfortable with English. So would you like to go that route and get a bit more used to studying in English first, or do you have another idea in mind?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“OK, this sounds like something I'd enjoy.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Great! That sounds like"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“But I have considered that before.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure, that makes total sense. Sometimes it just takes a little chatting to see the options. So let me ask: do you feel ready to look into some specific diploma programs now, or do you want to talk through anything else first?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Okay, thanks for your time.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Of course! Happy to help. And if you need anything else, just let me know. Otherwise, take care and good luck with everything!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "You're welcome! Take care and all the best with your studies. If you need any more advice, just drop by anytime."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Can I ask one more?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely! Go right ahead and ask whatever you need."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“How do I find...”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Sure! So funding"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“or Muni, who've taken a similar path.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely, plenty of students take a similar path, so you're definitely not alone in that. Now, just to help you further: are you interested in connecting with any student groups or resources that can guide you along the way?"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "You're very welcome! And if you need anything else down the line, just let me know. Otherwise, take care and good luck!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Bye-bye.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Bye! Take care and have a great day. Task 2: Participateing in Group Decisions"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Hello, I'm Dami.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Alright! Nice to meet you. So, what kind of help are you looking for at the library today?"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Yes, we are the same team.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Sure, got it. So you're all together. Are you looking for a particular book or maybe a study space for your group?"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Yes, we have just started our group project.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Alright, a group project,"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Sure! Makes sense. So let's figure out what you need. Do you want me to help you find a good spot to work or are you looking"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Alright, I'll help you"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“We have to do present.”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Got it! A presentation"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“And make the presentation pile.”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Sure! So you're working on a presentation together. Do you need any help finding materials or maybe some software or equipment for your slides?"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“First, can we blend the text together?”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "Absolutely! Let's do that. What's the first task you want to tackle for your presentation planning?"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "“Yes, it's a speaking test, so we have to choose the topic.”"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "Sure! Choosing the topic is a great starting point. So, do you have any ideas in mind already, or do you want to brainstorm some options together?"
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "“Let's brainstorming, what about you? What is your opinion? Can you recommend your topic?”"
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "Absolutely! Let's see. One idea might be to pick a topic that everyone in your group finds interesting, maybe something related to current events or a theme you're all studying. So, is there a subject area you're all curious about that we could start with?"
+    },
+    {
+      "turn": 74,
+      "speaker": "learner",
+      "text": "“Oh sorry, can you say that again?”"
+    },
+    {
+      "turn": 75,
+      "speaker": "bot",
+      "text": "Sure! So basically, we can pick a topic that everyone in your group finds interesting. For example, something related to a subject you're all studying or a current event. So is there any area you're all curious about that we could use as a starting point?"
+    },
+    {
+      "turn": 76,
+      "speaker": "learner",
+      "text": "“Yes, I think, in my case, our country is so different each other, so I recommend, I suggest”"
+    },
+    {
+      "turn": 77,
+      "speaker": "bot",
+      "text": "Sure, I get that!"
+    },
+    {
+      "turn": 78,
+      "speaker": "learner",
+      "text": "“Can we speak table manners?”"
+    },
+    {
+      "turn": 79,
+      "speaker": "bot",
+      "text": "Absolutely! Table"
+    },
+    {
+      "turn": 80,
+      "speaker": "learner",
+      "text": "“about our country.”"
+    },
+    {
+      "turn": 81,
+      "speaker": "bot",
+      "text": "Sure! That sounds like a really interesting angle. So let's go with table manners in your country. Now, do you want to focus on any specific traditions or differences that you think might surprise people?"
+    },
+    {
+      "turn": 82,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 83,
+      "speaker": "bot",
+      "text": "Gotcha! So we"
+    },
+    {
+      "turn": 84,
+      "speaker": "learner",
+      "text": "“I think we have to talk about different things and the same things, I suppose.”"
+    },
+    {
+      "turn": 85,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense. So we can definitely cover both differences and similarities. Let's start by listing maybe one or two unique table manners that are really special in your culture. What comes to mind first?"
+    },
+    {
+      "turn": 86,
+      "speaker": "learner",
+      "text": "“Oh, sorry. Can you say that again?”"
+    },
+    {
+      "turn": 87,
+      "speaker": "bot",
+      "text": "Sure! I was just saying we can definitely cover both the differences and the similarities. So let's start by thinking of one unique table manner from your culture that stands out to you."
+    },
+    {
+      "turn": 88,
+      "speaker": "bot",
+      "text": "Exactly! So just one unique table manner from your culture to start with. What's something that really stands out to you?"
+    },
+    {
+      "turn": 89,
+      "speaker": "learner",
+      "text": "“I think we do have many...”"
+    },
+    {
+      "turn": 90,
+      "speaker": "bot",
+      "text": "Sure, absolutely!"
+    },
+    {
+      "turn": 91,
+      "speaker": "learner",
+      "text": "“chat a lot of time about thinking that manner so”"
+    },
+    {
+      "turn": 92,
+      "speaker": "bot",
+      "text": "Got it! So we'll definitely take our time exploring those manners. Now, how about we pick just one to start with and then we can move on from there?"
+    },
+    {
+      "turn": 93,
+      "speaker": "learner",
+      "text": "“Oh, it's a good idea.”"
+    },
+    {
+      "turn": 94,
+      "speaker": "bot",
+      "text": "Great! So let's do that. What's one table manner that you think is a good one to start with for your presentation?"
+    },
+    {
+      "turn": 95,
+      "speaker": "learner",
+      "text": "“Oh, yes, but, um, we...”"
+    },
+    {
+      "turn": 96,
+      "speaker": "bot",
+      "text": "Sure! No worries."
+    },
+    {
+      "turn": 97,
+      "speaker": "learner",
+      "text": "“Our deadline is...”"
+    },
+    {
+      "turn": 98,
+      "speaker": "bot",
+      "text": "Ah, got it!"
+    },
+    {
+      "turn": 99,
+      "speaker": "learner",
+      "text": "“Two days later, so until today, we will search our table minutes about our countries and will give me the URL information.”"
+    },
+    {
+      "turn": 100,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. So we've got a couple of days, and we'll start with the table manners from your countries first. Now, can you share just one detail you'd like to include so I can help you build from there?"
+    },
+    {
+      "turn": 101,
+      "speaker": "learner",
+      "text": "“One detail.”"
+    },
+    {
+      "turn": 102,
+      "speaker": "bot",
+      "text": "Exactly! Just one small detail is fine to start with. For example, maybe a certain way people sit at the table or something people say before eating. Just share one of those."
+    },
+    {
+      "turn": 103,
+      "speaker": "learner",
+      "text": "“In Korea, with either people, we have to wait for the people eat first.”"
+    },
+    {
+      "turn": 104,
+      "speaker": "bot",
+      "text": "Perfect! That's a great detail. So in Korea, you wait for the older person to start eating first. That's definitely something we can include. Now, do you have another tradition like that you'd like to add, or should we move on to the next part of your planning?"
+    },
+    {
+      "turn": 105,
+      "speaker": "learner",
+      "text": "We will search more information"
+    },
+    {
+      "turn": 106,
+      "speaker": "bot",
+      "text": "Sure! So we've got that first detail down. Let's go ahead and move on to planning the next part of your presentation. What else would you like to include?"
+    },
+    {
+      "turn": 107,
+      "speaker": "learner",
+      "text": "“Yes, first we will do a search and a search about Table Manners. After that, we will talk about this and, yes, and make the presentation together. Is it right?”"
+    },
+    {
+      "turn": 108,
+      "speaker": "bot",
+      "text": "Absolutely! That sounds like a great plan. So first you'll do some research on those table manners, and then we can chat about it and shape the presentation. What kind of resources do you think you'll need for the research?"
+    },
+    {
+      "turn": 109,
+      "speaker": "learner",
+      "text": "“And what thing or kind of?”"
+    },
+    {
+      "turn": 110,
+      "speaker": "bot",
+      "text": "Sure! I just meant like what kind of sources or maybe books or websites you might want to use. So do you have any idea where you’d like to start looking for those table manners?"
+    },
+    {
+      "turn": 111,
+      "speaker": "learner",
+      "text": "“Also, whatever if you want, whatever, yes, whatever if you want.”"
+    },
+    {
+      "turn": 112,
+      "speaker": "bot",
+      "text": "All right! That sounds good. We can definitely pick whatever works best for you. So let's just start with maybe a simple website or"
+    },
+    {
+      "turn": 113,
+      "speaker": "learner",
+      "text": "“Yes, I will use the smartphone.”"
+    },
+    {
+      "turn": 114,
+      "speaker": "bot",
+      "text": "Sure! Using your smartphone is a great idea. You can just look up some cultural sites or even videos on table manners. So go ahead and start there, and then we can chat about what you find."
+    },
+    {
+      "turn": 115,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 116,
+      "speaker": "bot",
+      "text": "Great! That sounds like"
+    },
+    {
+      "turn": 117,
+      "speaker": "learner",
+      "text": "“See you tomorrow.”"
+    },
+    {
+      "turn": 118,
+      "speaker": "bot",
+      "text": "Absolutely, see you then! Feel free to let me know what you find, and we’ll keep building your presentation together."
+    },
+    {
+      "turn": 119,
+      "speaker": "learner",
+      "text": "“OK. Bye bye.”"
+    },
+    {
+      "turn": 120,
+      "speaker": "bot",
+      "text": "All right, bye-bye! Have a good one, and we'll talk soon 3) Responding to Feedback"
+    },
+    {
+      "turn": 121,
+      "speaker": "learner",
+      "text": "“Hello.”"
+    },
+    {
+      "turn": 122,
+      "speaker": "bot",
+      "text": "Hello there! What can I do for you today?"
+    },
+    {
+      "turn": 123,
+      "speaker": "learner",
+      "text": "“First, I will describe my situation.”"
+    },
+    {
+      "turn": 124,
+      "speaker": "bot",
+      "text": "Absolutely! Go ahead"
+    },
+    {
+      "turn": 125,
+      "speaker": "learner",
+      "text": "“And I'm participating in feedback section with teacher, manager, or supervisor, whatever you want. You need to listen activity, and ask a question, respond respectful, like this.”"
+    },
+    {
+      "turn": 126,
+      "speaker": "bot",
+      "text": "Alright, I can do that! So, let’s say I’m your manager here for a feedback session. To get us started, what’s one thing you’d like to discuss or get feedback on today?"
+    },
+    {
+      "turn": 127,
+      "speaker": "learner",
+      "text": "“Yes.”"
+    },
+    {
+      "turn": 128,
+      "speaker": "bot",
+      "text": "Great! So let"
+    },
+    {
+      "turn": 129,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 130,
+      "speaker": "bot",
+      "text": "Hi again! So let's jump in. What's one area where you'd like some feedback or have a question about how you're doing?"
+    },
+    {
+      "turn": 131,
+      "speaker": "learner",
+      "text": "“We have just finished our group project. Could you please share your comments?”"
+    },
+    {
+      "turn": 132,
+      "speaker": "bot",
+      "text": "Sure! I'd be happy to share my thoughts. Overall, you did a really solid job on that group project. Now, can you tell me which part of the project you personally found most challenging?"
+    },
+    {
+      "turn": 133,
+      "speaker": "learner",
+      "text": "“Oh sorry, can you save it again?”"
+    },
+    {
+      "turn": 134,
+      "speaker": "bot",
+      "text": "Of course! So, just to share my comments again: you did a really solid job on the project overall. And I'm curious, what part of it did you find the most challenging personally?"
+    },
+    {
+      "turn": 135,
+      "speaker": "learner",
+      "text": "“Challenging most confidence?”"
+    },
+    {
+      "turn": 136,
+      "speaker": "bot",
+      "text": "Got it! So the most challenging part for you was building up your confidence. That makes sense and it's totally normal. Now, is there a specific situation where you felt that confidence was the hardest for you?"
+    },
+    {
+      "turn": 137,
+      "speaker": "learner",
+      "text": "“Okay, thanks. I will make sure to check detail more carefully.”"
+    },
+    {
+      "turn": 138,
+      "speaker": "bot",
+      "text": "Absolutely! That sounds like a good plan. And is there anything else you'd like some feedback on or any other area you'd like to discuss?"
+    },
+    {
+      "turn": 139,
+      "speaker": "learner",
+      "text": "“Do you mean I should change?”"
+    },
+    {
+      "turn": 140,
+      "speaker": "bot",
+      "text": "Sure, I get what you're asking. I just mean maybe it's about small improvements, not necessarily changing who you are. So is there a particular skill you feel you'd like to improve on going forward?"
+    },
+    {
+      "turn": 141,
+      "speaker": "learner",
+      "text": "“I will make those changes and update later.”"
+    },
+    {
+      "turn": 142,
+      "speaker": "bot",
+      "text": "Alright, that sounds like a good approach. So we can definitely touch base after you've made those updates. Anything else on your mind that you'd like to go over right now?"
+    },
+    {
+      "turn": 143,
+      "speaker": "learner",
+      "text": "“Yes, is this finish it your comment?”"
+    },
+    {
+      "turn": 144,
+      "speaker": "bot",
+      "text": "Absolutely, that covers my main comments for now. If there's nothing else you need, just let me know whenever you're ready."
+    },
+    {
+      "turn": 145,
+      "speaker": "learner",
+      "text": "“Okay, thanks again. This gave me a lot of- a lot to think about.”"
+    },
+    {
+      "turn": 146,
+      "speaker": "bot",
+      "text": "Sure thing! I'm glad it was helpful. If you have any more questions later, just let me know."
+    },
+    {
+      "turn": 147,
+      "speaker": "learner",
+      "text": "“Yeah, that's all. Thank you.”"
+    },
+    {
+      "turn": 148,
+      "speaker": "bot",
+      "text": "You’re welcome! Glad I could help. Take care and see you next time!"
+    }
+  ]
+}

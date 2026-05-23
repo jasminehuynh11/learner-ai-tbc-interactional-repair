@@ -1,0 +1,180 @@
+{
+  "student_id": 50,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S50_W4_T1",
+  "source_file": "data\\raw\\#50\\#50\\#50. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I'm studying a graduate program related to AI and education in”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "That sounds exciting! Are you focusing on organizing the entire event, or are you looking into a particular aspect, like speakers or workshops? Let me know how I can help!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Just I'm currently attending graduate school in education.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, that’s fantastic! It must be really interesting to blend AI and education. Are you exploring any specific topics or projects related to AI in the classroom?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Actually, my goal is to pass writing my thesis.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That’s a great goal! I’m sure your thesis will be really impactful. Do you have a specific research question or area of focus that you're working on right now?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“No, just I want to write something overseas in the future. Could you tell me how to prepare now?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely! A great start is to build a strong foundation in your research area and also to connect with professors and peers who have experience abroad. You can also start looking into international conferences and publications. Let me know if you’d like more specific tips!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I think the best work experience is the AI with Korean literature work.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That sounds like a fascinating intersection! Combining AI with Korean literature can open up some really unique research avenues. If you’re planning to pursue that, focusing on relevant literature, familiarizing yourself with AI tools, and maybe even collaborating with experts in both fields could be really beneficial. Let me know if you need any guidance on that!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Well, that sounds like something I'd enjoy.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I’m glad to hear that! It definitely sounds like a rewarding path. If you ever need any help brainstorming ideas or finding resources, just let me know. It’s exciting to see where your research journey takes you!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“How is the diploma different from the master's degree?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Great question! Generally, a master’s degree is more in-depth and often research-focused, while a diploma tends to be shorter and more practice-oriented. Diplomas can be a great way to gain specific skills in a shorter time, whereas a master’s degree usually involves a deeper academic exploration. Let me know if you’d like more details!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“At that point,”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, at that point,"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I can think the AI tool is 자작자작, which I used before in Korea. It looks like something make writing Korean literature with AI.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Yes, exactly! AI tools can definitely help in creating or analyzing Korean literature, whether it’s generating content or providing insights into texts. It’s a really exciting field, and I’m sure you’ll find plenty of fascinating intersections for your research. Let me know if you want to dive deeper into that!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“In my class, the students used the AI tool already, but they were”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "I see! It’s great"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“They had some difficult experience with the AI tools because they cannot”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it, that makes"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "\"Cannot create some literature in their own clearly.\""
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "I understand! It can definitely be challenging to get AI tools to produce literature that feels authentic or nuanced. It’s definitely a learning curve, but it’s great that your students are exploring it. If you ever need tips on how to guide them or overcome those challenges, I’m here to help!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“That's great. I need tips on how to guide them.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help! One great approach is to start with clear examples and guided exercises, so they can see how AI tools work and what kind of results to expect. Encouraging them to experiment and iterate is also really helpful. And of course, providing feedback and helping them refine their approach can make a big difference. Let me know if you’d like more detailed strategies!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I just need to provide my students with AI technology. But the tool is about creating perfect literature. This isn't just feedback.“"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I completely understand! Sometimes AI can produce content that feels a bit too polished or not quite aligned with what we’re looking for in terms of genuine feedback. One approach is to fine-tune the AI to focus more on constructive criticism rather than content creation. Also, you can set parameters so that the AI’s output is more aligned with your students’ learning goals. I’d be happy to help you figure out those details!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“How can I make to fine-tune the AI tool?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Great question! One way to fine-tune an AI tool is by using a custom dataset that reflects the type of feedback and style you want. You can train the AI on examples of good feedback and then adjust its parameters accordingly. Another approach is to use prompt engineering, where you guide the AI’s responses with carefully crafted prompts. And of course, there are platforms that allow you to fine-tune models more easily. Let me know if you’d like more specific guidance on any of these steps!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Thanks a lot. Who else can I talk to for that studying advice at the university?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "You're very welcome! For more advice, you could reach out to your academic advisors or professors who specialize in AI and education. You could also consider connecting with peers who are involved in similar research, or even attending conferences and networking events. That way, you can get a range of perspectives and insights. And of course, I’m always here to help whenever you need!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "\"Great. You are the best part of helping me.\""
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. Feel free to reach out anytime, and best of luck with everything. Have a great day!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "dialogue_id": "S43_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11,
+      12
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "ASR/unintelligible speech – transcript unavailable",
+    "evidence_summary": "Learner's turn 10 is marked 'Transcript Unavailable', indicating a communication breakdown. The bot in turn 11 implicitly acknowledges this by re-prompting for the expected information. The learner then provides the requested details in turn 12, successfully resolving the issue."
+  },
+  {
+    "dialogue_id": "S43_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner's incomplete utterance",
+    "evidence_summary": "The learner's utterance in turn 28 is incomplete, causing communication trouble. After the bot's incomplete response in turn 29, the learner explicitly self-corrects and completes their question in turn 30. The bot then provides a clear and relevant answer in turn 31, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S43_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      34,
+      35,
+      36
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "ASR/unintelligible speech – transcript unavailable",
+    "evidence_summary": "Learner's turn 34 is 'Transcript Unavailable', indicating a communication breakdown. The bot in turn 35 responds by interpreting the likely content (mentioning 'iron deficiency'), effectively resolving the ambiguity. The learner in turn 36 then continues the conversation, confirming the bot's understanding."
+  },
+  {
+    "dialogue_id": "S43_W2_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      36,
+      37
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – 'book billing' instead of 'bulk billing'",
+    "evidence_summary": "The learner uses the incorrect term 'book billing' in turn 36. The bot implicitly corrects this by using the correct term 'bulk billing' in its response in turn 37, showing it understood the intended meaning and resolving the lexical error."
+  }
+]

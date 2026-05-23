@@ -1,0 +1,130 @@
+{
+  "student_id": 49,
+  "week": 2,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S49_W2_T1",
+  "source_file": "data\\raw\\#49\\#49\\#49. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to help. Could you let me know the reason for your visit today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I've had a sore throat and cough for a few days.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I'm sorry to hear that. Let's get you taken care of. Would you prefer to see a general practitioner, or is there a specific specialist you have in mind?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I don't know what his name is, but he is a old man and have a black glasses. I like that doctor.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it! I’ll do my best to help identify him. In the meantime, could you let me know which days and times would work best for your appointment?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Um, is tomorrow morning... available?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Let me check that for you. Tomorrow morning should be possible. Do you have a preferred time, like early morning or maybe late morning?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Before 10 a.m., please.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, that sounds good. I'll look for an available slot before 10 a.m. Is there anything else you’d like me to note, like any allergies or special requests?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Um, I don't know is it important, but I have a sun allergy. Sunlight allergy.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Thank you for letting me know; that’s definitely important. I'll make a note of that. Is there anything else you think I should be aware of before we finalize the appointment?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Nothing, but I need a medical certificate for work.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it, I’ll make sure to let the doctor know. We’ll arrange everything so that you can get that medical certificate as well. Is there anything else I can assist you with right now?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“No, that's all. Thank you.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’ll get everything set up and confirm the appointment details for you. If you need anything else, just let me know."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Is there a fee for a medical certificate?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That's a great question. Usually, there might be a small fee for issuing a medical certificate, but I can confirm the exact amount for you. Would you like me to find out the specific fee details?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Oh, yes, please.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll check that and let you know the details shortly. In the meantime, if you have any other questions or need anything else, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Now that's all I need to know.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, perfect! I’ll take care of everything and confirm the details for you. If anything else comes up, feel free to reach out. Take care!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, so see you tomorrow.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sounds great! See you tomorrow, and I hope you feel better soon. Take care!"
+    }
+  ]
+}

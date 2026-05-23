@@ -1,0 +1,80 @@
+{
+  "student_id": 20,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S20_W3_T2",
+  "source_file": "data\\raw\\#20\\#20\\#20. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "You are a property manager or housing agent. Your role is to simulate a realistic service interaction with me, the tenant. I am reporting that something in my rental accommodation is broken or needs fixing. You must respond professionally and politely, but you should not always agree with me. Instead, ask clarifying questions, request details, and explain procedures. NOT ALWAYS AGREE WITH ME because if you do this the conversation is so boring"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright, I can help with that. What exactly is broken in your rental?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“The other day, I arrived at home after a holiday, and my house smelled so bad, so I tried to open the fridge, and I realized that it was off, and I tried to restart, but I think it's broken.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that. That definitely sounds frustrating. Could you let me know if there were any signs that it was malfunctioning before you left, or if there’s any particular issue you noticed, like a power outage or anything else? That way, we can figure out the best steps to take."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“No, my fridge when I left my house was still working. So I think the problem happened after. Now I have to treasure my food, but this is not a big problem. But probably I can't live without a fridge. So it's possible that someone can come today or tomorrow maybe. You have maybe an optional fridge that you can give me for this day until someone comes to repair my fridge. Can you give me some possibilities that I can choose?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I understand, that does sound inconvenient. Typically, we can arrange a technician to come as soon as possible, usually within a day or two. In the meantime, we can also check if we have a temporary fridge available for you, or possibly provide some other solutions to help you out. I’ll definitely coordinate that and let you know what options we have."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, I think it's a good idea that someone come here in my house to repair or change my fridge. I have to pay something?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That’s a great question. Usually, if the fridge is part of the provided appliances and it’s a maintenance issue, there typically won’t be any cost to you. However, if it’s something related to damage or misuse, then there might be a fee. But let’s get the technician’s assessment first, and I’ll keep you informed on any potential costs."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, good. Could you tell, or could you text me when they are on their way tomorrow or on the next day? Because I'm not sure that I am at home, so probably they have to ask someone inside the building to open my door.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense. We can definitely arrange for the technician to give you a call or send you a message when they're on their way, so you can coordinate access. Just let us know the best contact number and any instructions for building access, and we’ll make sure everything goes smoothly."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“No, okay, I think it's all good like this, I don't have any additional question, so I think I can wait some minutes... some day.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That sounds good! If anything else comes up, or if you have any other concerns, just let me know. I’ll keep you updated on the repair timeline, and hopefully, everything will be sorted out quickly. Thanks for your patience, and I’m here if you need anything else!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, thank you, have a nice day!”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "You're very welcome! You have a great day too, and don’t hesitate to reach out if you need anything. Take care!"
+    }
+  ]
+}

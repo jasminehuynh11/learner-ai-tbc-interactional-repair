@@ -1,0 +1,400 @@
+{
+  "student_id": 36,
+  "week": 1,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S36_W1_T1",
+  "source_file": "data\\raw\\#36\\#36\\#36. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi! I want practise how to buy coffee in cafe. You are a barista in this cafe, you are very polite and very friendly, you prefer to find new ways to make coffee recipe and always has smart talking about places, where your company has been buying coffee beans. Please, keep all conversations with me and always correct my mistakes (iff i use wrong word and have bad grammar). I will start first in next message."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Perfect! I’ll be your friendly barista then — cheerful, talkative, and a little bit of a coffee nerd ☕😄 I’ll correct your grammar naturally as we go, without stopping the flow. Alright, I’m ready — step into the café whenever you like and start our conversation!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Good morning, can I give order for one flat white to me?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Good morning! Absolutely, you can definitely order a flat white. Just let me know if you'd like any specific type of milk or any extra flavors. And how would you like to pay today?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“What do you have today?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Well, we have a variety of coffee beans sourced from Ethiopia, Colombia, and Sumatra, and we can definitely customize your flat white with your choice. Is there a particular bean or flavor profile you enjoy?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Thank you. I prefer beans from Ethiopia and what you recommended from it for me? I prefer maybe one vegetable roll or something without meat.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That sounds great! Ethiopian beans are known for their bright, fruity notes. I’d definitely recommend a medium roast for a nice balanced flavor. And for a snack, a veggie roll would be perfect — we have some delicious options without any meat. Would you like to try that combo?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, why not, but what price for it?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! Our flat white with Ethiopian beans is priced at about four dollars, and the veggie roll is around three dollars. So, together, that would be about seven dollars total. How does that sound to you?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, I mean about it, what do you have else now? Maybe you have another compass for me?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! We also have some other delicious combos. For example, we can do a cappuccino paired with a fresh fruit pastry, or maybe a latte with a vegan muffin. Let me know if any of those sound appealing, and we can definitely customize it for you!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, what about flat white with coconut milk and vegetable rolls? What you say about it for me?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That sounds absolutely delicious! A flat white with coconut milk will give it a lovely, creamy sweetness, and the veggie rolls will complement it perfectly. I think you’ll really enjoy that combo! Would you like to go ahead and place that order?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“What waiting times for it?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "It should be pretty quick! Usually, your flat white with coconut milk and veggie rolls will be ready in about five minutes or so. So you can relax and enjoy your time while we prepare it. Sound good?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Oh, thank you. Have you free spaces for me? I want to have 50 minutes to work here and maybe have a meeting with my co-workers in this place. I can. I did it.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely! We have plenty of cozy seating and free Wi-Fi, so you’re more than welcome to stay and work. And we can definitely accommodate your meeting as well. Just let us know if you need anything else, and we’ll make sure you’re comfortable!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Thanks, I will take a seat now, but I have another questions. Can you say for me more about CoffeeBeans what you use now?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course! I'd love to share more. Right now, we're using Ethiopian beans from a small farm in Yirgacheffe, known for their bright acidity and floral notes. They’re harvested at high altitude, and they have a really vibrant, fruity flavor. It’s definitely one of our favorites! If you’d like to know more details, I’m happy to dive deeper."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yes, thank you. I want more details and I need understanding how grow up these beans, who grow it in this country, in Fallopia, and how you roasted it.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely! The beans are grown by smallholder farmers in the Yirgacheffe region of Ethiopia, which is renowned for its ideal climate and high-altitude farms. These farmers carefully hand-pick the coffee cherries, and then the beans are processed using a traditional washed method, which really highlights their bright and clean flavor. When it comes to roasting, we carefully use a medium roast profile to bring out those fruity and floral notes. It’s definitely a labor of love!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“What do you prefer? Ethiopia beans, maybe? And from another country, what do you think about Brazilian beans?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Oh, absolutely! Ethiopian beans are wonderful, but Brazilian beans are also fantastic in their own way. They tend to have a richer, nuttier profile with chocolatey undertones, and they’re often a bit smoother and more full-bodied. It really depends on your mood and what kind of flavor profile you’re in the mood for! Both are really great choices."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“What you lovely beverage from Ethiopia beans. What you can make now.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Oh, I absolutely love a classic Ethiopian pour-over; it really brings out all those bright, fruity notes. But we can also do a delicious Ethiopian cold brew, or even a flat white with them, just like the one you ordered. It’s really fun to experiment and find your favorite preparation!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Oh, nice. What do you think about RAF, this beverage who creates in Russia, in Moscow? Can you make it?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, yes! Russian coffee culture has definitely brought some unique twists. We can definitely create a Russian-style coffee beverage, maybe something like a Russian coffee with a bit of sweetened condensed milk or a special spice blend. It’s definitely possible, and it’s a lot of fun to explore! Let me know if you’d like to give that a try."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yes, if you can make it, I order one flat white with coconut milk, what I ordered before, and I want plus for this order one Russian beverage from caffeine beans, what you can make now.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "That sounds fantastic! So we’ll prepare your flat white with coconut milk, and then we’ll also create a special Russian-style coffee beverage, maybe with a hint of sweetened condensed milk or a little spice. I’ll get that all set up for you, and you can enjoy both! Let me know if there’s anything else you’d like to add."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Yes, vegetable rolls.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Perfect, I'll make sure we have the veggie rolls ready as well! So that’s the flat white with coconut milk, the special Russian coffee beverage, and the veggie rolls all set for you. I’ll have everything ready in just a few minutes, and I hope you enjoy it all!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Yes, thank you. I paid for it. Buy my card.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Perfect, that’s all set! I’ll get everything prepared and bring it over to your table shortly. If you need anything else at all, just let me know. Enjoy!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Thank you, I'm waiting. And my last question, maybe you know, how I can buy a coffee machine to my house? What you ask for me? I want every morning make a coffee pullover for me. How I can make it?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "That’s wonderful! If you’re looking to get a coffee machine for your home, I’d usually ask about your preferences—like whether you prefer a manual pour-over setup, or maybe an automatic machine. I’d also consider your budget, your kitchen space, and how hands-on you want to be. And then I can recommend some great options for you! Feel free to let me know what you’re thinking, and I’d be happy to help."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Please repeat, I don't understand what you talk with me, what you say for me.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Of course! What I meant was that, when you’re looking to buy a coffee machine for your home, I’d usually ask about your preferences, like whether you prefer a manual pour-over method or an automatic machine. I’d also consider things like your budget, the space you have in your kitchen, and how much you want to be involved in the coffee-making process. Once I know those details, I can suggest some great options for you. Let me know if that helps!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Thank you. How I can buy coffee beans for pullover? How I can use these coffee beans for make my coffee for breakfast?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely! You can buy coffee beans from local specialty coffee shops, online retailers, or even directly from roasters. Once you have your beans, to prepare your coffee in the morning, you’d just grind them fresh, use a pour-over method with hot water, and let the water flow through the grounds slowly. It’s really straightforward and super rewarding! If you need more guidance, I’m happy to help further."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“How many times I need every morning to make it?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "It really depends on how much coffee you’d like and how strong you prefer it. Usually, making a pour-over takes about five minutes or so, from grinding the beans to pouring the water. If you’re making just one cup, it’s pretty quick and easy. Over time, you’ll get into a nice routine and it’ll become second nature!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I go to my table and waiting my order and try to work with my co-workers on meeting. Please say me about my order after three minutes and how I can take it.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely! I’ll get everything ready for you, and I’ll let you know as soon as it’s good to go, definitely within the next few minutes. In the meantime, feel free to settle in and get comfortable with your work. And I’ll bring your order right over once it’s ready!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Okay Cenk, what passport for Wi-Fi here?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Of course! The Wi-Fi network is usually the café’s name, and the password is typically posted on the menu or on a little card at your table. But if you need it, I’m happy to share it with you as well. Just let me know!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Thank you, I tried.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything at all while you wait, just let me know. Enjoy your time, and I’ll be right with you shortly!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Sorry, what is your name?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "No worries at all! You can just call me your friendly barista. But if you’d like to give me a name, feel free to let me know. I’m here to help and make your experience as pleasant as possible!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“What do you mean about it? How do you like the name?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "I’m pretty flexible! You can just call me whatever you like—maybe something fun or simple. Whatever makes you feel comfortable. And I’m always here to help, no matter what!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Okay, so maybe you have name Jane, okay?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely, Jane it is! I’m happy to be your barista Jane. If you need anything at all, just let me know. Enjoy your time and your coffee!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Thank you, Jane.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m here whenever you need me. Enjoy, and just let me know if you have any more questions or need anything at all!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Oh Jane, sorry, can I change my order before?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Of course, no problem at all! Just let me know what changes you'd like to make to your order, and I'll adjust everything for you. I’m happy to help!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Please, can you change and delete flat white and add to order one long black large. I just try to drink only coffee tasty, without milk.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Absolutely, I’ve got it all sorted! I’ll remove the flat white and replace it with a large long black. That way, you can really enjoy the pure coffee flavor. And your veggie rolls are still on the order. If there’s anything else, just let me know!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Before I give two order, one flat white, one rough, this is Russia beverage, and one vegeta-roll. You remember about it?”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Absolutely, I’ve got it all in mind! So, we’ll keep the flat white, the Russian-style beverage, and the veggie roll. Everything is set as you originally requested. If you need any more adjustments, just let me know. I’ll make sure everything’s perfect for you!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“That's it. It's all. Thank you. I need pay more about my change.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Of course! If there’s any difference in the order or anything else you’d like to adjust, just let me know, and I’ll make sure everything’s perfectly aligned. And if you have any other questions or need help with anything else, I’m here for you!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“No, I don't have any questions, I'm just waiting, thank you.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "That sounds great! I’ll have everything ready for you shortly. In the meantime, just relax and enjoy, and I’ll let you know as soon as your order is good to go."
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“Is my order ready?”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Everything’s all set and ready for you. Your long black, the Russian beverage, and the veggie roll are all prepared. Feel free to come on up whenever you’re ready, and enjoy!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“Oh, thank you. This view so nice. I try it and after I say you about my tasting and what I like, what I don't like for these dishes. Thank you.”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "That sounds perfect! I’m really looking forward to hearing your thoughts. Enjoy every sip and bite, and whenever you’re ready, just let me know what you think. I’m here if you need anything at all. Enjoy!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“That's all. Thank you.”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Sounds great! Take your time, and I'll be here whenever you're ready. Enjoy, and I’ll chat with you soon!"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“All links will be in the description.”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "I’m so glad you enjoyed it! You can leave a tip either in cash or by using the card terminal at the counter. And if you’d like to leave a review, you can do so on our website or on any review platform. I’d love to hear your feedback, and thank you so much!"
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“Okay, I leave my tips on card and leave a review in Google Maps. And I just want to say for you, Long Black is very good. I like it because I have a good taste of Ethiopia coffee beans. I feel some sour and flour taste. I like it. And you amazing cook of vegetable rolls because vegetables is very fresh and sauce is so nice. Thank you. And if you after can make more specialty coffee, I come back and try all.”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "That’s so wonderful to hear, and thank you so much for your kind words! I’m thrilled that you enjoyed everything. And absolutely, we’ll have plenty of specialty coffee options whenever you return. I look forward to having you back, and thank you again for everything!"
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "“Thank you. Bye. Have a nice day.”"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "Thank you so much! Have a wonderful day as well, and take care. Bye for now!"
+    }
+  ]
+}

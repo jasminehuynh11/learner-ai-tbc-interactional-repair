@@ -1,0 +1,370 @@
+{
+  "student_id": 21,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S21_W2_T2",
+  "source_file": "data\\raw\\#21\\#21\\#21. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hello, this is Green Valley Medical Clinic. How can I help you today—are you calling to make, change, or cancel an appointment?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Good morning.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Good morning! How can I assist you today? Are you looking to schedule a new appointment or adjust an existing one?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yeah.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, let’s get"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I'd like to make an appointment to see my doctor, please.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course. May I have your name and the reason for your visit, please?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“My name is Rui Hashimoto, R-U-I H-A-S-H-I-M-O-T-O.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Thank you, Rui Hashimoto."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Could you please let me"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "…know the reason for your visit and any preferred date or time for the appointment?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yeah, because my sore throat is not in bad condition, and I have cough and phlegm as well.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. Let’s find a suitable time for you. Do you have a preferred day or time for the appointment?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Is anyone available tomorrow morning?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Let me check our schedule for tomorrow morning. One moment, please."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, we have an opening at 10 a.m. tomorrow. Does that work for you?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yes, perfect. Thank you so much. Could you please book that for me?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll book that for you. You’re scheduled for tomorrow at 10 a.m. Is there anything else I can assist you with?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Do I need to have something to see a doctor?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, please bring your ID and your insurance card, if you have one. Also, any relevant medical records would be helpful. Let us know if you have any other questions."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, I understand.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Great! We’ll see you tomorrow at 10 a.m. If you need anything else, just let us know."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I'm so sorry. I have misunderstood. So, could I take... Could I go to...”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Sir, could I make an appointment at 11.30?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Of course, let me check availability for  a.m. tomorrow. One moment, please."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Yes, I'm sorry. Thank you.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "No problem at all! I’ll confirm that for you right away."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Thanks.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything else, just let me know."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“So, could I, could I book at 11.30 a.m. tomorrow?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll schedule you for  a.m. tomorrow. All set! Let me know if there's anything else you need."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Thank you very much.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You're very welcome!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "All right, have a great day, and we’ll see you tomorrow."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“I'm sorry, I would like to confirm one thing. How long would the appointment take?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Typically, the appointment will take about 30 minutes. If you need more time, just let us know."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Great. Thank you for your help. See you tomorrow at 11.30 a.m.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "You’re very welcome! We’ll see you tomorrow at  a.m. Have a great day! Task 2: Visiting a Bank and Asking for Help with Banking Services Scenario"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "You are visiting a local bank branch or calling customer service to request help with everyday banking services. You may need to open a new account, update your details, or ask about specific features such as online banking or international transfers. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a bank staff or customer service officer. You can choose situations from the examples below; start with a simple request and try a more detailed interaction by asking about documents, account features, or banking procedures."
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Of course. I’ll take the role of a bank customer service officer. Hello, welcome to Maple Bank. How can I help you today? Are you looking to open a new account, update your details, or ask about a specific service?"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to open my new saving account.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely! I'd be happy to assist you with that. May I start by confirming your identification details? Do you have a valid ID with you right now?"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Yeah, I have Penang passport.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Perfect, that works well. We’ll also need your proof of address. Could you provide a recent utility bill or a bank statement?"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“I'm sorry.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "No worries at all. Whenever you're ready, just let me know. Is there anything else I can help you with in the meantime?"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Sorry, I couldn't understand your opinion, previous one, so could you tell me again?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Of course, no problem. I was just mentioning that we’ll need a proof of address, like a recent utility bill or bank statement, along with your passport. Let me know if you have those documents ready."
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“okay so i'm not actually i'm an international student so i'm not student so i'd like i'm working i come i came here for working holiday so is it okay to bring only passport”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. Yes, your passport will definitely work as your ID. For proof of address, we can also consider a rental agreement or a letter from your employer if you have one. Let me know what you can provide."
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“This is the only passport I can provide.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "That’s perfectly fine. We can proceed with your passport for identification. We may just need to verify your address in another way. Let me know if you have any questions or if you need help with the next steps."
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Can I also start up online banking today?”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Absolutely, we can set that up for you today as well. I’ll guide you through the process. Do you have a valid email address that we can use to register your online banking?"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Okay, thank you. So, do I need to make an appointment, or can I walk in?”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "You’re welcome! You can absolutely walk in, but if you prefer, you can also make an appointment to ensure faster service. Whatever works best for you!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“So, could you have an appointment?”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Of course, I can help you schedule that. Could you let me know what date and time would be most convenient for you?"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“Is it available to come this afternoon?”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Let me check that for you. We do have availability this afternoon. What time would you prefer, around 2 PM or maybe a bit later?"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“2 p.m. is fine.”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Great, I’ll schedule you for 2 PM this afternoon. If you need any further assistance before your appointment, just let me know. Looking forward to seeing you then!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“Thank you, and do I need to something to do before I go, I come?”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "You’re welcome! Just make sure to bring your passport and any proof of address you have, and we’ll handle the rest. If you have any questions before then, feel free to reach out."
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "You’re very welcome! Have a great day, and we’ll see you this afternoon. Top of Form"
+    }
+  ]
+}

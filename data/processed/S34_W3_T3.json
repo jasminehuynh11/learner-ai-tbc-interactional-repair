@@ -1,0 +1,215 @@
+{
+  "student_id": 34,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S34_W3_T3",
+  "source_file": "data\\raw\\#34\\#34\\#34. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I want to practice how to request maintenance or repair in a rental property. You are a landlord. I play the role of a resident. Please create a realistic rental property scenario and respond as if we are really there. Ask me about my preference. Help me discussing access arrangements, urgency levels, or safety concerns. Keep the conversation going.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, let"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“going throughly by asking at least three follow-up questions.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Great! Let’s dive in. So, as your landlord, I’m here to help. What exactly is the issue you’re experiencing in your apartment? And how urgent would you say it is?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Hello, Bell. This is...”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Hi there! Nice to"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Blah, blah, blah.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“how’s it going?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "I’m doing well, thank you! How about you? Let me know what issue you’re having, and we’ll get it sorted out."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I'm good. Today, I have one consultant with you.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course, I’m here to help! What would you like to discuss or what kind of maintenance issue do you need assistance with?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yesterday”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it, yesterday you noticed something. Could you let me know what exactly happened and where the issue is located?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yesterday, the heater in our bathroom isn't turning on.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I see, thanks for letting me know. That definitely sounds important. Could you let me know if it’s been affecting your comfort, and how urgent it is for you to get it fixed?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I'm sorry, what does mean Gogurjeet?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "No worries at all! I was just asking how important it is for you to have it fixed as soon as possible. Let me know how urgently you need the heater repaired."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Ah, yes. It's really urgent because we have only one bathroom and today, ah, this month is winter. We really need to use heater during we have a shower.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "I completely understand, that does sound urgent. Thank you for letting me know. Could you also let me know if there are any specific times that work best for you for the repair technician to come by?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I don't mind, because I'm not a landlord. Staying home is your responsibility.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. I’ll make sure to coordinate with the repair team and find a suitable time. Is there anything else you’d like me to know, or any safety concerns I should be aware of?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Can you repair this heater?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll arrange for the repair as soon as possible. I’ll keep you updated on the timing. Is there a particular contact number or best way to reach you when we schedule the appointment?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Can I use the feature tonight?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "I’ll do my best to get it fixed as quickly as possible. I’ll check the schedule and let you know if we can have it ready for tonight. I’ll keep you posted!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“If I can't use the feature, I need to use bathroom area time before”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I completely understand."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Getting cold.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll prioritize it and do my best to have it fixed as soon as possible so you’re comfortable. I’ll keep you updated and let you know the exact timing. Sound good?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Should I turn off the heater until you and the repair team come?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That’s a good idea. It’s probably best to keep it off until we can properly fix it. That way, we can avoid any further issues. Let me know if you have any other concerns in the meantime!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Let me know if you need any more information.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll be sure to reach out if anything else comes up. Thanks for keeping me informed, and I’ll keep you updated as we arrange the repair."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“This is the second time it happened. Can it be checked more closely?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Of course, that makes perfect sense. I’ll make sure the repair team does a thorough inspection this time to prevent any future issues. We’ll definitely keep an eye on it going forward. Let me know if you have any other requests!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Can you let me and another sharemate if you decided the repair schedule?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to keep both you and your housemate informed about the repair schedule. I’ll coordinate everything and keep you both updated. Just let me know if there’s any other detail you need!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“No, I don't have.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Perfect, that’s great to hear. I’ll take care of everything and keep you posted. If anything else comes up, just let me know. Thanks for your patience!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Thank you. Have a good day.”"
+    }
+  ]
+}

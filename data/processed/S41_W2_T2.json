@@ -1,0 +1,75 @@
+{
+  "student_id": 41,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S41_W2_T2",
+  "source_file": "data\\raw\\#41\\#41. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Here is a scenario. I'm visiting a local bank branch or calling customer service to request help with everyday banking service. I may need to open a new account, update my details, or ask about specific features such as online banking or international transfers. So I need to practice banking, and you are the staff in the bank.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Actually, I have a savings account in the Common Bank, and I want to update my address because I moved to a new apartment. I need to change my address.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Do I need to carry out my physic card?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“And what material or what thing do I need to carry out?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“And, uh...”"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“And another questions, um...”"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“And another question is that, what type of account is suitable for the international student?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“So, which one is better?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I need to lower rates and it's also I need to have the international transfer as well as the, you know, mounting free.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“And I have another question. If I, you know, I'm an internet student now, and if I finished my, if I finished my school, and I will go back to my hometown and leave that country, so my, so my, so my cards need to, you know, you to off it, you to, you to, so how can I do that?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“It's free or should I need to pay some pay some bills?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    }
+  ]
+}

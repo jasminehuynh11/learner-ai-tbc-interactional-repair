@@ -1,0 +1,400 @@
+{
+  "student_id": 35,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S35_W1_T1",
+  "source_file": "data\\raw\\#35\\#35\\#35. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, take away. Hi, can I get two coffees to go away, please?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! I'd be happy to help with that. What kind of coffee would you like today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Um, I would love to oat milk coffee.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it! Oat"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, would you like a hot or an iced coffee with oat milk?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“No, no, no, please hide.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect! And would you like any sugar or sweetener in it?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I'm trying to get in shape. Maybe you have any no sugar sweetener?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, we can skip the sugar! I'll just make it with oat milk and no sweetener. Anything else you'd like to add to your coffee?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Uh, yeah, can I get something to eat as well?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! We have some pastries and sandwiches. Do you have something specific in mind, or would you like a suggestion?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“For example, do you have any tuna sandwich, or turkey sandwich, or maybe chicken sandwich?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "We sure do! We have a delicious turkey sandwich and a chicken sandwich as well. Which one sounds more appealing to you?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Maybe the chicken one, but without sauce, please.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Got it! A chicken sandwich without sauce. Perfect! I'll get that ready for you along with your coffee. Anything else I can do for you?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yeah, actually, I'm waiting for a friend, so can I get another coffee and another sandwich?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that! So, another coffee with oat milk and another chicken sandwich without sauce. Anything else for you or your friend?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I'll wait near to the door. Thanks!”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Got it! I’ll have everything ready for you and I'll make sure it's near the door. Just let me know if you need anything else."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“That sounds fantastic. Thank you so much.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You're very welcome! I'll get everything sorted for you. Enjoy your time with your friend, and I'll see you soon!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Hey, my friend arrived already and he actually told me that he doesn't want the Regular coffee with oat milk. Can I get a flat white instead that?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course! I'll switch that to a flat white for your friend. No problem at all! Let me know if there's anything else you need."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yeah, I'm gonna pay for the extra coffee as well, but can you explain to me what's the difference between a flat white or latte or Any other coffee drink because for me sounds the same”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to explain! A flat white has a strong coffee flavor with a velvety microfoam milk, and it's typically smaller in volume. A latte, on the other hand, has more milk and is creamier and a bit milder in flavor. So it really comes down to the strength of the coffee and the milk texture. Hope that helps!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“And actually as well, my friend is vegan. I didn't know it. Do you have any vegan option for him?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely make that flat white with a plant-based milk like oat milk or almond milk. So no worries at all! I'll make sure it's vegan-friendly."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“What about something for eating?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sure thing! We have a variety of vegan snacks as well, like fruit and nut bars or a vegan sandwich option. Just let me know what you'd prefer, and I'll add that in for you!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“아마도 비건 샌드위치?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Great choice! I'll add a vegan sandwich for your friend as well. Everything's set! Just let me know if there's anything else."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Yeah, I'm planning to Come back tomorrow with my mom and she's a gluten-free person My dad is dairy-free guy, so you guys have any”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Got it! We can"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Product for them.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely! We have plenty of gluten-free and dairy-free options, so your mom and dad will be well taken care of. Just let me know in advance, and I'll make sure everything is ready for you both!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Yeah, tell me about the gluten-free options, please”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely! We have gluten-free bread for sandwiches, and we also have some gluten-free snacks and pastries. So your mom will definitely have some tasty choices!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“For example, what's the difference between a regular cake or pastries for the gluten-free options? It's maybe for the flour or something in specific?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Yes, exactly! The main difference is the flour used. Gluten-free pastries typically use alternative flours like almond flour, rice flour, or a blend of gluten-free flours. They have a slightly different texture, but they're just as delicious!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Also in school, thank you, because my mom is pretty picky.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "I totally understand! We'll make sure she has something she'll love. Just let me know if you have any other preferences, and I'll take care of everything for your visit tomorrow!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Yeah, for example, for example, what options do you have for my father who's dairy free?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "We have plenty of dairy-free options as well! We can use plant-based milks for any coffee drinks, and we also have dairy-free desserts and snacks, like coconut milk-based pastries. So your dad will definitely be covered as well!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“So, for example, coffee with soy milk, it's the refree option.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Exactly! Soy milk is a great dairy-free option, and it works perfectly in coffee. So we can definitely do that for your dad as well!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely, oat milk is also a fantastic dairy-free choice. So we'll have plenty of options for everyone! Just let me know if there's anything else I can do for you."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Thank you. Actually, you are very kind for attending all of my questions.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "You're so welcome! I'm always happy to help and make sure everything is just right for you and your family. If you have any more questions, just let me know!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“About my order, I wanted to do a takeaway, but the place is really nice and I like the conversation with you. Can I change my order to dining? I don't care about the plastic cups. I don't have problem with them.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely, we can switch that to dining in! I'm really glad you're enjoying the atmosphere, and I’ll make sure everything's set up nicely for you. Just let me know if there's anything else I can do!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Yeah, my friend told me, I mean, we are We are waiting for Marina She's asking if you guys have any discount for being a student”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Oh, that's great to know! We do offer a student discount, so absolutely, we can apply that for your friend as well. Just let us know when she arrives, and we'll get that sorted for her!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Yeah, she wants chocolate Fuji brownie and soy milk cappuccino. Can you give me the discount for her?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Absolutely! I'll make sure she gets the student discount on the chocolate fudge brownie and the soy milk cappuccino. That sounds like a delicious choice! We'll have everything ready for you all."
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Actually we have a question. You're not busy, so I think maybe you have some free time for us?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to chat and answer any questions you have! Feel free to ask away, and I'll do my best to help."
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“では、ビーンズについて、一つの原理か、混合的な原理なのかを説明します。”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Great question! We actually use a blend of beans to get a balanced flavor, but we do have single-origin options sometimes as well. If you're interested in a specific type, just let me know!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Yeah, Tom and Marina, both of them are Australian, so they are very picky. So they are asking if you guys are using Australian coffee.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Oh, I love that! We do have some Australian-roasted coffee options, so they’ll definitely feel at home with that. I'll make sure their coffee is up to their standards!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Yeah, sounds good. Did you roast your beans in-house or what exactly? Can you explain to me, please?”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Absolutely! We do roast our beans in-house, so we have full control over the freshness and the flavor profile. That way, we can ensure the best quality for every cup!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“Honestly, it sounds pretty interesting. I'm interested in trying something new. Any recommendations for me?”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "I'd love to help with that! If you're in the mood for something a bit adventurous, I can recommend our signature house blend, or maybe a single-origin coffee with a unique flavor profile. Just let me know what you're in the mood for!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“Yeah, for example, can you explain to me what's cold brew?”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Of course! Cold brew is made by steeping coffee grounds in cold water for an extended period, usually about 12 to 24 hours. It results in a smoother, less acidic coffee that's really refreshing. It’s definitely a fun one to try!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“Colborough is the same as Long Island.”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "They do have some similarities in that they're both cold coffee beverages, but cold brew is a specific brewing method, whereas a Long Island is actually a cocktail. So definitely different things, but both are tasty in their own way!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“I thought actually Long Island is just ice, a little quantity of water, and coffee”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "I can see how it might seem similar in that it's cold and refreshing! Cold brew is definitely a smooth, flavorful coffee, while a Long Island is more of a mixed drink. But it’s always fun to explore different coffee and drink options!"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“Cool, cool. Thank you. Appreciate your help.”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "You're so welcome! I'm glad I could help. If you have any more questions or need anything else, just let me know. Enjoy your time here!"
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“Oh, thank you so much. We finished already our drinks and food, but you are so kind and very nice, so I think we are going to come back very, very soon.”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "Oh, that makes me so happy to hear! I'm really glad you enjoyed everything. We'll look forward to seeing you again soon. Have a wonderful day!"
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "“Oh, me too. Have a good one.”"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "You too! Take care and see you next time!"
+    }
+  ]
+}

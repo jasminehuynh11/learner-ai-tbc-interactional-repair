@@ -1,0 +1,27 @@
+[
+  {
+    "dialogue_id": "S8_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies 'expired'",
+    "evidence_summary": "The learner initially says 'my cell phone was not working because' and then corrects to 'because my cell phone was expired.' The bot acknowledges this clarification and provides a relevant response, resolving the issue."
+  },
+  {
+    "dialogue_id": "S8_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      14,
+      15
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner unclear statement",
+    "evidence_summary": "The learner's statement 'my phone is suddenly prepare Celsius' is unclear, leading to a misunderstanding. The bot's response about a 'Sydney flip phone' does not address the learner's statement, and the issue remains unresolved in the dialogue."
+  }
+]

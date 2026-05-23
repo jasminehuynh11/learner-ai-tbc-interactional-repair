@@ -1,0 +1,150 @@
+{
+  "student_id": 12,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S12_W3_T2",
+  "source_file": "data\\raw\\#12\\#12\\#12. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“something important, just like my phone, I need to report it either to a lost and found service.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Got it! I’ll keep everything nice and simple for you. If there's anything else you need at any time, just let me know. Have a great day!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Let's start. Hi, I've just lost my iPhone 17 Pro at the train station. Could you help me to check?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that you've lost your phone. I'd be happy to help you out. Let me just gather a few details. Could you let me know the exact location at the station where you think you lost it, and if you remember the time?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Unforget the specific location.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "No worries at all! We can still do our best to track it down. If you have any details about the approximate time you lost it or any other identifying features, just let me know. I’ll do my best to assist you!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I didn't stay at the station for a long time. I just go outside when I get off the train.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, that definitely helps narrow it down. I'll make sure to report it to the station's lost and found with those details. Hopefully, we can locate it quickly. I'll keep you updated!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“The phone is orange and it's iPhone 17 Pro. It's a smaller one than Pro Max. So maybe it's very easy to find it because the color is very light.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That’s a really helpful detail, thank you! I'll make sure to pass that along so it stands out. Hopefully, that will make it easier to find. I'll keep you posted on any updates!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“If you find the phone, how can you contact me?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I can definitely reach out to you via the contact number or email you provided, whichever you prefer. Just let me know the best way to get in touch, and I’ll make sure to keep you updated as soon as we have any news!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“But I don't have a phone right now.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "No worries at all! In that case, I'll make sure to email you with any updates, and we can keep in touch that way. Just let me know if there's anything else I can do for you!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I don't have the phone, so I can't receive the email at the same time.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. In that case, I can also reach out to you through another method if you'd like, or we can arrange a convenient time for you to check in with us. Just let me know what works best for you!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Can I get to any location that you are at there and I will help you to find my phone together?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I’d be more than happy to coordinate a time and place that works for both of us, so we can search for your phone together. Just let me know a time that suits you, and we’ll make it happen!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“So, where is the specific location?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that! Just let me know a time and a place that’s convenient for you, and I'll be there to help. We'll work together to find your phone as quickly as possible!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And can I leave another of my contact details, just like you can call my father or my friends?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Of course, that would be totally fine! Just let me know the best contact details for your father or friend, and I’ll make sure to reach out to them if needed. We'll make sure we can get in touch with you one way or another!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yeah, it's 1-9-0-0-6.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Got it! I’ll make sure to note that down and keep your father or friend in the loop as well. We’ll do everything we can to help you get your phone back as soon as possible!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Thank you, that's all. I will meet you at the station.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to coordinate everything so we can meet at the station. Thank you for letting me know, and I’ll be there to help you out. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Thank you, bye.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care, and I’ll see you soon. Bye for now!"
+    }
+  ]
+}

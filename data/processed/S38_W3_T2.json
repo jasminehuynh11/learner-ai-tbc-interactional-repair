@@ -1,0 +1,125 @@
+{
+  "student_id": 38,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S38_W3_T2",
+  "source_file": "data\\raw\\#38\\#38\\#38. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, I'd like to report a damage at my rental property.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. Can you tell me exactly what kind of damage you’ve noticed at the property?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Yes, so there's a leak coming from the ceiling in the bathroom with a weird smell. I think it is mold"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright. Is the leak still actively dripping right now, or has it stopped?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "it is still leaking"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright. Since it’s still dripping, when did you first notice the leak starting?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "i noticed it a week ago when I entered the shower and didn't opened the water, something was leaking from above my head and that's when I looked up and saw it"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright. How large is the wet or damaged area on the ceiling now—just a small patch, or has it spread out?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "there's small patch but it did spread a bit on the side of the wall"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright. Thanks for explaining that. Is there anything like discoloration, strong odor, or any electrical fixtures near the damp area that we should be aware of?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "the spots are quite dark and it smell a bit but other than that there is not electrical fixtures near it"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright. Since the spots are dark and there’s a smell, that helps a lot. Do you know what’s directly above that bathroom—another bathroom, a kitchen, or another unit?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I live in an apartment so I think there's another bathroom above but I might be mistaken"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright. Have you had a chance to check with the upstairs neighbor or building management to see if anyone above might be having plumbing issues?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "yes, I went upstairs to ask them if there's any issue with anything like mold but they told me that everything is fine."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright. Thanks for checking with them. When would be a good time for a maintenance person to come by and inspect the ceiling?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Is tomorrow morning at 8 am good for you ?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright. Tomorrow at 8 am works. Will you be home to let the maintenance person in, or should they use a building key?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "I'll be home, yes, as I work from home"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright. Since you’ll be home, that’s perfect. What’s the best phone number for the maintenance person to reach you if they need to check in before arriving?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "sure thing, so my number is...404765209."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Perfect, everything is noted. Have a nice day !"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Thank you very much sir, have a nice day !"
+    }
+  ]
+}

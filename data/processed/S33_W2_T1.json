@@ -1,0 +1,240 @@
+{
+  "student_id": 33,
+  "week": 2,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S33_W2_T1",
+  "source_file": "data\\raw\\#33\\#33\\#33. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, um, I want to ask about making appointment to see doctor. Actually, I’m not sure if I should come in or call, so I’m calling first."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That’s totally fine, you’ve called the right place. I can help you book an appointment. Is this for a new appointment, or are you changing an existing one?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "New appointment. I didn’t come before, so… yeah, new one."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "No problem at all. Could you tell me a little bit about the reason for your visit?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Yes. I have sore throat and coughing. It started maybe three days ago, but yesterday was more uncomfortable. Not very serious, but annoying."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Okay, thanks for explaining that. Are you looking to see a doctor as soon as possible, or are you flexible with timing?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I prefer today, but I understand maybe today is full. So tomorrow is also okay. But if possible, morning is better because I work in the afternoon."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Let me check availability for you. We have an appointment tomorrow at am with one of our GPs. Would that suit you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Yes, that’s  in the morning."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Okay, good. Because sometimes I confuse  and , so I just wanted to be sure."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That’s completely understandable. So shall I book you in for am tomorrow?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Yes, please. But before confirming, can I ask something?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Of course, go ahead."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I’m international student, so I don’t have Medicare. I have OSHC instead. Is that okay here?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Yes, that’s absolutely fine. We accept Overseas Student Health Cover."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Okay, that’s good. Do I need to pay first, or after?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You’ll pay after the appointment. The doctor will let you know the cost, and you can claim through your OSHC provider."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Claim meaning… I get money back later?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yes, exactly. You usually submit a receipt to your insurance provider."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Okay, I understand now. Sometimes these processes are confusing for me."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "That’s completely understandable. We’re happy to explain anything."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Thank you. Also, do I need to bring something tomorrow?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, please bring your OSHC card and some photo ID if you have it."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Passport is okay?"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Yes, a passport is perfect."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Okay. And should I arrive exactly at , or earlier?"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "We recommend arriving about 10 minutes early to complete a short form at reception."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Form… is that paper form or online?"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "It’s a paper form at the clinic."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Okay, paper is fine. I was worried maybe it’s online and I need link."
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "No worries, we’ll give it to you when you arrive."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "One more thing, sorry. I keep asking many questions."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "That’s completely fine, take your time."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "If I need medical certificate for work, can I ask doctor during appointment?"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Yes, you can request a medical certificate during your consultation."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "Okay, perfect. Then please book that appointment."
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Alright, I’ll just confirm your details. Could I have your full name, please?"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Yes. My name is Min-Jae Kim. Do you need spelling?"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Yes, that would be helpful."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "M-I-N, dash, J-A-E. Last name K-I-M."
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Great, thank you. So you’re booked in for tomorrow at am."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Okay. So tomorrow, am, bring OSHC card, arrive early, paper form."
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "That’s exactly right."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "Alright, I feel clear now. Thank you for explaining everything slowly."
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "You’re very welcome. We’ll see you tomorrow. Take care."
+    }
+  ]
+}

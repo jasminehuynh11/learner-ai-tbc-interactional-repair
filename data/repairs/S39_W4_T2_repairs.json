@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S39_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      12,
+      13,
+      14
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand previous bot's suggestion",
+    "evidence_summary": "The learner asks for repetition in turn 12, indicating they did not understand the bot's previous suggestion about setting up a meeting. The bot rephrases the question in turn 13, and the learner responds appropriately in turn 14, confirming understanding and resolving the issue."
+  }
+]

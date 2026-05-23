@@ -1,0 +1,180 @@
+{
+  "student_id": 40,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S40_W1_T2",
+  "source_file": "data\\raw\\#40\\#40\\#40. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a table at a restaurant 🗨️ “Hi, I’d like to book a table for two tonight.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! What time would you like the table for tonight?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Hi, I would like to table for tonight around 7 p.m. 7.30?"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, we can do that. Would you prefer  or  exactly?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "7.30 p.m. is okay for me."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Great! And could I have your name for the booking, please?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "My name is Alejandro Suarez."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Thanks, Mr. Suarez. Would you like to sit indoors or on the terrace tonight?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I love to have a table outside. Thank you."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Perfect, we’ll reserve a terrace table for you. Do you have any special requests, like dietary preferences or a special occasion?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Yeah, I have a specific request about the dietary about my partner. My partner is vegan, intolerant for the lactose, and gluten-free."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it, thank you for letting us know. We’ll make sure to prepare suitable vegan, lactose-free, and gluten-free options. Would you like us to arrange a small surprise or decoration for the table, since it sounds like a special dinner?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I would like you to tell me about in your menu what is the option you have for all my partner restrictions food."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Of course! We have several dishes that fit your partner’s needs — for example, our grilled vegetable quinoa bowl, tofu and avocado salad, and coconut curry with rice noodles. We also offer a vegan chocolate mousse made with coconut milk for dessert. Would you like me to note one of these in advance for your order, or would you prefer to decide at the restaurant?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Lovely. The tofu and avocado salad and coconut cover with the rice noodle."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Excellent choice! I’ll note the tofu and avocado salad and coconut curry with rice noodles for your partner. Would you like to order something for yourself in advance as well, or will you decide when you arrive?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "On the other hand, I love to eat meat, fish, and seafood. You can recommend me something for the menu. What is the chef recommended for the menu?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure! Our chef’s recommendations tonight are the grilled sea bass with lemon butter sauce, the steak au poivre, and the seafood risotto — all freshly prepared. Do any of these sound good to you?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Oh my god, all sound amazing, but I think so, maybe I will want to grill sea bass with a lemon butter sauce. Thank you."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect choice — the grilled sea bass is one of our most popular dishes! Would you like any drinks with your meal, maybe wine, a cocktail, or something non-alcoholic?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Oh sure, can you recommend me about one bottle for Shiraz wine ?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Of course! We have a South Australian Shiraz that’s rich and smooth, perfect with seafood, or a Chilean Shiraz that’s a bit spicier and full-bodied. Would you prefer the lighter Australian one or the bolder Chilean?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "I choose one, a shiraz from South Australia."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Excellent choice — that pairs beautifully with your sea bass. Finally, could you please share a contact number for the reservation confirmation?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Absolutely. My number is 310-458-4421."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Thank you, Mr. Suarez. Your table for two is confirmed for  p.m. on the terrace, with your menu selections and wine noted. We’ll see you tonight — is there anything else you’d like to add to your booking?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Sure, is possible you decorate my table for a celebrate owr second anniversary"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That’s so lovely — congratulations to you both! 🎉 We can decorate your table with candles and some flowers. Would you prefer a romantic red and gold theme or something soft and elegant, like white and pastel tones?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "I would like Soft and Elegant, and White Tones is lovely."
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Perfect, we’ll prepare a soft white and elegant setup for your anniversary dinner. Everything’s arranged! Would you like a small card or message placed on the table to surprise your partner?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Ah, no, thank you. That's it. All good."
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Wonderful, Mr. Suarez. We look forward to welcoming you both tonight at . Have a beautiful evening and happy anniversary!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Thank you, see you soon!"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You’re very welcome, Mr. Suarez. See you soon — and enjoy your celebration!"
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+Task 1:
+You said: 
+I want to practice how to request a repair the Internet in my rental apartment. You are a housing manager. I am a tenant. Please create realistic and professional housing scenarios and respond as if I were reporting a real issue. Ask questions about what the problem is, how urgent it is, and when someone can come to fix it. Also ask about access and whether I need to do anything before the repair. Be polite and clear about the issue.
+English Conversational Partner said:
+Sure. What exactly is happening with your internet in the apartment?
+You said:
+“Hi, my internet has stopped working.”
+
+English Conversational Partner said:
+I’m sorry to hear that. Could you let me know how long it’s been out and whether it’s affecting all devices in your apartment?
+You said:
+“One more time, please.”
+
+English Conversational Partner said:
+Of course! No worries at all. So, could you let me know how long the internet has been down and if it’s affecting all of your devices, like your phone and laptop?
+You said:
+“It was fine yesterday, but now it won't connect.”
+
+English Conversational Partner said:
+I see, got it.
+You said:
+“Umm”
+
+English Conversational Partner said:
+No problem at all.
+You said:
+“5 hours ago”
+
+English Conversational Partner said:
+Alright, that makes sense. Could you also let me know if there have been any recent changes, like new equipment or anything unusual that happened before it stopped working?
+You said:
+“I do nothing, but this has happened three times this month. What can be done?”
+
+English Conversational Partner said:
+I understand. It sounds like it might be a recurring issue. Could you let me know if you’ve tried any troubleshooting steps on your end, or if there’s a specific time it tends to happen?
+You said:
+“I tried to turn off the power of router, but the internet isn't connected.”
+
+English Conversational Partner said:
+Got it, thanks for letting me know. In that case, we might need to send someone over. Could you tell me the best time for a technician to come by and if there’s a specific access code or instructions for entry?
+You said:
+“Is there a technician available today?”
+
+English Conversational Partner said:
+Let me check that for you. What time would be most convenient for you today, and is there a particular way we should access your apartment?
+You said:
+“I prefer 2 p.m. today.”
+
+English Conversational Partner said:
+That works perfectly. I’ll schedule the technician for 2 p.m. today. Is there anything else you’d like to let us know before the appointment?
+You said:
+“Who will come?”
+
+English Conversational Partner said:
+Absolutely, I’ll make sure to note that. The technician’s name and details will be provided in advance. If you have any other questions or concerns, just let me know!
+You said:
+“Do you know what the issue might be?”
+
+English Conversational Partner said:
+It could be a few things, like a problem with the router, an issue with the wiring, or even something on the service provider’s end. The technician will be able to diagnose it more accurately once they’re there.
+You said:
+“Can you check if there is an outage in the area?”
+
+English Conversational Partner said:
+Of course, I’ll look into that right away and let you know if there’s any outage reported. In the meantime, if you notice anything else, just let me know.
+You said:
+“What should I try before you send someone?”
+
+English Conversational Partner said:
+Certainly! Before we send someone over, you can try restarting the router one more time, checking all the cables to make sure they’re secure, and confirming that there’s no service outage in your area. If that doesn’t help, we’ll definitely arrange a technician visit.
+You said:
+“Should I wait here or will some call me?”
+
+English Conversational Partner said:
+We’ll definitely give you a call in advance to confirm the appointment and let you know when the technician is on their way. But you can definitely stay at home, and we’ll coordinate everything with you.
+You said:
+“If the service isn't fixed by today, do I get a refund or a credit?”
+
+English Conversational Partner said:
+That’s a great question. Typically, we do offer credits for any prolonged service outages. Once the technician checks the issue, we’ll make sure to apply any applicable credits to your account.
+You said:
+“Okay, who can I contact if this isn't resolved today?”
+
+English Conversational Partner said:
+You can always reach out to our maintenance hotline, or you can email our support team directly. I’ll make sure you have all the contact details, and we’ll be here to help you until it’s resolved.
+You said:
+“Can you give me a reference number for this request?”
+
+English Conversational Partner said:
+Absolutely, I’ll make sure to provide you with a reference number once we schedule the service, and you can use that whenever you reach out to us. That way, we can keep track of everything smoothly.
+You said:
+“Thank you so much. That was helpful. I'll wait for the technician.”
+
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you need anything else in the meantime, just let me know. We’ll take care of it and talk to you soon!
+
+
+
+Task 2: 
+You said: 
+I want to practice how to report lost item formally and calmly to a lost-and found service. You are a lost-and-found assistant. I am the person lost item. Please create realistic and respond as if I were reporting a real issue. Ask questions about what the problem is, how things, and when and where lost. Ask follow-up questions if I seem confused. Be polite and clear about the issue.
+English Conversational Partner said:
+Alright, no problem. What item did you lose?
+You said:
+“Hi, I've just realized I lost my phone. I'm at the train station and I'd like to check with the lost and found desk.”
+ 
+English Conversational Partner said:
+I’m sorry to hear that. Could you let me know when you last had your phone and where exactly you think you might have lost it at the station?
+You said:
+“I last saw it on the train around 2 p.m.”
+ 
+English Conversational Partner said:
+Got it, thank you for that information. Could you also describe the phone, like the model, color, and any distinctive features it might have?
+You said:
+“iPhone 18, no iPhone 17, and it has a black case, and”
+ 
+English Conversational Partner said:
+Perfect, that’s helpful.
+You said:
+“The lock screen is baby.”
+ 
+English Conversational Partner said:
+Alright, got it. Thank you for that detail. Could you also let me know if you remember the train number or the platform you were on when you lost it?
+You said:
+“I don't remember train number, but”
+ 
+English Conversational Partner said:
+That’s okay, no worries. Perhaps you can recall which platform or the approximate time you boarded or left the train? That will help us narrow it down.
+You said:
+“Platform is 5.”
+ 
+English Conversational Partner said:
+Great, that’s very helpful. And do you remember the approximate time you were on platform 5, or maybe the time you boarded the train?
+You said:
+“I rode off the train at 2.30.”
+ 
+English Conversational Partner said:
+Alright, that helps a lot. Thank you for that detail. Is there any other information you think might be useful, like any nearby landmarks or anything else that could help us track it down?
+You said:
+“I have a question.”
+ 
+English Conversational Partner said:
+Of course, feel free to ask! What would you like to know?
+You said:
+“What happens if someone finds it?”
+ 
+English Conversational Partner said:
+Great question! If someone finds your item, they usually turn it in to the lost and found department, and we’ll do our best to contact you as soon as it’s recovered. We’ll keep you updated throughout the process.
+You said:
+“So, can I leave my contact details?”
+ 
+English Conversational Partner said:
+Absolutely, you can leave your contact details with us, and we’ll make sure to reach out as soon as we have any updates. Could you share your phone number or email with me?
+You said:
+“OK, I'll send my information later.”
+ 
+English Conversational Partner said:
+That sounds perfect! Whenever you're ready, just let us know, and we'll be here to assist. If you have any other questions in the meantime, just let me know!
+You said:
+“Do I need to fill out a form?”
+ 
+English Conversational Partner said:
+Yes, typically we do have a form to fill out with some details about the item and your contact info. I can guide you through it whenever you're ready, and we’ll make it as easy as possible.
+You said:
+“OK, do I need to show ID when collecting it?”
+ 
+English Conversational Partner said:
+Yes, usually we do ask for an ID to confirm your identity when you pick up the item. That helps ensure that it goes to the right person.
+You said:
+“Can you call and email me if it's found?”
+ 
+English Conversational Partner said:
+Absolutely, we’ll make sure to reach out to you both by phone and email as soon as we have any updates. Just let us know your preferred contact details, and we’ll handle the rest.
+You said:
+“OK, how long do you keep lost items on file?”
+ 
+English Conversational Partner said:
+Typically, we keep lost items for about 30 days, and if it’s not claimed within that period, we may donate or dispose of it. But hopefully, we’ll have it back to you well before then!
+You said:
+“OK, finally, is there a lost property website I can check?”
+ 
+English Conversational Partner said:
+Yes, absolutely! We do have a lost property website where you can check for updates anytime. I can provide you with the link or the details, so you can keep an eye on it as well.
+You said:
+“After I send my information to you, what should I do?”
+ 
+English Conversational Partner said:
+Once you send your information
+You said:
+Transcript Unavailable
+ 
+English Conversational Partner said:
+…we’ll confirm that we’ve received it and keep you updated if we find your item. In the meantime, feel free to reach out if you have any other questions, and we’ll be here to help every step of the way.
+You said:
+“Thank you for explaining everything. I appreciate your help.”
+ 
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you need anything else, just let me know. Otherwise, I hope your phone is found soon!
+You said:
+“No, thank you. I'll wait.”
+ 
+English Conversational Partner said:
+Of course, anytime! Take care, and don’t hesitate to reach out if you need anything at all. Have a great day!
+ 
+Task 3: 
+You said: 
+“I want to practice how to request a repair. You are a property manager. I am the tenant. Please create realistic and professional scenarios and respond as if I were reporting a real issue. I ask questions about what the problem is, how urgent it is, and when someone can come to fix it. Also, I ask about access arrangements and whether I need to do anything before the repair. Be polite and clear about the issue. Ask follow-up questions if I seem confused.
+English Conversational Partner said:
+Alright. Thanks for letting me know. What seems to be the problem in your unit today?
+You said:
+“Hi, there's a leak under the kitchen sink.”
+ 
+English Conversational Partner said:
+Oh, I’m sorry to hear that. How long has the sink been leaking, and how urgent is it for you to get it repaired?
+You said:
+“Firstly, it's leaking a lot. Can someone come after business hours?”
+ 
+English Conversational Partner said:
+I understand, that sounds inconvenient. We can definitely arrange for someone to come after business hours. Could you let me know your preferred day and time for the repair?
+You said:
+“Today, as soon as possible.”
+ 
+English Conversational Partner said:
+Got it, we’ll do our best to send someone over today. Could you also let me know if there are any specific access instructions or if someone will be home to let the technician in?
+You said:
+“Should I turn off the water until they come?”
+ 
+English Conversational Partner said:
+Yes, that would definitely help prevent any further leakage. So please turn off the water if you can. Is there anything else you’d like to let us know before we schedule the repair?
+You said:
+“Is there anything I should prefer before they arrive?”
+ 
+English Conversational Partner said:
+Mostly just make sure the area around the sink is clear and accessible. That should help the technician a lot. If you have any specific concerns, just let me know.
+You said:
+“What time will they come?”
+ 
+English Conversational Partner said:
+We’ll aim for later this afternoon, probably between 4 and 6 PM. Does that timeframe work for you?
+You said:
+“So nice, could they call or text me when they are on their way?”
+ 
+English Conversational Partner said:
+Absolutely, we’ll make sure they give you a call beforehand so you know when they’re on their way. Is there anything else I can assist you with in the meantime?
+You said:
+“Do I need to stay home for the repair?”
+ 
+English Conversational Partner said:
+Yes, it would be best if someone is there to let them in and to show them the issue. But if that’s a challenge, we can definitely discuss other arrangements. Let me know what works best for you.
+You said:
+“Let me know if you need any more information.”
+ 
+English Conversational Partner said:
+Will do, and thank you! We’ll keep you updated and let you know if we need anything else. If you have any other questions, just let me know!
+You said:
+“Can you send me a confirmation?”
+ 
+English Conversational Partner said:
+Of course! I’ll send you a confirmation as soon as we’ve scheduled the appointment. Is there a preferred email or phone number where I should send that?
+You said:
+“I prefer both of these.”
+ 
+English Conversational Partner said:
+Perfect, that works great! I’ll make sure to send the confirmation to both your email and your phone. If there’s anything else, just let me know!
+You said:
+“This is the second time it's happened. Can it be checked more slowly?”
+ 
+English Conversational Partner said:
+Absolutely, we can definitely have the technician take a closer look and check for any underlying issues. I’ll make a note of that so we can ensure a thorough inspection. Let me know if there’s anything else you’d like to add!
+You said:
+“What is the name of repair person?”
+ 
+English Conversational Partner said:
+I’ll confirm the technician’s name once the appointment is finalized, and I’ll include that in the confirmation as well. If you have any other questions in the meantime, just let me know!
+You said:
+“How many people will come?”
+ 
+English Conversational Partner said:
+Typically, it’ll be one technician, but if the issue is more complex, we might send a second person to help out. I’ll make sure to let you know the details beforehand. If you have any other concerns, feel free to ask!
+You said:
+“Thanks for organizing that so quickly. Have a great day.”
+ 
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. Have a wonderful day as well, and don’t hesitate to reach out if you need anything else. Take care!
+
+Week3 Task4  Seeking Technical support for a device or service
+I want to practice how to contact customer support for a technical problem with my phone. You are a tech support agent. I am a customer. Please create realistic and professional troubleshooting scenarios and respond as if I were reporting a real issue. Ask questions about what the problem is, device, and account information Also ask about access and whether I need to do anything before the repair. Be polite and clear about the issue.
+English Conversational Partner said:
+Alright, happy to help. Could you tell me what exact problem you’re having with your phone today?
+You said:
+“Hello.”
+ 
+English Conversational Partner said:
+Hello! I’m here to assist you. Could you let me know what kind of issue you’re experiencing with your phone? For example, is it a software glitch, or are you having hardware problems?
+You said:
+“I can't open this photo up. It crashes every time.”
+ 
+English Conversational Partner said:
+I’m sorry to hear that. Let’s get that sorted out. Could you let me know which phone model and operating system version you’re using? And also, have you tried any troubleshooting steps so far, like restarting the phone?
+You said:
+“It's a iPhone 16, about 1 year old. I've tried restarting it already.”
+ 
+English Conversational Partner said:
+Got it, thank you for that info! In that case, can you tell me if you recently updated the iOS or installed any new apps before the issue started? And do you have any important data in the app that you need to back up?
+You said:
+“One more time, please.”
+ 
+English Conversational Partner said:
+Of course! Just to recap: I’m wondering if you recently updated your iOS or installed any new apps before the photo app started crashing. Also, do you have any important data in that app that you need to back up?
+You said:
+“no update”
+ 
+English Conversational Partner said:
+Alright, understood! Thank you for clarifying. In that case, let's check a couple more things. Have you tried clearing the app’s cache or updating the app itself? And do you have any other apps that are also experiencing issues?
+You said:
+“It means I should update the software.”
+ 
+English Conversational Partner said:
+That could definitely help! Sometimes updating the software resolves these issues. If you’d like, I can guide you through the update process. And if that doesn’t work, we can try some other troubleshooting steps as well. Let me know how you’d like to proceed!
+You said:
+“I have important document in this photo app, but I can't back up.”
+ 
+English Conversational Partner said:
+No worries at all! We’ll make sure to keep your data safe. Before we proceed with any updates, we can try to back up those important documents. Would you like some guidance on how to do that, or shall we try another troubleshooting step first?
+You said:
+“I want to know guidance.”
+ 
+English Conversational Partner said:
+Absolutely, I’d be happy to help! To back up your photos, you can use iCloud or connect your iPhone to a computer. If you’d like, I can walk you through the steps for either option. Which one would you prefer?
+You said:
+“Pretty cool.”
+ 
+English Conversational Partner said:
+Alright, perfect! So, if you’d like to back up to iCloud, we can go into your settings, tap on your Apple ID, and then select iCloud, and then Photos, and make sure iCloud Photos is turned on. If you prefer to back up to a computer, we can connect your iPhone via USB and use iTunes or Finder. Let me know which method you’d like to try first!
+You said:
+“iTunes”
+ 
+English Conversational Partner said:
+No problem at all! If you need any help along the way or have any other questions, just let me know. I’m here to assist whenever you’re ready!
+You said:
+“When resetting, delete my files or photos.”
+ 
+English Conversational Partner said:
+That’s a great question! Typically, when you reset your phone, you have the option to back up your data first, and that way your files and photos are safe. After the reset, you can restore them from that backup. So, if you back up your data beforehand, you’ll be all set!
+You said:
+“It means I don't need to worry about any security risks.”
+ 
+English Conversational Partner said:
+Exactly! As long as you have a proper backup, your data will be safe, and you can restore everything once the reset is complete. That way, you can proceed without worrying about losing anything important. If you need any guidance on how to do that, just let me know!
+You said:
+“Even if I update the software, this problem keeps happening. What should I do?”
+ 
+English Conversational Partner said:
+If the issue persists even after an update, we can try a few other steps, like reinstalling the app, checking for any app-specific updates, or even performing a factory reset as a last resort. And of course, our support team is always there to help as well. Just let me know what you’d like to try, and I’ll guide you through it!
+You said:
+“OK, thanks for your help. I'll try those steps.”
+ 
+English Conversational Partner said:
+You’re very welcome! If you have any more questions or need further assistance, just reach out. Good luck, and I hope everything gets resolved smoothly!
+

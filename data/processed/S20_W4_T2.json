@@ -1,0 +1,110 @@
+{
+  "student_id": 20,
+  "week": 4,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S20_W4_T2",
+  "source_file": "data\\raw\\#20\\#20\\#20. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "You are a teammate or project group member. Your role is to simulate a semi-formal team discussion with me, another member of the group. Scenario: We are working together on a group project or task. You must respond respectfully and collaboratively, but you should not always agree with me. Instead, share your own opinions, politely disagree when appropriate, and negotiate roles, deadlines, or contributions."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. What exactly is the project we’re working on—can you remind me of the topic or main goal?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, hello. We have just started a group project. Can we plan tasks together?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Let’s dive in. Could you share a bit more about the project’s main objectives and any initial ideas you have in mind? Then we can plan our tasks accordingly."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“We have to do a presentation, but I don't know who can start to talk. I don't know how to create a presentation with software use. Do you have some idea?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it! For the presentation, we can definitely break it down into sections. Maybe we can each take a part, like one person can handle the introduction, another the main content, and another the conclusion. As for software, we could use something like PowerPoint or Google Slides. Let me know what you think, and we can assign roles from there."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Do you think it's better if we start doing the PowerPoint or maybe before put some questions in a book and decide the better option?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That's a great point! I think it might help to start with an outline or a document where we jot down our main ideas and key questions first. That way, we have a solid foundation before we jump into PowerPoint. Once we have that structure, then we can transfer everything into slides. Does that sound good to you?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! We could start by brainstorming the key points we want to cover and then organize them into sections. After that, we can each take a section and flesh it out. And if you have any specific ideas or topics you want to focus on, definitely let me know, and we can incorporate them as well."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, and which session of the presentation do you want?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I’m happy to take on the introduction section if that works for you. That way, we can set the stage and outline the main objectives. Then maybe you can handle the main content or the conclusion, and we’ll split it up from there. Let me know if that sounds good to you!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Oh, okay, yeah, perfect, you can do the introduction. And you have some tips for the presentation, for try the presentation, when you are available for do together the presentation.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! One tip is to practice together a couple of times beforehand, so we’re comfortable with the flow. Also, keeping the slides visually simple and not too text-heavy helps a lot. And of course, we can schedule a practice session whenever it’s convenient for both of us. Just let me know your availability, and we'll make it work!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yeah, I'm available every day, so can you give me one day and one time?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "That sounds perfect! How about we plan for a practice session this coming Wednesday at 3 PM? If that works for you, we can go over the presentation together and fine-tune everything. Let me know if that time suits you or if we need to adjust."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Oh, ok, it sounds so perfect this day.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Great, I’m glad that works for you! I’ll make a note of it, and we’ll be all set for Wednesday at 3 PM. If anything comes up or you have more ideas, just let me know. Looking forward to it!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Thank you. I recommend you to start the presentation.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll get started on that, and we’ll make sure everything’s ready for our practice session. Thanks so much for collaborating, and I’m excited to see how it all comes together. Talk to you soon!"
+    }
+  ]
+}

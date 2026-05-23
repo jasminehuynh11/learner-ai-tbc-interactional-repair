@@ -1,0 +1,275 @@
+{
+  "student_id": 9,
+  "week": 4,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S9_W4_T1",
+  "source_file": "data\\raw\\#9\\#9\\#9. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Discussing Study"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hello there! So, let's get started. What can I help you with today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yeah, is this academic advisor office, right?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! You’ve reached the academic advisor. So, let’s start with the basics: What kind of program or subject are you looking to get advice on?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Okay, and my role is just a student, a university student, or that.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, a university"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I'm studying in English academy here.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it! A current student it is. So let’s dive in: Are you looking for advice about your courses this semester, or is this more about planning for next year?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I'm studying in English academy here.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Sure, that makes sense. So you're focusing on English studies here. Now, are you trying to figure out which specific English courses you should take, or is it more about how to meet your overall academic requirements?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, I'm studying English Academy in Sydney. I have two months left, but I want to...”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, studying English in Sydney with"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I want to go to Sydney University because I already had an economic master's degree back home.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure, that makes sense. So you’re aiming to get into a university program in Sydney next, since you’ve already got that economics master’s. Now, are you looking for advice on which English courses will help you qualify for that, or is it more about navigating the university admissions process?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yes, but I want to get another master's degree.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, understood."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“In here.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Sure, that makes sense. So you're aiming for another master’s here. Now, do you already have a particular master's program in mind, or do you need some help choosing the right one that fits your goals?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh, sorry. Can you say it again?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course! So I was just asking if you already have a specific master's program in mind here in Sydney, or if you need a bit of help choosing the right one for your goals."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, I want to learn about policy.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Got it! So you're interested in something related to policy. Now let me ask: are you more interested in public policy, like government and social issues, or maybe something like economic policy?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Economic policies, because I already had an economic master's degree in Korea.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Sure, that lines up perfectly. So you're leaning toward something in economic policy. Now, let's figure out the next step: have you already looked at which universities in Sydney offer that kind of program, or do you need a bit of help with that part?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“I don't know the Sydney programs well, so can you tell me the difference? And what is the diploma before master's degree?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that. So, basically in Sydney, some universities offer a graduate diploma that you can do before a full master's. It's like a stepping stone. Now, let me ask you: would you prefer to start with that kind of diploma program to get familiar with the field, or do you want to jump straight into a master's program if possible?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I got it.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Great! So now that you’ve got that, let me know: would you rather ease in with a diploma first, or just go straight into the master’s if you can?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“How long I take a diploma?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Sure! So typically a graduate diploma might take around a year of full-time study. Now, does that timeline sound like something that would fit into your plans, or are you hoping for something shorter?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Should I do a default LOMA before a master's degree?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Sure! So generally, doing a diploma first can help if you want a smoother entry into a master's, especially if you want to build up some local credentials. So my question for you is: do you feel like you'd be more comfortable easing in that way, or are you confident you want to jump straight into the master's program directly?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I'm not good at English school. Is it okay?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, that's totally okay. We can work with that. In fact, starting with a diploma might actually give you some extra time to get comfortable with English. So would you like to go that route and get a bit more used to studying in English first, or do you have another idea in mind?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“OK, this sounds like something I'd enjoy.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Great! That sounds like"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“But I have considered that before.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure, that makes total sense. Sometimes it just takes a little chatting to see the options. So let me ask: do you feel ready to look into some specific diploma programs now, or do you want to talk through anything else first?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Okay, thanks for your time.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Of course! Happy to help. And if you need anything else, just let me know. Otherwise, take care and good luck with everything!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "You're welcome! Take care and all the best with your studies. If you need any more advice, just drop by anytime."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Can I ask one more?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely! Go right ahead and ask whatever you need."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“How do I find...”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Sure! So funding"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“or Muni, who've taken a similar path.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely, plenty of students take a similar path, so you're definitely not alone in that. Now, just to help you further: are you interested in connecting with any student groups or resources that can guide you along the way?"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "You're very welcome! And if you need anything else down the line, just let me know. Otherwise, take care and good luck!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Bye-bye.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Bye! Take care and have a great day."
+    }
+  ]
+}

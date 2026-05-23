@@ -1,0 +1,43 @@
+[
+  {
+    "dialogue_id": "S50_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's fragmented/unclear phrasing",
+    "evidence_summary": "The learner's statement 'I think any lights on my monitor at all' is unclear. The bot asks for clarification about the lights and the monitor's responsiveness. The learner then clarifies with 'When I connect to my monitor, the screen flickers,' resolving the issue."
+  },
+  {
+    "dialogue_id": "S50_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      35,
+      36
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – didn't understand 'built-in diagnostic tool'",
+    "evidence_summary": "The learner expresses not knowing how to run a 'built-in diagnostic tool.' The bot offers to guide the learner through the process, resolving the confusion."
+  },
+  {
+    "dialogue_id": "S50_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner's fragmented/unclear phrasing",
+    "evidence_summary": "The learner's statement 'I think I'm hearing weak now. So I don't... I cannot...' is unclear. The bot responds with understanding and reassures the learner about avoiding extra charges, resolving the issue."
+  }
+]

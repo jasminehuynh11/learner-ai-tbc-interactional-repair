@@ -1,0 +1,175 @@
+{
+  "student_id": 37,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S37_W3_T2",
+  "source_file": "data\\raw\\#37\\#37\\#37. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Seeking Technical Support for a Device or Service"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Seeking Technical Support for a Device or Service “ Hi, I bought a cell phone here last week but it gave a problem, I have a warranty, how do I solve this problem? “"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure, I can help with that. What kind of problem is the phone having right now?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "The cell phone screen turns black and not turn on, I tried to change charger and it's still the same"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, thanks for explaining. Does the phone show any lights, vibration, or sound at all when you try to turn it on?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Nothing"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Okay, got it. About how long ago did this start happening, and did anything unusual happen before the screen went black, like a drop or getting wet?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Soon when I bought it on the 3rd day, I didn't get it wet or knocked it down"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, thanks for clarifying. Do you still have the receipt or proof of purchase with you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Yes I have but it’s no In my name"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Okay, that’s fine. Was the phone bought here in the store, or was it purchased online through us?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "On line"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, thanks. Do you have the order number or the email used to place the online order?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes I have a e-mail: it is lemessouza.233@gmail.com"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great, thanks. Do you also have the order number from that email so I can locate the purchase quickly?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes of course"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, perfect. Could you please tell me the order number from the email?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "45"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Okay, thanks. Can you confirm the phone model you ordered so I can check the warranty and replacement options?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "iPhone 17"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright, thanks. Would you prefer a replacement phone or a repair under the warranty?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "The same please"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Alright, no problem. Could you please confirm the delivery address so we can send the replacement iPhone 17 to you?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "I can get in the store?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Sure, that’s possible. Which store location would you like to pick it up from?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "You could tell me the adresse the store?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Sure. Which city are you in, so I can give you the correct store address?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Is São Paulo"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Alright. Our São Paulo store is at Avenida Paulista, 1230 – Bela Vista, São Paulo. When would you like to come in to pick up the replacement?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Today, thank you so much !!"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re welcome! Please bring your phone, the receipt, and the order email with you today. We’ll be ready to help when you arrive—see you soon 😊"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Ok, see you!"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Alright, see you later! Have a safe trip to the store 😊"
+    }
+  ]
+}

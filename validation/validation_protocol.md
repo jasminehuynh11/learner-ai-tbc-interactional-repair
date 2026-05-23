@@ -3,7 +3,7 @@
 ## Project
 
 - Study title: `Interactional Repair in Learner-AI Task-Based Conversations: Patterns of Initiation, Resolution and Participation`
-- Codebook basis: Operational repair criteria documented in `code/scripts/repair_detector.py` and study coding documentation
+- Codebook basis: Operational repair criteria documented in `code/scripts/repair_detector_gpt.py` and study coding documentation
 - Validation round: Exclusion-focused data cleaning and confirmation review (2026)
 
 ## Personnel
@@ -37,7 +37,7 @@
 
 ## Data Cleaning Procedure for Exclusions
 
-1. Start from candidate repair exports (`repairs_export.xlsx`).
+1. Start from candidate repair exports (`repairs_export.xlsx`; not included in public package — access subject to data governance restrictions described in `docs/DATA_AVAILABILITY.md`).
 2. Search the `Brief notes` column for indicators:
    - "no genuine communication trouble"
    - "no signs of communication issues"

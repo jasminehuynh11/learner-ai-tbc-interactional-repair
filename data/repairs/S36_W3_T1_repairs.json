@@ -1,0 +1,47 @@
+[
+  {
+    "dialogue_id": "S36_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner's unclear phrasing / bot's incomplete response",
+    "evidence_summary": "The learner's utterance in turn 35 (\"Maybe you know what company else.\") was unclear and fragmented. The bot's response in turn 36 was incomplete. The learner then explicitly apologized and rephrased their question in turn 37, asking for other companies to call, which the bot understood and answered in turn 38, resolving the communication trouble."
+  },
+  {
+    "dialogue_id": "S36_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      47,
+      48
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot delay / unfulfilled promise",
+    "evidence_summary": "The learner requested a phone number in turn 39. The bot promised it in turn 40 but then delayed providing it in turns 42 and 44. The learner initiated repair by prompting in turn 41 (\"Hello?\") and explicitly repeating the request in turn 43. After a nested misunderstanding (Repair 3), the bot finally provided the number in turn 48, resolving the initial delay."
+  },
+  {
+    "dialogue_id": "S36_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      45,
+      46,
+      47
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech / bot misunderstanding",
+    "evidence_summary": "The learner's utterance \"Yes, vote for number, I read it for writing\" in turn 45 was unclear, likely due to ASR or awkward phrasing. The bot misinterpreted this in turn 46 as the learner offering to share *their* number. The learner then clarified in turn 47 by re-stating their request for the office's number, which resolved the bot's misunderstanding."
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "dialogue_id": "S16_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner's utterance in Turn 7 was unintelligible (\"Transcrição indisponível\"). After an incomplete bot response in Turn 8, the learner re-initiated the conversation in Turn 9 (\"Hi, Alex.\"), implicitly signaling trouble and attempting to fix it. The bot then re-prompts in Turn 10, and the dialogue continues, indicating resolution."
+  },
+  {
+    "dialogue_id": "S16_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      19,
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner did not understand bot's question",
+    "evidence_summary": "The learner explicitly asked for a repetition in Turn 19, indicating they did not understand the bot's previous question. The bot rephrased the question in Turn 20, and the learner provided a relevant answer in Turn 21, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S16_W3_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner did not understand bot's question (multiple attempts)",
+    "evidence_summary": "The learner repeatedly indicated a lack of understanding of the bot's question in Turns 25 and 27. The bot made multiple attempts to rephrase the question (Turns 26, 28). Although the learner's final response in Turn 29 was somewhat unclear, the bot successfully interpreted it in Turn 30, allowing the dialogue to move forward, indicating resolution."
+  },
+  {
+    "dialogue_id": "S16_W3_T2",
+    "repair_id": 4,
+    "turn_indices": [
+      39,
+      40
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "learner's request for outage check after bot's offer to send a technician",
+    "evidence_summary": "The bot offered to check for a technician in Turn 39, but the learner asked for an outage check in Turn 40, indicating a preference for confirming an outage before proceeding with the technician. The learner's request suggests a potential misalignment in the task focus rather than a resolved uncertainty."
+  },
+  {
+    "dialogue_id": "S16_W3_T2",
+    "repair_id": 5,
+    "turn_indices": [
+      62,
+      63,
+      64
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding of bot's name/greeting",
+    "evidence_summary": "The learner misinterpreted the bot's introduction (\"Officer Daniels\") as a farewell in Turn 62, responding with \"Bye, Daniels.\" The bot implicitly initiated a repair in Turn 63 by re-greeting and re-prompting the task question, signaling that the conversation was continuing. The learner then correctly engaged with the task in Turn 64, indicating the misunderstanding was resolved."
+  },
+  {
+    "dialogue_id": "S16_W3_T2",
+    "repair_id": 6,
+    "turn_indices": [
+      80,
+      81,
+      82
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner did not understand bot's statement",
+    "evidence_summary": "The learner explicitly requested a repetition in Turn 80, indicating a lack of understanding of the bot's previous statement. The bot rephrased its statement in Turn 81, and the learner confirmed understanding with \"OK\" in Turn 82, resolving the issue."
+  }
+]

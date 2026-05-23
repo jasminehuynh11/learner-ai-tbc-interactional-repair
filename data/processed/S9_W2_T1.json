@@ -1,0 +1,155 @@
+{
+  "student_id": 9,
+  "week": 2,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S9_W2_T1",
+  "source_file": "data\\raw\\#9\\#9\\#9. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Visiting a Medical Clinic"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“uh okay is there the skin medical center right?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yes, and I'd like to make an appointment to see a doctor”"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Oh, sorry. Oh, sorry, sorry. Okay, can I say back again?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yes, hi, I'd like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Oh, can you say that again slowly?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Is it okay any day?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, I have allergy to cat and I have a cold and tickles in skin and eyes.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Is it anyone okay for... me?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I will go to English school in the morning, so I'd like to make an appointment in the afternoon.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“You have to say that appointment days or time.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I'll see you tomorrow at 2pm.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Oh yes, is it okay, but if I don't have an appointment, how long is the current wait that day?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Okay, I'd like to make an appointment at 2 p.m. on tomorrow.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Is it okay if I come in 10 minutes early?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, and is there a cancellation fee?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, and I'd like to confirm my appointment for tomorrow.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, and can I make an appointment for someone else?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yes, her name is Diana, but I don't know that her symptom.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes. I don't know.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“And do I need to bring the medical card? My medical card?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yes, I'm a foreigner, so do I need to bring my passport?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“And I just needed to repeat pre-inception.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“I have to ask for some documents for insurance.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Yes, but getting a document is free.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Okay, thank you so much. I will see you at 2 p.m. on tomorrow.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Goodbye.”"
+    }
+  ]
+}

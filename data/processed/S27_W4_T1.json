@@ -1,0 +1,90 @@
+{
+  "student_id": 27,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S27_W4_T1",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I’m studying natural environment, but I’m not sure it’s the right fit."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Thanks for sharing that. What parts of the course do you enjoy, and which parts feel difficult or uninteresting?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I enjoy fieldwork, but I struggle with heavy data analysis."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That makes sense. Some careers combine environmental work with more practical or people-focused roles."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "That sounds like something I’d enjoy."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "For example, environmental consulting, sustainability coordination, or policy support roles focus less on raw data and more on application."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "So what are some signs that a course or subject might not be the right fit for me?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Common signs include constant lack of motivation, stress that doesn’t improve, or difficulty seeing how the subject connects to your future goals."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I do feel unsure about job options."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That’s very common. Talking to graduates or doing short internships can really help clarify that."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "What should I do now if I want to apply for internships next year?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Start by updating your CV, identifying 3–5 organisations you like, and building relevant skills through volunteering or short courses."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I see. Do you think I need more work experience before applying?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Not necessarily—many internships expect beginners. Showing interest, basic skills, and motivation is often enough."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "That makes me feel more confident."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I’m glad to hear that. We can review your CV together if you’d like."
+    }
+  ]
+}

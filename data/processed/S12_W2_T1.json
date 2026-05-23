@@ -1,0 +1,240 @@
+{
+  "student_id": 12,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S12_W2_T1",
+  "source_file": "data\\raw\\#12\\#12\\#12. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Some more, I'm visiting a medical clinic in person, and you will help me to book the service.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help with that! Let's get started. What kind of medical service are you looking to book, and do you have a preferred date and time?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sure thing! I'd be happy to help with that. May I ask what the reason for your visit is, so I can find the right doctor for you?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I have a toothache.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I'm sorry to hear that you're dealing with a toothache. I'll make sure we get you an appointment with a dentist as soon as possible. Do you have a preferred date or time for the appointment?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Sorry, I didn't catch you.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries at all! I was just asking if you have a preferred date or time for your appointment, so we can find a slot that works best for you."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I just want as soon as possible because my toothache is a little bit heavy.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "I'm sorry you're in pain. I'll prioritize getting you the earliest available appointment. Let me just check the soonest slot for you!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“When is the up-to-date time to the appointment?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Let me quickly check that for you. I’ll find the earliest available time and let you know in just a moment!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“So, which is the period time?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, I’ve found an appointment available later today in the afternoon. Does that work for you?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Oh, yes?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Great! I’ll go ahead and book that for you. You should receive a confirmation shortly. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Sorry, but what time is it?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "The appointment is scheduled for 3 PM this afternoon. I hope that works perfectly for you!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, that's okay.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Fantastic! I'm glad that works for you. If you need any more assistance before your appointment, just let me know. Otherwise, I hope you feel better soon!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Who will I be seeing, the doctor or just as a student of the dentist?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You'll be seeing a dentist for your toothache, so you'll get the right care for that. If you have any other questions before your appointment, just let me know!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Sorry, but I want a female dentist. I'm a little bit shy.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course, I totally understand. I'll make sure to schedule you with a female dentist. I'll confirm that for you right away. Thank you for letting me know!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I need some check before I visit the dentist.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange that for you as well. I'll make sure you have a check-up with the appropriate medical professional before seeing the dentist. Let me take care of that for you!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“So will I get to the hospital more earlier?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I can definitely try to arrange an earlier check-up for you. I'll see what's available and let you know as soon as possible. Just hang tight, and I'll get that sorted!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Maybe I will arrive at 2 p.m.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Got it! I’ll make sure everything is set for your arrival at 2 PM. If there's anything else you need in the meantime, just let me know!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“So if you confirm it and I will receive an email.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, I'll confirm everything and send you an email with all the details. You'll have it shortly! If there's anything else you think of, just let me know."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“When will I receive the email?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You should receive the email confirmation within the next few minutes. If you don't see it shortly, just let me know, and I'll make sure it gets to you."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“But as soon as I went to a restaurant to meet my friend, so what will I do when I didn't well, I haven't received the email.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "No worries at all! If you don't receive the email right away, just let me know and I'll resend it to you. You can also check your spam folder just in case, but I'll make sure you get it."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“So how can I contact you?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You can reach out to me anytime by replying to the email I'll send you, or you can give us a call at the clinic. Whatever is easiest for you!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Would you give me your number?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "I’m here to help you anytime through our chat or email, but if you need the clinic's phone number, I can definitely provide that for you in the confirmation email. Just let me know if there's anything else you need!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“That's fine.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Great! I'm glad everything's sorted out. If you have any other questions or need anything else, just let me know. Otherwise, I hope everything goes smoothly for your appointment!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“No, thank you. Let's meet at 2 p.m.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "You're very welcome! I'll be here if you need anything else. Take care and see you soon!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Thank you, bye!”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Bye! Take care, and have a wonderful day!"
+    }
+  ]
+}

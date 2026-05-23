@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S1_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      8
+    ],
+    "initiation": "LI",
+    "resolution": "U-A",
+    "trigger": "bot misunderstanding – incorrect location and time details",
+    "evidence_summary": "The bot misinterprets the learner's information about the location and time, stating 'Paradais, in Cobertown, around 3 a.m.' instead of 'Paradise, in Compton, around 10 a.m.'. The learner does not attempt to correct the bot's error, and the conversation continues without addressing the misunderstanding."
+  },
+  {
+    "dialogue_id": "S1_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      15,
+      14
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner description not acknowledged",
+    "evidence_summary": "The learner describes the phone case as having a picture of cats, but the bot incorrectly summarizes it as a 'red color' case. The learner does not correct this, and the misunderstanding persists without affecting the flow of the conversation."
+  }
+]

@@ -1,0 +1,135 @@
+{
+  "student_id": 21,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S21_W1_T2",
+  "source_file": "data\\raw\\#21\\#21\\#21. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a Restaurant Table Scenario: You are calling or visiting to make a reservation. Your Role: Customer Chatbot Role: Restaurant staff"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure. (Role: Restaurant Staff) Good evening, thanks for calling. How many people will you be booking the table for?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Peace.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, a table for"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I'd like to make my reserve for two people at 7 p.m.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Great, a table for two at 7 PM. May I have your name for the reservation, please?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, my name is Rui, R-U-I, Rui.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect, Rui. I’ve got that noted. Do you have any special requests or dietary preferences we should be aware of?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Could we have a table near the window, if possible?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course, I’ll make a note to seat you by the window. Is there anything else we can do to make your visit more comfortable?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "All right, noted. We’ll have everything set for you. If you need anything else, just let us know."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Sorry, so my friend is vegetarian, so do you have any vegetarian options?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, we have plenty of vegetarian options on our menu. I’ll make sure to let the kitchen know. Anything specific your friend would like, or should we just leave it open?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“And I'd like to give some cakes for my friend because this weekend is my friend's birthday, so that's why I would like to surprise something.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "That sounds wonderful! We can definitely arrange a birthday surprise. I’ll make a note for a special dessert or cake. Anything particular you have in mind for the cake?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Could you write her name on the plate something?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! Just let me know her name, and we’ll make it special."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Her name is Manami. It's M-A-N-A-M-I.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect, I’ll make sure to include Manami’s name on the plate. Everything is all set for your reservation. If there’s anything else you need, just let us know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Thank you so much. So everything is good for me.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re very welcome! We look forward to having you both. Have a great day!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Thank you very much. Looking forward to it.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "My pleasure! We’ll see you soon. Take care!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "👕"
+    }
+  ]
+}

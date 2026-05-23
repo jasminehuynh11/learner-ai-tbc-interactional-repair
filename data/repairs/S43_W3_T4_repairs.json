@@ -1,0 +1,51 @@
+[
+  {
+    "dialogue_id": "S43_W3_T4",
+    "repair_id": 1,
+    "turn_indices": [
+      4,
+      5
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – 'airport' instead of 'AirPods'",
+    "evidence_summary": "The learner mistakenly says 'airport' in turn 4 when referring to their device. The bot implicitly corrects this in turn 5 by using the correct term 'AirPods' in its clarifying question, and the conversation continues with mutual understanding of the device."
+  },
+  {
+    "dialogue_id": "S43_W3_T4",
+    "repair_id": 2,
+    "turn_indices": [
+      14,
+      15
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – 'Pluto' instead of 'Bluetooth'",
+    "evidence_summary": "The learner says 'Pluto' in turn 14, which is likely a mispronunciation or ASR error for 'Bluetooth'. The bot in turn 15 responds coherently by addressing connection issues, indicating it successfully interpreted the learner's intended meaning, and the conversation progresses."
+  },
+  {
+    "dialogue_id": "S43_W3_T4",
+    "repair_id": 3,
+    "turn_indices": [
+      24,
+      25,
+      26
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "lexical error – 'airport' for AirPods case; learner misunderstanding – misremembering bot's previous statements",
+    "evidence_summary": "In turn 24, the learner uses 'airport' again and asks about a 'charger problem' that the bot hadn't explicitly mentioned in that way. The bot in turn 25 provides relevant advice for charging issues and implicitly clarifies 'airport' by referring to 'AirPods and the case,' leading to a resolved understanding as the learner accepts the advice in turn 26."
+  },
+  {
+    "dialogue_id": "S43_W3_T4",
+    "repair_id": 4,
+    "turn_indices": [
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner asks why resetting helps",
+    "evidence_summary": "The learner asks why resetting the device helps solve the problem. The bot provides a clear explanation about clearing old connection data, which the learner accepts, resolving the issue."
+  }
+]

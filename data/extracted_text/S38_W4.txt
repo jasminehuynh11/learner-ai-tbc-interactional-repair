@@ -1,0 +1,133 @@
+Week 4
+Task 1: 
+English Conversational Partner said:
+So, what are your current study or career goals, and how can I help you today? 
+
+You said:
+“Saat ini, saya sedang belajar osteopatia tetapi saya tidak tahu sama ada ia adalah kebetulan.” (I don’t know why but when I do the call with chat gpt, it always do that so I rewrote the sentences)
+“I study osteopathy but I don’t know if this is the right fit your me…”
+
+00:05
+English Conversational Partner said:
+I see, that makes sense. Well, we can definitely explore that. What aspects of osteopathy are you unsure about, and what other fields are you considering?
+You said:
+“So I just feel like it's not for me. I really love anatomy and everything that concerns the muscle, but every time that we are in...”
+00:10
+English Conversational Partner said:
+I understand. It
+You said:
+“I feel like I don't belong here.”
+00:02
+English Conversational Partner said:
+I get that; it's important to feel passionate about what you’re studying. Are there any specific areas or fields that you’re considering as alternatives, or maybe any particular interests that you’d like to explore?
+You said:
+“I'm really interested in psychology.”
+00:02
+English Conversational Partner said:
+Oh, that’s wonderful! Psychology is such a fascinating field. What aspects of psychology are you most drawn to, like clinical work, counseling, or maybe research?
+You said:
+“More as a researcher, but I really like the aspect of Consulting too. It's really interesting”
+00:07
+English Conversational Partner said:
+That’s great to hear! There’s definitely a lot of overlap between research and counseling in psychology. Do you have any particular areas of research or counseling that you’re curious about, or any goals you’re aiming for?
+You said:
+“Sorry, could you repeat that please in another question? I did not really understand.”
+00:04
+English Conversational Partner said:
+Of course! I was just wondering if there are any specific areas within research or counseling in psychology that you’re particularly interested in, or any goals that you have in mind for your future career?
+You said:
+“Yes, I'm really interested in mental illness in general.”
+00:05
+English Conversational Partner said:
+That’s a really important area of focus. There’s definitely a lot of impactful work to be done there. Do you have any particular mental health conditions or populations that you’re especially interested in exploring?
+You said:
+“DALL·E is really vast, so there's a lot of interesting in this that I can potentially do my research on.”
+00:10
+English Conversational Partner said:
+Absolutely, there’s so much to explore! It’s great that you have that curiosity. Would you like to focus more on clinical applications, or are you leaning towards academic research and publishing?
+You said:
+“Academic research sounds really good, but I'm still stuck with the fact that I really love anatomy and muscles and learning the human body in general, so that's why I do not know what to do. I'm kind of stuck between those two.”
+00:17
+English Conversational Partner said:
+I totally understand; it can be a tough decision. You know, there are some interdisciplinary fields, like neuropsychology or even occupational therapy, that combine anatomy and psychology. Maybe we can explore some of those options together and find a good fit for you!
+You said:
+“Yes, of course. So, what would you recommend me?”
+00:03
+English Conversational Partner said:
+Well, one option could be exploring fields like neuropsychology, which definitely delves into both the brain and behavior. Another option could be physical therapy, where you still get to work closely with anatomy and muscles, but also help people with their mental well-being. We can definitely look into more detailed options and see what resonates most with you.
+You said:
+“What is the second one? Physical therapy? It sounds really interesting.”
+00:04
+English Conversational Partner said:
+Yes, exactly! Physical therapy focuses a lot on the musculoskeletal system and helping patients recover from injuries, and it definitely integrates anatomy and movement. It can be a great blend of hands-on work and helping people feel better. If that sounds exciting, we can definitely explore that further!
+You said:
+“But that sounds exciting, it sounds something that I would enjoy doing as a work.”
+00:07
+English Conversational Partner said:
+That’s awesome to hear! I’m really glad it resonates with you. If you’d like, we can dive into more details about the education path, certification, or even job opportunities in physical therapy. Just let me know how you’d like to proceed!
+You said:
+“Oh yes please, I would like to know if since I'm in osteopathic courses, I'm in the second year of Bachelor, should I finish my Bachelor degree in osteopathy and then go directly into physiotherapy, or what should I do?”
+00:18
+English Conversational Partner said:
+That’s a great question! In many cases, completing your bachelor’s degree can be beneficial, since it provides a solid foundation and can make the transition to physical therapy school smoother. But it also depends on the specific requirements of the physical therapy programs you’re interested in. We can definitely look into the prerequisites and figure out the best path forward for you.
+You said:
+“But how do I explore different carriers if I'm unsure what I want to do?”
+00:03
+English Conversational Partner said:
+That’s totally understandable! One great approach is to try out internships, shadowing professionals, or even volunteering in different fields. That way, you can get a real feel for what each career is like. Also, talking to professionals in those fields or even taking some elective courses can help you explore and narrow down your interests.
+You said:
+“Alright, I'll do that right now. I'm going to talk about it to a professor and ask for the courses details”
+00:06
+English Conversational Partner said:
+That sounds like a fantastic…(it did not continue ?)
+
+Task 2: 
+“Hello, our segment is due next week. Can we decide who will do each part?”
+00:06
+English Conversational Partner said:
+Absolutely, that sounds like a plan! We can definitely divide up the tasks. Which part would you like to take on, and is there any specific area you’re interested in focusing on?
+You said:
+“Yes, I will do the benefits. Is it okay if you do the drawbacks?”
+00:03
+English Conversational Partner said:
+That sounds perfect to me! I’d be happy to handle the drawbacks. So, we’ll each focus on our parts and then we can come together and combine everything into a cohesive presentation. Let me know if you need any help with research or anything else along the way!
+You said:
+“I think it's better if we add the percentages.”
+00:03
+English Conversational Partner said:
+Absolutely, adding percentages will definitely strengthen our points and make the presentation more impactful. We can include some relevant statistics for both the benefits and the drawbacks. Let me know if you have any specific data in mind, or I can help gather some as well!
+You said:
+“I wanted to know, do you want to do the presentation and I do the writing, or would you like me to do the presentation and you do the writing? Which one would you prefer?”
+00:08
+English Conversational Partner said:
+That’s a great question! I’m happy to be flexible. If you’d prefer to handle the presentation part, I can definitely take on the writing and the research. On the other hand, if you’d rather do the writing, I’m more than happy to present. Just let me know what works best for you!
+You said:
+“I think I will do the presentation. Is that okay with you?”
+00:02
+English Conversational Partner said:
+That sounds perfect to me! I’m more than happy to handle the writing and research, and that way you can shine during the presentation. If you need any support along the way, just let me know!
+You said:
+“Using the presentation with me, I meant going there, up there, for the overall we do it together. So, I mean, by presentation, the four points.”
+00:09
+English Conversational Partner said:
+Oh, got it! That sounds great. We’ll definitely collaborate on the key points, and we can both be involved in the actual presentation. I’ll handle the writing and the research, and then we can both present together and highlight the important aspects. Sounds like a plan!
+You said:
+“Yes, I'm going to message... Yeah, no, actually, let's message each other, because I still need to see your part, and so we can agree on a couple of things that we are going to talk about in the presentation.”
+00:14
+English Conversational Partner said:
+That sounds perfect! We can definitely coordinate and fine-tune everything together. Just let me know whenever you’re ready to share your part, and I’ll do the same. We’ll make sure everything’s aligned and polished before the final presentation!
+You said:
+“Sure thing. So since the presentation is due to next week, is it okay with you if we just do the research for the next two days and then we message each other on, what day is it? It's Monday, so on Wednesday. Is that okay if we share the information that we have on Wednesday?”
+00:18
+English Conversational Partner said:
+That sounds like a great plan! We can definitely spend the next couple of days on research, and then touch base on Wednesday to share our findings and make sure everything lines up. That way, we’ll have plenty of time to refine everything before the due date. Sounds perfect to me!
+You said:
+“All right, excellent. So let's do a recap. So I'm doing the benefits and you're doing the drawbacks. We have to, I'm doing the presentation, so the PowerPoints, and you're doing the writing. And then we will meet each other in two days to finalize it and just show each other the notes that we took so we can just practice together. Is that okay?”
+00:24
+English Conversational Partner said:
+Absolutely, that sounds like a perfect plan! We’ve got everything organized, and I’m excited to see what we come up with. We’ll reconvene in two days and polish everything up together. Sounds great, and I’m looking forward to it!
+You said:
+“Okay, if you need anything or if you have difficulties with anything, just text me and I'll be able to help you. On the other hand, I will do the same. Is that okay?”
+00:08
+English Conversational Partner said:
+Absolutely, that sounds perfect! We’ll keep the communication open, and we’ll help each other out whenever needed. I’m looking forward to collaborating, and I’m sure it’s going to go great!

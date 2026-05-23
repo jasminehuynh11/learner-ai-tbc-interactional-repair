@@ -1,0 +1,170 @@
+Task 1:
+☕ Ordering at a café 🗨️ 
+Você disse:
+“Hi, I would like to order a coffee today!”
+English Conversational Partner disse:
+Sure! What kind of coffee would you like today?
+Você disse:
+“I won't light up today.”
+00:02
+English Conversational Partner disse:
+No worries at all! Would you like something else to drink, like tea or maybe a smoothie?
+Você disse:
+Transcrição indisponível
+00:00
+English Conversational Partner disse:
+Alright, no problem at
+Você disse:
+“Maybe T.”
+00:01
+English Conversational Partner disse:
+Great choice! What kind of tea would you like? We have black tea, green tea, herbal tea… Let me know your preference.
+Você disse:
+“I would like black tea, please.”
+00:04
+English Conversational Partner disse:
+Perfect! Would you like that black tea hot or iced?
+Você disse:
+“I sit.”
+00:00
+English Conversational Partner disse:
+Got it, iced black tea it is! Would you like any sweetener or lemon with that?
+Você disse:
+“Sweetmare, please.”
+00:01
+English Conversational Partner disse:
+Absolutely, I'll add a slice of lemon for you. Is there anything else I can get for you today?
+Você disse:
+“No, nothing more today. Thank you.”
+00:02
+English Conversational Partner disse:
+You're very welcome! I’ll get that ready for you right away. If you need anything else, just let me know.
+Você disse:
+“Okay, thank you.”
+00:01
+English Conversational Partner disse:
+You're welcome! I'll have that ready for you in just a moment. Enjoy, and let me know if there's anything else I can help with.
+Você disse:
+“OK, thank you.”
+00:01
+English Conversational Partner disse:
+Of course! My pleasure. If you need anything at all, just give me a shout. Enjoy your tea!
+Você disse:
+“Okay, perfect.”
+00:01
+English Conversational Partner disse:
+Great! I’m glad everything’s set. If you think of anything else, just let me know. Otherwise, have a wonderful day!
+Você disse:
+“You too! Have a good day!”
+00:02
+English Conversational Partner disse:
+Thank you so much! Take care, and feel free to come by anytime. Bye for now!
+Você disse:
+“Bye-bye!”
+00:00
+English Conversational Partner disse:
+Bye! Have a great one!
+
+
+
+Task 2: 
+🍽️ Booking a table at a restaurant 🗨️
+Você disse:
+ “Hi, I’d like to book a table for two tonight.”
+English Conversational Partner disse:
+Sure! What time would you like the table for tonight?
+Você disse:
+“I would like a table for two tonight.”
+00:04
+English Conversational Partner disse:
+Got it! And do you have a specific time in mind, or is there a preferred time that works best for you?
+Você disse:
+“Oh, I don't know, maybe time-free.”
+00:03
+English Conversational Partner disse:
+Perfect, 7:30 it is! And would you like a table indoors or outdoors?
+Você disse:
+“Outdoor, please.”
+00:01
+English Conversational Partner disse:
+Great, an outdoor table for two at 7:30. Could I also get your name for the reservation?
+Você disse:
+“Name is Sara Sabanelli.”
+00:02
+English Conversational Partner disse:
+Perfect, Sara Sabanelli. All set! Is there anything else I can help you with for your reservation?
+Você disse:
+“Oh, I'm sorry. You old hippie, please?”
+00:04
+English Conversational Partner disse:
+No worries at all! I'm just here to help. If you need anything else, just let me know. Otherwise, I'm happy to assist whenever you're ready!
+Você disse:
+“Okay, for now, that's it. Thank you.”
+00:03
+English Conversational Partner disse:
+You're very welcome! Have a wonderful time, and if you need anything else, just let me know. Take care!
+Você disse:
+“Thank you so much. Have a good day.”
+00:02
+English Conversational Partner disse:
+You too! Have a great day, and enjoy your evening. Bye for now!
+Você disse:
+“Bye-bye, see ya!”
+00:02
+English Conversational Partner disse:
+Bye! See you later! Take care!
+
+
+TASK 3: 
+
+Você disse:
+“Hello, how are you?”
+00:01
+English Conversational Partner disse:
+I'm doing great, thank you! How about you? How can I assist you today?
+Você disse:
+“I'm fine, thank you. So I bought this dress last week and no, it doesn't fit, so I would like change it.”
+00:18
+English Conversational Partner disse:
+Got it, no worries
+Você disse:
+“It's possible?”
+00:02
+English Conversational Partner disse:
+Absolutely, it's definitely possible. Could you let me know what size you'd like to exchange it for, and also if you have the receipt handy?
+Você disse:
+“So, I both size medium and now maybe tend for size small.”
+00:10
+English Conversational Partner disse:
+Alright, that sounds good. And do you have the receipt with you, or maybe the order number, so we can process that exchange smoothly?
+Você disse:
+“Yes, I have to sit here. One moment.”
+00:04
+English Conversational Partner disse:
+Perfect, take your time. Let me know when you have it, and we’ll get everything sorted out.
+Você disse:
+“Here.”
+00:00
+English Conversational Partner disse:
+Great, thanks!
+Você disse:
+“It's received both the last week, so it's recently.”
+00:08
+English Conversational Partner disse:
+That’s perfect, that should make the exchange process nice and easy. Is there anything else I can help you with regarding the exchange?
+Você disse:
+“Yes, please. I would like change for a new color. Is it possible?”
+00:09
+English Conversational Partner disse:
+Absolutely, we can definitely do that. Just let me know which color you're interested in, and we'll make sure we get the right one for you.
+Você disse:
+“So, I want a dress small and red, please.”
+00:06
+English Conversational Partner disse:
+Got it, a small red dress. That sounds lovely! I’ll make sure we get that arranged for you. Anything else you’d like to add or any other questions?
+Você disse:
+“For now, no, it's okay. Thank you so much.”
+00:03
+English Conversational Partner disse:
+You're very welcome! If you need anything else at all, just let me know. Have a great day!
+

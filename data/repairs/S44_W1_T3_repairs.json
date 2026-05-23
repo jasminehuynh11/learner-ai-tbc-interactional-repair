@@ -1,0 +1,44 @@
+[
+  {
+    "dialogue_id": "S44_W1_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not know how to express a concept",
+    "evidence_summary": "The learner explicitly stated 'I don't know how to say that' in turn 10 to describe a type of jeans. The bot provided appropriate vocabulary ('straight-leg jeans' or 'relaxed fit jeans') in turn 11. The learner then attempted to use the new term ('a relaxed pants of jeans') in turn 12, and the bot confirmed understanding in turn 13, resolving the lexical gap."
+  },
+  {
+    "dialogue_id": "S44_W1_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – learner used incorrect word",
+    "evidence_summary": "The learner used 'costa' instead of 'cost' in turn 18. The bot implicitly corrected this lexical error by using the correct word 'cost' in its response in turn 19. The learner continued the conversation by accepting the price in turn 22, indicating the correction was understood and the issue resolved."
+  },
+  {
+    "dialogue_id": "S44_W1_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      29,
+      30,
+      31
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "fragmented utterance – learner's speech incomplete",
+    "evidence_summary": "The learner's utterance in turn 29 was incomplete and fragmented ('I think the t-shirt that you have in your...'). The bot implicitly interpreted this as a request for 'that t-shirt' and offered to bring it over in turn 30. The learner confirmed satisfaction with the item in turn 31, indicating the bot's interpretation was correct and the issue resolved."
+  }
+]

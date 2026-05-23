@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S2_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requests simpler explanation",
+    "evidence_summary": "The learner expresses difficulty understanding the bot's previous explanation and requests a simpler version in turn 8. The bot responds by simplifying its explanation in turn 9, and the conversation continues smoothly, indicating the issue was resolved."
+  }
+]

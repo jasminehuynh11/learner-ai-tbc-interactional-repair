@@ -1,0 +1,190 @@
+{
+  "student_id": 14,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S14_W4_T1",
+  "source_file": "data\\raw\\#14\\#14\\#14. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, I want to study overseas in the future. Could you tell me how to prepare now?"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! Studying overseas is exciting. To get started, one of the first steps is deciding on a destination. Do you have a particular country or university in mind?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I would like to go abroad to the U.K."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Oh, the UK is a great choice! Alright, so the next step is to look at the universities and the programs that interest you. Do you already have a field of study in mind?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "No, I don’t."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "No worries at all! That gives you a bit of flexibility. So, the next step would be exploring different fields that interest you. Are there any subjects that you find particularly exciting?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I'm interested in studying for education at the moment."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That’s wonderful! Education is such a meaningful field. So, the next step would be to look at universities in the UK that have strong education programs. Do you need any help with that?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Yes, please."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! I’d be happy to help. So, we can start by looking at some top universities known for education studies, and we can also talk about entry requirements and application timelines. Does that sound good to you?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "I want to improve my English in education industries."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it! Focusing on English skills for the education field is a great idea. We can work on specific vocabulary and phrases that you’ll need. Are you looking for general English practice, or more specific areas, like academic writing?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I think make a foundation would be great, so I would like to learn general English at first."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Great! We can definitely build a solid foundation in general English. We’ll focus on communication skills, vocabulary, and grammar that will be useful for the education sector. So, let’s get started with some basics!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Do you have any recommendation for studying education in the UK?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure! There are quite a few renowned universities in the UK for education, like the University of Oxford, the University of Cambridge, and UCL. If you want, we can dive into more details about any of them!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Yes, please. How different between each university?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely! Each university has its own unique strengths. For example, Oxford and Cambridge are known for their long history and prestigious reputation, while UCL is known for its diverse and innovative approach. We can explore their specific programs if you’d like!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Could you explain the specific programs of Oxford?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely! Oxford has a fantastic Department of Education with a wide range of programs, from master’s degrees in comparative and international education to doctoral programs focusing on educational policy. They also emphasize research and offer a vibrant academic community."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Should I do a diploma before a master's degree?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "It really depends on your background and the program requirements. Some master’s programs do prefer a diploma or some professional experience, but others might accept you directly. If you’d like, we can look into the specific entry criteria for the program you’re interested in."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "How is the diploma different from the master's degree?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "A diploma is usually a shorter program and often more focused on practical skills, whereas a master’s degree is more in-depth and research-oriented. The diploma can sometimes be a good stepping stone if you want to build some foundational knowledge before diving into a master’s."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "OK, and I really want to study for education, but what are some signs that a course or subject might not be the right fit for me?"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "That’s a great question! Some signs might include feeling uninterested or unmotivated by the coursework, struggling with the material even after giving it a good effort, or not seeing how the subject aligns with your long-term goals. It’s always good to reflect on how you feel about the subject as you dive in."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "How can I stay motivated if I'm not sure about my goals yet?"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Staying motivated can definitely be challenging, but one great way is to set small, manageable goals and celebrate those little achievements along the way. Also, exploring different areas within the field can help you find what excites you. And don’t forget to connect with peers or mentors for support and inspiration."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Also, what types of jobs are common for people in my degree?"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "With a degree in education, there are quite a few career paths you can take! Common roles include teaching, educational consulting, curriculum development, and even administrative positions in schools or educational organizations. It really depends on what interests you the most!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Who else can I talk to for career or study advice at the university?"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "At Oxford, you can reach out to academic advisors in the Department of Education, as well as career services that specialize in helping students with career planning. You can also connect with professors who have similar interests and even alumni who can share their experiences."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "That’s great. Are there any new industries or roles I should consider based on my strengths?"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, there are always new and emerging fields. For instance, educational technology is growing rapidly, and roles in that sector could be a great fit. Also, educational consulting, policy analysis, and even roles in online education are really on the rise. It all depends on what you’re passionate about!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Thanks for your time. I'll look into those options."
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. Feel free to reach out anytime if you have more questions. Good luck with everything, and have a great day!"
+    }
+  ]
+}

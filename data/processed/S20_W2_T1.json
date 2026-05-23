@@ -1,0 +1,170 @@
+{
+  "student_id": 20,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S20_W2_T1",
+  "source_file": "data\\raw\\#20\\#20\\#20. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking or Changing a medical appointment 🗨️ “Hi, I’d like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course. What kind of appointment do you need — is it for a general check-up or something specific? Got it! And do you have a preferred date or time for your appointment?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, is it possible to book an appointment for a friend of mine?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, that's no problem at all. Could you let me know their name and the reason for the visit?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yeah, he has a strong cold, and he cannot speak English so good, so it's difficult for him to make a reservation.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I understand, no worries at all. I'll make sure everything is clear. Could you let me know his name and the best contact number for him as well?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yeah, his name is Mark, and his contact number is 123...”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect, thank you! And just to"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“4 5 6 7 8 9”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it, that’s all noted. Is there a specific date and time that would work best for Mark’s appointment?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I think the best option is as soon as possible, so I'm not sure if you'll have any availability tomorrow..”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll check the earliest availability for tomorrow. Would morning or afternoon work better for him?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I think it can be better in the afternoon, and which time do you have the possibility?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure! We have availability in the early afternoon, around  or . Would either of those times work for Mark?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“And at which time there is the last queue?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure! The latest slot we have tomorrow is at about . Would that time work for him, or would you prefer to stick with the earlier options?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yeah, maybe it can be good at 4 p.m.?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Great, I'll go ahead and book it for 4 PM. Is there anything else I can assist you"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Which kind of document we need to take?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Great question! Usually, he'll need to bring a valid ID and any insurance information he has. If there are any previous medical records, those would be helpful too."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, and he doesn't speak English, so there is any option to use a translator or if there is like an English supporter or something like that?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange for a translator or have someone who speaks his language available during the appointment. I'll make sure that's noted as well."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“and we can arrive with public transport or with a car”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Both options are totally fine! We have parking available if you come by car, and there are also public transport stops nearby. Just let me know what works best for you."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“and how much it costs to park.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure! The parking is usually free and available on-site, so that shouldn’t be an issue at all. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“No, okay, perfect, it's everything like it is, okay.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Great! I'm glad everything’s set. If you need any more help, just let me know. Otherwise, we’ll look forward to seeing Mark tomorrow at 4 PM!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yeah, okay, and you know the name of the doctor already or we can discover tomorrow?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "We can confirm the doctor tomorrow, but I'll make sure it's someone who can assist him comfortably. If there's any preference, just let me know!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“No, it's everyone the same. Okay, thank you.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "You're very welcome! If anything else comes up, just give me a shout. Have a great day!"
+    }
+  ]
+}

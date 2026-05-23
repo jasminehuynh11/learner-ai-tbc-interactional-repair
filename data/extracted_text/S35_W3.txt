@@ -1,0 +1,309 @@
+WEEK 3:
+TASK 1: Reporting an Internet Outage at Your Housing 
+You said:
+Hi, my internet has stopped working
+English Conversational Partner said:
+Alright, sorry about that—are you using Wi-Fi or a wired (Ethernet) connection?
+You said:
+“Hi, my internet has stopped working.”
+00:03
+English Conversational Partner said:
+Got it, I’m here to help. Can you tell me if you’ve tried restarting your router or modem yet?
+You said:
+“I'll try to plug it in and plug it in.”
+00:04
+English Conversational Partner said:
+Alright, great! That’s a good first step. Are you noticing any lights on the router that might give a clue, like if any are off or blinking?
+You said:
+“I think it's still working as always because the lags are turned on.”
+00:06
+English Conversational Partner said:
+Gotcha, that’s good to know. In that case, have you tried connecting another device to see if the issue is with one device or with the entire network?
+You said:
+“Yeah, yeah, yeah. I did. I did. I tried. And it's still not working.”
+00:03
+English Conversational Partner said:
+I see, got it. In that case, we might need to check with your internet service provider. Have you noticed any outages in your area, or have you received any notifications from your provider?
+You said:
+“I haven't received any notifications, so I think it's not a problem from the area. I think it's a problem with the internet from you guys.”
+00:10
+English Conversational Partner said:
+I understand. Alright, in that case, we can definitely troubleshoot further. Have you tried any specific troubleshooting steps, like checking your device’s network settings or running a diagnostic test?
+You said:
+“Not yet. Can you explain to me how I can do it, please?”
+00:04
+English Conversational Partner said:
+Of course! So, one thing you can try is to open your device’s network settings and run the built-in troubleshooter. If you’re on Windows, for example, you can go to the Network & Internet settings and select the network troubleshooter. Would you like some guidance for a specific device?
+You said:
+“Altyazı M.K.”
+00:01
+English Conversational Partner said:
+Absolutely! Just let me know which device or operating system you're using, and I’ll walk you through the steps to get that troubleshooting going.
+You said:
+“Hmm, I don't know what kind of machine I have.”
+00:03
+English Conversational Partner said:
+No worries at all!
+You said:
+“I would like to know, actually, if there is a technician available today.”
+00:07
+English Conversational Partner said:
+Absolutely, I can help with that. Let me know your provider, and I can guide you on how to contact a technician or schedule a service visit.
+You said:
+“The provisor is Claro.”
+00:01
+English Conversational Partner said:
+Got it, thanks for that info! For Claro, you can usually reach their customer support line, and they’ll set up a technician visit if needed. Would you like me to give you their contact number or guide you through their online support?
+You said:
+“アウタッチを確認できますか?”
+00:04
+English Conversational Partner said:
+Absolutely, I can help with that! If you give me your location or your area, I can look up any reported outages for Claro and let you know what's going on.
+You said:
+“Hello, I check your data. What should I try before using someone?”
+00:09
+English Conversational Partner said:
+Sure! Before reaching out to a technician, it’s always helpful to double-check a few things, like making sure all cables are securely connected, verifying that your device’s Wi-Fi is turned on, and even testing with another device. That way, we can narrow down the issue before getting extra help.
+You said:
+“Yeah, I did everything. I think I reset the motor again, I plugged it in and unplugged it, so I think I did everything.”
+00:11
+English Conversational Partner said:
+Got it, that makes sense. Since you’ve tried all those steps, it might indeed be something on the provider’s end. I’d recommend contacting Claro’s support directly just to confirm if there’s an outage or to get further assistance. But I’m here if you need any more help along the way!
+You said:
+“Uh, yeah, I think this is a line to Pilaro Contacts, isn't it?”
+00:06
+English Conversational Partner said:
+Yes, exactly! That’s definitely the right approach. And if you need any more guidance or have any other questions, just let me know.
+You said:
+“Yeah, and can you give me like an appointment, a day, maybe any rank of hours?”
+00:08
+English Conversational Partner said:
+Absolutely! To set up an appointment, you can usually contact Claro’s support line and let them know your availability. They’ll be able to give you a time slot, usually within a certain window, like morning or afternoon. If you’d like, I can guide you through the steps to reach out to them or help with any other details.
+You said:
+“Yeah, I need a recording for this conversation. I think it doesn't bother you. Can you send me the record of the calling, please?”
+00:10
+English Conversational Partner said:
+Of course! I’m happy to help. Typically, the provider’s support call will have its own recording, but if you need any notes or a summary from our conversation, I’m more than happy to provide that. Just let me know what you need!
+You said:
+“Yeah sure, just the records. I think you have my email in your data.”
+00:06
+English Conversational Partner said:
+I’m here to help as best as I can! Just to clarify, I don’t have access to your personal data or email. But if you have any questions or need a summary, I’m more than happy to provide that right here. Just let me know what you need!
+You said:
+“Just send me the record to my email. My email is Nicolas Moncada.”
+00:06
+English Conversational Partner said:
+I’m here to help in
+You said:
+“at gmail.com point com, sorry”
+00:03
+English Conversational Partner said:
+I appreciate you sharing that. Just to let you know, I can't send emails or store personal information. However, I'm always here
+You said:
+“Oh, okay.”
+00:01
+English Conversational Partner said:
+No worries at all!
+You said:
+“It's okay, it's okay, it's okay.”
+00:01
+English Conversational Partner said:
+Absolutely, I’m here whenever you need anything, and feel free to reach out anytime. Just let me know if there's anything else I can assist with!
+You said:
+“It's the third time that it happened this month, so I would like you guys to keep in mind that when the technicians arrive, because it's the third time this month, so I'm tired of this situation, sorry.”
+00:17
+English Conversational Partner said:
+I completely understand, and I’m really sorry you’ve had to deal with that so often. Definitely let the technician know about the recurring issue, and hopefully, they can find a more permanent solution. If you need any support or have any other questions, I’m always here to help.
+You said:
+“Yeah, who can I contact if this isn't resolved today?”
+00:05
+English Conversational Partner said:
+If it’s not resolved today, the best approach is to contact Claro’s customer support directly, either through their hotline or their online chat. You can explain the situation and request a follow-up or even escalate the issue. They’ll usually be able to arrange a more urgent technician visit if needed.
+You said:
+“Yeah, sure, just I saw that this is the cloud online, but it's okay. Can you give me the reference number for this request?”
+00:08
+English Conversational Partner said:
+Absolutely! While I can’t generate an official reference number myself, I’d recommend noting down the details of your conversation and the date and time you contacted support. When you do reach out to Claro, they’ll provide you with a reference number for your request. If you need any help with that process, I’m here to assist!
+You said:
+“클라로에게 전화를 보낼 수 있을까요?”
+00:04
+English Conversational Partner said:
+I can definitely guide you on how to reach them, but I can't directly redirect calls. The best way is to give Claro’s customer support line a call directly, and they’ll take it from there. If you need the contact details or any assistance, just let me know!
+You said:
+“I would like to do a complaint about it, so what's the process to do it?”
+00:04
+English Conversational Partner said:
+Absolutely, I understand. To file a complaint, you can contact Claro’s customer support and request to speak with a supervisor or their complaints department. You can also often do this through their official website or app. Just make sure to have all your details ready, like the dates of the issues and any reference numbers. And if you need any help with that process, I’m here for you!
+You said:
+“No, that's okay Thanks for the update. I'll wait for the technician If he will be here Today will be fantastic”
+00:11
+English Conversational Partner said:
+Of course, that sounds good! I hope everything gets resolved quickly. If you need anything else in the meantime, just let me know. Good luck, and I’m here if you need any further assistance!
+You said:
+“Thank you. Have a good day.”
+00:01
+English Conversational Partner said:
+You’re very welcome! Have a great day, and feel free to reach out anytime. Take care!
+TASK 2: Reporting a Lost Item or Filing a Minor Police Report 
+You said:
+Hi is the police station? I’ve just realised I lost my wallet in the train station and I’d like to make a report
+English Conversational Partner said:
+Yes, this is the police station. Can you tell me when and where at the train station you last remember having your wallet?
+You said:
+“Hi, I've just realized that I forgot my wallet at the train station, and I'd like to make a report.”
+00:09
+English Conversational Partner said:
+I understand. Could you let me know the exact time and the specific location at the train station where you think you left it?
+You said:
+“Yeah, it was yesterday in Town Hall Station.”
+00:04
+English Conversational Partner said:
+Got it, thank you. And do you remember any specific details about the wallet, like its color or brand, or any items inside that might help us identify it?
+You said:
+“Of course, my wallet is black, totally black.”
+00:03
+English Conversational Partner said:
+Alright, that’s helpful.
+You said:
+“It's um...”
+00:01
+English Conversational Partner said:
+No worries, take your time. Is there anything else
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+You're welcome! If you need anything else at all, just let me know.
+You said:
+“ChatGPT material is Litter and it's our money exchange, this is the brand.”
+00:07
+English Conversational Partner said:
+Got it, that definitely helps. Thank you for sharing those details. If there's anything else you remember, just let me know!
+You said:
+“Yeah, everything is in my wallet, like my ID, my driver's license.”
+00:08
+English Conversational Partner said:
+I see, that’s definitely important. We’ll make sure to note all of that. Is there anything else you’d like to add or any other information that might help us?
+You said:
+“Yeah, I know, I just have a couple of cards, like my Opal card, a few cash, and...”
+00:09
+English Conversational Partner said:
+Alright, got it.
+You said:
+“My Gmail card and my job key. It's white.”
+00:05
+English Conversational Partner said:
+Thank you for that information. That definitely helps us get a clear picture. If there's anything else you recall, just let me know, and we’ll do our best to assist you.
+You said:
+“Yeah, I think it was around 7 p.m.”
+00:04
+English Conversational Partner said:
+Alright, that’s helpful to know. We’ll make a note of that time. If you remember any other details later on, just let us know, and we’ll keep you updated.
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+If someone finds it, we’ll do our best to contact you as soon as possible, and we’ll keep it safe here at the station. If you have any concerns or need further assistance, just let us know!
+You said:
+“Yeah, I would like to give you guys my details. Can I give you my details too? There is a easy way to contact me in case that someone finds it.”
+00:10
+English Conversational Partner said:
+Absolutely, that would be great. Feel free to share your contact details, and we’ll make sure to reach out if we find anything.
+You said:
+“Yeah, sure. My phone number is 0450-932-105.”
+00:07
+English Conversational Partner said:
+Perfect, thank you for that. We’ll keep that on file, and we’ll be in touch if we have any updates. If there’s anything else you need, just let us know!
+You said:
+“Just do I need to fill out a form or something like that?”
+00:05
+English Conversational Partner said:
+Yes, we’ll have a simple form for you to fill out with all the details we discussed. I can guide you through it, and it won’t take long at all. Let me know whenever you’re ready!
+You said:
+“Yeah, no, I'm ready. Can you send me the form, please?”
+00:03
+English Conversational Partner said:
+Of course! I’ll provide the form right away, and we can go through it step-by-step. Just let me know if you have any questions as we fill it out!
+You said:
+“Yeah, how long do you keep lost items on file?”
+00:03
+English Conversational Partner said:
+Typically, we keep lost items for a period of about 30 days, and if they’re not claimed within that time, we follow the standard procedures for disposal or donation. But we’ll definitely keep you updated along the way!
+You said:
+“Okay, it's okay, it's great.”
+00:01
+English Conversational Partner said:
+Great! If you have
+You said:
+“Thank you. Do I need to show something like my ID, for example, my passport, when you have my wallet to provide my identity or something like that?”
+00:12
+English Conversational Partner said:
+Yes, that would definitely help. When we return the wallet, we’ll just need some form of identification to confirm your identity, like your ID or passport. That way, we can ensure everything’s secure.
+You said:
+“Okay, can I check maybe for your website?”
+00:04
+English Conversational Partner said:
+Absolutely! You can definitely check our website for more information, and we also keep updates there. If you need any help navigating it, just let me know!
+You said:
+“yeah no it's okay i have the i have the website here so i think that's all guys thank you so much”
+00:06
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you need anything else, just let us know. Have a great day!
+You said:
+“Thank you so much.”
+00:01
+English Conversational Partner said:
+You’re very welcome! Take care, and don’t hesitate to reach out if you need anything else.
+TASK 3: Enquiring About a Rental Property or Housing Inspection 
+You said:
+Hi, I’m interested in one bed room unit on Main Street
+English Conversational Partner said:
+Sure! Are you looking to rent or buy the one-bedroom unit on Main Street?
+You said:
+“Hello, I'm interested in looking for a one-bedroom for rent in any main street. Do you have any information about it?”
+00:14
+English Conversational Partner said:
+Absolutely! I'd be happy to help. Could you let me know what your budget range is for the rent, and any specific amenities or features you're looking for?
+You said:
+“I'm sure.”
+00:01
+English Conversational Partner said:
+Great! And do you have a preferred
+You said:
+“My budget? My budget is like maybe $300 per week.”
+00:06
+English Conversational Partner said:
+Got it, that’s helpful!
+You said:
+“I would like something like this, you know, cheaper.”
+00:04
+English Conversational Partner said:
+Absolutely, that makes sense. I’ll keep that in mind. Are there any specific neighborhoods on Main Street that you prefer, or are you flexible with the location?
+You said:
+“I would like something close to Town Hall, could be Sword Hills, I would prefer Town Hall, to be honest, or maybe Redfern.”
+00:09
+English Conversational Partner said:
+Perfect, that gives me a good idea. So, to sum up, you’re looking for a one-bedroom rental near Town Hall, ideally with a budget around $300 per week. Is there a specific move-in date that you're aiming for?
+You said:
+“Uh, yeah, I would prefer any weekday, please.”
+00:03
+English Conversational Partner said:
+Got it, any weekday works for you. That’s really helpful! And just to confirm, do you have any preferences regarding the apartment’s amenities, like a furnished unit or something pet-friendly?
+You said:
+“To be honest, no, I don't mind it. The only one thing that I would like to keep in mind is if someday I have any guest, any friend, you know, I would like to invite that kind of people to my home.”
+00:17
+English Conversational Partner said:
+Absolutely, that makes sense! We'll definitely keep that in mind when looking at options. Is there anything else that you’d like to mention or any other requirements that you have in mind?
+You said:
+“That's all for now. Can you give me some options, please? Do I need to register before attending?”
+00:07
+English Conversational Partner said:
+Of course! I’ll gather some suitable options for you. And typically, for viewings, it’s a good idea to register in advance, just so we can coordinate everything smoothly. I’ll let you know all the details once I have the options ready!
+You said:
+“Thank you, I'll wait for it.”
+00:02
+English Conversational Partner said:
+You’re very welcome! I’ll get everything sorted and let you know as soon as possible. If you have any other questions in the meantime, just let me know!
+You said:
+“Cool, cool. Thank you.”
+00:01
+English Conversational Partner said:
+You're welcome! I'm glad to help. Just reach out anytime, and I’ll be here.

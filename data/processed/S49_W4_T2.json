@@ -1,0 +1,120 @@
+{
+  "student_id": 49,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S49_W4_T2",
+  "source_file": "data\\raw\\#49\\#49\\#49. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi coach, training just finished. Could you tell me what I did well today and what I should work on next?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! You had some great energy today, especially with your footwork and your passing. One thing to focus on next time would be your shooting accuracy and maybe your defensive stance. Overall, though, you did really well! Anything specific you want to work on for next time?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Oh, that sounds interesting, because I think my shooting was perfect today, but my passing skill was terrible, wasn't it?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I can see where you're coming from! Your shooting did look solid, and your passing definitely had some moments to improve. We can definitely focus on that for the next session. How about we work on some passing drills together?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Okay, so what should I do?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, we can start with some targeted passing exercises. We'll work on short passes, then build up to longer passes, and focus on accuracy and timing. Sound good? Let me know if there's a specific type of pass you want to focus on."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, please.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect! Let's start with some short, quick passes to build up your control and accuracy. We can do that in pairs or with a wall if you’re practicing solo. And then we’ll gradually increase the distance. Sound like a plan?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, but how to training for myself?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Great question! You can definitely practice solo by passing the ball against a wall and controlling the rebound. You can also set up some targets on the wall to aim at, and that’ll help with accuracy. And of course, repetition is key! Let me know if you want more detailed drills."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Oh my god, that sounds really boring. What else?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I totally get it! We can definitely mix it up to keep it fun. For example, you could do some passing while dribbling around cones, or even try some passing challenges with a friend or a teammate. That way, it stays engaging and dynamic. Sound good?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, passing challenge. That sounds good.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Awesome! We can set up a fun passing challenge where you try to hit specific targets on the wall or see how many accurate passes you can do in a certain amount of time. That'll keep it engaging and definitely improve your skills. Let’s give it a shot next time!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, then, could you make a workshop program for that?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, I’d love to! We can create a structured workshop that includes warm-up drills, target-based passing challenges, and even some fun competitive elements. I’ll put together a plan with different levels and progressions. Sound good? Let’s make it both fun and effective!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“That sounds perfect. I can't wait.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Awesome, I'm thrilled you’re excited! We'll make sure it’s both challenging and enjoyable. I’ll get everything ready, and we’ll have a great time improving together. If you have any specific preferences or ideas, just let me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Thank you. I will just get ready for the workshop.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm looking forward to it as well. Just let me know whenever you’re ready, and we’ll dive right in. If you have any questions before then, I’m here to help!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Thank you. Have a great night.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You too! Have a great night, and I'll catch you later. Take care!"
+    }
+  ]
+}

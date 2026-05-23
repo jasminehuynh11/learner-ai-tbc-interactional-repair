@@ -1,0 +1,185 @@
+{
+  "student_id": 13,
+  "week": 2,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S13_W2_T1",
+  "source_file": "data\\raw\\#13\\#13\\#13. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“I am an English student and I would like to practice a scenario where you will be a receptionist in a medical clinic and I will be a patient because I need to schedule an appointment because I am sick. Can you help me?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to help! Let’s get started. So, I’ll be the receptionist at the clinic. Hello! Welcome to our medical clinic. How can I assist you today? Are you looking to schedule an appointment?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yes, please, today I don't feel really well, I am feeling sick, and I will have to visit a doctor.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that you’re not feeling well. Let’s get you taken care of. Could you please tell me what symptoms you’re experiencing, and also what day and time would work best for you?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Well, today I feel fever, but yesterday I have a sore throat.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I’m sorry you’re dealing with that. Got it—fever and a sore throat. Let’s see… would you prefer to come in today, or would another day this week be better for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Today is a little difficult because I don't have enough time, but it's somewhat available maybe tomorrow morning.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, let me check our schedule for tomorrow morning. We do have some openings. What time would be most convenient for you, and do you have a preferred doctor if you have one?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“อืม อาจว่า 10 นาที”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Perfect, 10 a."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Do you have a specialist or is it a general doctor?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "We have both general practitioners and specialists available. If you prefer a general doctor, we can definitely schedule you for that. Otherwise, if you have a specific specialist in mind, just let me know!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Do you have any recommendation, considering my symptoms?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Certainly! Given your fever and sore throat, a general practitioner would be a great start. If needed, we can always arrange for an ENT specialist later on. Would you like me to book you with a general practitioner for tomorrow at 10 a.m.?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“And... yeah, it's... it's okay.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Great, that’s all set then! I’ll book you for tomorrow at 10 a.m. with our general practitioner. Is there anything else I can assist you with today?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“I have some questions.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Of course! Feel free"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Will I need a blood test for this type of checkup?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That depends on what the doctor finds during the initial consultation. Usually, if it's needed, the doctor will let you know and schedule it for a later time. But we can definitely discuss that once you see the doctor. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Okay, but if he sent me the blood test, I would like to know if I could request a copy of my result after the visit. Is possible?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely request a copy of your results. We’ll provide them to you either electronically or on paper, whichever you prefer. And we can also help you with that after your visit. Just let us know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Okay, perfect.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Great! I'm glad we could sort that out. If you have any more questions or need anything else, just let me know. Otherwise, we'll see you tomorrow at 10 a.m.!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Oh yes, I have more questions because I don't know if I need an insurance or Medicare.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "No worries at all! We can definitely help with that. If you have insurance, just bring your insurance card, and we’ll verify it for you. If you’re covered by Medicare, we can assist with that as well. Just let us know what you have, and we’ll guide you through the process!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“And how long is the appointment likely to take?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Typically, a general appointment for something like a fever and sore throat might take around 20 to 30 minutes, depending on the examination and any follow-up questions. If any tests are needed, that might add a bit more time, but we’ll make sure to keep it efficient for you."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Thank you, thank you. Yeah, I think I don't have more questions. What is the name of the doctor?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You're very welcome! The doctor is a licensed general practitioner with lots of experience, so you’ll be in good hands. If anything else comes up, just let me know. Otherwise, I’ll look forward to seeing you tomorrow at 10 a.m.!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Ah perfect, I really appreciate your time, thank you.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "It’s absolutely my pleasure! I'm glad I could help. If you think of anything else, just reach out. Take care, and I’ll see you tomorrow!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Thanks.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You're very welcome! Have a great day, and I’ll be here if you need anything else. Take care! Top of Form"
+    }
+  ]
+}

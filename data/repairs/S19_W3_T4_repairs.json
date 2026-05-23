@@ -1,0 +1,52 @@
+[
+  {
+    "dialogue_id": "S19_W3_T4",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's response unclear",
+    "evidence_summary": "The learner's response in turn 7 is unclear ('It's just a random name, yeah?'), which the bot interprets as 'randomly' in turn 8. The bot's interpretation allows the conversation to continue, resolving the issue."
+  },
+  {
+    "dialogue_id": "S19_W3_T4",
+    "repair_id": 2,
+    "turn_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner's concern about data loss",
+    "evidence_summary": "The learner expresses concern about data loss in turn 27. The bot acknowledges this and offers a solution in turn 28. The learner confirms the need to save data in turn 29, and the bot provides a clear plan in turn 30, resolving the issue."
+  },
+  {
+    "dialogue_id": "S19_W3_T4",
+    "repair_id": 3,
+    "turn_indices": [
+      33,
+      34
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner's concern about data leakage",
+    "evidence_summary": "The learner expresses concern about data leakage in turn 33. The bot reassures the learner about using trusted methods in turn 34, resolving the concern."
+  },
+  {
+    "dialogue_id": "S19_W3_T4",
+    "repair_id": 4,
+    "turn_indices": [
+      39,
+      40
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner's question about 'case number'",
+    "evidence_summary": "The learner asks for clarification about the 'case number' in turn 39. The bot provides a clear explanation in turn 40, resolving the learner's confusion."
+  }
+]

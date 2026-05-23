@@ -1,0 +1,290 @@
+{
+  "student_id": 5,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S5_W2_T1",
+  "source_file": "data\\raw\\#5\\#5\\#5. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I am visiting a medical clinic in person or calling the clinic to make, change, or cancel an appointment. I may need to check in, explain my symptoms, ask for available times, or confirm appointment details. Your role is a receptionist or staff member at a medical clinic."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! Thanks for calling the clinic. Are you looking to make a new appointment, change an existing one, or cancel?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I'd like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! Let's get that set up for you. Could you let me know what kind of doctor or what type of appointment you're looking for?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I want to see a dentist.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, got it. We'll find you a dental appointment then. Now, do you have any particular days or times that work best for you?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I guess it's a kind of emergency to get the appointment earlier, as soon as possible.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure, I understand. We'll try to get you in as soon as we can. Could you quickly tell me what kind of dental issue you're having so we know how urgent it is?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, um...”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "All right, take your time. Just let me know what's going on with your tooth or teeth, and we’ll figure out the best slot for you. What seems to be the main problem?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yesterday, I had lunch alone, and all of a sudden, one of my teeth was pulled out, so I was very surprised. And actually, this tooth is a covered tooth last year.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Oh, I see."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“So, yeah.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure, that sounds like it must have been a surprise. We'll definitely treat that as urgent. Now, let me check our earliest available slot for the dentist. Do you have any preference for morning or afternoon?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Usually, I prefer morning, I prefer afternoon because I have morning class every day, classes every day.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, afternoon works just fine. I'll find a slot for you a bit later in the day. Now, just to confirm, do you have a specific day this week that would suit you best?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“It's Tuesday today, so I guess if you're available, I can go there today, or how about tomorrow, Wednesday, on Wednesday.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure, that’s perfect. Let me see if we have a slot open this afternoon or tomorrow. If we can fit you in today, would you prefer that, or is Wednesday actually better for you?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, please.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, got it. I’ll go ahead and find the earliest available option and we’ll get you all set. So just hang tight for a moment. Which day would you like me to lock in if both are available?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Perfect! I'll go ahead and set that up for you. Just give me a sec to confirm the exact time. Now, do you have any other details you want me to note for the appointment?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“What about 3 p.m.? And I'd like to check out with... I'd like to get a regular checkup as well.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, we can note that down. So I'll aim for a 3 p.m. slot and include a regular check-up alongside the urgent issue. Anything else you'd like me to add or any other questions for now?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yes. Actually, the doctor said last year I had to do an implant on my tooth, but I just thought it's too expensive, so I postponed checking up. So is it possible to do an implant as well?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure, we can definitely make a note of that and let the dentist know. So I'll mention that you're considering an implant as well and they can talk it through with you. Anything else on your mind before we finalize the booking?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Also, is it possible to make a booking with Dr. Lee?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, I'll check Dr. Lee's availability for you and we can get you booked in with them. Now, is there anything else you'd like me to add or any other questions you have?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sure! So typically it shouldn't take too long. For a quick urgent check and a chat about the implant, maybe around 30 minutes. Does that sound all right for you?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Yeah, but is there any extra expense compared to just normal waiting?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Of course. So, generally there's no extra fee for just getting you in a bit sooner if it's an urgent case. It'll be the same as a normal visit. Anything else you'd like to check on?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Do I need to bring my medical, Medicare card? Do I need to bring my Medicare card?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Sure, it's always a good idea to bring your Medicare card along just in case. That way we have all your details handy. Anything else you need to know?"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Yeah, but I'm student and also I am from Korea, which means international student. I'm an international student, so I don't have a Medicare card, so then what happened?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, no worries at all. If you're an international student, we'll just use your student health insurance or any private insurance you have. Just bring those details along and we'll sort it out. Anything else on your mind?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Yeah, that's it.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Great! Then we’re all set. I’ve got your appointment booked in with Dr. Lee at 3 p.m., and we’ll handle everything when you get here. Thanks for letting me know, and we’ll see you soon!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Yeah, but can you just remind me of my bookings. I just want to check.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sure! So just to confirm, we've got you booked with Dr. Lee tomorrow at 3 p.m. for both your urgent dental issue and a regular check-up, and we’ll talk about the implant as well. Just bring any insurance details you have. We’re all set! Let me know if there's anything else."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Where do you have a parking lot? Do you have a car park?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely! We do have a parking lot right behind the clinic, so you can park there when you arrive. Anything else you'd like to ask before we wrap up?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Sure! Yes, the"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Hospital”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely, it's free parking, so you won't need to worry about that. And once you arrive, just check in at the front desk and we'll take it from there. Anything else on your mind?"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Okay, then how long can I park as a free parking?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Sure! You can park for free for the duration of your appointment, so there's no strict time limit. Just relax and we’ll take care of you. Let me know if there's anything else!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Okay, then if I finish my booking, if I finish my, uh, if I finish seeing a doctor, can I just go to the supermarket nearby there?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely! Once you're done with your appointment, you can just head over to the supermarket nearby, no problem at all. So it sounds like we've got everything sorted. Thanks for confirming!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Okay. Thank you, Dan. Where is the medical dentist center? Because I searched, I looked it up, and Google Maps says it's two kinds of Medicare center. So I'm just curious.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Sure! We're actually the one on Maple Street, right next to the pharmacy, so that's the correct location to head to. And it sounds like you're all set now. Thanks, and we'll see you soon!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Of course, you're very welcome! Thanks for reaching out, and we'll see you at your appointment. Take care!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Take care. Bye.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Bye! Take care and see you then!"
+    }
+  ]
+}

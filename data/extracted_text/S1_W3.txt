@@ -1,0 +1,344 @@
+Task 2. Reporting a Lost Item or Filing a Minor Police Report
+You said: 
+
+“So, now, you are a police officer and I am reporting a lost item, in this case, I report my phone, lost, yes?”
+00:18
+English Conversational Partner said:
+Absolutely, I can do that. Let’s go ahead and get started. To begin, could you tell me what exactly happened and when it took place? That way, we can get all the details down.
+You said:
+“I was in the stop to the bus and I had my phone. It was a Xiaomi and when I get up to the bus I”
+00:22
+English Conversational Partner said:
+I’m sorry that happened.
+You said:
+“Don't remember, sorry, I don't remember what happened with my phone and when I go out to the bus, take out to the bus, I don't have my phone.”
+00:15
+English Conversational Partner said:
+I understand. That sounds frustrating. Let’s start by noting the details. Could you tell me the exact location or the area where you last had your phone, and maybe the approximate time it was lost? That’ll help us get started.
+You said:
+“The success was in Paradise, in Compton, in Adelaide, and the time was maybe 10 a.m. this morning, and the route to the bus was 273.”
+00:21
+English Conversational Partner said:
+Got it, thank you for that information. So, your phone was last seen in Paradais, in Cobertown, around 3 a.m. We’ll make sure to document that. Could you also let me know if there were any witnesses or if you noticed anything unusual at that time?
+You said:
+“I think I left my backpacks, I don't know, on the bus and I didn't see and maybe someone”
+00:12
+English Conversational Partner said:
+Alright, I see. That definitely helps. We’ll note that you might have left your backpack on the bus, and it’s possible someone may have taken it. We’ll include all these details in the report. If you remember anything else, just let me know.
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+No worries at all!
+You said:
+“I, I, sorry, I, the phone has a black case, and a cracked screen, and it was, um, cats in the case, a picture of the cats in the case.”
+00:23
+English Conversational Partner said:
+Got it, that’s really helpful. We’ll make sure to note that your phone is black, has a cracked screen, and that it’s in a case with a red color. This will help us identify it more easily. If there’s anything else you remember, just let me know.
+You said:
+“What happens if someone thinks it?”
+00:04
+English Conversational Partner said:
+If someone finds your phone, they can turn it in to the local authorities or drop it off at a nearby lost and found. We’ll also keep an eye out for any reports and do our best to help you recover it. And of course, we’ll keep you updated every step of the way.
+You said:
+“¿Puedo dejar mis detalles de contacto si alguien lo ha terminado?”
+00:05
+English Conversational Partner said:
+Absolutely, we can definitely try that. If your phone has a tracking feature enabled, like Find My Device, we can use that to help locate it. Just let us know the details, and we’ll do our best to assist you in tracking it down.
+You said:
+“Yeah, do I need to fill out a form or anything?”
+00:08
+English Conversational Partner said:
+Yes, we’ll definitely need to fill out a formal report to document everything properly. I’ll guide you through the process and make sure we have all the details we need. It’s pretty straightforward, and I’ll help you every step of the way.
+You said:
+“Which information do you need about me?”
+00:04
+English Conversational Partner said:
+We’ll typically need your full name, contact information, a description of the phone, and any details about when and where it was lost. If you have any identifying information, like the serial number, that can help as well. But I’ll guide you through each part carefully.
+You said:
+“Okay, um, can you call me if it's found, please?”
+00:06
+English Conversational Partner said:
+I can definitely assist with that! If you provide me with the phone number associated with the device or any tracking information, I’ll do my best to help you out. And of course, we’ll work together to try and recover it as quickly as possible.
+You said:
+“Thanks for explaining everything.”
+00:03
+English Conversational Partner said:
+Of course, no problem at all! I’m here to help whenever you need. Just let me know if anything else comes up, and I’ll be more than happy to assist.
+You said:
+“I appreciate your help. Thank you.”
+00:02
+English Conversational Partner said:
+You’re very welcome! If you need anything at all, just let me know. Have a great day!
+
+
+
+
+
+
+
+
+
+
+
+Task 3. Requesting Maintenance or Repairs in a Rental Property
+
+Hi, hello. You are a housing agent and I'm requesting maintenance or repairs in my rental property or something is broken or needs fixing.”
+00:17
+English Conversational Partner said:
+Hi there! I’m happy to help with that. Just let me know what specifically needs repair or what’s broken, and I’ll do my best to guide you through it or arrange for a technician if needed. Feel free to share any details!
+You said:
+“Sí, en mi habitación no se enciende el acelerador.”
+“Yes, the accelerator doesn’t turn on in my room.”
+00:08
+English Conversational Partner said:
+Got it, that sounds like something we can definitely look into. We can arrange for a maintenance technician to come by and fix that shutter. Let me know if there are any other issues or if you have a preferred time for the appointment.
+You said:
+“Ho chiamato questo oggi, scusate, ho bisogno di fixarlo.”
+“I called this today, sorry, I need to do it.”
+00:08
+English Conversational Partner said:
+No worries at all! I'll make a note that you'd like the repair done today. I’ll coordinate with our maintenance team and get it scheduled as soon as possible. If there’s anything else you need, just let me know!
+You said:
+“Yes. Can someone come today? They called me when the people arrived in here.”
+00:10
+English Conversational Partner said:
+Absolutely, that sounds good! I’ll make sure that the technician gives you a call before they arrive, so you’ll know exactly when they’re on their way. If you have any other preferences or details to share, just let me know!
+You said:
+“Yeah, the header is in my bedroom and I don't know if do I need to stay home for the repair or it's not necessary.”
+00:10
+English Conversational Partner said:
+Got it! Usually, it's helpful if you're available so the technician can access the bedroom and the heater, but if you're not able to be there, we can definitely arrange it so they can still get in. Just let me know what works best for you, and we’ll make it as convenient as possible!
+You said:
+“Now, thanks for organizing that so quickly!”
+00:05
+English Conversational Partner said:
+Of course! I’m always happy to help. If you need anything else or have more questions, just let me know. Have a great one!
+You said:
+“Will I get an email or text when the people are writing in my room?”
+00:09
+English Conversational Partner said:
+Yes, absolutely! We’ll make sure to send you a notification, either by email or a text message, so you’ll know exactly when they’re on their way. We’ll keep you updated every step of the way!
+You said:
+“Okay, thank you so much.”
+00:02
+English Conversational Partner said:
+You're very welcome! If anything else comes up, just let me know. Have a wonderful day!
+
+Task 1: Seeking Technical Support for a Device or Service
+You said:
+“Hola, ahora voy a practicar buscando soporte técnico para un dispositivo o servicio. Eres nuestro asistente de servicio al cliente.”
+“Hello, now I’m going to practice finding technical support for a device or service. You are our customer service assistant.”
+00:17
+English Conversational Partner said:
+Absolutely, that sounds good! If you have any more questions or need assistance in the future, just reach out. I’m always here to help. Have a great one!
+You said:
+“Yes, I described my problem, okay? My phone keeps restarting by Excel.”
+00:09
+English Conversational Partner said:
+Got it, no worries at all! If you need any help or have any updates, just let me know. I’m here whenever you need me. Take care!
+You said:
+“My phone fell down this morning and after that it keeps restarting by itself all day and I need help with my phone because I have all information in it and I need to do payments in all places.”
+00:23
+English Conversational Partner said:
+I’m sorry to hear about your phone! That can definitely be frustrating. If you need any help troubleshooting or figuring out what to do next, just let me know. I’m happy to assist in any way I can!
+You said:
+“I told you save me if it's possible to fix it, it's a Samsung Galaxy 24 and I had two years ago and I don't know if it has a warranty.”
+00:19
+English Conversational Partner said:
+Absolutely, I can definitely help with that. If you share the details about your phone model and the issue, I can guide you through the steps or help you find a reliable repair service. Just let me know what you need, and we'll get it sorted out!
+You said:
+“It's possible to go to repair service.”
+00:06
+English Conversational Partner said:
+Of course! I can definitely help you with that. Just let me know your phone model and the specific issues you’re facing, and I can point you toward some good repair options or steps to take. Just let me know!
+You said:
+“Yes, you have one place to, I go, I will go for repair, repair my phone.”
+00:10
+English Conversational Partner said:
+Absolutely! I can definitely recommend some trusted repair shops or service centers, depending on your location and your phone brand. Just let me know a bit more, and I'll help you find the best place!
+You said:
+“Yes, where can I find this place?”
+00:03
+English Conversational Partner said:
+I can definitely help with that! If you let me know your location or the brand of your phone, I can suggest some reliable repair shops nearby. Just share a bit of info, and I’ll point you in the right direction!
+You said:
+“If they live in Adelaide, it's possible to go to the city in Adelaide.”
+00:09
+English Conversational Partner said:
+Of course, I'd be happy to help with that! If you share your city or your general location, I can look up some good repair places for you. Just let me know, and we'll get that sorted out!
+You said:
+“What happens if it is not fixed after trying this step to go to repair?”
+00:11
+English Conversational Partner said:
+If it’s not fixed after trying, you might want to consider a few options: you could contact the manufacturer’s support, or perhaps look into a different repair service that specializes in your phone model. Sometimes, if it’s a more complex issue, it might be best to get a second opinion or even consider replacement options. But I'm here to help you navigate through it, so just let me know!
+You said:
+“¿Es posible... no sé cómo se dice conservar la información en inglés en mi teléfono?”
+"Is it possible... I don't know how to say 'retain the information' in English on my phone?"
+00:12
+English Conversational Partner said:
+No worries at all! I’m happy to help with that. If you want to share how it’s written or let me know the context, I can definitely help you translate or phrase it correctly in English. Just let me know what you need!
+You said:
+“Now, I am really worried about my phone and I need your help and I am not thinking clearly, sorry. It's all for today. Maybe if could you send me for my email, in my email, the places to I go. It is really cool. Thank you so much.”
+00:40
+English Conversational Partner said:
+Of course, I completely understand! I’ll be happy to send you the information via email so you have everything you need. Just let me know your email address, and I’ll make sure to get that over to you. And if you need anything else at all, just let me know!
+You said:
+“My email is julianghilain1996, I don't know how I say it, @, gmail.com.”
+00:26
+English Conversational Partner said:
+No worries at all! I’ve got that. I’ll make sure to send the information to julian.ghailia1996@gmail.com. If you need anything else or have more questions, just let me know. I’m here to help!
+You said:
+“No, it's okay for today. Thank you so much. I appreciate your help.”
+00:06
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If anything else comes up, don’t hesitate to reach out. Have a wonderful day!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task 4: Seeking Technical Support for a Device or Service
+
+“Hi, hello. This week I want to practice on recording an internet notice in my housing and it's possible that you are my assistants, I don't know, and”
+00:22
+English Conversational Partner said: 
+Absolutely, I'd love
+You said:
+“We could to practice speaking clearly, politely in a service setting. I need, you are a housing manager or internal super staff, okay?”
+00:17
+English Conversational Partner said:
+Got it, that sounds great! We can definitely focus on conversational practice and making sure you feel comfortable and confident. Let me know if you have any specific scenarios or topics in mind, and we can dive right in!
+You said:
+“Yes, I report my internet is not working in my house.”
+00:08
+English Conversational Partner said:
+That sounds like a great
+You said:
+“And I need a technician. I will leave it with you.”
+00:04
+English Conversational Partner said:
+Absolutely, I can help with that! We can definitely go through some common phrases and scenarios you might use at home. Just let me know what kind of situations you’d like to practice, and we’ll get started!
+You said:
+“Okay, hello, my name is Juliet. My internet is not working in my house. Could you help me, please?”
+00:10
+English Conversational Partner said:
+Of course, Farida! I'd be happy to help. We can start with some everyday phrases and vocabulary that you might need at home. Let me know if there's a specific room or situation you want to focus on first!
+You said:
+“Yes, when I connected in my room, my Wi-Fi is not working. Maybe it's so far to the mother, I don't know, but could you save me if there are one technician available for coming here?”
+00:19
+English Conversational Partner said:
+Absolutely! So, for example, you could say something like, "My Wi-Fi isn't working properly. Can you help me fix it?" or "I'm having trouble with my internet connection." We can definitely practice those kinds of phrases together!
+You said:
+“I want to practice with me. I don't want to correct, I don't know, my mistake.”
+00:10
+English Conversational Partner said:
+No worries at all! We can practice step-by-step, and I'll guide you through the phrases and vocabulary. Just let me know whenever you're ready, and we'll work on it together, nice and easy!
+You said:
+“Hi, my internet has stopped working.”
+00:03
+English Conversational Partner said:
+Got it! We can definitely practice how to express that. For example, you could say, "My Wi-Fi isn't working at the moment," or "I'm having internet issues." Let me know if you want to try one of those out, and we can refine it together!
+You said:
+“There's no signal in my apartment.”
+00:03
+English Conversational Partner said:
+Oh, I see! So you can say something like, "There’s no signal in my apartment," or "I’m not getting any connection in my apartment." We can practice that and make sure it feels natural for you!
+You said:
+“Yes, could you practice like a conversation? I don't want that you correct my mistake.”
+00:13
+English Conversational Partner said:
+Absolutely, I understand! We'll keep it natural and just have a smooth conversation, and I’ll support you along the way. Whenever you're ready,
+You said:
+“Sí, eres un gerente, un gerente de vivienda, por favor.”
+00:08
+English Conversational Partner said:
+Sure, I can definitely do that! So, as a housing manager, I’ll help you with any concerns or questions you have about your apartment. Just let me know what you’d like to discuss, and we’ll go from there!
+You said:
+“Yes, there's no signal in my apartment. My internet has stopped working.”
+00:08
+English Conversational Partner said:
+I’m sorry to hear that. Let’s see how we can fix it. Could you tell me if you’ve tried rebooting your router, or if there have been any recent changes in your building’s network?
+You said:
+“Maybe the internet is so far the modern to my room, because in the living room the signal is better than my room.”
+00:14
+English Conversational Partner said:
+Got it, that definitely makes sense. In that case, we might want to consider repositioning your router or maybe using a Wi-Fi extender. Let me know if you’d like some tips on that, or if there’s anything else I can help with.
+You said:
+“Can you check if there's an outage in the area, maybe?”
+00:07
+English Conversational Partner said:
+Of course, I can definitely look into that for you. Let me check if there are any outages reported in your area, and I’ll let you know what I find.
+You said:
+“Yeah and it's possible that maybe call a technician a availability for check my internet and my Wi-Fi.”
+00:12
+English Conversational Partner said:
+Absolutely, we can arrange that. I’ll check the technician availability and find a suitable time for them to come by and take a look at everything. Just let me know what times work best for you, and we’ll make it happen!
+You said:
+“Okay, what shall I try before you send someone?”
+00:07
+English Conversational Partner said:
+That’s a great question! Usually, we can look at weekday afternoons or early evenings. Let me know if there’s a specific day or time that works best for you, and we’ll find the perfect slot!
+You said:
+“I will lie tomorrow and any time. I don't mind.”
+00:07
+English Conversational Partner said:
+Perfect, that works out well! I’ll go ahead and arrange for a technician to come tomorrow at a time that’s convenient for you. And if anything changes, just let me know!
+You said:
+“Yes, please. I'll call to my work to say that the technician comes here tomorrow. If the service isn't fixed tomorrow, maybe you know if the company gets a refund or credit.”
+00:32
+English Conversational Partner said:
+Absolutely, that sounds like a good plan. Usually, the company can send someone pretty quickly, and I’ll make sure to confirm the details for you. Just let me know if you need any extra help, and we’ll get everything sorted out!
+You said:
+“Okay, if the technician doesn't fix my internet, is it possible to change to a different service plan?”
+00:13
+English Conversational Partner said:
+Yes, absolutely! If the technician finds that a different service provider would be more reliable, we can definitely discuss that option and arrange for a switch if needed. We’ll make sure you get the best possible connection!
+You said:
+“Could you repeat more slowly, please?”
+00:04
+English Conversational Partner said:
+Of course, I’ll slow down. Absolutely, if the technician determines that a different service provider would be better for your internet, we can definitely talk about switching providers. We’ll make sure that you have the best possible connection. Let me know if you have any other questions.
+You said:
+“No, I don't have more questions. Thank you so much.”
+00:04
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If anything else comes up, just let me know. Have a great day!
+You said:
+“You too.”
+00:00
+English Conversational Partner said:
+Thank you so much! Take care, and feel free to reach out anytime. Goodbye for now!

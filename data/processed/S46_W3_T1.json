@@ -1,0 +1,150 @@
+{
+  "student_id": 46,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S46_W3_T1",
+  "source_file": "data\\raw\\#46\\#46. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi there.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hello there! How's it going? What can I help you with today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“So just going to write it in this scenario with you”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! I'm here to help. Just let me know what kind of scenario you have in mind, and we can jump right into it."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“So I got the scenario is I am contacting with the internet company to report that the internet got the problem. So you will be the internet support staff and I will contact you to discuss about the problem, asking for assistance and check the issues when will be fixed. For example, I will start with a simple report and try to more detail interaction like asking trouble staff, technical availability and service timeline.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That sounds great! I'll be your internet support representative, and we can walk through the troubleshooting steps together. Whenever you're ready, just let me know what the issue is, and we’ll get started!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Cool, so let's get started. Hi, I'm calling to write a report about my internet.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course! I’m here to help. Could you please let me know what exactly is going wrong with your internet connection? For example, are you experiencing slow speeds, intermittent outages, or something else?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Actually, this is on this morning, it's by the internet, it works fine, but now I cannot connect with the Wi-Fi. It seems like it shows the signal, the Wi-Fi, right? But I cannot connect to the Wi-Fi.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "have you tried restarting your router or your device yet? And if not, would you be able to do that to see if it helps?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Actually, I have tried to reset the router one time, and I tried to connect with the internet again, but it's still not working. Do you know what the issues might be?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I see, thanks for letting me know. In that case, it might help to check if other devices can connect to the Wi-Fi. Also, do you notice any error messages or indicator lights on the router that might give us more clues?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Actually, I have tried to different my device to connecting that, but it still cannot connecting. But I... Yeah... But like... Do you like... Like... Can you check if there is an outage in this area?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, I can check that for you. Let me quickly look up whether there's any outage reported in your area. In the meantime, could you let me know your address or the general location so I can get the right details?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yeah, so I live in this area, it's number 7 in Queen Street.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect, thank you for that info! I’ll check for any outages in that area right away. While I do that, is there anything else you’ve noticed, like if the router lights are flashing or if any other devices are working fine?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“who if there are no outage in my area, could you send someone to fix that?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, if there’s no outage, we can definitely arrange for a technician to come out and take a look. Once I confirm the details, we can set up an appointment at a convenient time for you. Let me just check on that, and I’ll let you know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, so do I need to pay anything for my problem fixing fee or something like that?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "That’s a great question! Typically, if the issue is on our end, like an outage or something related to our equipment, there’s usually no charge. But if it turns out to be something within your equipment or wiring, there might be a service fee. We can definitely clarify all of that once we know the cause."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“And if the service isn't fixed by today, do I get a refund or credit?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, in most cases, if there’s an outage or a service issue on our end, we do provide a refund or a credit for the downtime. Once we confirm the details, we’ll make sure you’re compensated appropriately."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Cool, so who can I contact if it isn't sold today?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "If the issue isn’t resolved today, you can definitely reach out to our customer support line again, and we’ll escalate it for you. We also have a dedicated technical support team that can follow up and arrange further assistance. We’ll make sure you’re taken care of, no worries at all."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Cool, so can you give me a reference number for this request?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course! I’ll go ahead and generate a reference number for you right now. Once I have it, I’ll share it with you so you can easily follow up on your request. Give me just a moment!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“So thank you, that's what I have for now.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything else at all, just let me know. I’m here to help."
+    }
+  ]
+}

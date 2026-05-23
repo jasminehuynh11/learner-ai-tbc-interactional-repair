@@ -1,0 +1,50 @@
+[
+  {
+    "dialogue_id": "S22_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of 'oak' as 'oat'",
+    "evidence_summary": "The learner says 'oak milk', which is likely a mispronunciation or misrecognition for 'oat milk'. The bot interprets it as 'oat milk' and confirms this choice. The learner does not correct the bot, indicating the issue is resolved."
+  },
+  {
+    "dialogue_id": "S22_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's unclear request – 'Name on top'",
+    "evidence_summary": "The learner's request 'Name on top' is unclear. The bot interprets this as a request for whipped cream on top, but the learner does not correct the bot, indicating ongoing confusion."
+  },
+  {
+    "dialogue_id": "S22_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner does not address bot's misunderstanding of their name",
+    "evidence_summary": "The bot mishears the learner's name as 'Lara' instead of 'Laila'. The learner does not correct this misunderstanding, and the conversation continues without addressing the error, indicating the issue remains unresolved."
+  },
+  {
+    "dialogue_id": "S22_W1_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      21,
+      22
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "learner's ambiguous request – 'change the milk'",
+    "evidence_summary": "The learner requests to 'change the milk', which is ambiguous. The bot prompts the learner to specify what they want to change. The learner responds with 'General milk, please', but this does not clearly resolve the initial ambiguity."
+  }
+]

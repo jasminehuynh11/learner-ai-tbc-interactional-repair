@@ -1,0 +1,390 @@
+{
+  "student_id": 25,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S25_W2_T2",
+  "source_file": "data\\raw\\#25\\#25\\#25. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Visiting a Medical Clinic and Booking or Changing an"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Appointment"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Good morning, thank you for calling Greenleaf Medical Clinic. This is Sarah speaking. How can I help you today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Transcription unavailable"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course! I can help you with that. May I ask what kind of appointment you’re looking for and if you have any specific symptoms or concerns? Also, do you have a preferred date and time for the appointment?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "(can’t translate)"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "No worries, take your time"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Oh"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Take your time! Whenever you’re ready, just let me know what you need, and I’ll be happy to assist."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Can I cancel my 2 p.m. appointment today?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, I can help you with that. Let me quickly pull up your appointment details. May I have your name and the date of the appointment so I can find it for you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Thank you. My name is Ayi."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Thank you, Ai! Let me just check our schedule for you… Alright, I see your appointment at 2 PM today. I’ll go ahead and cancel that for you. Is there anything else I can assist you with?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "I have a question."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course, feel free to ask your question, and I’ll do my best to help!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Can I make an appointment for someone else?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. Just let me know their name, any specific details about the appointment, and their preferred date and time, and I’ll get that arranged for you."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "(can’t translate)"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "No rush at all! Whenever you’re ready, just let me know the details, and I’ll help you set everything up."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "I want to change it to November 19th."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Got it, November 19th. I’ll make a note of that. Could you also let me know the preferred time and the name of the person who will be coming in? That way, I can secure the appointment for you."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "And also, I'm helping a friend book an appointment in English."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that as well! Just let me know any details about your friend and what they need, and I’ll make sure the appointment is arranged smoothly in English."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Maybe he have a code?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright, got it! We can definitely schedule a check-up for your friend, especially if they have symptoms like a cold. Just let me know their name, preferred date and time, and any other details, and I’ll take care of it!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "His name is Ryota. Ryota is from Japan, so he can't speak English well."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Got it, Ryota from Japan. No worries at all! I’ll make sure to note that language preference and help arrange an appointment with a doctor who can assist. Just let me know the preferred date and time, and we’ll get it all set up!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "If we, if we can't go hospital, can I, is there a cancellation fee?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That’s a great question! Typically, clinics do have a cancellation policy, and sometimes there’s a fee if you cancel within a certain timeframe. I can definitely check the specific policy for you and let you know the details!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Okay. I have a more question."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course, go right ahead! I’m here to help with whatever you need."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "If I go to there, do I need to bring my Medicare card or something?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yes, that’s a good idea! It’s usually helpful to bring your Medicare card, as well as any relevant identification and a list of your current medications if you have them. That way, the appointment will go smoothly!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Thank you."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You’re very welcome!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "I appreciate your time."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "You’re very welcome! If anything comes up, just let me know. Have a great day!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Thank you. You, too."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Anytime! Take care, and don’t hesitate to reach out if you need anything. Task 3: Enquiring About a Rental Property or Housing Inspection"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Hello! Thank you for your interest in the property. My name is Sarah, and I’m the property manager here. How can I help you today?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "I'm interested in the two-bed unit on Main Street."
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "That’s wonderful to hear! The two-bedroom unit on Main Street is available. May I ask what specific questions you have, or what information you’d like to know?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "【can’t translate 】"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "No worries at all! It's open, t-furnished, and unpurnished."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "Is the property furnished or unfurnished?"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Yes, it's my question."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "Got it, that’s a great question! I’m happy to help with that and any others you have. you. And also I have a question too. Are pets allowed? How much is a bond?"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Of course, that’s another important question! Let me provide you with the details about pets and the bond amount."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "(can’t translate)"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely! Pets are indeed allowed, and there are some guidelines regarding them. I’ll also let you know about the bond amount and any additional details. Let me know if there’s anything else you’d like to ask!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "OK, I want to..."
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Sure, take your time! Whenever"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "(can’t translate)"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense! I’ll help you find a pet-friendly place that suits your needs. Just let me know any specific requirements or preferences you have, and we’ll go from there!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "If I find the house, can I apply online or do I need to visit the office?"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Great question! You can definitely apply online, and we also offer the option to visit the office if you prefer. I’ll be happy to guide you through both processes whenever you’re ready."
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "And what documents do I need to include with my application?"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "That’s a great question! Typically, you’ll need to include a photo ID, proof of income, references from previous landlords, and sometimes a rental history. I can provide a detailed list based on the property as well."
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "(can’t translate)"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "No worries at all! Feel free to"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "I actually submitted my application yesterday. Could you confirm if it was received?"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Absolutely, I can check that for you! Let me verify the details and confirm whether we received your application. Just give me a moment."
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "How long does it take to hear back?"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "It usually takes about one to two business days for us to review applications, but I’ll make sure to let you know as soon as we have an update. If there’s any delay, I’ll keep you informed as well."
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "Okay, I'm also interested in another unit. Could I apply for both?"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely apply for both units! Just let us know, and we’ll make sure to guide you through the application process for each one. Feel free to let me know any specific preferences you have as well."
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "If you are not knowing where to find a house, do you recommend to find a good place?"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "That’s a great question! I’d recommend starting with some reputable property listing websites, checking out local real estate agencies, and even visiting neighborhoods in person if you can. I’m also happy to provide some personalized recommendations based on what you’re looking for!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "Thank you so much."
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you have any more questions or need further assistance, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "Maybe I'll attend the inspection on Saturday."
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I’ll make sure to keep you updated with all the details for the inspection, and if you need anything else before then, just let me know!"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "Thank you so much. I appreciate your time."
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "It’s absolutely my pleasure! I’m glad I could help. If anything else comes up, just reach out anytime. Have a wonderful day!"
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "Thank you. Bye-bye."
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "You’re welcome! Take care, and goodbye for now!"
+    }
+  ]
+}

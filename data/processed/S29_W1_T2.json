@@ -1,0 +1,265 @@
+{
+  "student_id": 29,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S29_W1_T2",
+  "source_file": "data\\raw\\#29\\#29\\#29. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a Restaurant Table"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“I want to book a table for dinner.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely! How many guests will be joining you, and do you have a preferred time for your dinner reservation?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Bye, people!”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Great, five people. And do you have a specific time in mind for your booking this evening?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I'm hoping to do the dinner in next week.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, so 6 PM for five people. And is there any particular seating preference you have, like indoor or outdoor?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Sorry, I didn't mean 6pm, I mean in next week.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries at all! So, for next week, what day and time would you prefer for your dinner reservation?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I'm planning to start the dinner at 7pm, which they had the time slot.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, 7 PM next week for five guests. Let me check our availability. Is there any particular dietary requirement or special occasion we should be aware of?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Oh, one of my friends is a vegetarian.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it, thank you for letting me know. We'll make sure to have vegetarian options available. Is there anything else we can assist with, such as a special request for the seating or perhaps a celebration note?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yeah, we are celebrating for birthday, and can we sit near the window so we can look at the sea view?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll arrange a window seat for you and make it extra special for the birthday celebration. Is there anything else you'd like to add or any other questions you have?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“If you have a birthday cake to provide or we can bring it from outside.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "We can definitely provide a birthday cake for you if you’d like, or you’re welcome to bring your own. Just let us know your preference, and we’ll make the arrangements. Anything else we can assist with?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“What kind of birthday cake do you provide?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "We offer a variety of options, such as chocolate, vanilla, and red velvet, and we can also accommodate special requests if you have a particular flavor in mind. Just let us know what you prefer!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh, I think my friend likes the velvet cake, and would you mind to put some words on the cake?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course! We can add a special message for your friend. Just let us know what you’d like it to say, and we’ll take care of the rest. Anything else we can help with?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Please put a message, Happy Birthday, John.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll make sure it says, “Happy Birthday, John.” Everything sounds wonderful, and we’ll have your reservation all set. If there’s anything else you need, just let us know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Oh sorry, just want to clarify which stage is available.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "No problem at all! Let me quickly check our availability for each day next week, and I’ll let you know which ones we have open. Just give me one moment!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“ウィッチタイミングが可能です。”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Alright, we have availability on Tuesday, Wednesday, and Thursday next week at 7 PM. Let me know which day works best for you, and we’ll get everything finalized!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Wednesday is fine.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Perfect! Wednesday at 7 PM it is. I’ll go ahead and confirm that for you, and we’ll make sure everything’s set for your celebration. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“I want to ask about the food in the set dinner, which is the main course.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course! For the main course, we have a variety of options, including grilled fish, steak, vegetarian pasta, and more. If you have any specific dietary preferences or questions about the menu, just let me know, and I’ll be happy to help!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Adakah kita perlu memilih penampilan sebelum kita duduk atau kita boleh memilihnya satu demi satu?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You’re welcome to choose your dishes either in advance or on the day itself. Whatever’s more convenient for you works perfectly for us. Just let us know what you prefer!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Okay, I will let my friend to choose at that time. And about the vegetarian menu, can you send the option to my email?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that! Just let me know your email address, and I'll send over the vegetarian menu options right away. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“For more questions, are we allowed to bring our L-card?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "That’s a great question! We do have a policy on outside beverages, so I’ll confirm the details and let you know what’s allowed. I’ll include that information in the email as well!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“On top of that, I'm thinking, can you guys provide a band performance to sing the happy birthday song for my friend? I think it will be nice.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "That sounds like such a lovely idea! We can definitely arrange for a band performance to make the celebration extra special. I'll coordinate that for you and confirm all the details. If there's anything else you’d like, just let me know!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“That's all I can think of. Any extra details you can think of?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "That all sounds wonderful! We’ve got everything covered for your celebration. Once you confirm the final details, we’ll make sure everything’s perfect for your evening. And if anything else comes up, just let me know!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Can I add another person to the booking?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Of course! We can absolutely add another guest. Just let me know the total number now, and I'll update the reservation accordingly."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“You will now have total 6, oh sorry, 7 persons.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "No worries at all! I’ll make sure to update the reservation for seven guests. Everything will be all set, and we’ll look forward to hosting your group. If there's anything else, just let me know!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“You will get a confirmation message.”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Absolutely! I’ll send you a confirmation message with all the details shortly. And if you have any other questions in the meantime, just let me know. Looking forward to celebrating with you!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“That's all. Thanks very much. Looking forward to it.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "You’re very welcome! It’s my pleasure. We can’t wait to host you all. If you need anything else, just reach out. Have a fantastic day!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Thank you. Good day to you.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Thank you! You have a great day as well. Take care!"
+    }
+  ]
+}

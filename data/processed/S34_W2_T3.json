@@ -1,0 +1,270 @@
+{
+  "student_id": 34,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S34_W2_T3",
+  "source_file": "data\\raw\\#34\\#34\\#34. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to practice how to Enquiring About a Rental Property or Housing Inspection. You are property manager at a real estate agency. I’ll play the role of a customer. Please create a realistic a real estate agency scenario and respond as if we were really there. Help me talk about a real estate agency service. Keep the conversation going naturally by asking at least 3 follow-up questions about a Rental Property or Housing Inspection"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! Let’s start the roleplay. (You walk into a bright, modern real estate office. The property manager looks up from her desk with a welcoming smile.)"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "“Good morning! Welcome to Elmwood Real Estate. How can I help you today? Are you here to ask about a rental property?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I saw the advertisement in front of your store. I'm interested in the two-bedroom unit on the main street.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I have some questions about the unit.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! I’m happy to help. What would you like to know about the unit? For example, are you curious about the layout, the amenities, or maybe the rental terms? Let me know!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Is the property furnished or unfurnished?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Great question! The property is actually unfurnished, so you'll have the flexibility to decorate it as you like. Is there anything else specific you'd like to know about the features or the inspection"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I have a cat.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That’s great to know!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Is Pat around?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Yes, pets are indeed allowed in that unit. We just have a small pet policy in place. Would you like to know more about any other details, like the inspection schedule or the application steps?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“How much is the bond?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "The bond is typically equivalent to four weeks’ rent. If you’d like, I can also provide more details about the rental terms or the next steps in the application process. Let me know!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Ah, yes, could you let me know how much and the period?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely! The bond amount is generally four weeks’ rent, and the rental period is usually a minimum of twelve months. If you’d like to schedule an inspection or need guidance on the application documents, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“How much is the rent per month?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "The monthly rent for that unit is $1,800. If you have any other questions or would like to arrange a viewing, feel free to let me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“$8000”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You’re welcome! If you need any more details or want to set up that inspection, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Please let me clarify. The rent is 1,800 or 1,800, I mean 1,800 or 8,000, which is correct.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it, no worries! The correct amount is $1,800 per month, so one-eight-zero-zero. Hopefully that clears it up! If there’s anything else you’d like to confirm, just let me know."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Ah, thank you. So per week is how much?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure! If we divide the monthly rent of $1,800 by four weeks, it comes out to about $450 per week. If you have any other questions, I’m happy to help!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Channels registered on inspection this weekend.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange that! Let me check the available times for this weekend. Would Saturday morning or Sunday afternoon work better for you? Let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Sunday afternoon is fine for me.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Perfect, Sunday afternoon it is! I’ll go ahead and schedule that for you. If you need any additional information or have any other requests, just let me know!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“What time is it?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "We can schedule the inspection for Sunday at 2 PM. Does that time work well for you? If not, we can definitely adjust it to fit your schedule."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“I had an appointment at 3pm, so I prefer 1.30pm.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, we can do  on Sunday. That works perfectly. I’ll book that for you, and if you have any other questions before then, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“OK, thanks.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You’re very welcome! If anything else comes up, feel free to reach out. I look forward to meeting you on Sunday. Have a great day!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Bye.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Bye! Take care, and I’ll see you soon!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“After Sunday's inspection, I will come here again to proceed application for rent.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That sounds perfect! I’ll be here to help you with the application process after the inspection. If you have any questions in the meantime, just let me know. Looking forward to it!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Let's restart Roleplay.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sounds good! Let’s jump back in and restart the roleplay whenever you’re ready. Just let me know the scenario or any details, and we’ll get started!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Hello again. Thank you for last Sunday. I really came on. I really like that property. I'd like to apply. How should I do?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "That’s wonderful to hear! I’m glad you liked the property. To get started with the application, I’ll just need a few documents from you, like proof of income and a photo ID. Then we can fill out the application form together. Let me know if you have any questions about that process!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Here you are.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Great, thank you! I'll go ahead and get everything ready. Once we have all the documents and the form filled out, we’ll be all set. If you have any other questions or need any assistance along the way, just let me know!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“I filled up the document. Here you are. Could you check that?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to take a look. Let me review the documents for you and make sure everything is in order. Once I’ve confirmed everything, we can proceed with the application. Let’s get started!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“I submit my application today. How long does it take to hear back?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Typically, it takes about two to three business days for us to review the application and get back to you. Of course, if there are any additional details we need, we’ll let you know right away. But we’ll do our best to keep it as quick and smooth as possible!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Thank you. I'm looking forward to hearing back from you.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "You’re very welcome! We’re excited to have you on board, and we’ll be in touch as soon as possible. If you need anything else in the meantime, just let me know. Have a great day!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Thank you. Bye.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "You’re welcome! Bye for now, and take care!"
+    }
+  ]
+}

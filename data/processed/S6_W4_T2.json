@@ -1,0 +1,130 @@
+{
+  "student_id": 6,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S6_W4_T2",
+  "source_file": "data\\raw\\#06\\#06\\#6. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Participating in Group Decisions and Negotiating Responsibilities"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Okay… let’s do role play. You are my teammate. I want to talk about group project."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, sure. I’m your teammate. Let’s talk about the group project. What’s on your mind?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Um… I feel our project is not moving. We didn’t decide roles yet."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Yeah, I feel that too. We’ve talked a bit, but nothing is really decided. What do you think is the main problem right now?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Everyone waits. No one wants to start. So we are just stuck."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I see what you mean. If no one starts, it’s hard to move forward. Do you feel uncomfortable bringing this up in the group chat, or in person?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Both… I don’t want sound bossy. I’m worried people feel bad."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That makes sense. I don’t think you’d sound bossy if you explain it carefully. What were you thinking of saying?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I want say… Maybe we can decide roles first. But I don’t know how to say nicely."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Okay, how about something like: “Maybe we can decide roles first so we know what to work on”? That sounds more like a suggestion than an order. How does that feel?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "That sounds better. Less strong."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Good. And do you already know which part you’d like to do, or are you still deciding?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "I think I prefer research part. Writing is okay. But presentation… I’m not confident."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s fair. You could say that you’re happy to focus on research and writing, and ask if someone else feels comfortable presenting. If no one volunteers, we can think about sharing it. Would that be okay?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes… If we share, I feel less scared."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That makes sense. Also, maybe we can set a small deadline, like finishing research by next week, so we don’t leave everything until the end."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Next week… You mean end of next week?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yes, by the end of next week. We can check in again after that and see how everyone is going."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Okay. That sounds reasonable."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "So maybe you can send a message suggesting roles and a small deadline, and we’ll see how the others respond."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Okay… I feel more confident now. I think I can send message."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Good. If you want, I can also help you think about the exact message later."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Thank you. This role play helped me."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "student_id": 37,
+  "week": 3,
+  "task": 1,
+  "task_label": "T4",
+  "dialogue_id": "S37_W3_T1",
+  "source_file": "data\\raw\\#37\\#37\\#37. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting a Lost Item or Filing a Minor Police Report. “ • “Hi, I’ve lost my wallet at the train station and I would like to make a report.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. I’m sorry to hear that—can you tell me when you last remember having the wallet at the train station?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "When I Went to buy the ticket"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Okay. So it was when you were buying a ticket—about what time and date did this happen?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "In 12/12/25 às pm"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright. Just to confirm, that was on December 12th at around  in the afternoon—can you tell me which train station this happened at?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Yes, the station pacific"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Okay. Thanks—was the wallet lost inside the station building or on the platform area?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Probably in platform area"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright. Thanks for clarifying—can you describe the wallet for me, like the color or what was inside it?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Yes it is pink than have my ID inside"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Okay. A pink wallet with your ID inside—was there any cash, bank cards, or other important items in it?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Yes there was bank cards but not Money"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright. Thanks for letting me know—have you already contacted your bank to block those cards, or not yet?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yes, of course. Thanks so much."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright. You’re welcome—we’ve noted everything for the report. If the wallet is found, we’ll contact you, and feel free to follow up anytime. Take care."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "I hope, bye."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright. I hope so too—bye, and take care."
+    }
+  ]
+}

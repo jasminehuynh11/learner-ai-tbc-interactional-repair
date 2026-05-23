@@ -1,0 +1,120 @@
+{
+  "student_id": 12,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S12_W1_T1",
+  "source_file": "data\\raw\\#12\\#12\\#12. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, could I please get an Americano?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, an Americano sounds great! Would you like any milk or sugar with that?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“No, I don't want to add anything just to the Merrick channel.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, just a plain Americano. That's coming right up! Would you like to have that for here or to go?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I will take it out, but I want to wait it near the door.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "No problem at all! I'll have it ready for you to go, and you can wait by the door. Anything else I can help you with?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I want to know what else do you recommend today?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Oh, sure! We have some delicious pastries and a special cake today. Are you in the mood for something sweet or maybe a snack?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, please.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Great choice! We have a lovely almond croissant and a chocolate chip cookie. Which one sounds good to you?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“be a chocolate chip cookie. I like the sweet chocolate chips very much.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Excellent choice! I'll add that chocolate chip cookie to your order. Is there anything else I can get for you, or are we all set?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“That's all. Thank you. And I want to know what kind of beans do you use for your cat Americano?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Oh, that's a great question! We use a medium roast bean that’s got a nice balance of acidity and richness. I think you'll love it! Anything else you're curious about?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“That's great, thank you and I will wait it next door.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "You're very welcome! I'll have your Americano and cookie ready for you in just a moment. Thanks for stopping by!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Hi, does my Americano is all ready?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Almost ready! Just putting the finishing touches on it. It should be good to go in just a few seconds. Thanks for your patience!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, thank you very much.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You're very welcome! Here you go, your Americano and cookie are all set. Enjoy, and have a great day!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Thank you. You too. Have a nice day.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Thanks so much! Take care, and feel free to come back anytime. Bye for now!"
+    }
+  ]
+}

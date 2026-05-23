@@ -1,0 +1,40 @@
+[
+  {
+    "dialogue_id": "S1_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – irrelevant response to learner's issue",
+    "evidence_summary": "The learner describes a problem with their phone restarting, but the bot responds with a generic offer of help without addressing the specific issue. The learner then provides more details about the problem, and the bot acknowledges the issue, offering assistance, which resolves the misunderstanding."
+  },
+  {
+    "dialogue_id": "S1_W3_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unsure how to express 'retain the information'",
+    "evidence_summary": "The learner expresses uncertainty about how to say 'retain the information' in English. The bot offers to help with translation or phrasing, indicating understanding and willingness to assist, resolving the learner's vocabulary issue."
+  },
+  {
+    "dialogue_id": "S1_W3_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – learner unsure how to pronounce email address",
+    "evidence_summary": "The learner is unsure how to pronounce the '@' symbol in their email address. The bot confirms understanding of the email address and reassures the learner, resolving the pronunciation issue."
+  }
+]

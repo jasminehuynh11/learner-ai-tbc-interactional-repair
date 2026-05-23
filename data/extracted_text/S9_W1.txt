@@ -1,0 +1,387 @@
+10.25.2025
+Dami Kim
+Task 1: Booking a table 
+나의 말:
+
+“Hi, I'd like to book a table for tonight.”
+00:04
+English Conversational Partner의 말:
+
+Absolutely! And what time were you thinking of coming in this evening?
+
+나의 말:
+“Do you have a table at 6pm?
+00:03
+English Conversational Partner의 말:
+
+Certainly! We can set that up for you at 6 p.m. this evening. Now, do you have any preference for indoor or outdoor seating?
+
+나의 말:
+“And then we cast the outdoor setting.”
+00:02
+English Conversational Partner의 말:
+
+Alright, outdoor seating it is! I'll make sure we reserve a nice spot for you. And just to confirm, can I get a name for the booking?
+
+나의 말:
+“Yes, my name is Diana.”
+00:02
+English Conversational Partner의 말:
+
+Perfect, Diana. We’ve got you all set for 6 p.m. outside. Just one last thing—do you have any dietary preferences or special requests for the meal?
+
+나의 말:
+“No. Oh, I have something. I'm booking for my friend's birthday. Do you offer any singing or decoration?”
+00:09
+English Conversational Partner의 말:
+
+Absolutely! We’d be happy to help with that. We can arrange a little birthday dessert and we can definitely sing a quick happy birthday if you'd like. Just let me know if that works for you.
+
+나의 말:
+“Thank you. Is this free?”
+00:01
+English Conversational Partner의 말:
+
+Sure! Yeah, that's absolutely free of charge. We’re happy to do that for a birthday celebration. So is there anything else we can do to make it special?
+
+나의 말:
+“Thank you. Can I ask one more?”
+00:05
+English Conversational Partner의 말:
+
+Of course! Go right ahead and ask anything else you need.
+
+나의 말:
+“Can we bring our own character for this elaboration?”
+00:04
+English Conversational Partner의 말:
+
+Absolutely, you can bring your own cake. We just ask that you let us know when you arrive, and we’ll help you out with it. Is there anything else you’d like to check?
+
+나의 말:
+“Go to ISTEM menu online.”
+00:01
+English Conversational Partner의 말:
+
+Yes, it sure is! You can find our full menu right on our website. Feel free to take a look. And if you have any other questions, just let me know!
+
+나의 말:
+“So, do we have a vegetarian or halal option?”
+00:03
+English Conversational Partner의 말:
+
+Absolutely! We do have both vegetarian and halal options available, so there's definitely something for everyone. Just let us know if you have any other special dietary needs!
+
+나의 말:
+텍스트 기록 사용할 수 없음
+00:01
+English Conversational Partner의 말:
+
+Sure thing! Take your time. And if there's anything else you think of, just let me know.
+
+나의 말:
+“Can I order the food in advance?”
+00:03
+English Conversational Partner의 말:
+
+Absolutely, you can. We can take a preorder if you'd like, and that way everything will be ready when you arrive. So just let me know what dishes you're thinking of.
+
+나의 말:
+“I will order a two pasta and is there any dessert?”
+00:07
+English Conversational Partner의 말:
+
+All right! I've got you down for two pasta dishes. And yes, we do have some lovely desserts as well. Would you like to hear a couple of options?
+
+나의 말:
+“Oh, sorry. What is a convolution?”
+00:01
+English Conversational Partner의 말:
+
+Sure! So for desserts, we've got a delicious chocolate lava cake and a classic tiramisu. Let me know which one sounds good to you!
+
+나의 말:
+“It is delicious out of things. Can I order the two cakes you said?”
+00:09
+English Conversational Partner의 말:
+
+Absolutely! I'll add both the chocolate lava cake and the tiramisu to your order. So that should be all set. Anything else you need to add?
+
+나의 말:
+“Can I change the booking?”
+00:02
+English Conversational Partner의 말:
+
+Sure, no problem at all. Just let me know what changes you'd like to make and we can adjust the booking for you.
+
+나의 말:
+“I want to change it at 7 p.m.”
+00:04
+English Conversational Partner의 말:
+
+Absolutely, I can do that for you. I'll switch your booking to 7 p.m. instead of 6. And is everything else still the same for you?
+
+나의 말:
+“Could you confirm the time and the name, and the dishes for me?”
+00:09
+English Conversational Partner의 말:
+
+Sure! So just to confirm, we've got your booking under the name Diana for 7 p.m. tonight, with outdoor seating, two pasta dishes, and those two desserts we talked about. If that all sounds correct, just let me know!
+
+나의 말:
+“ご視聴ありがとうございました。”
+00:00
+English Conversational Partner의 말:
+
+Great! Then everything
+
+나의 말:
+“Yes.”
+00:01
+English Conversational Partner의 말:
+
+Awesome! You're all set for tonight at 7 p.m., Diana. If there's anything else you need, just let us know, and we look forward to seeing you.
+
+나의 말:
+“Oh, yes. Oh, can I ask you one more?”
+00:03
+English Conversational Partner의 말:
+
+Sure thing! Feel free to ask me anything else you need.
+
+나의 말:
+“Is there any flexible if we are live 50 minutes late?”
+00:06
+English Conversational Partner의 말:
+
+Absolutely, there's a bit of flexibility. If you run about 15 minutes late, that's totally fine. Just give us a quick heads-up if you can, and we'll hold your table.
+
+나의 말:
+“Oh, sorry, I hear some noise, so can you tell me back again?”
+00:08
+English Conversational Partner의 말:
+
+Sure! So basically, if you arrive about 15 minutes late, that's no problem at all. Just let us know, and we’ll hold the table for you.
+
+나의 말:
+“What is it? How does it know?”
+00:01
+English Conversational Partner의 말:
+
+Oh, I just mean you can give us a quick heads-up if you're running late, so we know to keep your table. Let me know if that makes sense!
+
+나의 말:
+“Okay, thank you for understanding me.”
+00:02
+English Conversational Partner의 말:
+
+Of course! You're very welcome. If there's anything else, just let me know.
+
+나의 말:
+“I guess that's all.”
+00:01
+English Conversational Partner의 말:
+
+All right, perfect! Well, thanks so much, and we look forward to having you tonight. Have a great day!
+
+나의 말:
+“Yes, oh, what is your name?”
+00:01
+English Conversational Partner의 말:
+
+Sure! My name's Alex. So if you need anything when you arrive, just feel free to ask for me.
+
+나의 말:
+“Okay, thank you, Alex. See you evening tonight.”
+00:04
+English Conversational Partner의 말:
+
+You're very welcome, Diana. I'm glad I could help, and I hope you have a wonderful evening tonight.
+
+나의 말:
+“Thank you.”
+00:00
+English Conversational Partner의 말:
+
+You're welcome! Enjoy your dinner and have a great time.
+
+
+Task 2: Ordering a coffee 
+나의 말:
+“Hello, how are you?”
+00:01
+English Conversational Partner의 말:
+
+Doing great, thanks! So, let's figure out your coffee order. Did you have a particular size in mind for your coffee?
+
+나의 말:
+“Yes, and larger size. Oh, which size do you have?”
+00:03
+English Conversational Partner의 말:
+
+Absolutely, we can do a large for you. We've got a few sizes: typically a small, a medium, and a large. So for that large coffee, would you like any milk or sugar in it, or do you prefer it black?
+
+나의 말:
+“Can you show me the larger size cup?”
+00:03
+English Conversational Partner의 말:
+
+Sure thing! So this here is our large cup—it’s about 16 ounces. It's nice and roomy, so plenty of space for whatever you like. Now, would you like to add any flavors or syrups in that coffee?
+
+나의 말:
+“Please allow your stars, please.”
+00:01
+English Conversational Partner의 말:
+
+Alright, large size it is! We'll get that going. And just to make sure we've got it right, do you want that coffee with any milk or are you keeping it black?
+
+나의 말:
+“Can I get an iced vanilla latte, please?”
+00:02
+English Conversational Partner의 말:
+
+Of course! An iced vanilla latte in a large size coming right up. Now, just to check, would you like that with regular dairy milk or do you prefer a non-dairy alternative?
+
+나의 말:
+“You said that I have to choose the milk flavor?”
+00:06
+English Conversational Partner의 말:
+
+Exactly! Just letting you pick whichever milk you prefer. So would you like regular milk, or maybe almond, oat, or soy?
+
+나의 말:
+“It's here. Lacto-free milk.”
+00:03
+English Conversational Partner의 말:
+
+Absolutely, we do have lactose-free milk, so we can use that for your iced vanilla latte. And is there anything else you'd like to add to your order today?
+
+나의 말:
+“Is there any dessert?”
+00:02
+English Conversational Partner의 말:
+
+For sure! We've got a few desserts you can pick from. We have things like muffins, cookies, and some slices of cake. Anything sweet sound good to you?
+
+나의 말:
+“Oh, sorry, what did you say that's 3-tangent tube?”
+00:02
+English Conversational Partner의 말:
+
+No problem at all! So we've got some muffins, cookies, and a couple of cake slices on the menu. Is there one of those that you'd like to add?
+
+나의 말:
+“Recommended today. Forbidden.”
+00:03
+English Conversational Partner의 말:
+
+Sure! I'd say our chocolate chip muffins are pretty popular today. They’re fresh and really tasty. How does that sound for a little treat on the side?
+
+나의 말:
+“Okay, I will take out chocolate muffin, please, with my coffee.”
+00:05
+English Conversational Partner의 말:
+
+Absolutely! We’ll add that chocolate muffin in with your iced vanilla latte. So, we've got everything set. Anything else I can get for you, or is that all for today?
+
+나의 말:
+“Can I ask more?”
+00:01
+English Conversational Partner의 말:
+
+Of course, go right ahead! I'm happy to answer anything else you need. What else would you like to know?
+
+나의 말:
+“Oh yeah, thank you. And changing the milk is for free.”
+00:05
+English Conversational Partner의 말:
+
+Sure! And yes, actually, switching to lactose-free milk is no extra charge at all. So you're all set there. Anything else you're curious about?
+
+나의 말:
+“Yes, and can you hit the feed?”
+00:03
+English Conversational Partner의 말:
+
+Absolutely, happy to help. We'll get that all sorted out for you. So, I’ll ring up your coffee and muffin. Thanks for your order!
+
+나의 말:
+“Yes, and can I get to work, please? Because my friend is coming here.”
+00:09
+English Conversational Partner의 말:
+
+Sure, no problem at all! We’ll make that two iced vanilla lattes with lactose-free milk and two chocolate muffins, then. We'll have everything ready for both of you. Anything else you need?
+
+나의 말:
+“Sorry, I did it, I said wrong before. I will order one iced vanilla latte and one chocolate muffin and can I get a more two chopstick?”
+00:19
+English Conversational Partner의 말:
+
+Ah, got it! No worries at all. So just the one latte and muffin for you, and I'll make sure you have a couple of extra chopsticks. Anything else you need?
+
+나의 말:
+“Oh, yes. Oh, sorry. Can I change my coffee?”
+00:02
+English Conversational Partner의 말:
+
+Of course, no problem at all! We can change that up for you. What would you like to switch your coffee to?
+
+나의 말:
+“Can I get one Iced long-black, please?”
+00:02
+English Conversational Partner의 말:
+Absolutely, we'll swap that out for an iced long black instead. So one iced long black and one chocolate muffin it is. Anything else you’d like to adjust?
+
+나의 말:
+“How long will i take this.”
+00:04
+English Conversational Partner의 말:
+It'll just take a couple of minutes to get that iced long black ready for you. So you can just relax for a moment, and we'll have it out in no time. Anything else on your mind?
+
+나의 말:
+“Oh, no time is meaning, is no time meaning, is, uh, the, I can get up right now.”
+00:11
+English Conversational Partner의 말:
+
+Exactly, you got it! "No time" just means it'll be really quick. So yeah, we'll have your coffee ready for you in just a moment. Anything else you want to ask about?
+
+나의 말:
+“Yeah, it sounds good. How much is it?”
+00:02
+English Conversational Partner의 말:
+
+Sure! So for the iced long black and the chocolate muffin, that’ll come to about five dollars and fifty cents in total. Does that sound all right to you?
+
+나의 말:
+“Yes, can I check my size one more?”
+00:03
+English Conversational Partner의 말:
+
+Of course, no problem at all. So your iced long black is in our large size cup, which is 16 ounces. Just let me know if that works for you or if you want to tweak anything else.
+
+나의 말:
+“Sounds good. Thank you.”
+00:01
+
+English Conversational Partner의 말:
+You're very welcome! We'll get that all set up for you and have it ready in just a moment. Thanks a lot, and enjoy your coffee!
+
+나의 말:
+“Yes, thank you so much. Oh, what's your name?”
+00:02
+
+English Conversational Partner의 말:
+Of course! You’re welcome. I'm just your friendly barista here, so you can just think of me as your coffee helper today. If you need anything else, just let me know!
+
+나의 말:“Yes, that's all.”
+00:01
+
+English Conversational Partner의 말:
+All right! Well, I'm glad we got everything sorted out for you. Thanks so much, and enjoy your order. If there's anything else in the future, just let me know. Have a great day!
+
+나의 말:
+Have a great day too
+00:00
+
+English Conversational Partner의 말:
+Absolutely, take care and enjoy! Feel free to come back anytime.

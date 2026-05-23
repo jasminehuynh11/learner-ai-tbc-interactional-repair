@@ -1,0 +1,580 @@
+{
+  "student_id": 50,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S50_W1_T2",
+  "source_file": "data\\raw\\#50\\#50\\#50. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I'd like to book a table for two tonight.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! So, you're looking to"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it! How many people should I set that table for tonight?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I'd like to make a booking for two people, but I'm a prisoner now.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure, no problem! So a table for two, and we’ll make sure you’re nice and comfortable. Now, do you have a preferred time in mind for tonight?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Sorry, I don't understand. Please speak slowly.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course! Absolutely, I’ll slow down a bit. So, we’ve got a table for two noted. Now, could you tell me what time you’d like to come in this evening?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Why can't I go for... When can I get time?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. So let's pick a time that works for you. Would you prefer maybe around seven in the evening, or is there another time you have in mind?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Oh, okay. I want having a table available at 7 p.m.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Perfect! Seven p.m. it is. Now, do you have any special requests or maybe dietary preferences we should know about?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Can we sit near the window, if possible?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure! A window seat is absolutely possible. We'll note that down for you. And just one more thing: do you have a name you'd like to put the booking under?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Sure, my name is Yuna.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, Yuna, got it! We’ll have your table by the window at seven p.m. under your name. Anything else you need?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I want an ocean view.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, I'll note that down. We'll make sure you have a nice ocean view if we've got it available. And I think we’re all set! Let me know if there's anything else on your mind."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Maybe the ocean view is more expensive, right?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yeah, that's right! Usually, there's a small extra charge for the ocean view tables. It's not too big, but just letting you know. Is that okay for you?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Is there an extra fee?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure! It's just a small extra fee, about ten dollars more for the ocean view seating. If that's all right with you, we'll go ahead and confirm it that way."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, I'm booking for Oceanview room.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Great! We'll book that ocean view table for you then. Thanks, Yuna. If there's anything else, just let me know!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I'm booking for my husband's birthday. Do you offer any singing or decorations or some card?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely! We can definitely help with that. We can arrange a little birthday song and some decorations or even a small card for your husband. Just let me know if that sounds good!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Is there any extra charge?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Sure! Nope, no extra charge for a little birthday singing or a card. That's on the house. We just want to make it special. Anything else you'd like?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“We bring our own cake for the celebration.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sure! You're welcome to bring your own cake for the celebration, no problem at all. We'll just keep it for you until you're ready. Anything else on your mind?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Could I borrow some candles on the dessert?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely! We can add some candles to the dessert for you, no problem at all. We'll take care of that. Anything else you need?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Is there an extra charge?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Sure! Nope, no extra charge for the candles either. We'll just pop them on for you and make it all festive. Anything else at all?"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“OK, how can I get some candles?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure! We'll just handle that for you. We'll put the candles on the dessert before we bring it out. So you don't have to worry about a thing. Anything else I can help with?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Okay, thank you. Is there anything special you can arrange?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely! We can definitely add a special touch. We can arrange a little birthday message on the dessert plate or even have the staff do a cheerful greeting. Just let me know what you’d like!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Very nice. I will take it.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "All right! We'll make sure to arrange that special touch for you and make it a lovely celebration. Thanks for letting me know, and we’re all set!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Will I get a confirmation message?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Sure! Absolutely, I'll send you a confirmation message shortly so you have all the details. Anything else you need?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“I want to know about menu and detailed needs.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Sure! I can definitely help with that. So, I'll send you the menu details along with the confirmation. You can take a look and let us know if you have any favorites. Anything else you'd like to know?"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Is there a menu online?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely! Yep, the menu is online, so I'll include a link for you in that confirmation message. You can browse it anytime. Let me know if there's anything else!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“What do you recommend the best menu?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Sure! I'd be happy to recommend something. One of our most popular dishes is the seafood platter, which goes great with that ocean view. But of course, you can choose anything you like. Just let me know what you're in the mood for!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Sorry, I don't like a seafood.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Sure, no worries at all! If seafood's not your thing, I'd definitely recommend our steak or maybe the vegetarian risotto. Both are really delicious. Just have a look at the menu and pick what you like!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Very nice. I want some steak. Two steaks.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely! Two steaks coming right up. We’ll note that down for your booking. And I think we’ve got everything sorted for you!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“That’s fine. I need the steaks cooked medium.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Sure! Our steaks are delicious, and you can absolutely have them cooked medium. We'll make a note of that for the kitchen. Anything else on your mind?"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Great. I will see you at 7 tonight.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Perfect! We’ll see you at seven tonight then. Thanks, Yuna, and we’re looking forward to it!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“How can I get my stakes?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Sure! So once you arrive tonight, just let your server know you’d like your steaks cooked medium, and we'll take care of everything. See you soon!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Okay. Thank you very much. Looking forward to it.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Of course! We’re looking forward to it too. Thanks so much, Yuna, and we’ll see you this evening!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“I bought this shirt last week, but it doesn't fit. Could I exchange it for a large size?”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Sure! So you're looking to do an exchange. No problem at all—just bring the shirt in with you, and we’ll swap it out for a larger size. What size do you need exactly?"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Probably, I...”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Sure! So you’re"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“I already bought this shirt medium size, I want exchange larger.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Absolutely! A large size sounds good. We’ll have that ready for you to exchange when you come in. Just let us know if you need anything else!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“I think the zipper, it doesn't work.”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "All right! Thanks for letting me know about the zipper. We’ll definitely check that out and make sure the new size has everything working properly. Just bring it on in, and we’ll sort it for you!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“When can I bring my shirt?”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Sure! You can bring it in anytime during our opening hours, and we’ll do the exchange for you. Just drop by whenever it’s convenient for you!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“Watch your exchange policy.”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Absolutely! So our exchange policy is nice and simple: you can bring the shirt back within 30 days as long as it's in its original condition, and we'll swap it out for you. So just bring it in whenever you're ready!"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“Sorry, I don't understand. Please speak slowly.”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "Of course! No problem at all. Our exchange policy is that you have 30 days to bring the shirt back, and as long as it's still in its original condition, we can exchange it for you. Just come in whenever you like!"
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“Sorry, I cannot bring for three days. I want to bring my home.”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "Sure! I understand. No rush at all. You can just bring it in whenever you can, even if it's after a few days. We'll still help you out with the exchange. Let me know if you need anything else!"
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "“But I bought this shirt on sale. Can I return or exchange it if it doesn't fit?”"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "Absolutely! Yes, even if you bought it on sale, you can still exchange it if it doesn't fit. So just bring it in when you can, and we'll take care of that for you."
+    },
+    {
+      "turn": 79,
+      "speaker": "learner",
+      "text": "“Is there an extra fee?”"
+    },
+    {
+      "turn": 80,
+      "speaker": "bot",
+      "text": "Absolutely! No worries, there’s no extra fee for that. We’ll handle the exchange at the same price you paid. Just come by whenever you’re ready!"
+    },
+    {
+      "turn": 81,
+      "speaker": "learner",
+      "text": "“very nice i released i already have something uh sorry sorry i but i and i want exchanges the color it”"
+    },
+    {
+      "turn": 82,
+      "speaker": "bot",
+      "text": "Sure! Absolutely, we can do that. If you want to exchange for a different color, that’s totally fine as well. Just let us know which color you’d like when you come in, and we’ll get that sorted for you!"
+    },
+    {
+      "turn": 83,
+      "speaker": "learner",
+      "text": "“I have already yellow shirt and then I want pink shirt.”"
+    },
+    {
+      "turn": 84,
+      "speaker": "bot",
+      "text": "Absolutely! We'll get you that pink shirt instead of the yellow one, no problem at all. Just come on by and we'll swap it out for you. Let me know if you need anything else!"
+    },
+    {
+      "turn": 85,
+      "speaker": "learner",
+      "text": "“Pink color and large size shirt, right?”"
+    },
+    {
+      "turn": 86,
+      "speaker": "bot",
+      "text": "Exactly! A pink shirt in a large size, just as you wanted. We'll have that ready for you. See you when you come by!"
+    },
+    {
+      "turn": 87,
+      "speaker": "learner",
+      "text": "“There isn't extra fee, right?”"
+    },
+    {
+      "turn": 88,
+      "speaker": "bot",
+      "text": "That's right! No extra fee at all for changing the color or the size. We’ll just do the exchange for you. See you soon!"
+    },
+    {
+      "turn": 89,
+      "speaker": "learner",
+      "text": "“Could I see it for a different color?”"
+    },
+    {
+      "turn": 90,
+      "speaker": "bot",
+      "text": "Absolutely! You can definitely see it in a different color when you come in. We'll show you the pink one and make sure it's exactly what you like. See you soon!"
+    },
+    {
+      "turn": 91,
+      "speaker": "learner",
+      "text": "“But I want see another color right now.”"
+    },
+    {
+      "turn": 92,
+      "speaker": "bot",
+      "text": "Ah, I see! Unfortunately, I can't show it to you right now in person, but when you come in, we'll have the pink one ready for you to take a look at. Let me know if that works for you!"
+    },
+    {
+      "turn": 93,
+      "speaker": "learner",
+      "text": "“Could I see it for a different color with picture?”"
+    },
+    {
+      "turn": 94,
+      "speaker": "bot",
+      "text": "Sure! Let me paint you a quick picture. The pink shirt is a nice soft pastel pink, and it looks just like the yellow one you have, just in that different color. When you come in, you can see it in person, but hopefully that helps you imagine it for now!"
+    },
+    {
+      "turn": 95,
+      "speaker": "learner",
+      "text": "“Can I looking for a different color online?”"
+    },
+    {
+      "turn": 96,
+      "speaker": "bot",
+      "text": "Absolutely! You can definitely check out the different colors online. Just have a look at our website, and you'll be able to see all the options there before you come in. Let me know if you need the link!"
+    },
+    {
+      "turn": 97,
+      "speaker": "learner",
+      "text": "“What is your website?”"
+    },
+    {
+      "turn": 98,
+      "speaker": "bot",
+      "text": "Sure! Our website is just our store name followed by dot com. So you can head over there, and you'll find all the colors and options. Let me know if you need any more help!"
+    },
+    {
+      "turn": 99,
+      "speaker": "learner",
+      "text": "“Can I log in?”"
+    },
+    {
+      "turn": 100,
+      "speaker": "bot",
+      "text": "Absolutely! Yes, you can log in on our website if you want to check your order details or see the colors. Just go ahead and create an account or log in, and you’ll be all set!"
+    },
+    {
+      "turn": 101,
+      "speaker": "learner",
+      "text": "“But I can’t log in that site.”"
+    },
+    {
+      "turn": 102,
+      "speaker": "bot",
+      "text": "Sure! No worries at all. If you're not logged in, that's completely fine. You can still browse the colors without logging in. And if you need any help, just let me know!"
+    },
+    {
+      "turn": 103,
+      "speaker": "learner",
+      "text": "“OK, thank you. If I buy this as a gift, can I, the person, return it without a receipt?”"
+    },
+    {
+      "turn": 104,
+      "speaker": "bot",
+      "text": "Sure! Absolutely. If you buy it as a gift, the person can still return or exchange it. Ideally, having a gift receipt helps, but if they don’t, we can still work something out. Just let them know to come in, and we’ll help them out!"
+    },
+    {
+      "turn": 105,
+      "speaker": "learner",
+      "text": "“Could I bring a receipt for me, not my friends?”"
+    },
+    {
+      "turn": 106,
+      "speaker": "bot",
+      "text": "Absolutely! Yes, you can definitely bring the receipt for yourself if you need to. That way we can easily handle any returns or exchanges. Just bring it in whenever you come by!"
+    },
+    {
+      "turn": 107,
+      "speaker": "learner",
+      "text": "“Could I buy a gift box for my friend?”"
+    },
+    {
+      "turn": 108,
+      "speaker": "bot",
+      "text": "Sure! Absolutely, you can buy a gift box as well. We have some available so you can package it nicely. Just let us know when you're here, and we'll get that set up for you!"
+    },
+    {
+      "turn": 109,
+      "speaker": "learner",
+      "text": "“Okay, and please get it repaired, the zip.”"
+    },
+    {
+      "turn": 110,
+      "speaker": "bot",
+      "text": "Absolutely! We’ll make sure to get that zipper repaired for you as well. Just bring it in, and we’ll take care of it. Thanks for letting me know!"
+    },
+    {
+      "turn": 111,
+      "speaker": "learner",
+      "text": "“Thank you very much. Can I return online purchase in this store?”"
+    },
+    {
+      "turn": 112,
+      "speaker": "bot",
+      "text": "Of course! You're very welcome. And yes, you can absolutely return an online purchase right here in the store. Just bring it in and we’ll help you out."
+    },
+    {
+      "turn": 113,
+      "speaker": "learner",
+      "text": "“Okay, have a good day.”"
+    },
+    {
+      "turn": 114,
+      "speaker": "bot",
+      "text": "You’re very welcome! Thanks so much, and you have a great day too!"
+    }
+  ]
+}

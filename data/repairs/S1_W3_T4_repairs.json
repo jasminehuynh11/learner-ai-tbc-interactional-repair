@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S1_W3_T4",
+    "repair_id": 1,
+    "turn_indices": [
+      11,
+      12
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "bot misunderstanding – incorrect name used",
+    "evidence_summary": "The bot incorrectly addresses the learner as 'Farida' instead of 'Juliet'. The learner does not acknowledge or correct the bot's mistake, and the conversation continues without addressing the error, leaving the misunderstanding unresolved."
+  },
+  {
+    "dialogue_id": "S1_W3_T4",
+    "repair_id": 2,
+    "turn_indices": [
+      40,
+      41
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requests repetition",
+    "evidence_summary": "The learner asks the bot to repeat more slowly, indicating a lack of understanding. The bot complies by repeating the information at a slower pace, and the learner then indicates understanding by stating they have no more questions."
+  }
+]

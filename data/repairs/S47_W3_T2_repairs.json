@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S47_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner expressed confusion by saying 'I'm sorry, I don't understand' in response to the bot's question about when they last saw their phone. The bot rephrased the question to clarify, and the learner then provided a relevant response, indicating the issue was resolved."
+  }
+]

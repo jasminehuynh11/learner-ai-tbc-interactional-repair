@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S33_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand coffee types",
+    "evidence_summary": "The learner expresses confusion about the coffee menu and types of coffee in turn 10 and 12. The bot responds by explaining the different types of coffee in turn 13, resolving the learner's confusion."
+  },
+  {
+    "dialogue_id": "S33_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner unsure about size options",
+    "evidence_summary": "The learner is unsure about the size options available at the café in turn 20. The bot clarifies the size options in turn 21, resolving the learner's misunderstanding."
+  }
+]

@@ -1,0 +1,175 @@
+{
+  "student_id": 23,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S23_W3_T2",
+  "source_file": "data\\raw\\#23\\#23\\#23. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "1"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, how are you?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "I'm doing great, thanks Awesome! Let me know how I can help today, whether it's practicing English or anything else on your mind."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I want to practice about reporting a lost item. You are a police officer. I will play the role of a person who need a report about lost items. Please create a realistic scenario and response as if we were really there."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Let's do that. So, I'll be the police officer, and you can let me know what item you lost and any details. To start off, could you tell me what item you lost and when and where you think you lost it?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Okay. Hi, I've just realized I lost my phone. I'm at the train station, and I'd like to check about the lost and found desk."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I'm sorry to hear that. Let's get this sorted out. Could you please tell me the exact location at the train station where you last had your phone and the approximate time you noticed it was missing?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I'm sorry, I cannot remember the exact location at the station, but it's a black leather phone case with the phone."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries, that's helpful information. Could you also let me know the brand and model of your phone, and maybe the last time you definitely had it with you? That will help us narrow it down."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "It’s iPhone 16 in red colour."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Got it, an iPhone 16 in red. That definitely helps. Now, could you let me know if you remember the approximate time you last used your phone, and any details about what you were doing at that time?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "I saw it at the train station around 3 p.m."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, that gives us a good timeframe. And just to confirm, did you leave the station or are you still there right now? That way, we can figure out the next steps."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "I'm still in the station now."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Perfect, that makes it easier. Alright, we’ll definitely keep an eye out for your phone. One last thing: could you describe any distinctive features or stickers on your phone case that might help us identify it more easily?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Oh, there's a big star on my phone case."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Got it, a big star on the phone case, that's definitely a helpful detail. Alright, I’ll make a note of that. Is there any other information you think might help, or should we proceed with reporting it to the lost and found desk now?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Oh, and the phone has a cracked screen."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, that’s definitely good to know as well. A cracked screen will help us identify it more quickly. Thanks for sharing all those details! Let me know if there’s anything else, and we’ll get started on the report right away."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "I think we need to report right now."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, let's do that. I’ll make sure to note all the details and get the report started right away. If you need any assistance or have any questions during the process, just let me know."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Do you need my ID card?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, that would be helpful. If you could provide your ID card or at least some identification details, that’ll help us complete the report more accurately. Whenever you're ready, we can proceed."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Um, yep, here's my ID, and do you need my phone number?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, your phone number would be great as well, just so we can contact you if we find anything. Once we have that, we can finalize everything."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "okay um because i'm gonna leave this city tomorrow if i cannot find my phone until today night oh what should i do"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "I understand. In that case, if we don't find it by tonight, you can file a report with the local authorities in your next city, or you can also contact your service provider to suspend the line. But let’s definitely keep our fingers crossed that we find it today. If you need any more help, just let me know."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Um, okay then. Thank you so much for today."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You're very welcome! I hope everything works out well, and if you need anything else, just let me know. Take care and good luck!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Thank you so much. Bye."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You're very welcome! Bye for now, and take care!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "I mean, what do you think about this conversation?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "I think it went really well! You did a great job with the details and staying engaged. If you ever want to practice more scenarios or have any other questions, I'm always happy to help. Week 3."
+    }
+  ]
+}

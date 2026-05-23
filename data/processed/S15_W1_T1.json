@@ -1,0 +1,140 @@
+{
+  "student_id": 15,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S15_W1_T1",
+  "source_file": "data\\raw\\#15\\#15\\#15. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, I would like to order a coffee today!"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! What kind of coffee would you like — something like an espresso, latte, or cappuccino?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Can I have a latte to go?"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course! Would you like that latte with regular milk, or do you prefer a non-dairy option like oat or soy?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Do you have almond milk?"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Yes, we do! Almond milk’s a popular choice. Would you like any flavor added — maybe vanilla or caramel?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Vanilla, please."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Great choice! Would you like it hot or iced today?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "hot, please"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Perfect. What size would you like — small, medium, or large?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "small, thank you"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it — a small hot vanilla almond latte to go. Would you like any pastries or snacks with that?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "what are your options?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "We’ve got croissants, muffins, banana bread, and a few cookies — chocolate chip or oatmeal raisin. Would you like to add one of those?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I would like a banana bread, please"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure thing! One slice of banana bread. Would you like it warmed up a bit?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Yes, please"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, I’ll warm that up for you. Would you like to pay by card or cash today?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "By card"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect, you can tap or insert your card just here. Would you like a receipt with your order?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Yes, please"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "All set — here’s your receipt and your hot vanilla almond latte with warm banana bread. Would you like a napkin or any sugar on the side?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "No, it’s ok thank you"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Alright, thanks so much! Enjoy your coffee and have a great day. ☕"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Thank you, you too"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Thanks! Take care and see you next time. 😊"
+    }
+  ]
+}

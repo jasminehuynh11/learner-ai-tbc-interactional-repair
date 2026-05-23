@@ -1,0 +1,395 @@
+{
+  "student_id": 1,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S1_W2_T3",
+  "source_file": "data\\raw\\#1\\#1\\#1. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: VISITING A BANK"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, hello, I want to practice to visiting a local bank branch or calling customer service to request help with everyday banking service, I may need to open a new account, I would not update my details or ask about specific features such as only in banking or international transfer, because my bank in Colombia built my car, and if you can't to be a person that answer my call to the bank, yes, I play the role of customer, please create a realistic and authentic bank situation and responding and ask if this were our conversation. Okay, we can start.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! We can definitely start by talking about the kind of services you’re looking for, and then we can go through the steps of booking an appointment, as well as how to get the right information from your insurance. Let’s go step-by-step, and if you have any specific questions along the way, I’m here to help!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“okay i opening a new one account okay okay hi i like to open a new save an account”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure, I'd be happy to help with that! Let's start with a few details. Is this account for personal or business use? And then we can go from there!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Iso personal account, please.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, got it! So, to get started, I'll just need a few details like your full name, your contact information, and maybe some identification details. Once we have that, we can move on to setting up everything for you. Sound good?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, my name is Julieth Angarita, my birthday is 7th of April of 1996, and my address is Naivara Street, Paradise.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Great, thank you for sharing that information, Julieth! That definitely helps us get started. Next, we can move on to verifying your identity and then selecting the account type and any additional preferences. If you have any questions along the way, just let me know!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, um...”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "All right, perfect!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“What types of accounts are available for students?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely do that. I’ll make sure we go through all the options and find the best fit for you. And if you have any other questions or need more details at any point, just let me know, and I’m here to help!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“which documents I need to bring.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "You’ll typically need a valid photo ID, like a driver’s license or passport, and any proof of address, such as a utility bill or bank statement. If you have any specific documents related to your previous accounts, that can also be helpful. But we’ll guide you through it step by step!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Okay, can I open an account without job?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, you can! We can definitely start the process and get everything set up without needing an initial deposit. Once your account is fully established, we can always add funds later on. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, my last phone number is not good. I need to update my phone number and”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Got it, that makes"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yeah, no, it's okay.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "No worries at all! Whenever you’re ready, we can update that information and make sure everything is accurate. Just let me know if you need any assistance along the way!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, my new number is 0480722457.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Perfect, thanks for sharing that! I’ll make sure we update your contact details accordingly. If there’s anything else you need or any other information you’d like to add, just let me know, and I’m here to help!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yes, maybe do you offer debit cards with this account?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely go over that. I’ll make sure we review all the fees and charges associated with the account so you know exactly what to expect. If you have any specific questions about the costs, just let me know, and we’ll cover everything thoroughly!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Great question! Typically, the debit card comes with no initial fee, and there might be some small transaction fees depending on usage. We’ll go over all the details so you have a clear picture. And of course, if you have any other questions, I’m here to help!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah, I said that my bank blocked my credit card in Colombia. I don't know if you could help me and I don't know what is the process for telling Colombia that my card is blocked.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "I understand, and I’m happy to help with that. We can definitely look into the issue with your card and see what might be causing the block. If you can share any details or any error messages you received, we can try to figure out the best steps to resolve it. Just let me know what you need!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yes, I received a message, but I don't understand.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "No worries at all; I’m here to help you every step of the way. We can definitely go through the details together and figure it out. Just let me know any specific concerns you have, and we’ll work through them one by one!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yes, but I prefer to face-to-face because I don't like to speak here for fun about my details, my bank details.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "I completely understand, and your privacy is definitely important. We can handle everything securely and discreetly. If you prefer, we can also go over things in smaller steps or even through a more private channel. Just let me know what you’re comfortable with, and we’ll make sure everything goes smoothly."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Now it's okay, I'll follow the instructions and maybe... I don't know when I call to go to the bank.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That’s totally fine! Whenever you’re ready, you can just reach out, and we can schedule the best time for you. In the meantime, if you have any questions or need any assistance, I’m always here to help. Just let me know whenever it’s convenient for you!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yes, what is the schedule for the BANK?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, we can start by gathering a bit of basic information and then choose a convenient time that works best for you. From there, we can go over any specific needs or preferences you have. And of course, I’m here to help with any questions that pop up along the way!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Okay, now eat that Anguirus, that Anguirus costumes have a great day.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Thank you so much! I really appreciate that, and I’m always here if you need anything in the future. Have a wonderful day, and take care!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Goodbye! Take care, and have a great day! Task 3: rental property or house inspection."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Okay, this practice is about a rental property or house inspection. Maybe you are the real estate agency and I am a customer and I need to, maybe I want to attend an inspection or ask about the application process or follow up after submitting my documents. You are a property manager or a real estate agent and I am a customer and asking about this pension.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely, I'm here to help whenever you need. Just let me know what you need assistance with, and I'll do my best to support you. Feel free to reach out anytime. Take care and talk to you soon!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Yes, ISR-HI, I am interested in the two-bedroom unit or main street.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "No worries at all! I'm here whenever you need, and feel free to reach out with any questions or anything at all. Have a great one, and I’ll be here when you need me!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“yeah is it properly furnished or un-furnished?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "In general, it's always good to be cautious and protect your privacy. If you have any concerns about sharing personal information, definitely keep it to what’s necessary. And if you ever need advice on what to share, I’m happy to help!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "You're very welcome! If you have any other questions or need anything at all, just let me know. Take care and talk to you soon!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Our pets allow it.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Of course, it’s my pleasure! Anytime you need help, I’m here for you. Have a great day!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Okay, this time I practice about the rental property. You are the real estate agent and I am looking for a property for rent, okay?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! I’m glad I could help, and if you need anything else in the future, just reach out. Have a wonderful day!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Okay, hi, I am interested in the two-bedroom unit on Main Street.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Oh, I'm sorry to hear that you're not feeling well. I hope you get better soon! If there's anything I can do to help or if you need any assistance, just let me know. Take care!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Yes, I need appropriate furnishings. Is appropriate furnishings.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Of course! If you let me know the details or the specific information you need, I’d be happy to help you put that together. Just let me know what you have in mind!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Yes, I need a bed, a mattress, and a kitchen with cabinets or a sofa and couch in the living room, maybe.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Got it! I can definitely help with that. If you can share a bit more about what details you need included, like the specific names or any particular requirements, I’ll help you draft that properly. Just let me know!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Yes, I need to know if our pets allow it.”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that. If you let me know the specific details or any particular information you want included, I’ll make sure to get it all sorted for you. Just let me know what you need!"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“Do I need to register before attending?”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "It’s generally a good idea to give some notice, like at least a day or two, but it can depend on the policies of the place you’re working with. If you let me know a bit more context, I can help you figure out the best approach."
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“Can I apply online or do I need to visit the office?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "It really depends on the specific organization or service. Some places do allow you to do it entirely online, while others might require you to visit in person or give a call. If you let me know which service or organization you’re dealing with, I can give more tailored advice!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“Okay, but you are a real estate agent, you save me if I come to apply online, please?”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Absolutely, I’m happy to help with that! Just let me know the details you have in mind, and I’ll do my best to guide you through it. Feel free to share whatever you need, and we’ll go from there!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“Yeah, what documents do I need to include with my application?”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "That sounds good! Whenever you’re ready, just let me know the specifics of your application, and I’ll be here to help you out step by step. No rush at all!"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "“Grazie per l'informazione.”"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions or need assistance in the future, just let me know. Have a great one!"
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "“Yes, when does the list start if I am approved?”"
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense! Just let me know whenever you're ready, and we can tackle it together. Take your time, and I’m here whenever you need me!"
+    },
+    {
+      "turn": 74,
+      "speaker": "learner",
+      "text": "“Si alguien mas nos oferece alimentos, como escogeis?”"
+    },
+    {
+      "turn": 75,
+      "speaker": "bot",
+      "text": "Of course! I’m always happy to help out whenever you need it. Just reach out anytime, and we’ll get everything sorted. Take care and talk to you soon!"
+    },
+    {
+      "turn": 76,
+      "speaker": "learner",
+      "text": "“Okay, it's all for today. Thank you so much.”"
+    },
+    {
+      "turn": 77,
+      "speaker": "bot",
+      "text": "You're very welcome! It was my pleasure. If you need anything else, just let me know. Have a wonderful day!"
+    }
+  ]
+}

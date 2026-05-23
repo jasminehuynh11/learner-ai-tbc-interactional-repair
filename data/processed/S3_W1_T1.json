@@ -1,0 +1,225 @@
+{
+  "student_id": 3,
+  "week": 1,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S3_W1_T1",
+  "source_file": "data\\raw\\#03\\#03\\#3. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“All right, there we go.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course! What kind of coffee would you like? We have espresso, latte, cappuccino, and more."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Can I get an ice long black or banded ice? An option is after ice, please.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! An iced long black in a venti size, got it. Would you like any sugar or milk with that, or just as is?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Um, nope, just Ice Long Black. Ah, and Mayor, the, uh, option, Ice Black. I, no, no, no. I, extra ice, please.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, extra ice it is! So, one iced long black with extra ice. Anything else I can get for you today?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Can you recommend some flat world desserts in here?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely! We have some delicious pastries like croissants, muffins, and brownies. If you're in the mood for something sweet, I'd definitely recommend our chocolate croissant. Would you like to add one of those to your order?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Hmm, do you have gluten-free desserts or bread?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure, we have some great gluten-free options, like gluten-free muffins and a gluten-free brownie. Would you like to try one of those with your coffee?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Well, yes, please give me a brownie and a chocolate.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Perfect! So that’s one iced long black with extra ice and a gluten-free chocolate brownie. Anything else I can get for you?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Thank you, and I want to hear.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, you can enjoy your coffee and brownie here. I’ll have that ready for you in just a moment! Let me know if you need anything else."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“That's fine. Thank you. And how much is it?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "You’re welcome! That will be $6.50 in total. Whenever you're ready, you can just let me know, and I'll get that to you right away!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Good. My friends came here last 10 minutes, and I'm going to sit with four people at the table.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! I’ll make sure we have a table set up for four. Just let me know when your friends arrive, and you can all settle in comfortably."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You're very welcome! If you need anything else, just let me know. Enjoy your time here!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Thank you very much.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You're most welcome! Have a wonderful time, and if anything comes up, just let me know."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Can I get a reset, please?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course! I’ll make sure to bring you a little receipt along with your order. Anything else I can do for you right now?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“That's ok. Bye.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Alright, sounds good! If you need anything else at all, just let me know. Enjoy your coffee and brownie!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Thank you very much.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You're very welcome! Have a great time, and I'll be here if you need anything. Clothing store situation “Hello, excuse me. Could you help me with a written please?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to help. Just let me know what you'd like to translate or if there's a specific phrase you have in mind, and I'll get right on it."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“I bought this shirt here last week, but it doesn't fit me properly. It's a bit too tight around the shoulder. So I was hoping I could either return it or exchange it for a larger size. And here is my receipt.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Got it! So you’re looking to return or exchange the shirt because it’s too tight around the shoulders. Absolutely, let me know if you need any help with the process or any specific details, and we can go from there!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“OK, the tagger still attached it, and I've only tried it once at home.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Perfect, that definitely helps! So since the tags are still on and you’ve only tried it on at home, that should make the return or exchange process pretty straightforward. Is there a specific size you’d like to exchange it for?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Yeah, that's great, uh, XRodge, and by the way, uh, what's your general return, please? I just want to make sure I follow the levels.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely! So typically, our general return policy allows returns within 30 days with the receipt, and the item should be unworn and in its original condition. Once we confirm those details, we can process the exchange for the extra-large size. Does that sound good to you?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Text history not available"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Perfect, I’ll make a note of that for you! If you have the receipt handy, that’ll definitely help speed things up. Is there anything else I can help you with regarding the return or exchange process?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“No, that's okay. Thank you. That's really helpful. Now, this shirt, if you have it in a large size, I'd prefer to exchange it rather than returning.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense! I’ll make sure we set aside a large size for you. If there’s anything else you need, just let me know. Glad I could help!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“It's all right. thank you.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything else in the future, just let me know. Have a wonderful day!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care and have a great one!"
+    }
+  ]
+}

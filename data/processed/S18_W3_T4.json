@@ -1,0 +1,200 @@
+{
+  "student_id": 18,
+  "week": 3,
+  "task": 4,
+  "task_label": "T4",
+  "dialogue_id": "S18_W3_T4",
+  "source_file": "data\\raw\\#18\\#18\\#18. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hey!”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hey! Great to hear"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I can't open this application. It crashes every time.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Oh no, that sounds frustrating! Have you tried any troubleshooting steps yet, like restarting the device or updating the app?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Nah, not really, I'm not a tech-savvy person, and also my internet browser won't load anything.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Gotcha, that definitely makes things trickier. We can try some simple steps, like clearing the browser cache or maybe even reinstalling the app. And if you want, I can help guide you through it step-by-step."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I'll try it.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "You're welcome! Just let me know how it goes, and if you run into any issues, I'm here to help. Hopefully, it'll get sorted out quickly!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Oh, OK. So I've got some reply. I've got some notification. And I've tried restarting it already.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it! If you've already tried restarting, we can look into a few more things. Maybe checking for updates or disabling any extensions in the browser. And if you share a bit more detail about the app or the browser, I can try to give more specific suggestions."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, I think the message, the notification says connection failed. What does that mean?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Ah, gotcha! A \"connection failed\" message usually means the app or browser is having trouble reaching the internet or the server it needs. It could be due to a weak internet connection, a firewall issue, or even a problem with the app's server. We can definitely troubleshoot from there!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, and since I've got this smartphone for maybe 5 or 6 years, should I update the software?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Yeah, definitely! If your smartphone's been around for that long, updating the software can really help with performance and compatibility. It often fixes bugs and improves stability, so it’s definitely worth doing if you haven’t already."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, got it. And where can I find that option in the menu?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Usually, you can find it in your phone's settings under something like \"Software Update\" or \"System Update.\" If you let me know what kind of smartphone you have, I can give you more detailed instructions as well."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, I'll try. And is this covered up?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure, I’m happy to help! If you let me know what exactly you're wondering about, like whether it’s covered under warranty or something else, I can definitely give you more info."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“If I send to the repair center, is this covered under warranty or do I need to pay for repairs?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "It really depends on the warranty status and the specific issue. If your phone is still under warranty and the problem is due to a manufacturing defect, then it might be covered. But if it’s due to accidental damage or something out of warranty, you might have to pay. It’s always good to check the terms"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, got it. What happens if it's not fixed after trying these steps?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "If it’s still not fixed after trying those steps, you might want to consider reaching out to customer support or even taking it to a professional repair center. They might be able to diagnose the issue more thoroughly, and sometimes there could be a deeper problem that needs specialized attention. But hopefully, we can get it sorted before it gets to that point!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Do I need to worry about any security risks?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "It can depend on the situation, but generally, if an app or device isn't updated or is having connectivity issues, there can be some security vulnerabilities. It’s always good to make sure your software is up-to-date and that you’re using trusted networks. If you’re concerned, we can definitely look into more security measures as well."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Because I'm concerned about my files or photos will be deleted. So is there a way to back up before I reset the phone?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, backing up is definitely a smart move. You can back up your photos and files to a cloud service, like Google Photos or iCloud, or even use a computer to create a manual backup. That way, even if something goes wrong, your data will stay safe and sound. Let me know if you need any guidance on how to do that!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, so what if this problem keeps happening after today?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "If the problem persists, it might be worth reaching out to the manufacturer’s support or even considering a professional diagnostic. They can often run more in-depth checks and see if there’s a hardware issue. And if it’s still under warranty, they might offer a replacement or a more permanent solution. But we’ll cross that bridge if we come to it!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Also, because I've dialed to the previous repair center that didn't fix it as the same level as before, so who do I contact if I want to make a complaint?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Got it, that can definitely be frustrating. Usually, you can reach out to the manufacturer’s customer support directly, or sometimes the retailer where you bought the device. You can also ask to speak with a manager or escalate the complaint. And if needed, there are also consumer protection agencies that can help as well. Let me know if you need more specific guidance!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, thanks, and I'll reach out again if I still have problems.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! Anytime, I’m always here to help. Just let me know how it goes, and I’ll be happy to assist further. Good luck, and I hope everything gets sorted out smoothly!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Thanks for your help and I'll try those steps you provide. Thanks for answering my all questions.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. And if you have any more questions or need anything else, just let me know. Good luck with everything!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Okay, thank you. Have a good night.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You too! Have a great night, and take care. Talk to you soon!"
+    }
+  ]
+}

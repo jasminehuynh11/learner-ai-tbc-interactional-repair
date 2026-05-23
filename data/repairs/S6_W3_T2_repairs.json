@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S6_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies 'not working' to 'expired'",
+    "evidence_summary": "The learner initially states that their phone was not working, then self-corrects to clarify that it was 'expired'. The bot acknowledges this clarification and provides a relevant response, resolving the issue."
+  },
+  {
+    "dialogue_id": "S6_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      14,
+      15
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's unclear statement about 'prepare Celsius'",
+    "evidence_summary": "The learner mentions 'prepare Celsius', which is unclear and leads to a misunderstanding. The bot responds with irrelevant information about a 'Sydney flip phone', indicating a lack of repair attempt. The misunderstanding remains unresolved as the conversation continues without addressing the initial confusion."
+  }
+]

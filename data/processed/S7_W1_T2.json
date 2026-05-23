@@ -1,0 +1,125 @@
+{
+  "student_id": 7,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S7_W1_T2",
+  "source_file": "data\\raw\\#7\\#7\\#7. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Sure! Thanks for calling. This is Olive Garden Restaurant, how can I help you today? Are you calling to make a reservation?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I'd like to book a table for two tonight. Do you have a table available at 8pm?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course! Let me check that for you... Yes, we do have a table available at 8 p.m. May I have your name, please?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "My name is Arthur. Can we sit near the window if possible?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure, Arthur. I’ll note your request for a window seat. Could I get your phone number in case we need to contact you?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I'm sure my phone number is 123-456-789. And my friends would like to sit at a quieter table. Can you do that?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, Arthur — I’ll make sure it’s a quiet table by the window if possible. Just to confirm, do you have any special requests or dietary restrictions for tonight?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "OK, I was thinking now. Would it be possible to separate the bill for each of us at the end?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Of course, that’s no problem at all — we can split the bill for you and your friend. One last thing, Arthur: could you please tell me your arrival time, just to make sure it’s still 8 p.m.?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Yes, it's still 8pm. And we want to know about your menu. Is the menu online?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Yes, it is! You can find our full menu on our website under the “Dining” section — it shows all dishes and prices. Would you like me to tell you a bit about our most popular dishes before you come?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yes, please. My friend would like to eat french, so I want her to eat your best french dishes. What kind of dish are you confident?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure! We’re quite proud of our French-style chicken with creamy mushroom sauce, and our beef bourguignon is also a guest favorite — rich, slow-cooked, and tender. Would your friend prefer chicken or beef, do you think?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "I think she prefer beef. OK, that's all. Could you confirm the time, optional requests and my name for me please?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! Here’s your reservation summary:"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Arthur — Date: Tonight"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "p.m. — Guests: 2 people — Requests: Quiet table by the window, separate bills, and interest in beef dishes Everything looks perfect. We’ll see you at 8 p.m., Arthur — thank you for calling!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Thanks so much. We are looking forward to your services. See you then!"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "You’re very welcome, Arthur! We look forward to serving you tonight. Have a wonderful evening — see you at 8 p.m.!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "-few minute later Hi, this is Arthur. I would like to arrange my request. Could I do that?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course, Arthur! I can help you with that. What would you like to change in your reservation?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Thanks. I confused tonight with next Friday. All of other request are supposed not to be changed. That's all, sorry for taking your time."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "No problem at all, Arthur! I’ve moved your reservation to next Friday at 8 p.m., keeping all your other requests the same. Thanks for letting us know — we’ll see you next Friday!"
+    }
+  ]
+}

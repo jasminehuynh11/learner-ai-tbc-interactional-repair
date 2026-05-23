@@ -1,0 +1,400 @@
+{
+  "student_id": 5,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S5_W3_T1",
+  "source_file": "data\\raw\\#5\\#5\\#5. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I am contacting Internet company to report that the Internet is not working. I will describe the problem, ask for assistance, and check when the issue will be fixed. Practise speaking clearly and politely in a service setting. You are Internet support staff"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course. Thanks for calling today. Can you please tell me what seems to be happening with your internet connection?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Hi there! Absolutely."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Hi, this is Kim.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, Kim! Nice to meet you. So let's figure this out—could you let me know exactly what issue you're noticing"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“My internet has stopped working, so I just call you.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, absolutely. Thanks for letting me know. Let's start by checking if you've noticed any lights on your router or if there's any error message showing up on your end?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Sorry, what is the louder?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "No worries at all! So the router is basically the little box that gives you the Wi-Fi signal. Do you see any lights on it right now?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yes, I can see the lights on the router.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Perfect, that's helpful. Now, are any of those lights blinking in a different color or do they all look normal?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I guess it's just blinking.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, that makes sense. Thanks for letting me know. So based on that, let's see if we can figure out when we can get this resolved for you. Could you let me know how long it's been down so far?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Two days ago, it's working, but from yesterday, it's been not working, so I tried to set up again and turn off the loader and turn on again, rebooting, but it doesn't work, so I just ask you to help me.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, I get it. Thanks for trying all that. So let's go ahead and see what kind of fix we can line up for you. Could you just tell me your account number or the address on the account so I can check the details?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, my address is 90 Menzies Road, Mossfield, Sydney.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure, that helps a"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Use those wheels.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Got it, thanks for that info. So I'll check the system for any known issues in your area and see when we can get this resolved for you. In the meantime, have you noticed if any of your neighbors are having the same problem, or is it just you?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I have no idea because I didn't check it yet. But if I should do, I would just ask my neighbors right now.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, that's perfectly fine. So no rush on that. I'll go ahead and see what we can find out from our side, and then we'll figure out the next steps. Does that sound good to you?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yeah, thank you. Yeah, that's perfect.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure thing! Happy to help. So I'll dig into it and we'll be in touch as soon as I have an update for you. If anything else comes up, just let me know!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yes, but I'm just curious if a technician should visit my place. When is he or she available?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, I hear you. So it looks like if we do need to send a technician out, the earliest available slot would likely be within the next day or two. We'll confirm that as soon as we check the details. Anything else you'd like to know in the meantime?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Sorry, pardon. This area has a party tonight, so I can't hear you. Could you please say that again?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Of course, no problem at all! I was just saying that if we do need to send someone out, we can probably have a technician available in the next day or two. So once I confirm the details, I'll let you know. Anything else I can help with?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yeah, can you just check it right now? Because the internet don't connect. It makes me very stressed.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, I totally understand that it's stressful. I'll check it out right now on our end and see what we can do to speed things up. Just hang tight for a moment and I'll get you some info."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“What time is available?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure! So it looks like we can likely arrange a technician as early as tomorrow afternoon. We'll confirm the exact time shortly. Does that work for you?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Liz, sounds good.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Great! We'll set that up and make sure someone can come by tomorrow afternoon. If anything changes, just let us know. We'll keep you posted."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Okay, then someone will call me, or I should just wait here.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, someone will give you a quick call to confirm that time with you, so just hang tight and we'll be in touch. Let us know if you need anything else."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“That's great. Thank you.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Sure thing! Happy to"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“And sometimes the internet connection is still working and it's good, but you know, sometimes it's very slow, then what should I do?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely, I get that. So if it slows down again, just let us know and we can run some tests or give you some tips. We'll definitely help you out."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Is there any remote system like website? I should visit website and sign up for the program or service?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Sure thing! So if you want, you can actually just visit our official support website to check your connection status or any service updates. But no sign-ups are needed for extra services right now—just a handy place to look if you want to. Anything else on your mind?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Because after working, I usually got home around 10 p.m. And you know, customer service, we cannot use at that time. So I'm just wondering if I can use this customer service on the app or anything else.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely, I get that. So the good news is you can definitely use our app or the online support anytime, even late at night. So just hop on there whenever you need to, and you'll have access."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Sorry.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "No worries at all! Basically, you can just hop on the app or the website whenever it suits you, even if it's late. So you've got that option anytime."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Okay, I see.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Sure thing! Glad I"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“I have one more thing, for me, I live in room 305, and next to my room, there is a girl, and she said sometimes it's not working, then she doesn't know what to do, then can you give me some advice to fix the problems?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely! So one simple tip: if she runs into issues, she can just try restarting her router first, just like you did. And if that doesn't help, she can use the same support line or the app to get help. It's pretty straightforward, and that should do the trick for her."
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Okay, thank you for updating. Thank you for letting me know. It's very helpful.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely, you're very welcome! I'm glad it was helpful. And of course, if you need anything else, just let me know anytime."
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Yeah, you said the technician will visit tomorrow evening, but I don't know the exact time because I have plans tomorrow night, so can you please let me know the exact time?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that. So as soon as we confirm the exact time, I'll make sure to let you know so you can plan around it. We'll keep you updated as soon as we have that info."
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Oh, I see. Then I need to call... I need to be called by you. And if I miss the call, what happens? Did you... Will you text me or should I check it on the app?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Sure! So if you happen to miss the call, no worries at all. We'll either send you a quick text or update you through the app so you can check there easily. That way you'll still get all the info."
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“That's really good. Thank you.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Absolutely, happy to"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Sure thing! Glad to"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“I just, yeah, what I need to do is just wait the technician's call and reschedule, set the schedule for the exact time and the technician will visit my place and fix the problem. Is that right?”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Absolutely, you've got it just right. So just wait for that confirmation and then the technician will come by and sort it out for you. That's exactly it!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“I see. Thank you. Then, can you give me a reference number for this request?”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Absolutely, sure thing! So your reference number for this request is actually 83752. Just keep that handy, and if you need to follow up, you can use that number."
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“Okay, then I need to... I need some paper and pen. Can you please say that again? Sorry.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Of course, no problem at all. The reference number is 83752. Just jot that down whenever you're ready, and you're all set."
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“837004, is that right?”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Exactly, you got it. It's 83752. So just keep that handy, and you're good to go."
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“Okay, thank you for your help. You are very helpful.”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Absolutely, you're very welcome! I'm glad I could help. If you need anything else, just let me know."
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Absolutely! And if there's anything else at all that comes up, just feel free to reach out. I'm always happy to help."
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“Okay, I think that's it. Thank you very much.”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "Absolutely! You're very welcome. If there's nothing else, then have a great day, and we'll chat again if you need anything."
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“Have a good day. Bye bye.”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "You too! Take care and bye for now!"
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "“Take care.”"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "You too! Take care and have a great one."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "dialogue_id": "S14_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – incorrect item added to order",
+    "evidence_summary": "The bot mistakenly adds a croissant instead of the banana bread ordered by the learner in turn 15. The learner corrects this mistake in turn 18, and the bot acknowledges and resolves the issue in turn 19 by confirming the correct item."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S16_W1_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      72,
+      73
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'go ahead and slip them on'",
+    "evidence_summary": "The learner asks the bot to repeat what was said in turn 72, indicating a lack of understanding. The bot repeats the instruction in turn 73, and the learner acknowledges with 'OK' in turn 74, resolving the issue."
+  }
+]

@@ -1,0 +1,150 @@
+{
+  "student_id": 32,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S32_W3_T3",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Requesting Maintenance or Repairs in a Rental Property:"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Got it, that sounds great! Alright, let’s start. Hi there! This is the property manager from your building in Brisbane. How can I assist you today with maintenance or repairs?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes, I have a problem because today I want to do the laundry, but I have a leak in the washing machine and just start leaking water when I put the clothes on, so I don't know what I am supposed to do now.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that! That definitely sounds frustrating. No worries, I’ll help you out. Could you let me know the exact model of the washing machine and where the leak seems to be coming from? That'll help me figure out the next steps."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, the washing machine is LG, I think, but I don't know exactly the model because I'm here and I rent this property, so I don't know exactly what is the model of the washing machine.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "No problem at all! That’s totally understandable. If you can describe where the leak is coming from—like if it’s from the door seal or underneath the machine—that would help. Also, let me know if you’ve tried any quick fixes so far."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I think maybe it's behind of the washing machine. Maybe it's one of the holes that are leaking, but I can't move the washing machine now, so I just close the water service.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! It’s great that you turned off the water. That definitely helps prevent any further leakage. What I can do is arrange for a maintenance technician to come by and take a look. Could you let me know when would be a good time for someone to visit?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yeah, if it's possible tomorrow, I have time, and maybe especially after 12 p.m.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That sounds perfect! I’ll schedule the maintenance for tomorrow afternoon, after 12 p.m. Is there any other detail or concern that you’d like us to know about the washing machine, or anything else we should keep in mind?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, my phone number is 355678910 And my email is mol1888@gmail.com”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great, I’ve got that noted down. We’ll keep an eye out for your bag and let you know as soon as we find it. Is there anything else I can assist you with right now?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I need to use the water, so maybe I just turn on the service now, but I don't want the host to continue linking. So in this case, what do I do.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "In that case, it might be best to keep the water turned off until the technician arrives, just to be safe. If you absolutely need water for other purposes, you could temporarily use a different source or make sure to keep an eye on the machine. And of course, we’ll get it all sorted out tomorrow. Let me know if there's anything else I can help with!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“It's not possible in this case that the plumber can come today.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I can definitely check that for you! Let me see if we have any availability today. If we can arrange it, I’ll let you know right away. Just give me a moment to confirm, and I’ll get back to you."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“OK, I can wait. Don't worry.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Great, thank you for your patience! I'll check on that and let you know as soon as possible. In the meantime, if you think of anything else or have any other concerns, just let me know."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Hi, I wait a few minutes and I want to know if you know that is possible or not.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, I appreciate your patience! I’ve just checked, and it looks like we do have a plumber available later today. I’ll go ahead and schedule them for you, and you’ll receive a confirmation shortly. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yes, around one time the plumber is coming.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure! The plumber is scheduled to arrive around 2 p.m. today. If that time needs any adjustment, just let me know. Otherwise, you should be all set!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yeah, no, that's correct. Thank you.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad we could sort it out. If you need anything else, just let me know. Otherwise, I’ll make sure everything’s taken care of for you."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Now I think that's it. Thank you for your help. I am waiting for the plumber at 2 p.m. Thank you.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If anything comes up, just reach out. Otherwise, I’ll talk to you soon. Have a great day!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, thank you, have a good day, bye.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You too! Take care, and goodbye!"
+    }
+  ]
+}

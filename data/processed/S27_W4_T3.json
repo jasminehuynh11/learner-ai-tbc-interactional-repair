@@ -1,0 +1,100 @@
+{
+  "student_id": 27,
+  "week": 4,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S27_W4_T3",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, we’ve just finished our group project. I’d appreciate your feedback on my contribution and communication."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course. Overall, you communicated clearly and were reliable with deadlines. You attended meetings regularly and followed through on what you promised, which is very important in group work."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "That’s good to hear."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Yes, your teammates could depend on you, and that really helped the group stay organised."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "yes."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "One area to improve would be speaking up earlier when you disagree, instead of waiting until the last minute. Sharing your thoughts sooner can help the group adjust direction more easily."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Thank you! What does success look like for this task?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Success means consistent participation, respectful communication, and taking responsibility for your assigned role. It also includes being proactive—raising concerns, offering ideas, and supporting your teammates when needed."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Could you please give an example of something I did this well and something I could improve?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Certainly. You summarised group decisions very clearly in meetings, which helped everyone stay on the same page—that was excellent. One thing you could improve is asking more follow-up questions, especially when instructions or ideas aren’t completely clear."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "That makes sense."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Yes, asking questions shows engagement and interest, and it can prevent misunderstandings later on. It also helps others feel more confident about the plan."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I’ll try to do that next time."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That’s a great plan. It’s a small change, but it can make a big difference to teamwork and communication."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Could we schedule a follow-up meeting in a few weeks to review progress?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Yes, that’s a very good idea. Let’s schedule a follow-up meeting in three weeks so we can see how things are going and discuss any further improvements."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "That works for me. Thank you!"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Excellent. I look forward to seeing your progress and continuing this conversation then."
+    }
+  ]
+}

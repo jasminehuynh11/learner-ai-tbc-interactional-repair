@@ -1,0 +1,155 @@
+{
+  "student_id": 40,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S40_W4_T1",
+  "source_file": "data\\raw\\#40\\#40\\#40. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "What study program or goal are you currently considering?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I graduated 5 years ago with a Master in Business Administration, but now I think so I need to give a new step about my professional development. I would like to make a Master Research, but I don't know what is the best option."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, thanks for explaining your situation. So, you finished an MBA 5 years ago and now you’re interested in a research-oriented master’s degree to advance your professional development. To guide you properly, I need to understand your goal: Are you mainly interested in a research master to prepare for a future PhD, or to strengthen your career profile in industry (for example, consulting, data analysis, academia-related roles)?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "That is the point. Now, I don't know about what is the best option for me Maybe I'd like to do data analysis for a new business and sustainable"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I see—so you’re unsure whether to focus more on research or industry, but you feel attracted to data analysis and sustainability for new businesses. To help you choose a suitable path, can you tell me what kind of work you’re doing now and which parts of your current job you enjoy the most?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Currently, I have a professional break, but I used to be an accountant in big companies or big firms. Now, in the last past, I have experienced selling business to business. I would like to be sustainable more for business to business in organic things, but I have a real background about business and finances."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, thanks for clarifying — you’ve worked in accounting and B2B sales, and now you’re interested in data, sustainability, and possibly organic-product business models. That’s a solid foundation. To guide you toward the right type of master’s program, I need to understand your direction a bit better. What kind of role do you imagine yourself doing after this new qualification — more analytical (like data analyst or sustainability analyst), more strategic (like sustainable business development), or more entrepreneurial?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I think so maybe a strategic like sustainable business development and entrepreneur"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure, that makes sense — a strategic, sustainability-focused path fits well with your background. To recommend the right type of research master’s, I need to know your study preferences. Would you prefer a program that is more research-intensive (writing a thesis, working with a supervisor) or one that is more applied, with practical projects for sustainable business development?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "The second one I think is the best option, practical project for sustainable business development."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Pensó durante 4 segundos Alright, a practical, project-based program in sustainable business development sounds like a strong match for you. We could look at programs like Sustainable Business / Sustainability Management / Sustainable Entrepreneurship with real-company projects. Which country or region are you thinking about studying in (or are you open to online / international options)?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "I'm open to move whenever we have a good master for research, but I prefer Europe, Australia, Canada, and i didn't want to countries in Africa or Middle East."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Pensó durante 9s Alright, that gives us a clear region to focus on—Europe, Australia, or Canada, with a practical master’s in sustainable business and entrepreneurship. To narrow suitable programs for you, when would you ideally like to start this new master’s—within the next year, or are you thinking more long-term (in 2–3 years)?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Two or three years is okay for me, longer I don't think so."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Alright, a 2–3 year horizon is very reasonable, it gives you time to prepare your profile and applications. To choose suitable programs, would you prefer to study full-time (focus mainly on the master) or part-time while you continue working or running a business?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "For me, the best is to apply for a scholarship because I want to focus on my study full-time, but it's not possible, I need part-time because I need to work."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Sure, thanks for explaining that — part-time study alongside work is a practical choice. To find programs that fit your schedule, do you prefer something mostly online or a hybrid format where you occasionally attend classes on campus?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "The best option is hybrid because it's more comfortable for me and can save money to transportation and maybe I can prepare my food in my house."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Sure, hybrid makes a lot of sense, especially for saving time and money while you study. Since many programs in Europe, Canada and Australia are in English, what languages are you comfortable studying in—only English, or also another language like French, Spanish, or German?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "I am a Spanish speaker, but currently I am improving my English. I think the program can be in English and Spanish."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright, good to know — English or Spanish programs both work for you. To point you toward realistic hybrid, part-time options, what budget range or tuition level are you comfortable with for the whole program?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Can you give me a possible budget? Because I don't have an idea about that. Now it's just an idea."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Sure. For hybrid, part-time master’s programs in sustainable business or entrepreneurship, here are typical ranges: Europe • Spain / Portugal / Eastern Europe: €5,000–€12,000 total • Germany / Netherlands / Nordics: €10,000–€22,000 total • UK / Ireland: £12,000–£25,000 total Canada • Public universities: CAD 12,000–25,000 per year • Total for a 2-year program: CAD 24,000–50,000 Australia • Most programs: AUD 20,000–35,000 per year • Total for 1.5–2 years: AUD 30,000–60,000 Alright, those are common ranges. To match the right programs for you, how long would you prefer the master’s to be—about 1 year, 1.5 years, or closer to 2 years?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Okay, I think so is my average for budget and we can check all the universities, maybe five programs, and then you tell me what, in your opinion, what is the best option for me. And then I need to check more information about each country because the plan of the country is more expensive, the things, like food, rent, something like that."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Pensó durante 10s Sure, that’s a good plan—first we create a short list of about five suitable programs, then you compare tuition and cost of living in each country. Before I suggest specific types of programs (for example, in Spain, Germany, Canada, or Australia), do you prefer a shorter intensive master (about 1 year) or a longer program (closer to 2 years)?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Perfect. I think it's really good information. It's possible you send me an email when you have my options. I really appreciate your time."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course — and thank you for your kind words. I can’t send emails, but you can save or copy this conversation anytime. If you need more help later, just let me know. Have a great day, and good luck with your plans!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "All of your information was amazing, I really appreciate that. And if you think so, you can send me an email and as soon as possible I will say my answer. Thank you, have a good one."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Sure, and thank you again for your kindness. I’m not able to send emails, but I’m always here whenever you want to continue. Take care, and have a great day!"
+    }
+  ]
+}

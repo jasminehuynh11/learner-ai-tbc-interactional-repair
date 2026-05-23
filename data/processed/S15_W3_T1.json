@@ -1,0 +1,120 @@
+{
+  "student_id": 15,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S15_W3_T1",
+  "source_file": "data\\raw\\#15\\#15\\#15. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Internet Not Working at Home"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’m calling because my internet connection stopped working this afternoon."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. Let’s see what’s happening. When did you first notice the problem?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "It was about an hour ago. I was working online, and then everything suddenly disconnected."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Okay, thanks for explaining. Have you tried restarting your modem or router yet?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Yes, I restarted both of them, but it didn’t solve the problem."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright. When you look at the modem now, do you see any unusual lights?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Yes, there’s a red blinking light. Normally it’s green."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Just to check, is it blinking quickly or slowly?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Um, slowly. At first I thought it was fast, but it’s actually slow blinking."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Thanks for clarifying. That helps. A slow blinking red light usually means a connection issue outside your home. Let me check if there are any service problems in your area."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Okay, because I wasn’t sure if it was something I did wrong."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "I understand. I’ve checked, and there is a temporary outage affecting your area."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Oh, I see. So it’s not only my apartment?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s right. It’s not just your connection."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Okay. So I don’t need to restart it again now, right?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Correct. Restarting again won’t help at the moment."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Alright. Do you know roughly how long it might take to fix?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "The current estimate is about two hours."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Two hours… okay. I’ll check again later tonight."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That sounds good. If it’s still not working after that, please contact us again."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Thank you for explaining everything."
+    }
+  ]
+}

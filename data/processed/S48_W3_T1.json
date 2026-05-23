@@ -1,0 +1,155 @@
+{
+  "student_id": 48,
+  "week": 3,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S48_W3_T1",
+  "source_file": "data\\raw\\#48\\#48\\#48. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Let's role play for me to practice English. Scenario: I am contacting my housing provider or Internet company to report that the Internet is not working. You are the housing manager or Internet support staff"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": ": Sure! Alright, I can help with that. Hi there, this is the building’s internet support desk. Could you tell me what exactly is happening with your connection right now?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": ": Hi, I'm Kate and I live in Moonah. My internet connection was lost since last night. I tried to reset the modem several times but it did not work."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": ": Alright, Kate, thanks for letting me know. Since it’s been out since last night, I just need to check a couple of basics—what’s the exact address or unit number you’re in so I can look up your connection?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": ": My address is 36 Main road, Moonah"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": ": Sure, thanks, Kate. I’ve got the street, but could you tell me your unit or apartment number as well so I can find the right service on our system?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": ": Unit 2"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": ": Great, thanks. I’ve pulled up the service for Unit 2. Just to confirm, are you the account holder for the internet service in that unit?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": ": Yes"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": ": Alright, thanks for confirming. Looking at your line, I need one more basic detail—what lights are showing on your modem right now? Are any of them flashing or off?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": ": There are 3 lights, one of which is flashing"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": ": Alright, got it. Which of the three lights is flashing — the power light, the internet/online light, or the Wi-Fi light?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": ": I think it is the Wi-fi light but I'm not sure"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": ": Sure, no worries — those lights can be a bit confusing. Could you read the small label or word under the flashing light so I can tell which one it is?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": ": Oh yes, it is the Wifi light. Will someone come and check? Please let me know the schedule so I could arrange my time to be at home"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": ": Alright, Kate. Since the Wi-Fi light is flashing, it looks like we’ll need to send a technician. We can arrange a visit, but I just need a contact number in case the technician needs to reach you. What’s the best phone number for you?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": ": 03994942"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": ": Alright, thanks for that number. To set up the visit, what day or time window works best for you for the technician to come by?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": ": Today after 3pm works well for me"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": ": Sure, today after 3 pm is fine. Before I lock that in, do you have any access details the technician should know about — like a gate code, parking info, or pets at home?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": ": I'll be home by that time so everything should be alright"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": ": Alright, perfect. I can note that you’ll be home. Would you like us to send you an SMS confirmation for the technician’s visit this afternoon?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": ": No thank you"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": ": Alright, no problem. I won’t send an SMS. Before we wrap up, is there anything else about your internet setup you want the technician to check while they’re there?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": ": Not really, I just need my internet connection to be back. Thank you"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": ": Alright, Kate. I’ll have the technician there after 3 pm. Thanks for calling, and have a good afternoon."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": ": You too. Bye"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": ": Bye, take care."
+    }
+  ]
+}

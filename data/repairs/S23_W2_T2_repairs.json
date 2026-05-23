@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S23_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand 'initial deposit amount'",
+    "evidence_summary": "The learner asks for clarification about 'initial deposit amount' in turn 7. The bot explains the term in turn 8, and the conversation continues smoothly, indicating the issue was resolved."
+  }
+]

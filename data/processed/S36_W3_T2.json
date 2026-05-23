@@ -1,0 +1,320 @@
+{
+  "student_id": 36,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S36_W3_T2",
+  "source_file": "data\\raw\\#36\\#36\\#36. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi! I want practice how to сontacting with customer support about problem with my mobile phone, that doesn't turn on. You - a customer service assistant, who very polite and try to help me with my techical problem. I will start first in next message."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure — I’m ready when you are! Send your first message for the roleplay, and I’ll step into the customer support role."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hello, can you help me? I downloaded new firmware on my phone and installed it after reset, and now my phone is not turned on.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that. Let’s see how we can help. Could you let me know the model of your phone and the exact firmware version that you installed?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I have Samsung Galaxy S23 and my new firmware in one UI 12.0.0”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, thank you for that information. Now, just to confirm, did your phone show any error messages during the update, or did it just shut off after the installation?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“After installation, my phone switched off.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I see, thanks for"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Please repeat what you asked for me about hard reset my phone previously.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course! I was asking whether your phone showed any error messages during the update or if it simply turned off after the installation. Did you perform any kind of hard reset or anything like that?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I understand, that must be frustrating. Just to clarify, did you try holding the power button and the volume down button together for a few seconds? And does the phone show any signs of life at all, like a logo or a vibration?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“No, I tried, but it's not helped for me. I don't know why.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "I see, that’s definitely tricky. In that case, it might help to try connecting your phone to a charger and leaving it for a while, just to see if it responds. Have you tried that already, or would you like some guidance on that?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I tried and I hold my phone on charging station maybe 3 hours and after I try turn on also but it's not help for me. I don't know.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I’m sorry that didn’t work. At this point, it might be best to try a recovery mode or possibly seek professional repair. Would you like some steps on how to try recovery mode, or would you prefer to contact a technician?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“How I can make it”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely! To try recovery mode, you can start by turning your phone off completely, if possible. Then, you’ll hold the volume up button and the power button together until the Samsung logo appears. From there, you can navigate using the volume keys to find the recovery options. Let me know if you’d like more detailed steps!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Please, just write for me full instruction, please.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course! Here’s a step-by-step guide: First, make sure your phone is powered off completely. If it’s not responding, just let it sit for a minute. Once it’s off, press and hold the volume up button and the power button at the same time. Keep holding those buttons until you see the Samsung logo appear, and then you can release them. After that, you should see the recovery menu. Use the volume keys to navigate up and down, and the power button to select options. You can try the “Wipe cache partition” option first, and then reboot the system. If that doesn’t help, there are other options in the recovery menu, like performing a factory reset, but that will erase your data, so it’s good to back up if possible. Just let me know if you need any more details on any of those steps!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Please ask me if I did it, I can lost my information in this phone because on my phone I have 100 gigabytes photo of my family and my life, can I lost it?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "I completely understand your concern. If you do a factory reset, it will erase all data on the phone, including those photos. So it’s really important to back up your data first if possible. Before attempting any reset, we can definitely explore all other options to try and recover the phone. Let me know how you’d like to proceed, and I’ll guide you carefully!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“but I have a problem. I don't have now opportunities to make a deep backup of my phone because my phone is switched off. He is not working now. How can I do a backup?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "I completely understand, that does make it challenging. In that situation, sometimes a professional technician can help by connecting your phone to specialized equipment to recover the data. Alternatively, if your phone has been synced to a cloud service, like Samsung Cloud or Google Photos, you might still have a backup there. Let me know if you’d like some guidance on those options!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Oh, I understand. If I have backup in my cloud, I didn't regret about it. But now, in this situation, I'm sure that I don't have backup in cloud because my phone is not installing a cloud application like Google Drive, for example.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "I understand, that definitely"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“A full reset of my phone, all my data is deleted.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I get it, it’s definitely a tough situation. In that case, it might be worth trying some professional data recovery services if you’re concerned about losing those photos. We can also explore any other troubleshooting steps to see if we can get the phone to power on. Just let me know how you’d like to proceed, and I’m here to help!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yes, if you can give me more information about professional repair store who”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Of course! Professional"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“can help me in Sydney.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely! Professional repair stores, like authorized service centers for your phone brand, or reputable third-party technicians, can often help recover data and fix issues without wiping your phone. You can usually find these services at official brand stores or trusted electronics repair shops. If you need help finding one near you, I can definitely assist with that as well!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Yes, please help me, because I don't know what place this store is in Sydney. Maybe in CBD we have someone.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! In Sydney’s CBD, you’ll find several authorized service centers, like the Samsung Experience Store on George Street, or Apple’s official store if you have an iPhone. There are also trusted third-party repair shops, like Mobile Monster or Tech Repair, that have good reputations. I can help you find specific addresses and contact details if you’d like!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Please, for me, I need a repair store for Samsung, because previously I told you, I have a Samsung Galaxy 23. And if I go to Apple Store...”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Got it, that makes"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“People who work in this place didn't help me because I don't have iPhone, I have a Samsung Galaxy. What place?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense! In that case, the Samsung Experience Store on George Street in the CBD is a great option. There are also Samsung-authorized service centers nearby, like those at major shopping centers, such as Westfield Sydney. I can definitely provide specific addresses and more details if you need them!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“What review about this on Google Maps maybe? How customers grade this store? Good or not good?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sure! The Samsung Experience Store in Sydney’s CBD generally has very positive reviews. Customers often mention helpful staff and efficient service. Of course, as with any store, there are occasional mixed reviews, but overall, it’s quite well-rated. If you’d like, I can help you look up the latest reviews and give you a more detailed overview!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Yes, please just read for me maybe one review that explains how this store helps customers.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely! For example, one recent review mentioned that the staff at the Samsung Experience Store were really attentive and knowledgeable. They helped a customer quickly diagnose a phone issue and even managed to recover data that seemed lost. Overall, they described it as a positive experience with efficient and friendly service. It definitely seems like a reliable place!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“What is the work time of this service today?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Typically, the Samsung Experience Store in Sydney’s CBD is open from around 9 AM to 6 PM on weekdays, and slightly shorter hours on weekends. But it’s always good to double-check the exact timings for today, just in case. If you need, I can look up the exact hours for you!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Yes, today is Saturday and for me we need now working hours today, because if I now go to train and go to CPT and go to this place and this repair store is not open I need come back in my home and I just waste my time.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense! On Saturdays, the Samsung Experience Store in Sydney’s CBD usually opens around 10 AM and closes at about 5 PM. So if you head there now, you should arrive in time to get assistance. If you need any more details or help with directions, just let me know!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Thank you for your information. I need understanding what medium price for”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Of course! The cost"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“For repairing my phone in this store.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! Generally, repair costs can vary depending on the issue, like screen replacement or battery issues. For a Samsung Galaxy S23, repairs might range from around $150 to $300 AUD, depending on the type of repair. If you have a specific issue in mind, I can give you a more precise estimate as well!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Oh, please repeat, what price of repair of my phone? If I didn't broke my screen, I just cannot understand why my phone is not switched on and maybe I have problem with my firmware, not hardware. What price always of change this problem?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "I see! If it’s more of a firmware-related issue and not hardware damage, the repair cost is usually lower. Often, it can range from about $50 to $150 AUD, depending on the complexity and time involved. But it’s definitely more affordable than hardware repairs. If you want, I can help you confirm more exact pricing once you get in touch with the store!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“I repeat, please.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Of course! If it’s a firmware-related issue and not a hardware problem, the repair cost is typically lower. Usually, it can range from around $50 to $150 AUD. This is generally more affordable than hardware repairs. And of course, once you visit the store, they can give you a more precise estimate. Let me know if you need anything else!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "Thank you. You really help for me."
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "You’re very welcome!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Okay, I mean I think maybe 5-10 minutes and after I decide can I go to this repair and want or not want repair my phone. Because if this repair shop told me what they want a high price for this, for me more easily just buy a new phone because I didn't really pay more money for repair this phone. Thank you.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense! Take your time to consider all your options, and if you have any more questions or need any more details, I’m always here to help. Good luck, and I hope everything works out smoothly for you!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Thank you. If I need have more information, I'll come back.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Of course! Feel free"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Bye.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Anytime! I’m here whenever you need help. Best of luck, and have a great day!"
+    }
+  ]
+}

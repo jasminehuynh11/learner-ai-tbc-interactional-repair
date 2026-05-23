@@ -1,0 +1,290 @@
+{
+  "student_id": 23,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S23_W2_T2",
+  "source_file": "data\\raw\\#23\\#23\\#23. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hey."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hey there! How's it going? What can I help you with today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I want to practice visiting a local bank branch to request help with everyday banking services. You are a bank staff or customer service officer. I will play the role of the customer. Please create a realistic bank scenario and respond as if we were really there. Please start with a simple booking and try a more detailed interaction by asking about documents, accounts, futures, or banking procedures."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Alright, let's set the scene: You walk into the bank, and I'm at the front desk ready to assist you. So, let me start off: \"Good morning! Welcome to our bank. How can I assist you today?\""
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Hi, how are you? I just want to open a joint account with my partner. Is it possible today?"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I'm doing well, thank you! And absolutely, we can help you with that. To get started, I'll need to know a bit more. Could you let me know if you both have valid IDs with you, and if you have any initial deposit amount in mind?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "oh okay here is our ID card and i'm sorry i don't know about the initial deposit amount what does it that mean"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries at all! The initial deposit is basically the amount of money you put into the account when you open it. It can vary depending on the type of account you want. But we can definitely help you figure that out. Do you have a particular type of account in mind, like a checking or a savings account?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Oh, we want to make a saving account for us."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it, a savings account sounds great! In that case, we’ll just need to confirm a few details, like your contact information and your address. Also, do you know if you’d like to add any beneficiaries to the account?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "What kind of a beneficiary do you have?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great question! A beneficiary is basically someone who would receive the funds in the account if something were to happen to you. You can add your partner or any other loved one as a beneficiary. Would you like to add your partner as the beneficiary for this account?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Oh, yes, please."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect, that makes things nice and straightforward. Alright, so we’ve got your IDs, we know it’s a savings account, and we’ll add your partner as a beneficiary. Just one last thing: do you have a preferred branch location or a specific time you’d like to schedule the appointment?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I think I can do it today. Is it okay?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, today works just fine! We can definitely get you set up. I’ll just confirm a time that’s convenient for you and make sure everything’s ready. Sound good?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Yeah, we're good."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Awesome! That’s perfect. I'll get everything arranged for you, and we’ll make sure it’s a smooth process. If you have any other questions or need anything else, just let me know."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Oh, and can I get my bank statement?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely provide that today as well. Just let me know which statement period you need, and we’ll have that ready for you. If there’s anything else you need while you’re here, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "I also want to make a new credit card. Do you have any recommendations for me?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, we can help with that as well! We have a few great options depending on what you're looking for, like low interest rates or cashback rewards. Maybe you could let me know what features are most important to you, and we can find the best match!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Oh, I think the cashback reward sounds great."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Perfect, cashback rewards are definitely a popular choice! I’ll go ahead and recommend a few cards that offer great cashback rates on everyday purchases. We can get you all the details and find the perfect fit. Sound good?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Yeah, all good."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Awesome! I'm glad to hear that. We'll get everything sorted out for you today, and if you have any more questions or need any extra assistance, just let me know."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Thank you so much for today."
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You're very welcome! It was my pleasure to help. If you need anything else, just reach out. Have a wonderful day!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "You too. See you."
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "See you! Take care and have a great one!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "How was this conversation?"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "I thought it went really well! We covered a lot of details naturally and smoothly, and it felt pretty realistic. If you have any feedback or want to tweak anything, definitely let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "I just want to hear your feedback about my conversation."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! You did really well. You were clear and engaged, and you asked all the right questions. You also responded naturally, which made the conversation flow really nicely. Overall, you did a fantastic job! If there's anything specific you'd like to improve or practice further, just let me know."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Okay, then how about let's change the situation, like updating my personal details in bank."
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "That sounds great! We can definitely do that. So, in that scenario, I'll be a bank representative, and you can let me know what details you’d like to update, whether it’s your address, phone number, or any other information. Whenever you’re ready, we can jump right in!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "Yeah, let's try it."
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Perfect, let’s do it! So, to start off, welcome to the bank! How can I assist you with updating your personal details today?"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Oh, hi. I think I need to update my phone number and home address."
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Of course, I can help with that! Let’s start with your phone number. Could you please share the new number you’d like to update? And then we’ll move on to your home address after that."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "Okay, my new phone number is 0465-567-1234."
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Got it, thank you for that! I’ve successfully noted your new phone number. Now, let’s move on to your home address. Could you please share the updated address with me?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "My new home address is 34..."
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Perfect, thank you for that information! I’ll update your home address to number 34. If there are any additional details or anything else you’d like to change, just let me know!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "Or can I get the confirmation once it's updated?"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely! Once everything is updated, I'll provide you with a confirmation, either through email or a text message, whichever you prefer. Just let me know your preference, and we’ll make sure you get that confirmation promptly."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "Thank you so much for today."
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "You're very welcome! It was my pleasure to help. If you need anything else at all, just let me know. Have a great day!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "You, too. See you."
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "See you! Take care and have a wonderful day!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "How about this conversation? I think I make some mistake."
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "You did really well overall! There were just a few minor things, but nothing major at all. You asked clear questions, and you responded naturally. The more you practice, the more confident you’ll become. If you’d like to focus on any specific area, I’m definitely here to help!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "Okay, thank you so much for today."
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "You're very welcome! It was my pleasure. If you ever want to practice again, just let me know. Have a fantastic day!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "Thank you, see you!"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "See you! Take care and talk to you soon!"
+    }
+  ]
+}

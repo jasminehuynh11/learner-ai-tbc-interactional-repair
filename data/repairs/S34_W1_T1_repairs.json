@@ -1,0 +1,18 @@
+[
+  {
+    "dialogue_id": "S34_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7,
+      10,
+      11,
+      12,
+      13
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner requests a 'caramel lychee ludge' in turn 6, which is unclear. The bot interprets this as 'caramel latte' in turn 7. The learner attempts to correct this in turns 10 and 12, clarifying they want 'full milk' and not 'foam milk'. The bot confirms the corrected order in turns 11 and 13, resolving the misunderstanding."
+  }
+]

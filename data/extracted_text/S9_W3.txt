@@ -1,0 +1,73 @@
+TASK 1: Reporting Problems and Seeking Help
+English Conversational Partner의 말:Hi there! How can I help you today? What can we chat about?
+나의 말:“Yes,oh can I say that one more time?”
+English Conversational Partner의 말:Absolutely! Take your time. Go ahead and let me know what you were trying to say, and I'm here to help.
+나의 말:“Yes, and can you hear my problem with my house problem?”
+English Conversational Partner의 말:Sure, of course! I'd be happy to help with that. What seems to be going on with your house?
+나의 말:“Yes, in my house, my Wi-Fi is not connected, I think, but yesterday it was working well, but nowadays it doesn't work.”
+English Conversational Partner의 말:Alright, I got it! So it sounds like your Wi-Fi's just not connecting all of a sudden. Let me ask: have you tried restarting your router or any of your devices yet?
+나의 말:“Yes, I checked on my router and I turned off my item again, but it's not working.”
+English Conversational Partner의 말:Alright, that makes sense. So you've tried restarting things and it’s still acting up. Let me ask you this: have there been any changes in the house recently, like new devices or anything that might cause interference?
+나의 말: “I think your company co-worker will come to my house, it's better to me.”
+English Conversational Partner의 말:Sure, I get that! Sometimes it's just easier when someone can come over and take a look. So let me just ask you one last thing: would you like me to
+나의 말:텍스트 기록 사용할 수 없음
+English Conversational Partner의 말:Alright, sounds good! So would you like me to help you maybe figure out how to contact your internet company or set up an appointment?
+나의 말: “Mmm, yes.”
+English Conversational Partner의 말:Alright, perfect! Let’s do that then. If you can just let me know which internet company you’re with, I can help you figure out the best way to reach them.
+나의 말: “I'm so sorry. This is not my house. I don't know my company. Can I send you email my item pictures?”
+English Conversational Partner의 말:Sure, no worries at all! If it's not your place, I totally get it. So if you want to just show me a quick picture of the router or any details you have, feel free. And then we can figure out the next step.
+나의 말: “Okay, but I will go out my house, so after then we talk about, and I will take the picture.”
+English Conversational Partner의 말:Alright, that sounds like a plan! So go ahead, do what you need to do, and whenever you're ready to chat again or send a picture, just let me know.
+나의 말: “Yes, but your company co-author will come to my house, right?”
+English Conversational Partner의 말:Alright, that sounds like a plan! So go ahead, do what you need to do, and whenever you're ready to chat again or send a picture, just let me know.
+나의 말: “Everything is okay. Is that the weekend is possible?”
+English Conversational Partner의 말: Sure, absolutely! Weekends are totally possible. So let's say we can arrange someone to come by on the weekend. Is there a particular time of day that works best for you?
+
+English Conversational Partner의 말: Absolutely, we can be flexible. If you need to change the time, that’s no problem at all. And sure, if dinner time works for you, we can find an evening slot. So just let me know roughly what time in the evening you'd like, and we'll get that set up for you.
+나의 말: “Also, can I change the time and is that possible in dinner?”
+English Conversational Partner의 말:Sure, 8 p.m. works perfectly! We'll set that up for you this weekend at 8 p.m. and someone will come by and help you out. Let me know if you need anything else!
+나의 말: “How about at 8 p.m.?”
+English Conversational Partner의 말:Sure, 8 p.m. works perfectly! We'll set that up for you this weekend at 8 p.m. and someone will come by and help you out. Let me know if you need anything else!
+나의 말: “I will tell you my home address.”
+English Conversational Partner의 말:Sure! Go ahead and let me know your home address whenever you're ready, and I'll make sure we note that down so our tech can come by.
+나의 말:
+“Okay, my address is in entry field on 37 Palazzo Street.”
+English Conversational Partner의 말: Got it! Thanks for that. We'll note down 37 Palace Street in Sheffield, and we'll have someone there at 8 p.m. this weekend. If you need anything else, just let me know!
+나의 말:“If there was an accident, what should I do about that problem?”
+English Conversational Partner의 말: Sure! After that, once our tech has come by and taken a look, they'll walk you through anything else you need to do. In the meantime, just sit tight and we'll handle the rest. Let me know if you have any other questions!
+나의 말:“No, thank you.”
+English Conversational Partner의 말:You're very welcome! We'll get everything sorted out for you. Thanks for chatting, and have a great day!
+나의 말: “Have a great day, too.”
+
+
+
+TASK 2: Reporting a Lost item or Filling a Minor Police Report
+나의 말: “Hello.”
+English Conversational Partner의 말: Hey there! What can I do for you today?
+나의 말: “Is there a police officer, right?”
+English Conversational Partner의 말:Absolutely. I’m a police officer. So, let's start off: can you tell me what happened?
+나의 말: “Yes, I have just realized I lost my wallet and my house key and I would like to write a report.”
+English Conversational Partner의 말:Alright, I understand. Let's get that sorted for you. First off, could you let me know where and when you last remember having them?
+나의 말: “I stopped in the town hall station, from town hall station to Ashefield station.”
+English Conversational Partner의 말:Alright, that helps. So it sounds like you might have lost it somewhere between Town Hall and Ashfield. Now, do you remember if you were on the train or maybe on the platform when you last had it?
+나의 말: “I confused, I lost my wallet and key, and I'm not sure station or platform.”
+English Conversational Partner의 말:Sure, that’s fine.
+나의 말:
+“Maybe I visit the town hall station, I saw my wallet.”
+English Conversational Partner의 말:Alright, that’s a good detail. So it might have been at Town Hall station. Now, could you let me know what your wallet looks like or if there’s anything distinctive about your keys that might help us find them?
+나의 말: “Yes, my wallet is pink, and my house key is just a simple silver design key with a necklace-like keychain.”
+English Conversational Partner의 말: Gotcha. That definitely helps us keep an eye out for a pink wallet and a silver key on a necklace chain. Now, let me just ask, have you already checked with lost and found at the station, or would you like us to help you with that next?
+나의 말: “Yes, what do I have to do the next day?”
+English Conversational Partner의 말: Well, what we can do next is I'll go ahead and file the report for you, and then we'll also contact the station's lost and found. So let's do that. And in the meantime, is there a phone number or an email you'd like me to note down so we can reach you if anything turns up?
+나의 말: “Can I ask one more?”
+English Conversational Partner의 말: Of course, absolutely. Go right ahead. What else would you like to ask?
+나의 말: “The loss to something, that situation is first time to me, so I don't know what is the effort.”
+English Conversational Partner의 말: Sure, I get that. It's definitely a bit confusing the first time. So basically, I'll just make sure we have all your details, and then we'll get in touch with the lost and found. If they find anything, they'll reach out to you. So let's start by noting down your contact info, and we'll go from there.
+나의 말: “And how long do I wait?”
+English Conversational Partner의 말: Absolutely. Usually, it might take a day or two for lost and found to get back to you if they find something. So just hang tight, and we'll keep you posted. And of course, if you have any other questions, just let me know.
+나의 말:
+“I don't know any question, not yet.”
+English Conversational Partner의 말: All right, that sounds good. We'll just go ahead and proceed with that. And if anything else pops up, feel free to ask.
+나의 말:
+“Thank you.”
+English Conversational Partner의 말: You're very welcome! We'll take it from here, and I’m glad I could help. If you need anything else, just let me know.

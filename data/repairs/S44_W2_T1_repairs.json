@@ -1,0 +1,62 @@
+[
+  {
+    "dialogue_id": "S44_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "bot misunderstanding – bot misinterpreted learner's clarification request",
+    "evidence_summary": "The learner asked for clarification ('Know any one of these?') regarding the bot's previous question about symptoms. The bot misunderstood this request and responded with 'Got it, that's helpful to know,' before moving on to a new question. This indicates that the misunderstanding persists without resolution."
+  },
+  {
+    "dialogue_id": "S44_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      14,
+      15
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner's turn 14 was marked as \"Transcription not available,\" indicating unintelligible speech. The bot initiated a repair by repeating its previous question in turn 15, signaling it did not understand. This was resolved as the learner provided a clear answer in turn 16."
+  },
+  {
+    "dialogue_id": "S44_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding – learner confused about cause of symptom",
+    "evidence_summary": "The learner explicitly stated confusion about the cause of their headache in turn 18. The bot initiated a repair by providing possible explanations for headaches in turn 19, which resolved the learner's stated confusion."
+  },
+  {
+    "dialogue_id": "S44_W2_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      20,
+      21
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – learner used incorrect word 'pharma'",
+    "evidence_summary": "The learner used the word \"pharma\" in turn 20, which is an incorrect or unusual lexical choice for \"medication.\" The bot initiated a repair by correctly interpreting the intent and providing specific examples of over-the-counter pain relievers in turn 21, resolving the lexical ambiguity."
+  },
+  {
+    "dialogue_id": "S44_W2_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      22,
+      23
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – learner used incorrect word 'receive'",
+    "evidence_summary": "The learner used the word \"receive\" in turn 22, which is an incorrect lexical choice for what they likely meant (e.g., \"recipe\" or \"list of suggestions\"). The bot initiated a repair by interpreting this as \"a list of suggestions\" in turn 23, successfully resolving the lexical error."
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "dialogue_id": "S18_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "lack of understanding – learner missed part of instruction",
+    "evidence_summary": "The learner explicitly signals a lack of understanding by asking 'what?' after the bot's instruction 'unplug the power'. The bot confirms and continues with the next step, implying the learner's understanding was sufficient to proceed, thus resolving the immediate confusion."
+  },
+  {
+    "dialogue_id": "S18_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      25,
+      26
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding – misinterpretation of bot's previous statement",
+    "evidence_summary": "The learner states a misunderstanding about technician availability for today ('today there's no technician available'), which contradicts the bot's earlier statement in turn 4. The bot, instead of directly correcting, acknowledges the learner's premise and proposes an alternative (scheduling for another day), which the learner accepts, allowing the conversation to progress."
+  },
+  {
+    "dialogue_id": "S18_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      35,
+      36,
+      37
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner rephrases question",
+    "evidence_summary": "The learner initiates a repair by hesitating and explicitly self-correcting their fragmented utterance ('no, no, no') to rephrase their question. The bot acknowledges the 'sorry' and the learner successfully completes the question, which the bot then answers, indicating the trouble was resolved."
+  }
+]

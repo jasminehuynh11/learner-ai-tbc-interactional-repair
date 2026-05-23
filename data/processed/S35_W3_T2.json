@@ -1,0 +1,225 @@
+{
+  "student_id": 35,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S35_W3_T2",
+  "source_file": "data\\raw\\#35\\#35\\#35. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi is the police station? I’ve just realised I lost my wallet in the train station and I’d like to make a report"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Yes, this is the police station. Can you tell me when and where at the train station you last remember having your wallet?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I've just realized that I forgot my wallet at the train station, and I'd like to make a report.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I understand. Could you let me know the exact time and the specific location at the train station where you think you left it?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yeah, it was yesterday in Town Hall Station.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, thank you. And do you remember any specific details about the wallet, like its color or brand, or any items inside that might help us identify it?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Of course, my wallet is black, totally black.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, that’s helpful."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“It's um...”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "No worries, take your time. Is there anything else Transcript Unavailable"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "You're welcome! If you need anything else at all, just let me know."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“ChatGPT material is Litter and it's our money exchange, this is the brand.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it, that definitely helps. Thank you for sharing those details. If there's anything else you remember, just let me know!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yeah, everything is in my wallet, like my ID, my driver's license.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I see, that’s definitely important. We’ll make sure to note all of that. Is there anything else you’d like to add or any other information that might help us?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yeah, I know, I just have a couple of cards, like my Opal card, a few cash, and...”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, got it."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“My Gmail card and my job key. It's white.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Thank you for that information. That definitely helps us get a clear picture. If there's anything else you recall, just let me know, and we’ll do our best to assist you."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yeah, I think it was around 7 p.m.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, that’s helpful to know. We’ll make a note of that time. If you remember any other details later on, just let us know, and we’ll keep you updated. Transcript Unavailable"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "If someone finds it, we’ll do our best to contact you as soon as possible, and we’ll keep it safe here at the station. If you have any concerns or need further assistance, just let us know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yeah, I would like to give you guys my details. Can I give you my details too? There is a easy way to contact me in case that someone finds it.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, that would be great. Feel free to share your contact details, and we’ll make sure to reach out if we find anything."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Yeah, sure. My phone number is 0450-932-105.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Perfect, thank you for that. We’ll keep that on file, and we’ll be in touch if we have any updates. If there’s anything else you need, just let us know!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Just do I need to fill out a form or something like that?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Yes, we’ll have a simple form for you to fill out with all the details we discussed. I can guide you through it, and it won’t take long at all. Let me know whenever you’re ready!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yeah, no, I'm ready. Can you send me the form, please?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course! I’ll provide the form right away, and we can go through it step-by-step. Just let me know if you have any questions as we fill it out!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yeah, how long do you keep lost items on file?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Typically, we keep lost items for a period of about 30 days, and if they’re not claimed within that time, we follow the standard procedures for disposal or donation. But we’ll definitely keep you updated along the way!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Okay, it's okay, it's great.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Great! If you have"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Thank you. Do I need to show something like my ID, for example, my passport, when you have my wallet to provide my identity or something like that?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Yes, that would definitely help. When we return the wallet, we’ll just need some form of identification to confirm your identity, like your ID or passport. That way, we can ensure everything’s secure."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Okay, can I check maybe for your website?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely! You can definitely check our website for more information, and we also keep updates there. If you need any help navigating it, just let me know!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“yeah no it's okay i have the i have the website here so i think that's all guys thank you so much”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you need anything else, just let us know. Have a great day!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Thank you so much.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "You’re very welcome! Take care, and don’t hesitate to reach out if you need anything else."
+    }
+  ]
+}

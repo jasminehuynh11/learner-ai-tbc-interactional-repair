@@ -1,0 +1,220 @@
+{
+  "student_id": 18,
+  "week": 4,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S18_W4_T2",
+  "source_file": "data\\raw\\#18\\#18\\#18. Week 4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Hey there! How's it going? What's on your mind today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Yes, Hi. We've just started our group project. Can we plan the tasks together?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely! I'd love to help. Let me know what kind of project it is and what tasks you have in mind, and we can definitely break it down together."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Okay, so first, we need to choose the presentation order. What do you think works better... works better... works best?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Yeah, definitely! One approach could be to go in the order that you tackled the tasks, or maybe arrange it so that each person's section flows nicely into the next. We could also think about who has the most content for each part. What are your thoughts so far?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yeah, I think about maybe we should do bullet points for our ideas. Is that okay?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, bullet points are a great idea! They keep things clear and concise. We can jot down the main points for each section and then build from there. Let's do it!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Okay, so let's talk about how to divide the research and writing sections fairly.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sounds good! We can consider each person’s strengths and interests, and then assign the sections accordingly. We can split the research into different topics and then each write up our parts. Once we have that sorted, we can review and refine everything together."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I see your point, but I'm worried about time.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Totally understandable! We can definitely keep an eye on the timeline and maybe set some mini-deadlines for each section. That way, we can stay on track and avoid any last-minute rush. We can also prioritize the most important parts first. Sound good?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Good.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Awesome! I’m glad"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Can I take notes while someone else presents?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a great idea! You can definitely take notes, and that way we can all keep track of important points and add any thoughts we have. It’ll definitely help keep everything organized."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Okay, and...”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“It sounds like we have different views. Can you suggest some different methods or strategies to find a middle option?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Of course! One approach could be to have a quick group discussion and then vote on the different options to see what everyone prefers. Another method is to combine elements from each viewpoint, so we get the best of both worlds. And we could also try a trial run with one method and then adjust as we go along. Whatever works best for the whole team!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Okay, and should we check in every few days to stay on track?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, regular check-ins are a great idea! They help keep everyone accountable and ensure that we’re all on the same page. We can set up a schedule, maybe a brief meeting every couple of days, just to review progress and address any concerns. That should keep us on track!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“How do we make sure everyone is doing their part fairly?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Great question! One way is to set clear, agreed-upon responsibilities from the start, and maybe use a shared document where everyone can update their progress. Regular check-ins also help us spot any issues early on. Plus, fostering open communication and encouraging everyone to share their progress or challenges can keep things balanced and fair."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Mm-hmm.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Awesome! If you have any other concerns or need more suggestions along the way, just let me know. I’m here to help out!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Yeah, so I'm really happy to try the presentation, but I've never done it before. Any tips?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help! One tip is to practice a few times so you feel comfortable with the flow. Also, keep your slides simple and focus on key points rather than overwhelming details. Engaging your audience with a bit of eye contact and maybe a few questions can help too. And of course, I’m here if you need any more specific pointers!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah, this part feels too difficult for me. Can I swap with someone else?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Of course, that’s totally fine! It’s always good to play to everyone’s strengths. You can definitely swap tasks with someone else, and that way everyone feels more comfortable. Just chat with your group, and I’m sure you’ll find a good solution together!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Mm-hmm. Okay, so...”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Sounds good!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“We're all agreed on the new timeline and bullet points, right?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yep, absolutely! It sounds like everyone’s on the same page with the timeline and the bullet points. That should definitely keep things running smoothly. If anything comes up, we can always adjust as we go."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Great! If you need any more help or just want to brainstorm further, just let me know. I'm here whenever you need me!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yeah, so what personality do you recommend to do the writing part?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, someone who enjoys detail-oriented work and has strong writing skills is perfect for that role. It also helps if someone is comfortable organizing thoughts clearly and can adapt their writing to match the group’s style. But really, it’s all about finding the right fit for your team’s dynamics."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Okay, I think that's all. Thank you. Thanks for discussing with me and helping me to figure out all the presentation types or dividing parts.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "You're so welcome! I’m really glad I could help. If anything else comes up, just reach out anytime. Good luck with the project, and I’m sure you’ll do great!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Okay, thank you. Have a good day.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "You too! Have a fantastic day, and feel free to reach out anytime. Take care!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Bye for now, take care.”"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S45_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "pronunciation/ASR – 'mail' misinterpreted as 'male'",
+    "evidence_summary": "The learner says 'mail is better', which the bot misinterprets as 'male'. The bot responds with options for male doctors, not addressing the misinterpretation, leaving the misunderstanding unresolved."
+  },
+  {
+    "dialogue_id": "S45_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      13,
+      14
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner switches from Japanese to English",
+    "evidence_summary": "The learner starts with Japanese and then switches to English, indicating a self-correction. The bot responds appropriately to the English part, confirming the morning appointment, resolving the issue."
+  },
+  {
+    "dialogue_id": "S45_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      19,
+      20
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "language mismatch",
+    "evidence_summary": "The learner points out that the language output is in Korean instead of English. The bot responds in Korean, not addressing the learner's concern, leaving the issue unresolved."
+  }
+]

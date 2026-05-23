@@ -1,0 +1,175 @@
+{
+  "student_id": 15,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S15_W2_T1",
+  "source_file": "data\\raw\\#15\\#15\\#15. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking or Changing a medical appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’d like to make an appointment to see a doctor."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure. What’s the reason for your visit today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Hi, my visit today is just for a general checkup."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright. A general checkup is noted. When would you like to come in for the appointment?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Is the Doctor available next Friday?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sure. Next Friday has some openings. What time of day works best for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "It could be possible around 2 p.m?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, 2 p.m. next Friday works. Do you have a preferred doctor for this checkup?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I don't have any preference, whoever doctor is available is fine for me."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Sure. I’ll book you with any available doctor. Could I get your full name for the appointment?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Natalia Cardona"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, Natalia Cardona. Could I have a contact phone number for the booking?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "0415677347"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure, 0415677347 noted. Are you a new patient at this clinic?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes, I am."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright. Since you’re a new patient, could I get your date of birth for the registration?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "9th of November 1997."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Sure, 9 November 1997 noted. Do you have a Medicare or insurance number we can add to your file?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Yeah, I have the Bupa insurance."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright, Bupa noted. Could you give me your Bupa membership number?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "0 3 4 1 6 7 9 8 6"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Alright, your Bupa number is noted. Could I get your home address for your new-patient file?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "1-4-2 Elizabeth Street, Sydney, New South Wales, 2000."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright, your address is noted. Could I also get an email address for appointment reminders?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Natalia.Cardona at Hotmail.com"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Alright, your email is added. Would you like to confirm all these details for your appointment next Friday at 2 p.m.?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Yes, I confirm."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Sure. Your appointment is all set. Is there anything else I can help you with today?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "That's all for today. Thank you so much."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course. Thanks for coming in today—take care and have a good one."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Thank you. you too. Bye."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Bye now."
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+TASK 1: 
+나의 말:
+“Hi, I'd like to make an appointment to see a doctor.”
+00:04
+English Conversational Partner의 말:
+Of course! What's the reason for your visit today?
+나의 말:
+“Actually, I have a headache, but I'm pregnant, so what can you do for me?”
+00:09
+English Conversational Partner의 말:
+Alright, I understand. We definitely want to make sure you're comfortable and safe. So, how far along are you in your pregnancy right now?
+나의 말:
+“It is 12 weeks.”
+00:02
+English Conversational Partner의 말:
+Got it. Twelve weeks, that’s good to know. And have you had any other symptoms besides the headache, or is that the main thing you’re concerned about?
+나의 말:
+“I have a little headache and maybe I have a cold.”
+00:08
+English Conversational Partner의 말:
+Sure, I see. A bit of a headache and maybe a cold on top of that—understood. So, when would you like to come in and see the doctor?
+나의 말:
+“Is anyone available tomorrow morning?”
+00:03
+English Conversational Partner의 말:
+Absolutely! Let me just check that for you. We do have some openings tomorrow morning. Does around 10 a.m. work for you?
+나의 말:
+“I think it's too early for me. Can I, could I go, could I have some 11am?”
+00:13
+English Conversational Partner의 말:
+Sure, 11 a.m. works just fine. We can book you in at that time. And just to confirm, can I have your full name for the appointment?
+나의 말:
+“My name is Yuna”
+00:02
+English Conversational Partner의 말:
+Alright, got it. We’ll set that appointment for you at 11 a.m. under Jeong Yuna. And is there anything else you'd like us to know before you come in tomorrow?
+나의 말:
+“Go to”
+00:01
+English Conversational Partner의 말:
+Sure! We’ll keep
+나의 말:
+“Could I go with my husband?”
+00:04
+English Conversational Partner의 말:
+Absolutely, you're welcome to bring your husband along. We'll note that down. So, we’ll see you both tomorrow at 11 a.m. If you have any other questions, just let us know!
+나의 말:
+“Is there any another waiting room for my husband?”
+00:07
+English Conversational Partner의 말:
+Sure! We do have a little waiting area where your husband can be comfortable. So no worries at all. Now, is there anything else you need to know before tomorrow?
+나의 말:
+“Could I have a ticket for car park?”
+00:05
+English Conversational Partner의 말:
+Sure! We can absolutely arrange that. We'll have a parking ticket ready for you when you arrive. Anything else on your mind before you come in?
+나의 말:
+“How long is parking my car?”
+00:06
+English Conversational Partner의 말:
+Sure! The parking ticket will cover about two hours, which should be plenty of time for your appointment. And if you need more time, just let us know. Anything else you’d like to ask?
+나의 말:
+“Do I need to bring my Medicare card?”
+00:05
+English Conversational Partner의 말:
+Sure! Just a quick rundown: you really just need to bring yourself and any ID or health insurance info you have. Other than that, we'll be all set for you. Anything else on your mind?
+나의 말:
+“Sorry, I don't understand. Please speak slowly.”
+00:04
+English Conversational Partner의 말:
+Of course! I'll slow down. All you really need to bring tomorrow is your ID and any health insurance details if you have them. That's it. Let me know if that helps or if you have any other questions.
+나의 말:
+“What can I get for health insurance?”
+00:04
+English Conversational Partner의 말:
+Sure! So basically, if you have a health insurance card or any document that shows your coverage, just bring that along. And if you don't have one, that's totally fine; we can figure it out when you arrive. Anything else you want to check on?
+나의 말:
+“What can you do for a health insurance document? I want to know details.”
+00:10
+English Conversational Partner의 말:
+Absolutely! So, your health insurance document is usually just something like an insurance card or a paper that shows your policy number and your coverage. Just bringing that is helpful so we can register everything smoothly. Let me know if that makes sense or if you want more details!
+나의 말:
+"I want to make appointment with woman doctor."
+00:07
+English Conversational Partner의 말:
+Sure! We can definitely arrange for you to see a woman doctor. I'll make a note of that for your appointment. Anything else you'd like to ask about?
+나의 말:
+“Thank you. No, that's fine. Thank you.”
+00:10
+English Conversational Partner의 말:
+You're very welcome! We'll see you tomorrow then. Take care!
+나의 말:
+“Hello, I'd like to confirm my appointment for tomorrow.”
+00:04
+English Conversational Partner의 말:
+Sure! I'd be happy to help confirm that for you. Could you just remind me of your name for the appointment?
+나의 말:
+“My name is Jeongyoon Ah.”
+00:01
+English Conversational Partner의 말:
+Sure, Jeong Yuna, I've got it. I can confirm your appointment is all set for tomorrow at 11 a.m. with a woman doctor as requested. If there's anything else you need, just let me know!
+나의 말:
+“Maybe this hospital is my first time, what can I, what items get to”
+00:19
+English Conversational Partner의 말:
+Absolutely! So for your first visit, just bring a photo ID and your health insurance info if you have it. That's all you really need. We’ll take care of the rest once you arrive. Anything else you’re curious about?
+나의 말:
+“How long is the current rate?”
+00:04
+English Conversational Partner의 말:
+Sure! So right now the wait time is actually pretty minimal. We schedule things so that you should be seen pretty close to your appointment time. Usually just a few minutes of waiting if any. Let me know if that answers your question!
+나의 말:
+“I want to know my booking doctor's name.”
+00:07
+English Conversational Partner의 말:
+Sure! The doctor you'll be seeing tomorrow is Dr. Kim. She's one of our female doctors on staff. If there's anything else you'd like to know, just let me know!
+나의 말:
+“Is it okay if I come in 10 minutes later?”
+00:05
+English Conversational Partner의 말:
+Sure! That's perfectly fine. If you arrive about 10 minutes later, we can still fit you in. Just a heads-up to let the front desk know, and we'll make sure everything goes smoothly. Anything else you need?
+나의 말:
+“I'm helping a friend book an appointment in English.”
+00:05
+English Conversational Partner의 말:
+Absolutely! You're doing great so far, and I'm happy to help. So let's get your friend's appointment set up. What day and time does your friend want to come in?
+나의 말:
+“Maybe he will go 2PM.”
+00:06
+English Conversational Partner의 말:
+Sure! We can definitely do that. So let's set an appointment for your friend at 2 p.m. And just let me know their name and we'll get that booked in.
+나의 말:
+“He is Lee Hyunseung.”
+00:03
+English Conversational Partner의 말:
+Alright, got it! We’ll book a 2 p.m. appointment for Lee Hyun Su. That's all set. If there's anything else you need, just let me know!
+나의 말:
+“He wants a male doctor. Can he?”
+00:06
+English Conversational Partner의 말:
+Absolutely! We can definitely arrange a male doctor for him. I’ll make a note of that so he’ll be booked with one of our male physicians at 2 p.m. If there's anything else, just let me know!
+나의 말:
+“I want to know.”
+00:01
+English Conversational Partner의 말:
+Sure! I'm here to help. What would you like to know next?
+나의 말:
+“I want to know the doctor's name.”
+00:03
+English Conversational Partner의 말:
+Sure! For your friend's appointment, the male doctor he'll be seeing is Dr. Park. So he'll be in good hands. If there's anything else you need, just let me know!
+나의 말:
+“Thank you.”
+00:00
+English Conversational Partner의 말:
+You're welcome! And if anything else comes up, just ask. I'm here to help.
+나의 말:
+“Can I request a copy of my results after the visit?”
+00:06
+English Conversational Partner의 말:
+Absolutely! You can definitely request a copy of your results after your visit. Just let the front desk know or the doctor know at the end of your appointment, and they'll make sure to get that to you. Anything else you’d like to know?
+나의 말:
+“Is there a fee for a medical certificate?”
+00:04
+English Conversational Partner의 말:
+Sure! There is usually a small fee for a medical certificate, but it's pretty minimal. If you do need one, just ask and they'll let you know the exact amount. Anything else I can help with?
+나의 말:
+“How much is it exactly?”
+00:02
+English Conversational Partner의 말:
+Sure! So typically a medical certificate might cost just a small fee, usually around $10 to $20, depending on the clinic. So it's not too much. Let me know if that helps!
+나의 말:
+“Can I get a script if I've already had this medication before?”
+00:09
+English Conversational Partner의 말:
+Absolutely! If you've had that medication before, the doctor can definitely write you a new prescription if it's appropriate. Just let them know what you've been taking, and they can sort that out for you. Anything else on your mind?
+나의 말:
+“Sorry, I don't understand. Please speak slow down.”
+00:04
+English Conversational Partner의 말:
+Of course, I'll slow down a bit. In that case, yes, if you've had that medication before, the doctor can give you another prescription for it. Just tell them what you need and they'll take care of it. Let me know if that helps!
+나의 말:
+“Excuse me, could I change my friend's booking?”
+00:07
+English Conversational Partner의 말:
+Sure! We can absolutely change your friend's booking if you need to. Just let me know what new time or date works better and we'll adjust it.
+나의 말:
+“What time it closed?”
+00:02
+English Conversational Partner의 말:
+Sure! The clinic usually closes around 6 p.m., so we have some flexibility if you need to shift things a bit earlier or later in the day. Just let me know what time you'd prefer!
+나의 말:
+“Can he change from 2pm to 5pm?”
+00:09
+English Conversational Partner의 말:
+Absolutely! We can change his appointment from 2 p.m. to 5 p.m., no problem at all. I'll go ahead and update that so he’s all set for 5. Anything else you need?
+나의 말:
+“Nothing. Thanks a lot.”
+00:02
+English Conversational Partner의 말:
+You're very welcome! I'm glad I could help. Have a great day, and we'll see you at the clinic.
+
+
+
+Task 2: 
+나의 말:
+“I'd like to open a new savings account.”
+00:04
+English Conversational Partner의 말:
+Great, thanks for letting me know. Now, to get started, could you tell me if you’re opening this account just for yourself, or will there be a joint holder as well?
+나의 말:
+“Sorry, I don't understand. Please speak slow down.”
+00:03
+English Conversational Partner의 말:
+Of course, no problem at all. So, let me say that again a bit slower. Are you opening this savings account just for yourself, or will someone else be sharing it with you, like a joint account holder?
+나의 말:
+“Is there anything...”
+00:02
+English Conversational Partner의 말:
+Sure! So just to answer that, is it going to be just you on this account, or is someone else going to be on it too?
+나의 말:
+“I'd like to open account for me.”
+00:02
+English Conversational Partner의 말:
+Alright, got it. So it’ll be a joint account then. Now let’s go ahead and figure out what kind of initial deposit you’re thinking of making to open it up?
+나의 말:
+“Sorry, I don't understand. Please speak more slowly and use easier words.”
+00:16
+English Conversational Partner의 말:
+Of course, I can slow down. Let's take it step by step. So, now I just want to know how much money you want to put in the account at the beginning.
+나의 말:
+“Oh, I understand.”
+00:01
+English Conversational Partner의 말:
+Great, I’m glad
+나의 말:
+“Oh.”
+00:00
+English Conversational Partner의 말:
+Sure thing! So now that you understand, let me know: how much would you like to deposit to open your new account?
+나의 말:
+“Maybe... 1 billion.”
+00:02
+English Conversational Partner의 말:
+Wow, one billion! That's definitely a big number. We can absolutely note that down. Now, let’s also figure out what kind of identification you'll be using to open this account.
+나의 말:
+“Sorry, my pronunciation is not good. I want about 1 million.”
+00:14
+English Conversational Partner의 말:
+Oh, sure! One million, got it. No worries at all about pronunciation—you're doing just fine. Now let’s go ahead and talk about what type of ID you'll be using to set up the account.
+나의 말:
+“What type of ID?”
+00:03
+English Conversational Partner의 말:
+Exactly, so I'm just asking what type of identification you plan to use, like maybe a passport or a driver’s license. Which one would you like to use?
+나의 말:
+“I have a driver's license.”
+00:04
+English Conversational Partner의 말:
+Perfect! A driver’s license works just fine. Now that we’ve got that sorted, can you let me know if you have a specific type of savings account in mind, or if you'd like me to recommend one for you?
+나의 말:
+“I'd like to make both.”
+00:02
+English Conversational Partner의 말:
+Sure, both is totally doable. We can definitely look at a couple of different savings options for you. So, let me ask: do you have any preference on how long you want to keep the money in the account before you might need to withdraw it?
+나의 말:
+“I want to keep the money in the account.”
+00:09
+English Conversational Partner의 말:
+Absolutely, that makes sense.
+나의 말:
+"I want to save about two years."
+00:04
+English Conversational Partner의 말:
+Got it, about two years. That really helps. So we'll look at some options that fit that timeframe. Now, is there anything else specific you're hoping for in terms of features, like online access or anything like that?
+나의 말:
+“I can use online access.”
+00:04
+English Conversational Partner의 말:
+Absolutely! Online access it is. We can definitely make sure you have that. So I think we've got most of what we need. Just one last thing: do you have any other questions for me about setting up this account?
+나의 말:
+“And then I want using my new account card with traffic.”
+00:11
+English Conversational Partner의 말:
+Sure, that sounds good. So you’d like to use your new account card for travel as well—absolutely something we can set up for you. And I think that covers everything. Thanks for letting me know, and if you've got any other questions, just let me know!
+나의 말:
+“I'd like to use my new account card for opal card, for example, for bus or taxi or subway.”
+00:21
+English Conversational Partner의 말:
+Absolutely! So you'd like to use it for things like buses, taxis, or the subway. That’s totally doable and we can link it so it works for travel payments as well. I think we’ve got everything covered, so if there's nothing else, we're all set!
+나의 말:
+“Is there for payments later or only?”
+00:08
+English Conversational Partner의 말:
+Sure! So yes, you can absolutely use it for payments later on. Once it's all set up, you'll be able to use your card online and in person for those kinds of travel payments. And with that, I think we've got everything we need. Let me know if there's anything else!
+나의 말:
+“Is there a monthly fee for this account?”
+00:04
+English Conversational Partner의 말:
+Absolutely, that's a good question. So for this type of account, there's usually no monthly fee as long as you maintain a certain balance. And I think that covers pretty much everything. If you’re all set, we’re good to go!
+나의 말:
+"I want to know monthly fee exactly."
+00:04
+English Conversational Partner의 말:
+Sure! So typically, the minimum balance to avoid a monthly fee might be around a few hundred dollars, but it can vary. We can confirm the exact amount when we set everything up. Let me know if that works for you!
+나의 말:
+“Do I need proof of address or enrollment?”
+00:07
+English Conversational Partner의 말:
+Absolutely, that's a great point. Yes, we will need some proof of your address to open the account. Usually something like a utility bill or an enrollment document if you're a student works fine. So just have that handy, and we’ll be all set.
+나의 말:
+“Can I open an account without a job yet?”
+00:05
+English Conversational Partner의 말:
+Absolutely, you can do that. You don't need to have a job to open the account, so you're all good on that front. And I think that wraps everything up. If you're all set, we're good to go!
+나의 말:
+“Is it possible to do this over the phone?”
+00:04
+English Conversational Partner의 말:
+Absolutely, yes, it's possible to do this kind of setup over the phone. We can definitely handle everything that way if that’s more convenient for you. So, just let me know whenever you're ready, and we'll get it all arranged!
+나의 말:
+“We might get a confirmation once it's updated.”
+00:06
+English Conversational Partner의 말:
+Absolutely! Once everything is set up, you'll definitely get a confirmation so you know it's all updated and ready to go. And I think with that, we've got everything we need. So just let me know if there's anything else!
+나의 말:
+“Do you recommend saving accounts in this bank?”
+00:09
+English Conversational Partner의 말:
+Absolutely! I'd be happy to recommend one. For a two-year timeframe and the features you want, I'd suggest a flexible high-yield savings account that offers online access and no monthly fees if you meet the balance. That should fit you perfectly. And if you have any more questions, just let me know!
+나의 말:
+“What's the difference between these two account types?”
+00:05
+English Conversational Partner의 말:
+Sure! So the main difference is that one type might have a fixed term, like you commit your money for a set period, and the other is more flexible with easy access. Both will give you good options, and we can pick whichever suits you best. Let me know if that helps!
+나의 말:
+“I want to open the other one.”
+00:04
+English Conversational Partner의 말:
+Absolutely, that sounds great. So we'll go ahead and set you up with the more flexible option. And I think that should cover everything we need. If you're all set, we're good to go!
+나의 말:
+“I have forgotten my online banking password. Can you help?”
+00:06
+English Conversational Partner의 말:
+Absolutely, I can help with that. So, to reset your online banking password, we'll just need to verify a couple of details for security. Let's start with your account number, and then we can walk through the reset.
+나의 말:
+“How many times...”
+00:02
+English Conversational Partner의 말:
+Sure! So just to answer that, typically you can try resetting your password a few times if needed. If you have any trouble, we can always help you out each time. Let me know if that makes sense!
+나의 말:
+“How many times try resetting my password typically?”
+00:09
+English Conversational Partner의 말:
+Of course! Typically, you can try resetting it around three to five times before any lockout might happen. But don't worry, if you run into any issues, we can help you out. So just let me know if you need anything else!
+나의 말:
+“Could I try resetting online?”
+00:05
+English Conversational Partner의 말:
+Absolutely! You can definitely try resetting it online. Usually, there's a "forgot password" link on the login page. You can click that and follow the steps, and if you need any help, just let me know!
+나의 말:
+“When I've forgotten my password five times, could I try resetting it online?”
+00:13
+English Conversational Partner의 말:
+Absolutely! Even if you've forgotten it several times, you can still go ahead and try resetting it online. Usually, the system will guide you through it. And if you need any extra help, I'm here for you.
+나의 말:
+“Can I get a replacement card sent to my job address?”
+00:09
+English Conversational Partner의 말:
+Absolutely! We can definitely send a replacement card right to your job address if that’s more convenient for you. I'll just make a note of that. And if you’ve got any other details for the address, just let me know!
+나의 말:
+“How do I check if international transfers are enabled on my account?”
+00:08
+English Conversational Partner의 말:
+Sure! To check if international transfers are enabled on your account, you can usually do that through your online banking settings or just ask us directly and we'll confirm it for you. So just let me know, and I can check that for you right away!
+나의 말:
+“Thank you. I will come by tomorrow morning with my documents.”
+00:08
+English Conversational Partner의 말:
+You're very welcome! That sounds perfect—we'll see you tomorrow morning with your documents, and we'll get everything sorted out for you. Looking forward to it!
+나의 말:
+“That answers all my questions. Have a great day.”
+00:03
+English Conversational Partner의 말:
+You’re so welcome! I’m glad I could help. You have a great day too, and we’ll see you soon!

@@ -1,0 +1,135 @@
+{
+  "student_id": 17,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S17_W2_T2",
+  "source_file": "data\\raw\\#17\\#17\\#17. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Good morning! Thanks for contacting Horizon Bank."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "How can I assist you today - are you looking to open a new account, update your information, or ask about one of our banking services?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "\"Hi, l'd like to open a new bank account.\""
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! Could you let me know what type of account you're interested in, such as a checking account or a savings account?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "\"I'd like to open a new savings account.\""
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Great choice! To get started, I'll need a few details. Could you please provide your full name and a valid form of identification? Also, do you currently have an account with us?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great choice! To get started, I'll need a few details. Could you please provide your full name and a valid form of identification? Also, do you currently have an account with us?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "\"Yes, sure. My name is Ryota Ogura, and I don't have an account with you.\""
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Thank you, Li Tao!No worries at all!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "\"What item do I need to blink?\""
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "You'll just need to bring 'alid photo ID, such as your passport or driver _ cense, and proof of your address, like a utility bill or bank statement.Once you have those, we can get your account set up right away!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "\"Yeah, I got it, my passport is Japan, is it okay?\""
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, that's perfectly fine! Your Japanese passport will work as valid identification. Once you have that and your proof of address, we'll be all set! Let me know if you have any other questions.\""
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Thank you. What's the difference between these two account types?\""
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! Generally, a checking account is designed for everydav transactions, like deposits, withdrawals, * payments, while a savings account usually offers interest on your balance and is meant for saving money over time. If you'd like more details, I'm happy to explain further!\""
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Oh, so I misunderstood, I'd like to open a new checking account."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Got it, a checking account it is! We can definitely get that sorted for you. Just bring your ID and proof of address, and we'll have everything set up quickly. Let me kno d you need any more information!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "\"Yes, is it possible to do this over the phone?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, we can start the process over the phone! We'll just need to verify your details and then you can visit the branch to complete the final steps. Let me know if you'd like to proceed that way!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "\"Ah, yes, please.\""
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Perfect! In that case, let's get started. I'll just need a few details from you, and then we can schedule a convenient time for you to finalize everything. Whenever you're ready, we can begin!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "\"I got it.\"What is the first step?\""
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "The first step is to verify your identity and gather a few details, like your full name, contact information, and the best time for us to follow up.Once we have that, we can move on to the next steps. So, whenever you're..ready, just let me know, and we'll get started right away. I'm here to help every step of the way."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Thank you. I’ll see you at afternoon on Thursday."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Sounds good! I'll look forward to connecting with you on Tuesday. If you have any questions before then, just reach out. Have a great day!"
+    }
+  ]
+}

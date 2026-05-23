@@ -1,0 +1,340 @@
+{
+  "student_id": 35,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S35_W4_T2",
+  "source_file": "data\\raw\\#35\\#35\\#35. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Performance Review Discussion"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hello I’m here for my monthly performance review. I’d like to hear how I went this month"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, thanks for coming in—overall, this month looked solid, and I’ve seen steady effort and reliability from you. To start properly, can you remind me of your role and main responsibilities this month?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello, I'm here for my monthly performance review. I would like to hear how I went this month.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, I’m glad to go over everything with you! Let’s start by reviewing the main goals you had for this month. Could you share what your top priorities were?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yeah, I've been working in this hotel since three months ago. I've been a bartender, waiter,”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, that sounds"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“and a couple things more.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, no worries at all. Feel free to share any details or areas you’d like to focus on, and we’ll go through everything step-by-step."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yeah, you mentioned a couple times that I should to smile a little bit more, should to be more...”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely,"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“close to the guest, and I would like to know about it.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course, that makes sense. We can definitely dive into that and look at how your interactions have been and how to refine them. Is there any specific feedback you’ve received from guests or from your colleagues that you’d like to discuss?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“A couple of my colleagues, they are telling me that I should smile a little bit more.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s definitely a common piece of feedback in hospitality! We can definitely explore some ways to make your interactions even warmer. Is there any particular situation where you felt it was challenging to smile or connect with guests?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Oh yeah, to be honest, the language, it's still a border between the guest and me. Sometimes I can understand them.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I completely understand, and that’s totally normal. We can definitely work on some strategies to help bridge that language gap and boost your confidence. Are there any specific phrases or situations that you find particularly challenging? Transcript Unavailable"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "I get that; sarcasm can definitely be tricky, especially in another language. We can work on recognizing common sarcastic cues and practicing some responses. Would you like to go over some examples or scenarios that have come up before?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“If you have one mind, we'll be nice.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to help with that! We can definitely go through some scenarios and practice how to respond. Just let me know any specific situations you’d like to focus on, and we’ll tackle them together."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Alright, but I cannot imagine any specific example. It's just like making a drink.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "That makes sense!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“For any guest and they start to or she or he start to Make a joke, but I cannot understand it”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "I totally get that; humor can be tricky, especially in a second language. We can definitely go over some common jokes or light-hearted phrases and practice how to respond naturally. We can definitely make it more comfortable for you!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Can you give me an example? Just one?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course! For example, if a guest says something like, “I’d like a drink that’s as strong as my Monday morning,” you can respond with a friendly smile and say, “I’ll make sure it packs a punch!” It’s all about keeping it light and warm. Does that help a bit?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Actually, it's funny. Can you repeat to me, please, but a little bit slowly?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Of course! So, for example, if a guest says, “I’d like a drink that’s as strong as my Monday morning,” you can respond with a warm smile and say, “I’ll make sure it packs a punch!” Hopefully that helps!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Make sure it packs to punch.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Exactly, you’ve got it! Just keep it light and friendly, and it’ll come naturally. If you’d like, we can practice a few more examples as well!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“If you have another one, it would be nice, actually.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely! For instance, if a guest says something like, “I need a drink to survive this week,” you could respond with a cheerful, “I’ve got just the thing to help you unwind!” It’s all about keeping that positive vibe. Let me know if you want to try more!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“It's okay, it's okay for now. But yeah, it sounds pretty cool actually. I have to improve my personal skills.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, and you’re doing great already! Just keep practicing, and over time it’ll feel more natural. And I’m always here to help whenever you need it!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Yeah, for now, I haven't been fired, so I think it's a good sign.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "I’m really glad to hear that you’re looking at it positively! And I’m sure with a bit of practice, you’ll keep improving. If you ever want to run through more scenarios or just chat, I’m here to support you!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“In general, a couple of times I've had a couple of mistakes with the wines, because, you know, I usually work in the wine cellar. A couple of times I have...”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "I understand, and that"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“done a couple mistakes with the wines. So, can you give me an advice for that?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Of course! One helpful approach is to focus on familiarizing yourself with the basics of the wines you handle most often—like their regions, flavor profiles, and common pairings. And practice can definitely help build confidence. If you’d like, we can go over some key tips or even do some practice scenarios together!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“For example, what's the difference between Ashiras and Pinanua?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Great question! So, Syrah tends to be bold, full-bodied, and often has spicy, peppery notes with dark fruit flavors, while Pinot Noir is lighter, more delicate, and tends to have red fruit flavors like cherry and raspberry, with a smoother finish. It’s definitely fun to explore the differences! Let me know if you want to dive deeper into any other varieties as well."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Yeah, for example, I haven't understand so far what's the difference between cocktail and spirit.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely! So,"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Can you refer to me, please?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Of course! So, a spirit is a distilled alcoholic beverage, like vodka, whiskey, or rum, which is typically consumed on its own. A cocktail, on the other hand, is a mixed drink that combines spirits with other ingredients, like juices, syrups, or liqueurs. So, essentially, spirits are the base, and cocktails are the final mixed drinks. Hope that helps clarify it!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“For example, gin and tonic could be considered like spirit or cocktail because according with that explanation, it's a cocktail, but any guest someday just told me that gin and tonic is a spirit.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "That’s a great point! It can definitely be a bit of a gray area. A gin and tonic is indeed a cocktail since it mixes gin, which is a spirit, with tonic water. But sometimes people refer to the spirit itself—gin—as just the drink. It really depends on the context and the person’s perspective. So, it’s always good to clarify what they mean!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“I think we could say that spirit, I know it's like vodka, rum, gin, like just the base of the drink but maybe in that context could be right to say that spirit is just like the base of the drink with something else and the cocktail could be drinks more elaborated, right?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Exactly, that’s a great way to put it! Essentially, the spirit is the core ingredient, and when you mix it with other components, you get a cocktail. And yes, cocktails can definitely be more complex and elaborate. It’s all about that balance and creativity!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Okay, that's a great feedback. And actually, yeah, you helped me a lot.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "I’m really glad to hear that! It’s my pleasure to help. If you have any more questions or need any more clarification, just let me know!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Yeah, what would you recommend I focus on improving next?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "I’d say focusing on building your confidence with the basics is a great start—like getting really comfortable with the main wines and spirits, and practicing those common phrases for guest interactions. And then, as you get more comfortable, you can dive into more complex scenarios or deeper knowledge. Just take it step-by-step, and you’ll do great!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Yeah, I think you are right.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "I’m so glad that resonates with you! Just keep building on what you’ve learned, and I’m sure you’ll keep making amazing progress. And of course, I’m always here whenever you need a hand or some guidance!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Thank you. Could we schedule a follow-up meeting in a few weeks to review progress?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "That sounds like a fantastic idea! I’d be more than happy to do that. Just let me know the best time for you, and we’ll set it up. Looking forward to seeing your progress!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“It could be six weeks.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Perfect, six weeks sounds great! I’ll make a note of that, and we can touch base then to see how things are going. In the meantime, just keep up the great work, and I’m here if you need anything at all!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Thank you. I'll make sure to check details more carefully.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I’m confident you’ll do really well, and I’m always here to support you along the way. Just let me know whenever you need anything."
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Yeah, I'll make those changes and see you in a couple weeks or in the halls soon. Thank you so much for this feedback. I think it was very successful.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m really glad it was helpful for you. I’m looking forward to catching up in a few weeks, and I’m sure you’ll do wonderfully. Take care, and I’ll see you soon!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“See you soon. Thank you.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Absolutely, see you soon! Take care and have a great one!"
+    }
+  ]
+}

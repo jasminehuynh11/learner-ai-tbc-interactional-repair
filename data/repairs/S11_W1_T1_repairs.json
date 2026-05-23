@@ -1,0 +1,66 @@
+[
+  {
+    "dialogue_id": "S11_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner clarifies roleplay roles",
+    "evidence_summary": "The learner clarifies that they want to be the customer in a roleplay, not the barista. The bot acknowledges this and adjusts the scenario accordingly, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S11_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requests slower speech",
+    "evidence_summary": "The learner asks the bot to speak slower because they don't understand well. The bot acknowledges this and slows down its speech, providing a clear response, which resolves the issue."
+  },
+  {
+    "dialogue_id": "S11_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner asks for clarification on 'espresso'",
+    "evidence_summary": "The learner asks for clarification on what 'espresso' means. The bot explains the process of making espresso, resolving the learner's confusion."
+  },
+  {
+    "dialogue_id": "S11_W1_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      21,
+      22
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "misunderstanding of 'medium' as 'median'",
+    "evidence_summary": "The learner misunderstands 'medium' as 'median' when asking about the size. The bot provides an explanation of the medium size in ounces, but the misunderstanding of the term persists."
+  },
+  {
+    "dialogue_id": "S11_W1_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      53,
+      54,
+      58,
+      59,
+      60,
+      62
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner confused by 'savory'",
+    "evidence_summary": "The learner is confused about the term 'savory' and its spelling. The bot clarifies the meaning and spelling of 'savory,' resolving the learner's confusion."
+  }
+]

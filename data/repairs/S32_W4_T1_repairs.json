@@ -1,0 +1,16 @@
+[
+  {
+    "dialogue_id": "S32_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "bot error – verbatim repetition of learner's utterance",
+    "evidence_summary": "In turn 26, the bot verbatim repeated the learner's previous turn (turn 25), indicating a processing error and communication trouble. The bot initiated this trouble by its non-response. The learner did not explicitly address the repetition but instead moved the conversation forward in turn 27, effectively abandoning the specific question about email follow-up. The issue was not resolved, but abandoned."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "dialogue_id": "S9_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner asks the bot to repeat its previous question in turn 20, indicating a lack of understanding. The bot repeats the question in turn 21, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S9_W4_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      74,
+      75
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's suggestion",
+    "evidence_summary": "The learner asks the bot to repeat its suggestion in turn 74, indicating a lack of understanding. The bot repeats the suggestion in turn 75, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S9_W4_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      86,
+      87
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's explanation",
+    "evidence_summary": "The learner asks the bot to repeat its explanation in turn 86, indicating a lack of understanding. The bot repeats the explanation in turn 87, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S9_W4_T2",
+    "repair_id": 4,
+    "turn_indices": [
+      133,
+      134
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's feedback",
+    "evidence_summary": "The learner asks the bot to repeat its feedback in turn 133, indicating a lack of understanding. The bot repeats the feedback in turn 134, and the conversation continues smoothly, indicating the issue was resolved."
+  }
+]

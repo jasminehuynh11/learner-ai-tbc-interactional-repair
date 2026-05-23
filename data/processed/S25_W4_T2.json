@@ -1,0 +1,375 @@
+{
+  "student_id": 25,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S25_W4_T2",
+  "source_file": "data\\raw\\#25\\#25\\#25. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "\"I'm studying business, but I'm not sure it's a right fit.\""
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Got it! So, you're currently studying business, and"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "トランフタリプトを利用できません"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "...you're not entirely sure if it's the right fit for you. No worries at all! We can definitely explore your options and see what aligns best with your goals. Let's dive into it whenever you're ready!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "\"Thank you, but actually, I want to study overseas in the future, so...\""
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That's great to hear!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "\"Is it suit?\""
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Yes, absolutely! It's definitely doable. We can look into the best options and see what fits your plans and interests the most！"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "\"But now I have studied business, SO...\""
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I see, so you've"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "\"Do I have to quit the business course?\""
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That's a great question! It really depends on your long-term goals and what you're aiming for. We can definitely explore whether continuing in business or shifting focus might be best for you. Let's talk through your options!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "\"But what kind of option do you have?\""
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great question! We can look into various pathways, such as specializing in certain areas of business, exploring related fields like marketing or international business, or even considering entirely different disciplines that align with your interests. We can definitely explore those together!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "\"Thank you. Also, it means I can study abroad and there have the business course, right?\""
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Exactly! Studying abroad can definitely give you a wide range of business courses, and you'll have the opportunity to experience different educational systems and cultures as well. We can look into universities that offer strong programs and see which ones might be the best fit for you."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "\"That sounds like something I'd enjoy.\""
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I'm glad to hear that! It definitely sounds like an exciting journey, and we can work together to find the best path that aligns with your interests and goals. Whenever you're ready, we can dive deeper into the details!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "(No scripted)"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Perfect! Feel free to"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "\"Please show me the address.\""
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course! Whenever you're ready, just let me know what specific details you'd like to explore, and we'll take it step by step. I'm here to help whenever you need!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "\"Could you say that again? Sorry.\""
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "No worries at all! I was just saying that whenever you're ready, you can let me know the specific details you'd like to dive into, and I'm here to help you every step of the way. Just let me know!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "\"Thank you.\""
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You're very welcome! Anytime you need assistance or have questions, just let me know. I'm happy to help!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "\"Thank you for watching. I hope you enjoyed this video. If you did, please give it a thumbs up and subscribe to my channel. I'll see you in the next video.\""
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "No problem at all!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "\"I want to study overseas, but how can I prepare now?\""
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That's a great question! We can definitely break down the steps to get you prepared, like improving your language skills, researching universities, understanding visa requirements, and more. We can tackle each of those together!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "\"I say, but it's so hard for me. Maybe.\""
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "I completely understand; it can feel overwhelming at times. But don't worry, we can take it one step at a time, and I'll be here to support you through the entire process. You've got this!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "\"Thank you. Maybe your support is best for me, but how often can I ask you something?\""
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You can ask me anytime you need! I'm always here to help, whether it's frequently or just occasionally. Feel free to reach out whenever you have questions, and I'll do my best to support you!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "\"Also, I have one question.\""
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Of course! Go ahead and ask your question, and I'll be more than happy to help out."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "\"What should I do now if I want to apply for internship next year, because maybe I will go to overseas for one year, so how can I do?\""
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "That's a great plan! To get ready for an internship next year, you can start by polishing your resume, looking into companies and industries that interest you, and maybe even networking with professionals in your field. We can break it down into smaller steps, and I'm happy to guide you through the process!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "\"Thank you so much. I hope I have great experience in the future doing a course.\""
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm sure you'll have an amazing experience ahead, and I'm excited to see all the great things you'll accomplish. Just let me know whenever you need guidance, and we'll make it happen together!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "\"Thanks, bye.\""
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "You're welcome! Take care, and feel free to reach out anytime. Bye for now! Task 3: Responding to Feedback or a Performance Review"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "Hi, I've just finished my class presentation, could you tell about it?"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Sure! I’d be happy to give you some feedback on your presentation. Overall, you did really well in terms of content and organization. Let’s dive into some details now."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "Actually, I didn't remember because I'm too nervous to speak in front of someone, so I can't remember that."
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "I understand that nerves can definitely make it challenging to recall everything. It’s completely normal. Let’s focus on what went well first, and then we can work on strategies to help you feel more at ease in the future."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "My English skill is not good, but I have to improve my skills, so could you tell me about my skills to improve them?"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely! I appreciate your willingness to improve. In terms of your English skills, I noticed that your vocabulary is quite good, and your pronunciation is improving as well. Let’s discuss some specific areas where you can focus and grow even further."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "Actually, I studied in my house by myself."
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "That’s really commendable!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "But I'm not sure how how can I study"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "I understand, and that’s perfectly okay. We can definitely explore some strategies and resources to help you study more effectively and confidently. Let’s break it down step by step."
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "What do you think?"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "I’m saying that we can definitely figure out a plan together, and I’ll support you every step of the way. Just let me know what specific areas you’d like to focus on, and we’ll make it work!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "That sounds great!"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Speaking skill... I think speaking skill... …are definitely something we We have to speak someone to unused a lot, so if you practice regularly"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "Do you do you mind if"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "…you can let me know and I’ll be happy to help you with that."
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "I want to talk."
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "All right, sounds good!"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "Could you talk to me after class?"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to talk with you after class! Just let me know when you’re available."
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "You have a lot of students, so how can I meet up with you?"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "I understand, and I appreciate you being considerate. We can definitely find a convenient time, maybe during office hours or after class on a specific day. We’ll make it work!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "Okay, I see. Thank you for your kindness."
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m always happy to help. Just let me know whenever you need anything."
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "Great! If you have any more questions or"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "study hard until you and me will meet up."
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "That sounds like a plan! I’m looking forward to it, and I’m always here to chat whenever you’re ready."
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "Thank you so much. Next week. See you."
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "You’re very welcome! Looking forward to it. See you next week!"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "student_id": 43,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S43_W1_T1",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering at coffee shop"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, I want to practice ordering at a coffee shop. Can you be the barista and I will be the customer? I want to practice using polite but natural language.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds fun! Alright, I’ll be the barista. Whenever you’re ready, just let me know what you’d like to order, and we’ll take it from there!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Good morning, how are you?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Good morning! I’m doing great, thank you! How about you? What can I get started for you today?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I'm good, thank you. I'm new here, this is my first time trying your coffee. Do you have any recommendation?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Of course! Well, we have a classic cappuccino if you enjoy a balanced coffee with some foam, or if you like something sweeter, our vanilla latte is really popular. Do any of those sound good to you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“The lattes sound good. May I ask what is the cappuccino that you mentioned before?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely! A cappuccino is made with equal parts espresso, steamed milk, and milk foam, so it’s a bit stronger and frothier. It’s perfect if you like a rich coffee flavor. Let me know if you’d like to try that instead!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“So, what is the difference between the cappuccino and a latte?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Great question! So, a latte has more steamed milk and just a small amount of foam, making it creamier and a bit milder in flavor. Meanwhile, a cappuccino has more foam and less milk, so it’s a bit stronger and airier. It really depends on what you prefer!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“So the cappuccino will have stronger coffee taste.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Exactly, you got it! The cappuccino definitely has a more pronounced coffee flavor because of that balance of foam and espresso. So, if you like a bolder taste, that might be the way to go!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I can't drink too strong coffee. My heart beats so fast, especially when my stomach is empty. Maybe I will get something less strong. Coffee?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! In that case, a vanilla latte or maybe a caramel macchiato would be a great choice, since they’re a bit milder and sweeter. Would you like to try one of those?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Oh yeah, that sounds great. Maybe I will try the macchiato, the caramel one.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Perfect choice! A caramel macchiato is delicious and nicely balanced. Would you like it hot or iced today?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Today is pretty hot, so I will get some ice, please.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, an iced caramel macchiato it is! That sounds refreshing. Anything else you’d like to add, maybe a pastry or something to go with it?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, I saw that you have some keys over there. Do you mind if I have a look?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course, not at all! We do have a lovely selection of cakes. Feel free to let me know which one catches your eye, and I'll make sure to add it to your order!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Thank you. They all look amazing. Are there any gluten-free cakes?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do have a couple of gluten-free options. There's a flourless chocolate cake and also a gluten-free almond cake. Let me know if either of those sounds good to you!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Oh the almond cakes are great. Do you have any combo with two coffees and one slice of cake?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, definitely! We do have a combo deal that includes two coffees and a slice of cake, so that works perfectly. I’ll get that all set for you! Anything else you’d like to add?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“That's perfect. I just got the message from my friend. She asked if I can get her a mocha.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, I can add a mocha for your friend as well! So we’ll have the iced caramel macchiato for you, a mocha for your friend, and the almond cake. That sounds like a great order! Anything else before I finalize it?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I have a question about the mocha. I don't know if the mocha has a very strong coffee taste as well, because my friend can drink strong coffee as well.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "I totally understand! A mocha does have espresso in it, but it’s balanced out with a good amount of steamed milk and chocolate, so it’s usually smoother and sweeter. It’s definitely less intense than a straight cappuccino. But if your friend prefers something even milder, we can definitely adjust the coffee strength. Just let me know!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yes, thank you. Plea justice. She can't drink strong coffee.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course, I’ll make sure to keep the mocha nice and mild for her, with a bit more milk and chocolate. That should be perfect! All set then. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Oh, actually, sorry, do you have any almond milk? Um, she just texted me, she said she wants some almond milk in her mocha.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "No worries at all! We do have almond milk available, so I’ll make sure to use that for her mocha. That’ll keep it nice and gentle for her. Anything else I can do for you?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I just had quick questions. I saw those coffee beans over there. They all smell so good. May I ask where they're from?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely! We source our coffee beans from a variety of regions, but most of them come from places like Colombia and Ethiopia. They’re all specialty-grade beans, so they have really lovely, unique flavors. If you’re curious about a specific one, I’m happy to share more details!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“I think I'm good, but I used to drink a lot of coffee back home, but I stopped for a time. I just started to drink again. That's why I just want to start with something mild.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "That makes perfect sense! It’s always nice to ease back into it with something gentle. I’m sure you’ll enjoy the iced caramel macchiato and the almond cake. If you ever want to explore different flavors, I’m here to help!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Oh yes, thank you so much. Oh no, I'm so sorry. My friend just asked me again, and this time she wants another cappuccino for her friends of hers.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "No worries at all! I can definitely add another cappuccino to the order for her friend. We’ll have everything sorted out. Just let me know if there’s anything else you need, and I’ll make sure it’s all perfect for you!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Thank you so much. So can I have one caramel macchiato, one mocha with almond milk, one cappuccino, and one slice of almond cake, please.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "one caramel macchiato, one mocha with almond milk, one cappuccino, and one slice of almond cake. Everything is set! If you need anything else, just let me know."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Can I ask the auditors again? I'm sorry, I'm just worried that I made some mistakes.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Of course, no problem at all! So, we have one iced caramel macchiato for you, one mocha with almond milk for your friend, one cappuccino for her other friend, and one slice of almond cake. That’s everything! If that sounds good, we’re all set."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Yes, that sounds great. Can you make my order to take away, please?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll get everything packed up for takeaway. No problem at all! Just give me a moment, and I’ll have it ready for you. Let me know if there's anything else you need in the meantime!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Can I ask how long would it take?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Of course! It should only take a few minutes to get everything prepared and packed up, so you’ll have it ready in about five minutes or so. If you need anything else while you wait, just let me know!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Oh, that's cool. No problem. I will just be near the door.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Sounds great! I'll get everything ready for you, and I'll let you know as soon as it's all set. Just hang tight, and I’ll be right with you!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Really appreciate your help. Thank you so much. Have a great day.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "You’re so welcome! It’s my pleasure. You have a fantastic day as well, and enjoy your coffee and cake! If you need anything else, just let me know."
+    }
+  ]
+}

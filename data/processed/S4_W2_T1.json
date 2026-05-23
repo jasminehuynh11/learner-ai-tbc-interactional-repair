@@ -1,0 +1,245 @@
+{
+  "student_id": 4,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S4_W2_T1",
+  "source_file": "data\\raw\\#04\\#04\\#4. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking or Changing a medical appointment 🗨️"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I’d like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course. What’s the reason for your visit today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Hi, my name is Pamela, and I want to make an appointment with the doctor, because I've had a sore throat and cough for a few days. And cough for a few days."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, Pamela. Sorry you’re not feeling well. How long exactly have you had these symptoms?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Maybe 5 or 7 days."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it. Have you had any fever or other symptoms besides the sore throat and cough?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Yes, I have a pain in my nose too."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Okay, thanks for letting me know. Would you prefer to see a male or female doctor for your appointment?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "For me, it's okay, whatever. It's not a problem for me."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright. Do you have a preferred day or time for the appointment?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Do you have appointment on Saturday?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Let me check—yes, we do have Saturday slots. Would you prefer morning or afternoon?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "I prefer morning, please."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure thing. We have openings at  a.m. and  a.m.—which time works better for you?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "At 9.30, it's OK, please."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Perfect. Can I confirm your phone number, Pamela, in case we need to reach you about your appointment?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Yeah, for sure, it's 06-412-5152-63. And do I need to bring my Medicare card?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Thanks, I’ve noted your number. Yes, please bring your Medicare card and a photo ID when you come in. Would you like me to send you a text reminder for your appointment?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Yes, please. It will be fine. How long is the appointment likely to take?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Usually about 15 to 20 minutes, depending on what the doctor needs to check. Will this be your first visit to our clinic, Pamela?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "This is my first visit, so do I need to bring something else with me?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Good question. Just your Medicare card, photo ID, and any medications you’re currently taking. Do you have any allergies to medicines that the doctor should know about?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Not really, I'm not allergic to medicines, so it's okay."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright, that’s good to know. You’re all set for Saturday at  a.m. Would you like directions to the clinic as well?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Yes, please. And do you have parking for patients?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, we do—there’s free parking just behind the clinic. We’re located at 25 Greenfield Road, right next to the pharmacy. Will you be driving yourself here?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Yes, of course, and what is the name of my doctor?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Your appointment will be with Dr. Sarah Collins, one of our general practitioners. Would you like me to note if you prefer to see her again in the future?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "I want to know how I feel in the appointment, so after that I will tell you if I want to see her again in the future."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That sounds perfectly fine, Pamela. You can decide after your visit. Is there anything else you’d like to ask about your appointment?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Yeah, I have another question. In fact, do you think that I need a plot test for this type of appointment?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Just to be sure—did you mean a swab test or blood test?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Yeah, yeah, you're right. Swap test."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Got it! For a sore throat and cough, the doctor might do a throat swab if she suspects an infection, but it depends on what she finds during the exam. Have you taken any medicine so far for your symptoms?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Yeah, for relief my pain, three days ago I went to chemist, and they give me demazine. There are tablets, two days tablets during the day and two tablets during the night."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Alright, thanks for explaining. Has the Demazine helped at all with your sore throat or cough?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "No, not really. That's the reason that I prefer go to the doctor."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Makes sense, Pamela. It’s best to have it checked properly. Just to confirm—are you still coughing a lot, or has it gotten a bit better?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Yeah, a little bit. I can say that my cough has gotten a bit better."
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "That’s good to hear. Since you’re improving slightly, the doctor will likely check your throat and chest to see if you need any extra treatment. Is there anything else you’d like to ask before your visit on Saturday?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Is bulk billing available for students?And do you offer a kind of language support for appointments? Or can I bring a person with me, a friend, that can help me with the translation?"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Yes, we do bulk bill students if they have a valid Medicare card, so you’ll be covered. And sure—you can bring a friend to help with translation, that’s no problem at all. Would you like me to note that in your booking?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "Yes, please. It will be fine. And the other thing, the book bill, it's fantastic. Thank you very much."
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "You’re very welcome, Pamela. I’ve added the note about your friend and confirmed bulk billing for you. See you on Saturday at  a.m.—take care until then!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "Thank you, see you, bye."
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "You’re welcome, Pamela. See you on Saturday—take care and feel better soon. Bye! ____________"
+    }
+  ]
+}

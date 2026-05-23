@@ -1,0 +1,255 @@
+{
+  "student_id": 21,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S21_W2_T3",
+  "source_file": "data\\raw\\#21\\#21\\#21. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Visiting a Bank and Asking for Help with Banking Services Scenario"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "You are visiting a local bank branch or calling customer service to request help with everyday banking services. You may need to open a new account, update your details, or ask about specific features such as online banking or international transfers. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a bank staff or customer service officer. You can choose situations from the examples below; start with a simple request and try a more detailed interaction by asking about documents, account features, or banking procedures."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course. I’ll take the role of a bank customer service officer. Hello, welcome to Maple Bank. How can I help you today? Are you looking to open a new account, update your details, or ask about a specific service?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to open my new saving account.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! I'd be happy to assist you with that. May I start by confirming your identification details? Do you have a valid ID with you right now?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yeah, I have Penang passport.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, that works well. We’ll also need your proof of address. Could you provide a recent utility bill or a bank statement?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I'm sorry.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries at all. Whenever you're ready, just let me know. Is there anything else I can help you with in the meantime?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Sorry, I couldn't understand your opinion, previous one, so could you tell me again?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course, no problem. I was just mentioning that we’ll need a proof of address, like a recent utility bill or bank statement, along with your passport. Let me know if you have those documents ready."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“okay so i'm not actually i'm an international student so i'm not student so i'd like i'm working i come i came here for working holiday so is it okay to bring only passport”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. Yes, your passport will definitely work as your ID. For proof of address, we can also consider a rental agreement or a letter from your employer if you have one. Let me know what you can provide."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“This is the only passport I can provide.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s perfectly fine. We can proceed with your passport for identification. We may just need to verify your address in another way. Let me know if you have any questions or if you need help with the next steps."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Can I also start up online banking today?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, we can set that up for you today as well. I’ll guide you through the process. Do you have a valid email address that we can use to register your online banking?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Okay, thank you. So, do I need to make an appointment, or can I walk in?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "You’re welcome! You can absolutely walk in, but if you prefer, you can also make an appointment to ensure faster service. Whatever works best for you!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“So, could you have an appointment?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course, I can help you schedule that. Could you let me know what date and time would be most convenient for you?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Is it available to come this afternoon?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Let me check that for you. We do have availability this afternoon. What time would you prefer, around 2 PM or maybe a bit later?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“2 p.m. is fine.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Great, I’ll schedule you for 2 PM this afternoon. If you need any further assistance before your appointment, just let me know. Looking forward to seeing you then!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Thank you, and do I need to something to do before I go, I come?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You’re welcome! Just make sure to bring your passport and any proof of address you have, and we’ll handle the rest. If you have any questions before then, feel free to reach out."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You’re very welcome! Have a great day, and we’ll see you this afternoon. Top of Form Task 3: Enquiring About a Rental Property or Housing Inspection Scenario"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "You are calling, emailing, or visiting a real estate agency to ask about a rental property. You may want to attend an inspection, ask about the application process, or follow up after submitting your documents. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a property manager or real estate agent. You can choose situations from the examples below; start with a simple enquiry and try a more detailed interaction by asking about inspections, application documents, or follow-up procedures. Learning objectives: • Use polite, clear language when enquiring about rental properties. • Ask specific questions about availability, inspections, or applications. • Practise understanding and confirming important information. • Gain confidence communicating in housing-related situations. • (Advanced option) Handle more detailed rental enquiries by discussing application steps, document requirements, or follow-up actions. Instructions: Try to: • Ask about property details or inspection times. • Inquire about the application or rental process. • Confirm next steps or follow up on your application. • Finish the conversation politely and professionally. • (Advanced option) Use the extension prompts below to have a longer conversation. Examples of situations and prompts: 1. Asking about inspections • “Hi, I’m interested in the two-bedroom unit on Main Street.” • “Are there any inspection times this weekend?” • “Do I need to register before attending?” 2. Asking about the property • “Is the property furnished or unfurnished?” • “Are pets allowed?” • “How much is the bond?” 3. Clarifying the application process • “Can I apply online or do I need to visit the office?” • “What documents do I need to include with my application?” • “How long does it take to hear back?” 4. Following up on an application • “I submitted my application yesterday. Could you confirm if it was received?” • “Do you know when a decision will be made?” • “Should I provide any other documents?” 5. Finishing the conversation politely • “Thank you for the information.” • “I’ll attend the inspection on Saturday.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Sure. I’ll be your real estate agent for this practice. Let’s start: Hello, this is Sarah from Greenleaf Property Management. How can I help you today—are you calling about a specific rental property?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Hi, I'm interested in the two-bedroom unit on Main Street.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Great! That unit is available. Are you looking to know about inspection times or more details about the property?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to know inspection times on this weekend.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely! We have an inspection scheduled for Saturday at 10 a.m. Would that time work for you?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“That's fine. So do I need to register before attendance?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Yes, we do ask that you register beforehand. I can send you the registration link if you’d like. Would you like me to email that to you?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Yes, please. And what document do I need to bring when I apply, or yeah, inspection, or something like that?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure! Typically, you’ll need proof of income, identification, and rental references. I’ll include all those details in the email as well. Does that sound good?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Thank you for the information. I'll attend the inspection on Saturday, 10 AM.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "You’re welcome! I’ll send that email shortly. If you have any other questions, just let me know. Looking forward to seeing you on Saturday!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“And should I provide any other document? No, sorry. Do you know when a decision will be made?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "No worries at all! Typically, we aim to make a decision within about three to five business days after receiving your application. I’ll let you know if we need any additional documents as well."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“I got it.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Perfect! If"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Alright, sounds good! If you have any other questions before the inspection, feel free to reach out. Looking forward to meeting you on Saturday!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Yeah, thank you. Bye-bye.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "You’re welcome! Take care and goodbye! Top of Form"
+    }
+  ]
+}

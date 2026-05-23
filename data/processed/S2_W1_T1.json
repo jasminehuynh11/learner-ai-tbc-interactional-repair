@@ -1,0 +1,85 @@
+{
+  "student_id": 2,
+  "week": 1,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S2_W1_T1",
+  "source_file": "data\\raw\\#2\\#2\\#2. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1 (AI model ChatGPT 4o)"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello, hello, can I get a chai latte, please?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hi there! Absolutely, I'd love to make you a chai latte. Would you prefer that with regular milk, or do you have another preference?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Um, regular mail, please."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Perfect! And would you like that hot or iced today? It's always nice to have options, especially if it's a warm day!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Hot please?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Student and AI (Transcript not available, Student would like a slice of cake and AI provided some options)"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Chocolate cake is fine. Thank you."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Great choice, chocolate cake it is! I’ll have that ready for you in just a moment. Do you have any preference for how sweet or spicy you like your chai latte? I can adjust it a bit if you like!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "This is normal. It's fine. And I want to ask, where's the restaurant? Where's the restaurant?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "No problem, I'll keep it just as it is! And the restroom is right around the corner to your left. Just let me know if you need anything else while you're here!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Okay, thank you. Um, did you have, uh, when I buy a coffee, did you have a card to remember how I order? How to, uh, then you, when I get a 10, you can, uh, give me one Wolfberry."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Ah, you're talking about a loyalty card, right? Yes, we do have one!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes, that’s all I want, thank you."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "You're very welcome! Enjoy your chai latte and that chocolate cake. Let me know if you need anything else, and have a wonderful day!"
+    }
+  ]
+}

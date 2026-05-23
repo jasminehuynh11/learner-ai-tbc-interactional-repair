@@ -1,0 +1,120 @@
+{
+  "student_id": 38,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S38_W1_T1",
+  "source_file": "data\\raw\\#38\\#38\\#38. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Good morning. Yes, I would like to order a coffee, but I do not know which one sounds good. Do you have any recommendation for me?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Good morning! Absolutely, I’d be happy to help. If you’re in the mood for something classic, a latte or a cappuccino is always a great choice. Or if you’d like something a bit sweeter, a caramel macchiato could be lovely. Let me know what you’re in the mood for!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Caramel macchiato sounds lovely, can I have one, please? Is it possible to add lactose-free milk?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course! I’ll make sure to prepare your caramel macchiato with lactose-free milk. That’ll be no problem at all. Is there anything else you’d like to add or any other preferences?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, I would like to take a breakfast, but I don't know what to take. Hm…I think I will go with eggs and toast.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That sounds great! I’ll get that eggs on toast ready for you. If you’d like to add anything else, like some sides or a drink, just let me know!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll add two hash browns and a side salad to your order as well. That’ll make a delicious and balanced breakfast! If there's anything else you’d like, just let me know!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Can I get an orange juice too, please?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course! I’ll add a fresh orange juice to your order as well. That’s going to be a perfect combination. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Here is their student discount.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Yes, we do offer a student discount! Just let us know your student ID when you’re ready to pay, and we’ll apply the discount for you. Anything else I can help you with?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Ah yes, I would like to know the percentages of the discounts, please.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure! Typically, our student discount is about 10% off the total bill. If there are any special promotions, we’ll let you know at the time as well. Just bring your ID, and we’ll take care of the rest!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Thank you. I would like to know how much all of that would that be.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course! Let me quickly tally everything up for you. We have the caramel macchiato with lactose-free milk, the eggs on toast with two hash browns, a side salad, an orange juice, and the student discount applied. I’ll calculate the total and let you know right away!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Sure thing, I can't wait.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Thank you for your patience! So, after applying the discount, your total comes to about $18.50. If that works for you, I’ll get everything ready and bring it right over!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Everything is perfect. Thank you very much for your service.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm so glad everything’s perfect. If you need anything else at all, just let me know. Enjoy your meal!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Thank you very much.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You're very welcome! Have a wonderful time, and if you need anything else, just let me know. Enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+TASK 1: 
+English Conversational Partner ：
+Hey there! How's it going? What kind of roleplay scenario are you interested in today? Let me know, and we can jump right in!
+You said:
+“Here is a scenario. I am speaking with an academic advisor or career counselor to get guidance about my current study plans or future career options. I want to explain my situation, ask for advice and clarify next steps, practice speaking clearly and professionally in a formal setting.”
+00:23
+English Conversational Partner ：
+That sounds great!
+You said:
+“I will need to define the chatbot's role as a university advisor or career counselor.”
+00:09
+English Conversational Partner ：
+Absolutely! As your academic advisor or career counselor, I'll be here to help you navigate your study plans, explore career options, and figure out your next steps. Feel free to share your current situation, and I’ll guide you from there. Whenever you're ready, just let me know!
+You said:
+“Hi, I'm studying graphic design right now, but I'm not sure if it's the right fit.”
+00:09
+English Conversational Partner ：
+I see, got it! Well, it’s totally normal to feel uncertain. Let's start by exploring what you enjoy most about graphic design and what areas you might be curious about. What are some of your favorite aspects of the field so far?
+You said:
+“Actually, I like design, but not graphic design, I think, because I'm afraid the AI, with the development of AI, I'm afraid the AI will replace my workplace in the future.”
+00:16
+English Conversational Partner ：
+I completely understand your concern. It's definitely a topic on a lot of people's minds. We can explore related fields that might be more future-proof or ways to adapt your skills. What kinds of areas or industries are you interested in, or what skills do you enjoy using the most?
+You said:
+“Actually, I think...”
+00:01
+English Conversational Partner ：
+No worries, take your
+You said:
+“I want to go to the international company like...”
+00:08
+English Conversational Partner ：
+Got it, that sounds exciting! We can definitely look into career paths that align with international companies. Do you have any specific regions or companies in mind, or any particular roles you're curious about?
+You said:
+“I don't know, but I'm thinking about, should I need to, if I will go to the international company, like the big scale international company, should I need to graduate from bachelor degree and apply the master degree?”
+00:31
+English Conversational Partner ：
+That’s a great question! It really depends on the company and the role you’re aiming for. Some international companies do value a master's degree, especially for more specialized positions, but often a solid bachelor's degree and relevant experience can be enough. We can definitely look at your specific goals and see what pathway might be best. What kind of roles are you considering in the international arena?
+You said:
+“And also, how can I decide between doing future study or starting work after graduation?”
+00:11
+English Conversational Partner ：
+That’s definitely a big decision! It often helps to consider your long-term career goals, the industry requirements, and your personal preferences. Sometimes gaining work experience first can give you valuable insights, while further studies can deepen your expertise. We can definitely weigh the pros and cons of each path and figure out what aligns best with your goals. Let me know what you're leaning towards!
+You said:
+“What should I do now if I want to apply for an internship next year?”
+00:06
+English Conversational Partner ：
+Great question! To get started, I'd recommend focusing on a few key steps. First, you can identify the companies and industries you're interested in. Then, work on building a strong portfolio and refining your resume. Also, networking is really important, so consider attending industry events or connecting with professionals on LinkedIn. And of course, we can map out a timeline and specific milestones to keep you on track. Sound good?
+You said:
+“Yeah, sounds good. Thank you. Thank you for your help.”
+00:03
+English Conversational Partner ：
+You're very welcome! I'm glad I could help. If you have any more questions or need guidance along the way, just let me know. Good luck with everything!
+
+
+
+TASK 2: 
+You said:
+“Hi, here is a scenario. I'm a part of a team working on a group project or task. I need to share opinions, agree or disagree, politely and then negotiate rules, guidelines, or contributions.”
+00:17
+English Conversational Partner ：
+That sounds like a great
+You said:
+“Practice speaking respectively and collaborate relatively in a semi-formal setting. I need to define the chatbot's roles as a teammate or project group member.”
+00:18
+English Conversational Partner ：
+Absolutely, that makes perfect sense! So, in this scenario, I'll act as a team member alongside you, and we can practice sharing opinions, handling disagreements politely, and negotiating roles and contributions. Whenever you're ready, just let me know the context or the scenario, and we’ll jump right in!
+You said:
+“Hi, we need to choose the presentation order. What do you think works best?”
+00:06
+English Conversational Partner ：
+Hey! That’s a great question. I think it really depends on the flow of the content and who’s most comfortable with their section. Do you have any thoughts on which topics might naturally lead into each other, or how we might want to balance the order?
+You said:
+“Yeah, I think we need to separate our parts.”
+00:07
+English Conversational Partner ：
+Absolutely, that makes sense! We can definitely break it down so that each part flows smoothly and everyone has a distinct role. Do you have any particular order in mind, or should we discuss which sections should go first and which should follow?
+You said:
+“Okay, I think firstly we should present first so we can have more time to write.”
+00:08
+English Conversational Partner ：
+That sounds like a solid plan! Starting first definitely gives you a head start and more time to refine things. Let’s also make sure we’re all clear on our deadlines and what each person needs to prepare. If you’d like, we can go over the specific topics and outline the order together.
+You said:
+“Yeah, so who wants to do the writing part? I think I'm good at research. I want to do the researching part.”
+00:13
+English Conversational Partner ：
+That’s a great approach! It definitely helps to play to everyone’s strengths. So, we can have you focus on the research part, and then we can assign the writing and the presentation parts to the others. Let’s coordinate and make sure everyone’s comfortable with their roles. Sound good?
+You said:
+“And, uh...”
+00:01
+English Conversational Partner ：
+Absolutely, and we
+You said:
+“We make sure everyone is doing their part fairly.”
+00:04
+English Conversational Partner ：
+Exactly, that’s really important! We can set clear checkpoints and keep communication open so everyone stays on track. That way, we can ensure a smooth collaboration and a great final result. Let’s keep it all organized and supportive!
+You said:
+“Okay, and, uh, uh, so...”
+00:04
+English Conversational Partner ：
+No worries at all! We can take it step by step. Just let me know whenever you’re ready to dive deeper into any details, and we’ll make sure everything goes smoothly. Feel free to share anything else on your mind!
+You said:
+“I think we need to set a due time.”
+00:06
+English Conversational Partner ：
+Absolutely, setting a clear deadline is crucial! That way, everyone knows what to aim for and we can stay on track. Let’s definitely agree on a timeline that works for everyone, and we’ll keep each other accountable. Sounds like a plan!
+You said:
+“I think the deadline should be on this weekend, and everyone do their, finish their part, and we can communicate each other, and sharing the PowerPoint”
+00:20
+English Conversational Partner ：
+That sounds perfect! Setting the deadline for this weekend will give everyone enough time to wrap up their parts, and then we can come together, share the PowerPoint, and make any final adjustments. It’s going to be great! Let’s keep the lines of communication open, and we’ll make it a smooth process.
+You said:
+转录不可用
+00:04
+English Conversational Partner ：
+Absolutely, and if anything else comes up, just let me know. I’m here to help and support you every step of the way. We’ll make sure everything goes smoothly and turns out great!
+You said:
+“Do you want?”
+00:00
+English Conversational Partner ：
+Absolutely, I’m here
+You said:
+“Present. I want to ask, do you like to presentation? Do you want to be a speaker?”
+00:09
+English Conversational Partner ：
+That’s a great question! I do enjoy presenting and speaking, and I’m definitely open to taking on that role if it helps the team. But I’m also happy to support and collaborate in whatever way works best for everyone. Let me know what you think would suit the team the most!
+You said:
+“I think you can beat the presentation, and good luck.”
+00:11
+English Conversational Partner ：
+That sounds wonderful, thank you! I’ll do my best to make it as smooth and engaging as possible. And if you need any help along the way, just let me know. Good luck to all of us, and I’m excited to see how it turns out!

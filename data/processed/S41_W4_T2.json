@@ -1,0 +1,85 @@
+{
+  "student_id": 41,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S41_W4_T2",
+  "source_file": "data\\raw\\#41\\#41. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, here is a scenario. I'm a part of a team working on a group project or task. I need to share opinions, agree or disagree, politely and then negotiate rules, guidelines, or contributions.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Practice speaking respectively and collaborate relatively in a semi-formal setting. I need to define the chatbot's roles as a teammate or project group member.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, we need to choose the presentation order. What do you think works best?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yeah, I think we need to separate our parts.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Okay, I think firstly we should present first so we can have more time to write.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yeah, so who wants to do the writing part? I think I'm good at research. I want to do the researching part.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“And, uh...”"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“We make sure everyone is doing their part fairly.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, and, uh, uh, so...”"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I think we need to set a due time.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I think the deadline should be on this weekend, and everyone do their, finish their part, and we can communicate each other, and sharing the PowerPoint”"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "转录不可用"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Do you want?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Present. I want to ask, do you like to presentation? Do you want to be a speaker?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I think you can beat the presentation, and good luck.”"
+    }
+  ]
+}

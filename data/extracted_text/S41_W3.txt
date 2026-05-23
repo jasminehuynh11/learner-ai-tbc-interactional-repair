@@ -1,0 +1,171 @@
+TASK 1: 
+
+You said: 
+“Here is a scenario. I'm connecting my house's provider or internet company to report that the internet isn't working. I need to describe the problem, ask for assistance, and check when the issue will be fixed. Practically speaking, clearly and productively in service society, I need to define the chatbot's roles as housing managers or internet support staff. I can choose a situation from examples below, start with a simple report, and try a more detailed interaction by asking about troubleshooting tips.”
+00:50
+English Conversational Partner :  
+Got it! Let's say I'm your internet support agent. We can start with a simple report of your issue, and then we can dive deeper into troubleshooting steps if needed. Whenever you're ready, just let me know what the problem is, and I'll guide you through the process.
+You said:
+“Okay, I'm ready. Hi, I have some problem. My internet has some problem. I think maybe it's my router isn't work.”
+00:13
+English Conversational Partner :  ：
+Alright, I’m sorry to hear that. Let's get this sorted out. Could you let me know if there are any specific error messages you’ve noticed, or if the internet is down completely in all rooms of your house?
+You said:
+“I think that the internet is completely down in my house.”
+00:05
+English Conversational Partner :  ：
+Got it, thanks for that info. Have you tried restarting your router or checking if the cables are securely connected? That can sometimes help.
+You said:
+“Yeah, I have checked my router and the connection. Everything is okay, but it doesn't work. And I know my area isn't voltage. So I don't know what happened.”
+00:18
+English Conversational Partner :  ：
+I see, that does sound frustrating. In that case, we might need to run a more detailed diagnostic. Could you let me know the model of your router, and if you’ve noticed any lights or indicators on it that might be unusual?
+You said:
+“Actually, I'm not sure my routers, I'm not sure could do, is there any technician will come to my apartment to help me?”
+00:18
+English Conversational Partner :  ：
+Absolutely, we can arrange for a technician to visit. Could you let me know your address and the best time for the appointment, so we can schedule that for you as soon as possible?
+You said:
+“What time the technician will come here?”
+00:03
+English Conversational Partner :  ：
+We can definitely arrange a time that works for you. Could you let me know what day and time would be most convenient, and I’ll do my best to schedule it accordingly?
+You said:
+“It's available for tomorrow. Tomorrow morning about 10 a.m.”
+00:05
+English Conversational Partner :  ：
+That works perfectly! I’ll arrange for the technician to come by tomorrow morning at 10 a.m. We’ll confirm everything and make sure you’re all set. If there’s anything else you need in the meantime, just let me know!
+You said:
+“And also, what should I try before you send someone?”
+00:05
+English Conversational Partner :  ：
+Great question! Before the technician arrives, you can try power cycling your router by unplugging it for about 30 seconds and then plugging it back in. Also, checking any loose cables or making sure that the modem is connected properly can help. And if you notice any specific error lights, let me know!
+You said:
+“So, should I wait until tomorrow before someone call me?”
+00:06
+English Conversational Partner :  ：
+Yes, it’s usually best to wait until the technician arrives, especially if the troubleshooting steps don’t resolve the issue. But if you do notice anything unusual before then, feel free to reach out, and we’ll do our best to help.
+You said:
+“Okay, and also I want to know is this for free or should I need to pay some day post”
+00:12
+English Conversational Partner :  ：
+That’s a great question! Typically, if it’s an issue covered under your service plan, the technician visit is free of charge. But if it’s something outside of that, there might be a fee. I can definitely check the details for you and confirm once we schedule the appointment.
+You said:
+“Yeah, um, okay, um, and, um...”
+00:05
+English Conversational Partner :  ：
+Absolutely, no worries at all! If you have any more questions or need anything else, just let me know. I’m here to help whenever you need!
+You said:
+“And also, um, and also, I think my...”
+00:05
+English Conversational Partner :  ：
+No problem at all! Whenever you’re ready to share more details, just let me know, and we’ll keep working through it together.
+You said:
+“I want to know if, um, um, how can I stop my...”
+00:07
+English Conversational Partner :  ：
+Of course! Just let me know what you’d like to stop or what you need help with, and I’ll be
+You said: 
+“So, I want to know...”
+00:02
+English Conversational Partner :  ：
+Of course, I’m here and listening carefully.
+You said:
+“If I”
+00:02
+English Conversational Partner :  ：
+Take your time, and whenever you’re ready, just let me know. I’m here to help with whatever you need.
+You said:
+“This transcript may not be transcribed.”
+00:00
+English Conversational Partner :  ：
+Absolutely, I’m here for that. Just let me know what you’d like to change or
+You said:
+“If I want to change my apartment, if it's available for my router, how can I change my router?”
+00:09
+English Conversational Partner :  ：
+Got it! If you’re looking to change your router, you can definitely contact your internet provider for an upgrade or a replacement. They can guide you through the available options. And if you need any help with that process, I’m happy to assist!
+You said:
+“Okay, thank you. I got it. Bye.”
+00:02
+English Conversational Partner :  ：
+You’re very welcome! Take care, and if you need anything else, just let me know. Bye for now!
+
+
+TASK 3:
+You said: 
+
+“Here is a scenario I need to practice my English. Scenario is something is broken or needs flexing in my rental accommodation. I contact my property manager or landlord to request a repair, practice speaking clearly and policy in service settings. I will need to define the chatbot's role as a property manager or housing agent.”
+00:33
+English Conversational Partner :  ：
+Absolutely, that sounds great! I’ll be your property manager. Let’s get started. Just let me know what issue you’re facing in your rental, and we’ll go from there. What’s the problem you need repaired?
+You said:
+“My heating is broken, I think. It doesn't work, and there is no hot water in my apartment.”
+00:12
+English Conversational Partner :  ：
+Oh, I’m sorry to hear that. That definitely sounds uncomfortable. Let’s get that sorted. Could you tell me when you first noticed the heating and hot water issue?
+You said:
+“I don't know, but I restart again and again, and I don't know what is happening.”
+00:11
+English Conversational Partner :  ：
+No worries, I understand. We’ll figure it out. Could you let me know the make or model of the heating system, if you know it? That’ll help us diagnose the problem more quickly.
+You said:
+“Actually, I don't know, um, is there have any, will you send a plumber or handyman to fix my”
+00:12
+English Conversational Partner :  ：
+We’ll definitely send someone over to help. Could you let me know your preferred time for the repair, or if there’s a specific day that works best for you?
+You said:
+“Can someone come today or tomorrow?”
+00:02
+English Conversational Partner :  ：
+Sure, I’ll arrange for someone to come as soon as possible. Could you please confirm your address and the best contact number so we can coordinate with you?
+You said:
+00:02
+English Conversational Partner :  ：
+Perfect, thank you!
+You said:
+“Yeah.”
+00:00
+English Conversational Partner :  ：
+All right, I’ll make sure we have everything set up. If there’s anything else you need, just let me know. Otherwise, we’ll arrange the repair and keep you updated.
+You said:
+“Should I turn off the water until they come?”
+00:04
+English Conversational Partner :  ：
+That’s a good idea, just to be on the safe side. If you’re comfortable, turning off the water might help prevent any issues. And of course, if you need any guidance, just let me know.
+You said:
+“Um, should I, should I prepare anything?”
+00:02
+English Conversational Partner :  ：
+It would be great if you could clear the area around the heating unit or any access points, just to make it easier for the technician. Other than that, you should be all set!
+You said:
+“Could you send me a confirmation when the repair is scheduled?”
+00:05
+English Conversational Partner :  ：
+Of course, I’ll make sure to send you a confirmation once everything is arranged. You’ll have all the details, and if you have any questions, just reach out.
+You said:
+“Also, I want to know, to fix my hating system, should I pay some of the bills or some of the”
+00:12
+English Conversational Partner :  ：
+That’s a great question. Typically, it depends on the terms of your lease and the nature of the repair. I can definitely look into that for you and let you know what applies in your situation.
+You said:
+“And also, should I be worried about any long-term damage?”
+00:04
+English Conversational Partner :  ：
+I understand your concern. Generally, we’ll assess the situation thoroughly, and we’ll make sure everything is properly repaired to prevent any long-term issues. But I’ll keep you updated throughout the process and let you know if there’s anything to be concerned about.
+You said:
+“And also, is there an emergency number that I can call on the weekends?”
+00:06
+English Conversational Partner :  ：
+Yes, absolutely! We do have an emergency contact number for weekends and after hours. I’ll make sure to provide that information so you can reach us if anything urgent comes up.
+You said:
+“Okay, thank you Please Please help me book the book the repair”
+00:08
+English Conversational Partner :  ：
+Of course! I’ll take care of that right away. I’ll confirm the appointment and send you all the details shortly. If you need anything else, just let me know!
+You said:
+“No, thank you.”
+00:01
+English Conversational Partner :  ：
+You’re very welcome! If anything comes up, feel free to reach out. Have a great day!
+

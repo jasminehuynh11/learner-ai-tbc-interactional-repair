@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S50_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      27,
+      28
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand",
+    "evidence_summary": "The learner explicitly states they don't understand and requests the bot to speak slowly. The bot complies by slowing down and rephrasing the information, which resolves the issue."
+  },
+  {
+    "dialogue_id": "S50_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      71,
+      72
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand",
+    "evidence_summary": "The learner indicates a lack of understanding and asks the bot to slow down. The bot responds by slowing down and rephrasing the information, resolving the learner's confusion."
+  }
+]

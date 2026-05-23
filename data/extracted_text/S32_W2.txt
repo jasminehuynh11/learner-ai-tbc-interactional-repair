@@ -1,0 +1,95 @@
+week 2
+
+Task 1: Visiting a Medical Clinic and Booking or Changing an
+Appointment:
+
+Prompt: “I want to practice how to book a medical appointment. You are a receptionist at a medical clinic in Brisbane. I will play the role of a customer. Please create a realistic medical clinic scenario and keep going with the conversation naturally.”
+
+AI: Absolutely, let's do that! I'll start from the beginning.
+Hello and welcome to our clinic! How can I assist you today? Are you looking to book an appointment for a specific medical concern?
+ME: “Hi, yes, I would like to book a general check-up.”
+AI: Perfect! I can help with that. Could you let me know which day and time works best for you, and if you have any preference for a male or female doctor?
+ME: “I would like to book on Thursday in the afternoon around 2 p.m. and it is not possible on Friday around 4 p.m.”
+AI: Got it! So Thursday at 2 p.m. is definitely available, and I’ll make a note that Friday at 4 p.m. isn’t an option. Would you like to go ahead and confirm the Thursday appointment? And do you have a preference for the doctor’s gender?
+ME: “Okay, I would like to book on Thursday at 2 p.m., no, I don't have preference.”
+AI: Perfect, that’s all set then! I’ll book you in for Thursday at 2 p.m. If you could please share your full name and any contact details, I'll finalize the booking for you.
+ME: “Yes, my name is Adriana Molina.”
+AI: Thank you, Adriana! I’ve got that noted. We’ll see you on Thursday at 2 p.m. If you need anything else or have any questions before your appointment, just let us know. Looking forward to seeing you then!
+ME: “Do you only need my name?”
+AI: That’s mostly it for now! If you have a contact number or email, that can help us send you a confirmation, but it’s totally up to you. Let me know if you’d like to provide that, or if everything’s good as is!
+ME: “Yes. My number is 3-20-0-1-15-72.”
+AI: Perfect, thank you! I've got your number as well. Everything is all set for Thursday at 2 p.m. If you need anything else in the meantime, just let us know. Looking forward to seeing you then!
+ME: “Yes, I want to know if it is possible to book a psychological date appointment?”
+AI: Absolutely, we can help with that as well. Would you like to book the psychological appointment on the same day, Thursday, or would you prefer a different date and time? Let me know what works best for you!
+ME: “Yes, it is possible. After the check, the general check, I want to book.”
+AI: That sounds great! We can definitely schedule that for you. Once your general check-up is done, we’ll arrange the psychological appointment right after. I’ll just need a bit of extra information about your preferred time for that second appointment. Let me know what works for you!
+ME: “At 3.30 p.m. I think it is okay. I don't know exactly how long the general check is. what do you think?”
+AI: That sounds like a good plan! Usually, a general check-up can take about 30 to 45 minutes, so scheduling the psychological appointment at 3:30 p.m. should work out nicely. We’ll make sure to allow enough time in between. So, I’ll go ahead and set that up for you!
+ME: “Okay, thank you. I want to know, for the general check, if I have to bring something, and what time I have to arrive here for the appointment.”
+AI: Great questions! Usually, it’s good to arrive about 10 to 15 minutes early to complete any paperwork. And if you have any medical records, like previous test results or a list of medications, that would be really helpful. But if not, that's completely fine as well. We’ll see you at 2 p.m. for the general check-up, and then 3:30 p.m. for the follow-up. Let me know if there's anything else you need!
+ME: “No, I think that's great. Thank you for your help.”
+AI: You’re very welcome! I’m glad I could help. If anything comes up, just let us know. Have a great day, and we’ll see you soon!
+ME: “Okay, thank you. Bye.”
+AI: You're welcome! Take care, and bye for now!
+
+Task 2: Visiting a Bank and Asking for Help with Banking Services:
+
+Prompt: “I want to practice how to visit a local bank. You are a bank staff in Brisbane. I will play the role of a customer. Please create a realistic bank service scenario and keep going with the conversation naturally.”
+
+AI: Absolutely, let's do that!
+Good morning! Welcome to our branch. How can I assist you today?
+ME: “Hi, I would like to open a new sales account and I started to do the process online, but I can't finish the process.”
+AI: I see, no worries at all! We can definitely help you complete it here in person. Could you let me know which documents you've already provided online, and what might be missing?
+ME: Yes, I tried to provide the passport, but I can't, the system says that it didn't recognize me or I need another ID, and I don't have anything else.
+AI: Got it, that makes sense. In that case, we can definitely help you with an alternative form of ID. Do you have something like a driver's license or a government-issued ID card?
+ME: “Because I am an international student, I only have my passport with me.”
+AI: I understand, that makes sense. In that case, we can definitely verify your identity in person. We might also need some proof of your student status, like your student ID or your enrollment letter. Would you have those with you?
+ME: “Yes, I have, but I only have it on my mobile, so it's okay, or I need to bring it on paper.”
+AI: That's perfectly fine! We can definitely accept it digitally. You can just show it to us on your phone. So, let's go ahead and start with that, and we'll get everything set up for you. Anything else you'd like to ask about the process?
+ME: “Yes, I want to know if I open the saving account now, I receive the card, the physical card now, or I have to wait to receive it after.”
+AI: Great question! Typically, you'll get a temporary card right away, and then the physical card will be mailed to your address, which usually takes a few business days. But we can definitely confirm that for you as well.
+ME: “If I have to wait for the physical card. Is it possible to use an online card instead of the physical card?”
+AI: Absolutely! Yes, once your account is open, we can activate a digital card for you right away, so you can start using it online or for contactless payments immediately. And the physical card will follow shortly after.
+ME: “OK, thank you. Can you repeat to me, please, how many business days are available to receive the physical card?”
+AI: Of course! Usually, it takes about five to seven business days for the physical card to arrive, depending on your location. But you'll have full access to your digital card right away.
+ME: “Okay, thank you. I need two more documents or only with the passport and the enrollment. It's okay.”
+AI: That should be sufficient for now! With your passport and your enrollment proof, we should be all set. If anything else comes up, we’ll let you know, but that’s pretty much it!
+ME: For now no, I think that's it.
+AI: Perfect, that sounds great! If you have any other questions later on, just let us know. Thank you so much for stopping by, and have a wonderful day!
+ME: “OK, thank you.”
+AI: You're very welcome! Take care, and feel free to reach out anytime. Bye for now!
+ME: “Bye bye, have a good day.”
+AI: Thank you so much! You too! Have a fantastic day, and take care!
+
+Task 3: Enquiring About a Rental Property or Housing Inspection:
+
+Prompt: “I want to practice how to rent a property or housing inspection. You are a property manager in Brisbane. I will play the role of a customer. Please create a realistic scenario and keep going with the conversation naturally.”
+
+AI: Absolutely, that sounds great! Let’s get started.
+Hi there! Welcome to our property management office. Are you looking to rent a property or are you here for an inspection?
+ME: “Hi, yes, I'm interested in the three-bedroom unit on South Bank.”
+AI: Great choice! That unit is quite popular. Could you let me know when you'd like to schedule a viewing, or would you like some more details about the property first?
+ME: “Yes, I would like to know about the process for the rental application.”
+AI: Of course! The application process is pretty straightforward. You'll need to fill out an application form, provide some identification, and supply references. Would you like me to walk you through the documents you need or the timeline for approval?
+ME: “Yes, I would like to know about the documents that are required for that.”
+AI: Absolutely! Typically, you'll need a form of ID, proof of income, like recent payslips, and previous rental references. Sometimes, a rental ledger or a credit report is also needed. Do you have any specific questions about any of those documents?
+ME: “No, I don't have, and I would like to confirm if I understand well, if I want to do an application about the property, I can do it online, right?”
+AI: Exactly, you got it! We do offer an online application process for your convenience. I can send you the link or guide you through it if you'd like. Would you prefer the link now, or do you have any other questions before we get started?
+ME: “Yes, I would like to know about the price for the rent.”
+AI: Of course! The three-bedroom unit on South Bank is currently listed at $550 per week. Does that fit within your budget, or would you like more details about what’s included in that price?
+ME: “Yes, I want to know if the price includes something, or it's only for the rent”
+AI: Absolutely! The price generally covers rent only, but it does include maintenance of common areas. Utilities like water, electricity, and internet are usually separate. If you’d like, I can give you more specifics or break down any other costs for you.
+ME: “Okay, I understand. Thank you for telling me.”
+AI: Of course! Usually, it takes about five to seven business days for the physical card to arrive, depending on your location. But you'll have full access to your digital card right away.
+ME: “Okay, thank you. I need two more documents or only with the passport and the enrollment. It's okay.”
+“I continue have interest in renting the unit, so is it possible to make an inspection this weekend or what are the times for the inspection in general?”
+AI: Absolutely, we can definitely arrange that. This weekend, we have slots available on Saturday and Sunday, both in the morning and the afternoon. Which day and time would work best for you?
+ME: “I would like to do it on Saturday. I think in the morning it's okay. What time is the inspection?”
+AI: Great! On Saturday morning, we have openings starting at 9 AM and then again at 11 AM. Which time would you prefer for the inspection?
+ME: “I would like to go there at 11 a.m.”
+AI: Perfect! I’ve got you scheduled for 11 AM on Saturday. If you need any further details or have any questions before then, just let me know!
+ME: “And now I think it's okay for the moment. Thank you for your help.”
+AI: You’re very welcome! It was my pleasure to help. If you have any more questions, just let me know. Have a great day, and I’ll see you on Saturday!
+ME: “Thank you. See you on Saturday. Bye-bye.”
+
+

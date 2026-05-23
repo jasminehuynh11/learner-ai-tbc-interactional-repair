@@ -1,0 +1,42 @@
+[
+  {
+    "dialogue_id": "S28_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "In turn 14, the learner's response 'OpenAI and DALL·E would be great for me' is unclear in the context of scheduling an appointment. The bot proceeds with scheduling at 10 a.m. in turn 15. The learner then corrects the time to 9 a.m. in turn 16, and the bot acknowledges and confirms the change in turn 17, resolving the issue."
+  },
+  {
+    "dialogue_id": "S28_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "bot misunderstanding – misinterpretation of 'train' as a request to reschedule",
+    "evidence_summary": "In turn 24, the learner uses 'train' in a context that the bot misinterprets as a request to reschedule an appointment. The bot confirms the rescheduling in turn 25, but the learner's original intent remains unaddressed, leaving the misunderstanding unresolved."
+  },
+  {
+    "dialogue_id": "S28_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – incorrect word 'booking'",
+    "evidence_summary": "The learner uses 'booking' instead of 'book' in 'can I booking one for Aaron Wu'. The bot correctly interprets the request and confirms the appointment for Aaron Wu, resolving the issue. The learner then provides the correct spelling and contact details, confirming mutual understanding."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S44_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "ASR failure – bot could not transcribe learner speech and did not attempt to resolve",
+    "evidence_summary": "In turn 9, the bot indicates a transcription failure with 'Trascrizione non disponibile', but does not attempt to resolve the issue. In turn 10, the bot moves on to a new topic without addressing the previous communication trouble, abandoning the repair."
+  },
+  {
+    "dialogue_id": "S44_W4_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot error – incomplete utterance",
+    "evidence_summary": "The bot's utterance in turn 12 is incomplete ('Absolutely, that'). The bot immediately self-corrects and completes its thought in turn 13 ('Definitely, dividing the work evenly...'), and the learner's subsequent (unlisted) turn shows no confusion, indicating the trouble was resolved."
+  }
+]

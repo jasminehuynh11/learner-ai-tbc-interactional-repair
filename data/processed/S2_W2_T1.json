@@ -1,0 +1,135 @@
+{
+  "student_id": 2,
+  "week": 2,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S2_W2_T1",
+  "source_file": "data\\raw\\#2\\#2\\#2. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Medical clinic"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hey, did you remember I have an appointment next Tuesday at 2 p.m.?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Let me check that for you... Yes, I can see you have an appointment booked for next Tuesday at 2 p.m. Would you like to keep that time, or are you looking"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yeah, I have some situation need to take care, so I need to cancel the appointment. Could you help me to change another day?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course, I can help with that! What days or times would work better for you? We can look at our schedule and find the next available slot that suits you!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Next Friday, I am available.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great! Let me check... We have a few slots open next Friday. Would you prefer morning or afternoon? And is there a specific time that works best for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Um, I, uh, expected afternoon.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Afternoon it is!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Transcript Unavailable (Meaning roughly: Can you help me book an appointment sometime next Friday?)"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "We have a 1 p.m. and a 3 p.m. available next Friday. Do either of those times work for you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“It's a better afternoon, and I have some estimate that Harald needs to see the doctor and see how it goes well.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it, thank you for letting me know! In that case, let's lock in the 3 p.m. slot for you next Friday, so you’ll have plenty of time. Does that sound good to you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Could you help me to check the...”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely! I’ll book that for you right now and send you a confirmation. Is there anything else you'd like to ask about the appointment, like what to bring or any specific instructions from the doctor?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yeah, yeah, yeah. First, I want to know that today any teachers can speak Cantonese or Mandarin. If you had a doctor can speak my language, then I can explain much than today I talk to you like that.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I completely understand! We do have a doctor who speaks Mandarin, and they will be available during your appointment time next Friday at 3 p.m. That way you can explain everything in your language comfortably. Does that help?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Oh, thank you. And another thing I want to chat, the degree had parking. I want to drive car in the day.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yes, we do have parking available for patients. There's a free parking area just behind the clinic, so you can easily drive in that day. Is there anything else you'd like to know or prepare for before the appointment?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“All good. Thank you. Thank you.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "You're very welcome! I’m glad I could help. If anything else comes up, feel free to reach"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“I forgot to mention my name. I know you have my phone number. I just want to double-chat. My name is Tonic Lee.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Thank you, Tanic! Yes, I've got your phone number on file, and now we have your updated appointment all set. If you need anything else, just give us a call. Have a great day!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“All good. Thank you. Thank you.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "You're very welcome! Anytime, and good luck with your appointment next week. Take care! Top of Form Bottom of Form"
+    }
+  ]
+}

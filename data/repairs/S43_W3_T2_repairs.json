@@ -1,0 +1,13 @@
+[
+  {
+    "dialogue_id": "S43_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner adds missing temporal detail",
+    "evidence_summary": "In response to the bot's question about 'when' the wallet was last seen, the learner initially provides a time ('7.30 a.m.') and then immediately self-corrects/adds 'yesterday morning' to provide a complete temporal reference. This self-initiated clarification is accepted by the bot in the next turn, indicating resolution."
+  }
+]

@@ -1,0 +1,230 @@
+{
+  "student_id": 33,
+  "week": 3,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S33_W3_T1",
+  "source_file": "data\\raw\\#33\\#33\\#33. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, um, I want to report a lost item. I’m not sure if I’m in the right place, but I was told to come here first."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That’s okay, you’re in the right place. What item have you lost?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "My backpack. I realised it was missing last night when I came back home."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright. Can you tell me where you last remember having it?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I think at the university library. I stayed there quite late, so maybe around six or six-thirty."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Okay. Which library was that?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "The main library. Sorry, I don’t know the English name exactly, but the biggest one on campus."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That’s fine, I understand. Can you describe the backpack for me?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "It’s black, medium size. Inside there was my laptop, some notebooks, and charger."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Do you know the brand of the backpack?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "The brand… I know the logo, but I don’t really know how to say it in English."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That’s okay. Any other identifying features?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes, there is a small Korean flag keychain on the zip."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s helpful. Was there anything particularly valuable inside?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes, the laptop is quite expensive. Also my student ID card was inside."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "In that case, I would recommend filing a formal report."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Formal report meaning police report?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yes, that’s correct."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Okay. I wasn’t sure if it’s necessary, but if you recommend, I’ll do that."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "It helps in case the item is found or if you need documentation later."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Documentation meaning proof?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, proof that you reported it lost."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Ah okay. That makes sense."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "I’ll need some details from you. When exactly did you last see the backpack?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "I used it at the library before dinner. Then I think I packed everything, but maybe I forgot it on the chair."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "So you’re not completely sure where it was left?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Yes, I’m not one hundred percent sure. That’s why I feel a bit stupid about this."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Don’t worry, this happens quite often."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Okay, that makes me feel better."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Can I take your contact details so we can reach you if it’s found?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Yes. Email is better than phone, because sometimes I miss calls."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "No problem. I’ll record your email address."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Thank you. Can I ask something else?"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Of course."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "If someone finds it, do they bring it here, or to the library?"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Usually to the library first, and then they notify us."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Okay. So should I also check with the library directly?"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Yes, that’s a good idea."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Alright. I’ll do both then."
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Do you have ID with you today?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Passport is okay?"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Yes, that’s fine."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "Okay. Thank you for explaining everything clearly. I was a bit nervous."
+    }
+  ]
+}

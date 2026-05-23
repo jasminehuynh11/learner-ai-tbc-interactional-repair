@@ -1,0 +1,300 @@
+{
+  "student_id": 23,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S23_W4_T1",
+  "source_file": "data\\raw\\#23\\#23\\#23. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to practice about discussing study or career plans. I'm going to explain my situation, ask for advice, and clarify next step. You are a university advisor. I will play the role as a student who needs advice. Please create a realistic scenario and respond as if we were really there."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Alright, so let's imagine you're coming into my office as a university advisor. I'll be here to help guide you through your study or career plans. So, whenever you're ready, just let me know what you're thinking about, and we’ll get started!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Okay, hi, how are you?"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Hi there! I’m doing well, thank you. How about you? What can I help you with today? Are you thinking about your studies or your career path?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Yeah, I just think about my career path. Actually, I work part-time in retail, but I'd like to try something new."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That’s great to hear! It’s always good to explore new opportunities. What kind of fields or industries are you interested in, and do you have any specific goals in mind?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Actually, I have no idea."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries at all, that’s totally fine! We can definitely explore some options together. Are there any subjects or skills that you enjoy or that you’d like to develop further?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I'm just thinking about that. I want to be a teacher in the future."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Oh, that’s wonderful! Teaching is such a rewarding career. Do you have a particular subject or age group in mind that you’d like to teach?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Yeah, I want to teach Korean, but in another country."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That sounds fantastic! Teaching Korean abroad can be a really exciting path. Do you have any specific countries in mind, or are you still exploring your options?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I'm still not sure about that."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That’s completely understandable! We can definitely look at some popular destinations and what kind of qualifications you might need. Is there a particular reason you’re interested in teaching Korean, like cultural connections or personal experiences?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Maybe if I teach Korean to overseas people, maybe we can connect each other between different cultures, and I can also learn about the other countries' culture as well."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a wonderful exchange! It’s such a great way to build understanding and connection. We can definitely look into the qualifications or programs that might help you get started. Let me know if you have any questions about that!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Do you think I need more work experience before applying?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That can definitely help! Having some teaching or relevant work experience can strengthen your application, but it’s not always mandatory. We can definitely explore different pathways and maybe even find some internships or volunteer opportunities to build up your experience."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "What do you think study overseas in the future?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Studying overseas can be a fantastic experience! It can really broaden your horizons, give you new perspectives, and help you build valuable connections. If that’s something you’re considering, we can definitely look into programs and scholarships that might be available to you."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Then can you tell me how to prepare now?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Of course! A great starting point would be to research the countries and universities that offer programs in teaching Korean or related fields. You can also look into language proficiency exams, maybe gain some volunteer or part-time teaching experience, and prepare a strong application. And of course, I’m here to help you every step of the way!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Okay, thank you for today."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You’re very welcome! It was my pleasure to help. If you have any more questions in the future, just let me know. Have a great day!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Okay, thank you. Let's try to change a little bit."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure, absolutely! Just let me know what kind of changes you'd like, and we can adjust things however you’d like. I’m here to help!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Okay, let's play, let's do again with same topic, but I'm going to give you a different question. Is that okay?"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! I’m ready whenever you are, so feel free to ask your new question, and we’ll dive right back in."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Hi, can I get some advice for my future?"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Of course! I’d be happy to help. Just let me know a bit more about what you’re considering, and we can explore your options together. What’s on your mind?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "I'm studying business now, but I'm not sure about that. I just want to learn about partitiary course, but I think it's too late. What do you think?"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "I see! That’s actually really exciting. It’s never too late to explore new passions. We can definitely look at how to integrate a patisserie course with your business studies or even consider a career shift. Let’s break it down step by step!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Yeah, so I'm thinking about changing my degree. Can you help me understand my option?"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, I’d love to help with that! We can go over the different pathways, whether it’s switching majors, taking additional courses, or even looking at part-time programs. Just let me know what you’re most curious about, and we’ll dive right in!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "However, I just think about that, can I study abroad? like an exchanging student."
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a fantastic option! We can look into exchange programs that allow you to experience a different culture while continuing your studies. Let me know what countries or universities you’re interested in, and we can explore the possibilities together!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "I just think about that, Paris or Sydney, because that city is megacity, also that country is like a multicultural, so I can learn trendy things."
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That sounds like a wonderful choice! Both Paris and Sydney offer rich multicultural experiences and plenty of opportunities in business and patisserie. We can definitely explore the programs and requirements for both cities. Just let me know what you’d like to dive into first!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Then how can I prepare for that to study overseas in the future?"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Great question! To prepare, you can start by researching the universities and their programs, checking the admission requirements, and looking into language proficiency tests if needed. Also, it helps to plan your finances, look into scholarships, and maybe connect with current students or alumni. And of course, I’m here to guide you through each step along the way!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "Oh, okay. Then, do you think I need more work experience before applying or just start studying?"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "It really depends on the program and your goals. Some programs value work experience, while others focus more on academic background. We can definitely explore some options and see if there are internships or part-time roles that can complement your studies. Whatever suits you best, we’ll make it work!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Do I just need to graduate a degree, the diploma, or should I try to get a master's degree?"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "That’s a great question! It really depends on your current level of education and your career goals. Sometimes starting with a diploma or a bachelor’s degree can lay a solid foundation, and then a master’s degree can help you specialize further. We can definitely explore what’s the best fit for you!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "Yeah, like if I want to be a patisserie chef, do I need to get a master's degree or just try to get more work experience?"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "In patisserie, hands-on experience often matters more than a master’s degree. Typically, starting with a diploma or a certification from a culinary school is a great first step, and then building your skills through work experience and apprenticeships can be really valuable. We can definitely map out a path that suits you best!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "Then, after diploma, degree, should I to try apply internship course?"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Internships are a fantastic way to gain practical experience and make industry connections. So after you complete your diploma, diving into internships or entry-level positions can really help you refine your skills and build your portfolio. It’s definitely a great next step!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "Okay, the last question is, do I need to go to abroad or just stay in this country?"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "That’s a really personal choice! Studying or working abroad can offer unique experiences and perspectives, while staying in your home country can give you a strong local network and familiarity. We can weigh the pros and cons together and find what aligns best with your goals and preferences!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "Okay, thank you for your advice today."
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions in the future, just let me know. Have a wonderful day!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "You too. See you soon."
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely, see you soon! Take care!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "What do you think about this conversation?"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "I think it went really well! You asked some thoughtful questions, and we covered a lot of ground. I’m glad we could explore your options and find some clarity. If you ever want to continue the conversation, I’m always here to help!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "Okay, then change the topic."
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Sounds good! Alright, whenever you're ready, just let me know what new topic you'd like to explore, and we'll jump right in! WEEK 4 —"
+    }
+  ]
+}

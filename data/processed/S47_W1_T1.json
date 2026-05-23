@@ -1,0 +1,120 @@
+{
+  "student_id": 47,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S47_W1_T1",
+  "source_file": "data\\raw\\#47\\#47\\#47. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, I would like to order a coffee today!”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! What kind of coffee would you like?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Can I get a cappuccino, please?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, a cappuccino it is! Would you like it hot or iced today?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "No worries, take your time! Just let me know when you're ready, and we can go from there."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Oh, ice. Today, ice. Yes.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, an iced cappuccino! Would you like any flavor shots or sweeteners added to it?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, what do you recommend actually?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Well, some popular choices are vanilla, caramel, or even hazelnut. Do any of those sound appealing to you?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Please, when you're ready.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Perfect, a little vanilla it is! Anything else you'd like to add, like extra milk or maybe some whipped cream?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“No, no.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, that sounds great! So that’s one iced cappuccino with vanilla. Anything else I can help you with today?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“So, yes, what do we recommend today for AIeach?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "For a nice treat, you could try a mocha or maybe a caramel macchiato if you're in the mood for something a bit sweeter. Let me know what you think!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Do you have anything you wish to toast?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely! We’ve got some delicious pastries, like croissants, muffins, or even some biscotti. Anything in particular that you'd like to try?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, I will try them also.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Great choice! I’ll add a muffin to your order as well. Anything else I can get for you right now?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Perfect, that’s all set then! One iced cappuccino with vanilla and a muffin. I’ll get that ready for you right away!"
+    }
+  ]
+}

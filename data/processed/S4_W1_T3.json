@@ -1,0 +1,160 @@
+{
+  "student_id": 4,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S4_W1_T3",
+  "source_file": "data\\raw\\#04\\#04\\#4. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "How now can we practice a request to return or exchange request? I mean for a cloud maybe?"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! Let’s imagine you’ve just bought something — maybe a clothing item — and now you want to return or exchange it. I’ll play the store assistant role. 👕 At the store counter: “Hi there! Welcome back. How can I help you today?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Hi, good morning, how are you? Okay, I'm here because the last week was my birthday and a friend gave me a present, these pants, but they are not my size, so I want to return it and I want to know about it, how is the policy of returns, and if you can tell me details, please, details, please."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course! Happy belated birthday, by the way. 🎉 Could you please tell me when your friend bought the pants? Our return policy depends on the purchase date."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "I asked to him and he told me that it was two weeks ago, so I thought that it was, let me check the calendar, maybe the 6th or 7th of October."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Thanks for checking! That’s perfect — our policy allows returns within 30 days of purchase, so it’s still valid. Do you happen to have the receipt or gift receipt with you?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I just have a photo of the receipt, or gift receipt, because my friend couldn't give it to me in person, so he sent me a photo. I don't know if it's possible that I show that."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Yes, that’s totally fine! A clear photo of the receipt works for us. Could you please tell me if you’d like to exchange the pants for another size, or just return them for store credit or a refund?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I'm glad that you accepted the photo. Okay, I'd like to change for another site. It will be perfect to me."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Great! We can do that. Could you please tell me what size you’d like instead, so I can check if it’s available in stock?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "The pens are 14 size, so I need a 10 size, please. I don't know if they are in the same color and the same style."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it — you have size 14 and you’d like to exchange for size 10 in the same color and style. Could you please remind me what color your pants are?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Yes, look it, look at them, they are blue, so I want exactly the same, please."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect, blue it is! I’ll check our stock for size 10. While I do that, could you tell me — did you try them on already, or are they still brand new with tags?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yeah, for sure, I prefer try them, please, because I don't want to come back and make another return and all that kind of things. It's better if I try them in order to know if they fix it to me, fix them to me."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "That’s a smart idea! You can go ahead and try them on in the fitting room right over there. If size 10 fits well, we’ll finalize the exchange. Would you like me to hold your original pair here while you try them?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Yes, sure, there are not problem. I'm going to try them. Thank you very much."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You’re very welcome! Take your time — I’ll keep your original pair right here at the counter. Would you like me to bring the new size to you in the fitting room, or will you come back here once you’re ready?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Jay, I'll come back here once I'm ready. So, it's okay. Thank you."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect! I’ll be right here when you’re done. Take your time trying them on. 👖"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Okay, I come back. That's perfect. I love them. So, I'm gonna keep them. Thank you. And that I need to do something else."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "I’m glad they fit perfectly! You just need to hand me the old pair and show your receipt photo again so I can process the exchange. Would you like a printed or digital receipt for your new size?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Okay, here there are the puns. Yes, please, can I have a printed receipt for my new size?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure thing! I’ll print that right now for you. 🖨️ Here you go — your exchange is complete. Would you like me to put the new pants in a bag, or are you taking them as they are?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Without Bach, please. I have a reused Bach, so I can put in..."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Perfect, that’s great — good for the environment too! 🌱 Everything’s all set. Would you like to get updates about new arrivals or discounts next time?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Yeah, why not? It will be okay."
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Awesome! I’ll add your name to our update list — you’ll get news about sales and new collections. Thanks for coming in today, and enjoy your new pants! 👖✨"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Thank you very much. I appreciate your help today. Have a lovely day, too."
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. Have a wonderful day, and enjoy wearing your new pants! 😊👋 ChatGPT puede cometer errores. Comprueba la información importante."
+    }
+  ]
+}

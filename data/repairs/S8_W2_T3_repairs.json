@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S8_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "bot misunderstanding – irrelevant response based on assumption",
+    "evidence_summary": "The learner's statement in turn 5 is unclear and unrelated to the context of renting a property. The bot responds in turn 6 with an assumption about the learner's preferences, indicating a misunderstanding. The conversation continues without addressing the misunderstanding, leaving it unresolved."
+  },
+  {
+    "dialogue_id": "S8_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      13,
+      14
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – irrelevant response to learner's unclear statement",
+    "evidence_summary": "In turn 13, the learner makes an unclear statement about their location and a 'cut.' The bot responds in turn 14 by assuming the learner is referring to public transport, which is a misunderstanding. The conversation continues without further issues, indicating resolution."
+  },
+  {
+    "dialogue_id": "S8_W2_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      37,
+      42
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner's question about payment method",
+    "evidence_summary": "The learner asks in turn 37 whether to use cash or a credit card. The bot initially prompts the learner to ask their question in turn 38. The learner repeats the question in turn 41, and the bot provides a detailed answer in turn 42, resolving the issue."
+  }
+]

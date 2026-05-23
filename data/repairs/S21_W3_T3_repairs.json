@@ -1,0 +1,50 @@
+[
+  {
+    "dialogue_id": "S21_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      3,
+      4
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – irrelevant response to learner's unclear request",
+    "evidence_summary": "The learner's initial request in turn 3 is unclear ('To request not repair'), leading the bot to ask for more details in turn 4. The bot's response indicates it did not fully understand the learner's request, but it attempts to clarify by asking about other issues and urgency, which helps move the conversation forward."
+  },
+  {
+    "dialogue_id": "S21_W3_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      31,
+      32
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's request for details",
+    "evidence_summary": "In turn 31, the learner expresses confusion ('I'm sorry, pardon?') about the bot's request for more details on the troubleshooting steps. The bot clarifies its request in turn 32, and the learner then provides the needed information in turn 33, resolving the issue."
+  },
+  {
+    "dialogue_id": "S21_W3_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      37,
+      38
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's instructions",
+    "evidence_summary": "The learner indicates confusion again in turn 37 ('I'm sorry, I beg your pardon'). The bot reassures the learner in turn 38, offering to help step by step, which resolves the learner's confusion as they proceed with the troubleshooting."
+  },
+  {
+    "dialogue_id": "S21_W3_T3",
+    "repair_id": 4,
+    "turn_indices": [
+      43,
+      44
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially states 'Apple' but then corrects to 'Windows 11' in turn 43. The bot acknowledges the correction in turn 44, allowing the conversation to continue smoothly."
+  }
+]

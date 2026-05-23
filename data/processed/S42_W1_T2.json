@@ -1,0 +1,255 @@
+{
+  "student_id": 42,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S42_W1_T2",
+  "source_file": "data\\raw\\#42\\#42\\#42. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a Restaurant Table"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I want to practise making a restaurant reservation. You are a professional front-of-house staff member at a modern Australian restaurant in Sydney. I will play the role of a guest trying to make a booking, either in person or over the phone. Please create a realistic and authentic restaurant interaction and respond exactly as real staff would."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure. Thanks for calling Kauri & Co. — when were you hoping to book?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to book a table for two tonight.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! For two tonight, we can do that. What time would you like to come in?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“We'd like to go at 7pm. Is it available?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, we do have a spot at seven. Now, do you have any dietary preferences or any special requests for the evening?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Well, can I request outdoor seating? Because you guys have rooftop with a nice view.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure thing! We can definitely note down a request for the rooftop seating with that nice view. And just to double-check, under what name should I make this reservation for you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“It's WANI, W O N N Y.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Great, got it under Wonnie for seven p.m. on the rooftop. Now, just one last thing: could I grab a contact number just in case we need to reach you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, it's 0493000000, and I'm booking for my friend's birthday. Do you offer any singing or decorations?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, I’ve got that number noted down. And yes, we can definitely arrange a little birthday dessert or a small decoration if you’d like. Anything special in mind for the celebration?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Then, we'd like a celebration dessert for my friend. Also, can I bring the own cake for the celebration?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! We can absolutely sort out a celebration dessert on the house. And sure, you’re welcome to bring your own cake along as well. We'll just keep it here for you. Anything else I can help you with for the evening?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Do you have vegetarian options? Yes, I'm a vegetarian.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, we do have a range of vegetarian options on our menu, so you'll be all set. Is there anything else you need to know about the menu or the booking?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Can I see the wine list in advance?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Sure thing! I can absolutely email you our wine list so you can take a look before you arrive. What's the best email address to send that to?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Well, actually, I don't use my email, so could you send me through my phone number?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Sure, not a problem at all. I'll send you a text with a link to our wine list so you can check it out on your phone. And if you have any other questions before you come in, just let me know."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Well, we have two children with us. Would that be a problem for outdoor sitting?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Not at all! We’re totally family-friendly, so kids are welcome on the rooftop as well. Anything else you need to know about the setup?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Do you guys have the chairs for the children?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, we've got high chairs and booster seats available if you need them. Just let us know, and we'll have them ready. Anything else I can help you with?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Wow, thank you so much. And that's OK if you can't confirm the set menu now. Would someone be able to call me later today?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course! We can definitely have someone give you a call later today to confirm any details about the set menu or anything else you need. Just let us know the best time."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“And I'd like to know any policies we should know about because we're gonna bring like cakes and some children and we also have like vegetarians in us.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely! So just to reassure you, there's no problem with bringing your own cake, and kids are totally welcome. We just ask that you let us know ahead of time, which you've done, and we’ll take care of everything else. Anything else on your mind before we wrap up?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“I'm sorry but is there any flexibility if we arrive 15 minutes late?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely, a few minutes here and there is totally fine. We understand things happen. Just give us a quick heads-up if you think you'll be running late. Anything else I can help with?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“I think half of us will arrive on time and the other one will arrive 15 minutes late.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "All right, that’s totally fine. We’ll just seat the first half of your group and the others can join when they get here. Anything else you’d like to check on?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Oh, well, uh, I think I told you, like, we have only two of us, but there are ten of us. Sorry about that.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Oh, got it! No worries at all. We’ll make sure we have a table set for ten of you then. Thanks for letting me know. Anything else I can update for you?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“And I think it's gonna be rain tonight, so can we change to sit near the window if possible?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Sure thing! We can definitely move you to a window table inside if the weather’s looking rainy. Thanks for the heads-up. Any other last-minute changes on your mind?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“So you mean the cake and light up the candle is available inside, right?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, yes. We can still do the cake and light the candle inside by the window, no problem at all. Anything else you’re wondering about?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Here are private rooms inside.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely, we do have a private dining area available if you'd prefer that for your group. Would you like me to go ahead and arrange that for you?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Yes, please. We'd like to use the private room, please.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Sure, I'll get that private room reserved for you right away. Everything’s all set then, and we look forward to seeing you tonight!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“So could you confirm what I requested?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely! So we've got you down for a private room tonight at 7 p.m. for 10 guests. We'll have a vegetarian-friendly menu ready, you can bring your own cake, and we'll help you with the candle and everything. And of course, we'll text you the wine list. If that all sounds good, then you're all set!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Perfect, thank you.”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "You're very welcome! We'll see you tonight then, and have a fantastic celebration."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“All right, have a good one.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "You too! Thanks for booking with us, and have a lovely day."
+    }
+  ]
+}

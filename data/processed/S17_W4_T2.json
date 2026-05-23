@@ -1,0 +1,165 @@
+{
+  "student_id": 17,
+  "week": 4,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S17_W4_T2",
+  "source_file": "data\\raw\\#17\\#17\\#17. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Alright. I’ll be your teammate for this group project. What idea or suggestion would you like to start with for our project?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello, our assignment is due next week. Can we decide who will do each"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure. Since the assignment is due next week, let’s list the main tasks first. What sections do we need to include in this project?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "We need to choice who make presentation and speaker"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright. So we need to choose who will make the presentation slides and who will be the speaker. Which role would you prefer to take?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I prefer to make the presentation slides"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright. You’ll take the slides. That works well. Who do you think would be a good fit to be the speaker for our group?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I think Gina is the best speaker for our group"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure. Gina is a strong choice for the speaker role. When would you like to finish your slide draft so we can review everything together before the deadline?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I’m making the slides by 23th November"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright. So you’ll finish the slides by the 23rd of November. That gives us a bit of time before the deadline. When should we schedule a group meeting to review the slides and practise the presentation?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "So, we should review on the day’s afternoon"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright. Reviewing them that afternoon sounds good. What time in the afternoon works best for you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Maybe 2pm the best for me. Is it okay to everyone?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure. 2pm works well for me. Do you think Gina and the others are available at that time, or should we check with them first?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "We should check the other’s schedule"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright. L agree, we should confirm with everyone first. Could you send a quick message in the group chat asking if 2pm on the 23rd works for them?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I got it"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, thanks for doing that. While we’re waiting for their replies, would you like me to start drafting some key points for Gina’s speech based on your slides?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Yes please, after finishing your draft, could you text me?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Sure. I’ll draft the key points. To make them accurate, what main ideas are you planning to include in your slides?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "For animal diets"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Alright. So your slides will focus on animal diets. Which specific areas are you planning to cover— herbivores, carnivores, omnivores, or something more detailed?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "I planned to herbivors"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright. So the slides will focus on herbivores. What key points about herbivores would you like included-food types, digestion, examples, or behaviour?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Food types"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Alright. So you want to focus on the food types herbivores eat. Which direction should the draft take-general categories like leaves, grasses, and fruits, or more detailed examples of specific animals and their diets?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "General categories"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Alright. General categories it is. To shape the draft clearly, would you like me to include simple examples for each category, or keep it strictly category-only?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "That’s enough. I’m looking forward to you tof drafting"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Alright. I’ll get the draft ready. Talk to you later."
+    }
+  ]
+}

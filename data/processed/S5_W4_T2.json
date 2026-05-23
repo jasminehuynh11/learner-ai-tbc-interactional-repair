@@ -1,0 +1,280 @@
+{
+  "student_id": 5,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S5_W4_T2",
+  "source_file": "data\\raw\\#5\\#5\\#5. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I’m participating in a feedback session with a teacher, manager, or supervisor. i need to listen actively, ask questions, respond respectfully, and reflect on ways to improve. Practise using constructive, calm, and polite language. The chatbot’s role is a supervisor, teacher, or manager."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. Thanks for coming in today. To start, what part of your recent work or performance would you most like to get feedback on?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I've just finished my class presentation, which is about Korean culture. Could you talk about it?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! So, let’s dive in. What’s one area of your presentation on Korean culture that you’re particularly curious about improving or hearing my thoughts on?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“저는 학생들에게 작은 그룹 프레젠테이션을 했습니다. 학생들은 한국 문화와 K-POP, 한국 전통을 배웠습니다.” (I did a small group presentation to the students. The students learned about Korean culture and K-pop and traditional things)"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure! I hear you."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“things, clothes, and the special days.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, got it. So, let’s focus on that. How did you feel the students responded to the parts about traditional clothing or those special cultural days?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I think they looked very interested in our cultures because these days Korean culture like movies or music are very popular so I think children's students looks very interested in it and interested in them and about for about Korean clothes they look they they they also interested in it because the Korean style clothes hanbok is very huge but oh some people asked me the difference between the kimono and hanbok and I just answered it's uh Korean is hanbok is Korean style and kimono is Japanese style so I just wanted to be more specific answer but I don't know I didn't know I had no idea”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure! That makes sense. It sounds like they were really engaged, and it’s great they were curious about those differences. So let's do this: what kind of additional detail would you like to have on hand if they ask again?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! So, if you’d like a bit more detail, we can definitely help with that. For example, we can look at a reliable source about the unique features of hanbok versus kimono. So let me know if you’d like me to find a specific source for that, or if you have any other question about how to handle those student questions."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“give me some specific advice.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely. For a bit of concrete advice, let’s rely on some solid info. For instance, a well-documented fact is that hanbok is known for its vibrant colors and flowing lines, while kimono typically features more intricate layering and different types of sashes. We can definitely find a reliable cultural reference that confirms that if you'd like. But let me ask you: would you like me to look up a specific source on that difference for you?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yes, please.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, sure! So just to keep it factual, here’s a reliable detail: a trusted cultural source like a museum or a well-cited cultural website will confirm that hanbok is characterized by its simple lines and bright colors, while kimono has more structured layers and often silk patterns. If you’d like, I can find you a specific reference to cite exactly that. Just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yeah, I think it's fine. I'll look it up later. Thank you.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, happy to help. If you need anything else, just let me know. In the meantime, how else can I support you with your presentation skills?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course! So,"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I tried to remember what I wanted to say, but sometimes it's very challenging, so how can I do that? How can I deal with that?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure! One good tip from trusted public speaking sources is to rely on a few key bullet points rather than memorizing every word. That way, you stay flexible and it’s easier to remember your main ideas. So just let me know if you have any other questions about that!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Do you mean I should write down some simple words?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Exactly, that's right! Just a couple of simple keywords or bullet points can really help you stay on track. Now, is there any other area you’d like to go over to make your presentation even smoother?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I have one more question. If I want to write down something about my presentation, what's the most efficient way to track that point? I mean, if I do the presentation, then there will be a screenshot which is not included in bullet point or keywords. Then I need to track that word, but I don't know how to do that. I mean, I just write down on the small notepad or something like that. What would you recommend?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely. So a reliable approach a lot of people recommend is to use a small notepad or even cue cards with just those key words. That way you can glance down quickly and still keep your focus on your audience. So if you want to do that, it’s definitely a proven method. And is there anything else you'd like to ask about that?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Also, sometimes I was wondering if it's okay to use the presenter. It's like, when I press the button, then the screen will move on to the next one. So, it's really helpful because I don't need to care about the keyboard. If I use that presenter, it's very helpful. So, is it a good way to have a good presentation?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely! Using a presenter remote is actually a well-recommended and efficient technique. It's definitely something you'll find lots of experienced speakers do, and it's a reliable way to keep your hands free and not worry about the keyboard. So you're definitely on the right track there. And is there anything else you’re curious about?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“For me, if I'm very nervous, then my attitude is not that good. So sometimes it really feels awkward with my hand gesture. What should I do?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sure! A really reliable tip from public speaking experts is to practice just a couple of simple, natural gestures so you feel more at ease. So if you want to do that, it can definitely help you feel less awkward. And if you need any more advice, just let me know!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“What kind of hand gestures are reliable during the presentation?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely! So, one reliable piece of advice is to keep your gestures simple and open—like using your hands to lightly emphasize a point or just keeping them at a comfortable level. And if you need any more tips, feel free to ask!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“I'm sorry. I've got lost. You're worried? Hand free something? The last sentence, what did you say?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! Just to repeat that tip clearly: a reliable approach is to keep your gestures simple and open, like using your hands naturally to emphasize a point. And if there's anything else you're curious about, just let me know!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“And sometimes, you know, some students or some audience looks very bored because the content is not that funny or sometimes very boring. Then what should I do to get their attention?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely. One really reliable way to keep their attention, based on good presentation practices, is to add a small, engaging story or a real-life example that you know is verified and true. That can really help bring the topic to life. So if you want to do that, it might help them stay engaged. And if you have any other questions, just let me know!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Could you please explain it again in a more simpler way?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Of course! In simple terms, just share a quick real example or a little story that’s definitely true. That often makes the topic more interesting for them. And if you need any more help, just let me know!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Yeah, but I'm just wondering, you know, everyone has different interests, and everyone has different area which they like. Then how can I work on that?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely! So the simple answer is: a reliable approach is to include one or two small examples that relate to different interests. That way, you touch on something that might connect with everyone. And if you need any more advice, just let me know!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Yeah, and the last thing is, is it an effective way to have a reward, like if someone got the answers, if someone get the answer, then I can give them a present like candies or ballpoint pens like that. Is it an effective way or it's just an instant way to pay their attention?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely. A reliable and well-supported tip is that small rewards like a piece of candy or a little token can definitely help keep people engaged. It's a proven technique to make it a bit more fun and interactive. So yes, it's actually an effective way and not just an instant trick. And if you have any other questions, just let me know!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“So, would you recommend the small reward like”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely, I'd say yes."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Some more GPT. Some more GPT.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Sure! In fact, it's definitely a well-supported idea to use small rewards like that. It's a reliable and commonly recommended way to keep people engaged. So if you want to do that, go for it! And if you have any more questions, just let me know."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“With my hand gesture, what should I do? What kind of hand gestures are reliable during the presentation? I'm sorry, I've got lost. You're right. Hand free something? The last sentence, what did you say? Okay, thank you. And sometimes you know some students or some audience looks very bored because the content is not that funny or sometimes very boring. Then what should I do to get their attention? Could you please explain it again more simply? But I'm just wondering, you know, everyone has different interests and everyone has different areas which they like. Then how can I work on that? Yeah, and the last thing is, is it an effective way to have a reward? Like if someone got the answers, if someone got the answer, then I can give them a present like candies or ballpoint pens like that. Is it effective way or it's just instant way to pay their attention? Would you recommend the small reward like a small gift? Yeah, I think it's important to keep people's attention during the presentation. Otherwise, both like the audience and I will get in trouble.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely, I agree. It's definitely important to keep everyone engaged so that the whole presentation runs smoothly. And those little techniques, like small rewards, can be a reliable way to do it. So if you have any other questions, just let me know!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Yeah, what would you recommend I focus on improving next?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely. So I’d say one good, reliable focus is just to keep practicing those small engagement techniques we talked about—like using a little story or a small reward. That’s a well-backed way to keep improving. And if you have anything else you want to tackle, just let me know!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“I think, yeah, that's it. Thanks again. Thank you. Thanks again. This gave me a lot to think about.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Of course! Glad I could help. If you ever need anything else, just let me know. Take care and good luck with your presentations!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Thank you, take care.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care and have a great day."
+    }
+  ]
+}

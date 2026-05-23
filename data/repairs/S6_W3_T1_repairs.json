@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S6_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – learner's description of the problem",
+    "evidence_summary": "The learner describes the problem with 'the noise was caused, and then the networking is not working.' The bot interprets this as a disruption in connection and asks if the learner has tried restarting the router. The learner confirms and provides more context, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S6_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner's unclear reference to 'fix my address'",
+    "evidence_summary": "The learner asks about preparing to 'fix my address,' which is unclear. The bot interprets this as needing tools to fix the outlet and suggests having a screwdriver and ensuring the power is off. The learner accepts this advice, resolving the confusion."
+  },
+  {
+    "dialogue_id": "S6_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      17,
+      18
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner's unclear reference to 'Agible'",
+    "evidence_summary": "The learner expresses anxiety about fixing the outlet and mentions not having 'Agible.' The bot reassures the learner and suggests getting help from someone more comfortable with electrical work. The learner's anxiety and unclear reference are addressed, resolving the issue."
+  }
+]

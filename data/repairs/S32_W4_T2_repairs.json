@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S32_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "clarification – target audience scope",
+    "evidence_summary": "In turn 7, the learner expresses uncertainty about the specific target audience (students in general vs. university vs. high school) and asks for clarification. The bot provides options in turn 8, and the learner agrees to focus on university students in turn 9, indicating the issue is resolved."
+  },
+  {
+    "dialogue_id": "S32_W4_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      19,
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "clarification – bot's task assignment",
+    "evidence_summary": "In turn 19, the learner explicitly states 'I don't have clear what part you decide to do on the project' and asks the bot to clarify its role. The bot clarifies its task in turn 20, and the learner confirms understanding in turn 21, resolving the confusion."
+  }
+]

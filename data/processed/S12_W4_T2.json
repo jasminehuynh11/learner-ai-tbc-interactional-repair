@@ -1,0 +1,220 @@
+{
+  "student_id": 12,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S12_W4_T2",
+  "source_file": "data\\raw\\#12\\#12\\#12. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“We are a group and we will do the final task together. We are talking about the rules for us.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! It’s always helpful to divide roles clearly. If you need any assistance brainstorming or deciding on those roles, I’d be happy to help!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“So let's start. Hi, we've just started our group project. Can we plan the tasks together?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, I'd love to help with that! Let's start by identifying what the main tasks are, and then we can figure out who might be best suited for each one. Sound good?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Oh yeah, our assessment is due next week. Can we decide who will do each part?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course, that sounds like a great idea! Let's break down the assignment into sections and see what each person’s strengths are. Who wants to start with the first part?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I see your point. I think we should represent first so we have more time to read.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I'll make sure to help you organize everything so you can have that extra time to prepare. Just let me know what specific parts you’d like me to help with!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Actually, I am worried about the time.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "I totally understand, time can be a bit tight. We'll make sure to divide the tasks efficiently so that everyone has enough time. Let's get started and tackle it step by step!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“So, who wants to do the writing part?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, let's see who might be interested in taking on the writing part. If you'd like, I can help coordinate and make sure everything flows smoothly! Let me know who’d like to volunteer."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, can you do the writing part, please?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help with the writing part! Just let me know the details and the specific points you want included, and I'll take care of it."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, so let's add everyone's contact information first and we can set up a group to talk about the tasks.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "That sounds like a great idea! Once we have everyone's contact info, we can set up a group chat or a meeting and get everything organized. I’m looking forward to it!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Let's message each other if we run into problems.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! We'll keep the communication open, and if any issues come up, we can sort them out together quickly. Thanks for organizing this!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, and should we check in every few days or stay on track?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Got it! I’ll make sure to check in regularly so everything stays on track and we meet our deadline smoothly. Thanks for the teamwork!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Maybe, how do we make sure everyone is doing their part fairly is a big problem for us, do you think about it?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "That's a really good point. One idea is to set clear, specific milestones and check in on each person's progress regularly. That way, everyone knows what they're responsible for, and we can keep each other accountable in a positive way. Let me know if that sounds good to you!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I'm happy to try the presentation, but I have to do it for a lot of times, could I?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, I totally understand. We can definitely work together to make sure you have enough time to prepare and feel comfortable. Just let me know how I can support you, and we’ll make it work smoothly!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, let's start our tasks. And if we have any problems, let's message each other.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sounds like a plan! I'm excited to get started and see how everything comes together. And of course, just reach out anytime you need a hand. Let’s do this!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, this time I'm participating in a feedback session with a teacher, manager, or supervisor. And I'm listening to your communication and ask some questions. So let's start.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, I'm here to help you out with that! Just let me know what kind of feedback or questions you have, and we can go from there. Let’s get started!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Hi teacher, I've just finished my class presentation. Could you talk about it?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Of course! I’d be happy to give you some feedback. Overall, you did a great job. I really liked how clear and concise your points were. One thing we could improve is maybe adding a bit more detail in the conclusion. How did you feel about it?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“I think I missed some points, but in general, I did a great job, maybe?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "You definitely did a great job! It's completely normal to feel like you might have missed a few points. We can always refine things together, but overall, you did really well. Keep up the good work!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Thank you. In the next time, I will make sure to check every point more carefully.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I'm sure with that extra attention to detail, your next presentation will be even more polished. I'm always here to help, so just let me know!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“So, what should I change in my presentation, or what point should I add or delete?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "I think focusing on adding a stronger conclusion would be helpful, and maybe adding a bit more detail in a couple of the key points that you felt were a bit rushed. But overall, it was really solid!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Could you give me some more advices for my presentation?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely! One piece of advice is to keep your slides visually engaging but not too text-heavy. Another tip is to practice a few times so you feel confident. And definitely make eye contact with your audience to keep them engaged!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Okay, thanks again. This gives me a lot to think about.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "You're so welcome! I'm really glad it was helpful. Just take it step by step, and I'm sure your next presentation will be fantastic. And of course, I'm here anytime you need more tips!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Thank you very much, teacher.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "You're very welcome! It was my pleasure to help. Just let me know if you need anything else, and good luck with everything!"
+    }
+  ]
+}

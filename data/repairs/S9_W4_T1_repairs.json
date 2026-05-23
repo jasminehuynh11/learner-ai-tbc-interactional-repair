@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S9_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner asks the bot to repeat its previous question in turn 20, indicating a lack of understanding. The bot repeats the question in turn 21, and the conversation continues smoothly, indicating the issue was resolved."
+  }
+]

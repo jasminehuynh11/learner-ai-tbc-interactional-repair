@@ -1,0 +1,170 @@
+{
+  "student_id": 40,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S40_W2_T1",
+  "source_file": "data\\raw\\#40\\#40\\#40. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "👨🏻‍⚕️Booking or Changing a medical appointment 🗨️ “Hi, I’d like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure. What’s the reason for your visit today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "The reason for my visit today is because I had been feeling under th wheaterr, I had a headache, stomach ache, and flu."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, so you’ve been feeling under the weather with a headache, stomach ache, and flu symptoms. How soon would you like to come in?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "As soon as possible because I really feel bad."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure. Since you’d like something as soon as possible, do you prefer a morning or an afternoon appointment?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I prefer morning time."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright. Which morning works best for you—tomorrow morning or another specific day?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Tomorrow morning"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright. Tomorrow morning is fine—what time works better for you, around  or around ?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Sorry, I have a question. Do you have an appointment this afternoon?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure. You’re asking if we have anything this afternoon—yes, we do. What time this afternoon would you prefer?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Do you have an appointment at 2 p.m.?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright. Yes, we can book you in at 2 p.m. this afternoon. Can I have your full name, please?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yes, of course, my name is Alejandro Suárez Salazar."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Great, Alejandro Suárez Salazar. And what’s the best phone number to reach you at?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "My number is 3104589942."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright. And what’s your date of birth, Alejandro?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "May 21st, 1990."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, thanks. Are you an existing patient with us, or will this be your first visit here?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "It's my first visit."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure. Since it’s your first visit, do you have any medical insurance you’d like to use for the appointment?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "No, I don't have any medical insurance, but I don't like to eat a lot of pills. I prefer natural things."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Alright, I hear you — you prefer natural treatments. Thanks for letting me know. So, with no medical insurance, I’ll just confirm your booking. Would you like me to go ahead and schedule your appointment for 2 p.m. this afternoon?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Absolutely."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Alright, your 2 p.m. appointment is confirmed. Is there anything else you’d like me to note before you come in?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Do you have any contraindication about the appointment, maybe fasting or something like that?"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Sure. There’s no need to fast for this appointment — just come as you are. Is there anything in particular you’re worried about before the visit?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Now, all the information is right for me, I've really appreciated your time and your opportunity appointment."
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Of course. I’m glad I could help today. Take care, and we’ll see you at 2 p.m. this afternoon."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Thank you. Have a good day."
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "You too. Take care."
+    }
+  ]
+}

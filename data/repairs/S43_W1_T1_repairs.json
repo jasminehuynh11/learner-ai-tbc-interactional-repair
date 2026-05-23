@@ -1,0 +1,76 @@
+[
+  {
+    "dialogue_id": "S43_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "lack of understanding – specific item (cappuccino)",
+    "evidence_summary": "The learner explicitly asks for clarification about what a cappuccino is, indicating a lack of understanding despite it being mentioned previously. The bot provides a clear explanation in turn 9, resolving the learner's query."
+  },
+  {
+    "dialogue_id": "S43_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "lack of understanding – comparison of items",
+    "evidence_summary": "Following the explanation of a cappuccino, the learner asks for clarification on the difference between a cappuccino and a latte. The bot provides a clear comparative explanation, resolving the learner's query."
+  },
+  {
+    "dialogue_id": "S43_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      20,
+      21
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – 'keys' instead of 'cakes'",
+    "evidence_summary": "The learner mistakenly says 'keys' when referring to items for sale. The bot implicitly corrects this by responding about 'cakes' in turn 21, indicating it understood the learner's intended meaning, and the conversation proceeds smoothly."
+  },
+  {
+    "dialogue_id": "S43_W1_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      28,
+      29
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "lack of understanding – specific item (mocha strength)",
+    "evidence_summary": "The learner expresses uncertainty about the coffee strength of a mocha for their friend. The bot provides a clear explanation about mocha's balance and offers to adjust the strength, resolving the learner's query."
+  },
+  {
+    "dialogue_id": "S43_W1_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      30,
+      31
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech and contextual contradiction",
+    "evidence_summary": "The learner's utterance 'Plea justice' is unintelligible and their statement 'She can't drink strong coffee' contradicts a previous turn. The bot successfully interprets the learner's intent to make the mocha mild and confirms the adjustment, resolving the communication trouble."
+  },
+  {
+    "dialogue_id": "S43_W1_T1",
+    "repair_id": 6,
+    "turn_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot error – bot repeated learner's order instead of summarizing/confirming",
+    "evidence_summary": "The bot's turn 41 is an exact repetition of the learner's previous order list, which is an unusual and potentially confusing response. The learner then explicitly asks to 'audit' the order again in turn 42, indicating concern about potential mistakes. The bot provides a clear and correct summary in turn 43, which the learner accepts in turn 44, resolving the issue."
+  }
+]

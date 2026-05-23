@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S30_W4_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner explicitly states they don't understand and asks for repetition in turn 5. The bot repeats and clarifies its question in turn 6, and the conversation continues smoothly, indicating the issue is resolved."
+  },
+  {
+    "dialogue_id": "S30_W4_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner clarifies the nature of the task",
+    "evidence_summary": "The learner clarifies in turn 15 that the presentation is fictional, which the bot acknowledges and understands in turn 16. This resolves the misunderstanding about the nature of the presentation."
+  },
+  {
+    "dialogue_id": "S30_W4_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      17,
+      18
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner emphasizes the fictional nature of the presentation",
+    "evidence_summary": "The learner reiterates in turn 17 that there is no 'TopKey' because the presentation is fictional. The bot confirms understanding in turn 18, resolving the issue."
+  }
+]

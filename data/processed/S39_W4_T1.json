@@ -1,0 +1,165 @@
+{
+  "student_id": 39,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S39_W4_T1",
+  "source_file": "data\\raw\\#39\\#39\\#39. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I want to practice asking about my future career options with formal and polite question forms. You are a career counsellor helping me explore future planning. I’ll play the role of a student. Please respond as if this were a real conversation. Please ask me follow-up questions and give advice about my future."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright. Since you’re thinking about your future, what kinds of careers are you most interested in exploring right now?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello, I'm about to graduate, but I don't have an interesting career, so I'm unsure whether to study further or start working.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I understand, it's definitely a big decision. Could you share a bit about your interests or any subjects you enjoyed during your studies? That can help us explore some suitable career paths."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I want to study overseas in the future. Could you tell me how to prepare now?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely! Studying abroad is a great goal. To start, it would be helpful to know which countries or universities you're considering. Also, do you have any specific fields of study in mind?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“No, I want to work overseas in the future.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! In that case, it would be good to consider which industries or companies interest you the most. Are there any particular fields, like technology, business, or healthcare, that you’re drawn to?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I’m measuring in English and digital communication. What types of jobs are common for people in my degree?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That’s wonderful! With a degree in English and digital communication, you could look into roles like content creation, social media management, public relations, or even marketing. Do any of those areas sound appealing to you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Do you have another example?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course! Another option could be working in corporate communications, journalism, or even content strategy for tech companies. You could also explore roles in advertising or even teaching English abroad. Do any of those resonate with you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I'm interested in journalism.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That's fantastic! Journalism is a rewarding field. To prepare, you might want to build a strong portfolio of writing, perhaps gain some internship experience, and also get comfortable with digital media tools. Are you already involved in any writing projects or journalism-related activities?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“How can I decide between doing further study or starting work after graduation?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That’s a great question! It often helps to consider your long-term career goals. For instance, if you’re aiming for roles that require advanced qualifications, further study might be beneficial. On the other hand, starting work right away can give you practical experience. What are your thoughts on what might suit you best at this point?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“One more time, please.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Of course! So, it often helps to think about your long-term career goals. For example, if the roles you’re interested in require advanced degrees, then further study might be the better path. On the other hand, if you’re eager to gain practical experience and start building your career right away, then jumping into work might be more suitable. What do you feel aligns best with your current plans and interests?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“I think I should do further study, but how is a diploma different from the master's degree?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That’s a great question! Generally, a diploma is a shorter, more focused program that provides practical skills and knowledge, often taking about one to two years. On the other hand, a master’s degree is more in-depth, usually taking around one to two years as well, but it’s more research-oriented and can open up more advanced career opportunities. Does that help clarify a bit?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Should I do a diploma before a master's degree?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "It really depends on your goals and your current background. Sometimes a diploma can give you a strong foundation and help you build practical skills before you dive into a master’s program. On the other hand, if you already have a solid academic background, you might go straight into a master’s. It really comes down to what you feel you need and what aligns best with your career plans."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“That sounds like something I'd enjoy.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "I’m glad to hear that! It sounds like you’re on the right track. If you have any other questions or need more guidance along the way, just let me know. I’m happy to help!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“How do I explore different careers if I'm unsure what I want to do?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "That’s a great question! One good approach is to try internships or part-time roles in different fields to get a feel for what you enjoy. You can also conduct informational interviews with professionals in various careers and attend workshops or career fairs. Exploring different options can really help you find what fits you best."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“If I want to apply for internships next year, what should I do now?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That’s a great plan! To get started, you can begin by building a strong resume and a compelling cover letter, highlighting any relevant coursework or projects. It’s also helpful to network with professionals in your field through LinkedIn or career events. And, of course, researching potential companies and staying updated on internship opportunities is key. Let me know if you need more specific guidance!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Thanks for your time. I’ll look into those options."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions down the line, just let me know. Good luck with everything, and take care!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S27_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'Ethernet cable'",
+    "evidence_summary": "The learner asks for clarification about what an Ethernet cable is. The bot provides a description, and the learner then confirms understanding by identifying the cable, resolving the issue."
+  }
+]

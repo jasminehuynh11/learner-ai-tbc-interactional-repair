@@ -1,0 +1,370 @@
+{
+  "student_id": 50,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S50_W2_T2",
+  "source_file": "data\\raw\\#50\\#50\\#50. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I'd like to open a new savings account.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Great, thanks for letting me know. Now, to get started, could you tell me if you’re opening this account just for yourself, or will there be a joint holder as well?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Sorry, I don't understand. Please speak slow down.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course, no problem at all. So, let me say that again a bit slower. Are you opening this savings account just for yourself, or will someone else be sharing it with you, like a joint account holder?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Is there anything...”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure! So just to answer that, is it going to be just you on this account, or is someone else going to be on it too?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I'd like to open account for me.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, got it. So it’ll be a joint account then. Now let’s go ahead and figure out what kind of initial deposit you’re thinking of making to open it up?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Sorry, I don't understand. Please speak more slowly and use easier words.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course, I can slow down. Let's take it step by step. So, now I just want to know how much money you want to put in the account at the beginning."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Oh, I understand.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great, I’m glad"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Oh.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure thing! So now that you understand, let me know: how much would you like to deposit to open your new account?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Maybe... 1 billion.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Wow, one billion! That's definitely a big number. We can absolutely note that down. Now, let’s also figure out what kind of identification you'll be using to open this account."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Sorry, my pronunciation is not good. I want about 1 million.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Oh, sure! One million, got it. No worries at all about pronunciation—you're doing just fine. Now let’s go ahead and talk about what type of ID you'll be using to set up the account."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“What type of ID?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Exactly, so I'm just asking what type of identification you plan to use, like maybe a passport or a driver’s license. Which one would you like to use?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I have a driver's license.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Perfect! A driver’s license works just fine. Now that we’ve got that sorted, can you let me know if you have a specific type of savings account in mind, or if you'd like me to recommend one for you?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I'd like to make both.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure, both is totally doable. We can definitely look at a couple of different savings options for you. So, let me ask: do you have any preference on how long you want to keep the money in the account before you might need to withdraw it?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I want to keep the money in the account.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "\"I want to save about two years.\""
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Got it, about two years. That really helps. So we'll look at some options that fit that timeframe. Now, is there anything else specific you're hoping for in terms of features, like online access or anything like that?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“I can use online access.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely! Online access it is. We can definitely make sure you have that. So I think we've got most of what we need. Just one last thing: do you have any other questions for me about setting up this account?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“And then I want using my new account card with traffic.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure, that sounds good. So you’d like to use your new account card for travel as well—absolutely something we can set up for you. And I think that covers everything. Thanks for letting me know, and if you've got any other questions, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“I'd like to use my new account card for opal card, for example, for bus or taxi or subway.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely! So you'd like to use it for things like buses, taxis, or the subway. That’s totally doable and we can link it so it works for travel payments as well. I think we’ve got everything covered, so if there's nothing else, we're all set!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Is there for payments later or only?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure! So yes, you can absolutely use it for payments later on. Once it's all set up, you'll be able to use your card online and in person for those kinds of travel payments. And with that, I think we've got everything we need. Let me know if there's anything else!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Is there a monthly fee for this account?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, that's a good question. So for this type of account, there's usually no monthly fee as long as you maintain a certain balance. And I think that covers pretty much everything. If you’re all set, we’re good to go!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "\"I want to know monthly fee exactly.\""
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sure! So typically, the minimum balance to avoid a monthly fee might be around a few hundred dollars, but it can vary. We can confirm the exact amount when we set everything up. Let me know if that works for you!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Do I need proof of address or enrollment?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely, that's a great point. Yes, we will need some proof of your address to open the account. Usually something like a utility bill or an enrollment document if you're a student works fine. So just have that handy, and we’ll be all set."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Can I open an account without a job yet?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely, you can do that. You don't need to have a job to open the account, so you're all good on that front. And I think that wraps everything up. If you're all set, we're good to go!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Is it possible to do this over the phone?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely, yes, it's possible to do this kind of setup over the phone. We can definitely handle everything that way if that’s more convenient for you. So, just let me know whenever you're ready, and we'll get it all arranged!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“We might get a confirmation once it's updated.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely! Once everything is set up, you'll definitely get a confirmation so you know it's all updated and ready to go. And I think with that, we've got everything we need. So just let me know if there's anything else!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Do you recommend saving accounts in this bank?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely! I'd be happy to recommend one. For a two-year timeframe and the features you want, I'd suggest a flexible high-yield savings account that offers online access and no monthly fees if you meet the balance. That should fit you perfectly. And if you have any more questions, just let me know!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“What's the difference between these two account types?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Sure! So the main difference is that one type might have a fixed term, like you commit your money for a set period, and the other is more flexible with easy access. Both will give you good options, and we can pick whichever suits you best. Let me know if that helps!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“I want to open the other one.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great. So we'll go ahead and set you up with the more flexible option. And I think that should cover everything we need. If you're all set, we're good to go!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“I have forgotten my online banking password. Can you help?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that. So, to reset your online banking password, we'll just need to verify a couple of details for security. Let's start with your account number, and then we can walk through the reset."
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“How many times...”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Sure! So just to answer that, typically you can try resetting your password a few times if needed. If you have any trouble, we can always help you out each time. Let me know if that makes sense!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“How many times try resetting my password typically?”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Of course! Typically, you can try resetting it around three to five times before any lockout might happen. But don't worry, if you run into any issues, we can help you out. So just let me know if you need anything else!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Could I try resetting online?”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Absolutely! You can definitely try resetting it online. Usually, there's a \"forgot password\" link on the login page. You can click that and follow the steps, and if you need any help, just let me know!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“When I've forgotten my password five times, could I try resetting it online?”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Absolutely! Even if you've forgotten it several times, you can still go ahead and try resetting it online. Usually, the system will guide you through it. And if you need any extra help, I'm here for you."
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“Can I get a replacement card sent to my job address?”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Absolutely! We can definitely send a replacement card right to your job address if that’s more convenient for you. I'll just make a note of that. And if you’ve got any other details for the address, just let me know!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“How do I check if international transfers are enabled on my account?”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Sure! To check if international transfers are enabled on your account, you can usually do that through your online banking settings or just ask us directly and we'll confirm it for you. So just let me know, and I can check that for you right away!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“Thank you. I will come by tomorrow morning with my documents.”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "You're very welcome! That sounds perfect—we'll see you tomorrow morning with your documents, and we'll get everything sorted out for you. Looking forward to it!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“That answers all my questions. Have a great day.”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "You’re so welcome! I’m glad I could help. You have a great day too, and we’ll see you soon!"
+    }
+  ]
+}

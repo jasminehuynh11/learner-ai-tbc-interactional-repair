@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S4_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      1,
+      2,
+      3
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – unclear scenario setup",
+    "evidence_summary": "The learner's initial scenario setup was unclear, leading the bot to ask for clarification about the scenario. The learner confirms the bot's interpretation, resolving the issue."
+  },
+  {
+    "dialogue_id": "S4_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      31,
+      32,
+      33
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – payment process for bond",
+    "evidence_summary": "The learner asks for clarification about the bond payment process. The bot explains that the bond is paid after signing the lease, resolving the learner's confusion."
+  }
+]

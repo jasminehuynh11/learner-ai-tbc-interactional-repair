@@ -1,0 +1,103 @@
+Week 4: Academic and Professional Communication
+
+Task 1: Discussing Study or Career Plans with an Advisor
+
+You said: 
+You are speaking with an academic advisor or career counsellor to get guidance about your current study plans or future career options. You want to explain your situation, ask for advice, and clarify next steps. Practise speaking clearly and professionally in a formal setting. You will need to define the chatbot’s role as a university advisor or career counsellor. You can choose situations from the examples below; start with a basic question about your study plan, and try a more extended interaction by exploring course structures, comparing qualifications, or evaluating career outcomes.
+English Conversational Partner said:
+Alright, happy to help. As your university advisor, let me start with the basics — what study program or area are you thinking about right now?
+You said:
+My background is Bachelor of Pharmacy and I would like to work in academic area such as teaching. I am thinking about pursuing a master degree in Pharmacy
+English Conversational Partner said:
+Alright, I see — you’ve got a Bachelor of Pharmacy and you’re aiming for an academic pathway, possibly teaching. That’s a solid foundation.
+To guide you properly, what kind of teaching role are you imagining — university lecturing, vocational training, or school-level teaching?
+You said:
+I was thinking about university lecturing as I think it would be more interesting and challenging
+English Conversational Partner said:
+Sure, that makes sense — university lecturing is both stimulating and research-focused.
+To aim for that path, you’ll usually need a strong research direction even at the master’s level.
+What specific area of pharmacy are you most interested in developing expertise in?
+You said:
+I have a bit of experience in Clinical Pharmacy and it is also the area that I would love to do
+English Conversational Partner said:
+Alright, clinical pharmacy is a strong and in-demand academic field.
+For university lecturing, the type of master’s program you choose matters quite a lot.
+Are you thinking about a coursework-based master’s or a research-focused master’s (like a Master of Research or MPhil)?
+You said:
+A master of research Would be better for my career in long term. I think lecturers are require to have a Phd degree and msc of research are in line with that
+English Conversational Partner said:
+Alright, that’s a good understanding — a research master’s is the typical stepping stone toward a PhD and an academic career.
+To plan properly, I need to know your timeline.
+When are you hoping to start your Master of Research — this year, next year, or later?
+English Conversational Partner said:
+Alright, starting this year could be feasible if deadlines are still open.
+To check realistic options, which country or universities are you considering for your Master of Research?
+You said:
+I consider applying to Monash University, Melbourne
+English Conversational Partner said:
+Alright, Monash has a strong reputation in pharmacy and clinical research.
+To see if you’re a good fit for their MRes entry, can you tell me about your academic record—your GPA or overall performance in your Bachelor of Pharmacy?
+You said:
+My Gpa is 8/10 and I’m top 6/256 students in my cohort
+English Conversational Partner said:
+Great, that’s an excellent academic standing — Monash will definitely take that seriously.
+To move forward with a research master’s, they’ll also look at your research background.
+What kind of research experience have you had so far — projects, internships, or any publications?
+You said:
+I have a 1-month internship at a community pharmacy and 1 internation publication
+English Conversational Partner said:
+Sure, that’s a solid start — having an international publication is a strong advantage.
+For Monash, the next key step is usually matching with a potential supervisor.
+Do you already have a specific clinical-pharmacy research topic or professor at Monash you’re interested in working with?
+You said:
+Not really
+English Conversational Partner said:
+Alright, no problem — it’s normal not to have a supervisor in mind yet.
+To help you narrow it down, which part of clinical pharmacy interests you most — medication safety, pharmacotherapy, patient outcomes, pharmacoepidemiology, or something else?
+You said:
+Patients’ outcomes interested me the most
+
+
+Task 3: Responding to Feedback or a Performance Review
+You said: 
+You are participating in a feedback session with a teacher, manager, or supervisor. You need to listen actively, ask questions, respond respectfully, and reflect on ways to improve. Practise using constructive, calm, and polite language. You will need to define the chatbot’s role as a supervisor, teacher, or manager. You can choose situations from the examples below; begin with a basic response and gradually try a more complex interaction by asking about development goals, long- term expectations, or feedback from previous tasks.
+English Conversational Partner said:
+Sure. I’ll step in as your manager for a feedback session.
+Alright, thanks for meeting with me today. Before I share my feedback, how do you feel your recent work has been going?
+You said:
+I think it is going pretty well. There were some obstacles of course as the market was flutuate but overall performance is good. I meet all the target of the previous quarter and I'm on track for this one.
+English Conversational Partner said:
+Alright, sounds good. It’s great to hear you’re meeting your targets. What would you say was the biggest obstacle that affected your work this quarter?
+You said:
+A competitor has launched their new product last month and they took our market share.
+English Conversational Partner said:
+Alright, that makes sense — a new competitor launch can shake things up quickly. How did you adjust your approach when you noticed our market share was dropping?
+You said:
+New product is not necessary a better one so I am focusing on promoting the superior quality of our product. The competitor is offering many promotion as the product is freshly launched, so I think we need to wait for a while until next month for our promotion. At this moment, I would reinforce the sale from loyal customers.
+English Conversational Partner said:
+Sure, that’s a sensible short-term strategy, especially leaning on loyal customers. From your perspective, what skill or area do you feel you need to improve to handle situations like this even more effectively?
+You said:
+Strategy planning skill. I think short-term strategy as well as long term vision are needed
+English Conversational Partner said:
+Alright, that’s a good insight — strengthening both short- and long-term strategy skills can make a big difference. What kind of support or training do you feel would help you develop those skills most effectively?
+You said:
+How about some training courses early next year? I found that University of Melbourne offers many business planning courses. They seem to be very suitable as the course usually takes around 4 weeks to complete and there will also be certification for learners.
+English Conversational Partner said:
+Sure, that sounds like a solid option — short, focused courses with certification can be really valuable. What specific topic from those Melbourne courses seems most relevant to your current role?
+You said:
+Business strategy. We have many competitors and the market share is becoming smaller. There should be strategy to deal with that.
+English Conversational Partner said:
+Alright, business strategy makes sense, especially in a crowded market. To help shape your development plan, what’s one concrete strategy goal you’d like to achieve in the next quarter?
+You said:
+I am not sure. I'm not very optimistic so I only aim to maintain the current sale as there will be many new competitors coming next years and it would be hard.
+English Conversational Partner said:
+Alright, I hear you — maintaining sales in a tougher market is a realistic starting point. To make that goal clearer, what’s one action you think you can take next quarter to help keep sales steady?
+You said:
+The loyal customers are important. I will also try to expend the list of new customers, but it will require more resources at the beginning stages
+English Conversational Partner said:
+Alright, expanding the loyal customer base while reaching new ones is a balanced approach. To plan properly, what specific resources do you think you’ll need at the beginning to support that expansion?
+You said:
+We will need promotion campaigns and I will need to travel further to reach with new customers.
+
+
+

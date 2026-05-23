@@ -1,0 +1,250 @@
+{
+  "student_id": 4,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S4_W2_T3",
+  "source_file": "data\\raw\\#04\\#04\\#4. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Let´s change the scenario, is the first time that we meet each other, and you are a pr a property and I´m Interested in"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! Just to clarify — do you mean I’m a real estate agent showing you a property you’re interested in?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "yes"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Great! Welcome. Are you looking to rent or buy a property today?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Hi! I´m interested in rent a property, whats your name?"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Hi there! I’m Daniel, one of the agents here. Nice to meet you. What kind of property are you hoping to rent — an apartment, a house, or maybe a studio?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "An apartment , I´m interested in the two- bedroom unit on Swanston street. Can you help me? I'm here with my sister and we are very interested in that property."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course, I can help with that! The two-bedroom on Swanston Street is a great choice. Can I ask when you’d like to move in?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "The next week will be fine. We were living in a suburb and it's a little far from the school and we are interested in the two-bedroom on Swanson Street because it's near from the school, but we don't know anything about that kind of things."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "I understand, that makes sense. Moving closer to school will make life much easier. No worries—I’ll guide you through everything. First, can I ask your budget range per week for the rent?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "We consider that 200 or 300 per week will be fine."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, that helps. The Swanston Street apartment is around $280 per week, so it fits your range nicely. Would you like to book an inspection to see the property in person?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Yeah, for sure. When we can arrive? When can we arrange the appointment?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect! We have viewing times on Friday at  p.m. and Saturday at  a.m. Which time works better for you and your sister?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I prefer Saturday at 11am because that day we are free. Do I need to bring some documents to the appointment? How much is the bond? And how long does it take to... ...to the appointment?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Good questions! The appointment usually takes about 20–30 minutes, just to look around and ask anything you like. You don’t need documents for the inspection—only later if you decide to apply. The bond is usually four weeks’ rent, so around $1,120 for this unit. Would you like me to pencil you in for Saturday at 11 a.m.?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Yes, please. And if after the inspection I decide to apply, how long does it take to her back?What could make me a good candidate for this application?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Great questions. After you apply, it usually takes 2–3 business days to hear back. To be a strong candidate, it helps to show proof of income, references (like from a previous landlord or teacher), and that you can pay rent on time. Would you and your sister both be on the lease?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Ah, that sounds fantastic. Yeah, we will be on the list."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect, that makes it simple. I’ll note both of your names on the inspection list. Do you already have any proof of income or employment here in Australia, or are you both studying full-time?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Yeah, both of us, we are studying full-time, but we have a proof of income from our country that will be helpful?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Yes, that can help, especially if it’s recent and shows your financial support. You can also include your student enrollment letters to strengthen your application. Would you like me to send you the rental application form by email before the inspection?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Yes, please. I said about a proof of income from our country because we create a startup in our country, so that business help us to stay here. Yeah, that's it."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That’s great, congratulations on your startup! That definitely supports your application—it shows stable income and responsibility. Could you please give me your email address so I can send the application form and property details?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Yeah, for sure, it's SP-WY-AROBA-GMAIL.COM"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Thanks, I’ll send the details to that address today. Just to confirm, will both of you need furnished or unfurnished accommodation?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Indefinitely furnished, please, because we don't have furnitures in here, so it will be helpful if we can have the apartment furnished."
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Got it, furnished it is—that’ll make your move much easier. The Swanston Street unit does come furnished with basic items like beds, a sofa, and kitchen essentials. Would you like me to include some photos of the furniture in the email as well?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Yes, please!"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Perfect! I’ll add the photos and full property details to your email. Before we finish, can I just confirm your current suburb so I can include directions to the inspection?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Yes, it's Footscray 108. Can you repeat me if do I pay the bond before seeing the lease?"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Good question! No, you never pay the bond before seeing or signing the lease. You only pay after your application is approved and you’ve reviewed and signed the rental agreement. Would you like me to explain what’s usually included in that lease?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Yes, yes, yes, it could be nice."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Alright! The lease usually includes: The rental amount and payment dates, The bond amount, The length of the agreement (often 6 or 12 months), The rules for the property (like pets or smoking), and The maintenance responsibilities for both tenant and owner. Would you prefer a 6-month lease to start or a 12-month one?"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Okay, I can see. So, at the end, for this first payment, how much is it? And I prefer six months list, please."
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Perfect, a six-month lease it is. For the first payment, you’ll usually pay two weeks’ rent in advance plus the four-week bond. So, for this unit at $280 per week, it would be $560 + $1,120 = $1,680 in total. Would you like me to include a breakdown of those costs in the email too?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "Yes, please, please. So, I'll attend the inspection on Saturday."
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Excellent! I’ve booked you and your sister for Saturday at  a.m. at the Swanston Street apartment. You’ll get the confirmation email with the address, photos, and cost breakdown shortly. Do you need parking information for the inspection as well?"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "No, thank you. It's okay."
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Alright, perfect. You’re all set for Saturday then! I’ll send everything to your email. See you at the inspection—have a great week until then!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "Yeah, thank you. So, after the inspection on Saturday, do I need to send my application?"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Yes, exactly. After the inspection, if you like the apartment, you can fill out and send your rental application with your documents and proof of income. Would you like me to give you a quick checklist of what to include in that application?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Oh, that would be great. Thank you very much."
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Of course! Here’s what you’ll need for your application: Photo ID (passport or student card) Proof of income (like your startup documents or bank statements) Proof of enrollment from your school Rental history or references (if you have any) Contact details for both you and your sister Would you like me to attach this checklist to the email as well, so you don’t forget anything?"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "No, don't worry, I'm going to take a screenshot and I'm going to keep it."
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Perfect, that works just as well! You’re completely ready for Saturday’s inspection then. Anything else you’d like to ask about the rental process before we finish?"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "Not really, thank you very much, so see you soon."
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "You’re very welcome! See you and your sister on Saturday at 11 a.m.—have a lovely week until then!"
+    }
+  ]
+}

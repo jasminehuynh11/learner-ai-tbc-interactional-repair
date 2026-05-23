@@ -1,0 +1,103 @@
+Week 3: Reporting Problems and Seeking Help
+Task 2: Reporting a Lost Item or Filing a Minor Police Report
+You said:
+"Hi."
+English Conversational Partner said:
+Hello! How can I assist you today? Feel free to let me know what you'd like to report.
+You said:
+"And I lost my smartphone at the train station, and / would like to make a report."
+English Conversational Partner said:
+I'm sorry to hear that you lost your phone. Of course, I can help you with that. Could you please describe the phone, including the model and color, and let me know the exact time and location where you think you lost it?
+You said:
+"Okay, I explained the phone. My phone has a red case and a crashed screen. And maybe also, I lost at 3 p.m. Maybe."
+English Conversational Partner said:
+Got it, thank you for that information. A red case and a cracked screen, noted. And you believe you lost it around 3 PM at the train station. Alright, let me ask you a few more details. Did you happen to notice the exact area or platform where you last had it?
+You said:
+（don’t translate ）
+English Conversational Partner said:
+No worries, take your time
+You said:
+"I get on the hospital station. I get a train at hospital stations, but maybe I lost my phone at here, but I'm not sure everything."
+English Conversational Partner said:
+I understand, that's totally fine. We'll do our best to help. What I'll do next is take down all the details you provided, and we'll look into it. If you remember any additional information later on, just let us know.
+Thank you for reporting it!
+You said:
+"However, do I need to show ID when collecting it?"
+English Conversational Partner said:
+Yes, typically, you'll need to show some form of ID to confirm ownership when you come to collect it. If you have any proof of ownership, like a receipt or a phone box, that can also be helpful. But your ID will definitely be important.
+You said:
+"Um, actually this time is traveling and I'm now traveling in here so / don't have any IDs because my IDs is everything is Japanese so"
+English Conversational Partner said:
+I see, that makes sense. In that case, we can definitely work with what you have. If you have any travel documents or a copy of your ID, that could also help. We'll do our best to assist you and keep you updated. Just let us know if there's anything else you need.
+You said:
+"Okay, thank you. Thank you for explaining everything. I appreciate your help."
+English Conversational Partner said:
+You're very welcome! I'm glad I could help. If you need anything else or have more questions, just let me know. Good luck, and I hope your phone turns up soon
+You said:
+"Thank you. I hope that..."
+English Conversational Partner said:
+Absolutely! Fingers crossed everything works out smoothly. And if you need any more assistance, I'm here to help. Take care!
+You said:
+"Goodbye. Thank you."
+English Conversational Partner said:
+You're welcome! Have a great day, and don't hesitate to reach out anytime. Bye for now!
+
+
+Task 3: Requesting Maintenance or Repairs in a Rental Property
+You said:
+Hello, I’d like to report something that needs repair in my apartment.
+English Conversational Partner said:
+Of course. Could you tell me what the issue is and where it’s located?
+You said:
+The heater in my bedroom isn't turning on.
+English Conversational Partner said:
+I see, thank you for letting me know. Could you tell me when you first noticed the issue and if there are any other details that might help us address it quickly?
+You said:
+I realized that this morning, this morning is so cold, so I tried to turn on the heater, but heater don't turn on, so I'm not sure what happened.
+English Conversational Partner said:
+Got it, that sounds uncomfortable! Thank you for the details. We’ll definitely look into it. Could you also let me know if there’s a preferred time for us to come by and take a look, or if there are any specific safety concerns we should keep in mind?
+You said:
+um i wanna i wanna change the heater soon so i'm asking a question for you can someone come today or tomorrow
+English Conversational Partner said:
+Absolutely, we can arrange that. Let me check the schedule and see if we can have someone come either today or tomorrow. I’ll make sure we get it sorted as quickly as possible!
+You said:
+I hope that I'm so, I'm too uncomfortable condition now, so please come to soon.
+English Conversational Partner said:
+I completely understand, and we’ll do our best to get someone over as soon as possible. I’ll confirm the timing and keep you updated. Hang in there, and we’ll get that heater fixed for you quickly!
+You said:
+Thank you so much.
+English Conversational Partner said:
+You’re very welcome! If you need anything else or have any other concerns, just let me know. I’m here to help!
+You said:
+If you come to my house, do I need to stay home for the repairs?
+English Conversational Partner said:
+That’s a great question! In most cases, it’s best to be present so we can access the area and answer any questions. However, if you’re not available, we can arrange a suitable time or even coordinate access through a neighbor or a key lockbox. We’ll make it as convenient as possible!
+You said:
+Thank you, Will.
+English Conversational Partner said:
+No worries at all!
+You said:
+Actually, this is the second time it's happened. Can it be checked more thoroughly?
+English Conversational Partner said:
+Absolutely, we can definitely do a more thorough check to find out the root cause of the issue. We’ll make sure to inspect everything carefully and ensure it’s fixed properly this time. Thanks for letting us know, and we’ll handle it thoroughly!
+You said:
+And also, if there is an emergency number, I can call on...
+English Conversational Partner said:
+Yes, absolutely!
+You said:
+Tell me about it.
+English Conversational Partner said:
+Of course! I’ll make sure to provide you with the emergency contact number so you can reach us quickly if something urgent comes up. We’re here to help, and we want to make sure you’re comfortable and supported at all times.
+You said:
+I want to confirm about this issue, so could you call or text me when they are on their way?
+English Conversational Partner said:
+Absolutely, I’ll make sure to give you a call or send a text when our team is on the way. That way, you’ll know exactly when to expect them. We’ll keep you updated every step of the way!
+You said:
+Thank you so much.
+English Conversational Partner said:
+You’re very welcome! It’s my pleasure to help. If you need anything else at all, just let me know. Take care!
+You said:
+Thank you.
+English Conversational Partner said:
+Anytime! Have a great one, and feel free to reach out whenever you need. Take care!
+

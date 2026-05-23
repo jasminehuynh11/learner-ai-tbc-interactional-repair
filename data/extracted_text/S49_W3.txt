@@ -1,0 +1,139 @@
+WEEK3 – TASK 2: 
+나의 말:
+“Hello, I'm staying at this hotel and I believe I left my phone in the lobby. Could you help me to check?”
+00:08
+English Conversational Partner의 말:
+Of course, I'd be happy to help! Let me quickly check with our lobby staff and see if your phone was found. Could you describe the phone for me, like the model or color?
+나의 말:
+“Oh, my phone is iPhone and the gray color with a blue case and a big scratch in the back.”
+00:13
+English Conversational Partner의 말:
+Got it, that helps a lot! Let me check with our team in the lobby and see if we have it. In the meantime, can you let me know the approximate time you were in the lobby?
+나의 말:
+“Um, I don't know exactly, but maybe it's 3pm around.”
+00:05
+English Conversational Partner의 말:
+Alright, that’s helpful. I’ll let them know it was around 3 p.m. and the details you provided. I’ll check and get back to you in just a moment. In the meantime, is there anything else I can assist you with?
+나의 말:
+“What happens if someone finds it?”
+00:03
+English Conversational Partner의 말:
+If someone finds it, we usually keep it at the front desk for safekeeping, and we’ll try to contact you right away. So, rest assured, we’ll do our best to get it back to you as soon as possible! Let me check in with the staff and I’ll let you know.
+나의 말:
+“Okay, then, can I leave my contact details?”
+00:04
+English Conversational Partner의 말:
+Absolutely, that would be great! If you could share your name and the best phone number or email to reach you, I'll make sure we have that on file so we can contact you as soon as we find your phone.
+나의 말:
+“Okay, my name is Weber, and if you find my phones, please contact my Instagram, please.”
+00:10
+English Conversational Partner의 말:
+Got it, Weber! I'll make a note of that and let the team know to reach out through your Instagram if we find it. I’ll keep you updated as soon as I have any news. Let me know if there's anything else I can do for you in the meantime!
+나의 말:
+“Do you know my Instagram ID?”
+00:03
+English Conversational Partner의 말:
+I’m afraid I don’t have that information on hand, but if you’d like, you can share your Instagram handle with me, and I’ll make sure we have it noted down. Just let me know whenever you’re ready!
+나의 말:
+“Okay, my Instagram ID is weber.877.”
+00:11
+English Conversational Partner의 말:
+Perfect, thank you for that! I’ll make sure we have your Instagram handle noted, and we’ll reach out there if we find your phone. I’ll keep you posted as soon as I have any updates. If there’s anything else, just let me know!
+나의 말:
+“Thank you. I appreciate your help.”
+00:02
+English Conversational Partner의 말:
+You’re very welcome! I’m happy to help. I’ll be in touch as soon as we have any news. In the meantime, if you need anything else, just let me know.
+나의 말:
+“Okay, then, could you, could I borrow a subphone? I want to call my parents, but I don't have any phone. Just this hotel telephone. So, could you borrow any phone or telephone or something?”
+00:28
+English Conversational Partner의 말:
+Of course, absolutely! You’re more than welcome to use the hotel phone to call your parents. Just let me know if you need any assistance with that, and I’m happy to help set it up for you!
+나의 말:
+“So, can I use this hotel telephone?”
+00:06
+English Conversational Partner의 말:
+Absolutely, you can! Just let me know the number you’d like to call, and I’ll make sure we get you set up right away. Feel free to let me know whenever you’re ready.
+나의 말:
+“Okay, thank you.”
+00:02
+English Conversational Partner의 말:
+You're very welcome! If you need anything else at all, just let me know. I’m here to help.
+
+
+TASK 4: 
+나의 말:
+“Hello, my phone keeps restarting by itself.”
+00:03
+English Conversational Partner의 말:
+Oh, I’m sorry to hear that! That sounds frustrating. Let me help you out. Could you tell me what kind of phone you have and maybe when this issue started happening?
+나의 말:
+“My phone is iPhone 16 Pro Max and it's happening this morning.”
+00:06
+English Conversational Partner의 말:
+Got it, thanks for sharing that. So it just started today. Have you tried any troubleshooting steps so far, like restarting it or updating the software?
+나의 말:
+“Now I've tried restarting right after that happening, but I don't know is it fixed.”
+00:08
+English Conversational Partner의 말:
+I see, gotcha. Well, sometimes it helps to check for any software updates or even reset settings. Have you noticed if any specific app is running when it restarts, or does it happen randomly?
+나의 말:
+“I don't know, but maybe it's just happened, I mean, randomly.”
+00:06
+English Conversational Partner의 말:
+Got it, that makes sense. In that case, it might be worth checking if there's enough storage space or if any recent app updates could be causing it. Would you like some tips on how to check those things?
+나의 말:
+“Yes, please.”
+00:01
+English Conversational Partner의 말:
+Absolutely! So first, you can check your storage by going into your settings and looking under General and then iPhone Storage. Also, make sure your iOS is up to date by going to Settings and then General and Software Update. And if that doesn't help, we can try a few more steps. Let me know if you need more guidance!
+나의 말:
+“Should I update the software?”
+00:03
+English Conversational Partner의 말:
+Yes, definitely! Updating the software can often fix bugs and improve stability. It’s usually a good first step. If you want, I can guide you through the process step-by-step!
+나의 말:
+“Okay, please.”
+00:01
+English Conversational Partner의 말:
+Alright, sounds good! So, to start, just open your Settings app on your iPhone, then tap on General, and then tap on Software Update. From there, if there's an update available, you'll see the option to download and install it. Let me know if you need any help along the way!
+나의 말:
+“Okay, but what happens if it's not fixed after trying these steps?”
+00:06
+English Conversational Partner의 말:
+That's a great question! If it’s still happening after updating, we might try a few more steps, like resetting your phone’s settings or even backing it up and restoring it. But hopefully, the update will do the trick. And of course, I'm here to help you with each step if needed!
+나의 말:
+“Okay, we'll resetting delete my files or photos.”
+00:07
+English Conversational Partner의 말:
+That’s a really good concern. Usually, if you just reset the settings, it won't delete your files or photos. But if you do a full factory reset, that would erase everything. So it’s always best to back up your data first, just to be safe. Let me know if you need guidance on backing up!
+나의 말:
+“Yes, I need to guide. Is there any way to backup before I reset the phone?”
+00:07
+English Conversational Partner의 말:
+Absolutely! One of the easiest ways is to use iCloud. You can go to your Settings, tap on your name at the top, then choose iCloud and iCloud Backup, and then just tap on Back Up Now. Alternatively, you can also back up to your computer using iTunes or Finder. Just let me know which method you'd prefer, and I can walk you through it!
+나의 말:
+“Okay, thank you. I will try it.”
+00:02
+English Conversational Partner의 말:
+You’re very welcome! If you run into any issues or need more help along the way, just let me know. Good luck, and I hope it all gets sorted out smoothly!
+나의 말:
+“I have one more question, I have Apricare service and my phone screen was cracked a little bit, is this covered under warranty or do I need to pay for repairs?”
+00:16
+English Conversational Partner의 말:
+That's a great question! Usually, AppleCare covers accidental damage, but there might be a service fee for screen repairs. It’s best to check the specifics of your plan. You can either look up your coverage online or contact Apple Support directly. If you’d like, I can help you with that as well!
+나의 말:
+“Oh, I'm sorry, could you tell me again?”
+00:02
+English Conversational Partner의 말:
+Of course! No worries at all. So, generally, AppleCare does cover accidental damage, but there’s usually a service fee for things like a cracked screen. It’s a good idea to check the details of your specific plan or contact Apple Support to confirm. And if you need any help with that, just let me know!
+나의 말:
+“Okay, thanks. I'll check.”
+00:01
+English Conversational Partner의 말:
+You’re very welcome! If you have any more questions or need further assistance, just let me know. I’m happy to help anytime. Good luck with everything!
+나의 말:
+“Thanks for your help. I'll try those steps.”
+00:04
+English Conversational Partner의 말:
+You’re very welcome! I’m glad I could help. If anything comes up or you have more questions later, just reach out. Good luck, and have a great day!

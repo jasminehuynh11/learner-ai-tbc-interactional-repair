@@ -1,0 +1,90 @@
+{
+  "student_id": 27,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S27_W1_T2",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a table at a restaurant 🗨️ “Hi, I’d like to book a table for two tonight.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! What time would you like the table for tonight?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Well, I want to book a table at a restaurant. I want to book from 1 p.m. to 4 p.m."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! Do you have any specific dietary preferences or favorite dishes that you’d like us to keep in mind?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "I have four friends. One is vegan and one can't eat any peanuts because she is allergic to it."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, that’s really helpful to know! We’ll make sure to have vegan options available and keep everything peanut-free for your friend. Is there anything else we should consider for the group?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Please sit near the windows if possible."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to arrange a window seat for you all. Anything else you’d like to add to the reservation?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I'm booking for my friend's birthday because my friend is like having a birthday and we could like celebrate together with Christmas and could we bring our own cake for the celebrations?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That sounds wonderful! We can definitely note the birthday celebration for your friend. And yes, you’re welcome to bring your own cake. Is there anything else we can do to make it extra special?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Do you have the confirmation message for this one?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! I’ll send you a confirmation message with all the details shortly. Is there a preferred contact method for that confirmation?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I'm looking forward to it. Well, do the kitchen close earlier or could we still order desserts if we stay after 4pm?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That’s definitely something we can check on! Typically, the kitchen stays open for orders until a bit later, but I’ll make sure to confirm that for you."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Thank you very much!"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, sounds good! Have a wonderful day, and I’ll see you soon!"
+    }
+  ]
+}

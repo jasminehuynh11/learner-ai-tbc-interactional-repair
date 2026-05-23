@@ -1,0 +1,85 @@
+{
+  "student_id": 7,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S7_W1_T3",
+  "source_file": "data\\raw\\#7\\#7\\#7. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Sure! I’ll be your retail assistant today. Hi there, welcome back! What seems to be the issue with your purchase today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I would like to ask you if I could return or replace a bag I perchased. I purchased this nice bag for myself, but its handle was teared while using in daily life in about two weeks. Of course I have receipt here. Can I return it, or get a refund?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, thanks for letting me know. I’m sorry to hear about the handle — that must be frustrating. Could I please take a quick look at the bag and your receipt to check the purchase details?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Yes, please. Here is the tear. It spoil this nice bag."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I see, thanks for showing me. The tear is quite clear. Do you remember if you bought it in-store or online? That helps me check which return policy applies."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "OK. I remember… I perchased in September fifteenth online. If you can't refund, I want you at least replace its handle, is it OK? Please check your return policy and let me know."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sure, let me check that for you. Since you bought it online and it’s within 30 days, we can either offer a full refund or send a replacement if the item is faulty. Would you prefer to get a new bag or just have the handle repaired?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I use it for my business and it's my favorite, so please give me a new same bag. I will ask you a question. I have already taken off the tags, is it no problem?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries — since the damage is a quality issue, the missing tags won’t be a problem. We just need the receipt, which you already have. Could I confirm your order number so I can start the replacement request for you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Yes. My order number is 20941760. Thank you so much for your service."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’ve noted your order number — we’ll process the replacement and email you once it’s shipped. It should arrive in about 5–7 business days. Is there anything else I can help you with today, maybe another item or a question about care instructions for your new bag?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "No, thank you. That's perfect. I will wait for the new bag arriving."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Great! I’m glad we could sort that out for you. Thanks for coming in, and I hope you enjoy your new bag when it arrives. Have a lovely day!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Have a good day too!"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Thanks so much! Take care and see you next time!"
+    }
+  ]
+}

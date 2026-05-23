@@ -1,0 +1,155 @@
+{
+  "student_id": 31,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S31_W4_T2",
+  "source_file": "data\\raw\\#31\\#31\\#31. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Participating in Group Decisions and Negotiating Responsibilities"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“How did Future start our group project? Can we blend the tasks together? Can we decide who will do each part?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That’s a great idea. Let’s break it down by tasks. For instance, I can work on the research and data collection part. How about you handle the initial draft of our presentation? What do you think?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yeah, sure, I can handle that. I really appreciate that, yeah.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Great! I’ll get started on the research right away. Could we aim to have our parts done by next Wednesday? That way, we have some time to review everything together before the final deadline. How does that sound?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Do you feel that it's a bit quick and it's a bit late, a bit rushed? Can it move to like Friday or Saturday? Because I have a meeting next week. I have an interview for my job next week. And I'm not sure that I can do my job on Wednesday.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "No problem, I understand. Let’s aim to have our parts done by Friday, so we have time to review everything before the weekend. Good luck with your interview! Let’s keep each other updated on our progress."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“And also, we need to choose the presentation order. What do you think works best? Like, how about dividing... Yeah.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That’s a good point. How about we start with the introduction and overview, then move on to the main findings and analysis? I can kick off with the introduction, and then you can present the main findings. How does that sound to you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yeah, that's good. I'm agree with that and and over one thing like To Can we can read a message in the in the group chat that Also the other people can can can can know what we are doing like yeah Who will doing the writing session or the reading session or something yeah”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, keeping everyone in the loop is a great idea. I’ll draft a quick message in our group chat outlining our roles and the presentation order. This way, everyone knows what to expect and can contribute effectively. I’ll take care of that now!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Okay, that's good. And let's message each other if we run into the problems.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sounds like a plan! Let’s stay in touch and support each other throughout the project. If anyone runs into issues, we’ll help each other out. Looking forward to seeing our work come together!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“No transcription available”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, it’s natural for teams to have different perspectives. Let’s find a middle ground. How about we combine the best elements of both views? Let’s discuss the specific points where we differ and see how we can integrate them. What do you think about that approach?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“I also have a project that you packed yesterday, too, and I think that putting more some elements about doing more good, that is better.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I understand your concern. Let’s take a step back and evaluate the options together. We can look at the benefits of each approach and find a solution that incorporates the strengths of both. Could we schedule a brief meeting to discuss this further and come to a consensus?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yeah, that's good. And how can we handle that? If someone cannot meet a deadline, how should we handle that?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "If someone can't meet a deadline, it’s important to address it collaboratively. Here’s how we can handle it: Open Communication: Encourage team members to inform us as soon as they anticipate any delays. Reassess and Adjust: We can redistribute tasks or extend the deadline if needed, ensuring that everyone can contribute effectively. Support: Offer help if someone is struggling with their part. Sometimes, a bit of assistance can make a big difference. By communicating openly, adjusting as needed, and supporting each other, we can ensure the project stays on track and everyone feels valued. This approach helps maintain a positive team dynamic and ensures that we can still achieve our goals together. Let’s keep supporting each other!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Okay, that's good. Should we check in every few days to stay on track?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Checking in regularly is a great idea. How about we set a quick check-in every couple of days to ensure we’re all on the same page and address any issues promptly? That way, we can keep the momentum going."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yeah, that's cool.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Great! Let’s plan to check in every two days. We can use our group chat to share updates and address any questions or concerns. This will help us stay coordinated and ensure we meet our deadlines. Sounds good?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Good, that's good. Yeah, I'm really happy to try Brain Station, but I've never done it before. Yeah, I'm really appreciate that you guys can help me about something and that we can help each other with the problem or something. That's very good, that helps us very much.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "You’re welcome! We’re all here to support each other. Don’t worry about trying new things — we’ll work together and learn as a team. If you need anything, just let us know. We’ve got this!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“So that's it guys, and so we all agree about the new timeline, and yeah.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, that sounds good. We’re all set with the new timeline and our roles. Let’s keep each other updated and support one another. If anything comes up, feel free to reach out. We’ve got this!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Okay, that's good. Thank you so much. We will meet each other another time.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You’re welcome! Looking forward to our next meeting. Have a great day and take care!"
+    }
+  ]
+}

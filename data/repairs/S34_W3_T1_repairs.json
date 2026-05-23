@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S34_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – learner's phrase 'it is moving properly' misinterpreted",
+    "evidence_summary": "The learner says 'I've already checked my modem, but it is moving properly.' The bot responds with a question about the location of the outage, indicating a misunderstanding of the learner's statement. The bot's follow-up question helps clarify the situation, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S34_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      43,
+      44
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner's phrase 'What day the wheels they come?'",
+    "evidence_summary": "The learner asks 'What day the wheels they come?' which is unclear. The bot clarifies by stating the technician will come on Saturday at noon. The learner's question is resolved with the bot's clarification."
+  }
+]

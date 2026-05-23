@@ -1,0 +1,330 @@
+{
+  "student_id": 9,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S9_W3_T2",
+  "source_file": "data\\raw\\#9\\#9\\#9. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "TASK 1: Reporting Problems and Seeking Help"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hi there! How can I help you today? What can we chat about?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes,oh can I say that one more time?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! Take your time. Go ahead and let me know what you were trying to say, and I'm here to help."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, and can you hear my problem with my house problem?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure, of course! I'd be happy to help with that. What seems to be going on with your house?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, in my house, my Wi-Fi is not connected, I think, but yesterday it was working well, but nowadays it doesn't work.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, I got it! So it sounds like your Wi-Fi's just not connecting all of a sudden. Let me ask: have you tried restarting your router or any of your devices yet?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, I checked on my router and I turned off my item again, but it's not working.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, that makes sense. So you've tried restarting things and it’s still acting up. Let me ask you this: have there been any changes in the house recently, like new devices or anything that might cause interference?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I think your company co-worker will come to my house, it's better to me.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure, I get that! Sometimes it's just easier when someone can come over and take a look. So let me just ask you one last thing: would you like me to"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, sounds good! So would you like me to help you maybe figure out how to contact your internet company or set up an appointment?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Mmm, yes.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, perfect! Let’s do that then. If you can just let me know which internet company you’re with, I can help you figure out the best way to reach them."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I'm so sorry. This is not my house. I don't know my company. Can I send you email my item pictures?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure, no worries at all! If it's not your place, I totally get it. So if you want to just show me a quick picture of the router or any details you have, feel free. And then we can figure out the next step."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, but I will go out my house, so after then we talk about, and I will take the picture.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, that sounds like a plan! So go ahead, do what you need to do, and whenever you're ready to chat again or send a picture, just let me know."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yes, but your company co-author will come to my house, right?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, that sounds like a plan! So go ahead, do what you need to do, and whenever you're ready to chat again or send a picture, just let me know."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Everything is okay. Is that the weekend is possible?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure, absolutely! Weekends are totally possible. So let's say we can arrange someone to come by on the weekend. Is there a particular time of day that works best for you?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, we can be flexible. If you need to change the time, that’s no problem at all. And sure, if dinner time works for you, we can find an evening slot. So just let me know roughly what time in the evening you'd like, and we'll get that set up for you."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Also, can I change the time and is that possible in dinner?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Sure, 8 p.m. works perfectly! We'll set that up for you this weekend at 8 p.m. and someone will come by and help you out. Let me know if you need anything else!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“How about at 8 p.m.?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Sure, 8 p.m. works perfectly! We'll set that up for you this weekend at 8 p.m. and someone will come by and help you out. Let me know if you need anything else!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“I will tell you my home address.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Sure! Go ahead and let me know your home address whenever you're ready, and I'll make sure we note that down so our tech can come by."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Okay, my address is in entry field on 37 Palazzo Street.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Got it! Thanks for that. We'll note down 37 Palace Street in Sheffield, and we'll have someone there at 8 p.m. this weekend. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“If there was an accident, what should I do about that problem?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Sure! After that, once our tech has come by and taken a look, they'll walk you through anything else you need to do. In the meantime, just sit tight and we'll handle the rest. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“No, thank you.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "You're very welcome! We'll get everything sorted out for you. Thanks for chatting, and have a great day!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Have a great day, too.” TASK 2: Reporting a Lost item or Filling a Minor Police Report"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Hello.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Hey there! What can I do for you today?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Is there a police officer, right?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely. I’m a police officer. So, let's start off: can you tell me what happened?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Yes, I have just realized I lost my wallet and my house key and I would like to write a report.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Alright, I understand. Let's get that sorted for you. First off, could you let me know where and when you last remember having them?"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“I stopped in the town hall station, from town hall station to Ashefield station.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Alright, that helps. So it sounds like you might have lost it somewhere between Town Hall and Ashfield. Now, do you remember if you were on the train or maybe on the platform when you last had it?"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“I confused, I lost my wallet and key, and I'm not sure station or platform.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Sure, that’s fine."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Maybe I visit the town hall station, I saw my wallet.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Alright, that’s a good detail. So it might have been at Town Hall station. Now, could you let me know what your wallet looks like or if there’s anything distinctive about your keys that might help us find them?"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Yes, my wallet is pink, and my house key is just a simple silver design key with a necklace-like keychain.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Gotcha. That definitely helps us keep an eye out for a pink wallet and a silver key on a necklace chain. Now, let me just ask, have you already checked with lost and found at the station, or would you like us to help you with that next?"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Yes, what do I have to do the next day?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Well, what we can do next is I'll go ahead and file the report for you, and then we'll also contact the station's lost and found. So let's do that. And in the meantime, is there a phone number or an email you'd like me to note down so we can reach you if anything turns up?"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Can I ask one more?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Of course, absolutely. Go right ahead. What else would you like to ask?"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“The loss to something, that situation is first time to me, so I don't know what is the effort.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Sure, I get that. It's definitely a bit confusing the first time. So basically, I'll just make sure we have all your details, and then we'll get in touch with the lost and found. If they find anything, they'll reach out to you. So let's start by noting down your contact info, and we'll go from there."
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“And how long do I wait?”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Absolutely. Usually, it might take a day or two for lost and found to get back to you if they find something. So just hang tight, and we'll keep you posted. And of course, if you have any other questions, just let me know."
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“I don't know any question, not yet.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "All right, that sounds good. We'll just go ahead and proceed with that. And if anything else pops up, feel free to ask."
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "You're very welcome! We'll take it from here, and I’m glad I could help. If you need anything else, just let me know."
+    }
+  ]
+}

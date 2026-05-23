@@ -1,0 +1,125 @@
+{
+  "student_id": 1,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S1_W4_T1",
+  "source_file": "data\\raw\\#1\\#1\\#1. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, hello. Today I need to practice about my academic communication. I need to practice my career plans. You are the university advisor, and I need to explain my situation.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help! Let's get started. Why don't you go ahead and tell me a bit about yourself, like your academic background and your current focus, and then we can craft your introduction together."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yes, actually...”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "No worries, take your time! Whenever you're ready, just share a bit about your academic journey so far, and then we can refine it and make it sound great. Just let me know when you're ready to start."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I am studying English in ILSC in Adelaide, and I was studying Childhood Education in Colombia. And now, for my next visa, I need to...”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, that sounds"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“It changed my study for something with relation with my career in Colombia.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense! So, we’ll highlight your background in English and your high school education, and then we can shift to your current studies and future goals. Whenever you’re ready to continue, just let me know!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I'm thinking to change my career, but I don't know if it's the best option. Could you help me understand my options in Adelaide, Australia?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course, I'd be happy to help with that! We can definitely explore some other options and see what aligns best with your interests and goals. Just let me know what you're considering, and we can weigh the pros and cons together!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Now I'm going to study general English, but I feel that I don't have the English necessary to do a master or other career in a university, but I have studied something that”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "I understand, that"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“that have points for PR in Australia. And I don't know if there are something that similar to my career, to childhood or maybe childcare.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense. We can definitely look into programs or opportunities that support students who might not have perfect English proficiency yet. We can explore pathways, like English language programs or bridging courses, that can help you get ready. Just let me know what you’re curious about, and we’ll figure it out together!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Should I do a diploma before a master's degree?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That’s a great idea! A diploma program can definitely give you that solid foundation and help you build your English skills as well as your academic confidence. We can definitely explore some programs that match your goals. Just let me know what kind of field you’re interested in, and we’ll find the best fit!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“That sounds like something I'd enjoy.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That sounds wonderful! I’m glad you’re enjoying it. Whenever you're ready to dive deeper or have any specific questions, just let me know, and we can keep exploring your options together!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“follow-up meeting once I decide.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Whenever you’re ready to follow up or need more guidance, just reach out, and I’ll be here to help. Looking forward to it, and best of luck with everything in the meantime!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“It's all for now. Thank you so much.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "You’re very welcome! Anytime, and feel free to reach out whenever you need. Have a great one!"
+    }
+  ]
+}

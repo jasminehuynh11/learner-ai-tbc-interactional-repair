@@ -1,0 +1,41 @@
+[
+  {
+    "dialogue_id": "S32_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'modem or router'",
+    "evidence_summary": "The learner explicitly asked for clarification on the term 'modem or router' in turn 7. The bot provided a clear explanation in turn 8, and the learner was able to provide the requested information in turn 9, indicating successful resolution."
+  },
+  {
+    "dialogue_id": "S32_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      25,
+      26,
+      27
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner asks about password recovery",
+    "evidence_summary": "The learner anticipated a problem with remembering the password in turn 25, asking for guidance. The bot offered several solutions and reassurance in turn 26. The learner acknowledged and accepted the guidance in turn 27, resolving the potential task obstacle."
+  },
+  {
+    "dialogue_id": "S32_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      33,
+      34,
+      35
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner asks about next steps after update",
+    "evidence_summary": "The learner sought clarification on whether the problem was solved or if further steps were needed after the update in turn 33. The bot explained the expected outcome and suggested restarting the router in turn 34. The learner acknowledged and proceeded with the suggested action in turn 35, indicating understanding of the next steps."
+  }
+]

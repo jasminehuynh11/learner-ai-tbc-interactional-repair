@@ -1,0 +1,130 @@
+{
+  "student_id": 32,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S32_W2_T2",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Bank and Asking for Help with Banking Services:"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, let's do that! Good morning! Welcome to our branch. How can I assist you today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I would like to open a new sales account and I started to do the process online, but I can't finish the process.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I see, no worries at all! We can definitely help you complete it here in person. Could you let me know which documents you've already provided online, and what might be missing?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Yes, I tried to provide the passport, but I can't, the system says that it didn't recognize me or I need another ID, and I don't have anything else."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. In that case, we can definitely help you with an alternative form of ID. Do you have something like a driver's license or a government-issued ID card?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Because I am an international student, I only have my passport with me.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I understand, that makes sense. In that case, we can definitely verify your identity in person. We might also need some proof of your student status, like your student ID or your enrollment letter. Would you have those with you?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, I have, but I only have it on my mobile, so it's okay, or I need to bring it on paper.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That's perfectly fine! We can definitely accept it digitally. You can just show it to us on your phone. So, let's go ahead and start with that, and we'll get everything set up for you. Anything else you'd like to ask about the process?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yes, I want to know if I open the saving account now, I receive the card, the physical card now, or I have to wait to receive it after.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great question! Typically, you'll get a temporary card right away, and then the physical card will be mailed to your address, which usually takes a few business days. But we can definitely confirm that for you as well."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“If I have to wait for the physical card. Is it possible to use an online card instead of the physical card?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! Yes, once your account is open, we can activate a digital card for you right away, so you can start using it online or for contactless payments immediately. And the physical card will follow shortly after."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“OK, thank you. Can you repeat to me, please, how many business days are available to receive the physical card?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course! Usually, it takes about five to seven business days for the physical card to arrive, depending on your location. But you'll have full access to your digital card right away."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I need two more documents or only with the passport and the enrollment. It's okay.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That should be sufficient for now! With your passport and your enrollment proof, we should be all set. If anything else comes up, we’ll let you know, but that’s pretty much it!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "For now no, I think that's it."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect, that sounds great! If you have any other questions later on, just let us know. Thank you so much for stopping by, and have a wonderful day!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“OK, thank you.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care, and feel free to reach out anytime. Bye for now!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Bye bye, have a good day.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Thank you so much! You too! Have a fantastic day, and take care!"
+    }
+  ]
+}

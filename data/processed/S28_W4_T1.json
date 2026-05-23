@@ -1,0 +1,215 @@
+{
+  "student_id": 28,
+  "week": 4,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S28_W4_T1",
+  "source_file": "data\\raw\\#28\\#28\\#28. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, today we are practice about discussing study or career plan with an advisor.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That sounds great!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Could you practice with me? I am a student. You are maybe a professional.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help! Just let me know what kind of scenarios you'd like to practice, and we can jump right in."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Okay, I'm study business, but I'm not sure it is the right fit”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! We can definitely explore that. So, to start, could you share what your main interests or goals are in business, and what you're hoping to achieve?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I have a work part-time in retail, but I would like to try something new, and I'm thinking about changing my degree. Could you help me understand my options?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Of course, I'd love to help! So, let’s talk about what areas of business interest you the most and what kind of roles you’re curious about. That way, we can narrow down the best options for you. What do you think?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“like the business is like the company b2b or b2c and i'm not so sure now it is really popular in uh have a deal with the internet so like amazon or tiktok we can we can put our product on it and”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, that makes"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“And I also think maybe in the future I want to study overseas. So could you give me some options?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course! That’s exciting. We can definitely explore options that combine business with international opportunities. Let’s look at different fields, like international marketing or e-commerce, and see which ones align with your goals. Sound good?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yeah, what's the difference with international marketing or economic?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great question! So, international marketing focuses on promoting products and understanding consumer behavior across different countries, while economics is more about studying how resources are allocated and understanding market forces on a broader scale. Both are really valuable, depending on what you’re interested in."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Okay, it sounds like economic hurt difficult more and then marketing maybe now is more popular right now, right?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yeah, definitely! Marketing tends to be more hands-on and creative, and it’s in high demand, especially with digital platforms growing so quickly. It can definitely be a bit more approachable compared to economics. But we can explore both and see what fits you best!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Okay, yeah, let me think. And do you think I need more work experience before I applied overseas university?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That’s a great consideration! Gaining some work experience can definitely help you build practical skills and make you a more competitive candidate. But it’s not always mandatory. It really depends on the program and what you’re aiming for. We can definitely look into specific requirements and options together!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Okay, what kind of work experience are you looking for?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Great question! Typically, relevant work experience could include internships in marketing, sales, or business development, or even roles in retail management that show leadership and customer interaction. Anything that demonstrates your understanding of business concepts will be helpful. Let me know if any of those sound like a good fit for you!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“And should I do a diploma before a master's degree or diploma is enough?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "That really depends on your background and your goals. Sometimes a diploma can give you a solid foundation, and then you can jump into a master’s later. But if you already have some relevant experience or a related bachelor’s degree, you might be able to go straight into a master’s program. We can definitely explore what suits you best!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“But now if I want to find a job, the degree is important for me.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "That’s a really good point. In many fields, experience and skills can be just as important, if not more so, than the degree itself. It really depends on the employer and the specific role. Sometimes having a degree can open doors, but it’s definitely possible to get into a great position with the right experience. We can definitely weigh those options together!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. Feel free to reach out anytime you have more questions or need more guidance. Best of luck with everything, and I’m sure you’ll do great!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Can I ask one more question?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Of course, absolutely! Feel free to ask me anything else that comes to mind, and I'm here to help however I can."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“How can I decide between doing future study or starting work after graduation?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That’s a great question! It often comes down to your long-term goals and what you’re looking to gain. If you’re eager to dive into the workforce and get hands-on experience, starting work right after graduation might be the best choice. On the other hand, if you want to specialize further or open up more advanced career paths, pursuing further study could be beneficial. We can definitely explore what aligns best with your aspirations!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“If I study marketing in my country, will it be more difficult when I study overseas, like I study diploma in my country and I want to study master's degree overseas, will it be more difficult for me, or they use the science theater?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That’s a really insightful question! In general, it can be a bit more challenging to transition from studying in your home country to studying overseas, mainly because of different academic systems, cultural differences, and sometimes language barriers. However, many programs are designed to support international students, and with the right preparation, it’s definitely manageable. And having that international experience can be really valuable in the long run!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“If I study overseas, will it be more easier to find a job?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "In many cases, yes, it can definitely help! Studying overseas can give you access to a broader network, exposure to international companies, and often a deeper understanding of global markets. It can definitely enhance your resume and potentially make you more competitive in the job market. But it also depends on the industry and the specific job you’re aiming for. It’s definitely an advantage to consider!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“In the long term plans, what should I do now if I want to apply for the internship next year?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "That’s a great step! To get started, I’d recommend identifying the companies or industries that interest you most, and then tailoring your resume and cover letter to highlight relevant experiences. It’s also helpful to start networking early, perhaps attending industry events or connecting with professionals on platforms like LinkedIn. And of course, planning ahead and setting clear goals will definitely help you along the way!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“And how can I stay motivated if I'm not sure about my goals yet?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "That’s totally understandable! One way is to break your goals into smaller, manageable steps and celebrate each milestone. Also, staying curious and open to new experiences can keep you motivated. It’s helpful to remind yourself of the bigger picture and stay flexible, adjusting your path as you learn more. And of course, seeking support from mentors or peers can really help keep you inspired."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Okay, thank you for your time. I will think about it.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "You’re very welcome! Take your time, and if you have any more questions down the line, just let me know. Best of luck, and I’m here whenever you need!"
+    }
+  ]
+}

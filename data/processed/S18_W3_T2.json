@@ -1,0 +1,120 @@
+{
+  "student_id": 18,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S18_W3_T2",
+  "source_file": "data\\raw\\#18\\#18\\#18. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello, I've lost my wallet at the train station and I would like to make a report.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Oh no, I'm sorry to hear that! Definitely understand how stressful that can be. You might want to contact the station's lost and found department directly. If you need, I can help you find their contact details or guide you through the process. Let me know how I can assist!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes, that's really important because I have so many important ID cards inside that. So, it's a black round wallet, and it has some symbols. It's about Chinese, it's about Mandarin symbols on both sides of my wallet. And it also has a key ring with Apple tags.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Updated saved memory Got it, that definitely helps narrow it down. I'd recommend contacting the station's lost and found as soon as possible and giving them those details. You might also want to report it to the local police station, especially for the ID cards. Let me know if you need any help with the contact info or anything else!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, because I last saw it at the train station around 2 p.m.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, that's great to know. The more details, the better. Definitely let them know the exact time and location where you last had it. If you need help drafting a report or finding the contact info for the station or local authorities, just let me know!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, and I also used it when I had my lunch in the restaurant. I think it's at the corner of New Street and Locke Street.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Updated saved memory Got it! That definitely gives more clues. It might be worth checking with the restaurant as well, in case someone found it there. Hopefully, it turns up soon. And if there's anything else I can do to help, just let me know!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, I asked them before, but they said they didn't receive any lost items in their restaurant. And what happens if someone finds it?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "I see, that makes sense. Usually, if someone finds it, they might hand it in to the station's lost and found or to local authorities. It’s also possible they might try to contact you if there's any identifying info. In the meantime, it’s good to keep in touch with both the station and the police, and keep checking in periodically. Hopefully, it’ll turn up soon!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, do I need to fill up a form?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Yes, typically, for lost and found reports, you'll need to fill out a form with your contact details, a description of the item, and where and when you lost it. The station or police station will guide you on the exact process. If you want, I can help you find the specific form or details for the location you’re dealing with. Just let me know!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, and also how long usually do you keep lost items on file?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "It can vary depending on the location and the policies, but generally, train stations and police stations keep lost items for anywhere from a few weeks to a few months. After that period, if the items aren't claimed, they might be donated, auctioned, or disposed of. It’s always good to follow up regularly and stay in contact with them. If you want more precise info, I can definitely help with that too!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, and what should I do if I lost it in another city? Because I went to Melbourne last morning, but I forgot whether or not I did use it.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Updated saved memory Got it! In that case, it's a good idea to contact the lost and found departments in Melbourne as well, including the train stations and any places you visited, like restaurants or shops. You can also report it to the local police in Melbourne. The process is pretty similar, just make sure to provide as many details as possible. And definitely keep an eye on any updates. If you need help connecting with specific places in Melbourne, I'm here to help!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, so next I should call them for the report. So, okay, thank you. I'll check back tomorrow and thanks for explaining everything.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You're very welcome! I’m glad I could help. Definitely keep me posted, and I hope everything turns up soon. And if you have any more questions or need anything else, just let me know. Good luck, and talk to you soon!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, thank you and please call me if it is found.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, I'll keep my fingers crossed that it turns up quickly! And if I hear anything, I'll definitely let you know. Take care, and I hope you have a good rest of your day!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I appreciate your help.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm always happy to help. If anything else comes up, just reach out anytime. Have a great one!"
+    }
+  ]
+}

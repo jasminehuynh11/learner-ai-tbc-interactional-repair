@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S32_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "lack of understanding – learner asks for repetition",
+    "evidence_summary": "The learner explicitly asks the bot to repeat information about the physical card delivery time, indicating a lack of understanding or retention of previously provided information. The bot repeats the information, and the conversation continues smoothly, showing the issue is resolved."
+  },
+  {
+    "dialogue_id": "S32_W2_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      17,
+      18
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "lack of understanding – learner confused about document requirements",
+    "evidence_summary": "The learner expresses confusion about the number of documents required, asking for clarification on whether only the passport and enrollment proof are sufficient. The bot provides a clear answer, and the learner accepts it, indicating the confusion is resolved."
+  }
+]

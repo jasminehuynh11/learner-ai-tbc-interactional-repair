@@ -1,0 +1,190 @@
+{
+  "student_id": 18,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S18_W2_T2",
+  "source_file": "data\\raw\\#18\\#18\\#18. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to open a new saving account.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "That sounds great! Are you looking for any specific features in the savings account, like a high-interest rate, no fees, or maybe a specific bank in mind? Let me know and I can help guide you!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Do I need an appointment or I came in today?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "It often depends on the bank's policy. Some banks do allow walk-ins, but others might prefer you to schedule an appointment. It could also be quicker if you do book ahead. If you let me know which bank you're considering, I can help you find the details!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Okay, I will choose Commonwealth Bank.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Updated saved memory Perfect! Commonwealth Bank generally allows both walk-ins and appointments for opening new accounts. It might still be a good idea to call ahead or check their website to confirm wait times. If you need any help with specifics, just let me know!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, do I need proof of address or enrollment?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Yes, typically you'll need some form of identification, like your driver's license or passport, and also proof of address, such as a utility bill or a bank statement. If you're a student, having your enrollment confirmation or student ID can also help. It’s always good to double-check the specific requirements with the bank beforehand, though."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, can I open an account without a job yet?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! You don’t necessarily need to have a job to open a savings account. As long as you can provide the required identification and proof of address, you should be good to go. Banks usually welcome customers regardless of employment status."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "If you have any other"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, so what types of accounts are available for students?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "For students, banks often offer specialized savings accounts with features like lower fees, higher interest rates, or even bonus benefits. Some banks have student-specific accounts that come with perks like no monthly fees, easy access to funds, or even discounts. It’s definitely worth checking out what Commonwealth Bank offers specifically for students!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Hmm, good. Okay, that's good to know. Is it possible to do this over the phone?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Yes, definitely! Many banks, including Commonwealth Bank, allow you to start the process over the phone. You can speak with a representative, and they can guide you through the requirements and help you get started. Then, you might just need to visit a branch or submit some documents online to finalize everything."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, so is there a monthly fee for student account?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "In many cases, student accounts do come with no monthly fees or significantly reduced fees. Commonwealth Bank, for instance, usually offers fee-free student accounts or accounts with minimal charges if you meet certain criteria. It’s always a good idea to double-check the latest terms, but generally, student accounts are designed to be pretty budget-friendly."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, so do you offer debit cards with this?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Student savings accounts typically come with a debit card, so you can easily access your funds, make purchases, and withdraw cash. It's pretty convenient and straightforward, and the bank will usually help you set it up when you open the account."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yeah, that's convenient. So how do I check if international transfers are enabled on my account?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You can usually check that by looking at your account details through your online banking platform or mobile app. Alternatively, you can give the bank’s customer service a call, and they'll confirm whether international transfers are available for your specific account. Sometimes, you might need to enable certain features or link a specific service, but it’s pretty straightforward."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Oh, okay. Is it possible to temporarily freeze my account while I'm out overseas?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, definitely! Most banks, including Commonwealth Bank, offer the ability to temporarily freeze or lock your account. This can help protect your funds while you're overseas. You can usually do it through the online banking platform, the mobile app, or by contacting customer service. And once you're back, you can easily unfreeze it as well."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Oh, that's really good. OK, so how do you verify identity for large transfers?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "For large transfers, banks usually have a few layers of verification. This can include multi-factor authentication, like a one-time password sent to your phone or email, and sometimes even a security question or verification through your branch. In some cases, they might also ask for additional documentation, like proof of income or identification, to ensure everything is secure."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“OK, that makes sense. That makes sense. Are there any limits on how much I can transfer daily?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Yes, typically there are daily transfer limits, and these can vary depending on the type of account and the bank’s policies. For Commonwealth Bank, for instance, there are usually standard daily limits for online and phone transfers. If you need to transfer more than the limit, you can often request a temporary increase or do it in multiple transactions. It’s always good to check the specific limits for your account type, and if needed, the bank can help you with that."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, could I move my money into a term deposit? What are the options?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely! You can transfer funds from your savings account into a term deposit. Term deposits usually offer a fixed interest rate for a set period, like three months, six months, a year, or even longer. The options vary based on the amount you're depositing and the term length you choose. You can usually open one online, through the app, or by visiting the branch, and the bank will give you details on the interest rates and terms available."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, thank you. That's it, and that answers all my questions. Have a good day!”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you have any more questions in the future, just let me know. Have a fantastic day!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Thank you, I'll come by next Monday with my documents.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Updated saved memory That sounds great! I'll be here if you need any more assistance before then. Good luck with everything, and have a wonderful day!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Okay, bye for now.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Bye for now! Take care, and feel free to reach out anytime."
+    }
+  ]
+}

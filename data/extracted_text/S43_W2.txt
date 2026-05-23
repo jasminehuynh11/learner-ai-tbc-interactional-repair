@@ -1,0 +1,318 @@
+Week 2
+Task 1: Making a clinic appointment
+You said:  
+“Hello, I want to practice making a clinic appointment. We will play a role where you are the receptionist, and I will be the person who's calling for you to make an appointment for a person who cannot speak English.”
+00:18
+English Conversational Partner said:
+Absolutely, that sounds great! I'll be the receptionist. Let's get started. So, to begin, can you let me know the reason for the appointment and the name of the person who needs it?
+You said:
+“Can we start now?”
+00:01
+English Conversational Partner said:
+Of course, we can start right away! Whenever you're ready, just let me know the details, and I'll help you set up that appointment. Feel free to begin whenever you like.
+You said:
+“Hello.”
+00:00
+English Conversational Partner said:
+Hello! How can I assist you today? Is there someone I can help schedule an appointment for? Let me know the details.
+You said:
+“I'm Monica. Actually, I'm not the one who need an appointment. I just want to help my friend who cannot speak English. She want to make an appointment maybe tomorrow morning.”
+00:15
+English Conversational Partner said:
+Got it, Monica! That’s absolutely fine. I can definitely help with that. Could you let me know your friend's name and what kind of appointment they need, as well as any specific time preferences for tomorrow morning?
+You said:
+Transcript Unavailable
+00:18
+English Conversational Partner said:
+No worries at all, Monica! I'm happy to help. So, we’ll make sure we have everything ready for Jessica. Could you let me know what type of appointment she needs, like whether it’s a general check-up or something specific? And, any preferred time in the morning would be great!
+You said:
+“Maybe she just wants to make an appointment for a general check-up tomorrow.”
+00:06
+English Conversational Partner said:
+Perfect, that sounds good! And do you know if she has any preferred time in the morning, like a specific hour, or would any time in the morning work for her?
+You said:
+“I think she told me that she wants to make an appointment at around 11.30. Is that too late?”
+00:08
+English Conversational Partner said:
+That should be fine! We can definitely schedule her for 11:30 in the morning. Is there anything else that we need to know, like her contact information or any special requirements?
+You said:
+“Yes, I will give you her contact information.”
+00:04
+English Conversational Partner said:
+That sounds great! Whenever you’re ready, just share the details, and I’ll make sure we have everything set up for Jessica’s appointment.
+You said:
+“Yet, just a second. Her full name is Jessica Jung, T-R-A-N. That's her last name. And her phone number is 0475-7765.”
+00:20
+English Conversational Partner said:
+Perfect, thank you for that information! I’ve got Jessica’s details, and we’ll book her appointment for tomorrow at 11:30 in the morning. If there’s anything else you think of, just let me know. Otherwise, we’ll be all set!
+You said:
+“Oh, I'm sorry. She just texted me and she asked me if I can ask you to change the appointment to maybe 2 p.m.?”
+00:08
+English Conversational Partner said:
+No problem at all! I’ll update the appointment to 2 p.m. for Jessica. Thanks for letting me know. If there’s anything else or any other changes, just give me a shout!
+You said:
+“Yeah, she also asked me if she can make the appointment with Dr. John.”
+00:09
+English Conversational Partner said:
+Absolutely, we can arrange that. I’ll make sure to schedule Jessica’s appointment with Dr. John at 2 p.m. tomorrow. If there’s anything else you need, just let me know!
+You said:
+“Do you want me to describe some reasons or some symptoms that she has?”
+00:06
+English Conversational Partner said:
+Yes, that would definitely help in making sure we arrange the right type of appointment. Feel free to share any symptoms or concerns Jessica has, and we’ll make sure everything’s set up accordingly.
+You said:
+“I will check the text. She texted me that she feels very dizzy. She has a stomach-ache, mostly in the early morning. And whenever she stands up, or she's lying down, or she turns her head, she feels really dizzy. And sometimes it makes her feel nauseous as well. And she's also told me that her daily diet is quite balanced. She ate lots of vegetables, but she wondered why she felt dizzy all the time.”
+00:40
+English Conversational Partner said:
+Got it, that definitely helps. I’ll make a note of those symptoms so that Dr. John can be prepared. We’ll make sure Jessica gets the right care for her dizziness and stomach issues. If there’s anything else you remember or need, just let me know!
+You said:
+“She asked me if those types of appointment, like a general check-up, she will need to”
+00:07
+English Conversational Partner said:
+Absolutely, I
+You said:
+“I'm sorry, she just wondered if she needs to do a blood test or something because she's quite worried about a blood test.”
+00:09
+English Conversational Partner said:
+I understand! We can definitely let Dr. John know about her concerns, and he can advise whether a blood test is necessary. We’ll make sure she feels comfortable and has all the information she needs. If there’s anything else you’re curious about, just let me know!
+You said:
+“Do I need to bring, I'm sorry, does she need to bring the Medicare to the appointment?”
+00:07
+English Conversational Partner said:
+Yes, it would be helpful for her to bring her Medicare card to the appointment, just to make things smoother. But if she forgets, we can still help her out. If you have any other questions, just let me know!
+You said:
+Transcript Unavailable
+00:31
+English Conversational Partner said:
+Absolutely, I’ll make a note of that as well. That information will definitely help Dr. John look into the possible connection between her iron deficiency and the dizziness and stomach issues. Thanks for sharing that, and if there’s anything else, just let me know!
+You said:
+“Yes, absolutely, I have a long note of what she wants me to transfer to you before she comes to the appointment tomorrow. She's also asked about the book billing, and she wonders if it's available for her.”
+00:17
+English Conversational Partner said:
+Of course, I can definitely check on the bulk billing option for her. I’ll make sure everything’s arranged so it’s as smooth as possible. And whenever you’re ready, feel free to share any additional notes, and we’ll make sure Jessica’s appointment is all set.
+You said:
+“Another note is that she wants to ask if she does she have to bring her own translator or do you have any translator or language support for her appointment because she can't speak English and some very professional term or some how related terms she might cannot understand.”
+00:29
+English Conversational Partner said:
+That’s a great point! I’ll make sure to arrange language support for her appointment so that she feels comfortable and understood. She doesn’t need to bring her own translator. I’ll handle that for her. If there’s anything else you think of, just let me know!
+You said:
+“Yeah, she also wants to ask if she has to pay for the translator.”
+00:05
+English Conversational Partner said:
+Got it! I’ll make sure to confirm that the translation service is provided at no extra cost for her. That way, Jessica can focus on her health without any worries. If there’s anything else you need, just let me know!
+You said:
+“I think that's it for today. Yeah, I will tell her about the appointment that we made today. I really appreciate your help. Thank you very much.”
+00:10
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you need anything else at all, just let me know. Have a great day, and I’ll be here whenever you need me!
+You said:
+“Yeah, that's it. Thank you. Have a lovely evening. Bye”
+00:03
+English Conversational Partner said:
+You too! Have a wonderful evening, and take care. Bye for now!
+Task 2: Visiting a Bank and Asking for Help with Banking Services
+
+You said: 
+“Hello, I want to practice visiting a bank and asking for help with banking services. Here you will play the role as a bank staff or customer service officer and I will be the customer.”
+00:18
+English Conversational Partner said:
+That sounds great! I’m ready whenever you are. Just let me know what kind of banking services you’re interested in, and we can jump right into the roleplay.
+You said:
+“How are you today?”
+00:01
+English Conversational Partner said:
+I’m doing well, thank you! I’m happy to help you with any banking needs today. What can I assist you with?
+You said:
+“I would like to open a new saving account with your bank.”
+00:04
+English Conversational Partner said:
+Absolutely, we can do that! To get started, I'll just need a few details from you. Could you let me know your full name and some identification, like a driver’s license or passport?
+You said:
+“Oh yeah, definitely. But I just wonder, do I need to make an appointment or I just do it online through the phone with you?”
+00:09
+English Conversational Partner said:
+You can definitely do it either way! We can set up an appointment if you prefer to come into the branch, or we can handle most of it over the phone and online. Whichever is more convenient for you!
+You said:
+“That would be great because I can't go to the bank today. I have a few more lessons at the university. It would be great if I can do it just online. Thank you.”
+00:12
+English Conversational Partner said:
+Of course, that makes sense! We can definitely handle everything online. I’ll guide you through the process step-by-step, and we’ll make sure it’s all smooth and easy. Let me know if you have any other questions!
+You said:
+“Yes, I'm sorry for interrupting you before. What kind of document do I need to provide to you?”
+00:08
+English Conversational Partner said:
+No worries at all! Typically, you'll need a valid photo ID, like a driver’s license or passport, and proof of address, such as a recent utility bill or a bank statement. Once we have those, we should be all set!
+You said:
+“Yes, all set. I have all of these required documents with me at the moment. Can we start now?”
+00:07
+English Conversational Partner said:
+Absolutely, we can get started right away! If you’d like, I can walk you through the online application steps, and we can upload your documents as we go. Just let me know whenever you’re ready, and we’ll take it from there!
+You said:
+“Yeah, great. Yeah, we can just start now. Can you please show me the first step of the process?”
+00:06
+English Conversational Partner said:
+Of course! The first step is to fill out the online application form, which will ask for your personal details like your name, contact information, and your identification details. Once you complete that, we’ll move on to uploading your documents. Let’s get started with the form, and I’ll guide you through it step-by-step!
+You said:
+“Yes, great. I'm on the website at the moment, and I saw that they require for my occupation, but is that okay if I just put unemployed, because at the moment I don't have a job yet?”
+00:16
+English Conversational Partner said:
+Absolutely, that's totally fine! You can just put "unemployed" for your occupation, and that won’t be a problem at all. The bank just needs that information for their records. If you have any other questions as you go along, just let me know!
+You said:
+“There is another problem because I live with other people at a share house, so basically on the electricity bill, it doesn't appear my name on it, so it's okay if I use it to prove the address.”
+00:18
+English Conversational Partner said:
+That’s totally understandable. In that case, we can use a different document, like a lease agreement, or even a letter from the house manager that confirms your residence. As long as we have a document that clearly shows your current address, we’ll be good to go!
+You said:
+“Oh yes, that sounds great. Thank you very much.”
+00:03
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you need anything else or have more questions along the way, just let me know. Good luck with the application!
+You said:
+“I saw there are two types of accounts on the paper, so I wonder what is the difference between these two types of accounts.”
+00:08
+English Conversational Partner said:
+Great question! Usually, one type of savings account might offer a higher interest rate but with certain conditions, while the other might be more flexible with fewer restrictions. If you let me know what you’re looking for—like whether you want higher interest or more easy access to your funds—I can help you pick the best one!
+You said:
+“So, is there any monthly fee for the account with higher interest?”
+00:05
+English Conversational Partner said:
+It can vary depending on the bank and the specific account type. Often, the higher interest accounts might have a monthly fee unless you meet certain conditions, like maintaining a minimum balance. But I can definitely help you find the details for each option so we can choose the best fit for you!
+You said:
+“May I ask for the interest rate of the two accounts I want to compare them to?”
+00:07
+English Conversational Partner said:
+Of course! Typically, the standard savings account might have an interest rate of around 0.5% to 1%, while the higher interest account could range from about 1.5% to 2.5%, depending on the bank’s current offers. I can definitely provide the exact rates for our bank so you can compare them and decide which one suits you best!
+You said:
+“I love the idea of having an account with high interest, but the monthly fee and a certain amount of deposit is really hard to maintain it because I have to pay for my study. So maybe I'll just go with the normal account without high interest.”
+00:19
+English Conversational Partner said:
+That makes perfect sense! The standard account can definitely be more convenient and flexible, especially if you want to avoid monthly fees or balance requirements. It’s all about finding what works best for you and your budget. And if you ever want to switch in the future, we can always revisit it. Let me know if you’d like to proceed with the standard account!
+You said:
+“I just finished the application form. Will I have confirmation that all of my information has been sent to your buy account through my Gmail?”
+00:12
+English Conversational Partner said:
+Yes, absolutely! Once you submit the application, you’ll receive a confirmation email right away. That email will outline all the details and let you know the next steps. If there’s anything else you need or if you have any questions, just let me know!
+You said:
+“So if I register a new account today, so I can transfer some money from my old bank account to the new account today immediately, or I have to wait for a few days.”
+00:15
+English Conversational Partner said:
+Usually, once your new account is fully set up and verified, you can transfer funds right away. There might be a brief processing period, but typically you can start moving money on the same day or within a day or two. If you run into any issues, I’m here to help!
+You said:
+“Yes, that'd be great because I need to send some money from my old account to this one because my previous account is about to expire and I'm not really happy about it, so I'd really want to change to your bank.”
+00:17
+English Conversational Partner said:
+I completely understand! We’ll make the transition as smooth as possible for you. Once your new account is active, you’ll be able to transfer your funds easily and quickly. If you need any assistance along the way, just let me know, and I’m happy to help!
+You said:
+“Oh, I have a question about the Join account. I recently joined my account with my partner. So I wonder if I can change the newer account to the Join account with my partner.”
+00:18
+English Conversational Partner said:
+Absolutely, you can definitely do that! We can convert your individual account into a joint account with your partner. It’s a straightforward process, and I can guide you through the required steps and documentation. Just let me know when you’re ready, and we’ll get everything set up for you!
+You said:
+“Oh yes, I think that's it for today.”
+00:03
+English Conversational Partner said:
+Perfect! I’m glad we could cover everything. If you have any more questions in the future, just let me know. Have a wonderful day, and take care!
+
+Task 3: Enquiring About a Rental Property or Housing Inspection
+
+You said: 
+“Hi, I want to practice inquiring about a rental property or making a house inspection. Where you will play the role of the real estate agent, and I will be the customer.”
+00:16
+English Conversational Partner said:
+That sounds great! I’m happy to help you practice. Whenever you’re ready, just let me know what kind of property you’re interested in, and we can jump right into it.
+You said:
+“Hello.”
+00:00
+English Conversational Partner said:
+Hello! It's great to hear from you. Whenever you’re ready, feel free to let me know what type of rental property you’re looking for, and we can get started with your inquiry or inspection questions!
+You said:
+“Hi, I'm interested in the two-bedroom unit on Bridge Street in East Tamworth.”
+00:06
+English Conversational Partner said:
+Great! I'd be happy to help with that. The two-bedroom unit on Bridge Street sounds lovely. Do you have any specific questions about the property, or would you like to schedule a viewing or an inspection? Let me know how I can assist!
+You said:
+“I want a schedule of visiting. Do I need to register my application before attending?”
+00:06
+English Conversational Partner said:
+That's a great question! Typically, we do recommend scheduling the inspection in advance so we can make sure everything is prepared and that the property is available. But it's usually a straightforward process, and I can help you with all the details to get that set up. Let me know what time works best for you!
+You said:
+“I only have two available schedules this week, which are Wednesday at 2 p.m. and Friday at 11.30 a.m. Do these times fit your inspection schedule?”
+00:19
+English Conversational Partner said:
+Yes, those times work just fine! We can definitely arrange the inspection for either Wednesday at 2 PM or Friday at 11:30 AM, whichever suits you best. Just let me know your preferred day, and I’ll get everything confirmed for you!
+You said:
+“Can I visit the property at 2 p.m. on a Wednesday? That would be better because that's the time when I finish my work.”
+00:08
+English Conversational Partner said:
+Absolutely, that sounds perfect! We’ll schedule your visit for Wednesday at 2 PM. I’ll make sure everything is ready for you. If you have any other questions in the meantime, just let me know. Looking forward to it!
+You said:
+“I have a few questions about a property. Is the property furnished or unfurnished?”
+00:07
+English Conversational Partner said:
+Great question! The property is actually unfurnished, so you'll have a blank slate to arrange it as you like. If you have any other questions about the amenities or details, feel free to ask!
+You said:
+“I also want to ask about the laundry room. On the photo, I saw that we only have one laundry room, but it looks like it's outside of the unit. I want to ask if we have to share the laundry room with other units, or it belongs to our unit only?”
+00:22
+English Conversational Partner said:
+That’s a great question! The laundry room is indeed shared with the other units in the building. It’s a communal space, but it’s well-maintained and usually not too busy. If you have any other concerns or need more details, just let me know!
+You said:
+“Oh, so if it's in the common space, so who's going to pay for the water bill for the laundry?”
+00:07
+English Conversational Partner said:
+That’s a good point! Typically, the cost for the water used in the communal laundry area is covered by the building’s overall maintenance fees, which are included in your rent. That way, it’s convenient for everyone. But if you have any more questions, I’m happy to clarify further!
+You said:
+“Oh yes, thank you very much. That clarifies a lot of my confusion. I also want to ask if the property allow pets.”
+00:10
+English Conversational Partner said:
+Absolutely! The property does allow pets, but there might be some specific guidelines or a pet deposit involved. If you have a particular pet in mind, we can definitely go over the details to make sure everything’s clear. Feel free to let me know if you have any other questions!
+You said:
+“Oh yeah, that's very good. I don't plan to have any pets with me, but maybe some friends of mine, who are animal lovers, they will bring some to our home. I just want to check it before they can come.”
+00:15
+English Conversational Partner said:
+That totally makes sense! It’s always good to know in advance. And it’s great that the property is pet-friendly, so you’ll have that flexibility if needed. If you have any other questions or need more details down the line, just let me know!
+You said:
+“Um, can I ask about the bond fee? How much do I have to pay for the bond?”
+00:05
+English Conversational Partner said:
+Of course! The bond fee typically is equivalent to about four weeks’ rent, though it can vary depending on the property. I can confirm the exact amount for you once we have the final details. Let me know if you need any more specifics or if there’s anything else I can help with!
+You said:
+“So, I need to make an application for the inspection before I go to visit the property on next Wednesday, is that right?”
+00:12
+English Conversational Partner said:
+Yes, that's correct! Usually, we do recommend submitting the application or at least letting us know in advance so we can ensure everything is prepared for your visit. That way, we can make the most of your time on-site. If you need any help with the application process, I'm here to help!
+You said:
+“Yes, that's great. Thank you for your versatility. I wonder if I can apply online, or do I have to visit the office to finish the application form?”
+00:12
+English Conversational Partner said:
+You can absolutely apply online! We have a convenient online application form that you can fill out from anywhere. If you do have any questions or need assistance, you can always reach out, and we’ll help you every step of the way. Let me know if you need anything else!
+You said:
+“Oh yeah, that's great. I would like to apply online because my schedule is quite tight at the moment. I will submit my application tonight. Could I confirm if it was received?”
+00:17
+English Conversational Partner said:
+Absolutely! Once you submit your application, you should receive a confirmation email right away. And if you have any concerns or don’t get that confirmation, just let us know, and we’ll double-check everything for you. We’re here to make it as smooth as possible!
+You said:
+“Oh yes, thank you. I have another question about the rental options, because I'm not very sure that my partner will stay at this unit for more than a year, so is that okay if we can negotiate the lease length later?”
+00:18
+English Conversational Partner said:
+Absolutely, that’s definitely possible! We can often be flexible with the lease terms, and we can discuss and negotiate the duration that works best for both of you. Just let us know your preferences, and we’ll tailor the arrangement accordingly. Feel free to bring it up anytime!
+You said:
+“I want to ask when the lease starts if I'm approved. Can I just move in immediately or do I have to wait at a certain time?”
+00:17
+English Conversational Partner said:
+Great question! Usually, once you’re approved, we can arrange a move-in date that works for you. Often, it can be as soon as the lease is signed and the bond is paid, but it can also depend on the current tenant’s move-out date. We’ll do our best to accommodate your schedule and make the transition as smooth as possible. Just let us know what works best for you!
+You said:
+“Yes, that's perfect. I have a question. I think I have an issue with some of the documents. I can't find the employment agreement with my previous job. Is that okay if I provide it later? Because I understand that there is a lot of application for the unit at the moment. I don't want to miss it.”
+00:31
+English Conversational Partner said:
+Absolutely, that's understandable! We can definitely work with you on that. You can submit the application with the documents you have right now, and then provide the employment agreement later. We’ll keep your application in good standing, and we’ll do our best to ensure you don’t miss out. Just let us know if you need any help along the way!
+You said:
+“Oh, that sounds great. I will send an email to my supervisor. I hope that it will reach him well and he can send me the employment agreementư.”
+00:11
+English Conversational Partner said:
+Of course! I’m happy to help, and I’m glad we could work it out. If you need any more assistance or have any other questions along the way, just let me know. Good luck with the application, and I hope everything goes smoothly for you!
+You said:
+“I think that's it for today. I really appreciate your help. Thank you again, and I hope you have a great evening.”
+00:07
+English Conversational Partner said:
+You’re very welcome! It was my pleasure to help. If you ever need anything else, just reach out. Have a fantastic evening, and take care!
+Top of Form

@@ -1,0 +1,45 @@
+[
+  {
+    "dialogue_id": "S16_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "unintelligible speech / ASR error",
+    "evidence_summary": "The learner's speech in turn 7 was unintelligible, indicated by 'Transcrição indisponível'. The bot's response in turn 8 was incomplete, suggesting it did not fully process the learner's input. The learner initiated the repair by restarting with a clear greeting in turn 9, which the bot understood and responded to in turn 10, resolving the communication breakdown."
+  },
+  {
+    "dialogue_id": "S16_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      19,
+      20,
+      21
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "comprehension – bot's question was not clear to the learner",
+    "evidence_summary": "The bot asked a question in turn 19, but the learner requested a repeat in turn 20, indicating they did not understand. The bot rephrased the question in turn 21, but the conversation did not continue smoothly, as the learner's response is not provided."
+  },
+  {
+    "dialogue_id": "S16_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "comprehension – learner did not understand bot's utterance (repeatedly)",
+    "evidence_summary": "The learner repeatedly indicated a lack of understanding of the bot's question (turns 25, 27). The bot rephrased the question multiple times (turns 26, 28). Although the learner's final response in turn 29 was somewhat ambiguous, the bot successfully interpreted it in turn 30 ('it's just that one device acting up'), resolving the persistent misunderstanding and allowing the dialogue to continue."
+  }
+]

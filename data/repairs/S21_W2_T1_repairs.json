@@ -1,0 +1,31 @@
+[
+  {
+    "dialogue_id": "S21_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous misunderstanding",
+    "evidence_summary": "The learner realizes a misunderstanding in turn 27 and attempts to correct it by asking for a new appointment time in turn 29. The bot acknowledges and checks availability, resolving the issue."
+  },
+  {
+    "dialogue_id": "S21_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      35,
+      36,
+      37
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner confirms appointment time",
+    "evidence_summary": "The learner seeks confirmation of the appointment time in turn 35. The bot confirms the new time, and the learner expresses gratitude, indicating resolution."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S2_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner says 'I think I lost the wallet light at 3 p.m. yesterday' in turn 6, which is unclear. The bot interprets this as 'Parramatta Station at around 3 p.m. yesterday' in turn 7, and the conversation continues smoothly, indicating successful understanding."
+  },
+  {
+    "dialogue_id": "S2_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner's description 'the world color is black and his parents is from the' in turn 8 is unclear. The bot interprets this as 'a black wallet with some wear and tear' in turn 9, and the conversation continues without further issues, indicating successful resolution."
+  }
+]

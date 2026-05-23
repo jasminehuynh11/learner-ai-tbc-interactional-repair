@@ -1,0 +1,195 @@
+{
+  "student_id": 22,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S22_W4_T1",
+  "source_file": "data\\raw\\#22\\#22\\#22. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study and Career Plans with an Academic Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I want to talk about my study plan and future career."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hi, that’s completely fine, and I’m glad you came to talk about this. Many students feel uncertain about their plans, so you’re not alone. Let’s take it step by step. Can you tell me what you’re currently studying?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I’m studying business, but I’m not sure it’s good for me."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Thank you for being honest. That’s a very common feeling. What parts of business do you enjoy, and which parts do you find difficult or uncomfortable?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I like group work and discussion. I don’t like accounting and numbers."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That’s very helpful to know. So you enjoy communication and teamwork, but not heavy numerical work. That already tells us a lot. Have you thought about areas like marketing, communication, or management?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I heard about marketing, but I don’t really know what they do."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That’s a great point. Marketing often focuses on understanding people, communication strategies, and planning campaigns rather than detailed accounting. Does that sound closer to what you enjoy?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Yes, maybe. Is marketing job easy to find?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That’s a very practical question. Marketing jobs can be competitive, but students who gain experience through internships or projects usually have better chances."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Internship meaning working while studying?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, exactly. An internship is usually short-term work experience related to your field, sometimes during holidays or part-time during semester."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Is internship paid job?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sometimes it is paid, and sometimes it’s unpaid. Both types can still be valuable because they give you experience."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "I see. If unpaid, is it still good?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yes, especially if it helps you build skills and confidence. Many students use internships to understand whether a career suits them."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "If I want to change major, is it too late now?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That’s a very important question. It depends on how many units you’ve completed, but it’s often not too late. Another option is to try one or two units first before making a big decision."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Try first meaning take one subject?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Yes, exactly. Taking one subject can help you see if you enjoy it before committing fully."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "That sounds safer."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "I agree. It reduces pressure and gives you time to think. Can I ask what kind of job you imagine yourself doing in the future?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "I want job where I talk to people, not only sit with computer."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "That’s very clear, and that’s a good insight. Jobs in marketing, HR, education, or customer relations often involve a lot of communication."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Education meaning teacher?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, teacher is one option, but there are also training and support roles in companies."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Oh, I didn’t know that."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That’s okay. Many students don’t realise how many options exist. Would you like me to email you some information about possible pathways?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Yes, that would be helpful."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Great. I’ll send you some information after our meeting. Before we finish, do you have any other questions or worries you want to talk about?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "I’m worried I make wrong choice."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That’s completely understandable. Remember, career paths are rarely straight lines. What matters is learning and adjusting as you go."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Okay. That makes me feel better."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "I’m really glad to hear that. Let’s book another appointment after you’ve had time to think, and we can talk again."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Yes, I want that. Thank you for listening."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "You’re very welcome. You asked thoughtful questions today, and you’re taking the right steps."
+    }
+  ]
+}

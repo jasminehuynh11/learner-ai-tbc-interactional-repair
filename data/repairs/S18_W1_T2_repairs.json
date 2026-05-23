@@ -1,0 +1,63 @@
+[
+  {
+    "dialogue_id": "S18_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      3,
+      4
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "contextual error – incorrect time for 'tonight'",
+    "evidence_summary": "The learner requests a table for 'tonight' at '7 a.m.' (T3). The bot identifies the logical inconsistency and corrects the time to '7 p.m.' (T4), which the learner implicitly accepts as the conversation continues with the corrected time."
+  },
+  {
+    "dialogue_id": "S18_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      17,
+      18
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – 'bookie' instead of 'booking/reservation'",
+    "evidence_summary": "The learner uses the incorrect word 'bookie' (T17). The bot understands the intended meaning and implicitly corrects it by using 'reservation' (T18), which the learner accepts by continuing the conversation without further clarification."
+  },
+  {
+    "dialogue_id": "S18_W1_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      23,
+      24
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "unclear phrasing – fragmented grammar about allergies",
+    "evidence_summary": "The learner's utterance about their friend's allergy is grammatically fragmented and potentially confusing (T23). The bot demonstrates understanding by rephrasing and confirming the specific allergy (mango) and offering accommodation (T24), resolving the ambiguity."
+  },
+  {
+    "dialogue_id": "S18_W1_T2",
+    "repair_id": 4,
+    "turn_indices": [
+      25,
+      26
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "phonetic/lexical error – 'whitelist' instead of 'wine list'",
+    "evidence_summary": "The learner asks to see the 'whitelist' (T25). The bot correctly interprets this as 'wine list' (T26) and offers to send it, resolving the phonetic/lexical confusion."
+  },
+  {
+    "dialogue_id": "S18_W1_T2",
+    "repair_id": 5,
+    "turn_indices": [
+      35,
+      37,
+      38
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner changes intent/confirms after saying they couldn't",
+    "evidence_summary": "The learner initially asks if someone could call them later if they 'can't confirm the set menu now' (T35). However, in T37, the learner self-corrects by stating 'For now, I'm just ordering for a set meal for two people.' The bot acknowledges this new information and proceeds (T38), indicating the self-correction was understood and accepted."
+  }
+]

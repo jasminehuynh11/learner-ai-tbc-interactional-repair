@@ -1,0 +1,151 @@
+Task 1:
+☕ Ordering at a café 🗨️ “Hi, I would like to order a coffee today!”
+English Conversational Partner said:
+Sure! What kind of coffee would you like today?
+You said:
+I would like a coffee with milk without sugar
+English Conversational Partner said:
+Got it — a coffee with milk, no sugar. Would you like that hot or iced?
+You said:
+Hot, please.
+English Conversational Partner said:
+Alright, one hot coffee with milk. What size would you like — small, medium, or large?
+You said:
+I'd like a medium coffee and a small coffee for my husband.
+English Conversational Partner said:
+Perfect, one medium and one small coffee, both with milk and no sugar — is your husband’s coffee also hot?
+You said:
+Please, coffee my husband, hot too, and small coffee.
+English Conversational Partner said:
+Sure thing — both hot coffees, one medium for you and one small for your husband. Would you like to have them here or take them away?
+You said:
+What do you suggest to eat while I drink my coffee?
+English Conversational Partner said:
+Good question! We’ve got some nice pastries — croissants, muffins, and a few slices of cake. Do you prefer something sweet or more savory to go with your coffee?
+You said:
+I prefer eating sweet.
+English Conversational Partner said:
+Nice choice! We’ve got chocolate muffins, almond croissants, and carrot cake. Which one sounds good to you?
+You said:
+Yes, I can. Chocolate muffins and my husband's carrot cake.
+English Conversational Partner said:
+Great! So that’s one chocolate muffin for you and one slice of carrot cake for your husband. Would you like me to warm them up a little?
+You said:
+I love this song.
+English Conversational Partner said:
+Oh, it’s a good one, isn’t it? We play it here a lot. Do you like listening to music while you have your coffee?
+You said:
+Yes, I like. I like music calm.
+English Conversational Partner said:
+Nice! Calm music goes perfectly with coffee time. Do you usually listen to that kind of music at home too?
+You said:
+Yes, in the morning i like listening when I eat my breakfast 
+English Conversational Partner said:
+That sounds lovely — a calm start to the day. What do you usually have for breakfast?
+You said:
+Usually, I eat bread, eggs, and avocado, and drink coffee at the morning in my breakfast.
+English Conversational Partner said:
+Mmm, that sounds delicious and healthy! Do you make your coffee at home the same way you order it here — with milk and no sugar?
+You said:
+I drink coffee with milk and no sugar. I don't like sugar.
+English Conversational Partner said:
+Got it — you really like your coffee pure! Do you prefer using regular milk or something like oat or almond milk?
+You said:
+I use some things oat, some things almond, almond because I don't can drink milk, because I have lactose, I need lactose free.
+English Conversational Partner said:
+Ah, I see — you’re lactose intolerant, so you go for oat or almond milk instead. Would you like me to make your coffee with lactose-free milk today?
+You said:
+I bought the milk lactose-free. Then, in the morning, I make my coffee.
+English Conversational Partner said:
+That’s a smart choice! It’s nice to start the day with coffee you make yourself. Do you usually eat breakfast alone or with someone?
+You said:
+Every day I have, I eat my breakfast with my husband.
+English Conversational Partner said:
+That’s lovely — sharing breakfast makes mornings nicer. Do you and your husband like the same kind of coffee?
+You said:
+Yes, he drink the same coffee and eat it too.
+English Conversational Partner said:
+How nice — you two have the same taste! Do you both like going to cafés together sometimes, like today?
+You said:
+Yes, we enjoy go in the restaurant and bars and coffees because we need eating the new food and have the more experience.
+English Conversational Partner said:
+That’s wonderful — trying new food is such a fun way to spend time together. What kind of new food do you like to try most?
+You said:
+Maybe if I went to Brazil, then now I stay in Australia, I eat new foods. But I prefer Brazilian food because maybe I think my natural foods. But I don't like industrial foods, eating industrial foods.
+English Conversational Partner said:
+I understand — you prefer fresh, homemade food, not processed ones. What’s your favorite Brazilian dish that you miss the most here in Australia?
+You said:
+Polenta with free-range chicken meat
+English Conversational Partner said:
+Mmm, that sounds amazing — so comforting! Do you ever cook polenta and chicken yourself at home here?
+
+TASK 2: 
+Booking a table at a restaurant ️ “Hi, I’d like to book a table for two tonight.”
+ English Conversational Partner said:
+ Alright! What time would you like the table for tonight?
+You said:
+ 7:30pm
+ English Conversational Partner said:
+ Great, thanks. And under what name should I put the reservation?
+You said:
+ Vitória, please
+ English Conversational Partner said:
+ Alright, Vitória. And could I have a phone number to attach to the reservation?
+You said:
+ Number 3
+ English Conversational Partner said:
+ Alright, so the number you gave is just “3” — could you give me the full phone number we
+ should contact you on?
+You said:
+ This is my Numbers
+ English Conversational Partner said:
+ Sure, I see — but I’ll need the complete phone number so we can confirm the booking if
+ needed. What’s the full number, please?
+You said:
+ Lemes
+ English Conversational Partner said:
+ Alright, you said “Lemes,” but I still don’t have the actual phone number. Could you give me
+ the full number we should call if anything changes?
+You said:
+ 435465789
+English Conversational Partner disse:
+ Great, thanks. And do you have any seating preference for tonight — like indoors or
+ outdoors?
+You said:
+ Outdoor
+ English Conversational Partner said:
+ Perfect. And is this booking for any special occasion tonight, or just a regular dinner?
+You said:
+ Yes, loves’day
+ English Conversational Partner said:
+ Lovely, thanks for letting me know. Do you have any special requests for the evening, like
+ allergies, decorations, or anything you’d like prepared?
+You said:
+ Yes, please I would like decorations
+ English Conversational Partner said:
+ Sure, we can arrange that. What kind of decorations would you like for the table?
+You said:
+ Yes in the table
+ English Conversational Partner said:
+ Alright, on the table — what style would you like? For example, flowers, candles, or
+ something romantic?
+You said:
+ Flowers, heart
+ English Conversational Partner said:
+ Alright, flowers in a heart shape — that’s sweet. What color flowers would you like for the
+ decoration?
+You said:
+ No, flowers and heart I want. Flowes white anda heart red
+ English Conversational Partner said:
+ Alright, white flowers and a red heart — that’s clear. Do you or your guest have any food
+ allergies or dietary restrictions I should note for the kitchen?
+You said:
+ No
+English Conversational Partner disse:
+ Alright, perfect. Do you have any menu preferences for tonight, or would you like to decide
+ when you arrive?
+You said:
+ I would like ask when I arrived
+ English Conversational Partner said:
+ Alright, no problem — you can choose when you arrive. Will you be coming right at 7:30, or
+ do you think you might get there a bit earlier or later?

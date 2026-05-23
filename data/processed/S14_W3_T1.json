@@ -1,0 +1,165 @@
+{
+  "student_id": 14,
+  "week": 3,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S14_W3_T1",
+  "source_file": "data\\raw\\#14\\#14\\#14. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, my internet has stopped working. There is no signal in my apartment."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Oh, that sounds frustrating! Let's see if we can figure it out. First, can you tell me if you've tried restarting your router?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Can you check if there's an outage in the area?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure, I can definitely help with that. Let me just check if there's any known outage in your area. Could you let me know which internet service provider you use?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I'm using Australian internet."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, thanks for that info! I'll check for any outages with that provider. In the meantime, have you noticed if any of the lights on your router are off or blinking in an unusual way?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Unfortunately, I have no idea."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries at all! It's totally fine if you're not sure. I'll look up the outage information for you and see what's going on. In the meantime, if you have any other details or questions, just let me know!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "This has happened three times this month. What can be done?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Oh, I see, that definitely sounds like a recurring issue.In that case, it might be a good idea to reach out to your provider's customer service and see if they can look into it more deeply or even send a technician out."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "OK. Is there a technician available today?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "I can definitely check that for you! Let me just see if there's availability for a technician today. Could you also let me know your address, just so I can get the accurate details?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "30 South Street."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great, thanks for that! I'll check the availability for a technician in Melbourne at that address and let you know what the earliest possible appointment is!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "I'm available all day today, so anytime is okay."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That's super helpful, thank you! I'll make a note of that and see what slots are open for today. I'll get back to you in just a moment!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Should I wait here, or will someone call me?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I'd recommend being available at home just in case they arrive early, but usually, they'll give you a call or send a message when they're on their way. So you should be all set!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Thank you so much."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "You’re very welcome!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "If the service isn't fixed by today, do I get a refund or a credit?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "That's a great question! Usually, providers do offer some kind of credit if the issue isn't resolved in a timely manner. I can help you find out their specific policy if you'd like!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Okay, or is it possible to change to a different service plan?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, you can usually switch providers if you're not satisfied. I'd recommend checking if there are any contract terms or fees, and then comparing the options. If you want, I can help you look into alternative providers as well!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "OK, if this isn't resolved today, I will do that, but who can I contact if this isn't resolved today?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Got it! If the issue isn't resolved today, you can reach out to their customer support line or even their retention department, and they'll guide you through the next steps. I can also help you find their contact details if you need them!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Can you give me a reference number for this request?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely! I can definitely help you get a reference number. Once you contact their support, they'll generate one for you. If you'd like, I can help you with the contact details or even draft a quick message for you!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Thanks for the update. I'll wait for the technician."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. Fingers crossed everything gets sorted out smoothly today. If you need anything else, just let me know!"
+    }
+  ]
+}

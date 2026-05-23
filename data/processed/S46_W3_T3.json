@@ -1,0 +1,275 @@
+{
+  "student_id": 46,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S46_W3_T3",
+  "source_file": "data\\raw\\#46\\#46. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Top of Form"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“In the end, I just want to practice any scenario with you.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to help. Just let me know the scenario you have in mind, and we can jump right into it. What kind of roleplay would you like to try?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“So I will be seeking for the technical support for our device. So just imagine I'm the client and contacting our customer support for technical problem with my phone and you will be the the customer service assistant and I will try to practice speaking clearly and online using technology related vocabulary. Yeah, that's it.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That sounds great! I'm ready whenever you are. So go ahead and let me know what issue you're facing with your phone, and I'll do my best to help you out as a technical support agent. Let's get started!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Cool, so, bye, goodbye.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Good morning! How can"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I'm calling to make a report about my phone.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Of course, I'd be happy to help. Could you let me know what kind of issue you're experiencing with your phone?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“So, for today, we're gonna try to open up some of the apps, and it's like it cannot open that, and it crashes every time when you try to open that.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I see, that sounds"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "No worries, I’ll do my best to help. Could you let me know which app or apps are having trouble, and also if there’s any error message that pops up?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Actually, this is when I tried to open some Gmail app on YouTube. It said that it's not working.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Got it, thanks for sharing that. Have you noticed if your phone’s software is up to date, or if there have been any recent updates before this issue started?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“I'm not really sure about the software update, but my phone is the Samsung Galaxy C22. It's about 1-2 years old.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, that helps."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“And I must go out. This is an update just with Soprano.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That makes sense! In that case, we can definitely check for updates. Would you like me to guide you through how to do that, or would you like to try something else first?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yeah, right.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright, perfect!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“So, how do I, like, do I need to reset the settings?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "We can definitely consider that if needed. But let’s first see if an update helps or if there are any simpler fixes. Once we try that, we can decide if a reset is necessary. Sound good?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Okay, that's good. And what if, like, after I update it and it's still not working?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "If that happens, we"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Should I bring that into you?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, absolutely! If the issue persists, we can definitely take a closer look in person, and we’ll figure out the best solution from there. Sound good?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah, that's about it. Is this like cover under warranty or do I need to pay for repairs?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Great question! It usually depends on the warranty status and the specific issue. Let me check a few details, and I’ll let you know whether it’s covered or not."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Awesome! Just let me know if you have any other questions, and we’ll get everything sorted out step by step. I’m here to help!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yeah, so I just should try to update the software and it still got that problem.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Exactly, that’s a great plan! And if it still doesn’t work after the update, just let me know, and we’ll explore the next steps together. Sounds good?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Yeah, yeah, but I just try to update the software and it still have the problem to open the app and have a crash”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Scars.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "No worries at all, we’ll figure it out together! Next, we can try some troubleshooting steps, like clearing the app cache or even reinstalling the apps. Let me know if you’d like to proceed with that!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Actually, I have tried to delete and download the app again, and it still got that problem.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Got it, that definitely"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Now what should I do next?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "In that case, we might want to check for any software conflicts or even run a diagnostic. If you'd like, we can also look into the device’s settings more deeply, or if needed, we can arrange a repair. Just let me know how you’d like to proceed!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Cool, I think I should go to the replay to check it.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "That sounds like a good plan! If you need any assistance along the way, just let me know, and I’m here to help. Hopefully, we’ll get everything sorted out quickly!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Yeah, so should I need to make a reservation to pay?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Yes, it’s usually a good idea to schedule a reservation so we can ensure you get timely assistance. If you’d like, I can help you with that process as well! Just let me know what works best for you."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Yeah, can I book for somewhere tomorrow?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Absolutely! I can help you with that. Just let me know the time that works best for you tomorrow, and we’ll get everything arranged so it’s all set."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Please shoot around 9am.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "That works perfectly! I’ll make sure to schedule it for 9 a.m. tomorrow. If you need anything else in the meantime, just let me know!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Great! I'm glad we"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“I thank you for the help, and we'll see you tomorrow.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m happy to help. If anything else comes up, just reach out. Have a great day, and I’ll see you tomorrow! Top of Form Bottom of Form"
+    }
+  ]
+}

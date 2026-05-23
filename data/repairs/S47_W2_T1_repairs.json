@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S47_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      19,
+      20,
+      21
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "bot misunderstanding – learner's statement 'I think he's dead' misinterpreted",
+    "evidence_summary": "The learner says 'I think he's dead,' which the bot misinterprets as a positive statement, responding with 'Sounds great!' The learner then moves on with 'Oh, okay, okay, of course. Thank you,' indicating the issue was not resolved but abandoned."
+  }
+]

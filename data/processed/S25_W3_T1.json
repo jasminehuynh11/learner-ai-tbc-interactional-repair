@@ -1,0 +1,115 @@
+{
+  "student_id": 25,
+  "week": 3,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S25_W3_T1",
+  "source_file": "data\\raw\\#25\\#25\\#25. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "\"Hi.\""
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hello! How can I assist you today? Feel free to let me know what you'd like to report."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "\"And I lost my smartphone at the train station, and / would like to make a report.\""
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I'm sorry to hear that you lost your phone. Of course, I can help you with that. Could you please describe the phone, including the model and color, and let me know the exact time and location where you think you lost it?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "\"Okay, I explained the phone. My phone has a red case and a crashed screen. And maybe also, I lost at 3 p.m. Maybe.\""
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, thank you for that information. A red case and a cracked screen, noted. And you believe you lost it around 3 PM at the train station. Alright, let me ask you a few more details. Did you happen to notice the exact area or platform where you last had it?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "（don’t translate ）"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries, take your time"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "\"I get on the hospital station. I get a train at hospital stations, but maybe I lost my phone at here, but I'm not sure everything.\""
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I understand, that's totally fine. We'll do our best to help. What I'll do next is take down all the details you provided, and we'll look into it. If you remember any additional information later on, just let us know. Thank you for reporting it!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "\"However, do I need to show ID when collecting it?\""
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, typically, you'll need to show some form of ID to confirm ownership when you come to collect it. If you have any proof of ownership, like a receipt or a phone box, that can also be helpful. But your ID will definitely be important."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "\"Um, actually this time is traveling and I'm now traveling in here so / don't have any IDs because my IDs is everything is Japanese so\""
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "I see, that makes sense. In that case, we can definitely work with what you have. If you have any travel documents or a copy of your ID, that could also help. We'll do our best to assist you and keep you updated. Just let us know if there's anything else you need."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "\"Okay, thank you. Thank you for explaining everything. I appreciate your help.\""
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you need anything else or have more questions, just let me know. Good luck, and I hope your phone turns up soon"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "\"Thank you. I hope that...\""
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely! Fingers crossed everything works out smoothly. And if you need any more assistance, I'm here to help. Take care!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "\"Goodbye. Thank you.\""
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "You're welcome! Have a great day, and don't hesitate to reach out anytime. Bye for now!"
+    }
+  ]
+}

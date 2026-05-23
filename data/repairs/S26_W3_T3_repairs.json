@@ -1,0 +1,79 @@
+[
+  {
+    "dialogue_id": "S26_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "language barrier – learner used foreign language",
+    "evidence_summary": "The learner spoke in Chinese in turn 9, initiating a language barrier. The bot in turn 10 ignored this and continued the conversation in English, indicating it did not process the foreign language input. The learner then switched to English, but the initial language barrier issue was not addressed, so it remains unresolved and persists."
+  },
+  {
+    "dialogue_id": "S26_W3_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      54,
+      55,
+      56
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot utterance incomplete – bot's turn cut off",
+    "evidence_summary": "The bot's utterance in turn 54 was incomplete. The learner in turn 55 clarified the context ('In after hour repairs'), prompting the bot to provide a complete answer in turn 56, resolving the communication trouble."
+  },
+  {
+    "dialogue_id": "S26_W3_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      67,
+      68
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – learner used 'bowed' instead of 'bought'",
+    "evidence_summary": "The learner said 'It bowed about two years before' in turn 67, likely meaning 'bought'. The bot in turn 68 successfully interpreted this as referring to the phone's age ('two-year-old Galaxy') and continued the conversation, resolving the potential misunderstanding."
+  },
+  {
+    "dialogue_id": "S26_W3_T3",
+    "repair_id": 4,
+    "turn_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech leading to incoherent utterance",
+    "evidence_summary": "The learner's utterances in turns 71 ('Sometime, I'll eat.') and 73 ('because of a heart condition.') are incoherent and likely due to ASR errors. The bot in turn 74 implicitly initiates a repair by interpreting 'heart condition' as 'uncomfortable' and linking it to the phone's heat issue, allowing the conversation to progress. The issue is resolved as the bot makes a reasonable interpretation and the learner does not correct it."
+  },
+  {
+    "dialogue_id": "S26_W3_T3",
+    "repair_id": 5,
+    "turn_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner confused about how to perform a step",
+    "evidence_summary": "The learner in turn 85 expressed difficulty finding the reset option ('I do not find any option here. Could you help me?'). The bot offered help in turn 86, and the learner clarified their need in turn 87 ('Where can I find that option in the menu?'). The bot then provided specific menu guidance in turn 88, successfully resolving the learner's confusion."
+  },
+  {
+    "dialogue_id": "S26_W3_T3",
+    "repair_id": 6,
+    "turn_indices": [
+      105,
+      106
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding – learner misinterpreted logistics",
+    "evidence_summary": "In turn 105, the learner asked 'what time do you pick me up?', indicating a misunderstanding of the process for a 'hands-on look' mentioned by the bot. The bot in turn 106 implicitly corrected this by rephrasing to 'coordinate a time that’s convenient for you' (implying the learner would come to a location), resolving the misunderstanding."
+  }
+]

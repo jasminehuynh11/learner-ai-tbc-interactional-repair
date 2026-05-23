@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S32_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner checking understanding – confirming information",
+    "evidence_summary": "The learner explicitly states 'I would like to confirm if I understand well' regarding the online application process, indicating a need to verify their understanding. The bot confirms the learner's understanding with 'Exactly, you got it!', successfully resolving the learner's uncertainty."
+  },
+  {
+    "dialogue_id": "S32_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      16,
+      17
+    ],
+    "initiation": "LI",
+    "resolution": "U-A",
+    "trigger": "learner shift in topic without addressing bot's irrelevant response",
+    "evidence_summary": "The learner does not address the bot's irrelevant response about a 'physical card' and 'digital card' and instead shifts the topic to documents and inspection times. This indicates the learner's initiation of a new topic without attempting to repair the misunderstanding, leading to an unresolved and abandoned repair sequence."
+  }
+]

@@ -1,0 +1,225 @@
+{
+  "student_id": 4,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S4_W3_T2",
+  "source_file": "data\\raw\\#04\\#04\\#4. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Seeking Technical Support for a Device or Service"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hi there, technical support. How can I help you today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Hi, good afternoon. I need help with my laptop, please, because it’s doing something strange. It works, but at the same time it’s not working, if that makes sense."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That makes sense. Tell me what’s happening and we’ll troubleshoot together. What exactly is the problem?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "So, my camera is not working. Like in Zoom it shows black, and it says “camera not found”, but yesterday it was fine. And I have a presentation, so I’m like… eh… stressed."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I understand, that would be stressful. Is this happening only in Zoom, or does the camera also fail in other apps, like the Camera app or Teams?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I tried Zoom and also the camera app, and it’s also black. So I think it’s not Zoom only."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That’s an important clue. Let’s check a few basics. Have you restarted the laptop since the issue started?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Yes, I restarted two times, because I thought maybe it’s just stuck. But it didn’t change."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Okay. Next, some laptops have a physical privacy shutter or a keyboard key that turns the camera off. Do you see any small slider near the camera, or a camera icon on a function key?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Hmm, I see a little thing, like a tiny door, but I’m not sure if it’s open or closed. How I can know?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "If it covers the lens, the camera will appear black. Can you look closely and see if the lens is visible?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Ah, wait. Yes, the lens is visible. So it’s open. Sorry, I thought maybe that was it."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "No need to apologise, that’s a great thing to check. Next, it could be a permissions setting. On your laptop, do you know if you recently changed privacy settings or installed an update?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I had an update two days ago. It was asking and asking, and I finally did it. Maybe it broke something?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Updates can sometimes change permissions. Let’s check camera permissions. Are you on Windows or Mac?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Windows."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Great. Please go to Settings, then Privacy, then Camera. Do you see an option that says “Allow apps to access your camera”?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Yes, I see it. It says… off. Oh! It’s off. That is maybe the problem."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yes, that would definitely cause “camera not found” in apps. Can you turn it on?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Yes, I turn it on now. Okay, it’s on. Should I try Zoom again?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Yes, please try the Camera app first, then Zoom."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Okay, Camera app… ah, now I can see myself. It works! Wow."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Excellent. That’s a good sign. Now try Zoom and check the video settings."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Zoom… one second… yes, it works. I can see the preview. That’s such a relief."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "I’m really glad. It was most likely the update changing privacy defaults."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Yes, I think so. But can I ask, why it turned off? I didn’t do it. I mean, I don’t remember."
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You’re right to ask. Sometimes updates reset privacy settings, or if a security tool is installed, it can change access. You didn’t necessarily do anything wrong."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Okay. Another question, sorry. If this happens again, what is the first thing I should check? The shutter or the settings?"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Great question. First check the shutter or camera key, then check permissions in Settings, then restart the device. That sequence usually solves most cases."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Okay, shutter, permissions, restart. I will remember."
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Perfect. Do you also use Teams or other apps? We can quickly confirm it works there too if you want."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "I use Teams sometimes, yes. Should I test now? Or it’s okay because camera works already?"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Since the camera works in the Camera app and Zoom, it should work in Teams too, but you can test quickly for peace of mind."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Okay, I trust you. I don’t want to open too many things and break again, you know."
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "That’s understandable. One more thing I recommend is checking that you don’t have two apps trying to use the camera at the same time, because that can sometimes cause issues."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "Oh, like if Zoom is open and Teams open, it can fight?"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Exactly. Some systems allow only one app to access the camera at once."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Okay, good. That’s helpful. And thank you for being patient, because I ask many questions."
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Not a problem at all. Your questions are good and practical. Is there anything else you want help with today?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "No, I think that was the main panic of today. I feel much calmer now."
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "I’m glad to hear that. Good luck with your presentation."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Thank you so much. Have a nice day."
+    }
+  ]
+}

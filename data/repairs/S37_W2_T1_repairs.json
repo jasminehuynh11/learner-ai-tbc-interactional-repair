@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S37_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner used 'joelho' instead of 'knee'",
+    "evidence_summary": "The learner used the word 'joelho', which is Portuguese for 'knee'. The bot clarified the meaning and confirmed the context of the pain. The learner then acknowledged and continued the conversation, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S37_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's fragmented speech – unclear description of pain",
+    "evidence_summary": "The learner's description of the pain was fragmented and unclear. The bot interpreted the pain as strong and proceeded with the booking process, which the learner did not contest, indicating resolution."
+  }
+]

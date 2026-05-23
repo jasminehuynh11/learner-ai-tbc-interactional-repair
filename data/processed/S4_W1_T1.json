@@ -1,0 +1,135 @@
+{
+  "student_id": 4,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S4_W1_T1",
+  "source_file": "data\\raw\\#04\\#04\\#4. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, good morning. I would like to order a coffee today"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! What kind of coffee would you like — maybe an espresso, latte, or cappuccino?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Like, Cappuccino with sugar, please."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it — one cappuccino with sugar. Would you like that hot or iced today?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Hard is ok because the day is cold."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, a hot cappuccino then. Would you like it in a small, medium, or large cup?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Go, please, alive, and, if it is possible, with skim milk."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure thing! One large hot cappuccino with skim milk and sugar. Would you like to have it here or take it away?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Here, it seems a lovely place."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That’s great to hear! Would you like something to eat with your coffee — maybe a pastry or a sandwich?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Oh, that's a good idea. A sandwich sound perfect with mozzarella cheese, please."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Excellent choice! Would you like your mozzarella sandwich toasted or fresh?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Prefer toast with extra espinac, please."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure! Toasted mozzarella sandwich with extra spinach. Would you like any sauce or dressing on it — like pesto or mayonnaise?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yes, eh, besto. It will be okay."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect! So, one large hot cappuccino with skim milk and sugar, and one toasted mozzarella sandwich with extra spinach and pesto. Would you like to pay by cash or card?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Cache, because today my cellphone doesn't have battery."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "No problem at all! Would you like your coffee and sandwich served together or the coffee first?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Guess together! Inside it's a good option."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Great! I’ll bring your order to your table inside. Would you like to sit near the window or a quieter spot in the back?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Near the window."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Perfect choice — it’s bright and cozy there. I’ll bring everything over soon. Anything else you’d like to add to your order?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "No, thank you. Thank you. That's all."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’ll bring your order right over. Enjoy your coffee and sandwich! ☕🥪 kay, I'll be waiting."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Perfect! It won’t take long — relax and enjoy the view by the window. ☀️ —---------------: -------------"
+    }
+  ]
+}

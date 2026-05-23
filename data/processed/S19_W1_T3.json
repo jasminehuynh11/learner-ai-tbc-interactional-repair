@@ -1,0 +1,235 @@
+{
+  "student_id": 19,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S19_W1_T3",
+  "source_file": "data\\raw\\#19\\#19\\#19. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Returning or Exchanging Clothes and Asking About Store Policies"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Scenario: You are visiting a clothing or shoe store to return or exchange a recent purchase, and to ask about the store’s policies. Practise explaining the reason for the return, confirming store conditions, and making polite requests for refunds, exchanges, or store credit. You will need to define the chatbot’s role as a retail store assistant. You can choose situations from the examples below; start with a simple return or exchange request, then move to a more detailed interaction by explaining the reason, asking about the store’s policies, or negotiating a solution."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! I can help with that. What item would you like to return or exchange today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I bought this shirt last week, but it doesn't fit. Could I exchange it for a larger size?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! We can help with that. Do you happen to have your receipt with you, or should I look it up for you?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I have the receipts here.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, great! Thanks for that. Let me just take a quick look at it. Now, do you know exactly what size you'd like to exchange it for?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure, XL it is! I'll just note that down. And while we do that, did you want to know a bit about our exchange or return policy, or is there anything else I can help you with?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, what's your return policy?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely! So, our return policy is pretty straightforward. You can return or exchange items within 30 days as long as you have the receipt and the item is in its original condition. Now, is there anything else you’d like to check on, or does that cover it for you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“So, can I get a refund or store credit?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure! We can definitely do either. If you'd prefer a refund, we can put it back on your original payment method, or if you'd rather have store credit, that’s totally fine too. Which one would you like to go with?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I approve the refund, yes.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Alright, a refund it is! I'll go ahead and process that back to your original payment method. And is there anything else you need help with today?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“So, do I need the original packaging to return this?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Sure! Actually, for a refund, it's best if you do have the original packaging, but it's not absolutely required as long as the item is in good condition. So you're all set there. Anything else you'd like to ask about?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“다른 색으로 바꿀 수 있나요?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Of course! We can definitely do a color swap if you'd prefer. Just let me know which color you had in mind, and I'll check if we have it in stock."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Would it be possible to get a store credit instead?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that as well. So if you'd rather have store credit, we can just issue that for you instead of a refund or exchange. Does that sound good to you?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Okay, can I exchange this for something else in the same price range?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Sure, you absolutely can. We can just find you something else around the same price, and we'll do an even exchange for you. Is there a particular item or type of clothing you had in mind?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, that's fine. As long as you have the receipt, we can still process the return even if the tags are off. Now, is there anything else you'd like to check on?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“If I buy this as a gift, can the person return it without a receipt?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Sure! Actually, if it was a gift, we can do a gift receipt, and then they can return or exchange it without any problem. So does that answer your question, or is there anything else?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, yes we do. Even for sale items, you can still return or exchange them within the normal return period. So you're all good there. Anything else on your mind?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“So what happens if the item is damaged when I open it?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Sure! If the item turns out to be damaged when you open it, just bring it back and we’ll replace it or refund it for you, no worries at all. Is there anything else you'd like to know?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Absolutely, we can help with that. If it broke after the first use, we can definitely look at replacing or repairing it for you. Just bring it in and we'll take care of it. Anything else you'd like to ask?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“And also this jumper shrank after one wash. Could I exchange it?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Sure! If it shrank after one wash, we can definitely exchange it for you. Just bring it in and we’ll sort that out. Is there anything else you need to know?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“And I noticed a loose sim. Could it fix it here or should I return it?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, we can help you with that. If it's just a loose seam, we can actually fix that here in-store for you. Or if you'd prefer, you can just return or exchange it. Whatever works best for you. Anything else you’d like to ask about?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“So if I buy something today, how long will I have to return it?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure! So you'll have 30 days from the date of purchase to return it if you need to. That's our standard return window. Anything else you're curious about?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Do you foresee extended returns for Christmas purchases?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely! We do offer an extended return period for holiday purchases. Usually, anything bought around Christmas can be returned until the end of January. So that should give you plenty of time. Anything else on your mind?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Also, can I return online purchases in this store?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely! You can return online purchases right here in the store as well, no problem at all. So feel free to bring it in. Anything else you'd like to know?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Thanks for your help. I appreciate you explaining the policy.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help explain everything. If you have any more questions, just let me know."
+    }
+  ]
+}

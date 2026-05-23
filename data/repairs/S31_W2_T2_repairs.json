@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S31_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      4,
+      5
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – irrelevant response to learner's unclear statement",
+    "evidence_summary": "The learner's statement in turn 4 is unclear and seems to mix unrelated ideas ('drank my juice' and 'moved my phone'). The bot interprets this as a request to update address details and provides instructions for that. The conversation continues smoothly, indicating the issue is resolved."
+  },
+  {
+    "dialogue_id": "S31_W2_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner request for repetition – unclear hearing",
+    "evidence_summary": "The learner asks for repetition of a previous sentence in turn 8, indicating they didn't hear it well. The bot repeats the information in turn 9, and the conversation continues without further issues, resolving the trouble."
+  },
+  {
+    "dialogue_id": "S31_W2_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      16,
+      17
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner clarification – immediate service request",
+    "evidence_summary": "The learner clarifies in turn 16 that they want the address update done immediately. The bot acknowledges and provides instructions for immediate service in turn 17, resolving the issue."
+  }
+]

@@ -1,0 +1,270 @@
+Task 1: “To practice how to order coffee at the coffee.”
+00:02
+English Conversational Partner said:
+Absolutely, let's do that! I'll be the barista, and you can be the customer. Whenever you're ready, just let me know what you'd like to order, and we'll go from there.
+You said:
+“Okay, perfect. We can start now.”
+00:03
+English Conversational Partner said:
+Awesome! Welcome to our café! What kind of coffee would you like to order today? Feel free to let me know any specifics, like size or any extra flavors.
+You said:
+“Thank you. To be honest, I don't usually drink coffee, so I don't know which... Do you have any recommendation? I don't like the strong flavors.”
+00:12
+English Conversational Partner said:
+Of course! If you prefer something milder, I’d recommend maybe a latte or a cappuccino, which have a nice balance of milk and espresso. Or we can do something like a mocha if you like a bit of chocolate. How does that sound?
+You said:
+“Sounds good, but I don't know, what is the difference between latte and cappuccino?”
+00:04
+English Conversational Partner said:
+Great question! So, a latte has more steamed milk and just a little bit of foam, making it creamier and smoother. A cappuccino, on the other hand, has equal parts espresso, steamed milk, and foam, so it’s a bit frothier and has a stronger coffee taste. Does that help?
+You said:
+“Yes, for me the latte sounds good, and do you have something to eat?”
+00:06
+English Conversational Partner said:
+Absolutely, we have a variety of pastries and snacks. We have croissants, muffins, and even some sandwiches. Is there something specific you’re in the mood for?
+You said:
+“Maybe a sandwich. What kind of sandwich do you have?”
+00:02
+English Conversational Partner said:
+Sure! We have a few options. There's a classic ham and cheese sandwich, a veggie sandwich with hummus and fresh veggies, and also a chicken pesto sandwich. Anything catching your eye?
+You said:
+“Not really, I mean, do you have maybe a steak sandwich?”
+00:03
+English Conversational Partner said:
+Absolutely, we do have a steak sandwich! It comes with tender slices of steak, some sautéed onions, and a bit of cheese on a fresh baguette. How does that sound to you?
+You said:
+“Good, good. I would like the steak sandwich and the latte, but please, the steak sandwich could be medium.”
+00:08
+English Conversational Partner said:
+Perfect! So that's one medium steak sandwich and one latte. Would you like any specific milk for your latte, like almond or oat milk, or just regular dairy?
+You said:
+“Yes, same thing, today I would like almond milk.”
+00:03
+English Conversational Partner said:
+Got it! One latte with almond milk and one medium steak sandwich. That sounds delicious! Is there anything else I can get for you today?
+You said:
+“How long will that take?”
+00:01
+English Conversational Partner said:
+It should only take a few minutes! We'll have your latte freshly made and the steak sandwich prepared just right. You can expect it in about five minutes or so. Sound good?
+You said:
+“Yeah, I would like to eat here, in that case.”
+00:02
+English Conversational Partner said:
+Perfect, we'll get everything ready for you, and you can have a seat and relax. We'll bring it right over once it's done. If you need anything else in the meantime, just let me know!
+You said:
+“Okay, but I don't know about the price.”
+00:02
+English Conversational Partner said:
+No worries at all! The latte with almond milk is usually around four dollars, and the steak sandwich is about eight dollars. So, together, it’ll be roughly twelve dollars. If you have any discounts or anything specific in mind, just let me know!
+You said:
+“I am a student, I don't know if you have a scan for students.”
+00:03
+English Conversational Partner said:
+Absolutely, we do offer a student discount! You can get about 10% off your order. Just show me your student ID when you pick it up, and I'll apply that discount for you!
+You said:
+“I appreciate your help, I hope you have a great day, thank you for everything.”
+00:04
+English Conversational Partner said:
+You're very welcome! It was my pleasure. I hope you enjoy your meal, and have a fantastic day as well! If you need anything else, just let me know.
+You said:
+“Thank you!”
+
+Task 2: Booking a Restaurant Table
+English Conversational Partner said:
+Absolutely, I'd love to help with that! Let's imagine you're calling a restaurant to book a table. You can start by letting me know how many people will be dining and what date and time you have in mind. Then we can go from there!
+You said:
+“Okay, but I would like to create a scenario where you are the restaurant, I am the customer. So can we start from the beginning?”
+00:09
+English Conversational Partner said:
+Of course, that sounds great! Let's do it. I'll be the restaurant host, and you can be the customer. Whenever you're ready, just let me know how many people you’d like to book for and the date and time, and we’ll get started!
+You said:
+“Hello, I would like to book a table for two tonight.”
+00:04
+English Conversational Partner said:
+Hello! I'd be happy to help with that. For tonight, at what time would you like to reserve your table?
+You said:
+“Do you have a table available at APM?”
+00:03
+English Conversational Partner said:
+Yes, we do have availability at 8 PM for two people. Could I have your name, please, to complete the reservation?
+You said:
+“My name is Francisco.”
+00:02
+English Conversational Partner said:
+Great, thank you,
+You said:
+“And my last name is Valverde.”
+00:02
+English Conversational Partner said:
+Perfect, Francisco Valverde. I’ve got that noted. Is there any special request or anything else we should know for your reservation?
+You said:
+“Yeah, I prefer if you have a space with a nice view.”
+00:04
+English Conversational Partner said:
+Absolutely, I’ll make a note of that and do my best to reserve a table with a nice view for you. Is there anything else I can assist you with?
+You said:
+“Yeah, I mean, today is the birthday of my friend, so it's a surprise. I don't know if you have something special for the birthday person, something like that.”
+00:14
+English Conversational Partner said:
+Oh, how lovely! We can definitely arrange something special. We have options like a complimentary dessert or a birthday greeting. Would you like to include something like that?
+You said:
+“Yes, perfect. That would be fantastic.”
+00:03
+English Conversational Partner said:
+Wonderful, I'll make sure everything is set up for a lovely birthday surprise. Is there anything else you’d like to add or any other details I should know?
+You said:
+“Yeah, do you have a candle or should I bring my own candles?”
+00:04
+English Conversational Partner said:
+We can definitely provide candles for you, no worries at all! We'll take care of that for the birthday celebration. If there's nothing else, then I think we’re all set.
+You said:
+“Yeah, I mean, could you help me with the menu? I could give you my number or my email because my friend has specific allergies. I think it's penuts. He can't eat anything, nothing with penuts.”
+00:16
+English Conversational Partner said:
+Of course, that’s really important to know! We’ll make sure to accommodate the peanut allergy. If you’d like, you can share your contact details, and I can send you the menu in advance so you can let us know what works best. Just let me know how you’d like to proceed!
+You said:
+“Yes, perfect. I'll give you my number.”
+00:01
+English Conversational Partner said:
+Sounds good! Feel free to share your number, and I’ll make sure we follow up with all the details. And if there's anything else you need, just let me know!
+You said:
+“Okay, my number is 123-567.”
+00:03
+English Conversational Partner said:
+Perfect, I've got that noted down. We’ll make sure to send you all the details and keep everything safe for your friend’s celebration. If you have any other questions or requests, just let me know!
+You said:
+“Oh yes, perfect. I would like to know if you have a wine list.”
+00:04
+English Conversational Partner said:
+Absolutely! We do have a wine list, and I can send that over to you as well, so you can take a look ahead of time. If you have any specific preferences or questions about the wine, just let me know!
+You said:
+“Ah yes, I mean, like today is a surprise, I don't know if we will be on time, so I don't know if you have any flexibility if we arrive 15 or 20 minutes later.”
+00:13
+English Conversational Partner said:
+No worries at all! We can definitely accommodate a bit of flexibility. If you arrive 15 or 20 minutes late, we'll hold your table for you. Just keep us posted if you’re running late, and we’ll make sure everything’s perfect.
+You said:
+“Okay, perfect. Do you know if the seed that you are planning to give me, it's like a quiet place or is crowdy?”
+00:09
+English Conversational Partner said:
+Absolutely! We’ll do our best to seat you in a quieter area, especially since it’s a special occasion. We’ll make sure that the atmosphere is cozy and comfortable. If you have any other preferences, just let me know!
+You said:
+“No, I mean, I just would like to have the menu, um, yes, the wine list, uh, yeah, I told you about the candles.”
+00:09
+English Conversational Partner said:
+Absolutely, I
+You said:
+“Dan flexibility”
+00:02
+English Conversational Partner said:
+Perfect, I’ve got all that noted! Everything’s set for a wonderful evening. If anything else comes up or you have more questions, just let me know, and I’m happy to help!
+You said:
+“Thank you very much, I appreciate all your help.”
+00:02
+English Conversational Partner said:
+You’re very welcome! It’s my pleasure. If you need anything else at all, just let me know. I hope you and your friend have a fantastic celebration!
+You said:
+“Thank you.”
+00:00
+English Conversational Partner said:
+You're very welcome! Have a great time, and feel free to reach out anytime. Take care!
+
+Task 3: Returning or Exchanging Clothes and Asking About Store Policies
+You said: 
+“I am studying English and I want to practice a specific scenario, in this case I want to practice returning or exchanging clothes and asking about store policies. You will be the store and I will be the customer.”
+00:18
+ChatGPT said:
+Updated saved memory
+Got it! That sounds fun. Whenever you're ready, you can start as the customer, and I'll play the store staff. We can go through it step-by-step. Let me know how you'd like to begin!
+You said:
+“Okay, we're gonna start now. Hello, I bought this jacket on sale. Can I return it if it doesn't fit?”
+00:12
+ChatGPT said:
+Absolutely! Yes, you can return it within 30 days as long as you have the receipt and the item is in its original condition. Is there anything specific you'd like to know about the process?
+You said:
+“Yeah, I would like to know if you have a large size in this jacket or I need to change for a different clothes.”
+00:09
+ChatGPT said:
+Of course! Let me check our inventory for you. We do have a large size in stock, and we can definitely help you exchange it if you prefer. Would you like to do that now?
+You said:
+“Oh yes, perfect, because the jacket they bought is too small for me.”
+00:03
+ChatGPT said:
+No worries at all! We can get that sorted out for you. Just bring the jacket over, and we'll get you the right size in no time. Let me know if there's anything else I can help with!
+You said:
+“I would like to know about the return policy, I mean, I don't know if I need to pay more money or the same price.”
+00:10
+ChatGPT said:
+Gotcha! Usually, if the exchange is for the same item in a different size, there’s no additional cost. But if the new size has a different price, we’ll just adjust it accordingly. And of course, if you need a refund, we can handle that as well. Let me know if you have any other questions!
+You said:
+“Okay, so if I don't want to change the size, could I get the reform?”
+00:05
+ChatGPT said:
+Absolutely! If you prefer a refund, as long as you have the receipt and it's within our return window, we can definitely process that for you. It’s totally up to you!
+You said:
+“Okay, but I paid by credit card, I don't know if you can give me cash, or how do you work in this game?”
+00:09
+ChatGPT said:
+Great question! Typically, if you paid by credit card, we'll refund the amount back to the same card. If you prefer a cash refund and it’s within our policy, we can sometimes do that as well. It just depends on the specific situation. We’ll make sure to find the best solution for you!
+You said:
+“I'm thinking, no, I think that I like the jacket, so if you have a large size, it would be fine for me. Maybe, I don't know, could I swap it for a different color?”
+00:17
+ChatGPT said:
+Absolutely, we can definitely do that! If we have the same jacket in a different color and the right size, we can swap it out for you with no problem. Just let me know which color you prefer, and we’ll get it all sorted!
+You said:
+“OK, OK. Just one more question, because it's my first time returning a quote. I mean.”
+00:09
+ChatGPT said:
+Of course, no worries at all! I’m
+You said:
+“In this video, I will be talking about ChatGPT, OpenAI, DALL·E, GPT-3, and GPT-4.”
+00:00
+ChatGPT said:
+I’m here to help,
+You said:
+“Yes, I would like to know what happens if the item is damaged when I open it or about this is a gift, can the person return it with a receipt? I mean, I just want to know for a different case.”
+00:16
+ChatGPT said:
+Absolutely, that makes sense! If the item is damaged, we can definitely help you with an exchange or a refund, and we’ll just need to confirm the condition. And if it’s a gift and you don’t have the receipt, we can often look up the purchase or offer store credit. We’ll always do our best to find a solution that works for you!
+You said:
+“Okay, okay, I really appreciate your explanation, and I'm really clear, so I'm just gonna change my clothes.”
+00:07
+ChatGPT said:
+You’re very welcome! I’m glad I could be of help. If you need anything else or have any more questions, just let me know. Good luck with the exchange, and I hope you find the perfect fit!
+You said:
+“Oh yes, just one more question, and...”
+00:02
+ChatGPT said:
+Of course, go right
+You said:
+“After this change, could I have to change again?”
+00:06
+ChatGPT said:
+That’s totally understandable! Usually, you can exchange an item as long as it’s within the return window and meets our policy. If you need to change it again, we’ll be happy to help as long as it’s within that timeframe. Just let us know what you need!
+You said:
+“How many days do I have to make a new change?”
+00:06
+ChatGPT said:
+Typically, our return and exchange window is about 30 days from the purchase date. So you’d have that 30-day period to make any additional changes. If you ever need more time or have any special circumstances, just let us know, and we’ll do our best to assist!
+You said:
+“That's perfect, thank you very much. I think I don't have more questions and I'm happy with your answer.”
+00:05
+ChatGPT said:
+You’re very welcome! I’m really glad I could help. If you think of anything else later on, just let me know. Have a great time with your exchange, and take care!
+You said:
+“Thank you.”
+00:00
+ChatGPT said:
+You're welcome! Anytime. Have a wonderful day!
+You said:
+“You too.”
+00:00
+ChatGPT said:
+Thanks a lot! Talk to you soon, and take care!
+Top of Form
+
+Bottom of Form
+ChatGPT can make mistakes. Chec
+
+
+

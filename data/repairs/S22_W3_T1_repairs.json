@@ -1,0 +1,29 @@
+[
+  {
+    "dialogue_id": "S22_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'modem and router'",
+    "evidence_summary": "The learner asks if 'modem and router' are the same thing, indicating a lack of understanding. The bot explains the difference, and the learner confirms by describing the devices they see, resolving the issue."
+  },
+  {
+    "dialogue_id": "S22_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "clarification – learner asks for repetition of reference number",
+    "evidence_summary": "The learner asks the bot to repeat the reference number slowly. The bot complies, and the learner confirms the number, resolving the issue."
+  }
+]

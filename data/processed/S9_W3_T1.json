@@ -1,0 +1,200 @@
+{
+  "student_id": 9,
+  "week": 3,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S9_W3_T1",
+  "source_file": "data\\raw\\#9\\#9\\#9. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "TASK 1: Reporting Problems and Seeking Help"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hi there! How can I help you today? What can we chat about?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes,oh can I say that one more time?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! Take your time. Go ahead and let me know what you were trying to say, and I'm here to help."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, and can you hear my problem with my house problem?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure, of course! I'd be happy to help with that. What seems to be going on with your house?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, in my house, my Wi-Fi is not connected, I think, but yesterday it was working well, but nowadays it doesn't work.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, I got it! So it sounds like your Wi-Fi's just not connecting all of a sudden. Let me ask: have you tried restarting your router or any of your devices yet?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, I checked on my router and I turned off my item again, but it's not working.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, that makes sense. So you've tried restarting things and it’s still acting up. Let me ask you this: have there been any changes in the house recently, like new devices or anything that might cause interference?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I think your company co-worker will come to my house, it's better to me.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure, I get that! Sometimes it's just easier when someone can come over and take a look. So let me just ask you one last thing: would you like me to"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, sounds good! So would you like me to help you maybe figure out how to contact your internet company or set up an appointment?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Mmm, yes.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, perfect! Let’s do that then. If you can just let me know which internet company you’re with, I can help you figure out the best way to reach them."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I'm so sorry. This is not my house. I don't know my company. Can I send you email my item pictures?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure, no worries at all! If it's not your place, I totally get it. So if you want to just show me a quick picture of the router or any details you have, feel free. And then we can figure out the next step."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, but I will go out my house, so after then we talk about, and I will take the picture.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, that sounds like a plan! So go ahead, do what you need to do, and whenever you're ready to chat again or send a picture, just let me know."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yes, but your company co-author will come to my house, right?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, that sounds like a plan! So go ahead, do what you need to do, and whenever you're ready to chat again or send a picture, just let me know."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Everything is okay. Is that the weekend is possible?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure, absolutely! Weekends are totally possible. So let's say we can arrange someone to come by on the weekend. Is there a particular time of day that works best for you?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, we can be flexible. If you need to change the time, that’s no problem at all. And sure, if dinner time works for you, we can find an evening slot. So just let me know roughly what time in the evening you'd like, and we'll get that set up for you."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Also, can I change the time and is that possible in dinner?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Sure, 8 p.m. works perfectly! We'll set that up for you this weekend at 8 p.m. and someone will come by and help you out. Let me know if you need anything else!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“How about at 8 p.m.?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Sure, 8 p.m. works perfectly! We'll set that up for you this weekend at 8 p.m. and someone will come by and help you out. Let me know if you need anything else!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“I will tell you my home address.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Sure! Go ahead and let me know your home address whenever you're ready, and I'll make sure we note that down so our tech can come by."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Okay, my address is in entry field on 37 Palazzo Street.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Got it! Thanks for that. We'll note down 37 Palace Street in Sheffield, and we'll have someone there at 8 p.m. this weekend. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“If there was an accident, what should I do about that problem?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Sure! After that, once our tech has come by and taken a look, they'll walk you through anything else you need to do. In the meantime, just sit tight and we'll handle the rest. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“No, thank you.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "You're very welcome! We'll get everything sorted out for you. Thanks for chatting, and have a great day!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Have a great day, too.”"
+    }
+  ]
+}

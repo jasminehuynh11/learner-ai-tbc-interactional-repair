@@ -1,0 +1,125 @@
+{
+  "student_id": 35,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S35_W3_T3",
+  "source_file": "data\\raw\\#35\\#35\\#35. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Enquiring About a Rental Property or Housing Inspection"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’m interested in one bed room unit on Main Street"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! Are you looking to rent or buy the one-bedroom unit on Main Street?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello, I'm interested in looking for a one-bedroom for rent in any main street. Do you have any information about it?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! I'd be happy to help. Could you let me know what your budget range is for the rent, and any specific amenities or features you're looking for?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I'm sure.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great! And do you have a preferred"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“My budget? My budget is like maybe $300 per week.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, that’s helpful!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I would like something like this, you know, cheaper.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. I’ll keep that in mind. Are there any specific neighborhoods on Main Street that you prefer, or are you flexible with the location?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I would like something close to Town Hall, could be Sword Hills, I would prefer Town Hall, to be honest, or maybe Redfern.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Perfect, that gives me a good idea. So, to sum up, you’re looking for a one-bedroom rental near Town Hall, ideally with a budget around $300 per week. Is there a specific move-in date that you're aiming for?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Uh, yeah, I would prefer any weekday, please.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Got it, any weekday works for you. That’s really helpful! And just to confirm, do you have any preferences regarding the apartment’s amenities, like a furnished unit or something pet-friendly?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“To be honest, no, I don't mind it. The only one thing that I would like to keep in mind is if someday I have any guest, any friend, you know, I would like to invite that kind of people to my home.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense! We'll definitely keep that in mind when looking at options. Is there anything else that you’d like to mention or any other requirements that you have in mind?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“That's all for now. Can you give me some options, please? Do I need to register before attending?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Of course! I’ll gather some suitable options for you. And typically, for viewings, it’s a good idea to register in advance, just so we can coordinate everything smoothly. I’ll let you know all the details once I have the options ready!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Thank you, I'll wait for it.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’ll get everything sorted and let you know as soon as possible. If you have any other questions in the meantime, just let me know!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Cool, cool. Thank you.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "You're welcome! I'm glad to help. Just reach out anytime, and I’ll be here."
+    }
+  ]
+}

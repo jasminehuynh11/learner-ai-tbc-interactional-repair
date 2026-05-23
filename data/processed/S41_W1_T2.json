@@ -1,0 +1,110 @@
+{
+  "student_id": 41,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S41_W1_T2",
+  "source_file": "data\\raw\\#41\\#41. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to book a table for two people tonight.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! I'd be happy to help. What time would you like to make the reservation for, and do you have any specific preferences for seating?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes, can we sit near the window, if possible? And I want to book next Tuesday, 8 p.m.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it! So, a table for two next Tuesday at 8 p.m., and you'd like to be seated near the window. That sounds great! Is there any special occasion or any dietary preferences I should know about?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yeah, I want to celebrate my friend's birthday, and do you have any decoration for us?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Oh, that sounds lovely! Yes, we can definitely arrange some decorations for the birthday. Could you let me know what kind of decorations you have in mind, or if there's a particular theme?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Will, could you give, could you prepare some candle for us? We want to bring a birthday cake for ourself. And could you, do you have the fridge? We want to refrigerate our cake.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Do you have a menu online? We want to see the menu first.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, I can send you a link to our menu online. And if you have any questions about the dishes or need recommendations, just let me know!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“And also, do you have a car park? Because we are driving on here.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Yes, we do have a parking lot available for our guests, so you’ll have no trouble parking. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“And my friend, do you have a vegetarian option? My friend is a vegetarian.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“And also, is there any flexibility if we arrive 15 minutes late?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Oh, by the way, the third seat is private, because if you have a room, private room is better, because we want to keep quiet.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Sounds like great, and also, do you have any soft drink for us?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“I think that's all, thank you!”"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Oh, by the way, we wanna change the time, I get the wrong time, it's not next Tuesday, it's next Wednesday, 8pm.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“No, thank you. Uh, and, uh, and, uh, will I get the, the, uh, will I get the, will I get the, the,”"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I mean, will I get the reservation message?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    }
+  ]
+}

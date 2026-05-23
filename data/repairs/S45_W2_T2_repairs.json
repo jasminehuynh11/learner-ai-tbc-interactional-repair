@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S45_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      3,
+      4
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'personal use' vs 'joint account'",
+    "evidence_summary": "The learner expresses confusion about the difference between 'personal use' and 'joint account'. The bot explains the difference clearly, and the learner then chooses the personal account, indicating the issue was resolved."
+  }
+]

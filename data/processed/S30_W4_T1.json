@@ -1,0 +1,110 @@
+{
+  "student_id": 30,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S30_W4_T1",
+  "source_file": "data\\raw\\#30\\#30\\#30. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hello, I am student business and maybe I need to changing my degree. Could you help me understand my options?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to help with that! So, to start off, can you tell me what your current degree is in and what kind of field or career you’re interested in switching to? That way, we can explore some options that match your goals."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“So I don't know”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "No worries at all! We can take it step-by-step. Maybe we can start by discussing what you enjoy most about your current studies or what you’re passionate about. That can help us narrow down some possibilities. What do you think?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Okay, should I do a diploma before a master's degree?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That’s a great question! It definitely depends on your current background and the field you’re aiming for. Sometimes a diploma or a graduate certificate can help build a foundation before pursuing a master's. Do you have a specific field in mind that you’re considering?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Ok, I understand.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Great! And whenever"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“But about the Business Diploma,”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it, that definitely gives you a solid foundation. In that case, we can explore how that diploma might transfer into a bachelor’s or a master’s in another field. Do you have any particular areas or industries you’re interested in, like tech, marketing, or something else?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Oh, alright. I hadn't considered that before. Thanks for your time. I'll look into those options.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions as you explore your options, just let me know. Good luck with everything!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, I have one more question. If I want to study oversize later, how can I prepare now?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That’s a great question! A good start would be to research universities or programs abroad and understand their entry requirements. Also, building your English proficiency through tests like the IELTS or TOEFL can help. And of course, looking into scholarships or funding options can be really useful. Anything specific you’re curious about?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Ok, no, but the last questions, what types of jobs are common for people in my degree?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely! With a business diploma, you could look into roles like business analyst, marketing coordinator, sales associate, or even administrative roles. It really depends on your interests and any additional skills you might have. If you have a particular area you’re leaning toward, we can definitely explore that further!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Perfect. Thank you so much.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You’re so welcome! I’m glad I could help. If anything else comes up, just let me know. Good luck with everything!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, for now, that's it. I appreciate your help.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course, it was my pleasure! Feel free to reach out anytime. Have a wonderful day!"
+    }
+  ]
+}

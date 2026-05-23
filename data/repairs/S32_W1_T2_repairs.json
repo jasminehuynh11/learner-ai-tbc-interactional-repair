@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S32_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot omission – incomplete question",
+    "evidence_summary": "The bot asked for a specific time for a lunchtime reservation but left blanks in its question in turn 8, creating an incomplete utterance. The learner implicitly initiated a repair in turn 9 by providing '1pm' to fill the missing information. The bot acknowledged this with 'That's absolutely fine!' in turn 10, indicating the immediate trouble was resolved."
+  },
+  {
+    "dialogue_id": "S32_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      22,
+      23,
+      24
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner seeking status update – clarification on process",
+    "evidence_summary": "After the bot stated it was checking outdoor seating availability and asked the learner to 'Hang tight!' in turn 22, the learner initiated a repair in turn 23 by asking 'Now do you know if it is possible to book...?', signaling uncertainty about the current status of the check. The bot resolved this by confirming availability in turn 24, clarifying the task status."
+  }
+]

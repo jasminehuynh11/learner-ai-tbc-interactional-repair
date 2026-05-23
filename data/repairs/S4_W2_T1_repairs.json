@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S4_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      32,
+      33,
+      34
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'plot test'",
+    "evidence_summary": "The learner asks about a 'plot test', which is unclear. The bot initiates the repair by asking if the learner meant 'swab test' or 'blood test'. The learner confirms 'swab test', resolving the misunderstanding."
+  }
+]

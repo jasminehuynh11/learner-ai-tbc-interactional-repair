@@ -1,0 +1,350 @@
+{
+  "student_id": 5,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S5_W2_T2",
+  "source_file": "data\\raw\\#5\\#5\\#5. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I am visiting a local bank branch to request help with everyday banking services. I may need to open a new account, update your details, or ask about specific features such as online banking or international transfers. Practise speaking clearly and politely in a formal setting. Your role is a bank staff or customer service officer."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course. Welcome to the bank today — how can I help you? Are you here to open a new account, update your information, or ask about a specific service?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Are you?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely. I'm one of the customer service officers here, so I'm here to help you with any banking services you need. Now, just to get started, could you let me know if you're looking to open a new account or maybe update some existing details?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I'm here to open a banking account.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, happy to help with that. What kind of account are you interested in opening today—are you thinking of a personal checking account, a savings account, or something else?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“It's my first time visiting Australia and I'm here as a student so I will be here for about a year and could you recommend some kind of accounts for me? I'm not sure what they are.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure, absolutely. As a student here for a year, a student checking account might be a great fit since it usually has no monthly fees. We could also look at a basic savings option if you like. To start, can I just ask if you have your student ID or your enrollment details with you? That'll help us set things up smoothly."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, I have a student ID and here's my passport.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Great, that’s perfect. We can definitely get started with those. So let me just ask: do you also want to set up online banking right away, or would you prefer to do that later on?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“So, can you please do it right away?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure, we can do that right away. I'll include the online banking setup as we open your account. Now, just one more thing: do you think you’ll need to make international transfers, or is it mostly local transactions?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I guess I will use my account for everyday basis.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. We'll set it up mainly for your everyday local use then. Now, just to wrap things up, do you have any particular questions about fees or account features you'd like me to explain?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“account. I mean, it's between friends or co-workers. Yeah, but sometimes I have to pay for the tuition. So, can I just do both?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course, you can definitely do both. We'll set up your account so you can handle everyday transactions and those bigger tuition payments as well. Now, just let me know if you'd like a debit card linked to the account right away, or if you'd prefer to wait on that."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Oh, what's the good point to connect debit card?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure, well, having a debit card right away is handy because it lets you access your money easily and pay in stores or online. So, would you like us to issue that debit card for you now?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Ah, so yeah, debit card is different from credit card, right?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Exactly! A debit card uses the money you already have in your account, while a credit card borrows funds that you pay back later. Now, just let me know if you'd like me to go ahead and set up that debit card for you."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yeah, please set up the debit card, please.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, I'll get that sorted for you right away. And with that, we've got everything we need. If there's anything else you want to ask about, feel free—otherwise, we're all set! Just let me know."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yeah, do you need my account address as well? Because I heard one of my friends said it takes a week or more than a week to get a debit card. So I heard you guys will send it to my house.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, that's right. We do need your address so we can mail the debit card to you, and it usually takes about a week. So could you just let me know the address you'd like us to send it to? It's the last detail we need."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "All right, perfect. Once you share that, we'll have everything we need. And if you have any other questions, just let me know."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, my address is in Sydney, 19 Menzies Road, Mothfield, yeah, Sydney.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Got it, thanks for that. We'll make sure your debit card is sent there. If there's nothing else you need, we're all set on our end!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“질문이 있습니다. 좋은 소비 계약이 있나요? 이벤트를 추천하시나요?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Of course, happy to"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Special thanks.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, we do have some special savings options that can earn you a bit more interest. I can definitely walk you through those. Just let me know if you're interested in a short-term or a more long-term saving plan."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Yeah, I guess I don't have enough money right now, so short term is better for me.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Sure thing! A short-term savings account sounds perfect for you then. We can set that up alongside your main account. Anything else you'd like to ask about?"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“The abstract term means how many months do you mean.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Usually, short-term means anywhere from a few months up to about a year. We can definitely find one that fits your timeline. So let me know if that works for you."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“OK, then can I do 3 months?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, a three-month option is definitely doable. We'll set that up for you. And if you’re all good with that, we’re pretty much all set!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Yeah, then how much the interest rate?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sure! For a three-month savings, the interest rate is typically around a small percentage, and I can give you the exact rate once we finalize the details. Anything else you'd like to know?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "All right, sounds good! We’ve got everything sorted out then. If you have any other questions later, just let us know. Thanks for visiting!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Yeah, and do I register the card to Apple Pay?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely, you can do that once you get the card. It's pretty easy to add it to Apple Pay. And with that, I think we've covered everything. Thanks again, and you're all set!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Yeah, then you mean, before I get the card, I cannot register the card for Apple Pay, right?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "That's right! You'll just need to have the physical card first, and then you can register it on Apple Pay right after. And with that, I think we're all good to go!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Okay, then what if I forgot my password?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Sure! If you ever forget your password, you can just reset it through our online banking platform or give us a quick call. And with that, I think we've got everything covered!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Okay, I see. Then can I, how can I get to the customer banking service contact?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Of course! You can always reach our customer service through the number on the back of your card or through our website’s support page. And if that's all, you're all set! Thanks for coming in today."
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“I see. Thank you.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "You're very welcome! If you need anything else, just let us know. Have a great day!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And my friend says, oh no, my friend says, she just tried to do an Apple Pay, but it's not working. It wasn't working. Then what do I need to do?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Sure! If that happens, you can just double-check the settings or contact us and we’ll help you sort it out. And with that, if you’re all good, feel free to let me know!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Yeah, all good.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "All right, perfect! It sounds like we've got you all set up and ready to go. Thanks so much for your time, and have a wonderful day!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care and see you next time."
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Lastly, can you just organize what we are talking about?”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Sure! So basically, we've set you up with a student checking account, arranged for a debit card to be mailed to your address, added online banking, and talked a bit about a short-term savings option. If you ever need help, you know how to reach us. And that's the summary!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Okay then, when it comes to what I'm saying, is there any big mistake or other options I would be better?”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Absolutely! Honestly, you're doing great. No big mistakes at all. You're speaking really clearly. If you want to practice other options, just let me know, but you're doing just fine."
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "You're welcome! And if that's all, I'm glad I could help. Have a great rest of your day!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“That's all. Have a good one.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "You too! Take care and see you next time."
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“They care.”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Thanks, you too! It was great chatting with you, and if you need any more practice, just let me know."
+    }
+  ]
+}

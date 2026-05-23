@@ -1,0 +1,120 @@
+{
+  "student_id": 27,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S27_W3_T2",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, I’ve just realised I lost my wallet. I’m at Hobart Airport, near the check‑in area. I’d like to check with the lost‑and‑found desk."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. To help the search, could you describe the wallet and where you last saw it?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "It’s a black wallet, about standard size."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Thanks. When exactly did you last see it, and where were you standing or walking?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "I last saw it at around  p.m. I was near check‑in counter 2, then I walked toward Gate 3. I think I might have dropped it near the seating area where close to the coffee shop."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it. Do you remember if the wallet was zipped shut or left open?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I usually keep it zipped. It had quite a few cards inside and some cash."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "About how much cash roughly, and which cards were most important? That way, if someone finds it, they’ll know which items to highlight."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "There was around AUS$80 in cash, and important cards include my driver’s licence and a local gym membership card."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Good details. Do you need to fill out a lost‑item form now?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Yes, please. Could you also tell me what happens after I submit it?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "We’ll log your details and the item. If someone brings in a matching wallet, we’ll call or email you using the contact information you provide. We’ll also keep your form for the retention period and check it regularly."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "How long do you keep unclaimed wallets?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Typically, we keep unclaimed wallets for 30 days first. If it’s not claimed, we may transfer it to the airport police or follow local rules."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Could I leave my contact details now so you can call me if it’s found?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Yes, please. I’ll need your full name, mobile number, and email address. May I also ask for a backup contact in case we can’t reach you on the number provided?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "My name is Charissa, my phone +61xxx xxx xxx, email xxxxxx@email.com."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Thank you. Noted — Charissa. Are you currently at the airport, or will you be leaving soon? That helps us decide if we should also check with desks near your location right away."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "I’m still here in the check‑in area, but I’ll head to the gate soon."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Understood. Since you’re still on site, would you like us to inform the staff at the information desk and the coffee shop near your last known location? They can keep an eye out and alert us immediately if someone hands in a matching wallet."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Yes, please do that. Thank you so much for your help."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re welcome. If you have more details later, just call this desk or come back in person. Have a safe trip."
+    }
+  ]
+}

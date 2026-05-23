@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S7_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      4,
+      5
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "grammar/fragmentation – unclear phrasing about medical condition",
+    "evidence_summary": "The learner's statement in turn 4, 'I have a atopic, but I run out all the cream,' is grammatically fragmented and unclear. The bot interprets this as a need for a dermatologist in turn 5, which aligns with the learner's intent to get additional cream, resolving the issue."
+  },
+  {
+    "dialogue_id": "S7_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – unclear request for appointment time",
+    "evidence_summary": "The learner's request in turn 10, 'Could you be available before noon?' is unclear. The bot interprets this as a request for an early appointment and offers a specific time in turn 11, resolving the issue."
+  },
+  {
+    "dialogue_id": "S7_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      14,
+      15
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – unclear reference to email address",
+    "evidence_summary": "The learner's question in turn 14 about the email address is unclear. The bot clarifies by asking the learner to confirm their email address in turn 15, resolving the issue."
+  }
+]

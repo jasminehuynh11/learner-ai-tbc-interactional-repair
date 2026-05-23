@@ -1,8 +1,7 @@
 """
 Reusable preprocessing pipeline for learner-AI dialogues.
 
-This module can be imported (e.g., from notebooks/01_phase1_preprocessing.ipynb)
-or executed as a standalone script:
+Can be executed as a standalone script:
 
     python scripts/preprocessing_pipeline.py --student 18 --week 1
 """

@@ -1,0 +1,205 @@
+Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment
+Alright, welcome to Lakeside Medical Clinic. How can I help you today—what’s the reason for your visit?
+You said:
+i'd like to make an appointment to see a doctor
+English Conversational Partner said:
+Sure, no problem. To book you in, could you tell me what you need to see the doctor about today?
+You said:
+i have coughed for two weeks and sometimes have a headache
+English Conversational Partner said:
+Alright, thanks for letting me know. Do you have a preferred doctor you’d like to see, or is the next available doctor fine for you?
+You said:
+i have not been to this clinic before, so next available doctor is perfect
+English Conversational Partner said:
+Great, we can do that. What day or time would you prefer for the appointment?
+You said:
+when is the earliest date and time?
+English Conversational Partner said:
+Sure. The earliest appointment we have is tomorrow at 9:20 a.m. with our on-duty physician. Would that time work for you, and could I have your full name to hold the booking?
+You said:
+the time works for me. My name is Ken
+English Conversational Partner said:
+Alright, thanks Ken. Could you give me your date of birth so I can complete the booking?
+You said:
+Yesterday was my 25th birthday. So 4-12-2000 is my birthday
+English Conversational Partner said:
+Alright, got it—4 December 2000. Thanks, Ken. To finalise your appointment, could you give me a contact phone number?
+You said:
+0431509658
+English Conversational Partner said:
+Alright, thanks for that number. One last thing, Ken—do you have a Medicare card or any health insurance you’ll be using for the visit?
+You said:
+I have a student insurance. Do i need to show you the medicare card for application?
+English Conversational Partner said:
+Sure, thanks for checking, Ken. Since you have student insurance, you don’t need a Medicare card, but we’ll just need your insurance provider name when you come in. Which student insurance are you covered by?
+You said:
+OSHC
+English Conversational Partner said:
+Alright, thanks, Ken. Since you’re with OSHC, we’ll just need your policy number when you arrive. Do you happen to have that number with you now?
+You said:
+i forgot the number. Can I give you tomorrow?
+English Conversational Partner said:
+No problem, Ken. You can give us the policy number when you arrive for your appointment.
+Just to confirm, your appointment is tomorrow at 9:20 a.m. with the next available doctor for your cough and headaches.
+Would you like me to explain what you should bring or any check-in procedures for tomorrow?
+“I'm sorry, but I cannot do 9.20. Can I make a new appointment?”
+00:05
+English Conversational Partner said:
+Of course, that’s absolutely fine. Let’s find another time that works better for you. What day and time would you prefer instead?
+You said:
+“And I'll do each one of them.”
+00:01
+English Conversational Partner said:
+Alright, let me check our availability for Tuesday. We have an opening at 2:30 p.m. on Tuesday. Does that time work for you?
+You said:
+“Yeah, that's okay.”
+00:01
+English Conversational Partner said:
+Perfect, I’ll book you in for Tuesday at 2:30 p.m. Then. If you have any other questions or need anything else before your visit, just let me know!
+You said:
+“That's all. See you on that day.”
+00:02
+English Conversational Partner said:
+Sounds good, Ken! We’ll see you then. Have a great day, and take care!
+You said:
+“That's all you have. Have a good day for you too.”
+00:02
+English Conversational Partner said:
+Thank you so much! Take care, and we’ll look forward to seeing you soon. Bye for now!
+You said:
+Transcript Unavailable
+00:04
+English Conversational Partner said:
+Of course! When you arrive, just check in at the front desk with your name and date of birth. We’ll also confirm your insurance details and any paperwork. If you have any questions at that time, our staff will be happy to help.
+You said:
+“At the same time, can I do a blood test because my school needs the vaccination checks for me?”
+00:10
+English Conversational Partner said:
+Absolutely, you can arrange a blood test as well. Just let us know when you arrive, and we’ll schedule it for you. If you have any specific requirements for the vaccination checks, just bring that information along, and we’ll take care of it.
+You said:
+“Yeah, I will bring the list on my appointment date, and can I do the blood test on the same day I have the meeting with the GPs?”
+00:11
+English Conversational Partner said:
+Yes, absolutely! We can coordinate the blood test on the same day as your appointment with the GP. We’ll make sure everything is arranged so that it’s convenient for you. Just let us know if you have any special requests when you arrive.
+You said:
+“And I allowed you to get a sick leave certificate after meeting GP.”
+00:07
+English Conversational Partner said:
+Yes, absolutely! After your appointment, the GP can provide you with a sick leave certificate if needed. Just let the doctor know about your situation, and they’ll take care of that for you.
+You said:
+“Sorry, one last thing I want to ask about V.”
+00:04
+English Conversational Partner said:
+Of course, I’m happy to help! Feel free to ask me anything about the fees, and I’ll provide all the details you need. What would you like to know?
+You said:
+“I want to ask about medication fee and doctor fee.”
+00:06
+English Conversational Partner said:
+Absolutely! The doctor’s consultation fee will depend on the type of appointment, but we can give you a clear breakdown when you arrive. As for medication fees, those will vary depending on the prescriptions, but we can discuss all that during your visit. If you have any specific concerns, just let me know!
+You said:
+“Thank you. That really helped. See you on Tuesday.”
+00:03
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. We’ll see you on Tuesday, and take care until then!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task 2: Visiting a Bank and Asking for Help with Banking Services
+Bank Staff: Good morning! Welcome to ABC Bank. How may I assist you today?
+You can respond with something like asking to open an account, update your details, or inquire about services. After your first message, I’ll guide the conversation so you can practise polite follow-ups and clarifying questions.
+Do you want to start with opening a new account or asking about another service?
+You said:
+“I’m trying to open a banking account.”
+00:02
+English Conversational Partner said:
+Absolutely! I'd be happy to help you with that. To get started, could you let me know whether you're looking to open a personal account or a business account?
+You said:
+“I wonder if a person or a car...”
+00:02
+English Conversational Partner said:
+Great! A personal account it is. Now, could you tell me if you have any specific type of personal account in mind, such as a checking account or a savings account?
+You said:
+“Saving account should be fine.”
+00:02
+English Conversational Partner said:
+Perfect! A savings account it is. Now, to proceed, I'll just need to know if you have a valid ID and if there's any proof of address you can provide. Could you let me know about those documents?
+You said:
+“And here is my ID.”
+00:01
+English Conversational Partner said:
+Excellent, thank you! And if you could also provide a recent utility bill or a bank statement as proof of address, that would be great. Once we have those, we can move on to the application form. Do you have those documents ready?
+You said:
+“Yeah, here is my water supply bill.”
+00:03
+English Conversational Partner said:
+Perfect, that works perfectly. Thank you! Now, let’s move on to the application form. Would you like to fill it out here at the branch, or would you prefer to do it online?
+You said:
+“I want to set up online banking at the same time. Would it be more convenient to fill in the form on the online banking platform?”
+00:12
+English Conversational Partner said:
+Absolutely, that can definitely be more convenient! We can get your account set up in-person and then enable online banking right away. I’ll guide you through the steps and provide you with the login credentials. Does that sound good to you?
+You said:
+“yeah that's great and i want to ask is there any saving benefits using the saving bank account of the bank”
+00:13
+English Conversational Partner said:
+Of course! Our savings accounts typically offer competitive interest rates, and we also have features like no monthly maintenance fees if certain conditions are met. Additionally, you can access special promotions from time to time. Would you like more details about any specific benefits or features?
+You said:
+“Yeah, I want to know that.”
+00:01
+English Conversational Partner said:
+Absolutely! For example, we offer tiered interest rates, so the more you save, the higher the rate you earn. We also have easy online and mobile access to manage your savings, and sometimes we have bonus interest rates for new deposits. If you have any particular goals, we can definitely tailor the account to suit your needs. Let me know if you’d like more information on any specific aspect!
+You said:
+“Is there a credit card I can apply for at the same time?”
+00:05
+English Conversational Partner said:
+Yes, absolutely! We can definitely explore credit card options as well. We offer a range of credit cards with different benefits, like cashback rewards, travel perks, and low-interest rates. Once your savings account is set up, we can review the available credit card options and help you find one that suits your needs. Does that sound good to you?
+You said:
+“Yeah, that's great. I will apply them later.”
+00:03
+English Conversational Partner said:
+That sounds perfect! We can certainly take care of everything step by step. If you have any other questions or need assistance along the way, just let me know. And whenever you're ready, we can finalize the applications.
+You said:
+“Yeah, can you teach me how to apply the saving account online?”
+00:05
+English Conversational Partner said:
+Of course! To apply online, you'll just need to visit our bank’s official website and navigate to the savings account section. From there, you’ll fill out the online application form, upload your identification and proof of address, and then submit it. Once that’s done, you’ll receive a confirmation and your account will be ready to use. If you need any help along the way, I’m here to assist!
+You said:
+“What way will your bank send the confirmation to me?”
+00:04
+English Conversational Partner said:
+Typically, once you submit your application online, the confirmation will be sent to your registered email address. You’ll also receive a welcome message with details on how to access your account. Additionally, if you provide a phone number, we might send you a text notification as well. If you have any preferences, just let me know!
+You said:
+Transcript Unavailable
+00:03
+English Conversational Partner said:
+No worries at all! If you have any questions or need any assistance at any point, just let me know. I’m always happy to help. Feel free to reach out whenever you’re ready!
+You said:
+“If I've forgotten my online banking password, unfortunately, how can you help me to retrieve my account?”
+00:08
+English Conversational Partner said:
+Of course! If you’ve forgotten your online banking password, you can simply go to our bank’s login page and click on the “Forgot Password” link. From there, you’ll be guided through a secure process to reset your password, usually by verifying your identity through email or SMS. And if you need any help during that process, just let us know, and we’ll be happy to assist!
+You said:
+“Okay, I think the whole application is quite clear, and I'll do this on...”
+00:07
+English Conversational Partner said:
+That’s wonderful to hear!
+You said:
+“Today afternoon. Yeah, so hopefully I can get my saving account approved in a short time.”
+00:09
+English Conversational Partner said:
+Absolutely, I’m confident it’ll go smoothly! And if you run into any questions at all, just reach out. Best of luck with your application, and I’m here if you need anything else.
+You said:
+“Thank you. That's all. Have a good day.”
+00:02
+English Conversational Partner said:
+You’re very welcome! Have a great day as well, and feel free to reach out anytime. Take care!

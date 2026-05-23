@@ -1,0 +1,130 @@
+{
+  "student_id": 45,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S45_W3_T2",
+  "source_file": "data\\raw\\#45\\#45. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Sorry, excuse me, please, I made a problem when I ate the lunch in the restaurant near in the Melbourne Central, and I don't know when I lost my passport. I lost the whole wallet, and in it there is $200, and my passport, and my credit card."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "I’m really sorry to hear that. Can you tell me exactly where and when you last remember having your wallet — was it inside the restaurant, or somewhere after you left?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I don't know why I lost it, but when I walk outside and return my apartment, I found there is no wallet."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, I understand. We’ll try to sort this out. Could you tell me the name of the restaurant where you had lunch, or describe roughly where it’s located near Melbourne Central?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Uh, yes, I know the name of that restaurant. It's named, uh... Kallaghan. And it's an Indian restaurant. Not India. Uh... Southeast restaurant. It's located in the ground floor."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, thanks — Kallaghan, on the ground floor near Melbourne Central. Did you already contact the restaurant to ask if anyone found your wallet, or would you like help with what to say when you call them?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "No. I don't know. I don't know what should I do. Maybe I should call the restaurant, but where I can find them?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That’s okay — you’re doing the right thing asking for help. You can find the restaurant’s phone number by searching “Kallaghan restaurant Melbourne Central” on Google or Maps. When you call, you can say: “Hi, I had lunch there today and I think I lost my wallet. Could you please check if anyone found it?” Would you like me to show you what to do next if they don’t have your wallet?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Well, now you are the policeman. I ask you for help."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course — I’ll take your report. Can you tell me your full name, please?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "My full name is Lucas Mao, and in my passport is another name, but in Melbourne, I always use Lucas."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Thank you, Lucas. Could you tell me when exactly you noticed your wallet was missing — about what time today?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "in 4 p.m. maybe from 2 or 4 p.m. because when I go outside from my apartment I use the wallet's apartment card to open my house and take the lift and when I return I don't find it"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, around 2 to 4 p.m., understood. Could you describe your wallet for me — its color, size, or any special marks or cards inside besides your passport and credit card?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "The black... white... but it doesn't have some special point. Uh... it's... the size is similar with my hand."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Okay, a black-and-white wallet, about hand-sized. Besides your passport, credit card, and $200, did it also have anything like your driver’s license, student card, or apartment access card inside?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Students have apartment card, but the card is no name, but my student card has my picture."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Got it, thank you. Which school or university issued your student card, Lucas?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "R.M.I.T. University"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Thanks. That helps. And just to confirm — your passport was inside the wallet, correct? Do you remember which country it was issued by?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "They come from my passport inside my wallet, and it's Chinese."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Understood — a Chinese passport inside the wallet. Finally, could you please tell me your current address and a phone number where we can contact you if the wallet is found?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "My address is Queen Street, Melbourne, 115-7, United 2912. My phone number is 0409662419919."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Thanks, Lucas. For your safety, I can’t record or file real police reports, but here’s what you should do right now: Go to the nearest police station — the Melbourne East Police Station on Flinders Lane is closest to Melbourne Central. Tell them:“I lost my wallet near Melbourne Central around 2–4 p.m. It has my Chinese passport, RMIT student card, apartment card, credit card, and about $200.” Bring any ID or documents you still have. They’ll give you an incident report number, which you can use to cancel your cards and apply for a passport replacement at the Chinese consulate. Would you like me to show you how to tell the police about it step-by-step in English? 窗体顶端 窗体底端"
+    }
+  ]
+}

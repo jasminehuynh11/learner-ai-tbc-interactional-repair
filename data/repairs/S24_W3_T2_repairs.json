@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S24_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner asks the bot to repeat its question in turn 12, indicating a lack of understanding. The bot repeats the question in turn 13, and the conversation continues smoothly, resolving the issue."
+  },
+  {
+    "dialogue_id": "S24_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially provides an incorrect house number in turn 18 and then corrects it. The bot acknowledges the correction in turn 19, indicating the issue is resolved."
+  },
+  {
+    "dialogue_id": "S24_W3_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      83,
+      84
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not catch the number",
+    "evidence_summary": "The learner asks the bot to repeat the phone number in turn 83, indicating they did not catch it. The bot repeats the number in turn 84, resolving the issue."
+  }
+]

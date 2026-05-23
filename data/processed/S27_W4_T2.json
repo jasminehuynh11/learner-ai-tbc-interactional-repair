@@ -1,0 +1,90 @@
+{
+  "student_id": 27,
+  "week": 4,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S27_W4_T2",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, we’ve just started our group project. Can we plan the tasks together?"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure, that sounds like a good idea. Maybe we can first list all the tasks we need to complete."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "We’ll need research, writing, and a presentation."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Agreed. I’m comfortable with research, but I’d prefer less writing if possible."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Well, let’s talk about how to divide the research and writing sections fairly."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "How about we split the research evenly, then each person writes one section based on their research?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "That could work, but I’m worried about the workload balance."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That’s fair. We could set word limits so everyone has a similar amount."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "It sounds like we have different views. Can we find a middle option?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Yes—maybe two people focus more on research, and two focus more on writing, but everyone contributes a bit to both."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Sounds good! I’m happy to try the presentation, but I’ve never done it before. Any tips?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "No problem. Practising early and using simple slides really helps. I can review your slides with you."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Do you think we need a shared document to manage tasks?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Definitely. Let’s use Google Docs and add a task list with deadlines."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Great, I’ll set that up."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect—thanks for taking initiative."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S21_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      27,
+      29,
+      30
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially expresses misunderstanding in turn 27 and then corrects their request to make an appointment at 11.30 in turn 29. The bot confirms the new time in turn 30, resolving the issue."
+  },
+  {
+    "dialogue_id": "S21_W2_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      51,
+      53,
+      54
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand 'proof of address'",
+    "evidence_summary": "The learner expresses confusion in turn 51 and asks for clarification in turn 53. The bot repeats the requirement for proof of address in turn 54, resolving the learner's confusion."
+  }
+]

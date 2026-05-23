@@ -1,0 +1,165 @@
+{
+  "student_id": 17,
+  "week": 1,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S17_W1_T1",
+  "source_file": "data\\raw\\#17\\#17\\#17. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Ordering Coffee"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "\"Hi, can I have a long black, please?\""
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, a long black it is! Would you like that in a small, medium, or large size?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "\"Medium, please.\""
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Great choice! And would you like any milk or sugar added to your long black, or do you prefer it black as is?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "\"I prefer it black as is.\""
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, we’ll keep it nice and simple. And how would you like to pay today? Cash, card, or maybe mobile payment?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "\"Can I pay my card?\""
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Of course, card payment works perfectly. All set! Your medium long black will be ready in just a moment. Anything else I can help you with?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "\"Nothing. That’s it.\""
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Awesome, thank you! I’ll have that ready for you in just a moment. Enjoy, and have a great day!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "\"Thank you. Have a good one.\""
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "You too! Take care, and feel free to come by anytime. Cheers!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "\"What’s your recommendations?\""
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Well, if you enjoy a strong, concentrated flavor, an espresso is perfect. If you prefer something a bit milder with more water, then a long black or an Americano would be great. Do you have a preference for intensity?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "\"Yeah, I prefer a little bit strong.\""
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Got it! In that case, I’d recommend going with an espresso. It’s rich and bold. Would you like that in a single shot or a double shot?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "\"Double shot, please. And what size do you have?\""
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Perfect, a double shot it is! We typically have small, medium, and large sizes. For an espresso, it’s usually just a small cup, but we can definitely adjust if you prefer. How does that sound?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "\"I like to drink a lot, so can I have a medium size, please?\""
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, a medium size it is! That’ll give you a bit more to enjoy."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "\"Yeah, that sounds great.\""
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Perfect! I’ll get that ready for you. Anything else I can help you with while you wait?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "\"What is a recommended food that goes well with espresso?\""
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "A classic choice would be a buttery croissant or maybe a biscotti, as they pair really nicely with espresso. We also have some delicious muffins and sandwiches if you’re in the mood for something more filling."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "\"I got it, so I order a convalescent, please.\""
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Excellent choice! I’ll add a croissant to your order as well. That’ll be a perfect pairing with your espresso. Anything else you’d like to add?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "\"Now, that’s all.\""
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "All right, that sounds perfect! I’ll get your espresso and croissant ready for you. Thank you so much, and enjoy!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "\"Thank you, have a good one.\""
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re very welcome! Have a fantastic day, and enjoy your coffee and croissant! 🍽️"
+    }
+  ]
+}

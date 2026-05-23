@@ -1,0 +1,16 @@
+[
+  {
+    "dialogue_id": "S26_W4_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies topic/object of discussion",
+    "evidence_summary": "The learner initially refers to a 'class presentation' in turn 7. In turn 9, without explicit prompting from the bot, the learner self-corrects and clarifies that they have 'submitted my assignment'. The bot acknowledges this correction in turn 10 by responding to 'assignment', indicating the issue was resolved."
+  }
+]

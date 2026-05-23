@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S6_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      20,
+      21,
+      22
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unsure about fee amount",
+    "evidence_summary": "The learner is unsure about the fee amount, asking if it was 'Eighty? Or eighteen?'. The bot clarifies by stating 'It’s eighty dollars — eight zero — dollars.' The learner then confirms understanding with 'Okay. Eighty dollars. Same price.', resolving the issue."
+  }
+]

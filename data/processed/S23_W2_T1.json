@@ -1,0 +1,275 @@
+{
+  "student_id": 23,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S23_W2_T1",
+  "source_file": "data\\raw\\#23\\#23\\#23. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi there."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hello! How can I help you today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Good. Thank you."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I'm glad to hear that! If there's anything specific you'd like to practice or any scenario you'd like to roleplay, just let me know!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "I want to practice visiting a medical clinic in person to make, change, or cancel an appointment. You are a recession list or staff member at the medical clinic. I will play the role of the patient. Please create a realistic store scenario and respond as if we were really there. Let's start with a simple booking and try a more detailed interaction by asking about checkup procedures, pre-inscription requirements, or clinic policies."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That sounds great! Let's get started"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Receptionist: Good morning! Welcome to our clinic. How can I assist you today? Are you here to book an appointment, or do you need to make a change to an existing one?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Hi, morning. I want to book an appointment to see doctor. Is it available today?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Of course! Let me check our schedule for you. May I know which doctor you’d like to see, and what time works best for you today?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I think afternoon is fine for me."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, that works! Let me see what slots we have available this afternoon. Could you also let me know the reason for your visit, so I can match you with the right doctor?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "I've had a fever and cough for a few days."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "I'm sorry to hear that. I'll definitely make sure we get you the right doctor. Let me quickly check the available slots for this afternoon. Could you also provide me your full name and contact number, just to confirm the appointment details?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "My name is Eunjung Yoo."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Thank you, Eun Jung Yoo! I’ve got that noted. Now, let me just confirm the available time slots for this afternoon, and I’ll let you know which one we can book for you. Just give me a moment."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Is anyone available today?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yes, we do have a couple of openings this afternoon. There's a slot at  and another one at . Which time would you prefer?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I think 4pm is fine for me. Thanks."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Great, I've booked you in for  today. Is there anything else I can help you with regarding your visit, like any paperwork or specific instructions?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Can I receive my prescription for work?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Got it! I'll make a note that you'd like a prescription refill during your visit. If there's anything specific you need or any other questions, just let me know. Otherwise, we'll see you at !"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Thanks, that really helped."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you need anything else, just let me know. Otherwise, I look forward to seeing you this afternoon."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Bye for now!"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Bye for now! Have a great day, and I'll see you soon."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Okay, let's change the topic, like cancelling appointment. How about that?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! So, let’s imagine you’ve got an appointment scheduled, and you need to cancel it. Whenever you’re ready, just let me know, and I’ll respond as the receptionist to help you with that."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Hi, I want to cancel my appointment today. Is it okay?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Of course, I can help with that. May I have your name and the time of your appointment, so I can locate it in our system and cancel it for you?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "My name is Eunjung Yoo, and I have an appointment today at 4pm."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Thank you, Eun Jung Yoo. I’ve found your appointment for  today. I’ll go ahead and cancel it for you. Is there anything else I can assist you with, or would you like to reschedule for another time?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Actually, I want to book a general checkup. Is that okay?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Absolutely, that’s no problem at all! Let’s get you scheduled for a general check-up. Could you let me know what day and time would be most convenient for you?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "I think next Monday is fine for me. Is it available?"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Let me check our schedule for next Monday. We usually have plenty of slots available. Could you let me know what time in the afternoon or morning would suit you best?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "I think morning is the best."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Perfect! I’ll look for available morning slots on Monday. Once I find a suitable time, I’ll confirm it with you. Just give me a moment, and I’ll get that arranged."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Okay, good. Do I need to bring my Medicare card?"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Yes, it’s definitely helpful to bring your Medicare card so we can update your records. If you have any other relevant documents or previous medical history, that can also be useful. But if you have any questions, just let me know!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "How about the blood test? Will I need a blood test for this type of checkup?"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "It depends on the type of check-up and your health history, but typically, we might do a blood test to check things like cholesterol or blood sugar levels. We can definitely discuss that more during your appointment, and the doctor will let you know what’s needed. If you have any specific concerns, just let me know!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "I see. And I have a question. Do you offer translators or language support for appointments?"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do offer language support and can arrange for translators if needed. Just let us know in advance what language assistance you require, and we’ll make sure everything is arranged for your appointment."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "I appreciate your time. Thank you so much."
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "You're very welcome! It’s my pleasure to help. If you have any more questions or need anything else, just let me know. Otherwise, have a wonderful day!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "Have a good day, see you!"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "You too! Take care, and see you soon!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "Did you find any something wrong in this conversation?"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Everything flowed quite naturally and smoothly! The roleplay covered all the key points, and you asked relevant questions. If there's anything specific you want to adjust or practice further, just let me know!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "There's no mistake with my conversation."
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Nope, not at all! You did really well, and everything was clear and natural. If you ever want to practice more or dive into different scenarios, I’m always here to help!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "Thank you so much."
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "You're very welcome! It’s my pleasure. If you need anything else, just let me know. Have a great day!"
+    }
+  ]
+}

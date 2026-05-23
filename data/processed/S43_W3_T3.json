@@ -1,0 +1,140 @@
+{
+  "student_id": 43,
+  "week": 3,
+  "task": 3,
+  "task_label": "T4",
+  "dialogue_id": "S43_W3_T3",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, I want to practice requesting maintenance or repairs in a rental property. Something is broken or need fixing in my rental accommodation. In this scenario, I will be the tenant and you will be the property manager or the landlord. And we will talk through the phone.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sounds great! I’m ready to help you practice. So, let’s start. Whenever you’re ready, just let me know what issue you’re facing in your rental, and I’ll respond as the property manager. Let’s dive in!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, hello, how are you? I just want to tell you that there is a leak under the kitchen sink, and I just found out this morning.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear about that leak! Thanks for letting me know. Could you tell me how severe it is, and if there’s any water damage or pooling? That way, I can prioritize the repair."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I did not use the sink last night. I only used the sink in the bathroom, actually. And then this morning, I just walked out and I realized that there's a big mop on the kitchen. And I just traced it down and I found out that there is a leak under the sink.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, that definitely sounds like it could be serious. Thank you for the details. Could you let me know if you’ve noticed any dripping sounds or if the cabinet under the sink is damp to the touch? That’ll help me understand the situation better."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I think I saw a crack on the pipe but I don't know why it happened. As I can recall, a few days ago I saw some people come into the house, and they fixed the pipe on the laundry room, which is just on the opposite side of my kitchen. I wonder if there is any relation between that repairman and my kitchen situation.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That’s definitely possible. Sometimes issues can be connected. I’ll look into the previous repair records. In the meantime, could you let me know if the water’s still actively leaking or if it’s slowed down at all? That’ll help me figure out the urgency."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I just tried, and I realised that the water flow is still normal. But yeah, I think the leak became worse. Can someone come today to help me out?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll arrange for someone to come by as soon as possible today. Just to confirm, could you let me know your preferred time window for the visit, and if there’s any specific contact instructions we should keep in mind?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I think today I'm available all day because today I just have the independent study day, and so I don't have to go to the university. I will be at home, so just whenever the plumber or handyman is available, they just come and have a look today.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That sounds perfect! I'll make sure we schedule someone to come by today at the earliest opportunity. If anything changes, I’ll let you know. And if you have any other concerns in the meantime, just let me know."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, that would be perfect. But can you tell them that they could call or text me when they are on their way so I can prepare myself?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course, I’ll make sure they give you a call or a text before they arrive. That way, you’ll have plenty of time to get ready. If anything else comes up, just let me know, and I’ll be happy to help!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Is there anything that I should prepare before they arrive? Or something like, should I turn off the water until they come or not?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That’s a great question! It might be helpful to turn off the water supply under the sink to minimise any further leakage. Also, if you can clear out the area under the sink, that’ll give them easy access. But don’t worry, I’ll make sure they know what to do as well."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Should I be worried about any long-term damage? Because I think this leak is quite severe.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "It’s definitely good to be cautious. If the leak has been ongoing for a while, it could cause some water damage or mould over time. But once we get it fixed, we can also inspect for any potential long-term effects. For now, just keep an eye on it, and we’ll make sure to address everything thoroughly."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, thank you. And I also noticed that the Pi condition is quite great. So I wonder if you can do something with it because I think in the future the Pi will leak again.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "I understand, and that’s definitely important to address. Once the handyman checks it out, we can arrange a more thorough repair or even consider replacing the pipe if needed. I’ll make sure we keep that in mind and keep you updated on the best solution."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, thank you for that. At the meantime, it's leaking a lot. I wonder if someone can come even after business hours. I know that it's very hard to find a plumber or a handyman at the moment, but because the water keeps coming out, I'm worried that with this weather, very hot and humid, it will be moody anytime soon.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "I completely understand your concern, and we definitely want to prevent any mold growth. I’ll do my best to arrange for someone as soon as possible, even if it’s outside of normal business hours. I’ll keep you posted, and hopefully we can get it resolved quickly so you don’t have to worry about it."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yes, thank you very much. Thank you for organising that so quickly. Let me know if you need any more information.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "You’re very welcome! And I’ll be sure to reach out if anything else comes up. In the meantime, just let me know if you have any other questions or concerns. I’m here to help!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“No, I think that's it for today. Thank you very much. Have a great day.”"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "student_id": 44,
+  "week": 4,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S44_W4_T3",
+  "source_file": "data\\raw\\#44\\#44\\#44. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Responding to Feedback or a Performance Review"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I've just finished my class presentation, could you talk about it?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to discuss it. Overall, I’d love to hear how you felt it went and any areas you think went well or might need improvement. Then we can dive into more detailed feedback. Sound good? Hai detto: “Yes.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Perfect! So, from what I observed, your presentation had a lot of clarity and confidence. Are there any specific aspects you’d like feedback on, or any challenges you faced during the presentation? Hai detto: “Just give me a feedback.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to. Overall, you did really well in terms of clarity and engagement. One area for improvement might be to slow down a bit when you’re explaining complex points, just to give the audience more time to absorb the information. But overall, it was very well done! Hai detto: “Some of the aspects that I have to improve.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Certainly! One area we could focus on is incorporating more interactive elements to engage your audience, and maybe refining the transitions between topics so that it flows even more smoothly. But overall, you’re definitely on the right track! Hai detto: “Oh, thanks, I'll make sure to check details more carefully.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That sounds great! I'm sure with that attention to detail, you'll keep improving even more. And if you ever need any more feedback or support, just let me know! Hai detto: “Do you...”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, feel free to ask me anything at all. I’m here to help, so just let me know what’s on your mind! Hai detto: “Do you have some suggestions to improve this aspect?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Definitely! One suggestion could be to practice a bit more with mock presentations, maybe in front of a friend or colleague, to get comfortable. Another idea is to gather some feedback on your visual aids and make sure they’re clear and engaging. And of course, focusing on pacing and pauses can really help as well. Hai detto: “Can I write a text of all these things, and if you could please, like, watch it and give me an update by Friday?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a great plan! Feel free to write everything up, and I'll be more than happy to review it and provide feedback by Friday. Just let me know once it's ready, and we’ll go from there! Hai detto: “Oh, thank you so much. Thanks again.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "You’re very welcome! It’s my pleasure. If you need anything else, just let me know. Looking forward to seeing your work! Hai detto: “Like, do you have noticed some important and particular, uh...”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, one thing I’ve noticed is that your overall clarity and confidence really stand out, and just fine-tuning those small details will make a big difference. But overall, you’re definitely on the right track! Hai detto: “Could you give me an example of something I did this well and something I could improve?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course! One thing you did really well was how clearly you explained your main points, which really kept the audience engaged. One area for improvement might be to add a few more interactive questions or pauses, just to give the audience a chance to reflect. But overall, you did great! Hai detto: “Oh, thank you so much.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "You’re very welcome! It’s my pleasure to help. If you have any more questions or need further feedback, just let me know. I’m here for you!"
+    }
+  ]
+}

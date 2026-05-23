@@ -1,0 +1,90 @@
+{
+  "student_id": 15,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S15_W4_T1",
+  "source_file": "data\\raw\\#15\\#15\\#15. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’d like to talk about my study plan and get some advice."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course. What’s been on your mind about your studies?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I’m studying business, but I’m not sure what direction I want to take after I graduate."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I see. Are you unsure about your career options, or about whether business is the right degree for you?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Um… both, actually. I mean, I like some subjects, but I don’t really see the connection to jobs."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That makes sense. Which subjects do you enjoy the most?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I enjoy marketing classes. They feel more creative."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Okay, so the creative side interests you more. Have you thought about internships or work experience in that area?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I have, but I wasn’t sure if I was ready yet."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "When you say “not ready”, do you mean skills, confidence, or time?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Confidence, mostly. I think I worried you meant skills at first."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Thanks for clarifying. Confidence is a very common concern. Sometimes short-term internships can help build that gradually."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "That sounds better than something long."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Exactly. You don’t have to commit to anything big straight away."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Okay. That makes me feel a bit less stressed."
+    }
+  ]
+}

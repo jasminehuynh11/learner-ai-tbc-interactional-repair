@@ -1,0 +1,285 @@
+{
+  "student_id": 42,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S42_W2_T1",
+  "source_file": "data\\raw\\#42\\#42\\#42. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I want to practise making, changing, or cancelling a medical appointment. You are a receptionist or staff member at a medical clinic in Australia. I will play the role of a patient visiting or calling the clinic. Please create a natural, realistic, and professionally friendly conversation."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure. Are you looking to make, change, or cancel an appointment today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello, this is Wani. Can I make a reservation for today?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, Swani. So let's see what we have available today. What kind of appointment do you need—just a general check-up, or is there something specific you're coming in for?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Actually, I'd like to make a reservation instead of my daughter, Sophia.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, understood! So we’ll book this for Sophia instead. Does she need to see a specific doctor, or is anyone available today okay for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Anyone available today, please.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure thing! We can definitely do that. Let me just check our schedule here. And just to confirm, what time of day works best for you and Sophia today?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“As soon as possible.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Got it! We’ll see what we can do as soon as possible. It looks like we actually have an opening in about an hour. Does that time frame work for you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, so would that be 10?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Exactly, that would be at 10 o'clock. We’ll put Sophia in for that slot. And just one more thing—could I grab a contact number for you in case we need to reach you before the appointment?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“My current number, please. That's 508-000-000.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Perfect, got that down. Thanks for sharing it. So we've got Sophia booked in at 10, and we'll use that number if we need to reach you. Is there anything else you need from me at the moment?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Is there a thing do we need to bring?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Sure! Usually, it's just good to bring along any Medicare card or ID and maybe any relevant medical history if Sophia has it. But other than that, you're all set. Let me know if you have any other questions."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Actually, we're traveling here in Sydney, so we don't have any Medicare card or ID, so can we bring just a passport?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, that's no problem at all. A passport will be just fine for ID. We'll see you both at 10 then!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Can we get a copy of the results after the reservation?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course, we can arrange that for you. After Sophia's appointment, just let the doctor know you'd like a copy of the results and we'll sort it out. Anything else on your mind before your visit?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“And I think we need a translator or language support for us.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Sure, we can help with that as well. We do have language support available, so I'll make a note for the staff to arrange a translator for you. Anything else I can assist with?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Actually, Sophia has a sore throat and a cough, and she also has Diarrhoea, and she's throwing up, like,”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "All right, thanks for"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“three times a day.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Oh, understood. We'll make sure to let the doctor know about her symptoms so they can give her the right care. We'll see you both soon at 10, and if there's anything else, just let me know."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“So, which doctor do we have appointment with?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Sure! You’ll be seeing Dr. Harris today—he's one of our general practitioners on duty. He’s really good with these kinds of symptoms, so you’ll be in good hands. Anything else you’re curious about?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Will my daughter need a blood test for this type of checkup?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "She might, but it really depends on what the doctor thinks after he sees her. So Dr. Harris will let you know if a blood test is needed. Anything else you want to ask before you come in?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“And can we go 10 minutes earlier?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Absolutely, feel free to come in about 10 minutes early. That way we can get any paperwork sorted and you’ll be all set for the appointment. Anything else on your mind?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Sorry, but can we just change the schedule, like 3 p.m.?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Sure, we can definitely do that. Let me just shift it to 3 p.m. for you. All right, it’s changed. Anything else you need?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Just in case she's okay before 3, can we cancel without any fee?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, no worries at all. You can cancel anytime without any fee if she's feeling better. Just give us a quick call if you need to do that. Anything else you want to check on?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“And also, I'd like to book for a general check-up next week under my name.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure, we can do that as well. Let's go ahead and find a slot for you next week for a general check-up. Do you have a particular day or time that works best for you?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“I think next Tuesday afternoon would work for me.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "All right, Tuesday afternoon next week it is. I'll book you in and you’ll be all set. We've got that arranged. Anything else you need today?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“I'm a student here, so can I get a ball billing after billing available?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely, we can do bulk billing for students, so that's no problem at all. We'll just note that down for your appointment. Anything else you're wondering about?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“So if you do bulk billing, then can I get a discount?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Sure thing. So with bulk billing, there's actually no out-of-pocket cost for you, which is kind of like a full discount already. So you won't need to pay anything extra. Anything else you want to know?"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Can I get a script if I've already had another medication before?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Of course, the doctor can write you a script if it’s appropriate based on your previous medication. Just let them know what you were on before and they'll take care of it. Anything else on your mind?"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Also, could you wrap up what I got with appointment today?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely! So just to recap, we’ve got Sophia’s appointment moved to 3 p.m. today, and we'll have a translator ready for you. We've also set up a bulk-billed general check-up for you next Tuesday afternoon. And if you need any medication scripts, the doctor can help with that as well. Anything else you'd like to confirm?"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Are there any telehealth options if I can come in person next week?”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Absolutely, we do offer telehealth if you can't make it in person. So if you prefer that next week, just let us know and we can switch it to an online appointment. Anything else you’d like to ask about?"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Do I have to notice you in advance if I want to change into telehealth?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "You sure can just let us know maybe a day in advance if you want to switch to telehealth, and that's totally fine. We'll handle it from there. Anything else on your mind?"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“I think that's it for today. Perfect. Thank you.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad we could sort everything out for you. Thanks for reaching out, and we'll see you soon. Take care!"
+    }
+  ]
+}

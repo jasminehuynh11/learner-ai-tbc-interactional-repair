@@ -1,0 +1,39 @@
+[
+  {
+    "dialogue_id": "S44_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      15,
+      16,
+      17
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner's expressive difficulty – hesitation and fragmented speech",
+    "evidence_summary": "The learner hesitates and produces an incomplete utterance in turn 15, indicating difficulty formulating their question. The bot encourages them in turn 16, and the learner then completes their question, which the bot understands and answers in turn 17, resolving the communication trouble."
+  },
+  {
+    "dialogue_id": "S44_W4_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      19,
+      20
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "bot's misinterpretation of learner's request",
+    "evidence_summary": "The bot attempts to interpret the learner's request about financial aid but does not directly address the learner's specific confusion. The learner's intent remains unresolved as indicated by the bot's follow-up statement, 'Sorry, I didn't understand.'"
+  },
+  {
+    "dialogue_id": "S44_W4_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding – bot's explanation unclear",
+    "evidence_summary": "The learner explicitly states 'Sorry, I didn't understand' in turn 20, indicating a lack of comprehension of the bot's explanation about scholarships. The bot rephrases its explanation in turn 21, and the learner's subsequent request shows they now understand and are ready to proceed, resolving the misunderstanding."
+  }
+]

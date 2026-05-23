@@ -1,0 +1,16 @@
+[
+  {
+    "dialogue_id": "S44_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot omission – missed a previously stated preference",
+    "evidence_summary": "In turn 31, the bot provides a summary of the reservation details but omits the previously discussed vegetarian meal preference. The learner initiates a repair in turn 32 by explicitly reminding the bot to include the vegetarian meal. The bot acknowledges and confirms in turn 33 that it's covered, and the learner accepts this resolution in turn 34, indicating the issue is resolved."
+  }
+]

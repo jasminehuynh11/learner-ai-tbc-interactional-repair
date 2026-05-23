@@ -1,0 +1,75 @@
+[
+  {
+    "dialogue_id": "S6_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies question about available times",
+    "evidence_summary": "The learner initially asks 'when can I get time?' and then self-corrects to 'what time is available?'. The bot acknowledges this and provides available times, resolving the issue."
+  },
+  {
+    "dialogue_id": "S6_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      8
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own phrasing about reservation time",
+    "evidence_summary": "The learner initially says 'I want… having table at 7 p.m.' and then corrects to 'Sorry, I want to have a table at 7.' This self-correction clarifies the intended reservation time."
+  },
+  {
+    "dialogue_id": "S6_W1_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      11,
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – misinterpreted seating preference",
+    "evidence_summary": "The bot misinterprets the learner's request for 'inside, near the window' as 'outside near the window'. The learner corrects this by stating 'not outside. Inside. Window seat inside.' The bot acknowledges and corrects the seating preference, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S6_W1_T2",
+    "repair_id": 4,
+    "turn_indices": [
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies question about extra fee",
+    "evidence_summary": "The learner initially asks 'Is extra money?' and then self-corrects to 'Sorry… is there extra fee?'. The bot responds that there is no extra charge, resolving the learner's concern."
+  },
+  {
+    "dialogue_id": "S6_W1_T2",
+    "repair_id": 5,
+    "turn_indices": [
+      22,
+      23
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies question about vegetarian options",
+    "evidence_summary": "The learner initially asks 'do you have vegetarian menu?' and then self-corrects to 'Sorry, vegetarian option?'. The bot confirms the availability of vegetarian options, resolving the inquiry."
+  },
+  {
+    "dialogue_id": "S6_W1_T2",
+    "repair_id": 6,
+    "turn_indices": [
+      26,
+      27,
+      28
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "clarification request – learner asks for confirmation of booking details",
+    "evidence_summary": "The learner asks for a repetition of the time and seating details. The bot repeats the information, and the learner confirms it is correct, resolving the need for clarification."
+  }
+]

@@ -1,0 +1,101 @@
+WEEK 4: 
+TASK 1: 
+你说：
+Now, you are an academic advisor and we are talking about my study plans or future career opinions.
+English Conversational Partner 说：
+Sure. As your academic advisor, I’m here to help.
+What would you like to focus on first — your study plans or your future career direction?
+你说：
+Maybe my study plans. You know, I choose digital media, a part of design, as my bachelor degree.
+English Conversational Partner 说：
+Alright. Since you’re studying digital media design, I’d love to understand your direction.
+What’s your main goal for your bachelor studies—building creative skills, preparing for a specific career, or something else?
+你说：
+because I have the plan to get master or even PhD so I think in my bachelor it's better for me to preparing for to build creative skills or do some foundation
+English Conversational Partner 说：
+Sure. Building strong creative and foundational skills is a solid approach, especially if you’re thinking about graduate school later.
+To guide you better, what specific area within digital media excites you the most—animation, UX/UI, digital art, interactive media, or something else?
+你说：
+Maybe UX, UI, and integrative media is better for me. I like communicate with others and I also can get others' points quickly.
+English Conversational Partner 说：
+Great. UX/UI fits well with strong communication skills and quick understanding of people’s needs.
+To shape your study plan, what specific skills do you want to develop first—research skills, visual design, prototyping, or something else?
+你说：
+I'm not sure because I don't know these concrete areas have what rules, but I think I was interested in vessel design, yeah.
+English Conversational Partner 说：
+Sure. I think you might mean visual design, right? If so, that’s a strong foundation for UX/UI work.
+To help you plan properly, what kinds of visual work do you enjoy most—layouts, typography, color styling, or creating graphics?
+你说：
+Color styling because I have the experience to learn the academic drawing in some place and I think color is the best type of me.
+English Conversational Partner 说：
+Alright. Your background in drawing and confidence with color gives you a strong starting point.
+To guide your studies well, what do you feel is your biggest current strength in design—technical skills, creativity, or understanding people’s needs?
+你说：
+Maybe. I'm not sure. I think I understand people's needs. Because, you know, I just graduated from senior high school. No, from primary school. And I don't have some professional skills. And I don't think my creativity is good. And I cannot think of some special things. But I can learn and copy quickly and similarly.
+English Conversational Partner 说：
+Sure, I hear you. Many students start university without professional skills yet—that’s completely normal. Your ability to understand people’s needs and learn quickly is already very valuable in UX/UI.
+To shape your next steps, what kind of projects would you like to try first—small personal design exercises, class-based assignments, or real problems from people around you?
+你说：
+I prefer to try some personal design exercise, because I think learning a skill, the best way to learn a skill is have the experience and learn from the work.
+English Conversational Partner 说：
+Alright. Personal exercises are a great way to build confidence and skills step by step.
+What kind of timeline do you imagine for these projects—short weekly exercises or longer projects you develop over several weeks?
+你说：
+I want to develop a difficult project for many days. I don't like to divide this project into different parts. I like... I want...
+English Conversational Partner 说：
+Alright. Sounds like you enjoy diving deep into one continuous, challenging project.
+What kind of theme or problem would you like this long project to focus on?
+你说：
+Focus on society or to the Chinese people because I think my work should be meaningful for the society or for my country.
+English Conversational Partner 说：
+Sure. A meaningful, socially focused project can be a powerful direction for your portfolio.
+What specific social issue or need in China feels most important to you—education, aging population, mental health, environment, or something else?
+
+
+
+
+TASK 2:
+It's the school's presentation. Next week, we should have the speech in front of other people, of our classmates.
+English Conversational Partner 说：
+Got it. What’s the topic of your group presentation?
+你说：
+Maybe about healthcare in different countries and what type do you have responsibility for?
+English Conversational Partner 说：
+Interesting topic! So, do you mean comparing how healthcare systems work in different countries? Which country are you planning to talk about?
+你说：
+Maybe we can talk about Pakistan or Japan, which is better. I think Japan is a developed country and Pakistan is a traditional developing country. They have different country situation.
+English Conversational Partner 说：
+That’s a good contrast — it’ll make your presentation more interesting. Which part of the healthcare systems do you want to focus on — like cost, accessibility, or quality of care?
+你说：
+Maybe we can talk about both of them, and I don't know which part can show the quality of a country's healthcare, maybe life expectancy, or others, I don't know.
+English Conversational Partner 说：
+Exactly, life expectancy is a good indicator. You could also look at infant mortality rate, number of doctors per person, and how much the government spends on healthcare. Would you like to include some personal opinions too, or just statistics?
+你说：
+Yes, we better have a survey to collect personal opinions. And who will do the slide and who will complete our presentation's writing?
+English Conversational Partner 说：
+Good idea. Surveys make it more engaging. How many people are in your group, and do you already know what each person is good at — like design, writing, or speaking?
+你说：
+I don't know, but I prefer to make the introduction or give the conclusion. I think it's better for me because I can't remember the concrete data.
+English Conversational Partner 说：
+That makes sense — introduction and conclusion need clear speaking, not too many numbers. Would you feel more comfortable opening the presentation or giving the final summary?
+你说：
+I feel comfortable if you give this task for me.
+English Conversational Partner 说：
+Perfect! You can take the conclusion part then — it’s a great way to end strongly. Would you like some help writing what to say for your conclusion?
+你说：
+I can do it by myself, and our deadline is next week Sunday, so maybe we should finish before next week Wednesday and have a meeting to exchange our opinions. If you have some problems, you can ask me on the Teams and send the message. When I see it, I will reply you quickly.
+English Conversational Partner 说：
+Sounds like a solid plan! Meeting before Wednesday gives everyone time to adjust things. What time on Wednesday do you think is best for the group meeting?
+你说：
+Maybe at noon is a perfect time, we can have a lunch together. Which lunch you want to eat? Chinese or Korean or other?
+English Conversational Partner 说：
+Nice idea! Lunch makes meetings more fun. I think Korean sounds great — maybe some bibimbap or kimchi stew. What about you?
+你说：
+I'm okay for both of type. You can choose and tell me which restaurant you choose.
+English Conversational Partner 说：
+Alright, let’s go with a Korean place then. There’s a cozy one near campus called “Seoul Garden.” How about meeting there at 12 p.m. on Wednesday?
+你说：
+OK, see you next time.
+English Conversational Partner 说：
+Great! See you on Wednesday at Seoul Garden. Take care till then!
+

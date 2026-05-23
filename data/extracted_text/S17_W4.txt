@@ -1,0 +1,182 @@
+TASK 1:
+
+English Conversational Partner said:
+Alright. As your university advisor, I'm here to help. What's the main question you'd like to talk about regarding your study plan today?
+You said:
+I wanna be a interpreter for my job
+English Conversational Partner said:
+Sure. So you'd like to become an interpreter.
+Which languages are you planning to work with?
+You said:
+For now, English
+English Conversational Partner said:
+Alright. So English will be your working language for now. What kind of interpreting are you most interested in - for example, community interpreting, business, medical, or conference settings?
+You said:
+l interested in business and conference settings
+English Conversational Partner said:
+Great. Business and co rence interpreting can be quite competitive.What level of study or qualification have you completed so far?
+You said:
+My level is A2 so far
+English Conversational Partner said:
+Alright. So you're currently at an A2 level. To work in business or conference interpreting, you'll need to reach a much higher level, usually C1 or above. How much time are you hoping to spend improving your English before entering an interpreting program?
+You said:
+I hope to spend 1month
+English Conversational Partner said:
+Alright. One month is a short but useful start for building your foundation. How many hours per week can you realistically dedicate to studying during that month?
+You said:
+Maybe 10 hours per week
+English Conversational Partner said:
+Sure. Ten hours per week gives you steady progress, though it's still quite intensive to aim for big jumps. What specific skills do you want to focus on first - speaking, listening, vocabulary, or something else?
+I'm good at listening and writing but speaking is A2 level so l'd like to focus on speaking
+English Conversational Partner said:
+Alright. So you want to focus mainly on speaking.
+To plan the right path, I need to know: are you hoping to join a formal speaking course, or would you prefer self-study with practice sessions?
+You said:
+Alright. So you want to focus mainly on speaking.To plan the right path, I need to know: are you hoping to join a formal speaking course, or would you prefer self-study with practice sessions?
+You said:
+I prefer self-study because I have a job on weekdays
+English Conversational Partner said:
+Sure. Since you prefer self-study while working, it helps to choose the right resources. Do you prefer structured materials like textbooks and online courses, or more practical tools such as conversation apps and speaking partners?
+You said:
+I prefer conversation apps and speaking partners
+English Conversational Partner said:
+Alright. Conversation apps and speaking partners can help you build fluency fast. How often would you like to practise speaking each week-every day, or just a few focused sessions?
+You said:
+I'd like to practice speaking 3days a week focused session
+English Conversational Partner said:
+Alright. Three focused sessions a week sounds very realistic. To shape your plan better, how long would you like each speaking session to be
+-30 minutes, 1 hour, or longer?
+You said:
+I'd like to speaking on weekdays are 30 minutes session and on weekends are 1 hour session
+English Conversational Partner said:
+Alright. Weekday 30-minute sessions and 1-hour weekend sessions give you a solid routine.
+To shape your month-long plan properly, what specific speaking goal & uld you like to achieve by the end of that month?
+You said:
+My goal is to speak for 3-5 minutes without stopping.
+English Conversational Partner said:
+Sure. A 3-5 minute uninterrupted talk is a clear and achievable short-term goal. To help you practise effectively, what topics would you like to be able to speak about with confidence-work, daily life, business situations, or something else?
+You said:
+I'd like to speak about work and daily life
+English Conversational Partner said:
+Alright. Work and daily life topics are a good foundation for fluency. To guide your plan fully, what kind of support would you like from me next-choosing practice materials, creating a weekly schedule, or setting progress checkpoints?
+You said:
+What format would you prefer these materials in-links to specific resources, or a list you can save and print.
+You said:
+That's enough, thank you
+English Conversational Partner said:
+Of course. If you need more guidance later, just
+
+
+
+
+TASK 2: 
+
+English Conversational Partner said:
+Alright. I’ll be your teammate for this group project. What idea or suggestion would you like to start with for our project?
+You said:
+Hello, our assignment is due next week. Can we decide who will do each
+English Conversational Partner said:
+Sure. Since the assignment is due next week, let’s list the main tasks first. What sections do we need to include in this project?
+You said:
+We need to choice who make presentation and speaker
+English Conversational Partner said:
+Alright. So we need to choose who will make the presentation slides and who will be the speaker. Which role would you prefer to take?
+You said:
+I prefer to make the presentation slides
+English Conversational Partner said:
+Alright. You’ll take the slides. That works well.
+Who do you think would be a good fit to be the speaker for our group?
+You said:
+I think Gina is the best speaker for our group
+English Conversational Partner said:
+Sure. Gina is a strong choice for the speaker role.
+When would you like to finish your slide draft so we can review everything together before the deadline?
+You said:
+I’m making the slides by 23th November
+English Conversational Partner said:
+Alright. So you’ll finish the slides by the 23rd of November. That gives us a bit of time before the deadline. When should we schedule a group meeting to review the slides and practise the presentation?
+You said:
+So, we should review on the day’s afternoon
+English Conversational Partner said:
+Alright. Reviewing them that afternoon sounds good. What time in the afternoon works best for you?
+You said:
+Maybe 2pm the best for me. Is it okay to everyone?
+English Conversational Partner said:
+Sure. 2pm works well for me. Do you think Gina and the others are available at that time, or should we check with them first?
+You said:
+We should check the other’s schedule
+English Conversational Partner said:
+Alright. L agree, we should confirm with everyone first.
+Could you send a quick message in the group chat asking if 2pm on the 23rd works for them?
+You said:
+I got it
+English Conversational Partner said:
+Alright, thanks for doing that. While we’re waiting for their replies, would you like me to start drafting some key points for Gina’s speech based on your slides?
+You said:
+Yes please, after finishing your draft, could you text me?
+English Conversational Partner said:
+Sure. I’ll draft the key points. To make them accurate, what main ideas are you planning to include in your slides?
+You said:
+For animal diets
+English Conversational Partner said:
+Alright. So your slides will focus on animal diets.
+Which specific areas are you planning to cover— herbivores, carnivores, omnivores, or something more detailed?
+You said:
+I planned to herbivors
+English Conversational Partner said:
+Alright. So the slides will focus on herbivores.
+What key points about herbivores would you like included-food types, digestion, examples, or behaviour?
+You said:
+Food types
+English Conversational Partner said:
+Alright. So you want to focus on the food types herbivores eat. Which direction should the draft take-general categories like leaves, grasses, and fruits, or more detailed examples of specific animals and their diets?
+You said:
+General categories
+English Conversational Partner said:
+Alright. General categories it is. To shape the draft clearly, would you like me to include simple examples for each category, or keep it strictly category-only?
+You said:
+That’s enough. I’m looking forward to you tof drafting
+English Conversational Partner said:
+Alright. I’ll get the draft ready. Talk to you later.
+
+
+
+
+
+
+
+
+
+
+
+TASK 3: 
+English Conversational Partner said:
+Alright. I'll be your teacher for this feedback session. To start, how do you feel your recent work or performance has been going?
+You said:
+Hello, I'm here for my monthly performance review. I'd like to hear how I went this month.
+English Conversational Partner said:
+Sure. This month you showed steady effort, especially in completing your tasks on time. To give you balanced feedback, could you tell me which part of your work you felt most confident about this month?
+You said:
+I think my attendance and participation in class, my exam's score
+English Conversational Partner said:
+Alright. Your attendance, participation, and exam score were all strong points this month. I'm glad you recognise that. To help you keep improving, which area did you feel as the most challenging or where you'd like more support?
+You said:
+I'd like to move up to Intermediate class but I couldn't get the email
+English Conversational Partner said:
+Alright. So you want to move up to the Intermediate class, but you didn't receive the email. To understand the issue better, did you check both your inbox and your spam folder for the class-placement message?
+You said:
+I checked all folders but there is no email about my promotion.
+English Conversational Partner said:
+Alright, thanks for checking your folders and letting me know. I'm sorry for the confusion about the promotion email.
+I'll contact the office to confirm your level and the status of your move to Intermediate, and you might also visit reception to double-check your registered email address. In the meantime, would you like me to explain what requirements you need to consistently meet to stay in the Intermediate class once you move up?
+You said:
+I got it.
+English Conversational Partner said:
+Alright. If you need anything else, just let me know. Take care.
+
+
+
+
+
+
+

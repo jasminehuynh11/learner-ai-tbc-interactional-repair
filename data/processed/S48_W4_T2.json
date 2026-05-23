@@ -1,0 +1,110 @@
+{
+  "student_id": 48,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S48_W4_T2",
+  "source_file": "data\\raw\\#48\\#48\\#48. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Responding to Feedback or a Performance Review"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": ": You are participating in a feedback session with a teacher, manager, or supervisor. You need to listen actively, ask questions, respond respectfully, and reflect on ways to improve. Practise using constructive, calm, and polite language. You will need to define the chatbot’s role as a supervisor, teacher, or manager. You can choose situations from the examples below; begin with a basic response and gradually try a more complex interaction by asking about development goals, long- term expectations, or feedback from previous tasks."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": ": Sure. I’ll step in as your manager for a feedback session. Alright, thanks for meeting with me today. Before I share my feedback, how do you feel your recent work has been going?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": ": I think it is going pretty well. There were some obstacles of course as the market was flutuate but overall performance is good. I meet all the target of the previous quarter and I'm on track for this one."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": ": Alright, sounds good. It’s great to hear you’re meeting your targets. What would you say was the biggest obstacle that affected your work this quarter?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": ": A competitor has launched their new product last month and they took our market share."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": ": Alright, that makes sense — a new competitor launch can shake things up quickly. How did you adjust your approach when you noticed our market share was dropping?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": ": New product is not necessary a better one so I am focusing on promoting the superior quality of our product. The competitor is offering many promotion as the product is freshly launched, so I think we need to wait for a while until next month for our promotion. At this moment, I would reinforce the sale from loyal customers."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": ": Sure, that’s a sensible short-term strategy, especially leaning on loyal customers. From your perspective, what skill or area do you feel you need to improve to handle situations like this even more effectively?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": ": Strategy planning skill. I think short-term strategy as well as long term vision are needed"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": ": Alright, that’s a good insight — strengthening both short- and long-term strategy skills can make a big difference. What kind of support or training do you feel would help you develop those skills most effectively?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": ": How about some training courses early next year? I found that University of Melbourne offers many business planning courses. They seem to be very suitable as the course usually takes around 4 weeks to complete and there will also be certification for learners."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": ": Sure, that sounds like a solid option — short, focused courses with certification can be really valuable. What specific topic from those Melbourne courses seems most relevant to your current role?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": ": Business strategy. We have many competitors and the market share is becoming smaller. There should be strategy to deal with that."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": ": Alright, business strategy makes sense, especially in a crowded market. To help shape your development plan, what’s one concrete strategy goal you’d like to achieve in the next quarter?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": ": I am not sure. I'm not very optimistic so I only aim to maintain the current sale as there will be many new competitors coming next years and it would be hard."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": ": Alright, I hear you — maintaining sales in a tougher market is a realistic starting point. To make that goal clearer, what’s one action you think you can take next quarter to help keep sales steady?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": ": The loyal customers are important. I will also try to expend the list of new customers, but it will require more resources at the beginning stages"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": ": Alright, expanding the loyal customer base while reaching new ones is a balanced approach. To plan properly, what specific resources do you think you’ll need at the beginning to support that expansion?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": ": We will need promotion campaigns and I will need to travel further to reach with new customers."
+    }
+  ]
+}

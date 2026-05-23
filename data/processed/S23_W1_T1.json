@@ -1,0 +1,390 @@
+{
+  "student_id": 23,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S23_W1_T1",
+  "source_file": "data\\raw\\#23\\#23\\#23. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Oh hi, I want to practice how to order coffee at a cafe. You are the barista working in a cafe in Sydney, and I will play the role of the customer. Please create a realistic cafe scenario and respond as if we were really there. Ask me about my preferences, help me choose from the menu, and explain different coffee options. Keep the conversation going naturally by asking at least three follow-up questions about size, milk, and payment."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hey there! How's it going? What can I help you with today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Hi, how are you?"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I'm doing great, thank you! I hope you're doing well too. So, what can I get started for you today? Are you leaning towards something like an espresso, a latte, or maybe something else?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "The end."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely! So, would you prefer a hot coffee, or maybe something iced? And do you have a favorite type of milk, like whole milk, almond milk, or oat milk?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Oh sorry, what do you recommend today?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries at all! Well, today I’d recommend our signature flat white if you're into something smooth and creamy, or if you prefer a bit of sweetness, our caramel latte is quite popular. How does that sound?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Sounds interesting."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Awesome! I'm glad to hear that. And would you like that in a small, medium, or large size? And do you have any preference for the type of milk we use?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Oh, sorry, I have a question. Where are your beans, sauces from?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Oh, great question! Our beans are sourced from sustainable farms in Colombia and Ethiopia, and they’re roasted locally here in Sydney. They really bring out a lovely flavor! Does that help with your decision?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "So what kind of beans do you use for your espresso?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "For our espresso, we use a blend of Arabica beans from Colombia, which gives it a rich, bold flavor with some lovely chocolatey notes. It’s definitely a favorite among our regulars! Would you like to give that a try?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yeah, sure, why not."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect! I’ll get that espresso ready for you. Would you like it in a single shot or a double shot? And how would you like to pay, cash or card?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "What's your most popular drink?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Oh, our most popular drink definitely has to be the flat white; it’s a big favorite here in Sydney! It’s got a smooth, velvety texture and a nice balance of espresso and milk. If you’re up for trying it, I think you’ll really enjoy it!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "I'm sorry, so what is the difference between FlatWhite and Latte?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course! The main difference is that a flat white has a higher ratio of coffee to milk and the milk is steamed to be velvety and microfoam-like, giving it a stronger coffee flavor. Meanwhile, a latte has more milk and is a bit creamier and smoother. Hopefully that helps clarify!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "So the difference is amount of the milk, am I right?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Exactly, you've got it! It’s all about the milk-to-coffee ratio and the texture of the milk. If you like a stronger coffee taste, the flat white is perfect, and if you prefer it a bit milder and creamier, then the latte is the way to go."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Then can I get the plate right, please?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, a flat white coming right up! Would you like that in a small, medium, or large size? And let me know how you’d like to pay as well."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "What kind of milk do you have?"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "We have a few options! We’ve got whole milk, skim milk, almond milk, oat milk, and soy milk as well. Just let me know which one you prefer for your flat white!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "And can I get a plate white with the oat milk, please?"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Of course! A flat white with oat milk it is. I’ll get that started for you right away. And just let me know how you’d like to pay when you’re ready."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Sorry, do you have any dessert with coffee?"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely! We have a selection of desserts, like freshly baked muffins, biscotti, and some delicious cakes. Is there something in particular you’re in the mood for?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Sorry, what is biscotti?"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "No problem at all! Biscotti are Italian cookies that are baked twice, so they’re really crunchy and perfect for dipping in coffee. They come in various flavors, like almond, chocolate, or even hazelnut. They pair really nicely with coffee!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Which one is your favorite?"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Oh, that's a tough choice! I personally love the almond biscotti; it has a lovely nutty flavor that goes perfectly with a flat white. But the chocolate ones are also really tempting! It kind of depends on your taste. Let me know what you think!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Or do you have any questions?"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Yes, we do! We have freshly baked croissants available, and they come in a few varieties, like plain, chocolate, and almond. They pair wonderfully with coffee as well! Would you like to add one to your order?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "And then can I get a chocolate one and almond one, one of each, please?"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll get one chocolate croissant and one almond croissant for you! That sounds like a delicious combo. Let me know if there's anything else you need, and we’ll have your order ready in no time!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "How long will that take?"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "It'll just take a couple of minutes to get everything fresh and perfect for you. So, you’ll have your flat white and your pastries ready in just a few moments! If you need anything else in the meantime, just let me know."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "Should I pay first or should I grab any seat inside first?"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "You can definitely pay first if you’d like, and then feel free to grab a seat inside and get comfortable. Once your order’s ready, we’ll bring it right over to you. But if you prefer, you can also just wait at the counter. Whatever’s easiest for you!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Sorry, do you have anything vegan for my friend?"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely! We do have some vegan options. We’ve got plant-based milk, like oat and almond, and we also have vegan pastries, such as vegan muffins and cookies. Just let me know what your friend would prefer, and I’ll make sure we have that ready as well!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "What kind of cookie do you have?"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "We have a variety of cookies! There are classic chocolate chip cookies, oatmeal raisin cookies, and we also have some vegan options, like almond and coconut cookies. If there's a particular flavor your friend might enjoy, just let me know!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "Then, can I get almond and coconut cookies, please?"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll add one almond cookie and one coconut cookie to your order! That’s going to be a lovely combination. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "Can I pay with my credit card?"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Of course, you can definitely pay with your credit card. We’ll take care of that at the counter whenever you’re ready. Just let me know if you need anything else, and we’ll get everything set for you!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "Also, I want to get my receipt."
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to provide you with a receipt. Once we finalize your order, I’ll print it up for you, and you’ll have everything you need. Just let me know if there’s anything else I can do for you in the meantime!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "Sorry, I have a question about the Long Black and Americano. What is the difference between Americano and Long Black?"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Great question! So, the main difference is in the preparation. With an Americano, we add hot water to the espresso, which creates a milder coffee. With a long black, we pour the espresso over the hot water, which helps preserve more of the crema and gives a slightly richer flavor. Hopefully that helps clarify the difference!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "I still don't understand. I cannot find any differences from your answer."
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "No worries at all, I’m happy to clarify! Essentially, with an Americano, we start with the espresso and then add hot water, so it’s more diluted and has a smoother taste. With a long black, we add the espresso to the hot water, which helps maintain more of the crema on top, giving it a richer, slightly stronger flavor. It’s mostly about the order in which the water and espresso are combined. Hopefully that makes it clearer!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "So basically they are same, only water and coffee, espresso, isn't it?"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Yes, exactly! At the core, they are quite similar since both are essentially espresso with hot water. The difference is mainly in the order of adding them, which affects the crema and the overall taste. But in the end, it’s really about personal preference"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "So mostly Australians prefer to drink the long black, right?"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Yes, that's definitely true! The long black is really popular in Australia because it maintains that rich flavor and the crema, and it’s often the go-to choice for coffee lovers there. But of course, everyone’s got their own preference! It’s always fun to explore different styles."
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "Then what is your favorite one?"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "I have to say, I do love a good long black myself! I enjoy that rich, bold flavor and the crema that comes through. But I also appreciate a nice flat white for that creamy texture. It’s hard to pick just one!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "Do you roast your beans in-house?"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "We actually source our beans from some wonderful sustainable farms, and we roast them locally here, so we definitely keep a close eye on quality. But it’s always a fun journey to explore different beans and blends! If you’re curious about anything specific, I’m happy to share more."
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "Do you do pour-over or only espresso-based drinks?"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "We do offer pour-over as well! It’s a great way to highlight the unique flavors of single-origin beans. So, if you’re in the mood for something a bit different, we can definitely prepare a pour-over for you too!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "What kind of bin do you have?"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "We have a lovely selection of beans, including beans from Colombia, Ethiopia, and Guatemala, each offering distinct flavor profiles. We also have some special seasonal blends that change from time to time. If you have a particular flavor profile you’re interested in, I can definitely help you find the perfect match!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "Can you explain about the seasonal blend, the special seasonal blend, please?"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Of course! Our seasonal blend changes throughout the year to highlight different harvests and flavor profiles. For example, in the autumn, we might feature beans with warm, spicy notes and a bit of chocolate undertone, while in the spring, we might go for brighter, fruitier flavors. It’s a fun way to experience the diversity of coffee throughout the year!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "Each season has a different taste."
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Exactly! Each season brings out unique characteristics in the beans, so it keeps things exciting and fresh. It’s a great way to explore new flavors and discover different nuances in the coffee. It’s always a fun adventure for coffee lovers!"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "Appreciate your health!"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm really glad I could help. If you have any more questions or need anything else, just let me know. Enjoy your coffee!"
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "Have a good one."
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "You too! Take care and have a wonderful day. Bye for now!"
+    }
+  ]
+}

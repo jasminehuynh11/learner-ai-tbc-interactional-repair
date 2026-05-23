@@ -1,0 +1,240 @@
+{
+  "student_id": 8,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S8_W2_T3",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "ご視聴ありがとうございました。”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! Are you looking to rent a place or are you thinking about buying?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Um, I prefer the previous one.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, renting it is! So, let's start with the basics: what kind of property are you hoping to rent?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I am a person, so I would like to do one good with teaching how.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure, a spacious place with a big kitchen, got it! Now, do you have a particular neighborhood in mind or any area you’d prefer to live in?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, I am writing it, so please, uh, branch out, see me through.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, that sounds good. So, we'll focus on something in a safe, friendly area. Now, do you have a budget range in mind for the rent?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“My budget being 2,000 euros a day.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure, a $2,000 budget—got that noted. Now, do you have any preferences on how many bedrooms you'd like in the place?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I don't need it. I don't need it. Literally.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, one bedroom is all you need, understood. Now, is having any kind of public transport nearby important to you, or is that not a big concern?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Oh yes, I'm looking for my location because I have a cut.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure, that makes sense. So we'll keep an eye out for a place that has some good public transport options nearby. Now, are you thinking of moving in immediately, or do you have a particular move-in date in mind?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Al-Fatiha.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, so about three weeks from now,"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Great! That definitely helps me narrow things down. Now, is there anything else that's a must-have for you, like maybe a pet-friendly place or parking?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure, pet-friendly, absolutely noted. We’ll look for a place that’s happy to have your pet along. Now, just to confirm, would you like me to start looking for listings and get back to you with some options?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Sorry, I'm also a tech geek. I'm a doctor.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, I'll take care of that and find some good options for you. If you have any more details you think of, just let me know."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure thing! You're very welcome. I'll go ahead and start putting together some listings for you. Thanks for chatting, and just reach out if you need anything else!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course! Happy I could help. If you need anything else, just let me know. Otherwise, have a great day!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Sure! Always happy to keep helping."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“お疲れさまでした。”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely! I'm still right here, and we"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Absolutely.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely! I'm still right here, and we"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely! I'm still right here, and we can keep going. If there's anything else you want to talk through about that rental search, just let me know!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Thank you for information.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "You're very welcome! And if you think of any other details or questions later on, just let me know. Thanks again, and have a great one!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“If I have one question, should I get a cash or a credit card?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Sure! Go right ahead and ask whatever's on your mind. I'm all ears."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“You didn't want us to wait.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely, go for it! I'm here to help with any last question you have."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“I heard that, should I pay cash or credit card?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Sure, that's a great question. So typically, when you're renting, it's totally fine to use cash or a bank transfer or whatever method the landlord accepts. Just make sure you get a receipt or a record of any payment. But absolutely, you can use cash if that's what you prefer. Let me know if that helps!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“In this case, I'm going to pay by cash.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "All right, sounds good! Well, thanks a lot for chatting, and best of luck with finding that perfect place. If you need anything else, just reach out. Take care!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Thank you. Have a good day.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "You're very welcome! Have a great day too and take care out there."
+    }
+  ]
+}

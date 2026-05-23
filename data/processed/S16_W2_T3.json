@@ -1,0 +1,355 @@
+{
+  "student_id": 16,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S16_W2_T3",
+  "source_file": "data\\raw\\#16\\#16\\#16. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Visiting a Bank and Asking for Help with Banking Services"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I would like to check why my cart wasn't arrived yet. I opened the account two months ago.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure, let’s take a look at that for you. Could I just confirm the address we have on file for you, so we can see if everything matches up?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Okay, the street is Pit Street.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, Pitt Street. Let me just check that in our system. All right, I do see a slight difference in the address here. Let’s update it to make sure your card can reach you correctly."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Okay, please, could you just change the address and how many time I need to wait for this?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, I'll update that address right away. It usually takes about a week for the card to arrive once we’ve corrected the details. Anything else I can help you with?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, I would like to know about the services, about credit cards, how kind credit cards I”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure, I can help with that. We"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely! So we have a few different types of credit cards available depending on what you need, and I can walk you through the options. But first, is there a particular feature or benefit you’re looking for in a card?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Sorry, could you repeat, please?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course! I was just saying that we have a few different types of credit cards, and I can walk you through the options. So, is there any particular feature or benefit you're looking for in a card?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, if you have a benefits just like a new list, it's good for me.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that. We do have cards with mileage benefits, and I'll highlight those for you. So let me go ahead and put together a quick list, and we’ll find one that suits you."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Great! I'll put that together for you right now. So we’ve got everything covered, and if you need anything else, just let me know."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“I want to know about this thing. I have a student visa. Would I be eligible for a credit card with no fees?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, let me explain that. Since you're on a student visa, we do have some no-fee credit card options specifically for students. So yes, you’d definitely be eligible for one of those. Let’s find the best fit for you!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh, so good.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "I’m glad to hear that! We’ll get everything sorted out for you. So just let me know if you have any other questions, and we’ll make sure you’re all set."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Now I would like to know if I pay any fees for sending Remingtones to Brazil.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Sure, I can clarify that for you. Typically, there might be a small fee for international remittances, but it depends on the type of account you have. We can definitely check which option would have the lowest fees for sending money to Brazil. Let me know if you’d like me to look into that for you."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Ok, but for example if I send around $10,000, how many fees I probably will have to pay?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course, to give you an idea, if you send around $10,000, the fee is usually about $20 to $30, depending on the exact service you choose. We can always check the best option to keep your costs as low as possible."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“It is possible I pay no fees.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "It can be possible in some cases. For example, if you have a premium account or a specific arrangement, we might be able to waive the fee. We can definitely look into that for you and see if there’s a no-fee option that applies in your situation."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Okay, so you take my card.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll take care of that for you. We’ll get your card details updated and check the best fee options for you. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“No, I have no question more.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "All right, that sounds great then! We’ve got everything covered. Thanks for stopping by, and have a wonderful day!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Thank you so much. I hope you have a great day.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You're very welcome! And thank you—you have a great day as well! Task 3: Enquiring About a Rental Property or Housing Inspection"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Now you will be a real estate agent and we will do the first inspection visit on a property that you will show me. You need to be just like a real estate agent. Can we start now?"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Of course! [smiles and extends a hand] Hi there, welcome! I’m Emma, the agent showing you the property today. Before we start the tour, could you tell me what kind of place you’re looking for — are you thinking of renting or buying?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Hi Emma, ​​how are you? I'm from Brazil and I came to Sydney to study English. I've been living in Sydney since April and since then I've been living in the CBD, near my school. I'm a little tired of living here and I'd like to find something near a beach, like Ponda Beach, Tamarama, Marouba, Coogee, near that area. I prefer to look for private rooms, but depending on the location, I might accept sharing a room. I went to the building because it has a swimming pool, sauna and jacuzzi.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, I’ve got it. So you’re looking for something near the beach, like Bondi or Coogee, and ideally with a private room, but you’re flexible if the location is perfect. Now, let me ask: are you leaning more towards renting a furnished place, or would you prefer an unfurnished one?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“I prefer with final to replace.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure, a furnished place near the beach—got it. We have a few options that might fit. Now, just to get a sense of your budget range, could you let me know what you're looking to spend per week?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Anything around $300-$350.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely, that gives me a good idea. So around three hundred to three hundred fifty dollars a week. Now, let me check a couple of listings that match that. In the meantime, do you have any preference on how soon you'd like to move in?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Could you repeat, please?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Of course! I was just asking if you have any preference on when you'd like to move in. Let me know your timing, and we’ll go from there."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Okay. Okay, now it's November and my current contract finished in December, so I would like to move in January.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Got it, January move-in works perfectly. We’ll focus on places available around that time. Now, one last thing: do you have any must-haves besides the pool, sauna, and jacuzzi, like parking or a balcony? Let me know!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Yes, the place that is a balcony for me is perfect, and I don't need parking. I need parking just for my e-bike. And, of course, I need lift in the building, elevator. It's good if you have this. And that's it.”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Absolutely, that’s all noted. So a balcony is perfect, you just need space for your e-bike, and a building with an elevator. Great! Now let me line up a couple of those options for you. How about we start with a viewing of one of them this week? What day works best for you?"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Could you repeat, please?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Of course! I was just asking what day this week would work best for you to start viewing one of those options. Let me know what suits you."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Okay, I think it's Wednesday.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Perfect, Wednesday it is! I'll set up a viewing for you then. We’ll meet at the property, and I’ll show you around. Anything else you’d like to ask before we confirm that?"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Thursday and Friday. It's a good day for me.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Absolutely, we can be flexible. If Thursday or Friday works better, we can do that. Let's say Friday then. I'll arrange a viewing on that day. Is there anything else you'd like to go over before we wrap up? ಕಳೆದ"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“That's it.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "All right, that sounds perfect then! We’ve got everything set for Friday. Thanks for letting me know, and I’ll see you at the property."
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Okay, could you schedule the inspection around after 4 o'clock?”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Sure, we can definitely do that. I'll schedule the inspection for after 4 o'clock on Friday. That should work out just fine. Anything else you need to know?"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“That's just it. Do you have any place in your mind?”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Absolutely, I do! I've got a couple of places in mind near Bondi and Coogee that match your criteria, and I'll show them to you on Friday. I'll see you then!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“And could you send for me pictures about this place? Because if I don't want to go there, we don't need to spend time.”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Sure thing! I’ll email you some pictures and details of those listings so you can take a look beforehand. That way we only visit the ones you like. Sound good?"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“Yes.”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Great, I'll get those pictures over to you shortly. And if you have any questions once you’ve seen them, just let me know. Looking forward to Friday!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“Okay, so on the Friday we were to go there, okay?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Exactly, you’ve got it. We’ll meet there on Friday and take a look together. If you need anything else before then, just let me know!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“For me, it's okay. Now, it's okay.”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Perfect, that sounds great. I’ll see you on Friday then. Thanks for chatting and we’ll catch up soon!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“See you soon, have a nice day.”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "You too! Have a wonderful day, and I'll see you soon."
+    }
+  ]
+}

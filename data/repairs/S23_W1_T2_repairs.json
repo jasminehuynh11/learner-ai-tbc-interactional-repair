@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S23_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      26,
+      28,
+      29
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially mentions a garlic allergy in turn 26, then corrects themselves in turn 28 by saying 'And I'm wrong.' The bot acknowledges this correction in turn 29, confirming the resolution."
+  }
+]

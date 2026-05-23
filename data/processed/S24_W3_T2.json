@@ -1,0 +1,500 @@
+{
+  "student_id": 24,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S24_W3_T2",
+  "source_file": "data\\raw\\#24\\#24\\#24. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "3️⃣ Simplify complex noun phrases.) Be precise, technical, and realistic — like an EAP teacher giving a mini grammar tutorial, not general encouragement. Focus on what makes my speech clearer and more accurate, not just more confident"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure, thanks for getting in touch. This is the housing internet support desk — how can I help you with your connection today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Hi there! Could you tell me when you first noticed the internet issue?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yes, um...”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sure, no worries."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yesterday I had a problem because at the beginning the internet signal appeared and disappeared, but after one hour it disappeared for all night and today we haven't signal since yesterday.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, got it. So it sounds like it started yesterday, and after about an hour, the connection just completely went out and hasn't come back since. Would you like me to check the connection from our side and see if we can spot what's going on?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, of course.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, I'll take a look at that now. While I'm checking, do you happen to know the model of your router, or have you tried restarting it at all?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Sorry, could you repeat?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course! I was just asking if you happen to know the model of your router, and if you've tried restarting it yet."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, I am with the computer just now.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure, no problem. So you're at your computer right now. I'll go ahead and just make sure this is recorded for our technician. Could you also let me know your room number?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely. Thanks for that. So once I have your room number, I'll be able to arrange a technician to come by. Could you just tell me which room you're in so we can schedule that visit for you?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, my house is 70... no, sorry, 7035 NW”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "All right, got it. So you're at 7035 Northwest. That helps a lot. Now, just to let you know, I’ll arrange for"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, Burgleih Heads and the zip code is 2441. My best moment to wait for the technician is tomorrow, early in the morning.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Perfect, that’s really helpful. I’ll note down your zip code and that tomorrow morning is best for you. Now, would you like me to explain if there's any service guarantee or if you might be eligible for a credit because of this downtime?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, I am interested to know if you have some type of discount because I have to go to the library to continue with my work, as I need the internet. Really, I have a problem with this, and I don't know what happened. Do you have some information if this problem is only in my house or is a problem in other areas?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, I understand. So yes, we do have a service guarantee, and if this outage is confirmed on our end, you'll definitely get a credit for the downtime. Now, just to check, would you like me to confirm if this is a wider area issue or just specific to your place?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yes, I want to know.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Sure thing! I’ll check that for you right now. In the meantime, do you happen to have any previous issues like this, or is this the first time you're having a big outage like this?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“It's the first time that the issue has persisted for a long time. At the beginning, we had this kind of issue, but it was always for a short period of time. Today it's different.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. So it's the first time it's really been this long. I'll definitely note that down. And just so you know, I'll go ahead and confirm if it's a bigger area issue or just your unit. Now, one last question for the technician visit: would you prefer a phone call before they arrive, or is it fine if they just knock on your door in the morning?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I prefer if he calls me before arriving because I need to be prepared to open the door, because I have to walk some distance to the main door. I would like to know if you could check if there is an outage in the area, or if you can do it?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, I'll make sure they give you a call before they arrive so you can be ready to meet them. And yes, I can definitely check if there's an outage in the area. I'll do that right away. So I think we’ve got all we need for now, and we’ll get this sorted for you. Thanks for your patience!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Okay, but I have some questions before finishing the conversation.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course, go ahead and ask me anything else you need to know."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“If you could help me to research the modem now, maybe we can solve the problems today, what do you think?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Sure, that's a good idea. We can definitely try resetting the modem right now and see if that fixes things sooner. So let's do that. Could you go ahead and unplug your modem from the power for about 30 seconds and then plug it back in? Let me know when you've done that."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "All right, go ahead and do that, and I'll wait for you to let me know once it's back on."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Okay, I'll do it. I did it. You notice some difference because here the signal is not working yet.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Sure, I’m just checking that now from our side. It looks like the signal's still not back up yet, so it might indeed be a bigger issue. But don’t worry, I’ll make sure the technician is still scheduled for tomorrow morning, and we’ll handle it from there. Anything else on your mind?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“I think yes. Is it possible to change to a different service plan? Maybe because I need more power on the signal. Maybe if I change the service plan, I will not have this kind of issue.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, that's something we can look into. If you want to change to a different service plan with a stronger signal or more bandwidth, I can definitely arrange that for you. So let me know if you’d like me to note that down, and we can go over the options once this issue is resolved."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Just for now, who can I contact if this isn't resolved tomorrow?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Sure, that's totally fine. So if it's not resolved tomorrow, you can just contact our main support line again, and they'll help you out. And of course, I'm noting everything down for the technician so they'll know the full situation. Thanks for all that info!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Can you give me a reference number for this request?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Sure, absolutely. Let me give you a reference number right now. So your ticket number is going to be 4589. You can just mention that if you need to follow up. And if anything else comes up, feel free to reach out again."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“This is important. The reference number of this issue is very important. Thank you for offering me this point. I don't remember if I have this problem with your company, but definitely this is helpful to continue with the technician tomorrow, because maybe in this way he will have more information about the problem.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely, I'm glad that reference number helps. And yes, the technician will definitely have all this information, so it'll make everything smoother for you. Thanks for letting me know."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Could you give me the price of the other service plans that have more signal?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Sure, I can do that. So our higher-tier plan, which does have a stronger signal and a bit more speed, is about $10 extra per month. If you're interested, we can go over the full details after we get this current issue fixed. Just let me know."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Do you know if I pay by year, I have some type of discount?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely, yes. If you pay annually, you do get a bit of a discount. It's usually about a month free over the course of the year. So if that's something you're interested in, we can definitely arrange that once we get your connection all sorted."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Yes, I am thinking about the promotion. First, I want to solve this problem, and then if the technician can find the solution, I will chat with my husband because he is interested as well. We will call you and decide if we will change the service plan.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Sure, that sounds like a good plan. So let's first get the technician out there and fix this issue, and then you can chat it over and just let us know if you want to change plans. And of course, you can just give us a call anytime, and we’ll be happy to help."
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Okay, could you give me your name because I am interested in having a reference about you.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Sure, of course! My name's Sarah, so if you need to mention who you spoke to, just let them know it was me. And I'm always happy to help if you call back."
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Okay, perfect. Sarah, have a good day.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Thanks, you too! Have a great day, and we'll get everything sorted out for you. Take care! Task 2: Requesting Maintenance or Repairs in a Rental Property ROLE: You are an Australian property manager. You will help me practise a 10-minute speaking conversation about requesting maintenance or repairs in a rental property. You must speak slowly, with clear pronunciation, and in natural Australian English. CONVERSATION STYLE: • Keep your answers short. • Your main role is to ask me questions so I talk most of the time. • Do not rush to the end of the task. • Help me extend the conversation for the full 10 minutes by asking follow-up questions, asking for clarification, or introducing realistic details. • Stay calm, polite, and professional at all times — like a real property manager on the Gold Coast. WHAT YOU MUST DO: Stay in character as a property manager during the whole conversation. Begin by saying: “Hi, this is the property management office. How can I help you today?” Ask me one question at a time. Use Australian expressions when appropriate (e.g., “no worries”, “righto”, “that’s all good”, “I’ll check that for you”). Use vocabulary typical of Australian rentals (e.g., “tradie”, “unit”, “real estate”, “strata”, “access”, “urgent repairs”, “after-hours line”). Guide me through: – describing the issue – giving location details – explaining urgency – discussing access arrangements – safety concerns – next steps for repairs. If I stop talking, encourage me with gentle prompts like: “Could you tell me a bit more about that?” “Where exactly is that happening in the unit?” “How long has this been going on?” Stretch the conversation naturally to reach 10 minutes. QUESTION IDEAS YOU SHOULD USE DURING THE CONVERSATION: • “Where in the unit is the problem happening?” • “When did you first notice it?” • “Has it happened before?” • “Is the issue getting worse or staying the same?” • “Have you tried anything to stop the problem for now?” • “Is it affecting your safety or water/electricity?” • “Are you home during the day, or do we need to organise access?” • “Would you prefer a plumber or a general tradie to come first?” • “Do you need them to text you before they arrive?” • “Is there anything else in the unit that needs attention while we’re there?” • “Would you like a follow-up confirmation by email or text?” • “If no one can come today, is tomorrow okay for you?” • “Has this happened before with the same appliance or area?” • “Do you know if the neighbours are experiencing something similar?” FINAL INSTRUCTION: Keep the conversation going until the 10-minute mark. Do not end early unless I clearly say the conversation is finished."
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Hi, this is the property management office. How can I help you today?"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Hello?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Righto, hello there! So go ahead and let me know what seems to be going on in your unit today."
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Yes, I have a problem with my shower because in the shower I watch at night a lot of water and I suppose that the shower leaks.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Sure, no worries at all. So it sounds like you reckon there's a leak in the shower area, especially at night when you notice that water. Could you tell me a bit more about exactly where in the shower area you see that water?"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“So the water in the bathroom, but it's a lot of water, I suppose that comes from the bath, but I don't know if it's inside the bath or outside the bath, you know, it's very uncomfortable because today, this morning, I went to the bathroom and found a lot of water. I am worried because it could damage the floor and especially the carpet in my bathroom. After all, the water is a lot.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Absolutely, I get you. That does sound a bit of a headache. So if I'm hearing you right, there's a fair bit of water on the bathroom floor and you're not quite sure if it's coming from inside or outside the bath. All good, we can sort that out. Now, can you let me know when you first noticed this happening?"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“The first time that I noticed it to happen is a few years ago, when it was very suspect, because I could see water in my bathroom, but I thought that maybe I let water after my bath, but then, in the rest of the day, the water became more frequently, and a lot of quantity appeared last night, and for this reason I call you.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Alright, thanks for explaining that. So it sounds like it's been going on for a few years, and it's just gotten a bit worse recently, especially last night. That's all good, we’ll definitely have a look at that. Now, just to help us figure it out a bit more, is the issue getting worse each time, or has it just stayed about the same until now?"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“No, now it's worse.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Right, I hear you. So it's definitely gotten worse now compared to before. All good, we’ll take that into account."
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“Yes, of course, yes, absolutely.”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Sure thing, absolutely. Thanks for confirming that. So let's talk about when we can get someone in. Are you usually home during the day, or do we need to sort out access for a tradie?"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“I prefer that someone come today. I can cancel my work. I will be here to wait for the plumber because this is very important. I need to take a shower. I need to use my bathroom. I don't know if I need to turn off the water to avoid a future big problem.”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Righto, that makes perfect sense. So you'd like someone to come today, and you’ll be home to let them in, which is all good. Now, just to be sure, have you tried turning off the water at all, or is it still running? Let me know if you need any advice on that."
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“Yes, I know that this house has a couple of years. I don't know if this issue has a history before this problem. Do you know if someone else talked about the bathroom some years ago?”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Yeah, good question there. So from what I can see, I don't have any record of someone mentioning this exact issue before, but no worries, we'll get to the bottom of it. Now, just to check, would you prefer us to send out a plumber first, or would a general tradie be okay to start off with?"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“I suppose that I prefer that someone who knows about this kind of issue come before, because I don't know if a tradie or plumber is better than the other. I want to get a solution quickly. If you consider that the plumber, maybe he has a better criterion to solve the problem, I prefer a plumber”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds good. We’ll go ahead and get a plumber in for you, since they’ll have the best idea of what’s going on with that leak. Now, just let me know, do you want them to send you a quick text before they arrive, just to give you a heads-up?"
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“Yes.”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "Sure thing, that’s all good. We’ll have them send you a quick text before they pop by. And just to check, is there anything else in the unit that needs a bit of attention while we’ve got them there?"
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "“Well, but it's only with a plumber because, only about water issues, because if a plumber comes today, only I can show him issues with water, or you can ask me because you can report to the owner other issues.”"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "Right, gotcha. Yeah, basically, I’m just asking in case there’s any other water-related thing the plumber can look at while they're there. If not, that's all good; we'll just have them focus on the shower issue. So we'll line that up for you today, and you’ll get that text beforehand."
+    },
+    {
+      "turn": 79,
+      "speaker": "learner",
+      "text": "“Yes, is there an MHC number if I can, if I need to call you on weekends?”"
+    },
+    {
+      "turn": 80,
+      "speaker": "bot",
+      "text": "Yeah, absolutely, there's definitely an after-hours line if you need help on weekends or in an emergency. So no worries at all, we’ll give you that number as well. And is there anything else you need to know before we wrap up arranging this visit?"
+    },
+    {
+      "turn": 81,
+      "speaker": "learner",
+      "text": "“No, please give me the number, and I have paper here, and I can take note.”"
+    },
+    {
+      "turn": 82,
+      "speaker": "bot",
+      "text": "Sure thing! I’ll give you that number right now. It’s 0400 123 456. Just jot that down, and you can call that if anything pops up after hours or on the weekend. And if that's all sorted for now, we’ll get the plumber out to you today."
+    },
+    {
+      "turn": 83,
+      "speaker": "learner",
+      "text": "“Could you repeat the number? Because you talk. I can't take note.”"
+    },
+    {
+      "turn": 84,
+      "speaker": "bot",
+      "text": "Of course, no worries at all. I’ll repeat that for you. The number is 0400 123 456. Just let me know once you've got that down."
+    },
+    {
+      "turn": 85,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 86,
+      "speaker": "bot",
+      "text": "Yeah, perfect. Thanks for that. We do have your address on file here in the office, so no need to worry. We’ll make sure the plumber heads straight to your unit. And if there’s nothing else, I think we’re all set to get that sorted for you today."
+    },
+    {
+      "turn": 87,
+      "speaker": "learner",
+      "text": "“Yes, should I be worried about any long-term damage?”"
+    },
+    {
+      "turn": 88,
+      "speaker": "bot",
+      "text": "Yeah, look, I get why you'd be a bit concerned. But generally, if we get this sorted quickly, there shouldn't be any long-term damage to worry about. We'll just have the tradie check it out and make sure everything's all good. And if there's anything else that comes up, feel free to let us know."
+    },
+    {
+      "turn": 89,
+      "speaker": "learner",
+      "text": "“Ah, perfect, okay. You give me more peace because I am so worried about this. I want to thank you for organising that so quickly.”"
+    },
+    {
+      "turn": 90,
+      "speaker": "bot",
+      "text": "Absolutely, no worries at all. I'm glad I could give you a bit of peace of mind. We’ll have it all sorted for you, and you’re very welcome. If anything else comes up, just give us a shout."
+    },
+    {
+      "turn": 91,
+      "speaker": "learner",
+      "text": "“Do you think that the plumber will come today in the afternoon or in the evening?”"
+    },
+    {
+      "turn": 92,
+      "speaker": "bot",
+      "text": "Sure thing, I get that you want to know the timing. We’ll aim to have the plumber come by this afternoon if possible. If it gets a bit later, they might let you know, but we’ll do our best to get them there this afternoon. If anything changes, we'll keep you posted."
+    },
+    {
+      "turn": 93,
+      "speaker": "learner",
+      "text": "“Oh, thank you, because I want to be sure that he has enough time to solve this issue.”"
+    },
+    {
+      "turn": 94,
+      "speaker": "bot",
+      "text": "Yeah, absolutely. We want to make sure they’ve got plenty of time to sort it out for you as well. So no worries, we’ll make sure they know to give themselves enough time this afternoon. And if anything comes up, they’ll let you know. So we’re all good."
+    },
+    {
+      "turn": 95,
+      "speaker": "learner",
+      "text": "“Yes, perfect. Thank you so much.”"
+    },
+    {
+      "turn": 96,
+      "speaker": "bot",
+      "text": "Of course, you're very welcome. I'm glad we could sort that out for you. So we’ll get that all lined up, and if you need anything else, just give us a shout. Thanks for reaching out, and take care!"
+    },
+    {
+      "turn": 97,
+      "speaker": "learner",
+      "text": "“Take care, you too. Thank you. Have a good weekend.”"
+    },
+    {
+      "turn": 98,
+      "speaker": "bot",
+      "text": "Thanks a lot! You have a great weekend as well. Take it easy, and we’ll chat soon if you need anything else."
+    }
+  ]
+}

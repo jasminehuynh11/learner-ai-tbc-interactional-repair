@@ -1,0 +1,290 @@
+{
+  "student_id": 19,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S19_W2_T3",
+  "source_file": "data\\raw\\#19\\#19\\#19. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Enquiring About a Rental Property or Housing Inspection Scenario: You are calling, emailing, or visiting a real estate agency to ask about a rental property. You may want to attend an inspection, ask about the application process, or follow up after submitting your documents. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a property manager or real estate agent. You can choose situations from the examples below; start with a simple enquiry and try a more detailed interaction by asking about inspections, application documents, or follow-up procedures. Learning objectives: • Use polite, clear language when enquiring about rental properties. • Ask specific questions about availability, inspections, or applications. • Practise understanding and confirming important information. • Gain confidence communicating in housing-related situations. • (Advanced option) Handle more detailed rental enquiries by discussing application steps, document requirements, or follow-up actions. Instructions: Try to: • Ask about property details or inspection times. • Inquire about the application or rental process. • Confirm next steps or follow up on your application. • Finish the conversation politely and professionally. • (Advanced option) Use the extension prompts below to have a longer conversation"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! I can help with that. Which rental property are you interested in today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hey, hi, I'm interested in the two-bedroom unit on Main Street.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, got it! Are you looking to come by for an inspection of that two-bedroom unit on Main Street, or do you have some specific details you'd like to know first?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Are there any inspection times this weekend?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure! We do have a couple of inspection slots open this weekend. Would you prefer a Saturday or a Sunday time?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“maybe sunday is fine for me and then do i need to register before attending”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely! Sunday at five works just fine. And yes, we do ask that you register beforehand so we know who's coming. Could I get your name and contact number for that?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“My name is Hu, and then, yeah, you can just send, you can use my email.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, Wu, that sounds good. I'll note down your email for the registration. And just to confirm, do you need any details about the application process once you've seen the place?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Is the property furnished or unfurnished?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure! This particular property is unfurnished, so you'll need to bring your own furniture. Now, after the inspection, would you like me to walk you through the application steps as well?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Not yet. I want to have more... I want to ask more things. So, R patch allowed?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure! Pets are actually allowed in this unit, so that's no problem at all. Now, is there anything else you'd like to check on before the inspection day?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely! The bond for this property is four weeks' rent upfront. Now, is there anything else you'd like to clarify, or does that cover your main concerns?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“So clarifying the application process, can I apply online or do I need to visit the office?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure! You can definitely apply online, so no need to come into the office unless you prefer to. Now, would you like me to send you the application link after your inspection?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yeah, sure. So what document do I need to include in my application?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright! Usually, you'll just need to include some ID, proof of income, and a rental reference if you have one. Anything else you'd like to ask about the application process?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“So how long does it take to hear back?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure! It typically takes us about two to three business days to get back to you once you've submitted everything. Is there anything else you’d like to know before we wrap up?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I submitted my application yesterday. Actually, could you confirm if it was received?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely! I'll go ahead and check that for you. Just give me a moment. And once I confirm it's received, is there anything else you need from me today?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure! We usually make a decision within about three business days after receiving your application. Now, is there anything else I can help you with?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "All right! Generally, the documents we've mentioned—ID, income proof, and a rental reference—are all you'll need. If anything else comes up, I'll let you know. So, does that cover everything you wanted to ask?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Sure. Actually, I'm also interested in another unit. Could I apply for both?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely! You can definitely apply for both units if you're interested in more than one. Now, would you like me to send you details for that other unit as well?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Yeah, sure. Would it be possible to negotiate the lease length?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure! We can definitely discuss the lease length and see if there's some flexibility there. After I send you those details, is there anything else you’d like to chat about?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“By any chance, are there any furnished properties available around the same price?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely! We do have a couple of furnished options in a similar price range. I can share those listings with you as well. Anything else you're curious about?"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Thank you. What makes a strong rental application?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure! A strong rental application usually includes solid references, a stable income, and a clear rental history. Now, is there anything else you'd like to know before we wrap up?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“If someone else also applies, how do you choose?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely! If we have multiple applications, we generally look at the overall strength of each one—things like references and income stability. Now, is there anything else you'd like to go over?"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Actually, I don't have any rental history in Australia. Can I still apply?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sure! You definitely can still apply even without a local rental history. We’ll just focus a bit more on your income proof and any other references you have. Anything else you’d like to ask before we finish up?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Actually, I'm still waiting for one of my documents. Can I send the others first?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely! You can go ahead and send the documents you have first, and then just follow up with the missing one when you get it. Anything else on your mind before we wrap up?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Can I apply now and bring the document later?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Sure! You can absolutely apply now and then just bring in that document a bit later. Is there anything else you need from me, or does that cover everything for now?"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“It is okay to email a copy of my ID.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely! It's perfectly fine to email us a copy of your ID. We handle that securely. So, is there anything else you'd like to go over, or are we all set for now?"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Sure! Once you're approved, the lease can start pretty much as soon as you're ready, usually within a week or two. Is there anything else you'd like to ask before we wrap up?"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Do I pay the bond before signing the lease?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely! Typically, you'll pay the bond right after signing the lease to secure the property. Now, is there anything else you'd like to go over, or are we all set?"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Sure! If you break the lease early, there might be some break-lease fees involved, usually covering the cost of re-advertising and any rent until a new tenant is found. Anything else you'd like to clarify before we wrap things up?"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Will I receive a written tenancy agreement before payment?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely! You can definitely arrange monthly payments if that works better for you. Now, does that cover all your questions, or is there anything else you'd like to ask?"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Thank you for the information.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "You're very welcome! If there's nothing else, feel free to reach out anytime. Have a great day!"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "student_id": 30,
+  "week": 4,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S30_W4_T3",
+  "source_file": "data\\raw\\#30\\#30\\#30. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello, I have...”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hello! I’m here to help. What kind of scenario are you interested in practicing today? Let me know, and we can jump right into it."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I have just finished my class presentation. Could you talk about it?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! I'd love to hear about it. What was your class presentation about, and what kind of details would you like to discuss or practice?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I'm sorry, I don't understand. Can you repeat, please?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! No worries at all. I was just asking about your class presentation. What topic did you present on, and what would you like to talk about or practice related to it?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, I have just finished my class appreciation and I would like, what do you think about my appreciation? So could you talk about it?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to! If you'd like, you can share some details about your presentation, like the main topic, the key points you covered, or any part you're unsure about. Then we can talk through it and practice together."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“So, do you mean I should change something?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Yes, exactly! If you want to share any part of your presentation or any specific section you’re curious about, I’m happy to give feedback or help you refine it. Just let me know what you need."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great! Whenever you're ready, just let me know a bit about the presentation, and we can dive right in. I'm here to help however you need."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“So I think he...”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "No worries at all! Take your time."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“You don't understand about I talk, so I told for you about my presentation, but fiction presentation. You only need speak about this. I don't have real presentation.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Oh, I see! That makes perfect sense. So, we’re doing a fictional presentation scenario. Got it! In that case, feel free to let me know the topic or any details you have in mind, and we can practice that scenario together."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“So, don't have TopKey because it's a fiction presentation, understand?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, I understand now! We can just create a fictional topic and run through it as if it were real. So, if you’d like, you can pick any subject or scenario, and we can have a fun, interactive practice session with it."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect! Whenever you're ready, just let me know the fictional scenario or any details you want to include, and we'll get started right away. This is going to be fun!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“So...”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "All right, sounds good!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“The presentation is about the sky.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That’s awesome!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“What do you think about it?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "I think it’s a really fascinating topic! There’s so much you can explore, from the concept of parallel worlds to the different storytelling elements. I’d love to hear more about what you covered in your presentation and any aspects you’d like to dive deeper into!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“What would you recommend I focus on improving next time?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That’s a great question! I’d recommend focusing on clarity and structure, making sure your main points are well-organized. Also, practicing your pacing and engaging your audience with questions or examples can be really helpful. Let me know if there’s a specific area you’d like to work on!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Now, thank you so much. I appreciate your help.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions or need anything else, just let me know."
+    }
+  ]
+}

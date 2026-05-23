@@ -1,0 +1,19 @@
+[
+  {
+    "dialogue_id": "S39_W4_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous question – learner confused by bot's feedback",
+    "evidence_summary": "The learner asks 'Have you seen no improvement in any particular area?' which leads to a misunderstanding. The bot responds positively, but the learner is confused and asks 'What do you mean?' The bot clarifies the feedback about maintaining a consistent pace, and the learner confirms understanding, resolving the issue."
+  }
+]

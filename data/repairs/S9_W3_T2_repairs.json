@@ -1,0 +1,62 @@
+[
+  {
+    "dialogue_id": "S9_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      3,
+      4
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner requests to repeat",
+    "evidence_summary": "The learner asks to say something again in turn 3, indicating a need to repeat or clarify their previous attempt. The bot acknowledges this request in turn 4, allowing the learner to proceed, resolving the issue."
+  },
+  {
+    "dialogue_id": "S9_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      11,
+      12
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – learner's request for a company visit",
+    "evidence_summary": "The learner suggests a company co-worker should visit in turn 11, which the bot interprets as a request for a visit in turn 12. The bot's response aligns with the learner's intent, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S9_W3_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      21,
+      22
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner clarification – confirming company visit",
+    "evidence_summary": "The learner seeks confirmation about a company visit in turn 21. The bot repeats its previous response in turn 22, which implicitly confirms the arrangement, resolving the learner's need for clarification."
+  },
+  {
+    "dialogue_id": "S9_W3_T2",
+    "repair_id": 4,
+    "turn_indices": [
+      47,
+      48
+    ],
+    "initiation": "LI",
+    "resolution": "U-A",
+    "trigger": "learner confusion about the location of lost items",
+    "evidence_summary": "The learner expresses confusion about where they lost their wallet and key in turn 47. The bot's response in turn 48 is vague and does not address the learner's confusion, leaving the issue unresolved."
+  },
+  {
+    "dialogue_id": "S9_W3_T2",
+    "repair_id": 5,
+    "turn_indices": [
+      57,
+      58
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner confusion – unfamiliar with process",
+    "evidence_summary": "The learner expresses confusion about the process of reporting a lost item. The bot explains the process clearly, resolving the learner's confusion."
+  }
+]

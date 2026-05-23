@@ -1,0 +1,190 @@
+{
+  "student_id": 40,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S40_W2_T2",
+  "source_file": "data\\raw\\#40\\#40\\#40. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hello, good morning, I'd like to open a new savings account"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright, good morning. Is this savings account going to be a personal account or a joint account?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I would like to open a personal account."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sure, a personal savings account is fine. May I ask what form of identification you have with you today?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "I have my national ID or my passport. What do you prefer?"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, either works, but the passport is perfectly fine. Could you also tell me what document you have for proof of address?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I have a letter for the government about approve my extended visa. In this document have my address. Is enough support for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure, I see — your visa approval letter with your address should work, yes. I’ll just need to confirm one more detail. Do you already know how much you’d like to deposit as your initial opening balance?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Yes, I would like to save 100 USD, but I know it's possible to save USD here or I need to exchange first ."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, no problem — you can deposit the 100 USD directly; we can hold it in a USD-denominated savings account, so there’s no need to exchange it unless you prefer to. Could I get your contact phone number so we can attach it to your new account?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Absolutely, currently I don't have my number, my phone number here, but I have my number, phone number of my country is +573104589941. You can send me a WhatsApp message."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, thanks for that number — I’ll note it down with a note that WhatsApp is your preferred contact. Could you also give me an email address we can link to your new savings account?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Absolutely, my email address is asuarez0521@gmail.com"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure, thanks for that. I’ve added your email to the application. Could you confirm your current residential address exactly as it appears on your visa letter?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Absolutely, it's 123 Hawker Street, North Adelaide, South Australia"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, thanks for confirming that address. One last detail for the application — could you give me your date of birth as it appears on your ID?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Of course, it's May 21st, 1990."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, perfect, thanks for that. Would you like to set up online banking access for your new savings account as well?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Oh perfect, I love that. Can you show me what is the correct process to update the app?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure, so you’d like to update the banking app — just to confirm, you mean updating the app on your phone to the latest version, right? On which device are you using the app, Android or iPhone?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Currently, I have a Samsung, it's Android."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, on Android that’s easy. First, can you open the Google Play Store on your Samsung and tell me if you see an “Update” button next to our banking app?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Perfect, when I update the application for the bank, you give me some information, maybe one password or user?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure, updating the app doesn’t change your login details. After we finish opening your account, we’ll give you a temporary username and a one-time password so you can sign in the first time. Then the app will ask you to create your own permanent password. Which method would you prefer for receiving that one-time password — SMS to WhatsApp or email?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "I think that the best option is you send me an email, it's possible."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Alright, we can send the one-time password to your email, no problem. When you receive it, you’ll just enter it on the login screen and then create your new password. Would you like help with the steps for your first-time login once the email arrives?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Thank you for that, I really appreciate it. But I would like to know about what's the difference between the save account and investment account. Do you have invesment account?"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Sure, good question. Yes, we do offer investment accounts. A savings account is mainly for keeping your money safe and earning a small, stable interest. An investment account can grow your money faster, but the value can go up and down with the market. What kind of goal do you have in mind — short-term saving or longer-term investment?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "I don't know exactly. I would like to know what is the % of interest."
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sure. For our standard savings account, the interest rate is 2.1% per year, fixed and low-risk. For an investment account, the return isn’t fixed — it usually ranges between 4% and 10% per year, but it can be lower or higher depending on market performance. What level of risk are you comfortable with — very low, moderate, or higher risk?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "I would like to invest maybe in the higher ranks, what is the rate?"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Alright, for our higher-risk investment options, the typical annual return ranges between about 8% and 14%, though it can vary more because it depends on market movement. To recommend the right product, could you tell me how long you’re thinking of investing this money — short term, like 1–2 years, or longer term?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "I need to think about that, maybe the other options, but for now I only want to open a save account and I really appreciate you send me the email with the information to use the application and if it's possible just send me the information about higher investment risk. Thank you so much."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course, thank you for letting me know. I’ll send the email with your app login instructions, along with a separate summary of our higher-risk investment options. If you need anything else, feel free to contact us. Have a great day."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Thank you too much, have a good day."
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure, thank you. Have a wonderful day."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "student_id": 21,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S21_W3_T1",
+  "source_file": "data\\raw\\#21\\#21\\#21. Week3.docx.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an Internet Outage at Your Housing Scenario: You are contacting your housing provider or Internet company to report that the Internet is not working. You need to describe the problem, ask for assistance, and check when the issue will be fixed. Practise speaking clearly and politely in a service setting. You will need to define the chatbot’s role as a housing manager or Internet support staff. You can choose situations from the examples below; start with a simple report and try a more detailed interaction by asking about troubleshooting steps, technician availability, or service timelines. Learning objectives: • Use and ask about specific vocabulary for technical problems (e.g., router, connection, or outage). • Practise sequencing (e.g., when it happened and what you tried). • Use polite and persistent questioning to request assistance. • (Advanced option) Manage extended service interactions by troubleshooting the issue, confirming steps, and negotiating next actions."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure. Let’s begin. I’ll play the role of your Internet company’s support staff. Hi, this is Internet Support. How can I help you with your connection today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I'm contacting you because my internet isn't working now.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. Could you please let me know when the outage started and if you’ve tried any troubleshooting steps so far?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“It was working fine this morning, but it suddenly stopped around 11.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it. Thank you for that info. Have you tried restarting your router or checking the cables to see if everything is connected properly?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I've already tried that one, but it didn't help.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I see. Understood. In that case, I can arrange for a technician to come by. Could you let me know your address and the best time for the appointment?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, my address is North Willoughby, 8 Patrick Street.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Thank you for that. And what time would be most convenient for you for the technician to come by?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Actually, today I have a plan today, so when is the available day? What day is it available?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely. We have availability tomorrow and also later in the week. Would tomorrow work for you, or would you prefer a different day?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I prefer the next weeks on Monday to Wednesday. Is it okay?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, that works. We can schedule the technician for Monday. Does a morning or afternoon appointment suit you better?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Morning is better.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Great, we’ll schedule the technician for Monday morning. Is there anything else I can assist you with in the meantime?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“So,”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, noted. If you think of anything else, just let me know. Otherwise, we’ll see you on Monday morning."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“So should I try anything else before someone comes?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You could try checking for any outages in your area through our online portal, or ensure that all cables are firmly connected. If everything looks fine, we’ll handle it when the technician arrives."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, got it. Thank you for your help.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re welcome! If you need anything else, just let me know. Have a great day!"
+    }
+  ]
+}

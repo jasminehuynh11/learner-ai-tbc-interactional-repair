@@ -1,0 +1,240 @@
+{
+  "student_id": 16,
+  "week": 4,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S16_W4_T3",
+  "source_file": "data\\raw\\#16\\#16\\#16. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Participating in Group Decisions and Negotiating Responsibilities"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello people, we needed to discuss the presentation of the new app project to investors. We needed to divide the tasks. Would you like to hear my suggestion?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, let’s hear them. I’m all ears for your suggestions on how we can split things up for the presentation."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Ok, então, como o proprietário do projeto, posso abrir as apresentações, introduzir todos os membros do projeto e, finalmente, o propósito da aplicação. Depois, acredito que Elton pode falar sobre as mudanças tecnológicas e as ferramentas de IT que serão usadas. Depois, acredito que o Alexandre apresentará os custos do projeto e, finalmente, o Shun apresentará o protótipo com as funcionalidades.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure, that sounds like a solid plan! I’m happy to jump in and talk about the prototype and the functionalities at the end. So I’m definitely on board with that. Is everyone else comfortable with their parts, or should we tweak anything?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I want to listen about what you think about my proposal.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, I think your proposal is really well structured. It makes sense to have you kick things off and then have each person present their own area of expertise. So from my side, I’m totally on board with it. Does anyone else have any adjustments, or are we good to lock it in?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Do you have any two-bit about your part of the project? And you can do your presentation and send for me just for I check if you say okay with the project. And all members of the group, I need to receive this information too. Because it's good if our presentation stay in the same direction. Are you concordant with me? Are you okay?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, I agree with you. It’s a great idea for all of us to share our parts in advance so we can make sure everything lines up nicely. I’ll definitely send you my portion of the presentation so you can review it, and we can all stay on the same page. Does that sound good to you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Oh, it's good. I really appreciate it. Could you talk about your idea for this project?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Sure thing! I’d be happy to share my idea. So for this project, I’m thinking we can really highlight the most user-friendly features of the app when I present the prototype. That way the investors get a really clear picture of what makes it stand out. And of course, I’ll sync up with everyone else’s sections so it all flows smoothly. Does that align with what you had in mind?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Oh good, you have a good, you understand the best the project. So I think we can go to work and preparing the presentation and the next week we have a meeting with the investors.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a plan. We understand the project well, and we can all just get to work on our parts. So let’s do that, and then we’ll come together next week for the investor meeting. Sounds great!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Good. Thanks so much. The meeting is finishing and I hope all of you have a great day. And I really appreciate your attention and I hope you have a great day.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, thanks a lot! It was a great meeting, and I hope you have a fantastic day as well. We'll catch up soon!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“See you soon, people.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "See you soon! Take care and have Task 3: Responding to Feedback or a Performance Review “Hello, teacher. I received information that you wanted to speak with me. It's right?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, that’s right. Thanks for coming in. I just wanted to chat a bit about your recent assignment and give you some feedback. So let’s start with what you did well and then we can go over a couple of things to work on. How does that sound?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“조금 천천히 말씀해 주실 수 있을까요?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course, I’ll slow down. So first, I’ll share what you did well on your assignment, and then we’ll talk about a couple of areas for improvement. Does that sound good to you?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, could you start?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure! So, to start off, you did a really good job with clearly organizing your main points. That was definitely a strong part of your assignment. Now, one area we could work on is adding a bit more detail to your examples. But overall, you’re on the right track. Do you have any questions about that so far?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Now, I will do more examples. Thank you for your appreciation for my improvement, and I want to talk more about it.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, happy to dive in a bit more. And it’s great to see you’re keen on adding more examples—that’ll definitely strengthen your work. So if you want, we can talk about some specific parts where you might add those examples or any other areas you’d like more feedback on. Just let me know!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Could you repeat, please?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course! So it's great that you want to add more examples, and we can definitely talk about where to include them. Just let me know if there’s any specific part you’d like more feedback on, and we can go from there."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Could you talk about my listening? You have checked if I improved my skills from listening? Or if your perception, I don't have improved these days?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, we can talk about that. I've definitely noticed some improvement in your listening skills. You've been more attentive and responsive during our discussions, which is great. I’d say just keep practicing and you'll continue to see progress. Does that help answer your question?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“How did you think about my score in my test last week?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "I think you did quite well on your test last week overall. Your score showed that you've improved in a lot of areas, especially in understanding the main ideas. There's always a bit of room to grow, but you're definitely on the right track. If you want, we can talk about any specific parts of the test that you found challenging."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“We could talk a little more about the listening test. What should I do to improve my listening skills?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, we can talk more about that. So to improve your listening skills, I’d suggest practicing a bit each day with different types of audio—like podcasts or news clips—and maybe focusing on understanding the overall message first. Then you can work on catching more details. Over time, that’ll really help you get more comfortable. Does that sound like a good plan to you?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Oh, thank you, teacher. And talk about my reading test.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! So for your reading test, you did a good job with identifying the main ideas in the passages. One thing we can work on is maybe focusing a bit more on understanding the finer details and inference questions. But overall, you’re making good progress. Let me know if you have any specific questions about that!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Please, could you repeat, please, because there are mice close to me?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Of course, I'll repeat that. For your reading test, you did well with finding the main ideas. We can just work a bit more on the details and inference questions. Overall, you're making good progress. Let me know if that helps!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Yes, it's a pity game because that Alice is so nice and close to me.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Of course, no problem at all. So basically, you did well with the main ideas in your reading test, and we can just focus a bit more on the detailed questions and inferences. Overall, you're making good progress. Let me know if that makes sense now!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“I think my reading isn't really my biggest problem. What I've had more difficulty has been listening.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. If listening is more of a challenge for you, we can definitely focus on that more. We’ll keep working on some daily listening practice and breaking things down into manageable steps. Over time, that should help build your confidence. So we’ll put a little extra focus there!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Teacher, what is the best thing to study in grammar to improve my writing?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "I’d say the best thing is to focus on one grammar topic at a time and then practice it in your writing. For example, if you're working on verb tenses, try writing a few sentences each day using that tense. Over time, that kind of focused practice will really help improve your writing. Let me know if that helps!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“I really appreciated your feedback and I hope you have a great day!”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. You have a great day as well, and if you need any more feedback, just let me know."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“No, it's okay, Tejas. Thank you so much.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "You’re very welcome! Thanks for the chat and have a wonderful day! Parte superior do formulário"
+    }
+  ]
+}

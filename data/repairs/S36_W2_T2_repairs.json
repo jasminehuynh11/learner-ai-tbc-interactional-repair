@@ -1,0 +1,42 @@
+[
+  {
+    "dialogue_id": "S36_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech / unclear phrasing",
+    "evidence_summary": "The learner's utterance in turn 27 contains unclear phrasing ('noisy nine boards') and is fragmented ('new... new buildings'). The bot implicitly initiates a repair by interpreting and rephrasing these elements in turn 30 ('peaceful location without any noise', 'new, well-maintained home'), which successfully resolves the ambiguity and allows the conversation to progress."
+  },
+  {
+    "dialogue_id": "S36_W2_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      31,
+      32,
+      37,
+      38
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – bot did not follow specific instruction",
+    "evidence_summary": "The learner gives a specific instruction to the bot in turn 31 ('come back after five seconds'). The bot acknowledges but reinterprets this as 'shortly' in turn 32. The learner then explicitly initiates a repair in turn 37 ('Five seconds left. Can you come back now'), prompting the bot to immediately provide the requested information in turn 38, thus resolving the issue."
+  },
+  {
+    "dialogue_id": "S36_W2_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      55,
+      56
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "unclear phrasing – numerical error",
+    "evidence_summary": "The learner states a price limit as '500 $1,000' in turn 55, which is numerically unclear. The bot implicitly initiates a repair by correctly interpreting this as '$500,000' in turn 56, successfully clarifying the intended amount and allowing the conversation to continue with mutual understanding."
+  }
+]

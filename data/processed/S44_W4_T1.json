@@ -1,0 +1,130 @@
+{
+  "student_id": 44,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S44_W4_T1",
+  "source_file": "data\\raw\\#44\\#44\\#44. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "At the end of this year, I finished my English course and I want to attend a college here related to my field.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! So, could you tell me a bit about your field of interest and what kind of college program you’re aiming for? Hai detto: “I have to choose my... I haven't chosen my college yet, but my field is like design and graphic design or all this area.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That’s exciting! So, for design and graphic design, we can definitely explore some colleges that have strong programs in those areas. Do you have any location preferences or particular aspects you’re looking for in a college? Hai detto: “I prefer in Sydney, but if there is a good university also in other city, in Australia, I can move on.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That’s great to know! Sydney definitely has some fantastic institutions for design. Would you like to focus on undergraduate programs, or are you considering postgraduate studies as well? Hai detto: “I just have a bachelor's degree, so I'm looking for a master's or a postgraduate.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Perfect, that helps narrow it down! In that case, we can look into some master’s programs in design and graphic design. Do you have any specific areas of interest within design, like digital design or branding, that you'd like to focus on? Hai detto: “As a bachelor's degree, I studied brand design.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Excellent! That definitely Hai detto: “And I want to focus on motion design or also web and UX design.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That sounds fantastic! We can definitely explore master’s programs that offer specializations in motion design, web design, and UX. Would you like to know about any specific universities in Sydney, or are you also open to options in other cities? Hai detto: “and also are open to the other CDIs, as I told you.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, that gives us plenty of flexibility! I can definitely help you compare some top programs both in Sydney and in other Australian cities. Is there any particular timeframe you’re aiming for to start your studies? Hai detto: “No, just as I told you, I finish my course this month and I want to start as soon as possible.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it, that’s great timing! In that case, we can definitely look for programs that start in the upcoming semester or the next intake. I’ll help you find the best fit for your timeline and interests. Let me know if you have any other specific questions or preferences! Hai detto: “Do you have some school name that you suggest me?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely! Some well-known universities for design in Sydney include the University of New South Wales, the University of Technology Sydney, and the College of Fine Arts. There are also great options in Melbourne, like RMIT University. I can definitely provide more details about each of them if you’d like! Hai detto: “I would like to ask you if you can send me an email of all this college.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course, I'd be happy to put together some information for you and send it over via email. Just let me know the best email address and any other details you’d like me to include, and I’ll get that to you right away! Hai detto: “but there is some test before like to enter in the school or it's a”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That’s a great question! Typically, many programs do have certain entry requirements, like portfolio submissions, or sometimes language proficiency tests if needed. I can definitely include details about those requirements for each school in the information I send you. Let me know if you have any specific concerns about that! Hai detto: “No, it's okay, because I told you I have a bachelor's degree and I have also a portfolio, so I think it's enough. How much is the cost, in general, of the university?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That makes sense! Generally, tuition costs can vary quite a bit depending on the university and the specific program. On average, for master’s programs in design in Australia, it can range from about $30,000 to $45,000 per year. I’ll be sure to include more precise cost details for each university in the information I send you! Hai detto: “Perfecto.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Awesome, I’m glad that helps! Feel free to let me know if you have any more questions or if there’s anything else I can do for you. I’ll get that information over to you shortly! Hai detto: “like to ask you, um, the...”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course, go right ahead! Feel free to ask me whatever you need, and I’m here to help. Hai detto: “I can... it's... it's... there is some rules about attending in this type of university or... or not.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, there are usually some guidelines and requirements, like maintaining a certain academic performance, attending classes regularly, and sometimes participating in specific projects or internships. I can definitely give you more detailed information about any specific rules for the universities you’re interested in. Just let me know what you’d like to know more about! Hai detto: “I just ask you to send me all this information in my personal email, and I also would like to ask you what kind of work and experience, no sorry, how do I find alumni who's taking a similar path?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to include all that information in your email. And as for connecting with alumni, most universities have dedicated alumni networks or LinkedIn groups. I can also guide you on how to find and reach out to alumni who’ve taken similar paths. Just let me know, and I’ll help you with that as well! Hai detto: “Ok, perfetto.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Great! I’m glad Hai detto: “Also, can I ask you if there are some, I don't know what to say, like some money that have given to some alumni that merit to study?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, I understand! Many universities do offer scholarships, grants, and other financial aid opportunities for outstanding or deserving students. I can definitely look into some of those options and provide you with details on what might be available. Just let me know if you have any specific criteria in mind! Hai detto: “Sorry, I didn't understand.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "No worries at all! What I meant is that many universities do have scholarships and financial aid options for students who excel or have certain merits. If you’re interested, I can definitely help you find information on those opportunities. Just let me know what you need! Hai detto: “No, just if you can send me some, like, university that give this option.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that! I’ll include details about universities that offer scholarships and financial aid in the information I send over. If you have any particular preferences or questions about them, just let me know, and I’ll make sure to cover everything you need! Hai detto: “No, I'm okay at the moment. Thank you so much for the support.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions in the future, just let me know. Good luck with everything, and have a great day! Hai detto: “Thank you so much, have a good day.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You too! Take care and talk to you soon. Bye for now!"
+    }
+  ]
+}

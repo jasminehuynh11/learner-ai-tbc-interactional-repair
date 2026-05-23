@@ -1,0 +1,370 @@
+{
+  "student_id": 49,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S49_W1_T2",
+  "source_file": "data\\raw\\#49\\#49\\#49. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, how are you?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "I'm doing great, thank you! How about you? How can I help you today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I'd like to return these shirts, but I don't have the receipt.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Oh, I see. No worries at all! Could you let me know when you purchased the shirt and if you have any details about the transaction? That might help us figure out the return."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yesterday, 3 o'clock maybe, but I don't exactly remember the time.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, no problem! That's definitely helpful. And do you recall the store location or maybe the payment method you used? That can also help us look it up."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I'm sorry, could you say it again?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course! I was just asking if you remember which store location you bought it from or the payment method you used. That can help us track down the purchase more easily."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I bought this shirt this store.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Perfect, that helps a lot! And do you happen to remember how you paid, like with a credit card or cash? That'll make it easier for us to confirm the purchase."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I use my credit card. Here, this is.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great, that's really helpful!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, perfect! With that information, we should be able to process the return smoothly. Is there anything else I can help you with regarding the shirt?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“No, but I got the wrong size maybe, so I'd change another cloth because it doesn't have a small size, right?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Gotcha, that makes sense! In that case, we can definitely help you find an alternative item or check if we can order the correct size. Would you like to look at a different style, or do you have something specific in mind?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Actually, I want to buy some jumpsuit, like one-piece.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That sounds great!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I mean, jumpsuit. Yeah, please.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, no worries at all! We can definitely look at some jumpsuits for you. Do you have a particular color or style in mind that you're interested in?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I want…”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, no problem!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "I totally get what you mean! Sometimes those colors can look a bit similar in different lighting. We'll definitely find a jumpsuit in that range. Would you prefer something more casual or maybe a bit more formal?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Um, casual one, please. Because I want to buy some jumpsuits, like, like, factory workers.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Got it, that sounds great! We can definitely look for something comfortable and durable, like a utility-style jumpsuit. Let me know if you have any specific size in mind, and we’ll find the perfect one for you!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Small size, please. And can I have... Can I try this?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Of course, absolutely! We can get you a small size, and you’re more than welcome to try it on. Let me know if you need any help, and we’ll make sure it fits perfectly for you!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Thank you and where is the Fitment Loom?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You're welcome! The fitting room is just around the corner to your left. If you need any assistance at all, just let me know. Enjoy trying it on!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Thank you. And how much is it? I mean, do I need to pay more?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "You're welcome! The price should be the same as the original shirt, and we can easily adjust it for the exchange. If there’s any difference in price, we’ll let you know right away. But we’ll make it as smooth as possible for you!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, then, do you have another color?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely! We have a variety of colors available, so if you’d like to see other options, we can definitely check them out. Just let me know what color you have in mind, and we’ll find the perfect one for you!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“I want some dark green one. Do you have it?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Yes, we do have dark green available! I’ll be happy to show you those options. Let me grab one for you, and you can take a look and see how it fits!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Oh, I like it. And do you have shoes, too?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, we do have"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Like fit on this clothes.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Got it! We can definitely help you find some shoes that match perfectly. Let me know what style or type you’re looking for, and we’ll find something that complements your outfit nicely!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“I don't know exactly. Could you recommend?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Of course! I’d be happy to recommend. We can look at some comfortable, casual shoes, maybe some sneakers or slip-ons that go well with the jumpsuit. Let me know if you have a preference, and I’ll help you find the perfect pair!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“んー、スニッカーズ、ウッピーナイス。 Can I say it?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely! I’ll grab a few pairs of sneakers for you to check out, and we can see which ones match best with your outfit. I'll be right back with some options!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“I like this white one and that black one.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Awesome choices! Both the white and the black sneakers will look great. If you’d like, you can try them on and see which one feels more comfortable and suits your style best. Let me know if you need any help with that!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“I don't know what color is more fit to me.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "No worries at all! We can definitely try them both on and see which one you prefer. Sometimes it helps to see how they look with the jumpsuit. So take your time, and I’m here to help you figure out the best match!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“What's your opinion? White or black? What color is more a fit on me?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "I think both are great options, but if you’re going for a more versatile look, the white sneakers can add a fresh, clean touch. On the other hand, the black sneakers can give a sleek, more understated vibe. Ultimately, it depends on the style you’re going for, but I’m happy to help you decide!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“The white one would be nice, but I have, I'm worried about cleaning, you know, white shoes would be...”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "I completely understand that concern! White shoes can definitely show dirt more easily. If you’d like, we can also look at some ways to keep them clean or even consider a different color that’s a bit lower maintenance. Just let me know what you prefer!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Oh, do you have any cleaning system here?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do have some cleaning kits and sprays that are perfect for keeping white shoes looking fresh. I can show you a few options, and that way, you’ll have everything you need to maintain them easily!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“How much is it, just for one claim?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "It’s usually pretty affordable! The cleaning kits are typically around $10 to $15, and they last quite a while. If you’d like, I can give you the exact pricing and show you some options right now!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“If I use your cleaning system, then how long would it take?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "It’s actually quite quick and easy! Usually, cleaning a pair of shoes with the kit only takes about 10 to 15 minutes, and you’ll have them looking good as new in no time. If you’d like, I can walk you through the process as well!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“That would be great. Then...”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Absolutely, I’m happy"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "No worries at all! Just let me know whenever you’re ready, and I’ll be here to help you out. Feel free to ask anything at any time!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“So I want to buy these white shoes and exchange the shirts to these jumpsuits.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "That sounds perfect! We’ll get everything sorted out for you. I’ll make sure we process the exchange for the shirt and get you the white shoes as well. Just let me know if you need anything else, and we’ll take care of it!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“Can I pay it by the credit card half and another half one to the cash? Is it okay?”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Absolutely, that’s totally fine! We can definitely split the payment between your credit card and cash. Just let me know how you’d like to divide it, and we’ll get that all set up for you!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“Just exactly half price, please.”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Got it! That’s absolutely doable. I’ll make sure we split the exact half of the total price between your credit card and cash. We’ll handle it smoothly, and you’ll be all set!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“That's all, thank you, and can I have some one shopping bag, please?”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Of course! I’ll make sure to include a shopping bag for you. You’re very welcome, and if you need anything else at all, just let me know!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“Thank you!”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "You're very welcome! It was my pleasure to help. If you need anything else, just let me know. Have a great time with your new items!"
+    }
+  ]
+}

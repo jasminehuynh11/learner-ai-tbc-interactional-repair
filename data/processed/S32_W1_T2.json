@@ -1,0 +1,160 @@
+{
+  "student_id": 32,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S32_W1_T2",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a Restaurant Table"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds fun! Let's get started. Hi there! Welcome to our restaurant. How can I help you today with your booking? How many people will be joining, and what time were you thinking of coming in?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I want to know if it's possible to make a reservation for a birthday celebration in this restaurant.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course! We'd love to help you celebrate. Could you let me know how many people will be attending and what date and time you had in mind? That way, we can find the perfect spot for you."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I think the number of people is 10 people, and the day I think is on November 6th.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Perfect, that sounds great! For a group of ten on November 6th, we definitely have some options. Would you prefer an evening reservation or perhaps a lunchtime booking?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I prefer a lunchtime reservation, if it's possible.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, lunch time works perfectly. We can definitely accommodate that. Is there a specific time in the afternoon that you'd like to come in, maybe around  or ? Let me know what works best for you."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I think I would like to arrive there at 1pm, if it's okay, around 1pm.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That’s absolutely fine! We’ll book you in for  on November 6th for ten people. Is there any special request or any dietary preferences we should know about for your group?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I want to know if you have vegetarian options”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, we do have a variety of vegetarian options on our menu. We can definitely accommodate that. If you have any specific dietary needs or any other special requests, just let me know, and we'll make sure everything is perfect for your celebration."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I would like to know if with the service do you offer birthday cakes or I have to bring the cake”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Great question! We can absolutely arrange a birthday cake for you. We have a few options, and we can customize it based on your preferences. If you'd like, we can discuss the flavors and the design, and we’ll make sure it’s ready for your celebration. Let me know if you’d like to add that!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yes, I want to know what type of cakes you offer.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely! We have a variety of options, including classic flavors like chocolate, vanilla, and red velvet. We can also do special custom cakes, like fruit-filled or even gluten-free and vegan options if needed. Just let me know your preference, and we can make it really special for your celebration!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, I'm interested to have a Red Velvet cake”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That sounds wonderful! we’ll make sure to have a delicious red velvet cake ready for your celebration. I’ll go ahead and note that down for you. If there’s anything else you need or any other details, just let me know."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Another thing, I want to know is if the restaurant has an outside part and it is possible to use or is now reserved or not.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely! We do have an outdoor seating area, and it's often available for reservations. Let me check the availability for that date and see if we can secure a spot for you and your group. Just give me a moment, and I'll confirm that for you!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, I can wait.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Thank you for your patience! I'll just double-check that for you right now. Once I confirm the availability, we’ll make sure everything’s all set for your celebration. Hang tight!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Now do you know if it is possible to book a table in the outside part or not?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, I’ve confirmed that we do have availability in the outdoor area for your group on that date. So we can definitely reserve that space for you. If there's anything else you need, just let me know, and we’ll get everything arranged perfectly!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“No, I think that's it. Thank you for your collaboration and I want to know, I would like to confirm the details before finishing the call, if it's possible.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course, absolutely! So, to confirm: we have your reservation for ten people on November 6th at , and we’ll have a lovely red velvet birthday cake ready. Plus, you’ll have an outdoor seating area reserved. If there's anything else you'd like to double-check, just let me know, and I'll be happy to help!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“No, I think everything is correct. Again, thank you for your collaboration and thank you.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad we could get everything sorted out for you. If you need anything else at all, just let me know. Have a wonderful celebration, and take care!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Thank you, bye, have a good day.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You too! Take care, and have a great day! Bye for now!"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "student_id": 13,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S13_W3_T1",
+  "source_file": "data\\raw\\#13\\#13\\#13. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hey there! How can I help you today? Are you looking to practice a particular kind of conversation or scenario? Let me know!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes, I would like to practice a new scenario to improve my English.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Awesome! I'd be happy to help. Do you have a specific scenario in mind, like ordering food, visiting a doctor, or maybe something else? Just let me know what you're interested in."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Today, you will be my internet company, because I have some problems with my internet, so you will be my support staff to fix this.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Perfect! I can definitely do that. Alright, so I'll be your internet support representative. To get started, can you tell me what kind of issue you're experiencing with your internet connection?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Of course, there's no sign out in my apartment, could you help me?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that. Let's see. First, can you let me know if you've tried restarting your modem or router yet? That often helps."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“And not yet.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "No worries! That's a good first step. Whenever you're ready, go ahead and restart your modem or router, and then let me know once it's back on. We can check if the signal improves after that."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“OK, I will try.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sounds good! Take your time, and just let me know once it's restarted. If the issue persists, we can definitely troubleshoot further."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Done. I finished, but it's not working.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, got it. Thanks for trying that. Next, could you let me know if you're seeing any error lights on your modem or router? That might give us a clue as to what's going on."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“No, I can see that.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "No problem at all. In that case, let's try another step. Could you let me know if other devices in your apartment are also having the same issue, or is it just one device that’s not connecting?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“No, it's a general problem. All my devices have the same problem.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Got it, thanks for letting me know. That helps narrow it down. Next, let's check if there's any outage in your area. Could you share your zip code or your location so I can look that up for you?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yeah, it's 2020, the postal code.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect, thank you! I'll quickly check that for you. In the meantime, if you have any other details about the problem, feel free to let me know."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, I will wait for you.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "All right, I appreciate your patience! I'll just take a moment to look into that, and I'll let you know what I find out shortly. Thanks for hanging tight!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You're welcome! I’ll be right back with some information, and we’ll get this sorted out as quickly as possible."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Alright, I’ve checked the area, and it looks like there is a known outage affecting your neighborhood right now. The provider is working on it, and it should be resolved within a few hours. In the meantime, if there's anything else I can help with or any other questions you have, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“To be honest, I need the internet to be fixed really fast, so do you think there is any technician available today?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I completely understand! Let me check the availability of a technician for you. If there's a possibility for a same-day appointment, I’ll let you know right away. Just give me a moment!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Do you have someone available?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Yes, it looks like we do have a technician available later today. I can schedule an appointment for you, and they'll come by and take a look at the issue. Could you let me know what time works best for you, and we’ll get that arranged?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“As soon as possible.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, I'll prioritize that for you. I'll arrange for the technician to come as soon as possible, likely within the next few hours. I’ll confirm the exact time shortly, and I’ll keep you updated. If you have any other preferences or questions, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“I want to know if someone else is gonna call me or I don't have a requirement number or something to know in case that it's not coming early.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, I can arrange that. You’ll definitely receive a confirmation call or message from our support team, and we’ll also provide you with a reference number so you can track the appointment. I’ll make sure everything is set up, and you’ll be kept in the loop. If anything changes, we’ll notify you right away."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Oh, thank you. Perfect.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you have any more questions or need anything else in the meantime, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Yeah, actually I would like to know if the service isn't fixed by today. Do I get a refund or a credit?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, that's a great question. Typically, if the issue isn’t resolved within the promised timeframe, you’ll definitely receive either a refund or a credit on your account. Once the technician finishes the assessment, we can confirm the details and ensure you’re taken care of. If you need more specifics, I’m happy to go over them as well."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Great! If anything else"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "…comes up or you have more questions, just let me know. I’m here to help anytime. Otherwise, I’ll keep you posted on the technician’s arrival and any updates."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“I just want to have the reference number now because, just in case I need to call again, I can give this number.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Of course! I’ll make sure to provide you with a reference number right away. Once the appointment is confirmed, I’ll give you that number, and you can use it for any future inquiries. I’ll handle that right away!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Can you give me the reference number now?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely! I’ll generate that reference number for you right now and make sure you have it handy. Just give me one moment, and I’ll provide it right away."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Thank you for being ready.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Great! The reference number for your appointment is INT-2025-00123. You can use that whenever you need to follow up or check the status. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Yes, could you repeat the number?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Of course! The reference number is INT-2025-00123. Feel free to reference that whenever you need. Let me know if there's anything else I can do for you!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Okay, perfect, thank you very much.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If anything else comes up, just let me know. Otherwise, I hope everything gets resolved quickly, and you have a great day!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Bye! Take care, and feel free to reach out anytime. Have a wonderful day!"
+    }
+  ]
+}

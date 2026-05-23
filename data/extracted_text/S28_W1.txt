@@ -1,0 +1,301 @@
+Name: Jessie Wang 
+Task 1: Ordering Coffee at a Café
+You said:
+“Can we practice taking order for coffee?”
+00:04
+English Conversational Partner said:
+Of course! Let's do it. I’ll be the barista again, and you can be the customer. Whenever you're ready, just let me know what coffee you'd like to order, and we’ll go from there.
+You said:
+“Okay, today I, um, can I, could I get three of coffee? One cappuccino, flat white, and the other one is mocha.”
+00:11
+English Conversational Partner said:
+Absolutely! So, that’s one cappuccino, one flat white, and one mocha. Would you like them all in large sizes, or do you have any specific preferences for each?
+You said:
+“Oh yes, I want large for flat white and mocha, and a regular one for cappuccino. And also cappuccino can I change for the milk?”
+00:11
+English Conversational Partner said:
+Of course! So that means we’ll have a large flat white, a large mocha, and a regular cappuccino with oat milk. That sounds great! Anything else you'd like to add or any other preferences?
+You said:
+“Sorry, excuse me, the cappuccino will add the chocolate powder.”
+00:07
+English Conversational Partner said:
+No worries at all! So we’ll have the cappuccino with oat milk and a sprinkle of chocolate powder on top. That sounds delicious! Is there anything else I can do for you?
+You said:
+“Let's, oh, can I have it in?”
+00:02
+English Conversational Partner said:
+Absolutely! We’ll make it all for here then. I’ll get those ready for you to enjoy at the shop. Anything else you’d like to add or any other questions?
+You said:
+“Do you have a recommendation for mail?”
+00:04
+English Conversational Partner said:
+Absolutely! We have some delicious pastries and sandwiches that pair really well with coffee. For example, our almond croissant or a classic avocado toast is always a hit. Let me know if you’d like to try any of those!
+You said:
+“Do you have Australian Big Breakfast?”
+00:06
+English Conversational Partner said:
+Yes, definitely! We have a hearty breakfast platter that includes eggs, bacon, toast, and some fresh fruit. It’s a great way to start the day! Would you like to add that to your order as well?
+You said:
+“Yeah, but sorry, I'm vegan, so can I without bacon?”
+00:05
+English Conversational Partner said:
+Of course, no problem at all! We’ll make sure the breakfast platter is completely bacon-free and just as delicious. Anything else you'd like to customize or add to your order?
+You said:
+“And I also want the element custom to take away.”
+00:04
+English Conversational Partner said:
+Absolutely! We’ll add an almond croissant for takeaway as well. That’s a lovely addition. So, to recap, we’ve got the three coffees, the breakfast platter without bacon, and the almond croissant to go. Sounds perfect! Let me know if there's anything else.
+You said:
+“Can I have a shared plan for breakfast?”
+00:04
+English Conversational Partner said:
+Absolutely! We can definitely do a shared breakfast platter as well. I’ll make sure it’s portioned so that it’s perfect for sharing. Anything else you’d like to add or adjust?
+You said:
+“Oh, I'm so sorry, I already ordered the mocha, right? Can I change for chai latte?”
+00:09
+English Conversational Partner said:
+No problem at all! We’ll switch that mocha to a chai latte for you. That sounds lovely. Let me know if there’s anything else you’d like to adjust!
+You said:
+“Yeah, and I also my chart latte, can I change for the regular one?”
+00:05
+English Conversational Partner said:
+Of course! We’ll make that chai latte a regular size instead of large. That’s absolutely fine. If there’s anything else you need, just let me know!
+You said:
+“My breakfast, big breakfast, can I have a little scrambled egg?”
+00:06
+English Conversational Partner said:
+Absolutely! We’ll make sure the breakfast platter comes with scrambled eggs instead. That sounds delicious! If there’s anything else you’d like to tweak, just let me know.
+You said:
+“Okay, now I think we need a little tap of water. Thank you.”
+00:04
+English Conversational Partner said:
+You're very welcome! I’ll make sure to include a top of water as well. Everything sounds great. If you need anything else, just let me know!
+You said:
+“All good, thank you.”
+00:01
+English Conversational Partner said:
+You're very welcome! I'm glad we could sort everything out. If you need anything else in the future, just let me know. Enjoy your coffee and breakfast!
+You said:
+“Yeah, thank you.”
+00:01
+English Conversational Partner said:
+You're so welcome! Have a wonderful time, and feel free to reach out anytime. Take care!
+
+
+
+
+
+
+
+
+
+​​Task 2: Booking a Restaurant Table
+You said:
+“I'm trying to make a booking with at least one special, so like I'm going to booking for regular dinner. Hi, I would like to book a table for two tonight.”
+00:16
+English Conversational Partner said:
+That sounds perfect! Let’s go ahead and start with that. So, you’d like a table for two for tonight. Could you let me know what time you’d prefer and if there are any special requests or preferences?
+You said:
+“Do you have a table available at 7 p.m.?”
+00:04
+English Conversational Partner said:
+Yes, let me check that for you. A table for two at 7 p.m. should be available. Is there any particular seating preference, like indoor or outdoor, or any special occasion you’d like us to note?
+You said:
+“Can we sit near the door if possible?”
+00:03
+English Conversational Partner said:
+Absolutely, I’ll make a note to seat you near the door if possible. That sounds great! Is there anything else you’d like to add to your reservation?
+You said:
+“Yeah, I'm booking for my friend's birthday. Do you offer singing or decorations?”
+00:06
+English Conversational Partner said:
+Oh, that’s wonderful! Yes, we can definitely arrange for a little birthday celebration. We can provide a special decoration and maybe even a little birthday song. Just let us know any specific details or preferences, and we’ll make it extra special!
+You said:
+“and maybe I would bring our own cake, would it be okay?”
+00:06
+English Conversational Partner said:
+Absolutely, that’s totally fine! You’re more than welcome to bring your own cake. Just let us know in advance, and we’ll make sure we have everything set up for you. If there’s anything else you need, just let me know!
+You said:
+“Yes, and I also will bring a candle and I need to borrow the lighter from your restaurant.”
+00:08
+English Conversational Partner said:
+Of course, that sounds great! We’d be happy to help with a candle, and we can definitely provide a lighter for you as well. Just let us know when you arrive, and we’ll make sure everything’s ready. If there’s anything else, just let me know!
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Perfect! Everything sounds good,
+You said:
+“Sorry, I think I need to change the time. Can I make the booking for Friday at 7 and can I change it for late?”
+00:12
+English Conversational Partner said:
+No worries at all! We can definitely move the booking to Friday at 7 p.m. and adjust any other details you need. Just let me know if there’s anything else you’d like to change, and I’ll make sure it’s all set for you!
+You said:
+“Yes, and we would bring another people, so we will add another one.”
+00:06
+English Conversational Partner said:
+Got it! I’ll update the reservation to include one more person, so that’ll be three people in total. Everything’s noted, and we’ll make sure everything’s ready for Friday at 7 p.m. If there’s anything else you need, just let me know!
+You said:
+“Yes, and because of the other people, he is a child, would you over the child's chair?”
+00:09
+English Conversational Partner said:
+Of course! We can definitely provide a child’s chair for you. I’ll make a note of that as well. Everything is shaping up nicely! Just let me know if there are any other special requests, and we’ll take care of it.
+You said:
+“I also want to confirm the menu. Do you have a vegan or halal choice?”
+00:17
+English Conversational Partner said:
+Absolutely, we do offer both vegan and halal options on our menu. I can make sure to highlight those choices for you and your guests. If you have any specific dietary requests or preferences, just let me know, and we’ll make it all perfect for you!
+You said:
+“Yeah, and can I also check the menu is the online menu or can I see the whitelist?”
+00:08
+English Conversational Partner said:
+Absolutely! I can definitely provide you with a link to our online menu, and we can also share the wine list in advance. That way, you can take a look at everything and plan ahead. Just let me know if you’d like me to send that over, and I’ll get it done!
+You said:
+“Okay, and is there have any special, is there have any food use the mango or lychee inside? Because I'm allergic for that too.”
+00:14
+English Conversational Partner said:
+Of course, I’ll make sure to note that you have an allergy to mango and lychee. We’ll double-check the menu to ensure there are no ingredients that could cause any issues. And if you have any other dietary concerns, just let me know, and we’ll make sure everything is safe and delicious for you!
+You said:
+“Okay, and the final, can we confirm the end of our booking detail?”
+00:07
+English Conversational Partner said:
+Absolutely! So, to recap: we have a reservation for three people on Friday at 7 p.m., with a child’s chair provided. We’ll have vegan and halal options available, and we’ve noted your allergy to mango and lychee. You’re also welcome to bring your own cake and candle, and we’ll provide a lighter. Plus, we’ll make sure the seating is near the door if possible. Everything should be all set! If there’s
+You said:
+“Everything is perfect. Should I give you my name and my phone number?”
+00:05
+English Conversational Partner said:
+Yes, that would be perfect! If you could share your name and phone number, we’ll make sure everything is confirmed and easy to reach. Whenever you’re ready, just let me know!
+You said:
+“OK, my name is Jessie, J-E-S-S-I-E. And my phone number is 0430-486-333.”
+00:15
+English Conversational Partner said:
+Perfect, Jessie! I’ve got all the details noted down. Your reservation is all set, and we’ll be looking forward to welcoming you on Friday. If you need anything else before then, just let us know. Thanks so much!
+You said:
+“OK, can we double check about my phone number?”
+00:04
+English Conversational Partner said:
+Of course! Your phone number is 0430 486 303. I’ve got it noted correctly. If there’s anything else you’d like to confirm or update, just let me know!
+You said:
+“Oh sorry, my phone number, the last is 333, not 303.”
+00:07
+English Conversational Partner said:
+No worries at all! I’ve updated it to 0430 486 333. Everything is correct now. Thanks for clarifying! If there’s anything else you need, just let me know.
+You said:
+“Yeah, all good. Thank you, see you on Friday. Bye-bye.”
+00:03
+English Conversational Partner said:
+You’re very welcome! I’m looking forward to it. Have a great day, and we’ll see you on Friday. Bye for now!
+
+
+
+
+
+
+
+Task 3: Returning or Exchanging Clothes and Asking About Store Policies
+You said:
+“Hi, can we practice about the return an item at a grocery store? You are a store staff in Australia. Ask questions about my recipes, what I want to buy, and what I will return it.”
+00:21
+English Conversational Partner said:
+Absolutely, that sounds like a great scenario to practice! I'll be the store staff, and you can let me know what item you’d like to return and the reason for it. Whenever you're ready, we can jump right in!
+You said:
+“and the first is I'm going to the shop and I would say hi I bought this shirt last week but it doesn't fit it. Could I exchange it for a larger size?”
+00:18
+English Conversational Partner said:
+Of course! I’d respond with something like, “Sure, no problem at all. Let me take a look at the shirt and see if we have the larger size in stock. Do you have your receipt with you?” And then we’d go from there! Let me know if you want to continue or adjust anything.
+You said:
+“Yeah, sorry about that. This one is bought from my boyfriend and actually it is a gift and I don't have any receipts.”
+00:13
+English Conversational Partner said:
+No worries at all! I can definitely help you out. Even without the receipt, we can look up the purchase if you have any other details, like the payment method or the date of purchase. And if we can find it in our system, we can definitely do an exchange or store credit. Let me know if that works for you!
+You said:
+“Sorry, I cannot understand. Could you explain to me, please?”
+00:04
+English Conversational Partner said:
+Of course! No problem at all. What I was saying is that even if you don’t have the receipt, we can still try to help. If you have any other details, like how the item was paid for or when it was purchased, we can look it up in our system. And then we can still do an exchange or offer store credit. Let me know if that helps!
+You said:
+“Okay, let me check. My boyfriend would use the credit card to buy for it. And the time maybe is on last Friday.”
+00:19
+English Conversational Partner said:
+That’s perfect, that definitely helps! We can look up the transaction from last Friday using the credit card details. Once we confirm it, we’ll be able to do the exchange for the correct size. Just let us know if you have any other details, and we’ll get it sorted out for you!
+You said:
+“OK, and can I see the other color and the large size first?”
+00:07
+English Conversational Partner said:
+Absolutely, that sounds great! We can definitely check if we have the larger size in a different color as well. Let me take a look at what’s available, and we’ll find the perfect match for you. Just let me know if you have any preferences, and we’ll go from there!
+You said:
+“Excuse me, what is the return policies? Can I also exchange for the money, or I need to exchange for the items?”
+00:11
+English Conversational Partner said:
+Sure! Typically, our return policy allows for exchanges or store credit within a certain period, usually around 30 days, as long as the item is in its original condition. And yes, you can choose either an exchange for another item or receive store credit. If you prefer a refund to your original payment method, we can look into that as well. Let me know if you have any other questions!
+You said:
+“okay but the problem is my boyfriend use his credit card but i want to get the money so can i get the money or like the gift card something like that”
+00:16
+English Conversational Partner said:
+I completely understand! In that case, we can definitely provide store credit in the form of a gift card, so you can use it for future purchases. That way, you can still get value from the return, and you can pick out something else that you love. Just let us know what you prefer, and we’ll make it as smooth as possible!
+You said:
+“Okay, perfect. I totally understand. And let me, could you check the size for me? This t-shirt, the size is six, so maybe I need to get the eight or ten.”
+00:14
+English Conversational Partner said:
+Absolutely, I can do that for you! Let me check our inventory for sizes 8 and 10 in that shirt. Once we confirm what’s available, we’ll make sure we get the right size for you. I’ll let you know as soon as I have the details!
+You said:
+“and which color do you have this tissue.”
+00:05
+English Conversational Partner said:
+Great question! Let me quickly check our available colors for that shirt. Usually, we have it in a range of colors like navy, black, white, and maybe a couple of other options. I’ll confirm the exact colors we have in stock, and we can find the perfect one for you!
+You said:
+“Okay, and I see, I don't like those colors, and can I choose for return for the money?”
+00:17
+English Conversational Partner said:
+I totally understand! If the colors aren’t quite what you’re looking for, we can definitely look into issuing store credit or even a refund if it’s eligible. We’ll do our best to make sure you’re happy with the outcome. Just let us know what you prefer, and we’ll work it out for you!
+You said:
+“I forgot to tell you one thing. This T-shirt, I already washed it. So, will it be possible for return?”
+00:08
+English Conversational Partner said:
+I understand! Generally, if the item has been washed, it might limit the return options a bit. However, we can still check the store policy and see what can be done. In many cases, we can offer store credit or an exchange, and we’ll do our best to help you out. Let’s see what we can arrange!
+You said:
+“Okay.”
+00:01
+English Conversational Partner said:
+Absolutely! Just let me know if you have any other questions or if there’s anything else I can do to help. I’m here to make the process as smooth as possible for you!
+You said:
+“I'm sorry, could you say again, like I already watch this t-shirt, so can I return?”
+00:07
+English Conversational Partner said:
+Of course! I understand. Typically, if the t-shirt has been washed, it can limit the return options, but we’ll definitely check our store policy. Often, we can still offer you store credit or maybe an exchange for another item. We’ll do our best to help you out, so just let us know, and we’ll find a solution!
+You said:
+“Okay, perfect. So you can change it, right?”
+00:04
+English Conversational Partner said:
+Yes, absolutely! We’ll definitely do our best to help with an exchange or store credit, depending on what’s possible. Just let us know what you’d prefer, and we’ll make sure everything is sorted out for you. Feel free to reach out anytime!
+You said:
+Transcript Unavailable
+00:23
+English Conversational Partner said:
+Great choice! And yes, absolutely, you can typically return items bought online to the physical store as well. We can process the return and issue your gift card right here in the store. It’s pretty convenient, so no worries at all. If you have any other questions, I’m here to help!
+You said:
+“Yes, and also the Christmas and Black Friday is coming. So if I have the same problem, can I return the special item in this store or I need to do it online?”
+00:17
+English Conversational Partner said:
+Absolutely, that’s a great question! Usually, during busy seasons like Black Friday or Christmas, you can still return items purchased online at the physical store. We’ll make it as convenient as possible for you, and you can always choose whichever method works best. If you run into any issues, we’ll be here to help you out!
+You said:
+“OK, now I'm going to return this tissue. What kind of details should I give you?”
+00:06
+English Conversational Partner said:
+You can just bring along the t-shirt itself, and if you have any proof of purchase—like the order confirmation or the credit card used—that would be super helpful. But even if you don’t have those, we’ll still do our best to look it up in our system. Just let us know what you have, and we’ll take it from there!
+You said:
+“Okay, let me check. Okay, I don't have any credit card number from my boyfriend, and I think I will choose the gift card for return. And how can I use this gift card?”
+00:16
+English Conversational Partner said:
+No worries at all! Once we issue the gift card, you’ll get a card or a code that you can use either in-store or online. When you’re making a purchase, you can simply present the gift card or enter the code at checkout, and it’ll apply the balance to your order. It’s super flexible and easy to use, so you’ll be all set!
+You said:
+“Yeah, perfect. And is there a limit on gift card, like how long should I use it and when it will expire?”
+00:10
+English Conversational Partner said:
+That’s a great question! Usually, our gift cards don’t have an expiration date, so you can use them whenever you’d like. They’re pretty flexible and valid indefinitely. But if there’s ever any special condition, we’ll make sure to let you know when we issue it. Feel free to ask anytime if you have more questions!
+You said:
+“Yeah, I think it should be fine and thank you for your help. Good service!”
+00:05
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you have any more questions in the future, just let me know. Have a wonderful day, and take care!
+

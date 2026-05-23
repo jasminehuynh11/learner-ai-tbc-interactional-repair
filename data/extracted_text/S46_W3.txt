@@ -1,0 +1,304 @@
+Week 3 – TASK 1: 
+You said:
+“Hi there.”
+00:01
+English Conversational Partner said:
+Hello there! How's it going? What can I help you with today?
+You said:
+“So just going to write it in this scenario with you”
+00:06
+English Conversational Partner said:
+Absolutely! I'm here to help. Just let me know what kind of scenario you have in mind, and we can jump right into it.
+You said:
+“So I got the scenario is I am contacting with the internet company to report that the internet got the problem. So you will be the internet support staff and I will contact you to discuss about the problem, asking for assistance and check the issues when will be fixed. For example, I will start with a simple report and try to more detail interaction like asking trouble staff, technical availability and service timeline.”
+00:52
+English Conversational Partner said:
+That sounds great! I'll be your internet support representative, and we can walk through the troubleshooting steps together. Whenever you're ready, just let me know what the issue is, and we’ll get started!
+You said:
+“Cool, so let's get started. Hi, I'm calling to write a report about my internet.”
+00:13
+English Conversational Partner said:
+Of course! I’m here to help. Could you please let me know what exactly is going wrong with your internet connection? For example, are you experiencing slow speeds, intermittent outages, or something else?
+You said:
+“Actually, this is on this morning, it's by the internet, it works fine, but now I cannot connect with the Wi-Fi. It seems like it shows the signal, the Wi-Fi, right? But I cannot connect to the Wi-Fi.”
+00:20
+English Conversational Partner said:
+Got it, that definitely sounds frustrating. Alright, let me ask you: have you tried restarting your router or your device yet? And if not, would you be able to do that to see if it helps?
+You said:
+“Actually, I have tried to reset the router one time, and I tried to connect with the internet again, but it's still not working. Do you know what the issues might be?”
+00:17
+English Conversational Partner said:
+I see, thanks for letting me know. In that case, it might help to check if other devices can connect to the Wi-Fi. Also, do you notice any error messages or indicator lights on the router that might give us more clues?
+You said:
+“Actually, I have tried to different my device to connecting that, but it still cannot connecting. But I... Yeah... But like... Do you like... Like... Can you check if there is an outage in this area?”
+00:22
+English Conversational Partner said:
+Absolutely, I can check that for you. Let me quickly look up whether there's any outage reported in your area. In the meantime, could you let me know your address or the general location so I can get the right details?
+You said:
+“Yeah, so I live in this area, it's number 7 in Queen Street.”
+00:15
+English Conversational Partner said:
+Perfect, thank you for that info! I’ll check for any outages in that area right away. While I do that, is there anything else you’ve noticed, like if the router lights are flashing or if any other devices are working fine?
+You said:
+“who if there are no outage in my area, could you send someone to fix that?”
+00:14
+English Conversational Partner said:
+Absolutely, if there’s no outage, we can definitely arrange for a technician to come out and take a look. Once I confirm the details, we can set up an appointment at a convenient time for you. Let me just check on that, and I’ll let you know!
+You said:
+“Yes, so do I need to pay anything for my problem fixing fee or something like that?”
+00:09
+English Conversational Partner said:
+That’s a great question! Typically, if the issue is on our end, like an outage or something related to our equipment, there’s usually no charge. But if it turns out to be something within your equipment or wiring, there might be a service fee. We can definitely clarify all of that once we know the cause.
+You said:
+“And if the service isn't fixed by today, do I get a refund or credit?”
+00:09
+English Conversational Partner said:
+Absolutely, in most cases, if there’s an outage or a service issue on our end, we do provide a refund or a credit for the downtime. Once we confirm the details, we’ll make sure you’re compensated appropriately.
+You said:
+“Cool, so who can I contact if it isn't sold today?”
+00:06
+English Conversational Partner said:
+If the issue isn’t resolved today, you can definitely reach out to our customer support line again, and we’ll escalate it for you. We also have a dedicated technical support team that can follow up and arrange further assistance. We’ll make sure you’re taken care of, no worries at all.
+You said:
+“Cool, so can you give me a reference number for this request?”
+00:04
+English Conversational Partner said:
+Of course! I’ll go ahead and generate a reference number for you right now. Once I have it, I’ll share it with you so you can easily follow up on your request. Give me just a moment!
+You said:
+“So thank you, that's what I have for now.”
+00:02
+English Conversational Partner said:
+You’re very welcome! If you need anything else at all, just let me know. I’m here to help.
+
+
+
+
+
+
+TASK 2: 
+Top of Form
+Bottom of Form
+
+
+
+
+
+
+
+You said:
+“Hi there, I want to get a backdate with Phoenix scenario with you.”
+00:06
+English Conversational Partner said:
+Absolutely, I'd love to help with that! Let me know the scenario you're interested in, and we can jump right into it. Feel free to let me know what kind of role you'd like to practice or any specific context you have in mind.
+You said:
+“Yeah, cool, so...”
+00:01
+English Conversational Partner said:
+Great! Whenever you're ready,
+You said:
+“Just imagine I have lost my phone and I need to report it to the police station for the minor report.”
+00:13
+English Conversational Partner said:
+Got it! Let
+You said:
+“And you will be the police officer, so I will start with a simple report, and try more detailed interaction by asking about recovery steps, documentation, and how to follow up.”
+00:21
+English Conversational Partner said:
+Absolutely, that sounds great! I'll take on the role of the police officer, and you can go ahead and let me know what happened with your phone. Then we can go through the details step by step. Whenever you're ready, just start off, and we'll dive right in.
+You said:
+“Hi, I'm calling to report a minor thing. I just realized that I lost my phone.”
+00:14
+English Conversational Partner said:
+Of course, I’m here to help. I’m sorry to hear that you lost your phone. Could you let me know when and where you last saw it, and any details about the phone itself?
+You said:
+“Actually, the last time I was using my phone is when I was on the bus from my house to my school. And the last time was about one hour ago when I went back home and I just realized that I had lost my phone.”
+00:28
+English Conversational Partner said:
+I see, thank you for sharing that. That definitely helps. Could you also let me know the make and model of your phone, and if there were any distinctive features or cases on it?
+You said:
+“Yes, of course, so my phone is the Samsung phone. This is the S22 and it is black. I have a case, the phone case is also black as well and it got the card holder. I have put some ID, got some my driver's license in there as well and it got like very like very small scratch on the screen.”
+00:39
+English Conversational Partner said:
+Got it, that’s very helpful. Thank you for those details. Now, just to confirm, do you remember the exact bus route or the bus number that you were on? And also, did you happen to check if it might have been left behind at school or at home?
+You said:
+“Actually, the birth number, I'm not quite sure, but this birth was around like 3 p.m. They take from school to my home, and yeah, this birth got like so many people, and I'm not sure if someone got saw that and take that.”
+00:23
+English Conversational Partner said:
+I understand, that makes sense. We'll definitely keep that in mind. Now, just to wrap things up, could you share your contact information and any other details you think might help us in locating it?
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Alright, that sounds good.
+You said:
+“This is my phone number, this is my address, and got some question like do I need to show ID when connecting it?”
+00:18
+English Conversational Partner said:
+Perfect, that’s very helpful. Thank you for providing all that information. We’ll make sure to keep you updated on any developments. If you have any other questions or need further assistance, just let me know!
+You said:
+“Yeah, so, when I connect, if you found that, like, do I need to show your ID when connecting them?”
+00:12
+English Conversational Partner said:
+Absolutely, yes! Once we have any updates or if we locate your phone, we’ll definitely reach out and verify your ID and contact information. In the meantime, if anything else comes to mind, just let me know.
+You said:
+“or either a lost property website I can check.”
+00:05
+English Conversational Partner said:
+Yes, definitely! There are a few lost and found websites and apps that you can check, like local transit authority lost and found pages, or even community groups on social media. I can also provide some guidance on how to look them up if you'd like.
+You said:
+Transcript Unavailable
+00:13
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. Definitely reach out anytime if you have more questions, and I hope your phone turns up soon. Take care, and I’ll be here if you need anything else!
+You said:
+“See you.”
+00:00
+English Conversational Partner said:
+Alright, take care! If you need anything else, just let me know. Have a great day!
+
+
+
+
+
+
+
+
+
+TASK 4:
+Top of Form
+Bottom of Form
+
+
+
+You said:
+“In the end, I just want to practice any scenario with you.”
+00:04
+English Conversational Partner said:
+Of course! I'd be happy to help. Just let me know the scenario you have in mind, and we can jump right into it. What kind of roleplay would you like to try?
+You said:
+“So I will be seeking for the technical support for our device. So just imagine I'm the client and contacting our customer support for technical problem with my phone and you will be the the customer service assistant and I will try to practice speaking clearly and online using technology related vocabulary. Yeah, that's it.”
+00:37
+English Conversational Partner said:
+That sounds great! I'm ready whenever you are. So go ahead and let me know what issue you're facing with your phone, and I'll do my best to help you out as a technical support agent. Let's get started!
+You said:
+“Cool, so, bye, goodbye.”
+00:03
+English Conversational Partner said:
+Good morning! How can
+You said:
+“I'm calling to make a report about my phone.”
+00:04
+English Conversational Partner said:
+Of course, I'd be happy to help. Could you let me know what kind of issue you're experiencing with your phone?
+You said:
+“So, for today, we're gonna try to open up some of the apps, and it's like it cannot open that, and it crashes every time when you try to open that.”
+00:13
+English Conversational Partner said:
+I see, that sounds
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+No worries, I’ll do my best to help. Could you let me know which app or apps are having trouble, and also if there’s any error message that pops up?
+You said:
+“Actually, this is when I tried to open some Gmail app on YouTube. It said that it's not working.”
+00:09
+English Conversational Partner said:
+Got it, thanks for sharing that. Have you noticed if your phone’s software is up to date, or if there have been any recent updates before this issue started?
+You said:
+“I'm not really sure about the software update, but my phone is the Samsung Galaxy C22. It's about 1-2 years old.”
+00:12
+English Conversational Partner said:
+Alright, that helps.
+You said:
+“And I must go out. This is an update just with Soprano.”
+00:05
+English Conversational Partner said:
+That makes sense! In that case, we can definitely check for updates. Would you like me to guide you through how to do that, or would you like to try something else first?
+You said:
+“Yeah, right.”
+00:03
+English Conversational Partner said:
+Alright, perfect!
+You said:
+“So, how do I, like, do I need to reset the settings?”
+00:07
+English Conversational Partner said:
+We can definitely consider that if needed. But let’s first see if an update helps or if there are any simpler fixes. Once we try that, we can decide if a reset is necessary. Sound good?
+You said:
+“Okay, that's good. And what if, like, after I update it and it's still not working?”
+00:07
+English Conversational Partner said:
+If that happens, we
+You said:
+“Should I bring that into you?”
+00:03
+English Conversational Partner said:
+Yes, absolutely! If the issue persists, we can definitely take a closer look in person, and we’ll figure out the best solution from there. Sound good?
+You said:
+“Yeah, that's about it. Is this like cover under warranty or do I need to pay for repairs?”
+00:08
+English Conversational Partner said:
+Great question! It usually depends on the warranty status and the specific issue. Let me check a few details, and I’ll let you know whether it’s covered or not.
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Awesome! Just let me know if you have any other questions, and we’ll get everything sorted out step by step. I’m here to help!
+You said:
+“Yeah, so I just should try to update the software and it still got that problem.”
+00:10
+English Conversational Partner said:
+Exactly, that’s a great plan! And if it still doesn’t work after the update, just let me know, and we’ll explore the next steps together. Sounds good?
+You said:
+“Yeah, yeah, but I just try to update the software and it still have the problem to open the app and have a crash”
+00:11
+English Conversational Partner said:
+I’m sorry to hear that.
+You said:
+“Scars.”
+00:00
+English Conversational Partner said:
+No worries at all, we’ll figure it out together! Next, we can try some troubleshooting steps, like clearing the app cache or even reinstalling the apps. Let me know if you’d like to proceed with that!
+You said:
+“Actually, I have tried to delete and download the app again, and it still got that problem.”
+00:07
+English Conversational Partner said:
+Got it, that definitely
+You said:
+“Now what should I do next?”
+00:01
+English Conversational Partner said:
+In that case, we might want to check for any software conflicts or even run a diagnostic. If you'd like, we can also look into the device’s settings more deeply, or if needed, we can arrange a repair. Just let me know how you’d like to proceed!
+You said:
+“Cool, I think I should go to the replay to check it.”
+00:03
+English Conversational Partner said:
+That sounds like a good plan! If you need any assistance along the way, just let me know, and I’m here to help. Hopefully, we’ll get everything sorted out quickly!
+You said:
+“Yeah, so should I need to make a reservation to pay?”
+00:06
+English Conversational Partner said:
+Yes, it’s usually a good idea to schedule a reservation so we can ensure you get timely assistance. If you’d like, I can help you with that process as well! Just let me know what works best for you.
+You said:
+“Yeah, can I book for somewhere tomorrow?”
+00:05
+English Conversational Partner said:
+Absolutely! I can help you with that. Just let me know the time that works best for you tomorrow, and we’ll get everything arranged so it’s all set.
+You said:
+“Please shoot around 9am.”
+00:03
+English Conversational Partner said:
+That works perfectly! I’ll make sure to schedule it for 9 a.m. tomorrow. If you need anything else in the meantime, just let me know!
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Great! I'm glad we
+You said:
+“I thank you for the help, and we'll see you tomorrow.”
+00:03
+English Conversational Partner said:
+You’re very welcome! I’m happy to help. If anything else comes up, just reach out. Have a great day, and I’ll see you tomorrow!
+Top of Form
+Bottom of Form

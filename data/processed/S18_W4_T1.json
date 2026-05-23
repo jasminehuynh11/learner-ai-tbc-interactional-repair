@@ -1,0 +1,185 @@
+{
+  "student_id": 18,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S18_W4_T1",
+  "source_file": "data\\raw\\#18\\#18\\#18. Week 4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Hey there! How's it going? What's on your mind today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Yeah, I've worked part-time in retail, but I'd like to try something new.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Updated saved memory Got it! That sounds exciting. Do you have any specific fields or industries in mind that you're curious about, or are you still exploring options?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Maybe I'm still exploring. Could you help me understand my options?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! There are tons of possibilities depending on what you're interested in. For example, you could explore fields like customer service, marketing, administration, or even something creative like design or content creation. And if you're thinking about a career shift, we can definitely look into things like training programs or certifications as well. Let me know what you're leaning towards!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Okay, maybe I'm keen to studying overseas in the literature in the future. Could you tell me how to prepare now?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Updated saved memory That sounds like a fantastic plan! To prepare, you could start by researching universities and programs that specialize in literature. You could also consider improving your language skills if you're looking at non-English-speaking countries. Another great step is to get involved in literary communities, maybe join book clubs or write reviews. And of course, looking into scholarships and application requirements early on can be super helpful. Let me know if you want more specific info!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Okay, do you think I need more work experience before applying?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "It can definitely be helpful, especially if you're looking at more competitive programs. Having relevant experience, like internships, volunteer work, or even literary-related projects, can strengthen your application. But it also depends on the program and the university. Some places are more focused on academic achievements and writing samples. So it’s a mix, and we can definitely tailor it to your goals!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Okay, so how is the diploma different from the master's degree?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Great question! A diploma is usually a shorter program, often taking about one to two years, and it's more focused on practical skills and foundational knowledge. A master's degree, on the other hand, is typically more in-depth and research-oriented, often taking about one to two years as well, but with a heavier emphasis on advanced theory, research projects, and specialized topics. So it really depends on how deep you want to go and what your career goals are!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Okay, so I hadn't considered that before.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "No worries at all! It’s definitely something that’s worth thinking about, and it can shape your path in different ways. If you ever want to dive deeper into specific programs or have more questions as you go along, I'm here to help!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Okay then, what are some signs that a course or subject might not be the right fit for me?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s a great question! Some signs could include feeling consistently uninterested or unmotivated, struggling to engage with the material, or not seeing how it connects to your goals or interests. Another sign might be if you find yourself feeling overwhelmed or bored despite putting in effort. It can also show up if you don't feel supported by the teaching style or the course structure. Ultimately, it's all about how you feel and whether it aligns with what you enjoy and want to achieve."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely! And"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“So, what types of jobs are common for people in my degree?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That really depends on the specific focus of your degree and your interests, but in literature, some common career paths include publishing, writing, editing, content creation, teaching, and even roles in communications or public relations. You could also explore library science, archival work, or even roles in media and journalism. There are definitely a lot of possibilities depending on what you enjoy most!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Okay, maybe I'll consider to be a writer.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Updated saved memory That sounds awesome! Writing can open up so many doors, whether it’s fiction, non-fiction, copywriting, or even content strategy. And there are tons of resources and communities to help you along the way. If you ever need tips or guidance, I’m here to help!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“How do I explore different careers if I'm not sure what I want to do?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "That's a really common situation, and there are a few great ways to explore! You could start with informational interviews, where you chat with professionals in different fields to learn about their day-to-day work. You can also try out internships or volunteer opportunities to get a hands-on feel. Another approach is taking career assessment tests or exploring workshops and seminars. And of course, trying out different hobbies or side projects can help you discover what you love!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“What should I do now if I want to apply for internships next year?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Updated saved memory Awesome! To get started, you can begin by identifying the fields or companies you're interested in. It’s helpful to polish up your resume and tailor it to the roles you’re aiming for. Networking is also key, so consider attending industry events, joining professional groups, and connecting with people on LinkedIn. Also, start looking at internship postings early and keep track of deadlines. And if you can, consider gaining some relevant skills or taking short courses to boost your profile!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Okay, who else can I talk to for career or study advice at the university?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "There are definitely a few great resources! You can reach out to academic advisors or career counselors at your university. They can help you navigate different pathways and connect you with internships and job opportunities. You can also talk to professors and lecturers in your field—they often have valuable insights and connections. And don’t forget about student organizations or clubs related to your interests—they can be great support networks as well!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "If you need any help"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "…or have any more questions as you go along, just let me know! I'm always here to help you figure things out and support you on your journey."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yeah, okay, I think that's all the questions. Thanks for answering all the questions.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You're very welcome! I"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Have a good day.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You too! Have a great one, and feel free to reach out anytime. Take care!"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "student_id": 8,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S8_W3_T3",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "My car was broken"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Oh, I see. So now there's also an issue with your car being broken. Let's tackle that too. Could you tell me a bit about what's going on with your car exactly?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Probably, as you know, this car, which I rent from you, your company.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Ah, got it! So this is a rental car from my \"company.\" No problem at all—let’s sort that out. First, can you tell me what kind of issue you’re having with the car, like is it not starting or something else?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Probably my car was not working because the tire is not in good condition.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "All right, that makes sense. So it sounds like the tire might be in bad condition and that’s probably why the car isn’t working properly. Let’s do this: if you can, let the rental company know about the tire issue and they’ll help you get it sorted out. Just let me know if you need any more help!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, please. I would like to change my car tires.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure! Absolutely, you can let them know you’d like to get those tires changed. Just reach out to the rental company, and they’ll sort that out for you. And if there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Can someone come today?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! We can arrange for someone to come out today and help you with that tire. Just let them know your location, and they’ll send someone over. So just give them your address or where you’re parked, and they’ll take care of it."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yes, that's right, my location is ABC Park.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Perfect, got it! Just let them know you're at ABC Park, and they should be able to send someone over to help you out today. So you should be all set. Let me know if there’s anything else you need!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“But, in two hours, I ought to go to a party to talk to my friends.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure, understood! So you've got to get to the airport in about two hours. Let them know your timing, and they’ll try to speed things up for you so you can make it on time. And if you need anything else, just let me know!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Can you come here until 3 p.m.?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely! I'll let them know you need someone there by 3 p.m. so you can catch your flight. They’ll do their best to get to you in time. And if you need anything else, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Wow, you are kind. Also, I'm concerned about our project. So how much is that to repair my car?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Of course! Happy to help. So about the budget, you can just ask the rental company for a quick estimate on the tire repair and they’ll let you know the cost. That way you can plan ahead and there won't be any surprises. Let me know if you need anything else!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, my budget is only 300, so if over 300, it's out of budget.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "All right, that’s totally understandable. Just let them know you need to keep it under 300, and they’ll work with you on that. Hopefully, it’ll be a quick fix and stay within your budget. Let me know how it goes!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Also, I want to know why my car was broken.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure, that’s a good question. They can definitely check out what caused the tire issue once they take a look. Just ask them to let you know what they find, and they’ll give you a reason so you know what happened. Let me know if you need anything else!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Is this my responsibility or your company's responsibility?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a fair thing to ask. So usually, the rental company will figure out if it’s something that’s just normal wear and tear or if it’s something else. They’ll let you know whose responsibility it is once they check it out. So just ask them, and they’ll clarify for you."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“okay thank you see you soon”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You're very welcome! See you soon and take care."
+    }
+  ]
+}

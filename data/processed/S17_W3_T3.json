@@ -1,0 +1,125 @@
+{
+  "student_id": 17,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S17_W3_T3",
+  "source_file": "data\\raw\\#17\\#17\\#17. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "This is your property manager - what seems to be broken in your unit today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "My fridge is making a loud noise and not cooling"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, so the fridge is noisy and not cooling. How long has it been doing that?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "About a week"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, about a week. Has anything changed with it recently — like the light turning off or the freezer warming up too?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Sometimes the light turns off and freezer warms up"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, that helps — the light cutting out and freezer warming up are good signs it's failing. Could I get your addres- co I can log the repair properly"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Yes 345 Miller street"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, thanks for that - 345 Miller Street. Could you tell me your unit number as well so I can send the technician to the right place?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "House1,room5"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, House 1, Room 5 - got it. When are you available for a technician to come and check the fridge?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "1pm on Saturday is the best"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, 1 pm on Saturday works. Will someone be home at that time to let the technician in?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "I'll be home and let them in"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Alright, good to know you'll be there. Before I book it in, could I get yr - contact number in case the technician ne to call you on arrival?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes, 123456"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, thanks, I've got your number noted. Just so I can mark the urgency, is the fridge completely not cooling now, or is it still a little bit cold inside?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "It's still a little bit cold inside"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, a little cold but not holding properly thanks. Would you like me to go ahead and confirm the Saturday 1 pm technician for you?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Yes please"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright, the Saturday 1 pm technician is now confirmed for your fridge repair. Is there anything else I can help you with today?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Nothing thank you"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Alright, thanks — just give us a call if anything else comes up. Have a good day."
+    }
+  ]
+}

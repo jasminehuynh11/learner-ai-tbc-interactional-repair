@@ -1,0 +1,138 @@
+Task 1: 
+
+You said:
+“Hi, how's it going?”
+00:01
+ChatGPT said:
+Hey there! I'm doing great, thanks for asking. How about you? How's your day going?
+You said:
+“I'm good, I'm good. And you?”
+00:01
+ChatGPT said:
+Glad to hear it! If there's anything specific on your mind or anything I can help with, just let me know!
+You said:
+“So, I would like to make an appointment to see a doctor.”
+00:03
+ChatGPT said:
+Of course! I can definitely help with that. Do you have a specific date and time in mind, or do you need some suggestions on availability?
+You said:
+Transcript Unavailable
+00:01
+ChatGPT said:
+Sounds good! Just let me know which day works best for you, and I can help check some options or guide you through the booking process!
+You said:
+“So, can I book a general check-up?”
+00:04
+ChatGPT said:
+Absolutely! I can help with that. Just let me know the preferred date, and if you have any particular doctor or clinic in mind, and I'll get things started!
+You said:
+“So, for me, it's better in the next week, yeah.”
+00:03
+ChatGPT said:
+Updated saved memory
+Got it! I’ll keep that in mind. If you have any specific day or time next week that works best for you, just let me know, and I'll help you find an available slot!
+You said:
+“Yeah, Tuesday, please.”
+00:01
+ChatGPT said:
+Updated saved memory
+Perfect! I'll keep Tuesday next week in mind. If you have a preferred time on Tuesday, or if you want me to look up some availability for you, just let me know!
+You said:
+“So, yes, I have it. 2 p.m., please.”
+00:03
+ChatGPT said:
+Updated saved memory
+Got it! Tuesday next week at 2 PM. I’ll keep that in mind. If you need any more details or want me to check specific clinics, just let me know!
+You said:
+“No, no, the general doctor.”
+00:02
+ChatGPT said:
+Alright, that sounds good! I'll make sure it's a general doctor appointment. If there's anything else you need, just give me a shout, and I'll help you out!
+You said:
+“No, no, I think he's dead.”
+00:01
+ChatGPT said:
+Sounds great! If anything else comes up, just let me know. I’m here to help. Otherwise, I hope the appointment goes smoothly!
+You said:
+“Oh, okay, okay, of course. Thank you.”
+00:02
+ChatGPT said:
+You're very welcome! Anytime. Just reach out if you need anything else. Have a great one!
+You said:
+“Thank you, YouTube.”
+00:01
+ChatGPT said:
+You're welcome! Take care, and have a wonderful day!
+
+Task 2:
+You said:
+“Hi, I'm good, and you?”
+00:01
+ChatGPT said:
+I'm doing great, thanks for asking! How's your day been so far?
+You said:
+“So I would like to open a new saving account, please.”
+00:04
+ChatGPT said:
+Absolutely, I can help with that! Are you looking for any specific features or a particular bank, or do you just want some general guidance on how to get started?
+You said:
+“No, no, the general.”
+00:01
+ChatGPT said:
+Got it, no worries! In that case, if you let me know what you're looking for, like interest rates or account features, I can definitely point you in the right direction. Just let me know what you need!
+You said:
+“So I need to save money and run an account.”
+00:04
+ChatGPT said:
+Absolutely, that makes sense! If you're looking for something straightforward, we can look into high-yield savings accounts or ones with low fees. Let me know if you have any preferences, and I can definitely help you find the best option!
+You said:
+“I'm sorry, I came again more slow, please.”
+00:02
+ChatGPT said:
+No worries at all! What I was saying is that if you’re looking for a simple savings account, we can explore options like high-yield accounts or ones with minimal fees. Just let me know what you prefer, and I’ll help you find the best fit!
+You said:
+“So, I don't know. I... I... I just... I just...”
+00:04
+ChatGPT said:
+That's totally fine!
+You said:
+“I need to save an account.”
+00:02
+ChatGPT said:
+Got it, you just need a savings account, no worries at all. We can definitely explore some options and find one that suits you best. Just let me know if you have any particular preferences or questions, and I'm here to help!
+You said:
+“So, can I set up online banking at the same time?”
+00:04
+ChatGPT said:
+Absolutely, yes! Most banks let you set up online banking right when you open the account, so you can manage everything digitally from the start. Once you open your account, they'll usually give you access to an online portal or a mobile app. If you need any help with that process, just let me know!
+You said:
+“Okay, do I need to IG for this?”
+00:04
+ChatGPT said:
+Yes, typically you will need some form of identification, like your ID or passport, to open a savings account. Banks usually require that for verification purposes. If you have any questions about the documents needed, I’m happy to help!
+You said:
+Transcript Unavailable
+00:00
+ChatGPT said:
+Perfect! If you need any more details or have any other questions as you go through the process, just let me know. I’m here to help!
+You said:
+“What files do I need?”
+00:02
+ChatGPT said:
+Usually, you'll need a government-issued ID, like a driver's license or passport. You might also need proof of address, such as a utility bill or a bank statement. And sometimes, they might ask for your Social Security number or Tax ID, depending on your country. If you let me know where you're located, I can give you more specific details!
+You said:
+“I gotcha, I gotcha. Thank you so much.”
+00:02
+ChatGPT said:
+You're very welcome! If anything else comes up, just let me know. I'm happy to help anytime!
+You said:
+“Thank you. Have a good day.”
+00:01
+ChatGPT said:
+You're welcome! Have a great day, and feel free to reach out anytime. Take care!
+You said:
+Transcript Unavailable
+00:00
+ChatGPT said:
+Thanks a lot! Talk to you soon! Bye for now!
+

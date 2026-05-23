@@ -1,0 +1,115 @@
+{
+  "student_id": 2,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S2_W3_T2",
+  "source_file": "data\\raw\\#2\\#2\\#2. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Lost of Wallet"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, Officers.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hello! How can I"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Good afternoon. I think I lost my wallet at the train station.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I'm sorry to hear that! Can you tell me which station and roughly what time you think you lost it?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I think I lost the wallet light at 3 p.m. yesterday.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Thank you for that. We’ll note Parramatta Station at around 3 p.m. yesterday. Could you describe the wallet for me—its color, any unique features, and what items were inside?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, the world color is black and his parents is from the”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, a black wallet with some wear and tear. What kind of items were inside—like cards, ID, or anything important we should know about?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Oh, yes. My student ID, my driver's license, and 1,000 cars. Yes.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Thank you for that"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Thanks for letting me know. We’ll file this report and check if anything matching that description has been turned in. Next step, we’ll contact you if we find anything. Could I get your contact number or email so we can reach you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, my contact number is XXXXXX, and my email address is leandor, L-E-E-A-N-D-O-R, at gmail.com.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Perfect, we have your contact details. We’ll keep an eye out and let you know if your wallet is found. In the meantime, you might want to notify your bank and any relevant institutions about the lost cards. Is there anything else I can assist you with today?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“I just remember something that my wallet had a tiny logo with L-I-V-E-I, and it comes from the Chinese Pradas. And I remember that the tie in the 3 p.m. Palo Alto season, I remember I'm sitting on the on the chair because it's the last time I remember that I used the wallet. And then in the next morning that I can find my wallet in my bed. So I just think I might have pictures in my wallet. And the pictures is me and my boyfriends. And this is all I know the details about my lost wallet.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Thank you for all those details, that’s really helpful. We’ll note that it’s a black wallet with a \"LIVEI\" logo, from a Chinese brand, and it had pictures of you and your boyfriend. We’ll keep that in mind while we search. If anything comes up, we’ll reach out to you right away. I hope we can find it for you soon!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Thank you, thank you.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "You're very welcome! If you need any more help, just let me know. Have a great day, and fingers crossed that we find it!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“YouTube.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Thanks! Take care,"
+    }
+  ]
+}

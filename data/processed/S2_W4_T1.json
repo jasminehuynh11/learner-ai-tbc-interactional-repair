@@ -1,0 +1,165 @@
+{
+  "student_id": 2,
+  "week": 4,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S2_W4_T1",
+  "source_file": "data\\raw\\#2\\#2\\#2. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1 Career discussion"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, Professor Tonic. Did you have a moment? I need to talk to you.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course, absolutely."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“about my career.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, take your time. I'm here to help, so feel free to tell me all about your career situation and we’ll chat it through."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Like, now I'm 34 years old, the class, the old one in my class, a student, and I just worry about that I can't find a job from Australia because what I'm studying is management of business. I just worry about that I can't find a good job in Australia.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I understand. Well, first of all, it's absolutely okay to have those worries, especially when you're balancing studies a bit later than some of your classmates. So, let’s take it step by step. We can definitely talk through how you can use your business management studies and what kind of career paths you might have in Australia. And we’ll figure out some practical next steps for you, all right?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I could understand what did you say, could you just slowly and get a simple explain that, please?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, I’m happy to slow it down and keep it simple. So, in short: it’s completely normal to feel that way. We can talk together about how your business management studies can help you find a good job here. We’ll figure out some next steps together."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Okay, recently I had a job, it's a local company and they're searching one guy who can join the frock league but I didn't get a license so they might think about changing me, buy me or something, but recently the management just talked to me that I got the management position of the business MBA with me and I'm a little bit confused about that.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Sure, I understand. Let’s break it down simply. So, you had a local company that was interested in you, and they wanted someone who could maybe drive as part of the job. And you were worried because you don't have a license, so you were thinking, \"Oh, maybe they'll replace me or something.\" But now it sounds like management is actually talking to you about your business management degree or your MBA and what that means. So we can talk about how that fits in and what steps you can take next."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I just want to note, because I didn't answer my management, so I need to be honest to my management, because I didn't get the proper licenses, but if I didn't get the management of business, the master, I'm afraid they might fire me, so I should be honest to my management. That's what I want to ask.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, I understand. So yes, being honest with your management is a good idea. You can definitely let them know that you don't have a driver's license right now, but also highlight that you do have your business management degree and that you're eager to contribute in that area. So just being open and honest can actually help them see where you fit best, and it can help you feel a lot more comfortable."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, thank you. Thank you for your advice. But right now, because I have the school holidays, like Friday is the ERP. But I want to know that, should I just still studying at uni? Because in my age, I'm over 13.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, I hear"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“conversion, lots of things.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, and that's completely understandable. So to put it simply: yes, it’s absolutely okay to still be studying at university at your age. There’s no age limit on learning, and a lot of people go back to study at different stages in life. So during your school holidays, if you want to use that time to study a bit more or just to relax, that’s completely fine. Just go at your own pace and know that it's perfectly normal."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“But I didn't tell you all the whole things that I didn't get passed in the first final test. The teachers just told me about that if next time I didn't get the whole pass, I might need to recite the whole star in the A2D, I think.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I see, that makes sense. So, first of all, thanks for sharing that. It's definitely important to know the full picture. And it's okay if you didn't pass that first final test. A lot of people have to try again. So, if that happens and you do need to re-sit or restart a portion, that's okay. We can talk about how to prepare for that and just take it one step at a time. You’re definitely not alone in that."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Thank you for your advice. Yes, I think I do need to start harder, but I do take a lot of time for the starting, so I still can get a good mark. So that's kind of made me mad, I think.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, and it’s completely understandable to feel a little frustrated. You’re putting in a lot of time and effort, and it’s okay to feel that way. The important thing is just to take it step by step, and we can definitely find ways to help you study a bit more effectively or manage your time so that you feel more confident. But don’t worry, it’s totally normal, and you’re doing just fine."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Thank you, you're so kind.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "You're absolutely welcome!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "And if you ever need more advice or just want to chat things through, I’m always here to help."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Professor, what should I do to the next step? I need your advice about that. Thank you.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course, I'm happy to help you figure out your next steps. So from here, I’d say let’s focus on two things. First, you can make a simple plan for how you’ll prepare for that next test—just a bit of a study routine that’s manageable for you. And second, have an honest conversation with your management about what you can bring to the role with your business degree. Just these small steps will help you move forward."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Thank you, thank you BitHouse.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help out, and just remember to take it one step at a time. You've got this!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Thank you for your advice.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You're absolutely welcome! It was my pleasure to help, and take care. See you next time! Top of Form Bottom of Form"
+    }
+  ]
+}

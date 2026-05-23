@@ -1,0 +1,280 @@
+{
+  "student_id": 23,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S23_W2_T3",
+  "source_file": "data\\raw\\#23\\#23\\#23. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, how are you?"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "I'm doing great, thanks for asking! How about you? How can I help you today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I want to practice visiting a real estate agency to ask about a rental property. You are a real estate agent. I will play the role of the person who wants to attend an inspection. Please create a realistic scenario and response as if we were really there. Please start with a simple and detailed interaction by asking about application process or follow-up agent submitting your document."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a fun scenario! Alright, let’s jump in. Real Estate Agent: Hi there! Welcome to our agency. How can I assist you today? Are you interested in any particular rental property?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Uh, hi, I'm interested in two-bathroom unit on Main Street."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Great choice! That unit is quite popular. Could you let me know what your preferred move-in date is and if you have any specific requirements for the apartment?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "There are pets allowed."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Yes, absolutely! This particular unit does allow pets. Are you planning to bring a cat, a dog, or another type of pet?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I have two cats and one dog."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it, that’s helpful to know! We definitely can accommodate that. Now, do you have a particular budget range in mind for the monthly rent?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "I'm looking for a unit for $2,000."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Perfect, that gives us a good range to work with. And just to confirm, are you planning to apply right away, or would you like to schedule a viewing first?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I want to apply right away, please."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Awesome! In that case, I'll just need a few details from you, like your full name, contact information, and some proof of income. Could you share those with me?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Oh, yeah, sure. And should I make some documents for you?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Yes, that would be great! Typically, we’d need things like your ID, recent pay stubs, and maybe a reference from a previous landlord. Once you have those ready, we can get the application process started. Let me know if you have any questions!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Um, actually, this is my first time to looking for the renting apartment in here. So, I don't have any previous landload. Then, how can I get that?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "No worries at all! In that case, we can definitely look at other forms of reference, like your current employment verification, or even a personal reference. We can work together to find a solution that works for you. Let me know if you need any guidance on that!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "So, are there any inspection time this weekend?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely! We do have a few slots available this weekend. Would you prefer a morning or an afternoon time for the inspection?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "morning is fine."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Perfect, a Saturday morning it is! I’ll go ahead and schedule that for you. Is there a best contact number I can use to confirm the appointment?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Contact number is 0457-393-579."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Great, got it noted down! I’ll send you a confirmation message, and we’ll see you this weekend. If you have any other questions in the meantime, just let me know!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "How much is the bond?"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "The bond for this unit is typically equivalent to one month’s rent, so it would be $2,000. If you have any more questions about that or anything else, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Is the property furnished or unfurnished?"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "It’s actually unfurnished, so you’ll have the flexibility to decorate and furnish it however you like. If you have any other specific questions about the property, feel free to ask!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "I'm also interested in another unit. Could I apply for both?"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, you can apply for multiple units if you'd like. Just let me know the details of the other unit you're interested in, and we can work through that application as well."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Are there any furnished properties available around the same price?"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Yes, we do have a few furnished properties in that price range as well. I can definitely provide you with some details and options. Would you like me to send you information on those as well?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Is it okay to email about my document?"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, that works perfectly! You can email your documents over to me, and I'll make sure everything’s in order. If you need any help with the process, just let me know!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Sorry, can you repeat what kind of document should I send you?"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Of course! Typically, we’d need a copy of your ID, your recent pay stubs or proof of income, and any personal references you might have. And if you have any questions about what’s needed, just let me know!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "Okay, then when does the list start if I'm approved?"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Usually, once the application is approved, we can have the lease start as soon as the following month, or even sooner if needed. We can definitely coordinate the exact move-in date once everything is finalized."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Do I pay the bond before signing the lease?"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Yes, typically the bond is paid before signing the lease, so that everything is secured. Once the bond is settled, we can finalize the lease agreement and confirm your move-in date. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "Oh, and will I receive a written tenancy agreement before payment?"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely! We’ll provide you with a written tenancy agreement to review before you make any payment, so you’ll have all the details clear and can feel confident moving forward. If you need any clarification at any point, just let me know!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Thank you for today."
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "You're very welcome! It was my pleasure to help. If you have any more questions in the future, just reach out. Have a great day!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "okay see you."
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely, take care, and I’m here whenever you need me. Talk to you soon!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "How was this conversation? Do I make any mistake?"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "You did really well! Your questions were clear, and your responses were natural. The flow was great, and you only had a couple of minor things, but overall, you did fantastic. If you’d like any specific feedback or want to practice more, just let me know!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "Oh yeah, I need any specific feedback from you."
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Of course! Overall, you communicated really clearly. One small area to keep in mind is just making sure to specify details, like your preferences, a bit more clearly at times. But honestly, you did great, and your confidence really came through. Keep practicing, and you’ll be even more comfortable in no time!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "Okay, thank you so much for today."
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "You're very welcome! It was my pleasure. If you ever need more practice or have any questions in the future, just let me know. Have a wonderful day!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "See you!"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "See you! Take care and have a great one!"
+    }
+  ]
+}

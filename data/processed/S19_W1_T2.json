@@ -1,0 +1,325 @@
+{
+  "student_id": 19,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S19_W1_T2",
+  "source_file": "data\\raw\\#19\\#19\\#19. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a Restaurant Table"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "You want to book a table at a restaurant. Practise using polite and clear language to make a reservation and ask follow-up questions. You will need to define the chatbot’s role as a restaurant staff member. You can choose situations from the examples below; start with a simple booking and try a more detailed interaction by asking about dietary needs, group bookings, or restaurant policies"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, sounds like you want to practise a bit — thanks for explaining. Since you’re booking for tonight, what name should I put the reservation under?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“저는 오늘 저녁에 테이블을 구입하고 싶습니다.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! And under what name should I make that reservation? Also, do you have any special dietary needs we should know about? Let me know."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“My name is Hu, and my friend is vegan, and one of my other friends cannot eat gluten-based food.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, Mr. H.U., got it. We’ll note down one vegan guest and one needing gluten-free options. Now, is there any particular seating preference you’d like, maybe something quiet or by the window? Let me know what you prefer."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“아웃돌 시팅을 요청할 수 있나요?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure! We can definitely arrange an outdoor table for you. Now, just to confirm, what time would you like to come in tonight? Let me know the time and we’ll set it up."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“It's possible.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, it’s possible. We’ll set that up for you. So just let me know the time you’d like to arrive, and we’ll have everything ready. What time works best for you tonight?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Uh, we'll be there at 7 p.m.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Perfect, seven p.m. it is. We'll have your outdoor table ready. If you have any other questions, just let me know. Anything else you’re curious about before tonight?ော်"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Actually, I'm booking for my friend's birthday. Do you offer any singing or decorations?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely! We can definitely do something special like a birthday song or add a few decorations. Just let me know what kind of little celebration touches you'd like, and we'll make it happen."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Also, can you bring our own cake?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Sure! You can definitely"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Thank you for the celebration.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, you can bring your own cake for the celebration. We’ll just store it for you until it’s time to bring it out. Anything else you’d like us to arrange for the party?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Also, can you put a candle on the dessert?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course, we can absolutely add a candle on the dessert for the birthday person. We’ll make it nice and special. Anything else you’d like to add for the celebration?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Also, next week, we are celebrating our graduation. Is there anything special you can arrange?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that as well. For a graduation, we can arrange some special decorations or even a little toast if you'd like. Just let me know what you have in mind."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Plus, next month, there is my parents' wedding anniversary. Do you have a quieter or more romantic table?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Sure thing! We can definitely set you up with a quieter, more romantic table for the anniversary. Just let us know the date, and we’ll make sure it’s all set. Anything else you’d like us to arrange for that occasion?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Actually, can I change this booking time into 8?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, we can move it to eight. I'll update that for you right away. If there's anything else you need, just let me know."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Can I add another person to the booking?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Sure, we can do that. We'll update it to a table for three people now. Just let me know if there's anything else you need!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“So will I get a confirmation message later?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely, I'll send you a confirmation message shortly so you'll have all the details. Anything else I can help you with right now?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Do you have any vegetarian or halal options?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Absolutely, we do have both vegetarian and halal options available. Just let us know what you need and we’ll make sure to accommodate that. Anything specific you’d like to request on that front?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Also, can I check your menu online?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Of course! You can definitely check out our menu online. I'll send you a link along with your confirmation. Anything else you need for now?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Do you cater for food allergies?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, we do cater for food allergies. Just let us know what specific allergies we should be aware of, and we'll make sure everything is safe. Anything in particular we should note?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Can I see the whitelist in advance?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure! I'll include a link to our wine list as well when I send over the confirmation. That way you can take a look in advance. Anything else you'd like to know?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“So could you confirm the time and name for me?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely! So I've got you down for 8 p.m. under the name H.U., with all those special requests noted. If everything looks good to you, just let me know!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Thanks very much. Looking forward to it.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "You're very welcome! We'll have everything ready for you and we look forward to seeing you tonight. Have a great day!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Not a problem at all! Kids are absolutely welcome at our outdoor seating. We'll make sure everything's comfortable for them. Anything else I can do for you?"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Is there any flexibility if we arrive 15 minutes late?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Absolutely, we do have a bit of flexibility, so arriving 15 minutes late won't be a problem. We’ll keep your table ready. Anything else on your mind?"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Would you be able to hold the booking if we are late?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Sure! We can definitely hold the booking for a little while if you're running late, so no worries at all. Just let us know if anything changes."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Oh, I didn't realize the kitchen closed early. Could we still order dessert if we arrive at 8?”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Absolutely, that’s no problem. Arriving at eight is still fine, and you'll definitely be able to order dessert. Anything else you’re curious about?"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“That's okay if the private room isn't available, is there another QuadSpot you'd recommend?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Absolutely, if the private room isn't available, we do have some other quiet spots we can recommend for you. We'll make sure you have a nice comfortable table. Anything else you’d like to know?"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“So if you can't confirm the same menu now, would someone be able to call me later today?”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Sure thing! We can definitely have someone give you a call later today to confirm the set menu and any other details. Just let us know the best time to reach you."
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely discuss those options in advance to make sure everything is suitable. We'll go over all the details when we give you that call. Anything else you'd like to add?"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Will it be possible to separate the bill for each guest at the end?”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Absolutely, we can handle separate bills for each guest at the end, no problem at all. Just let us know and we'll take care of it. Anything else on your mind?"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“We'd like to bring a small gift for someone. Are there any policies we should know about?”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Sure! That's absolutely fine, and there aren't really any special policies. You're welcome to bring a small gift along. If you need us to help present it, just let us know. Anything else you’d like to ask?"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“Now all good things.”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Great! I'm glad we've got everything sorted out for you. Thanks for all the details, and we look forward to seeing you tonight. Have a wonderful day!"
+    }
+  ]
+}

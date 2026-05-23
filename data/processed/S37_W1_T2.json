@@ -1,0 +1,145 @@
+{
+  "student_id": 37,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S37_W1_T2",
+  "source_file": "data\\raw\\#37\\#37\\#37. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a table at a restaurant ️ “Hi, I’d like to book a table for two tonight.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright! What time would you like the table for tonight?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Great, thanks. And under what name should I put the reservation?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Vitória, please"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, Vitória. And could I have a phone number to attach to the reservation?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Number 3"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, so the number you gave is just “3” — could you give me the full phone number we should contact you on?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "This is my Numbers"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure, I see — but I’ll need the complete phone number so we can confirm the booking if needed. What’s the full number, please?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Lemes"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, you said “Lemes,” but I still don’t have the actual phone number. Could you give me the full number we should call if anything changes?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "435465789 English Conversational Partner disse: Great, thanks. And do you have any seating preference for tonight — like indoors or outdoors?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Outdoor"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect. And is this booking for any special occasion tonight, or just a regular dinner?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yes, loves’day"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Lovely, thanks for letting me know. Do you have any special requests for the evening, like allergies, decorations, or anything you’d like prepared?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Yes, please I would like decorations"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure, we can arrange that. What kind of decorations would you like for the table?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Yes in the table"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, on the table — what style would you like? For example, flowers, candles, or something romantic?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Flowers, heart"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, flowers in a heart shape — that’s sweet. What color flowers would you like for the decoration?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "No, flowers and heart I want. Flowes white anda heart red"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Alright, white flowers and a red heart — that’s clear. Do you or your guest have any food allergies or dietary restrictions I should note for the kitchen?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "No English Conversational Partner disse: Alright, perfect. Do you have any menu preferences for tonight, or would you like to decide when you arrive?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "I would like ask when I arrived"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Alright, no problem — you can choose when you arrive. Will you be coming right at , or do you think you might get there a bit earlier or later?"
+    }
+  ]
+}

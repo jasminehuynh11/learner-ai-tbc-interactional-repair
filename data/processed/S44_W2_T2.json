@@ -1,0 +1,155 @@
+{
+  "student_id": 44,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S44_W2_T2",
+  "source_file": "data\\raw\\#44\\#44\\#44. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Bank and Asking for Help with Banking Services"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Good morning, Kay. You please help me with my... with a problem that I have with my bank account."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Good morning! Absolutely, I'd be happy to help. Could you let me know what specific issue you're experiencing with your account?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“I tried to obtain my physical card, but I think the address that I put one month ago is wrong, so I never receive my physical card in this time.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I see, that can definitely be frustrating. No worries, we can sort it out. Could you confirm the address you had originally provided, and then we can update it if needed?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yes, it's this.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, thank you for that. Now, just to confirm, would you like us to resend the card to this updated address, and is there any other issue I should be aware of?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Now I would like to change in another address. The new address is...”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, that sounds good."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“abc123”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Perfect, I’ve got that noted down. Is there anything else I can assist you with regarding your account or the card?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“What are the approaches that I have to do to receive my card?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure! Once we update the address, we’ll process the card and send it out to the new location. Usually, it takes about 5 to 7 business days for it to arrive. And of course, we’ll confirm everything once it’s sent out. Does that work for you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, but can I receive an email the day before the arrive?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange that. I’ll make sure to set up an email notification for you the day before it arrives. Is there anything else you’d like to add or any other questions you have?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yes, I have another issue because I think my surname in my bank account profile is wrong.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I understand. We can definitely update that as well. Could you let me know the correct surname, and then we’ll make sure everything matches up properly?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“You have to change the N with the M.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. I’ll update that for you right away. Is there anything else you’d like to adjust or any other details I should know about?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Let me think... You give also some information about tax invoices?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course! I can definitely help with information about tax invoices. Are you looking to get details on how to access them, or do you have specific questions about them?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“I have a specific question, but I would like, if it's possible, to book an appointment next week.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange that. Just let me know what day and time works best for you, and we’ll get that appointment scheduled. Sound good?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“I'm free in early evening, so maybe on Wednesday or Thursday evening.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Perfect, that works for me! I'll go ahead and book you for either Wednesday or Thursday evening. Once we finalize the time, I'll confirm everything with you. Sound good?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Do you have my email?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, I do have it on file. I’ll make sure to send you a confirmation email with all the details as well. If you need to update it or have any other questions, just let me know!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“If I have to do some changes in my profile, can I do it by myself or is it necessary that I came here again?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You can definitely make some changes on your own through our online banking platform. But if you need more complex updates, we can always schedule another appointment. Whatever’s more convenient for you!"
+    }
+  ]
+}

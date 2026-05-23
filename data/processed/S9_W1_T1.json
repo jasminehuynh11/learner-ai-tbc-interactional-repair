@@ -1,0 +1,305 @@
+{
+  "student_id": 9,
+  "week": 1,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S9_W1_T1",
+  "source_file": "data\\raw\\#9\\#9\\#9. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Booking a table"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to book a table for tonight.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely! And what time were you thinking of coming in this evening?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Do you have a table at 6pm?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Certainly! We can set that up for you at 6 p.m. this evening. Now, do you have any preference for indoor or outdoor seating?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“And then we cast the outdoor setting.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, outdoor seating it is! I'll make sure we reserve a nice spot for you. And just to confirm, can I get a name for the booking?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, my name is Diana.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Perfect, Diana. We’ve got you all set for 6 p.m. outside. Just one last thing—do you have any dietary preferences or special requests for the meal?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“No. Oh, I have something. I'm booking for my friend's birthday. Do you offer any singing or decoration?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely! We’d be happy to help with that. We can arrange a little birthday dessert and we can definitely sing a quick happy birthday if you'd like. Just let me know if that works for you."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Thank you. Is this free?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure! Yeah, that's absolutely free of charge. We’re happy to do that for a birthday celebration. So is there anything else we can do to make it special?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Thank you. Can I ask one more?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! Go right ahead and ask anything else you need."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Can we bring our own character for this elaboration?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, you can bring your own cake. We just ask that you let us know when you arrive, and we’ll help you out with it. Is there anything else you’d like to check?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Go to ISTEM menu online.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yes, it sure is! You can find our full menu right on our website. Feel free to take a look. And if you have any other questions, just let me know!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“So, do we have a vegetarian or halal option?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely! We do have both vegetarian and halal options available, so there's definitely something for everyone. Just let us know if you have any other special dietary needs!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Sure thing! Take your time. And if there's anything else you think of, just let me know."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Can I order the food in advance?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, you can. We can take a preorder if you'd like, and that way everything will be ready when you arrive. So just let me know what dishes you're thinking of."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“I will order a two pasta and is there any dessert?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "All right! I've got you down for two pasta dishes. And yes, we do have some lovely desserts as well. Would you like to hear a couple of options?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Oh, sorry. What is a convolution?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Sure! So for desserts, we've got a delicious chocolate lava cake and a classic tiramisu. Let me know which one sounds good to you!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“It is delicious out of things. Can I order the two cakes you said?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely! I'll add both the chocolate lava cake and the tiramisu to your order. So that should be all set. Anything else you need to add?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Can I change the booking?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Sure, no problem at all. Just let me know what changes you'd like to make and we can adjust the booking for you."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I want to change it at 7 p.m.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that for you. I'll switch your booking to 7 p.m. instead of 6. And is everything else still the same for you?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Could you confirm the time and the name, and the dishes for me?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Sure! So just to confirm, we've got your booking under the name Diana for 7 p.m. tonight, with outdoor seating, two pasta dishes, and those two desserts we talked about. If that all sounds correct, just let me know!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“ご視聴ありがとうございました。”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Great! Then everything"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Yes.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Awesome! You're all set for tonight at 7 p.m., Diana. If there's anything else you need, just let us know, and we look forward to seeing you."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Oh, yes. Oh, can I ask you one more?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Sure thing! Feel free to ask me anything else you need."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Is there any flexible if we are live 50 minutes late?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely, there's a bit of flexibility. If you run about 15 minutes late, that's totally fine. Just give us a quick heads-up if you can, and we'll hold your table."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Oh, sorry, I hear some noise, so can you tell me back again?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Sure! So basically, if you arrive about 15 minutes late, that's no problem at all. Just let us know, and we’ll hold the table for you."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“What is it? How does it know?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Oh, I just mean you can give us a quick heads-up if you're running late, so we know to keep your table. Let me know if that makes sense!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Okay, thank you for understanding me.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Of course! You're very welcome. If there's anything else, just let me know."
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“I guess that's all.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "All right, perfect! Well, thanks so much, and we look forward to having you tonight. Have a great day!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Yes, oh, what is your name?”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Sure! My name's Alex. So if you need anything when you arrive, just feel free to ask for me."
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Okay, thank you, Alex. See you evening tonight.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "You're very welcome, Diana. I'm glad I could help, and I hope you have a wonderful evening tonight."
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "You're welcome! Enjoy your dinner and have a great time."
+    }
+  ]
+}

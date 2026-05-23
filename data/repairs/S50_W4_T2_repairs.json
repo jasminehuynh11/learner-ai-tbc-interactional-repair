@@ -1,0 +1,27 @@
+[
+  {
+    "dialogue_id": "S50_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies difficulty with writing",
+    "evidence_summary": "The learner initially states they have the data but then clarifies they have difficulty writing it smoothly. The bot acknowledges this and offers to help refine the wording, resolving the issue."
+  },
+  {
+    "dialogue_id": "S50_W4_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner uses 'session' instead of 'section'",
+    "evidence_summary": "The learner asks to go through a 'specific session,' which seems to be a misuse of vocabulary. The bot interprets this as 'section' and asks for clarification on which section to focus on, resolving the misunderstanding."
+  }
+]

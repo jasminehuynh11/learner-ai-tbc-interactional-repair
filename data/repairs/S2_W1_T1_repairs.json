@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S2_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      4,
+      5
+    ],
+    "initiation": "LI",
+    "resolution": "U-A",
+    "trigger": "no genuine communication trouble",
+    "evidence_summary": "The learner says 'regular mail', but the bot interprets it as 'regular milk' without any clarification needed. There is no indication of communication trouble or repair initiation, as the conversation continues smoothly."
+  },
+  {
+    "dialogue_id": "S2_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      10,
+      11
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "vocabulary – bot misunderstood 'restaurant' as 'restroom'",
+    "evidence_summary": "The learner asks 'where's the restaurant?' in turn 10, but the bot misinterprets it as 'restroom' in turn 11. The learner does not address the misunderstanding, and the conversation continues without correction."
+  },
+  {
+    "dialogue_id": "S2_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner's description of loyalty card",
+    "evidence_summary": "The learner describes a loyalty card in a fragmented way in turn 12. The bot correctly interprets this as a 'loyalty card' in turn 13, and the learner confirms, resolving the issue."
+  }
+]

@@ -1,0 +1,304 @@
+Week 2: Formal Interactions with Essential Services
+Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment
+You said:
+Hi, today can we practice about the English conversation?”
+00:06
+English Conversational Partner said:
+Absolutely, we can do that! Let me know what kind of scenario or setting you're interested in, and we can jump right into some roleplay practice. Feel free to suggest any particular situation you have in mind!
+You said:
+“Okay, now we are going to practice the...”
+00:04
+English Conversational Partner said:
+Sounds great! Whenever you're ready, just let me know the scenario or the context, and we can get started with a fun and realistic conversation. Just let me know what you have in mind!
+You said:
+“Okay, today we are going to practice the formal interlocution with essential services.”
+00:10
+English Conversational Partner said:
+Got it! We can definitely focus on formal interactions related to essential services. For example, we could practice scenarios like visiting a government office, speaking with customer service, or even dealing with utilities. Just let me know which specific service you’d like to start with, and we’ll dive right in!
+You said:
+“Okay, today our text 1 is Facing a Medical and Booking or Changing Appointment.”
+00:13
+English Conversational Partner said:
+Perfect! Let's do that. So, I'll take on the role of a receptionist at a medical clinic, and you can be the patient. You can let me know if you’d like to book a new appointment or change an existing one. Whenever you're ready, just let me know the details, and we'll get started!
+You said:
+“Okay. Hi, I would like to make an appointment to see a dentist.”
+00:06
+English Conversational Partner said:
+Of course! I'd be happy to help. Could you let me know which day and time would work best for you, and if you have any preferred dentist or specific concerns?
+You said:
+“Is anyone available tomorrow morning?”
+00:03
+English Conversational Partner said:
+Let me check that for you. We do have a few slots available tomorrow morning. Do you have a preferred time, maybe around 9 a.m. or 10 a.m.?
+You said:
+“OpenAI and DALL·E would be great for me.”
+00:02
+English Conversational Partner said:
+Perfect! I’ll go ahead and schedule you for 10 a.m. tomorrow. Could you also please provide your full name and any contact details we might need?
+You said:
+“Sorry, it's 9 a.m., okay?”
+00:05
+English Conversational Partner said:
+Yes, absolutely! We can do 9 a.m. tomorrow as well. I’ll book you in for that time. Just let me know your full name and contact info, and we’ll be all set!
+You said:
+“OK, my name is Jessie Wong, J-E-S-S-I-E. And last name is W-A-N-G. And should I give you my phone number or my medical number?”
+00:21
+English Conversational Partner said:
+Thank you, Jessie! If you could provide your phone number, that would be perfect for any confirmations or reminders. And if there's a medical number or patient ID, you can share that as well. Whatever's easiest for you!
+You said:
+“Okay, got it. I give you my phone number is 04305X6448.”
+00:10
+English Conversational Partner said:
+Great, thank you, Jessie! I’ve got that down. So, we’re all set for your appointment tomorrow at 9 a.m. with Dr. Smith. If you have any other questions or need to make any changes, just let me know!
+You said:
+“Oh, sorry, I need to change my appointment. Can I cancel my tomorrow's appointment?”
+00:15
+English Conversational Partner said:
+Of course, no problem at all! I can cancel tomorrow’s appointment for you. Would you like to reschedule for another day or just cancel it altogether? Let me know what works best for you.
+You said:
+“Can I train you for 2 p.m.?”
+00:03
+English Conversational Partner said:
+Absolutely, I can do that for you! I’ll reschedule your appointment to 2 p.m. tomorrow. If there's anything else you need, just let me know!
+You said:
+“Yes, and can I have an appointment with Dr. Wu?”
+00:06
+English Conversational Partner said:
+Absolutely! I'll make sure to schedule you with Dr. Wu at 2 p.m. tomorrow. Let me just confirm that for you, and you're all set! If you need anything else, just let me know.
+You said:
+“Yeah, and I also want to ask, is there a cancellation fee?”
+00:08
+English Conversational Partner said:
+That’s a great question! Typically, we do have a cancellation fee if the appointment is canceled within 24 hours. But let me confirm the exact policy for you. If you need any more details, I'm happy to help!
+You said:
+“Okay, and is it okay if I come in 10 minutes earlier?”
+00:04
+English Conversational Partner said:
+Absolutely, that’s perfectly fine! We’d be happy to have you arrive 10 minutes earlier. That way, you can complete any paperwork and settle in comfortably. If there’s anything else you need, just let me know!
+You said:
+“OK, and can I make an appointment from someone else?”
+00:08
+English Conversational Partner said:
+Of course, you can! Just let me know their name and any details you have, and I’ll be happy to help schedule an appointment for them as well. Just let me know what you need!
+You said:
+“Okay, can I booking one for Aaron Wu and for 3pm after me tomorrow?”
+00:14
+English Conversational Partner said:
+Absolutely, I can do that! I’ll book an appointment for Aaron Wu at 3 p.m. tomorrow, right after yours. If there are any specific details or preferences for Aaron, just let me know, and we’ll get everything arranged!
+You said:
+“Yeah, I give you his name. His name spelling is E-R-I-A-M, and the family name is W. And the phone number is 04586110099.”
+00:26
+English Conversational Partner said:
+Perfect, thank you for that information! I’ll go ahead and schedule Aaron Wu for 3 p.m. tomorrow. If there’s anything else you need or any other details, just let me know.
+You said:
+“Should we bring our medical card tomorrow?”
+00:08
+English Conversational Partner said:
+Yes, that would be great! Bringing your medical card will help us confirm all the details quickly. If you have any other documents or questions, just bring them along as well. Looking forward to seeing you both tomorrow!
+You said:
+“Okay, and we just want to check our tooth and for an ear. Should we need to pay the fee for the doctor?”
+00:17
+English Conversational Partner said:
+That’s a great question! Usually, routine check-ups for your teeth and ears are covered by insurance, but it can depend on your plan. It’s always good to check beforehand, and if you need any assistance, we can definitely help you out. Just let us know if you have any specific concerns!
+
+
+
+
+
+
+
+
+Task 2: Reporting a Lost Item or Filing a Minor Police Report
+You said:
+“Hi, can we apprentice about the fixing a bank and asking for help with banking service?”
+00:09
+English Conversational Partner said:
+Absolutely, let's do that! I'll be happy to role-play as a bank teller, and we can go through some common scenarios, like opening an account, asking about loans, or getting help with online banking. Just let me know what kind of scenario you’d like to start with!
+You said:
+“Okay, hi, I'm Jessie. I would like to open a new service account.”
+00:08
+English Conversational Partner said:
+Of course, Jessie! I’d be happy to help you with that. To get started, could you let me know if this is a personal or a business account? And do you have any specific features you’re looking for?
+You said:
+“Yeah, actually I'm a student. Is it okay for me to open the personal account?”
+00:08
+English Conversational Partner said:
+Absolutely, yes! We have special accounts for students that come with some great benefits. To move forward, I’ll just need a few details like your ID, proof of address, and any student documentation. Let me know if you have those handy!
+You said:
+“Um, wait a moment, can I give you my passport? They have my ID inside and my address is, uh, can I give you the driving lessons? I also have my address on it and, um, yeah, that's all. And can I also have a set up online banking at the same time?”
+00:28
+English Conversational Partner said:
+Absolutely, that sounds perfect! You can definitely use your driver’s license for proof of address, and we can set up your online banking right away. Once we have those documents, we’ll get everything set up for you smoothly. Just let me know when you’re ready, and we’ll get started!
+You said:
+“And I also have a question, can I open an account without a job yet?”
+00:06
+English Conversational Partner said:
+Yes, absolutely! Many banks offer accounts for students or individuals who may not have a job yet. As long as you have the required identification and can meet any minimum deposit requirements, you should be good to go. If you have any concerns, we can definitely work through them together!
+You said:
+“And I just arrived here, and I don't have any phone number. Will it be OK for opening accounts?”
+00:09
+English Conversational Partner said:
+Yes, that’s totally fine! We can still open an account without a phone number. If you have another way to stay in touch, like an email address, that works well too. We’ll make sure everything is set up smoothly for you!
+You said:
+“Okay, and I also want to ask what's the difference between the personal account and the business account?”
+00:07
+English Conversational Partner said:
+Of course! A personal account is typically designed for individual use, like managing your daily expenses, savings, and personal transactions. A business account, on the other hand, is tailored for business-related finances, such as handling business income, expenses, and payroll. Business accounts often have additional features and requirements. If you have any specific questions, I’m happy to explain further!
+You said:
+“OK, and is there a monthly fee for this account? Personal account. Thank you.”
+00:08
+English Conversational Partner said:
+That’s a great question! Usually, personal accounts have low or no monthly fees, especially if certain conditions are met, like maintaining a minimum balance. It can vary a bit by bank and account type, so we can definitely go over the details and find the best option for you!
+You said:
+“That would be great. Do you offer debit cards with this one?”
+00:06
+English Conversational Partner said:
+Absolutely, yes! With the personal account, you’ll definitely receive a debit card that you can use for purchases and ATM withdrawals. We’ll make sure to get that set up for you as part of the account opening process!
+You said:
+“Oh, that would be great, and if I want to apply the credit card, what should I do?”
+00:07
+English Conversational Partner said:
+Great question! To apply for a credit card, we’d typically start by reviewing your credit history and income details. You can let us know what kind of credit card you’re interested in, and we’ll guide you through the application process step-by-step. We can definitely help you with that!
+You said:
+“Sorry about that, I am a foreigner and I come to this country for studying, so can I apply for a credit card?”
+00:12
+English Conversational Partner said:
+No worries at all! Yes, as an international student, you can still apply for a credit card. We might just need a few additional documents, like proof of enrollment, your passport, and possibly a visa. We’ll work with you to find the best option and make the process as smooth as possible!
+You said:
+“OK, that would be great. And if I forgot my online bank passport, can you help me?”
+00:08
+English Conversational Partner said:
+Absolutely, I can help with that! If you’ve forgotten your online banking password, we can guide you through the password reset process. Usually, it involves verifying your identity and then creating a new password. Just let me know, and we’ll get you back into your account quickly!
+You said:
+“Yep, and can I change the currencies in the online bank?”
+00:09
+English Conversational Partner said:
+Yes, definitely! Most online banking platforms let you view and manage your accounts in different currencies, especially if you have international accounts. We can help you set that up and make sure everything is configured the way you need. Just let us know what you’re looking for, and we’ll take care of it!
+You said:
+“Also, if my mother wants to give me money, can they use my country's account to transfer to Australia's account?”
+00:19
+English Conversational Partner said:
+Absolutely, they can! International transfers are quite common, and we can help set that up easily. Your mother can transfer funds from her account in your home country to your account in Australia, and we’ll guide you through the details to make it smooth and secure. Just let us know whenever you're ready!
+You said:
+“OK, that will be good. Thank you. You answered all my questions. OK, we can open the account, and I'm happy to do that.”
+00:14
+English Conversational Partner said:
+That’s wonderful to hear! I’m glad I could help. Whenever you’re ready, just let me know, and we’ll get everything set up for you. If you have any other questions in the meantime, feel free to ask. Looking forward to getting your account up and running!
+You said:
+“Okay, and then, oh, sorry about that. I have two questions. One is, what happens if I lost my bank card overseas? And does that have any limit on how much I can transfer daily?”
+00:15
+English Conversational Partner said:
+No worries at all! If you lose your bank card overseas, you can contact us right away, and we’ll help you block the card and arrange for a replacement. As for transfer limits, yes, there are usually daily limits, but we can adjust them based on your needs. Just let us know what you require, and we’ll make sure everything is set up properly for you!
+You said:
+“Okay, and if I want, if I go back to my country, how do I close my account? And can I transfer all my money in the drawer?”
+00:13
+English Conversational Partner said:
+Great questions! To close your account, you can simply let us know in advance, and we’ll guide you through the process, which usually involves transferring your remaining balance to another account and then officially closing it. And yes, you can absolutely transfer all your funds before you leave. We’ll make sure everything is smooth and straightforward for you!
+
+
+
+
+
+
+
+
+
+
+
+Task 3: Requesting Maintenance or Repairs in a Rental Property
+You said:
+“Hi, today can we practice about a rental apartment or housing expansion.”
+00:17
+English Conversational Partner said:
+Absolutely, we can do that! We can practice scenarios like inquiring about rental apartments, asking about lease terms, or even negotiating with landlords. Just let me know what kind of situation you’d like to role-play, and we’ll dive right in!
+You said:
+“Hi, I'm interested in two bedroom units on the George Street and LA in Spacetown this week.”
+00:18
+English Conversational Partner said:
+Sure, that sounds great! So, you could start by saying something like, "Hi, I'm interested in a two-bedroom unit on George Street. Are there any inspections available this week?" And then we can go from there, practicing how to follow up on availability, asking about the lease terms, and so on. Let me know if you’d like to start with that!
+You said:
+“Yeah, I want to practice about that. So now I am the renter to see the house and you are the agencies. Will you be okay?”
+00:11
+English Conversational Partner said:
+Absolutely, that sounds perfect! I'll be the agent, and you can be the prospective tenant. Whenever you're ready, go ahead and start with your inquiry, and we’ll go from there!
+You said:
+“Yeah. Hi, I'm interested in two veteran units on the George Street. And do they have any inspections this week?”
+00:09
+English Conversational Partner said:
+Hello! Yes, we do have a couple of two-bedroom units available on George Street. We have inspections scheduled for Wednesday and Saturday this week. Would either of those days work for you?
+You said:
+“Yeah, good. Yeah, and I'm looking for a house. I want to move in for the 15th of November. Is there any apartment available now?”
+00:21
+English Conversational Partner said:
+Absolutely! We do have a few units that will be ready by mid-November, including some two-bedroom options. I can definitely arrange for you to come by and take a look during the inspection times, and we can also discuss the details to make sure everything aligns with your move-in date.
+You said:
+“Okay, and also my budget is 700 per week. Will it be easy to find the apartment?”
+00:12
+English Conversational Partner said:
+Yes, definitely! With a budget of $700 per week, we have several great options available. We can find something that fits your needs and matches your budget comfortably. We'll make sure to find a place that suits you perfectly!
+You said:
+“Okay, and I, uh, it's a pet, a lower, a low, and, uh, also it's layer have, uh, lift layer.”
+00:11
+English Conversational Partner said:
+Absolutely, many of our units do allow pets, and we can definitely confirm that for the specific apartment you’re interested in. And yes, we also have buildings with lifts, so you won’t have to worry about stairs. We’ll make sure to find a perfect fit for you and your pet!
+You said:
+“Yeah, I thought one is the Uni26 Georges III, I'm really interested about that. Can I apply online or do I need to visit this office?”
+00:21
+English Conversational Partner said:
+That's wonderful to hear! You can absolutely apply online, and we can also arrange for a virtual tour if you'd like. But if you prefer, you're always welcome to visit our office in person as well. We'll make the process as smooth as possible for you!
+You said:
+“And how much is the bone?”
+00:02
+English Conversational Partner said:
+Typically, the bond is equivalent to four weeks’ rent, but it can vary depending on the property. Once we confirm the unit, I can give you the exact amount. But generally, it’s pretty straightforward, and we’ll make sure everything is clear for you!
+You said:
+“And can I also rent for half a year?”
+00:05
+English Conversational Partner said:
+Absolutely! We do offer flexible lease terms, so you can definitely rent for six months if that suits you better. We’ll work with you to find a lease duration that fits your plans perfectly!
+You said:
+“If I want, how can I apply it? What should I prepare?”
+00:06
+English Conversational Partner said:
+Great question! To apply, you'll usually need a few documents, like a form of ID (like your passport or driver's license), proof of income or enrollment if you're a student, and possibly a reference from a previous landlord. Once you have those, you can apply online, and we’ll guide you through each step of the process!
+You said:
+“This is my first time to rent a house, I don't have any reference, so how can I do?”
+00:14
+English Conversational Partner said:
+No worries at all! For first-time renters, we can often look at other factors like your proof of income, your enrollment status if you're a student, and even a guarantor if needed. We’re here to help you through the entire process and find a solution that works for you!
+You said:
+“Okay, and I don't have any job. I'm a student and my parents support all of free, so how can I prove my income?”
+00:14
+English Conversational Partner said:
+That’s totally understandable! In that case, you can provide a letter of support from your parents, along with proof of their income or bank statements, to show that they can support you. We can also look at your enrollment status and any other documentation that can help strengthen your application. We'll definitely work with you to find a solution!
+You said:
+“If I rent this house, my friend will share to me, does she need to improve like income and something reference to you or just only me?”
+00:26
+English Conversational Partner said:
+That’s a great question! Typically, if you have a housemate or a friend sharing the lease, we’d also need to consider their financial situation. That means they might need to provide proof of income or references as well. But we can definitely work with both of you to make sure everything is in order and that the application is smooth for both parties!
+You said:
+“And can we confirm once how much for a week for Uni 26 Georgia Road?”
+00:10
+English Conversational Partner said:
+Of course! For Unit 26 on George Street, the weekly rent is currently [insert amount here]. That includes all the standard amenities, and we can definitely confirm the exact details once we finalize everything. Let me know if you have any other questions or if you’d like to move forward!
+You said:
+“and can I reapply it later if I find the code tender?”
+00:07
+English Conversational Partner said:
+Absolutely, you can definitely apply later once you’ve found a co-tenant. We can hold the unit for you for a certain period, and once you have everything sorted out, we can finalize the application together. We’re here to make it as easy and flexible as possible for you!
+You said:
+“Okay, should I tell the policy first?”
+00:03
+English Conversational Partner said:
+Yes, typically the deposit is required to secure the unit, and that helps hold it for you while you finalize everything else. Once the deposit is paid, we can move forward with the application and get everything set up for your move-in. If you have any questions along the way, just let us know!
+You said:
+“Okay, yeah, that will be great. And I will discuss with my friend and I will give you my answers later. Will you be okay?”
+00:13
+English Conversational Partner said:
+Of course, that sounds perfect! Take your time to discuss it with your friend, and whenever you’re ready, just let us know. We’ll be here to help and make the process as smooth as possible for you. Feel free to reach out anytime!
+You said:
+“Yes, thank you, and see you. Take care.”
+00:03
+English Conversational Partner said:
+You're very welcome! Take care, and I look forward to hearing from you soon. Have a great day!
+

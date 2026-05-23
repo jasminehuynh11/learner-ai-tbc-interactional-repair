@@ -1,0 +1,240 @@
+{
+  "student_id": 5,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S5_W1_T2",
+  "source_file": "data\\raw\\#5\\#5\\#5. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to practise how to order coffee at a café. You are a barista working in a café in Sydney. I’ll play the role of a customer. Please create a realistic café scenario and respond as if we were really there. Ask me about my preferences, help me choose from the menu, and explain different coffee options. Keep the conversation going naturally by asking at least 3 follow-up questions about size, milk, and payment. If there are any mistakes or more natural expressions in my English, please correct them."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! You walk into a cozy café in Sydney — the smell of roasted beans fills the air, and I’m behind the counter, smiling. Hey there! Welcome to Harbour Brew Café. What kind of coffee would you like today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! So we've got all the classics—like a flat white, a cappuccino, or maybe a latte if you prefer something milkier. What are you in the mood for?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I'd like to order cappuccino, please, but I'm just curious, what's the difference between cappuccino and flat white?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure! A cappuccino it is. So, the main difference is a cappuccino has a bit more foam on top and usually a dusting of chocolate, while a flat white is creamier with just a thin layer of microfoam. Now, what size would you like for that cappuccino?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Can I get a medium size?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, a medium it is. And would you like any particular type of milk with that—like regular, skim, or maybe a non-dairy option? Let me know."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“How many types of milk do you have?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure! We've got quite a few. We've got regular full cream, skim milk, and then we've got almond, soy, and oat milk as well. So go ahead and pick whichever you like. And once you've chosen that, I'll just ask how you'd like to pay—card or cash?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Oh, I want to have almond milk, please. So can I get a regular size cappuccino with almond milk?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "All right, almond milk it is! And no worries, I'll do that in the medium size we talked about. Now, just to wrap it up, will you be paying by card or cash today? Let me know."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Pay by card, please.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure thing! Card is perfect. I'll ring that up for you right now. And just a quick note, you did great ordering—sounded really natural. Here's your cappuccino coming right up. Anything else I can help you with?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yes, a friend of mine want to order a cup of coffee, but there are a lot of options, so I just want to know about piccolo latte and babyccino. Yeah, I'm curious. What's that?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely! So a piccolo latte is basically a mini latte—it's got a shot of espresso with just a little bit of milk, so it's smaller and a bit stronger. And a babycino is just frothy milk for kids, no coffee at all. Really cute option! Now, if your friend is leaning towards one of those, just let me know and I'll help you sort it out. What do you think they'd prefer?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“So what did you say, leaning something I didn't get to?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure! I just meant if your friend is kind of leaning towards—or maybe thinking about—one of those two options, just let me know which one. So, do you think they’d prefer the piccolo latte or the babycino? Let’s figure it out."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "All right, take your time! Just let me know whenever you decide. In the meantime, if you have any other questions about the menu or anything else, just ask."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay so I think I can order two of them and pick one piccolo latte and this must be the small size as you said and also she has a baby she has a child so I can order a baby chino as well and uh do you usually um give us a marshmallow and hot chocolate on it”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, we can do both of those for you! And yes, we do usually pop a little marshmallow on the side of a babycino and a sprinkle of chocolate on top. So I'll get those both ready for you. Anything else you need?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I'm so sorry, but she doesn't want a chocolate pop on the baby Chino. So can I, can you please just, can we order baby Chino with no chocolate popping and yeah only marshmallow please.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure, no problem at all! We'll skip the chocolate on the babycino and just pop that little marshmallow on the side. So I'll get those all sorted out for you. Anything else on your mind?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yeah, and I am from Korea, so we don't have any name of coffee like Long Black, but instead we have Americano. So what's the difference between Americano and Long Black?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course! So a long black is kind of similar to an Americano, but the main difference is we pour the espresso over the hot water, so it stays a bit stronger on top. In an Americano, you usually add the water to the espresso. But it's a small difference! And thanks for sharing that. Now, if there's anything else you're curious about, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“What about chai latte? These days, I think people are more interested in having non-coffee option like chai latte or matcha latte, and I want to try.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, chai lattes are definitely popular! It's a spiced tea with milk, so it's got that cozy, non-coffee vibe. And a matcha latte is made from green tea powder. So if you want to try one of those next time, just let me know. For now, I’ll get your coffees ready. Anything else on your mind?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“グリーンティーラテと抹茶ラテは同じです。”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Exactly, you've got it! Matcha latte and green tea latte are basically the same thing—just different names. So you're spot on. All right, I think we’ve got everything we need for your order. I'll just finish these up for you. Thanks for chatting, and let me know if you need anything else!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And do you have any dessert as well?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely! We've got a nice little selection of desserts like muffins, slices, and a couple of cakes. So if you’re in the mood for something sweet, just let me know what catches your eye!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Yeah, I want to order cake. Cake and any recommendations?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Sure! I'd say our carrot cake is a favorite—nice and moist with a bit of cream cheese frosting. Or if you prefer something a bit richer, the chocolate fudge cake is always a hit. So which one sounds good to you?"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“I think Cheesecake is more better option for me.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, cheesecake is a great choice! We've got a nice classic slice that's really creamy and delicious. I'll add that to your order. And I think that about wraps it up, so I'll get everything ready for you. Thanks a lot!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“So we are three, so can I have three first?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Sure thing! Three slices it is, and we’ll make sure each of you gets a nice piece of cheesecake. I'll get those all packed up. Thanks for the order!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“I mean, I want to order a piece of cake with three forks.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Ah, got it! No worries at all. So you’d like one slice of cake with three forks to share. That’s easy. I’ll make sure you’ve got those. Anything else I can do for you?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Yeah, can I get, uh, extra plates?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Of course, I'll bring you an extra plate so you can all share easily. I’ll get that sorted right away. Anything else you need?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Thank you. Can I have a buzzer?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely, I'll hand you a buzzer so you can just relax and we'll let you know when everything's ready. Thanks a lot, and I'll buzz you soon!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Thank you for your help.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. Enjoy your coffee and cake, and if you need anything else, just give me a shout."
+    }
+  ]
+}

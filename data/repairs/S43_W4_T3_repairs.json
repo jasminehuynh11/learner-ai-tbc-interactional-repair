@@ -1,0 +1,29 @@
+[
+  {
+    "dialogue_id": "S43_W4_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7,
+      8
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand concept/term",
+    "evidence_summary": "The learner explicitly states a lack of understanding regarding the bot's suggestion to add more annotations (T6). The bot then provides a detailed explanation (T7), and the learner confirms full understanding, resolving the issue (T8)."
+  },
+  {
+    "dialogue_id": "S43_W4_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – incomplete utterance",
+    "evidence_summary": "The learner's utterance in T16 is incomplete ('generating some actionable...'). After a bot interjection (T17), the learner completes their thought with 'Inside, yeah' (T18), which the bot then correctly interprets as 'actionable insights' (T19), indicating the self-correction was successful and the issue resolved."
+  }
+]

@@ -1,0 +1,375 @@
+{
+  "student_id": 16,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S16_W2_T2",
+  "source_file": "data\\raw\\#16\\#16\\#16. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello how are u?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hey there! I’m doing well, thanks for asking. How about you — how’s your day going so far?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "My day was so good. I'm enjoying it, and I'm studying, and I enjoy it a lot. How about you?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That’s great to hear! Sounds like you’re having a productive and fun day. What are you studying at the moment?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Yes, now I need to study with you! Are you already?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sure, I’m ready! What would you like to study today — conversation, grammar, vocabulary, or something else?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Okay! Today we're going to do a simulation of scheduling an appointment. You will be the secretary for Dr. Charles' consultant, and I need to schedule an appointment; I need you to behave as if you were a real secretary."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright! Good afternoon, this is Dr. Charles’ office. How can I help you today — are you calling to schedule a new appointment or to change an existing one?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“To do an appointment,”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely! Let’s get that set up for you. Now, could you let me know what kind of appointment you’re looking to book with Dr. Charles? For example, is it a general consultation or something specific?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Always specific, because I think I took allergies and I need help.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, got it. So we'll note that it's for allergy issues. Now, let me check Dr. Charles’ schedule. Could you tell me if you prefer a morning or afternoon appointment?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Please I would like on Wednesday, please!.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure, afternoon it is! Let's see what we have available. Now, can you let me know which day of the week works best for you?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Could you repeat, please?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Of course! I was just asking which day of the week would work best for your appointment. Let me know what day you prefer."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Oh, okay. For me, it's the best if we Wednesday at the afternoon or Friday at the afternoon.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, that helps! Let me just check… We can definitely do Wednesday afternoon. Now, can I have your full name to put the appointment under?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Of course my name is Vianna do Valle Junior.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Perfect, thank you! I’ve got you down for Wednesday afternoon. Now, just to confirm, do you have any preference for the time slot—like early or late afternoon?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Early, early. Yes, I think it's best.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Alright, early afternoon it is! I’ll book you in for the first available slot after lunch. And is there anything else you’d like us to know before your appointment?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Could you repeat, please?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Sure! I was just asking if there's anything else you'd like us to know before your appointment. Let me know if you have any other details to share."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“No, I think when I stay together with the doctor, I will see other things about my body because sometimes I have allergies in other parts of my body.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. The doctor can definitely go over all of that with you. For now, we’re all set with your appointment. Anything else I can help you with?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“If I needed to change my schedule, there is Cancelling 3.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Sure thing! If you do need to change your appointment, just give us a call and there's no cancellation fee. Now, is there anything else you'd like to ask about the scheduling process?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“No, no, it's okay for me. It's amazing, your attendance.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Great, I’m glad to hear that! In that case, your appointment is all set. If you need anything else, just let us know. Thanks for scheduling with us!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Thank you. Sorry, could you repeat which day you scheduled for me, please?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Of course! We’ve got you scheduled for Wednesday afternoon. Let me know if that still works for you or if you need any changes."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I think Friday is the best, could you check if you have a schedule, if it's available in the semi-hour, please?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely! Let me take a look. We do have a Friday slot available around the same time. I’ll switch you to Friday afternoon. Anything else I can help you with?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“That's just it. Now I'm very grateful to you.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad we could sort that out. If there's nothing else, I’ll leave it here. Thanks for scheduling with us, and have a great day!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Thanks so much. I hope you have a great day.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Thank you! I appreciate that. Have a wonderful day yourself, and take care!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Thanks!”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Sure thing! Happy to help. If you need anything else, just let me know. Take care! Task 2: Visiting a Bank and Asking for Help with Banking Services Perfect! [smiles professionally across the counter] Good afternoon, welcome to Westbank. How can I help you today?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Hi, I would like to check why my cart wasn't arrived yet. I opened the account two months ago.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Sure, let’s take a look at that for you. Could I just confirm the address we have on file for you, so we can see if everything matches up?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Okay, the street is Pit Street.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Got it, Pitt Street. Let me just check that in our system. All right, I do see a slight difference in the address here. Let’s update it to make sure your card can reach you correctly."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Okay, please, could you just change the address and how many time I need to wait for this?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Absolutely, I'll update that address right away. It usually takes about a week for the card to arrive once we’ve corrected the details. Anything else I can help you with?"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Yes, I would like to know about the services, about credit cards, how kind credit cards I”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Sure, I can help with that. We"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Absolutely! So we have a few different types of credit cards available depending on what you need, and I can walk you through the options. But first, is there a particular feature or benefit you’re looking for in a card?"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Sorry, could you repeat, please?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Of course! I was just saying that we have a few different types of credit cards, and I can walk you through the options. So, is there any particular feature or benefit you're looking for in a card?"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Yes, if you have a benefits just like a new list, it's good for me.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that. We do have cards with mileage benefits, and I'll highlight those for you. So let me go ahead and put together a quick list, and we’ll find one that suits you."
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Great! I'll put that together for you right now. So we’ve got everything covered, and if you need anything else, just let me know."
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“I want to know about this thing. I have a student visa. Would I be eligible for a credit card with no fees?”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Absolutely, let me explain that. Since you're on a student visa, we do have some no-fee credit card options specifically for students. So yes, you’d definitely be eligible for one of those. Let’s find the best fit for you!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Oh, so good.”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "I’m glad to hear that! We’ll get everything sorted out for you. So just let me know if you have any other questions, and we’ll make sure you’re all set."
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“Now I would like to know if I pay any fees for sending Remingtones to Brazil.”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Sure, I can clarify that for you. Typically, there might be a small fee for international remittances, but it depends on the type of account you have. We can definitely check which option would have the lowest fees for sending money to Brazil. Let me know if you’d like me to look into that for you."
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“Ok, but for example if I send around $10,000, how many fees I probably will have to pay?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Of course, to give you an idea, if you send around $10,000, the fee is usually about $20 to $30, depending on the exact service you choose. We can always check the best option to keep your costs as low as possible."
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“It is possible I pay no fees.”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "It can be possible in some cases. For example, if you have a premium account or a specific arrangement, we might be able to waive the fee. We can definitely look into that for you and see if there’s a no-fee option that applies in your situation."
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“Okay, so you take my card.”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll take care of that for you. We’ll get your card details updated and check the best fee options for you. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "“No, I have no question more.”"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "All right, that sounds great then! We’ve got everything covered. Thanks for stopping by, and have a wonderful day!"
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "“Thank you so much. I hope you have a great day.”"
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "You're very welcome! And thank you—you have a great day as well!"
+    }
+  ]
+}

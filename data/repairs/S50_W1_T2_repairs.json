@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S50_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requested slower speech",
+    "evidence_summary": "The learner expressed difficulty understanding and requested the bot to speak slowly. The bot acknowledged this request and adjusted its speech, resolving the issue."
+  },
+  {
+    "dialogue_id": "S50_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      73,
+      74
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requested slower speech",
+    "evidence_summary": "The learner indicated a lack of understanding and asked the bot to speak slowly. The bot complied by explaining the exchange policy more clearly, resolving the misunderstanding."
+  }
+]

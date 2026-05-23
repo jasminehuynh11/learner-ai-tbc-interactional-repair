@@ -1,0 +1,103 @@
+Week 3
+Task 1: Reporting an Internet Outage at Your Housing
+English Conversational Partner dijo: Hello, thanks for calling. How can I help you today?
+Dijiste: Hi, good morning. I’m calling because my internet is not working, like completely, and I don’t know if it’s only me or the building, and I’m a bit… eh… worried because I need it for class.
+English Conversational Partner dijo: I understand, that’s stressful. Let’s check it together. When did you first notice the internet stopped working?
+Dijiste: Last night, more or less at… maybe 9:30? I was watching a lecture and it just stopped, and then I tried again and it was like, no connection. I mean, no internet.
+English Conversational Partner dijo: Okay, around 9:30 last night. Thank you. Are you using Wi-Fi, or a cable connection?
+Dijiste: Wi-Fi. I don’t use cable, I don’t have it. And my phone also no internet, so it’s not only my laptop.
+English Conversational Partner dijo: Got it, multiple devices are affected. That suggests it’s not a single device issue. Can you look at your modem or router for me? Are there any lights on, and what colours are they?
+Dijiste: Yes, I’m looking now. The power light is on. The other one, the internet one, is red, and it’s blinking like… blink blink. Not stable.
+English Conversational Partner dijo: That’s very helpful. A blinking red internet light usually means the connection to the service is down. Have you tried restarting the modem or router?
+Dijiste: Yes, I did. I unplugged it. First I waited one minute, then I did again and I waited like five minutes because someone told me you need to wait more. But it came back the same, red blinking.
+English Conversational Partner dijo: You did exactly the right steps. Thank you for trying that already. Do you live in an apartment building with shared internet, or do you have your own service in your unit?
+Dijiste: I think it’s my own service, but also the building has… how you say… like the same company for many people, I think. I’m not sure.
+English Conversational Partner dijo: That’s okay. We can still check outages in your area. Can you confirm your address for me, including the unit number?
+Dijiste: Yes, it’s 18 King Street, apartment 304. And the postcode is 2000.
+English Conversational Partner dijo: Thank you. I’m checking now. Just one moment. Okay, I can see there’s a known outage reported in your building area from last night. That means you’re not the only one.
+Dijiste: Ah, okay. That makes me feel better, because I was thinking maybe I broke something. So it’s general, yes?
+English Conversational Partner dijo: Yes, it looks like a network issue impacting multiple customers nearby. It’s currently marked as “in progress” for repair.
+Dijiste: In progress means they are fixing now? Or it means later? Sorry, I don’t understand.
+English Conversational Partner dijo: Good question. “In progress” means technicians are actively working on it now, but it’s not yet resolved.
+Dijiste: Okay, so they are working now. Do you have an estimate time? Like, more or less.
+English Conversational Partner dijo: The current estimated restoration time is within the next three hours. I know that’s a wide window, but it’s the best information we have right now.
+Dijiste: Three hours… hmm. I have a Zoom at 1 p.m. If it’s not fixed, what can I do? Like, can you give me a solution?
+English Conversational Partner dijo: I understand. While the outage is ongoing, the main options are using mobile data as a hotspot, or going to a place with Wi-Fi, like your campus library or a café.
+Dijiste: Yes, I can use hotspot, but my data is not so much. And if I use too much, it’s expensive. So I want to ask, can I get discount for this outage?
+English Conversational Partner dijo: Yes, you can request a service credit once the outage is resolved, since you’ve been without service. I can also note your account right now that you called during the outage.
+Dijiste: Yes please, because sometimes when you call later they say, “no record”, and I don’t want that.
+English Conversational Partner dijo: Completely understandable. I’ve added a note to your account with the time of your call and the outage reference.
+Dijiste: Thank you. Another question, sorry, I have many questions. If the internet comes back and then goes again, should I restart again, or should I not touch it?
+English Conversational Partner dijo: That’s a good question. If it comes back and drops again, you can restart once. But if it keeps happening, it’s better to call us again rather than repeatedly restarting.
+Dijiste: Okay. And do you know if they need to come inside my apartment? Because I don’t want someone entering when I’m not there.
+English Conversational Partner dijo: For a building-level outage, technicians usually work on external lines or building equipment, not inside individual apartments. If an in-unit visit is needed later, we would contact you to schedule it.
+Dijiste: Okay, that’s good. Because I was thinking, maybe they come and I’m not ready, you know.
+English Conversational Partner dijo: Totally understandable. Can I also confirm the best contact method for updates? We can send SMS or email notifications for outages.
+Dijiste: Email is better. I check email always. Phone I miss sometimes, because I’m in class.
+English Conversational Partner dijo: No problem. I’ll set email as your preferred contact.
+Dijiste: Thank you. And sorry, one more thing. The modem light is red now. If the outage is fixed, will it automatically become normal? Or I need to restart again?
+English Conversational Partner dijo: In most cases it will reconnect automatically once service is restored. If it doesn’t reconnect within about 15 minutes after the outage is marked resolved, then you should restart it once.
+Dijiste: Okay, 15 minutes after. That is clear.
+English Conversational Partner dijo: Great. Is there anything else you’d like me to check while I have your account open?
+Dijiste: Umm, yes, maybe. If I use hotspot for Zoom, does it use too much? Like, how much data?
+English Conversational Partner dijo: It can use quite a bit, especially if your camera is on. If you need to conserve data, you can turn off video and use audio only, and reduce screen sharing where possible.
+Dijiste: Ah yes, I can turn off camera. That’s a good tip.
+English Conversational Partner dijo: I’m glad. I’m really sorry again for the inconvenience. We’ll keep working to restore service as quickly as possible.
+Dijiste: Okay. Thank you for your patience, and for explaining. I will wait, and if not fixed I call again.
+English Conversational Partner dijo: That sounds good. Thank you for calling, and I hope it’s back very soon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task 4: Seeking Technical Support for a Device or Service
+English Conversational Partner dijo: Hi there, technical support. How can I help you today?
+Dijiste: Hi, good afternoon. I need help with my laptop, please, because it’s doing something strange. It works, but at the same time it’s not working, if that makes sense.
+English Conversational Partner dijo: That makes sense. Tell me what’s happening and we’ll troubleshoot together. What exactly is the problem?
+Dijiste: So, my camera is not working. Like in Zoom it shows black, and it says “camera not found”, but yesterday it was fine. And I have a presentation, so I’m like… eh… stressed.
+English Conversational Partner dijo: I understand, that would be stressful. Is this happening only in Zoom, or does the camera also fail in other apps, like the Camera app or Teams?
+Dijiste: I tried Zoom and also the camera app, and it’s also black. So I think it’s not Zoom only.
+English Conversational Partner dijo: That’s an important clue. Let’s check a few basics. Have you restarted the laptop since the issue started?
+Dijiste: Yes, I restarted two times, because I thought maybe it’s just stuck. But it didn’t change.
+English Conversational Partner dijo: Okay. Next, some laptops have a physical privacy shutter or a keyboard key that turns the camera off. Do you see any small slider near the camera, or a camera icon on a function key?
+Dijiste: Hmm, I see a little thing, like a tiny door, but I’m not sure if it’s open or closed. How I can know?
+English Conversational Partner dijo: If it covers the lens, the camera will appear black. Can you look closely and see if the lens is visible?
+Dijiste: Ah, wait. Yes, the lens is visible. So it’s open. Sorry, I thought maybe that was it.
+English Conversational Partner dijo: No need to apologise, that’s a great thing to check. Next, it could be a permissions setting. On your laptop, do you know if you recently changed privacy settings or installed an update?
+Dijiste: I had an update two days ago. It was asking and asking, and I finally did it. Maybe it broke something?
+English Conversational Partner dijo: Updates can sometimes change permissions. Let’s check camera permissions. Are you on Windows or Mac?
+Dijiste: Windows.
+English Conversational Partner dijo: Great. Please go to Settings, then Privacy, then Camera. Do you see an option that says “Allow apps to access your camera”?
+Dijiste: Yes, I see it. It says… off. Oh! It’s off. That is maybe the problem.
+English Conversational Partner dijo: Yes, that would definitely cause “camera not found” in apps. Can you turn it on?
+Dijiste: Yes, I turn it on now. Okay, it’s on. Should I try Zoom again?
+English Conversational Partner dijo: Yes, please try the Camera app first, then Zoom.
+Dijiste: Okay, Camera app… ah, now I can see myself. It works! Wow.
+English Conversational Partner dijo: Excellent. That’s a good sign. Now try Zoom and check the video settings.
+Dijiste: Zoom… one second… yes, it works. I can see the preview. That’s such a relief.
+English Conversational Partner dijo: I’m really glad. It was most likely the update changing privacy defaults.
+Dijiste: Yes, I think so. But can I ask, why it turned off? I didn’t do it. I mean, I don’t remember.
+English Conversational Partner dijo: You’re right to ask. Sometimes updates reset privacy settings, or if a security tool is installed, it can change access. You didn’t necessarily do anything wrong.
+Dijiste: Okay. Another question, sorry. If this happens again, what is the first thing I should check? The shutter or the settings?
+English Conversational Partner dijo: Great question. First check the shutter or camera key, then check permissions in Settings, then restart the device. That sequence usually solves most cases.
+Dijiste: Okay, shutter, permissions, restart. I will remember.
+English Conversational Partner dijo: Perfect. Do you also use Teams or other apps? We can quickly confirm it works there too if you want.
+Dijiste: I use Teams sometimes, yes. Should I test now? Or it’s okay because camera works already?
+English Conversational Partner dijo: Since the camera works in the Camera app and Zoom, it should work in Teams too, but you can test quickly for peace of mind.
+Dijiste: Okay, I trust you. I don’t want to open too many things and break again, you know.
+English Conversational Partner dijo: That’s understandable. One more thing I recommend is checking that you don’t have two apps trying to use the camera at the same time, because that can sometimes cause issues.
+Dijiste: Oh, like if Zoom is open and Teams open, it can fight?
+English Conversational Partner dijo: Exactly. Some systems allow only one app to access the camera at once.
+Dijiste: Okay, good. That’s helpful. And thank you for being patient, because I ask many questions.
+English Conversational Partner dijo: Not a problem at all. Your questions are good and practical. Is there anything else you want help with today?
+Dijiste: No, I think that was the main panic of today. I feel much calmer now.
+English Conversational Partner dijo: I’m glad to hear that. Good luck with your presentation.
+Dijiste: Thank you so much. Have a nice day.

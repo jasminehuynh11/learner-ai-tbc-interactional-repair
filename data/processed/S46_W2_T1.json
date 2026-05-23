@@ -1,0 +1,330 @@
+{
+  "student_id": 46,
+  "week": 2,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S46_W2_T1",
+  "source_file": "data\\raw\\#46\\#46. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I want to practice our scenario with you.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, I’d love to help with that! Just let me know what kind of scenario you have in mind, and we’ll get started."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“So I am the client. I'm just visiting a medical clinic. So I'm just calling the clinic to book an appointment to see a doctor. And you will be the staff member at the medical clinic. So, let's get started!”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sounds great! I’ll be ready to help you as the clinic staff. Whenever you’re ready, go ahead and give me a call, and we’ll go through the appointment process step by step."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yeah, so hi, I'd like to make appointment to see a doctor”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to help with that. May I ask what the reason for your visit is today?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Oh, so actually, I just got the issue with my finger nail. I got the ingrown finger nail. So it hurt me for a week now.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. We’ll definitely get that sorted for you. Could you let me know what day and time would work best for your appointment?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“So, can you explain, is it available for tomorrow morning or just as soon as possible?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, let me check the schedule for tomorrow morning. We do have a slot available at 9 AM. Does that work for you, or would you prefer an earlier or later time?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I think 9AM it worked for me, yeah.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Perfect! I’ll go ahead and book you in for 9 AM tomorrow. Could I also get your full name and a contact number, just to confirm the appointment?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“So, my full name is Anthony, and my phone contact is 043229497.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Great, thank you, Anthony! I’ve got you down for 9 AM tomorrow. If anything changes or you have any questions, just let us know. We’ll see you then!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Oh, wait, I got more questions.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, I’m glad to help! If you need anything else, just let me know. Otherwise, I’ll see you tomorrow morning. Take care!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“So, when I need, can I request a copy of my result after I read this?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Yes, absolutely! It’s always a good idea to bring any relevant medical records or test results you have. That way, the doctor can have a clearer picture. If you need any help with that, just let us know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“This is a bug building available for students.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do offer a billing plan for students, and we can definitely discuss the details when you come in. If you have any specific questions about that, feel free to let us know as well!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Cool, thank you. Also...”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re very welcome! And if anything else comes"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Do we offer the language support for appointment? Just to make sure I'm not something problem with my language.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do offer language support, and we can arrange for an interpreter if needed. Just let us know in advance, and we’ll make sure everything goes smoothly for you!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yeah, thank you, that really helped.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course, I’m happy"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“So, see you tomorrow at 9am, right?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, see you tomorrow at 9 AM! Take care, and have a great day!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You’re welcome! Anytime."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“So, just give me some feedback about my speaking in general.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely! Overall, you did really well. Your clarity was great, and you communicated your needs clearly. Just keep practicing the flow, and you’ll be even more confident. Great job!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“So I'm just going to break it in all the scenarios.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! Practicing regularly will definitely help boost your confidence and fluency. If you ever need more roleplay practice or feedback, I’m here to help!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“So this scenario is I'm going to visit a local bank and I want to apply, going to ask the banking service and what I'm doing, I'm going to asking about open a new account or update my details. So I'm going to be the client and you're going to be the customer service. In the bank and yeah, I guess that.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Perfect, that sounds great! I’m ready whenever you are. So, whenever you step into the bank, I’ll be there to help you with opening an account or updating your details. Just let me know when you’re ready to start the scenario!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Yeah So hi, good morning. I'm just come here to open the new new saving account”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Good morning! I’m happy to help you with that. Let’s get started. May I ask if this account is for personal use, and do you have any specific preferences or requirements for the account?"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“So, what is the difference? Actually, I just want to open it myself.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! We can definitely keep it straightforward. I’ll just need a bit of personal information from you, like your ID and some contact details. Whenever you're ready, we can go through that step-by-step!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Cool, so what idea I need to bring to you?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Typically, you'll need a government-issued photo ID, like a passport or a driver’s license. Also, if you have any proof of address, like a utility bill, that can be helpful as well. Let me know if you have those handy!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Oh, actually, today I'm not bringing either of them. So can I show that in live for the picture of that? Is it possible?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Yes, absolutely! A photo or a digital copy can definitely help, and we can usually work with that. Just make sure that the images are clear, and we’ll do our best to get everything set up for you!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Cool, and also, one more thing I want to know, like, what type of accounts are available for stealing?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Great question! Usually, we have options like a regular savings account, or sometimes special student accounts with lower fees and higher interest rates. We can definitely explore those options and find the best fit for you!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“This is all specs on student account with support from Nihon.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Perfect, that sounds great! We'll get you set up with a student account then. Just let me know if you have any other questions or if there's anything else I can help with along the way!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Yup, so can I set up the online bank account at the same time?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely do that! We can guide you through the online setup process, and once your account is active, you’ll be able to manage everything conveniently online. Just let me know when you’re ready, and we’ll walk through it step-by-step!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Can you see me?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Of course! I’m here to help anytime. Just let me know whenever you’re ready, and we’ll make sure everything goes smoothly for you!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“You're going to show me step how to do that”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to walk you through it step-by-step! Just let me know when you're ready to begin, and we’ll go through the entire process together."
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Okay, so we will proceed to open the student bank account in the OpenAI account.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that! Just let me know the best time for you, and we’ll get everything set up so that it’s nice and easy. Looking forward to helping you out!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“So, I think it can be sometime tomorrow.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "That sounds perfect! Tomorrow works great. Just let me know what time is convenient for you, and we’ll make sure everything’s ready to go. Looking forward to it!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Yeah, so could be around 9 a.m.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "That sounds great! I’ll make sure everything is set up for tomorrow at 9 AM. If you have any other questions before then, just let me know. Looking forward to helping you out!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Yeah, cool, so I will come back with the old document by tomorrow, so yeah, thank you.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Absolutely, that works perfectly! Feel free to bring your documents whenever you're ready, and we’ll take care of everything. Thanks so much, and I’ll see you tomorrow at 9 AM!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“See you.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Sounds good! Take care, and I’ll see you then. Have a wonderful day!"
+    }
+  ]
+}

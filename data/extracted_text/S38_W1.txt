@@ -1,0 +1,100 @@
+Task 1: 
+
+You said: 
+
+Good morning. Yes, I would like to order a coffee, but I do not know which one sounds good. Do you have any recommendation for me?”
+00:09
+English Conversational Partner said:
+Good morning! Absolutely, I’d be happy to help. If you’re in the mood for something classic, a latte or a cappuccino is always a great choice. Or if you’d like something a bit sweeter, a caramel macchiato could be lovely. Let me know what you’re in the mood for!
+You said:
+“Caramel macchiato sounds lovely, can I have one, please? Is it possible to add lactose-free milk?”
+00:12
+English Conversational Partner said:
+Of course! I’ll make sure to prepare your caramel macchiato with lactose-free milk. That’ll be no problem at all. Is there anything else you’d like to add or any other preferences?
+You said:
+“Yes, I would like to take a breakfast, but I don't know what to take. Hm…I think I will go with eggs and toast.”
+00:07
+English Conversational Partner said:
+That sounds great! I’ll get that eggs on toast ready for you. If you’d like to add anything else, like some sides or a drink, just let me know!
+You said:
+Transcript Unavailable
+00:10
+English Conversational Partner said:
+Absolutely, I’ll add two hash browns and a side salad to your order as well. That’ll make a delicious and balanced breakfast! If there's anything else you’d like, just let me know!
+You said:
+“Can I get an orange juice too, please?”
+00:02
+English Conversational Partner said:
+Of course! I’ll add a fresh orange juice to your order as well. That’s going to be a perfect combination. If there's anything else you need, just let me know!
+You said:
+“Here is their student discount.”
+00:01
+English Conversational Partner said:
+Yes, we do offer a student discount! Just let us know your student ID when you’re ready to pay, and we’ll apply the discount for you. Anything else I can help you with?
+You said:
+“Ah yes, I would like to know the percentages of the discounts, please.”
+00:05
+English Conversational Partner said:
+Sure! Typically, our student discount is about 10% off the total bill. If there are any special promotions, we’ll let you know at the time as well. Just bring your ID, and we’ll take care of the rest!
+You said:
+“Thank you. I would like to know how much all of that would that be.”
+00:04
+English Conversational Partner said:
+Of course! Let me quickly tally everything up for you. We have the caramel macchiato with lactose-free milk, the eggs on toast with two hash browns, a side salad, an orange juice, and the student discount applied. I’ll calculate the total and let you know right away!
+You said:
+“Sure thing, I can't wait.”
+00:01
+English Conversational Partner said:
+Thank you for your patience! So, after applying the discount, your total comes to about $18.50. If that works for you, I’ll get everything ready and bring it right over!
+You said:
+“Everything is perfect. Thank you very much for your service.”
+00:03
+English Conversational Partner said:
+You're very welcome! I'm so glad everything’s perfect. If you need anything else at all, just let me know. Enjoy your meal!
+You said:
+“Thank you very much.”
+00:01
+English Conversational Partner said:
+You're very welcome! Have a wonderful time, and if you need anything else, just let me know. Enjoy!
+
+Task 2: Booking a restaurant table :
+You said: 
+“Good afternoon. I would like to make a reservation for tomorrow night, please.”
+00:06
+English Conversational Partner said:
+Absolutely, I'd be happy to help with that! Could you let me know what time you'd like to reserve and how many people will be in your party?
+You said:
+“Of course. So I would like to book a table for two people, only me and my partner. It's for an anniversary.”
+00:10
+English Conversational Partner said:
+That sounds wonderful! Congratulations on your anniversary. Could you let me know what time tomorrow night you'd prefer, and any special requests you might have?
+You said:
+“is 7 p.m. okay for you?”
+00:06
+English Conversational Partner said:
+Yes, 7 PM works perfectly! I’ll reserve a table for two at that time. If there's anything special you'd like us to prepare for your anniversary, just let me know!
+You said:
+“Yes, so on the site I saw that you had a really beautiful view and I would like to get a special table over there, if possible, as it is on the seaside of the restaurant.”
+00:14
+English Conversational Partner said:
+Absolutely, I’ll make a note to reserve a table with that lovely seaside view for you. That sounds like a perfect setting for your anniversary. If there's anything else you'd like to add or any special requests, just let me know!
+You said:
+“Yes, please. I would like to pre-order a cake, a strawberry cake, and a chocolate cake, just small one, because we have a different taste, so it would be easier for us to, you know. So, the chocolate one, is it possible to make it less sweet and less heavy on the taste? And for the strawberry, is it possible to do a sponge cake with a strawberry and cream?”
+00:34
+English Conversational Partner said:
+That sounds absolutely lovely! I’ll make sure to arrange a small strawberry sponge cake with cream and also a lighter, less sweet chocolate cake. That way, you’ll have the best of both worlds! If there’s anything else you need, just let me know.
+You said:
+“I wanted to know, is it possible to book the entire seaside of where we will be seated? Because anything, well actually, anything that is more romantic and really a quieter place would be good. But still on the seaside of the restaurant, of course.”
+00:25
+English Conversational Partner said:
+Absolutely, I’ll make sure to book you a spot on the seaside with a romantic and quiet atmosphere. I’ll do my best to make it really special for your anniversary. If there’s anything else at all, just let me know!
+You said:
+“That would be all, thank you”
+00:00
+English Conversational Partner said:
+No worries at all! Just let me know whenever you’re ready, and I’ll be here to assist. If you have any other requests or questions, just let me know!
+You said:
+“Everything is good. Thank you very much. I'll see you tomorrow night.”
+00:03
+English Conversational Partner said:
+You’re very welcome! I’m looking forward to it. Have a wonderful day, and I’ll see you tomorrow night. Take care!

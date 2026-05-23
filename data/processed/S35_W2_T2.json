@@ -1,0 +1,310 @@
+{
+  "student_id": 35,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S35_W2_T2",
+  "source_file": "data\\raw\\#35\\#35\\#35. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "OPEN A BANK ACCOUNT"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, would like to open a new bank account"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure. Is this account for personal use or for a business?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I would like to open a new saving account in the bank.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Great! Are you planning to open this account individually, or will it be a joint account with someone else?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Not individually, it's for me.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, just for you. Now, do you have any specific preferences for the type of savings account, like interest rates or features?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I'm not sure, it's just a student account.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, a student account works perfectly. Could you let me know if you have any specific documents or ID that you’ll be bringing along for the application?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“아, 그럼요. 제 파스포드와 아이디가 있습니다.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Perfect, that’ll work well. Is there a particular branch or location where you'd like to open the account, or is any branch convenient for you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I'm located in Redfern.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it, Redfern works"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Perfect! So we’ll go ahead with the Redfern branch. Is there a specific time or day that works best for you to come in, or are you flexible?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“I'm flexible, but I would like to know that should I do an appointment for that.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "It’s definitely helpful to have an appointment, but walk-ins are usually welcome as well. Would you like me to help you schedule an appointment, or do you prefer to just drop by at your convenience?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Maybe we can do the appointment right now. What about Monday? Tomorrow is going to be Monday, maybe Monday at 3 p.m.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That sounds great! I’ll schedule you for Monday at 3 p.m. Is there any additional information or special requests you’d like to add?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“No, I think that's it, but can I open my account without the TVN number?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That’s a great question! In most cases, you’ll need a TFN for certain types of accounts, but we can definitely check the requirements for a student account. We’ll go over it during your appointment as well. Sound good?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Okay, sure. You need my telephone number, iPhone number, sorry, or my home address?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, that would be helpful. If you could provide your phone number, that way we can confirm your appointment and reach out if needed. And if you’d like, we can also note your home address for any future correspondence. Whatever’s easiest for you!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Awesome, awesome. Yeah, my phone number is 0450-932-105.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Perfect, thank you! I've got that noted down. We’re all set for Monday at 3 p.m. If you have any other questions before then, just let me know!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Yeah, my home address is 50 Wells Street.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Awesome, thank you for"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Kode postal adalah 2016.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Perfect, I’ve got all the details now. We’re all set for your appointment on Monday. If anything else comes up, feel free to reach out. Looking forward to helping you get started!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yeah, I would like to know, you mentioned about the features, what's the difference between one or another bank account, for example, mine is student, but what's the difference with another kind of bank accounts?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Great question! Generally, student accounts often have lower fees, sometimes higher interest rates on savings, and additional perks like no minimum balance requirements. Regular accounts might have more standard fees or different features. We can definitely go over all the details during your appointment to find the best fit for you!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“I got it, I got it, thank you. Yeah, I have another question. Is there a monthly fee for this account?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, student accounts have minimal or even no monthly fees, but it can vary by bank and by specific account type. We’ll definitely confirm all those details when we meet, so you’ll have a clear picture!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Thank you, thank you so much. You guys offer also credit cards because I'm pretty new in the city and I think any moment I'm gonna need a credit card here.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, we do offer credit cards as well! We can go over the options during your appointment and find one that suits your needs, especially as you settle into the city. We’ll make sure everything’s covered!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yeah, I did the process already online, but unfortunately, I forgot.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "No worries at all,"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“My online banking password. Can you help me with that, please?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Of course! We can definitely help you reset your password during your visit, and make sure you have everything set up properly. Just bring along any identification and we’ll get it sorted out for you!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Yeah, just in case if someday I lost my card. What's the process to get a new one?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely! If you ever lose your card, you can contact us right away, and we’ll freeze it to prevent any unauthorized charges. Then, we’ll arrange for a replacement card, usually sent to your address. We’ll go through all the steps and make it super easy for you!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Yeah, could you confirm my address, please?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Of course! Your address is 50 Wells Street, Redfern, with the postal code 2026. Let me know if that’s correct or if there’s anything else you’d like to update!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“That's absolutely absolutely right. Thank you. And how do I check if international platforms are enabled on my account?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Great question! You can usually check that through your online banking portal, where you can manage your settings. And if you prefer, we can also help you enable or confirm that during your appointment, so you’ll be all set for international transfers."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“What's the feed for the international transfers?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "That can vary depending on the destination and the amount, but we can definitely go over the specific fee structure during your appointment. We’ll make sure you have a clear understanding of everything before you get started!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Yeah, for example, my transfers that are going to be to Colombia.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Got it! Transfers Transcript Unavailable"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "That makes sense! We can look into the specific rates and fees for transfers to Colombia and find the best option for you. We’ll make sure everything’s clear and convenient when we meet!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“質問に答えられますが、アバラッシュストリートを教えてください。”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Of course! Typically, the fee can range from a small flat fee to a percentage of the amount being transferred. On average, it might be around $10 to $20, but we can give you a precise number once we look at your specific bank and the amount. We’ll cover all that in detail when we meet!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Okay, no, no, no, that's perfect. For now, that's, uh, that's okay.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“So, okay, I'll see you, I think, I'll see you tomorrow for the appointment and thank you.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m looking forward to it. If you have any other questions before then, just let me know. Have a great day, and see you tomorrow!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Yeah, thank you.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care, and I'll see you soon. Have a wonderful day!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“See you soon. Thank you.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Absolutely, see you soon! Take care!"
+    }
+  ]
+}

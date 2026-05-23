@@ -1,0 +1,137 @@
+TASK 1: 
+
+You said: 
+“I want to practice how to order coffee at a cafe. You are breast walking in cafe in Sydney, I will play the role of a customer. Please create a realistic cafe scenario and response as if we were really there, ask me about my preference, helping me choose from the menu and explain different coffee options. Make the conversation go in naturally by asking at least three follow-up questions about size, milk, and payment.”
+00:36
+English Conversational Partner：
+Absolutely, let's do it!
+
+English Conversational Partner :
+Hi there! Welcome to our café. What kind of coffee would you like today? We have espresso, cappuccino, latte, and more!
+：You said: 
+“Well, do you have any recommendation for me? I like milk coffee.”
+00:07
+English Conversational Partner :
+Of course! If you enjoy milk coffee, you might like a latte, which is smooth and creamy, or maybe a cappuccino, which has a bit more foam. Do you prefer something stronger or a bit milder?
+You said: 
+“What's the difference between the cappuccino and the latte as well as a as well as a flat white?”
+00:06
+English Conversational Partner：
+Great question! So, a cappuccino has equal parts espresso, steamed milk, and a thick layer of foam. A latte has more steamed milk and just a small layer of foam, making it creamier. And a flat white is similar to a latte but with a velvety microfoam and a stronger coffee flavor. Which one sounds more appealing to you?
+You said: 
+
+“I'd like a stronger coffee. Maybe Latte is suitable for me.”
+00:03
+English Conversational Partner :
+Perfect! A latte it is. Now, would you like your latte in a small, medium, or large size? And also, what kind of milk would you prefer, like whole milk, skim milk, or maybe a plant-based milk?
+You said: 
+“do have a medium size, and also with, I think a natural milk is okay.”
+00:08
+English Conversational Partner :
+Absolutely, we can do a medium-sized latte with natural milk. That sounds great! And how would you like to pay today? We accept card, cash, or even mobile payments.
+You said: 
+“I wanna pay the card, and also do you have any dessert in today?”
+00:05
+English Conversational Partner :
+Yes, we do! We have a variety of desserts today, like muffins, brownies, and some pastries. Would you like to add something sweet to your order as well?
+You said: 
+“Um, I wanna have a brownie and a please toastie, um, and, uh, do you have, uh, cheesecake?”
+00:12
+English Conversational Partner ：
+Absolutely, we've got cheesecake as well! So, I'll add a brownie and a slice of cheesecake to your order. Is there anything else I can get for you, or are we all set?
+You said: 
+“And also, I want to toast my brownie.”
+00:04
+English Conversational Partner :
+Of course, we can definitely toast that brownie for you! So, we have a medium latte with natural milk, a toasted brownie, and a slice of cheesecake. That sounds delicious! Let me know if that’s everything, and I’ll get it all ready for you.
+You said: 
+“Yeah, thank you. It's okay. Can I grab any seat inside?”
+00:04
+English Conversational Partner :
+Absolutely! We have plenty of seating available. Feel free to choose any spot you like, and I'll bring your order right over to you once it's ready. Enjoy your time here!
+You said: 
+“Okay, thank you, and please give me some tissues for me.”
+00:03
+English Conversational Partner 
+Of course! I'll make sure to include some tissues with your order. If you need anything else at all, just let me know.
+
+
+
+TASK 2:
+You said: 
+
+“Hi, I'd like to book a table for two people tonight.”
+00:07
+English Conversational Partner :
+Absolutely! I'd be happy to help. What time would you like to make the reservation for, and do you have any specific preferences for seating?
+You said: 
+“Yes, can we sit near the window, if possible? And I want to book next Tuesday, 8 p.m.”
+00:16
+English Conversational Partner :
+Got it! So, a table for two next Tuesday at 8 p.m., and you'd like to be seated near the window. That sounds great! Is there any special occasion or any dietary preferences I should know about?
+You said: 
+“Yeah, I want to celebrate my friend's birthday, and do you have any decoration for us?”
+00:14
+English Conversational Partner :
+Oh, that sounds lovely! Yes, we can definitely arrange some decorations for the birthday. Could you let me know what kind of decorations you have in mind, or if there's a particular theme?
+You said: 
+“Will, could you give, could you prepare some candle for us? We want to bring a birthday cake for ourself. And could you, do you have the fridge? We want to refrigerate our cake.”
+00:22
+English Conversational Partner ：
+Of course! We can definitely provide candles for you, and you're more than welcome to bring your own birthday cake. We also have a fridge to keep it fresh, so no worries at all. Is there anything else you'd like us to arrange for the celebration?
+You said: 
+“Do you have a menu online? We want to see the menu first.”
+00:05
+English Conversational Partner :
+Absolutely, I can send you a link to our menu online. And if you have any questions about the dishes or need recommendations, just let me know!
+You said: 
+“And also, do you have a car park? Because we are driving on here.”
+00:07
+English Conversational Partner : 
+Yes, we do have a parking lot available for our guests, so you’ll have no trouble parking. If there's anything else you need, just let me know!
+You said: 
+“And my friend, do you have a vegetarian option? My friend is a vegetarian.”
+00:13
+English Conversational Partner ：
+Absolutely, we do have plenty of vegetarian options on our menu, so your friend will have a great choice. If you need any recommendations, I’m happy to help with that as well!
+You said: 
+“And also, is there any flexibility if we arrive 15 minutes late?”
+00:12
+English Conversational Partner ：
+Yes, absolutely! We can definitely accommodate a slight delay, so arriving 15 minutes late should be fine. Just let us know if there's any change in your plans, and we’ll keep everything ready for you!
+You said: 
+“Oh, by the way, the third seat is private, because if you have a room, private room is better, because we want to keep quiet.”
+00:15
+English Conversational Partner ：
+Absolutely, we can arrange a private room for you to ensure a quieter and more intimate experience. I'll make sure to reserve that for you as well. If there’s anything else you need, just let me know!
+You said: 
+“Sounds like great, and also, do you have any soft drink for us?”
+00:09
+English Conversational Partner ：
+Yes, definitely! We have a variety of soft drinks available, including sodas, juices, and sparkling water. So you’ll definitely have plenty of options to choose from! If you have any specific preferences, just let me know.
+You said: 
+“I think that's all, thank you!”
+00:02
+English Conversational Partner ：
+You’re very welcome! I’m glad I could help. If you need anything else, just let me know. Looking forward to having you both with us!
+You said: 
+“Oh, by the way, we wanna change the time, I get the wrong time, it's not next Tuesday, it's next Wednesday, 8pm.”
+00:13
+English Conversational Partner ：
+No worries at all! I'll update that to next Wednesday at 8 p.m. for you. Everything will be ready then. If there’s anything else you need, just let me know!
+You said: 
+“No, thank you. Uh, and, uh, and, uh, will I get the, the, uh, will I get the, will I get the, the,”
+00:15
+English Conversational Partner ：
+No problem at all! Feel free to let me know if you have any other questions or need anything else. I’m here to help, and I’m looking forward to your visit!
+You said: 
+“I mean, will I get the reservation message?”
+00:06
+English Conversational Partner ：
+Yes, absolutely! I’ll send you a confirmation message with all the details shortly. If you need anything else in the meantime, just let me know!
+You said: 
+“Thank you.”
+00:00
+English Conversational Partner ：
+You're very welcome! I'm glad I could help. If you think of anything else, just reach out. Have a wonderful day!
+

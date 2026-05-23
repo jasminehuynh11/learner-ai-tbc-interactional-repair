@@ -1,0 +1,78 @@
+[
+  {
+    "dialogue_id": "S18_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner says 'HOTAS' in turn 5, which is an unclear utterance. The bot implicitly repairs this by interpreting it as 'hot' in turn 6, and the conversation continues smoothly, indicating successful understanding."
+  },
+  {
+    "dialogue_id": "S18_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      29,
+      30
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner explicitly self-corrects their order from an initial hesitation ('um, no') to 'a banana bread' in turn 29. The bot successfully processes this corrected order in turn 30, resolving the self-correction."
+  },
+  {
+    "dialogue_id": "S18_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      35,
+      36
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner checking understanding – complex order change",
+    "evidence_summary": "The learner makes a complex order change in turn 35 and explicitly asks for confirmation ('right?'). The bot confirms the entire order correctly in turn 36, resolving the learner's check for understanding."
+  },
+  {
+    "dialogue_id": "S18_W1_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      53,
+      54
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand word/phrase ('Arabica')",
+    "evidence_summary": "The learner misinterprets 'Arabica beans' as 'sourced from Arabic' in turn 53. The bot clarifies the term in turn 54, and the conversation moves on, indicating the misunderstanding was resolved."
+  },
+  {
+    "dialogue_id": "S18_W1_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      57,
+      58
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – misinterpretation of 'without milk'",
+    "evidence_summary": "The learner requests a drink 'without milk' in turn 57. The bot misinterprets this by suggesting 'use oat milk for a creamy, dairy-free option' in turn 58. This bot misunderstanding is immediately addressed by the learner in the subsequent turn, leading to its resolution."
+  },
+  {
+    "dialogue_id": "S18_W1_T1",
+    "repair_id": 6,
+    "turn_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner clarification – specifying milk preference after bot's misinterpretation",
+    "evidence_summary": "Following the bot's misinterpretation in turn 58, the learner explicitly corrects the bot's assumption of 'oat milk' and specifies 'almond milk' across turns 59, 61, and 63. The bot confirms the change to almond milk in turn 64, successfully resolving the clarification."
+  }
+]

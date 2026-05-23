@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S32_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6,
+      7
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "lack of understanding – learner didn't catch previous utterance",
+    "evidence_summary": "The learner explicitly states 'Sorry, can you repeat again?' in turn 5, indicating they did not understand or hear the bot's previous recommendations. The bot repeats the options in turn 6, and the learner then asks a new, relevant question in turn 7, showing the issue was resolved."
+  },
+  {
+    "dialogue_id": "S32_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      29,
+      30,
+      31
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot ambiguity – bot's answer was unclear/incomplete",
+    "evidence_summary": "In turn 27, the learner asks about paying with card or cash. The bot's response in turn 28 only explicitly confirms card payment, leading the learner to infer cash is not accepted. The learner initiates repair in turn 29 by asking 'So you don't accept cash, right?'. The bot clarifies in turn 30 that cash is accepted, and the learner accepts this clarification and makes a choice in turn 31, resolving the issue."
+  }
+]

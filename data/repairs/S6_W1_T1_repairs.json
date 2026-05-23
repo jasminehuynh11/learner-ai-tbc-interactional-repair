@@ -1,0 +1,39 @@
+[
+  {
+    "dialogue_id": "S6_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'decaf'",
+    "evidence_summary": "The learner asks for clarification about the term 'decaf', indicating a lack of understanding. The bot explains that decaf means no caffeine or very little, resolving the learner's confusion."
+  },
+  {
+    "dialogue_id": "S6_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      14,
+      15
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies question about milk",
+    "evidence_summary": "The learner initially asks what is most popular, then self-corrects to clarify the question about milk preference. The bot responds with the most popular choice, resolving the learner's query."
+  },
+  {
+    "dialogue_id": "S6_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      19,
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – misheard 'banana bread' as 'banana shake'",
+    "evidence_summary": "The bot misunderstands the learner's request for 'banana bread' as 'banana shake'. The learner corrects this by repeating 'banana bread', and the bot acknowledges the correction, resolving the misunderstanding."
+  }
+]

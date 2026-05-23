@@ -1,0 +1,150 @@
+{
+  "student_id": 12,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S12_W1_T2",
+  "source_file": "data\\raw\\#12\\#12\\#12. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "okay let's start hi i'd like to book a book for three tonight”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to help you with that. How many people will be in your party for that reservation?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“And maybe just to person.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, two people. And do you have a specific time in mind for that reservation?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Maybe 6 o'clock in the afternoon.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Perfect, 6 o'clock in the evening for two people. Any preference for the type of seating, like indoors or outdoors?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I want a doctor outdoor sitting and just near the road, please.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, outdoor seating with a nice view of the street. That sounds lovely! Anything else I should note for your reservation, like a special occasion or dietary requests?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Today is my friend's birthday, so I'm booking for her birthday to offer anything in all the decorations.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Oh, that's so sweet! I'll make sure to add a note for the birthday celebration and a special dessert for her. Anything else you'd like to include?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Can you put a candle on the dessert?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, I'll make sure there's a candle on the dessert for her. That'll be a lovely touch! I think we have everything set. If there's anything else, just let me know!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Oops, I forgot to bring our cake to your restaurant. So, do you have any cakes or some things that are very beautiful for the birthday?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That sounds wonderful! We do have some lovely cakes that are perfect for a birthday celebration, but you're absolutely welcome to bring your own as well. Just let us know in advance, and we'll make sure everything is set up perfectly for you."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“So could you give me some pictures about the lovely cakes?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, I'll make a note of that and we'll ensure everything is ready for the special celebration. If you think of anything else, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, and also I want a romantic table for us because she's my best friend.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Oh, that's lovely! I'll make sure the table is set up to be extra romantic and cozy for the two of you. I think it’s going to be a wonderful evening! If there’s anything else you need, just let me know."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Will I get a confirmation message?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yes, absolutely! I’ll send you a confirmation message with all the details shortly. If you have any other questions in the meantime, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Don't forget to send me some photos about the lovely cakes so I and I will choose one for her birthday.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, I'll include that in the confirmation as well. That way you'll have all the details and can make your choice easily. Thanks for letting me know!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Is the menu online or offline?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "We can definitely provide you with an online menu so you can take a look at it at your convenience. I'll include the link in the confirmation as well."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Great, I will see you at 6 tonight.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "No problem at all! I'll make sure to send that over to you as soon as possible so you can have a look tonight. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“That's all. Thank you.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad to help. Have a wonderful day, and I'll be in touch soon!"
+    }
+  ]
+}

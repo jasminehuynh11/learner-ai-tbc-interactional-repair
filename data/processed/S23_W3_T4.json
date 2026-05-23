@@ -1,0 +1,225 @@
+{
+  "student_id": 23,
+  "week": 3,
+  "task": 4,
+  "task_label": "T4",
+  "dialogue_id": "S23_W3_T4",
+  "source_file": "data\\raw\\#23\\#23\\#23. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Maintenance Request Scenario)"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi how are you"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hey there! How's it going? What can I help you with today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I want to practice about requesting maintenance. You are a housing manager."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help with that! So, let’s imagine you’re reaching out to me as the housing manager for a maintenance request. What kind of issue are you dealing with?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Yeah, so I will play the role as a tenant. Please create a realistic scenario and respond as if we were really there."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sounds great! Let's do that. So, let's say you’re a tenant, and you’re reaching out about a leaky faucet in your kitchen. Whenever you're ready, you can let me know the details, and I'll respond as your housing manager."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "OK."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, perfect! So whenever you're ready, go ahead and describe the issue with the faucet, and I'll respond as your housing manager."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Hi, I think I need your help because there is a leak under the kitchen sink."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Oh, I'm sorry to hear that! Thank you for letting me know. Could you tell me how long the leak has been happening and if it's getting worse?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yeah, actually it happened a week ago, but it's getting worse, so I think I need your help."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it, I understand. Thanks for sharing that. Could you also let me know if you've noticed any water damage or if there's any specific time that works best for us to come by and fix it?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Anytime is okay because I work from home."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s really convenient, thank you! And one more thing: could you let me know the best way to reach you, like your phone number or email, just in case we need to coordinate further?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Here is my contact number and email address."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Perfect, thank you so much! I'll make sure we have all that on file. We'll get someone over to fix that leak as soon as possible. Let me know if there's anything else you need in the meantime!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Can you send me a confirmation when the repair is scheduled?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Of course, absolutely! I’ll send you a confirmation with the date and time as soon as it’s scheduled. If anything changes, I’ll let you know right away. Sounds good?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "I want to let you know about that. This is the second time it's happened."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "I appreciate you letting me know. That definitely helps us understand the situation better. We'll make sure to address it thoroughly this time. If there's anything else you'd like to mention, just let me know!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Yeah, it was fixed last month, but the issue has returned. Should I be worried about any long-term damage?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "I completely understand your concern. We’ll definitely take a closer look to make sure there’s no underlying issue. But no worries, we’ll get it sorted out and keep you updated on everything."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Or can you do that today?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "I'll do my best to arrange it as soon as possible. Let me check the schedule, and I'll confirm the earliest available time for today. I’ll keep you posted!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Because it's leaking a lot, so I think, can someone come after business hours?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange that. I’ll coordinate with our maintenance team to see if someone can come after hours to fix it. I’ll confirm the details with you shortly, and we’ll get that leak sorted out quickly."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Is there any emergency number I can call on weekend?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Yes, absolutely! I’ll provide you with the emergency contact number so you can reach us anytime, even on weekends. I’ll include that in the confirmation as well, so you’ll always have it handy."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Um, let me know if you need any more information."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely, I'll be sure to reach out if anything else comes up. And of course, feel free to let me know if you have any other concerns. We’ll take care of everything for you!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Can you call or message me before you come here?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Of course, I’ll make sure to give you a call or send a message before we arrive, so you’ll know exactly when to expect us. We'll keep you updated every step of the way!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Thank you for organizing this so quickly."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm happy to help. If you need anything else at all, just let me know."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Thank you. Have a good day."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "You're very welcome! You have a great day too, and take care!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "How was this conversation?"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "I thought it went really well! You did a great job practicing the scenario, and we covered all the details smoothly. If you’d like to practice more or tweak anything, just let me know!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Okay, then I'll change the topic."
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Sounds good! Feel free to let me know what new topic or scenario you’d like to explore, and we can jump right in."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Okay, then I want to practice about seeking technical support device or services. You are a like tech support agent or customer service assistant."
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Perfect! I can definitely do that. So, let’s imagine you’re reaching out for help with a device issue. Whenever you’re ready, just let me know what kind of problem you’re having, and I’ll respond as your tech support agent."
+    }
+  ]
+}

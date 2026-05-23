@@ -1,0 +1,215 @@
+{
+  "student_id": 33,
+  "week": 4,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S33_W4_T1",
+  "source_file": "data\\raw\\#33\\#33\\#33. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Participating in Group Decisions and Negotiating Responsibilities"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi everyone. Before we start anything, I think we really need to talk about how we are going to work together, because last time in another subject it became very stressful at the end."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "I think that’s a good idea. Group work can get messy if roles aren’t clear. What part do you want to start with?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Maybe roles first. Because if roles are unclear, then people either do nothing or do too much."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That’s true. What kind of role do you think suits you best?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I think I can do research. I’m okay with reading articles, finding sources, and summarising information."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That’s great. How do you feel about presenting or speaking in front of the class?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Honestly, I feel nervous about that. I can speak, but when I’m nervous, my English becomes worse."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That’s understandable. Would you rather focus on writing instead of presenting?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Yes, writing is more comfortable. But… I don’t want to avoid presenting completely, because I know it’s important."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "So maybe a smaller speaking role?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yes, maybe. Like explaining one slide, not the whole presentation."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That sounds reasonable. We can plan it that way."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Okay. But writing also has many parts, so I want to be clear which writing part I will do."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Good point. We have introduction, literature review, analysis, and conclusion. Which part would you prefer?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Literature review. But I want to check if I understand correctly."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Sure, go ahead."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Literature review means summarising what other researchers said, not my opinion, right?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Mostly yes. You summarise and compare previous studies, and maybe connect them to our topic."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Okay, so some connection is allowed. I thought it’s only summary."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "You’re right to check. It’s not only summary."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Alright. I think I can do that."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "How about deadlines? Do you think we should set internal deadlines?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Yes, definitely. If we don’t, everything will be last minute."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "What would you suggest?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Maybe one week before the actual submission. But I’m not sure if that’s realistic for everyone."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "That’s a fair concern. Why do you think it might be difficult?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Because some people work part-time, and sometimes they reply late. I don’t want to sound controlling."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That’s understandable. How could we phrase it so it feels supportive, not controlling?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Maybe we can say “draft deadline”, not “final deadline”."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That’s a good strategy."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Also, I think regular check-ins help. Not long meetings, just short messages."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "How often do you think is reasonable?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Maybe every three days. But not too strict."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "So something flexible but consistent."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Yes. Because English discussion meetings are tiring for me, honestly."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "That’s completely fair. We can keep communication simple."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Okay, so let me summarise to check if I understood correctly. My role is research and literature review writing, small speaking part in presentation, draft deadline one week early, and short check-ins every few days."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Yes, that matches what we discussed."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Okay. I feel much less anxious now."
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "I’m glad. Clear planning really helps."
+    }
+  ]
+}

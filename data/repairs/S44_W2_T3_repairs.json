@@ -1,0 +1,71 @@
+[
+  {
+    "dialogue_id": "S44_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – misinterpretation of ambiguous budget",
+    "evidence_summary": "The learner stated a budget of \"500\" (T10), which was ambiguous. The bot then misinterpreted this as \"$2,500 per month\" (T13). The learner initiated a repair by apologizing (T14) and clarifying \"500 per week\" (T16), which the bot then confirmed understanding (T17), resolving the issue."
+  },
+  {
+    "dialogue_id": "S44_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'length of lease'",
+    "evidence_summary": "The learner explicitly stated they did not understand the bot's question about \"length of lease\" (T20). The bot then rephrased the question (T21), which the learner understood and responded to (T22), leading to the bot confirming understanding (T23)."
+  },
+  {
+    "dialogue_id": "S44_W2_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – ignored multiple explicit questions",
+    "evidence_summary": "The learner asked several specific questions (T28-33) which the bot completely ignored, instead providing a generic closing (T34). The learner initiated a repair by correcting the bot and reiterating the request for information (T35). The bot then acknowledged the request for pet and smoking policies (T36), resolving the immediate communication breakdown."
+  },
+  {
+    "dialogue_id": "S44_W2_T3",
+    "repair_id": 4,
+    "turn_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner's expectation mismatch – timing of information delivery",
+    "evidence_summary": "After the bot stated it would \"find out\" and \"let you know right away\" about the bond (T40), the learner clarified they wanted the information \"now\" (T41, T44). The bot then explicitly promised to provide \"everything right away\" (T45), which the learner accepted (T46), resolving the misunderstanding about the timing of information delivery."
+  }
+]

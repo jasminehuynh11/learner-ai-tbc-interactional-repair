@@ -1,0 +1,25 @@
+{
+  "student_id": 2,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S2_W1_T2",
+  "source_file": "data\\raw\\#2\\#2\\#2. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2 (AI model ChatGPT 5)"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, hello. Hi.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hello! Thank you for calling. This is Luna from the restaurant. How can I assist you today?"
+    }
+  ]
+}

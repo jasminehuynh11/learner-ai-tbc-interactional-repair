@@ -1,0 +1,360 @@
+Task 1: 
+
+You said:
+Reporting an Internet Outage at Your Housing Scenario: You are contacting your housing provider or Internet company to report that the Internet is not working. You need to describe the problem, ask for assistance, and check when the issue will be fixed. Practise speaking clearly and politely in a service setting. You will need to define the chatbot’s role as a housing manager or Internet support staff. You can choose situations from the examples below; start with a simple report and try a more detailed interaction by asking about troubleshooting steps, technician availability, or service timelines. Learning objectives: • Use and ask about specific vocabulary for technical problems (e.g., router, connection, or outage). • Practise sequencing (e.g., when it happened and what you tried). • Use polite and persistent questioning to request assistance. • (Advanced option) Manage extended service interactions by troubleshooting the issue, confirming steps, and negotiating next actions.
+English Conversational Partner said:
+Sure. Let’s begin. I’ll play the role of your Internet company’s support staff.
+Hi, this is Internet Support. How can I help you with your connection today?
+You said:
+“Hi, I'm contacting you because my internet isn't working now.”
+00:07
+English Conversational Partner said:
+I’m sorry to hear that. Could you please let me know when the outage started and if you’ve tried any troubleshooting steps so far?
+You said:
+“It was working fine this morning, but it suddenly stopped around 11.”
+00:08
+English Conversational Partner said:
+Got it. Thank you for that info. Have you tried restarting your router or checking the cables to see if everything is connected properly?
+You said:
+“I've already tried that one, but it didn't help.”
+00:04
+English Conversational Partner said:
+I see. Understood. In that case, I can arrange for a technician to come by. Could you let me know your address and the best time for the appointment?
+You said:
+“Okay, my address is North Willoughby, 8 Patrick Street.”
+00:08
+English Conversational Partner said:
+Thank you for that. And what time would be most convenient for you for the technician to come by?
+You said:
+“Actually, today I have a plan today, so when is the available day? What day is it available?”
+00:10
+English Conversational Partner said:
+Absolutely. We have availability tomorrow and also later in the week. Would tomorrow work for you, or would you prefer a different day?
+You said:
+“I prefer the next weeks on Monday to Wednesday. Is it okay?”
+00:05
+English Conversational Partner said:
+Absolutely, that works. We can schedule the technician for Monday. Does a morning or afternoon appointment suit you better?
+You said:
+“Morning is better.”
+00:01
+English Conversational Partner said:
+Great, we’ll schedule the technician for Monday morning. Is there anything else I can assist you with in the meantime?
+You said:
+“So,”
+00:00
+English Conversational Partner said:
+Alright, noted. If you think of anything else, just let me know. Otherwise, we’ll see you on Monday morning.
+You said:
+“So should I try anything else before someone comes?”
+00:03
+English Conversational Partner said:
+You could try checking for any outages in your area through our online portal, or ensure that all cables are firmly connected. If everything looks fine, we’ll handle it when the technician arrives.
+You said:
+“Okay, got it. Thank you for your help.”
+00:02
+English Conversational Partner said:
+You’re welcome! If you need anything else, just let me know. Have a great day!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task 2:
+
+You said:
+Reporting a Lost Item or Filing a Minor Police Report Scenario: You have lost something important (e.g. your wallet or phone) and need to report it either to a lost-and-found service or to a police station for a minor report. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a lost-and-found assistant or police officer. You can choose situations from the examples below; start with a simple report and try a more detailed interaction by asking about recovery steps, documentation, or how to follow up.
+English Conversational Partner said:
+Alright. I’ll play the role of a police officer taking your report.
+Good afternoon. You’re at the local police station. What item have you lost?
+You said:
+“Bye to you.”
+00:01
+English Conversational Partner said:
+I’m sorry to hear that.
+You said:
+“Hello, I'd like to report a lost item. I think I lost my wallet in the train around 5 AM.”
+00:15
+English Conversational Partner said:
+I understand. Thank you for letting us know. Could you please provide a few details about your wallet, such as its color, brand, or any distinguishing features?
+You said:
+“It's supposed to be brown, and the color is dramatic, but it's a really colorful one.”
+00:06
+English Conversational Partner said:
+Got it, a colorful
+You said:
+“with their mental team.”
+00:05
+English Conversational Partner said:
+Understood, a pale metal chain as well. Thank you for that detail. Could you also let me know the train line or the station where you last had it?
+You said:
+“I'm sorry.”
+00:01
+English Conversational Partner said:
+No worries at all. Whenever you’re ready, just let me know the details, and we’ll proceed from there.
+You said:
+“Sorry, can I, can I, what did you say that, I'm so sorry.”
+00:07
+English Conversational Partner said:
+Of course, no problem at all. I was just asking if you could let me know the train line or the station where you last had your wallet. Whenever you're ready, feel free to share that information.
+You said:
+“Yes, so what is your question before?”
+00:03
+English Conversational Partner said:
+I was asking for the train line or the station where you last had your wallet, just to help narrow down the location.
+You said:
+“Oh, I see.”
+00:02
+English Conversational Partner said:
+No worries at all. Whenever you have that information,
+You said:
+“The last train is, the last train lane is the Metro.”
+00:05
+English Conversational Partner said:
+Got it, the Metro
+You said:
+“to tell who another Gadigal to translate.”
+00:05
+English Conversational Partner said:
+Thank you for that detail. That definitely helps. I’ll note that information, and we’ll proceed with the report from here.
+You said:
+“So can I leave my contact detail in case someone brings it?”
+00:04
+English Conversational Partner said:
+Absolutely, please go ahead and share your contact details, and we’ll make sure to reach out if it’s found.
+You said:
+“So, if someone...”
+00:02
+English Conversational Partner said:
+If someone finds it,
+You said:
+“If someone brings my web, please text me this number 123-456-799.”
+00:09
+English Conversational Partner said:
+All right, I’ve got that noted. We’ll be sure to contact you if it’s recovered. Let us know if there’s anything else we can assist you with.
+You said:
+“Oh, do I need to fill out a report or some form?”
+00:04
+English Conversational Partner said:
+Yes, I’ll provide you with a form to fill out with the details we discussed. Once that’s completed, we’ll have everything on record.
+You said:
+“Okay, could you send me an email or this short message?”
+00:04
+English Conversational Partner said:
+Of course, I can send you the form via email or a text message, whichever you prefer. Just let me know your preferred contact method, and I’ll take care of it.
+You said:
+“text message please. so please text me about this number.
+00:04
+English Conversational Partner said:
+Perfect, I’ll make sure to text you with all the details. If you need anything else, just let me know.
+You said:
+“None so far, thank you for your help. I'll check back later.”
+00:03
+English Conversational Partner said:
+You’re very welcome! Feel free to reach out anytime. Take care, and we’ll be in touch.
+
+
+
+
+
+
+
+
+Task 3:
+
+You said:
+Requesting Maintenance or Repairs in a Rental Property Scenario: Something is broken or needs fixing in your rental accommodation. You are contacting your property manager or landlord to request a repair. Practise speaking clearly and politely in a service setting. You will need to define the chatbot’s role as a property manager or housing agent. You can choose situations from the examples below; start with a basic repair request and try a more detailed interaction by discussing access arrangements, urgency levels, or safety concerns. Learning objectives: • Use clear descriptive and locational language. • Ask and answer questions about cause and urgency. • Practise formal yet direct request language. • (Advanced option) Manage extended repair requests by negotiating access times, explaining complications, or requesting updates on repair status.
+English Conversational Partner said:
+Sure. I’ll play the role of your property manager.
+Good morning. This is the property office. What seems to need repair in your unit?
+You said:
+“To request not repair, the heater in my bedroom stopped working last night.”
+00:07
+English Conversational Partner said:
+I’m sorry to hear that. Could you let me know if there are any other issues with it, and how urgently you need the repair? Also, let me know a suitable time for our maintenance team to come by.
+You said:
+“It's quite cold, so it will be great if someone could come soon.”
+00:07
+English Conversational Partner said:
+Got it. I’ll
+You said:
+“Could someone come to check it today or tomorrow?”
+00:03
+English Conversational Partner said:
+Absolutely, we’ll arrange for someone to come by either today or tomorrow. Could you please confirm a preferred time or any time that works best for you?
+You said:
+“So today, if anytime is okay, but tomorrow, I will leave at 3 p.m., so before that time, is it okay for me?”
+00:13
+English Conversational Partner said:
+That sounds good. We’ll schedule the repair for today or before 3 p.m. tomorrow. I’ll confirm the exact time shortly. Let me know if you have any other concerns.
+You said:
+“So should I stay home, or can I leave the key at reception?”
+00:04
+English Conversational Partner said:
+You can definitely leave the key at the reception if that’s more convenient for you. Just let us know, and we’ll coordinate accordingly. Whatever works best for you is fine.
+You said:
+“Okay, so if”
+00:04
+English Conversational Partner said:
+All right, that works
+You said:
+“If the time is so, it's more convenient for me to leave a key at reception, but if you can come today, I can stay at home all day, so it doesn't matter for me. So if you fix the time, please let me know.”
+00:28
+English Conversational Partner said:
+Absolutely, that’s perfect. I’ll confirm the time and let you know as soon as we have it scheduled. Thanks for the flexibility, and we’ll make sure everything gets sorted out.
+You said:
+“Okay, so what time you can fix it?”
+00:05
+English Conversational Partner said:
+I’ll check our technician’s schedule and let you know the exact time shortly. We’ll do our best to accommodate your availability. Thank you for your patience.
+You said:
+“Okay, so if you fix it, please let me know about this number.”
+00:06
+English Conversational Partner said:
+Absolutely, I’ll keep you updated and confirm everything via that number. If you have any other questions in the meantime, just let me know.
+You said:
+“None so far. Thank you for arranging this.”
+00:03
+English Conversational Partner said:
+You’re very welcome! It’s my pleasure to help. If you need anything else, just let me know.
+You said:
+“Thank you. Goodbye.”
+00:01
+English Conversational Partner said:
+You’re welcome! Goodbye, and take care!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You said:
+Task 4: Seeking Technical Support for a Device or Service Scenario: You are contacting customer support for a technical problem with your phone, computer, or an online service. You need help troubleshooting or asking for service options. Practise speaking clearly and politely using technology-related vocabulary. You will need to define the chatbot’s role as a tech support agent or customer service assistant. You can choose situations from the examples below; start with a simple issue and try a more detailed interaction by discussing troubleshooting steps, data recovery, or service coverage. Learning objectives: • Practise using tech-related vocabulary and error descriptions. • Follow instructions and sequence events. • Use polite and persistent enquiry language. • (Advanced option) Manage extended support conversations by clarifying error symptoms, asking about warranties or replacements, and confirming next actions.
+English Conversational Partner said:
+Sure. I’ll be your tech support agent.
+Hello, this is Technical Support. What device or service are you having trouble with today?
+You said:
+“Hi, I'm having trouble with my laptop. It started at 12 a.m., and I cannot fix it myself.”
+00:15
+English Conversational Partner said:
+I understand. Let's get this sorted out. Could you please describe the issue in a bit more detail? For example, are you seeing any error messages or does the laptop not power on at all?
+You said:
+“Now my computer is showing that error, and I tried to reset or re-reset, um, so I'm gonna say”
+00:13
+English Conversational Partner said:
+No worries. It sounds like you attempted a reset. Could you let me know what steps you tried exactly, and if there were any specific symptoms, like unusual noises or lights on the laptop? That will help narrow down the issue.
+You said:
+“I'm sorry, pardon?”
+00:01
+English Conversational Partner said:
+No problem at all. What I meant was, if you can share more details about what you tried, like any reset steps or any signs you noticed, that will help me guide you more effectively. Let me know whenever you're ready.
+You said:
+“I've already tried restarting and updating, but it didn't work.”
+00:07
+English Conversational Partner said:
+Got it. Thanks for that information. In that case, we can try some more advanced troubleshooting steps. Let me know if you’re able to run any diagnostic tools, or if you’d like guidance on how to proceed further.
+You said:
+“So please let me know about proceed process. What should I do? What can I do?”
+00:08
+English Conversational Partner said:
+Absolutely. The next step would be to check for any software updates or run a system diagnostic if possible. If that doesn’t resolve it, we can look into potential hardware issues or arrange for further support. Let me know which option works best for you.
+You said:
+“I'm sorry, I beg your pardon.”
+00:02
+English Conversational Partner said:
+No worries at all. Feel free to let me know whenever you’re ready, and I’ll be here to help step by step. Just let me know how you’d like to proceed.
+You said:
+“Oh, the first step is better for me.”
+00:02
+English Conversational Partner said:
+Understood. Let’s start with the simplest troubleshooting step first, and we’ll build from there. If you need any guidance along the way, just let me know.
+You said:
+“So could you tell me what should I try next?”
+00:03
+English Conversational Partner said:
+Certainly. The next step would be to run a system diagnostic tool if your device supports it, or to check for any pending software updates. If you let me know what operating system you’re using, I can guide you through those steps in detail.
+You said:
+“It's, uh, Apple. I know, sorry, Windows 11.”
+00:06
+English Conversational Partner said:
+Got it, Windows 11.
+You said:
+“About one year old, the error message says you cannot stop, you cannot use this.”
+00:10
+English Conversational Partner said:
+Understood.
+You said:
+“Command.”
+00:00
+English Conversational Partner said:
+No problem at all. Whenever you’re ready, we can go step-by-step through the troubleshooting process. Just let me know how you’d like to proceed.
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Sounds good. Feel free to reach out anytime you’re ready, and I’ll be here to help. Take your time, and I’m here whenever you need assistance.
+You said:
+“Okay, so I will try some resetting. I'm not sure, sorry, what should I try next one? I forgot the next step. Updating.”
+00:15
+English Conversational Partner said:
+No worries at all. After resetting, the next step would be to check for any available updates on Windows Update. Once that’s done, we can also run the built-in troubleshooting tools to see if they detect any issues. Just let me know if you need guidance on any of these steps.
+You said:
+“Okay, so you mean if it's not fixed or after I updating or something like that, so...”
+00:10
+English Conversational Partner said:
+Exactly. If the issue persists after updating, we can move on to more advanced troubleshooting, like checking hardware components or looking into error logs. But we’ll take it step-by-step, and I’ll be here to help throughout the process.
+You said:
+“Okay, I already tried updating and resetting and restarting, so maybe I couldn't, I cannot fix it, I think, so can I get a case number for”
+00:22
+English Conversational Partner said:
+Of course. I’ll
+You said:
+“no no no no just can i check or some can i”
+00:06
+English Conversational Partner said:
+No problem at all.
+You said:
+“and a fake center or something like that.”
+00:04
+English Conversational Partner said:
+Absolutely, we can arrange that. I can help you find a nearby service center or guide you on how to get your device checked professionally. Just let me know what you prefer, and we’ll take it from there.
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+Sounds good! If you need any further assistance or have any questions as you go along, just let me know. I’m here to help.
+You said:
+“Okay, thank you for your support. I'll try those steps and...”
+00:08
+English Conversational Partner said:
+You’re very welcome!
+You said:
+“yeah i will go to the customer service service center near from here yeah if i need”
+00:09
+English Conversational Partner said:
+That sounds like a great plan. If you need any more help or have questions along the way, just let me know. Good luck, and I’m here if you need anything further!
+You said:
+“Thank you.”
+00:00
+English Conversational Partner said:
+You’re welcome! Have a great day.
+Top of Form

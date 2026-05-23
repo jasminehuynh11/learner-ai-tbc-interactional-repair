@@ -1,0 +1,770 @@
+{
+  "student_id": 34,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S34_W2_T1",
+  "source_file": "data\\raw\\#34\\#34\\#34. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I will practice how to visiting a medical clinic and booking or changing an appointment. You are a receptionist or staff member at a medical clinic working in a medical clinic's catering. I'll play the role of customer. Please create a realistic medical clinic scenario and respond as if we are really there. Help me talk about check-in by symptoms, clinic available times, or confirm appointment details. Keep the conversation ongoing naturally and asking at least three follow-up questions about check-up procedures. First, prescription requirements for clinic policies.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! Let's dive right in. Receptionist: Good morning, and welcome to Harbourview Medical Clinic. How can I assist you today? Are you here to check in for your appointment, or would you like to book or change one? Feel free to respond with your scenario, and we’ll keep it going from there!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Let's start.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Perfect! Let’s get started. **Reception"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Let's start.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure, no worries! Whenever you're ready, you can let me know whether you’re here to check in for your appointment or if you’d like to book or change one. I’m here to help with any details you need!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course! I’d be happy to help you with that. Could you let me know what kind of appointment you’re looking for, and if you have any preferred date or time?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I have a fever, and I'd like to check the COVID.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "I’m sorry to hear"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Could I make a reservation this afternoon or tomorrow morning?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, we can check that for you. Let me see what’s available. Would you prefer an afternoon appointment today, or would tomorrow morning work better for you?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Also, as possible, I prefer.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. Let me check our schedule for both today and tomorrow. Could you also let me know if there’s a specific time range that works best for you, or if you’re flexible?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "flexible"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect, that gives us some flexibility. Let me check the available slots now, and I’ll find the earliest convenient time for you. Also, if you have any other questions about the check-up or any specific requirements, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“A few minutes later...”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "All right, I’ve checked our schedule, and we do have an available slot this afternoon at , or alternatively, tomorrow morning at 9 AM. Which one would you prefer? And also, do you have any questions about the check-up procedures or anything else we can assist you with?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I'd like to go 3.30 p.m. today.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Great, I've booked you in for  today. Just to confirm, please remember to bring your ID and any relevant health information. Is there anything else you’d like to know about the appointment or our clinic policies before your visit?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Could I use all SHC because I'm international student?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, we do accept OSHC for international students. When you arrive, just let us know, and we’ll ensure everything is processed smoothly. If you have any other questions or need further assistance, feel free to ask!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "How much is the cost?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Typically, OSHC covers most of the consultation costs, but there might be some additional fees depending on the treatment or any tests required. We can give you a detailed breakdown when you come in. If you have any concerns, just let us know, and we’ll be happy to help!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“How much should I pay for?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "That can vary depending on the specific services and any additional treatments. Generally, the consultation fee is minimal if covered by OSHC, but for any tests or prescriptions, there might be a small out-of-pocket cost. We can provide a more precise estimate"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Roughly, for example, roughly how much is it? For example, I see a doctor and just have their medicine.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Of course! For a standard consultation and a basic prescription, it’s usually around a small co-payment, often between $20 to $50, depending on the specific medication. Of course, we’ll confirm the exact cost"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You’re very welcome!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“So, thank you so much.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "My pleasure! If you"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“My name is BlaBlaBla, and my phone call is BlaBlaBla.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Got it, thank you"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Feel then.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, whenever you're ready, just let me know. I’m here to help with anything you need."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“or Prefinish.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "All right, sounds good! If you have any more questions in the future, just let me know. Have a great day!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Roll play finished"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Perfect! Glad we could wrap that up. If you ever want to practise again or have any other scenarios in mind, just let me know. Have a wonderful day!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“at 3 p.m.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Got it, I'll keep"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“I'm calling clinic to change my medical appointment. Hello. Can I cancel my 3.30 PM appointment today?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Of course! I can help you with that. Let me just pull up your appointment details. May I have your name, please, so I can locate your booking?"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“My name is blah blah blah.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Thank you! I’ve found your appointment. I’ll go ahead and cancel that for you. Is there another time you’d like to reschedule, or would you just like to cancel it completely?"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Ah, I just, I would like to just cancel. Is there a cancellation fee?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Got it, I’ll cancel that for you right away. Typically, we do have a small cancellation fee if it’s within 24 hours of the appointment. Let me check that for you and confirm the details."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“A few minutes later.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "All right, I've confirmed that there is a small cancellation fee of $20 since it’s within the 24-hour window. Would you like me to proceed with the cancellation, and is there anything else I can assist you with?"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Is that covered by OSHG?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "In most cases, the cancellation fee isn’t covered by OSHC, as it’s considered a clinic policy fee. However, if you have any concerns, we can definitely look into it further. Let me know how you’d like to proceed!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“We just proceed with OSHU.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll go ahead and apply that. I’ll make sure everything is sorted with your OSHC coverage, and we’ll take care of the cancellation fee. If you need any more assistance or have any other questions, just let me know!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Coercive payment by OHS-HG? What should I do now?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "All set! Since everything’s covered by OSHC, there’s no additional payment needed. You’re all good to go. If you have any other questions or need to reschedule in the future, just let us know. Have a wonderful day!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Roleplay finish.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "All right, perfect! If you ever want to run through another scenario or have any more questions, just let me know. Have a great one!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Next scenario is, I'm going clinic directory.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Sounds good! In that"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“So, in front of our session. Hi.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Hi there! Welcome to"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“How long is the current wait?”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "At the moment, the current wait is about 15 minutes. If you’d like, you can have a seat, and we’ll call you as soon as the doctor is ready. Is there anything else I can help you with while you wait?"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“I'm here for appointment with Dr. Smith.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Great! I’ll make"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“Is he also, should I also wait him 15 minutes?”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Yes, that’s correct. Doctor Smith should be available in about 15 minutes, so you can have a seat, and we’ll call you as soon as he’s ready. If you need anything in the meantime, just let us know!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“I'm so sorry, 50, 1-5 minutes or 5-0 minutes, which one is correct?”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "No worries at all! It’s about 15 minutes, so roughly a quarter of an hour. You should be seen pretty soon. If anything changes, I’ll let you know!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“So you mean 1, 5?”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Exactly, yes, 15 minutes. That should be the correct wait time. If you have any other questions or need anything else while you wait, just let me know!"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything else at all, just give me a shout. Enjoy"
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "?"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "Sounds great! Let’s set the scene."
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "“Helping someone else book an appointment”"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "Of course! I’d be happy to help with that. Could you let me know your friend’s name and what kind of appointment they’re looking to book? Also, if they have any preferred dates or times, that would be great to know!"
+    },
+    {
+      "turn": 79,
+      "speaker": "learner",
+      "text": "“My friend's name is Blahblahblah.”"
+    },
+    {
+      "turn": 80,
+      "speaker": "bot",
+      "text": "Perfect, thank you! And do you know"
+    },
+    {
+      "turn": 81,
+      "speaker": "learner",
+      "text": "“She would like to see Dr. Smith.”"
+    },
+    {
+      "turn": 82,
+      "speaker": "bot",
+      "text": "Great, that helps a"
+    },
+    {
+      "turn": 83,
+      "speaker": "learner",
+      "text": "?"
+    },
+    {
+      "turn": 84,
+      "speaker": "bot",
+      "text": "No problem at all! So,"
+    },
+    {
+      "turn": 85,
+      "speaker": "learner",
+      "text": "“She get injured her neck and she feel pain last one week.”"
+    },
+    {
+      "turn": 86,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. Let’s make sure we get her an appointment as soon as possible. Could you let me know if she has any preferred day or time, or if she’s flexible with scheduling?"
+    },
+    {
+      "turn": 87,
+      "speaker": "learner",
+      "text": "“She is available in weekdays after 2 p.m. is good for her. In weekends, all time is available.”"
+    },
+    {
+      "turn": 88,
+      "speaker": "bot",
+      "text": "That’s perfect, that gives us some good options. I’ll check the availability for Dr. Smith on weekdays after 2 PM and also look at weekend slots. Let me quickly find the best time for her!"
+    },
+    {
+      "turn": 89,
+      "speaker": "learner",
+      "text": "“What times are available?”"
+    },
+    {
+      "turn": 90,
+      "speaker": "bot",
+      "text": "All right, let me quickly check the schedule. For weekdays after 2 PM, we have openings on Tuesday and Thursday around . And for weekends, we have a variety of times available. Let me know which option works best, and we’ll get that appointment booked!"
+    },
+    {
+      "turn": 91,
+      "speaker": "learner",
+      "text": "“Let me see. OK, Tuesday 3 p.m. is fine. Could I make an appointment?”"
+    },
+    {
+      "turn": 92,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds good! I’ll go ahead and book the appointment for 3 PM on that chosen day. If there’s anything else you need, just let me know, and I’ll make sure everything’s all set!"
+    },
+    {
+      "turn": 93,
+      "speaker": "learner",
+      "text": "“What kind of card should she bring?”"
+    },
+    {
+      "turn": 94,
+      "speaker": "bot",
+      "text": "Absolutely! It would be helpful for her to bring her ID, any relevant medical records, and her insurance details. Also, if she has any current medications or a list of symptoms, that would be great to have on hand. Let me know if there’s anything else!"
+    },
+    {
+      "turn": 95,
+      "speaker": "learner",
+      "text": "“Thanks, I'll see her.”"
+    },
+    {
+      "turn": 96,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need any more assistance or have any other questions, just let me know. I’m happy to help!"
+    },
+    {
+      "turn": 97,
+      "speaker": "learner",
+      "text": "“OK, next situation.”"
+    },
+    {
+      "turn": 98,
+      "speaker": "bot",
+      "text": "Sounds good! Whenever"
+    },
+    {
+      "turn": 99,
+      "speaker": "learner",
+      "text": "“Describing reason for the visit.”"
+    },
+    {
+      "turn": 100,
+      "speaker": "bot",
+      "text": "Absolutely, we"
+    },
+    {
+      "turn": 101,
+      "speaker": "learner",
+      "text": "“Maybe it means after I see a doctor, I need to explain my symptoms, right?”"
+    },
+    {
+      "turn": 102,
+      "speaker": "bot",
+      "text": "Exactly, that’s right! When you visit the doctor, you’ll need to explain your symptoms and the reason for your visit so that they can provide the best care. If you need help practising that explanation, I’m here"
+    },
+    {
+      "turn": 103,
+      "speaker": "learner",
+      "text": "“Okay, so now you are Dr. Smith.”"
+    },
+    {
+      "turn": 104,
+      "speaker": "bot",
+      "text": "Got it, I’ll step into Dr. Smith’s role! Whenever you’re ready, go ahead and let me know your symptoms or your reason for the visit, and we’ll go from there."
+    },
+    {
+      "turn": 105,
+      "speaker": "learner",
+      "text": "“Hi, Dr. Smith.”"
+    },
+    {
+      "turn": 106,
+      "speaker": "bot",
+      "text": "Hello! It’s nice to meet you. What brings you in today, and how can I help you? Feel free to tell me about any symptoms or concerns you have."
+    },
+    {
+      "turn": 107,
+      "speaker": "learner",
+      "text": "“I've had a sore throat and cough for a few days.”"
+    },
+    {
+      "turn": 108,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. Let’s make sure we get you feeling better. How long have you been experiencing these symptoms, and have you noticed any other issues, like a fever or fatigue?"
+    },
+    {
+      "turn": 109,
+      "speaker": "learner",
+      "text": "“for our few days. Also, I can't stop running nodes.”"
+    },
+    {
+      "turn": 110,
+      "speaker": "bot",
+      "text": "I see, that definitely sounds uncomfortable. We’ll look into that. Have you tried any remedies so far, or taken any medication to help with the symptoms?"
+    },
+    {
+      "turn": 111,
+      "speaker": "learner",
+      "text": "“Sorry, could you repeat that slowly, please?”"
+    },
+    {
+      "turn": 112,
+      "speaker": "bot",
+      "text": "Of course, no problem at all. I was just asking if you’ve tried any remedies so far or taken any medication to help with your symptoms. Feel free to let"
+    },
+    {
+      "turn": 113,
+      "speaker": "learner",
+      "text": "?"
+    },
+    {
+      "turn": 114,
+      "speaker": "bot",
+      "text": "Got it, thank you! That definitely"
+    },
+    {
+      "turn": 115,
+      "speaker": "learner",
+      "text": "I bought drops"
+    },
+    {
+      "turn": 116,
+      "speaker": "bot",
+      "text": "That’s great, it"
+    },
+    {
+      "turn": 117,
+      "speaker": "learner",
+      "text": "“Some medicines for fever in the pharmacy, and I took these yesterday.”"
+    },
+    {
+      "turn": 118,
+      "speaker": "bot",
+      "text": "I see, that’s helpful to know. We’ll definitely take that into account. Let’s go ahead and check how things are progressing, and we can figure out the best course of action from here."
+    },
+    {
+      "turn": 119,
+      "speaker": "learner",
+      "text": "“Mm-hmm.”"
+    },
+    {
+      "turn": 120,
+      "speaker": "bot",
+      "text": "Perfect! If you have any other details or any questions as we go along, just let me know. I’m here to help and make sure you get the care you need."
+    },
+    {
+      "turn": 121,
+      "speaker": "learner",
+      "text": "“I need your medical certificate for work.”"
+    },
+    {
+      "turn": 122,
+      "speaker": "bot",
+      "text": "Of course, I can help with that. Once we’ve had a chance to go over your symptoms and confirm everything, I’ll make sure to provide the necessary medical certificate for your work. Let’s get that sorted for you."
+    },
+    {
+      "turn": 123,
+      "speaker": "learner",
+      "text": "?"
+    },
+    {
+      "turn": 124,
+      "speaker": "bot",
+      "text": "Absolutely!"
+    },
+    {
+      "turn": 125,
+      "speaker": "learner",
+      "text": "“Could you give me medical, uh, medic, medicine receipt?”"
+    },
+    {
+      "turn": 126,
+      "speaker": "bot",
+      "text": "Of course, I can definitely provide you with a prescription receipt. Once we’ve gone through the examination and determined the appropriate medication, I’ll make sure you have the receipt you need. Let me know if there’s anything specific you’d like to discuss!"
+    },
+    {
+      "turn": 127,
+      "speaker": "learner",
+      "text": "“After some examinations.”"
+    },
+    {
+      "turn": 128,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll make sure to do a thorough examination to understand your symptoms better. Once we’ve completed that, we’ll go ahead and provide the necessary documentation and prescriptions. Just let me know if you have any questions along the way!"
+    },
+    {
+      "turn": 129,
+      "speaker": "learner",
+      "text": "“After some examinations.”"
+    },
+    {
+      "turn": 130,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll make sure to conduct all the necessary examinations to get a clear picture of your condition. Once we’ve done that, we’ll go over the results and provide"
+    },
+    {
+      "turn": 131,
+      "speaker": "learner",
+      "text": "“Please proceed after done some examinations.”"
+    },
+    {
+      "turn": 132,
+      "speaker": "bot",
+      "text": "Of course, I’ll make sure we go step by step, and once we’ve completed the examinations, we’ll proceed with the next steps, whether that’s treatment, prescriptions, or providing any necessary documentation."
+    },
+    {
+      "turn": 133,
+      "speaker": "learner",
+      "text": "“Please proceed our role play next step after done examinations.”"
+    },
+    {
+      "turn": 134,
+      "speaker": "bot",
+      "text": "Absolutely, let’s continue from there. After we’ve completed the examinations, I’ll share the findings with you, and then we can discuss the treatment plan, any prescriptions needed, and provide the medical certificate if required. Let’s keep going!"
+    },
+    {
+      "turn": 135,
+      "speaker": "learner",
+      "text": "“Please tell me doctor's site.”"
+    },
+    {
+      "turn": 136,
+      "speaker": "bot",
+      "text": "Of course! From the"
+    },
+    {
+      "turn": 137,
+      "speaker": "learner",
+      "text": "“about my symptoms.”"
+    },
+    {
+      "turn": 138,
+      "speaker": "bot",
+      "text": "Absolutely, I’m here to help. Based on what you’ve shared, we’ll carefully consider your symptoms and come up with the best plan moving forward. If you have any more details or questions, feel free to let me know, and we’ll proceed from there."
+    },
+    {
+      "turn": 139,
+      "speaker": "learner",
+      "text": "“In this roleplay, you have done the examinations for my symptoms, and you found my fever is 38 degrees, and running nose is allergy, so you decided to give some medical prescriptions for me, okay?”"
+    },
+    {
+      "turn": 140,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! Based on your examination, we’ll address the fever and the allergy symptoms with the appropriate medications. I’ll make sure to prescribe something to help reduce your fever and manage the allergy-related runny nose. If you have any questions about the treatment or the prescriptions, just let me know!"
+    },
+    {
+      "turn": 141,
+      "speaker": "learner",
+      "text": "“So doctor, how many days do I need to take medicines?”"
+    },
+    {
+      "turn": 142,
+      "speaker": "bot",
+      "text": "That’s a great question! Typically, for a fever and allergy symptoms like yours, we’d usually recommend taking the medication for about 5 to 7 days. Of course, I’ll give you specific instructions based on how you’re feeling. If anything changes or you have concerns, just let me know!"
+    },
+    {
+      "turn": 143,
+      "speaker": "learner",
+      "text": "“How many times a day?”"
+    },
+    {
+      "turn": 144,
+      "speaker": "bot",
+      "text": "Typically, you’d take the medication two to three times a day, depending on the specific prescription. I’ll make sure to give you detailed instructions, so you’ll know exactly how often to take it. And of course, if you have any questions along the way, I’m here to help!"
+    },
+    {
+      "turn": 145,
+      "speaker": "learner",
+      "text": "“Usually, medicine for allergy is too strong for me, so I reduce 3 times to 2 times. So, is this medicine same?”"
+    },
+    {
+      "turn": 146,
+      "speaker": "bot",
+      "text": "I understand! It’s definitely important to find a dosage that’s comfortable for you. We can adjust the frequency to make sure it’s effective but also gentle. If you find that two times a day works better for you, we can definitely do that, and we’ll keep an eye on how you respond. Just let me know how you feel, and we can tweak it as needed!"
+    },
+    {
+      "turn": 147,
+      "speaker": "learner",
+      "text": "“Thanks.”"
+    },
+    {
+      "turn": 148,
+      "speaker": "bot",
+      "text": "You’re very welcome!"
+    },
+    {
+      "turn": 149,
+      "speaker": "learner",
+      "text": "“When should I come again here?”"
+    },
+    {
+      "turn": 150,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, if your symptoms improve, we can schedule a follow-up in about a week or so, just to make sure everything is on track. Of course, if you notice any changes or if anything concerns you, you can always reach out sooner. Just let me know what works best for you!"
+    },
+    {
+      "turn": 151,
+      "speaker": "learner",
+      "text": "“I appreciate your time. Bye for now.”"
+    },
+    {
+      "turn": 152,
+      "speaker": "bot",
+      "text": "Of course, it was my pleasure! Take care, and feel free to reach out anytime. Bye for now!"
+    }
+  ]
+}

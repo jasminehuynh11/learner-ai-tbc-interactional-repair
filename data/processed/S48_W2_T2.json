@@ -1,0 +1,95 @@
+{
+  "student_id": 48,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S48_W2_T2",
+  "source_file": "data\\raw\\#48\\#48\\#48. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Enquiring About a Rental Property or Housing Inspection"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Let's role play so I can learn English. The scenario is that I am calling a real estate agency to ask about a rental property. I may want to attend an inspection, ask about the application process, or follow up after submitting your documents. Practise speaking clearly and politely in a formal setting. You are a property rmanager or real estate agent"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": ": Sure, thanks for calling. Which rental property are you enquiring about today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": ": I am interested in the house at 79 Patrick St, Hobart. I would like to ask if I can come to inspect it sometimes this week."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": ": Alright, thanks for that. I can organise an inspection for you — what day and time this week would suit you best?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": ": Wednesday or Thursday morning works well for me. Great, Wednesday or Thursday morning is fine. Which of those days would you prefer, and what time in the morning suits you?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": ": How about 10 am on Thursday. Do I need to bring my ID or something else?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": ": Sure, Thursday at 10 am is booked. You don’t need to bring anything just to view the property, but having photo ID is helpful if we need to verify your details. Just so I can note it down, how many people would be moving into the house with you? Only me and my partner. What is the maximum number of people to stay in the house?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": ": Alright, just you and your partner is perfectly fine. The house is generally suited for up to four people, so you’re well within the limit. By the way, will you be bringing any pets with you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": ": No worries. We currently don't have any pet. It should be no trouble. How about the application process if I'm happy with the house? Sure, if you like the house after the inspection, you can submit a rental application online with your ID, income documents, and references. To guide you properly, when are you hoping to move in?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": ": That sounds good. I'd like to move in next month if it is feasible. How long does it usually take for the application process?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": ": Sure, moving in next month is usually workable. Application processing typically takes two to five business days, depending on how quickly references respond. Just so I can check availability for you, how long are you hoping to stay in the property—are you looking for a 6-month lease, 12-month lease, or longer? I prefer a 12-month lease, but I am flexible with other options."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": ": Alright, a 12-month lease is very standard, so that works well. Since you’re flexible, I’ll note that down. Just to be sure the property fits your situation, may I ask what weekly rent range you’re comfortable with?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": ": I expect the rent to be around 500-700 weekly. Sure, that range fits well with this property. Thanks for letting me know. To make your application stronger, could you tell me what your and your partner’s employment or income situation is?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": ": We are both engineer and working. Our total income is approximately 250K per year."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": ": Great, that income level is more than sufficient for this property. To finalise the inspection booking and keep you updated, what’s the best phone number or email for me to contact you on?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": ": Please contact me at 041338277"
+    }
+  ]
+}

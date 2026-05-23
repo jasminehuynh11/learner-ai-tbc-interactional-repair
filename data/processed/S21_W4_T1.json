@@ -1,0 +1,200 @@
+{
+  "student_id": 21,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S21_W4_T1",
+  "source_file": "data\\raw\\#21\\#21\\#21. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor Scenario: You are speaking with an academic advisor or career counsellor to get guidance about your current study plans or future career options. You want to explain your situation, ask for advice, and clarify next steps. Practise speaking clearly and professionally in a formal setting. You will need to define the chatbot’s role as a university advisor or career counsellor. You can choose situations from the examples below; start with a basic question about your study plan, and try a more extended interaction by exploring course structures, comparing qualifications, or evaluating career outcomes. Learning objectives: • Practise describing academic or professional goals. • Use formal and polite question forms. • Respond to suggestions and express uncertainty or preferences. • (Advanced option) Manage a longer discussion by comparing study pathways, discussing industry requirements, or asking for help with future planning."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. As your university advisor, I’m here to help. What study area or career path are you currently thinking about?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I'm currently studying English literature, but I'm still unsure about my next step.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, that makes"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“So, I would like some advice about possible directions.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to help with that. Are you considering further studies, or are you more focused on entering the workforce right after your degree?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Well, I'd like to work after I got a degree.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That sounds great! In that case, we can explore potential career paths related to English Literature. Do you have any specific fields or industries in mind, such as publishing, education, or maybe something else?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“So, I'd like to know about my pathway, so what pathways are available for someone with my background?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! With a background in English Literature, you could consider pathways in publishing, content writing, communications, or even teaching. We can definitely dive into the specifics of each option. Is there any particular field that interests you the most?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I'm not into, uh, publishment, uh, uh, sorry.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "No problem at all! We can definitely"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yeah, Publishment.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it, that makes"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I forgot the word, but industry, yeah. Publishment industry, I'm not into that.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "No worries at all, I understand! We can definitely explore other fields, like education, communication, marketing, or even creative writing and media. Let me know which direction interests you, and we can dive deeper into that."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Maybe I can do an office clerk or something like that, but do you think I should gain more work experience before moving forward?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That’s a great consideration! Gaining some work experience can definitely help you build practical skills and enhance your resume. We can look at internship opportunities or part-time roles that align with your interests. Would you like to explore some specific options or industries for that?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Just, I'd like to know some. Now, I don't have a dream or some...”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "That’s completely fine!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Some goal for my life, so yeah, I'd like to know some”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, that"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Some other words? I'm not sure, sorry.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "No worries at all, take your time! We can explore various possibilities and figure out what feels right for you. Just let me know whenever you have any questions or if you’d like to dive deeper into any area."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "文字起こしを利用できません"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Great! Whenever you're"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Just imagine now, but I'm planning to study overseas in the future and would like to know how to prepare.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That sounds exciting! We can definitely talk about the steps to prepare, like choosing the right university, understanding application requirements, and even exploring scholarships. Let me know what specific aspects you’d like to focus on!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“But after I graduate, I'd like to work at first, because I'm Japanese. So Japan is common to work after graduate the university or college. But I'm planning to study overseas after I can get some money or I can save some money.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "That makes perfect sense! It’s definitely common to gain some work experience first and then save up before studying abroad. We can talk about how to balance both goals and plan out the timeline. Just let me know what specific details you’d like to dive into!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“But just imagine now, so I don't have some details about it.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That’s absolutely fine! We can take it step by step and explore things as you go. Whenever you have more clarity or specific questions, I’m here to help guide you through it all. Just let me know whenever you're ready!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, thanks, so...”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You’re very welcome! Anytime you have questions or want to discuss your plans further, just let me know. I’m here to help whenever you need!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“And maybe I might need more time to think about it, so thank you for your guidance. So, once I decide, I'll book another meeting to confirm my plan.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! Take all the time you need, and whenever you're ready, we can definitely continue our discussion. Just let me know, and I’m always here to help. Take care!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Thank you. Bye.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You’re very welcome! Have a great day, and I look forward to talking with you again soon. Take care!"
+    }
+  ]
+}

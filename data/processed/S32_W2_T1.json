@@ -1,0 +1,140 @@
+{
+  "student_id": 32,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S32_W2_T1",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Medical Clinic and Booking or Changing an"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, let's do that! I'll start from the beginning. Hello and welcome to our clinic! How can I assist you today? Are you looking to book an appointment for a specific medical concern?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, yes, I would like to book a general check-up.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Perfect! I can help with that. Could you let me know which day and time works best for you, and if you have any preference for a male or female doctor?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I would like to book on Thursday in the afternoon around 2 p.m. and it is not possible on Friday around 4 p.m.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it! So Thursday at 2 p.m. is definitely available, and I’ll make a note that Friday at 4 p.m. isn’t an option. Would you like to go ahead and confirm the Thursday appointment? And do you have a preference for the doctor’s gender?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, I would like to book on Thursday at 2 p.m., no, I don't have preference.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect, that’s all set then! I’ll book you in for Thursday at 2 p.m. If you could please share your full name and any contact details, I'll finalize the booking for you."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, my name is Adriana Molina.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Thank you, Adriana! I’ve got that noted. We’ll see you on Thursday at 2 p.m. If you need anything else or have any questions before your appointment, just let us know. Looking forward to seeing you then!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Do you only need my name?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That’s mostly it for now! If you have a contact number or email, that can help us send you a confirmation, but it’s totally up to you. Let me know if you’d like to provide that, or if everything’s good as is!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes. My number is 3-20-0-1-15-72.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect, thank you! I've got your number as well. Everything is all set for Thursday at 2 p.m. If you need anything else in the meantime, just let us know. Looking forward to seeing you then!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yes, I want to know if it is possible to book a psychological date appointment?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, we can help with that as well. Would you like to book the psychological appointment on the same day, Thursday, or would you prefer a different date and time? Let me know what works best for you!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yes, it is possible. After the check, the general check, I want to book.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That sounds great! We can definitely schedule that for you. Once your general check-up is done, we’ll arrange the psychological appointment right after. I’ll just need a bit of extra information about your preferred time for that second appointment. Let me know what works for you!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“At 3.30 p.m. I think it is okay. I don't know exactly how long the general check is. what do you think?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "That sounds like a good plan! Usually, a general check-up can take about 30 to 45 minutes, so scheduling the psychological appointment at  p.m. should work out nicely. We’ll make sure to allow enough time in between. So, I’ll go ahead and set that up for you!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I want to know, for the general check, if I have to bring something, and what time I have to arrive here for the appointment.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Great questions! Usually, it’s good to arrive about 10 to 15 minutes early to complete any paperwork. And if you have any medical records, like previous test results or a list of medications, that would be really helpful. But if not, that's completely fine as well. We’ll see you at 2 p.m. for the general check-up, and then  p.m. for the follow-up. Let me know if there's anything else you need!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“No, I think that's great. Thank you for your help.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If anything comes up, just let us know. Have a great day, and we’ll see you soon!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, thank you. Bye.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You're welcome! Take care, and bye for now!"
+    }
+  ]
+}

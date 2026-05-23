@@ -1,0 +1,145 @@
+{
+  "student_id": 1,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S1_W2_T1",
+  "source_file": "data\\raw\\#1\\#1\\#1. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "APPOINTMENT"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, this week I want to practice calling a clinic to make a medical appointment. You are the receptionist. I'll be the patient. Please respond if this were a real conversation. Help me schedule a check-up appointment, ask questions about my symptoms, and refer time and give me options for available times and doctors. Ask follow-up questions if I seem confused.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to help! So, let’s start with your symptoms. Can you tell me what symptoms you’ve been experiencing and how long they’ve been going on? Then we can move on from there!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Okay, I try to book in a doctor's appointment.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course! We can definitely get that sorted out. Could you let me know which day and time would work best for you? That way, we can find a suitable slot with the doctor."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Okay, I will go on Wednesday or Friday in the evening is good for me.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it! So, we’ll look for an evening slot on either Wednesday or Friday. Could you also let me know if you have a preference for a specific doctor, or if any available doctor would be fine?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, I want to have a live with doctor, please.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Perfect, that helps a lot! Now, just to confirm, could you share a bit more about the specific symptoms you’re experiencing? That way, we can make sure the doctor is fully prepared."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, for the change of the season, I feel tired, and I have a cough, and I have migraine, and I don't know if I have fever, but my temperature is really high.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I see, that definitely gives us a good picture. Thanks for sharing all those details. Now, let’s find the best available time for you. Would you prefer an appointment on Wednesday evening or Friday evening? Let me know what works best!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Maybe Wednesday evening, please.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, Wednesday evening it is! I'll check the available slots for you with Dr. Kline. Is there anything else you'd like to mention or any other questions before we finalize the appointment?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Maybe how long is the current wait.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! Usually, appointments in the evening last about 30 to 45 minutes, depending on the complexity of your symptoms. That should give the doctor enough time to go over everything thoroughly. If you have any other concerns, just let me know!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yes, is it okay if I come in 10 minutes early?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, that’s perfectly fine! We can definitely arrange it so that you come in about 10 minutes early. That way, you’ll have some time to check in and get settled. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, though I need to bring my Bupa insurance because I don't have Medicare.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Got it, no worries at all! We can definitely accommodate that. Just bring your insurance information when you come in, and we’ll take care of the rest. If you have any other questions or concerns, I’m here to help!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, I need a medical certificate for work.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, that's no problem at all. You can bring your medication list along, and we’ll make sure the doctor has all the information needed. If there’s anything else you think of, just let me know!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Maybe not, since I'll see you at, you remember the time, the clock to my appointment, please? It's on Wednesday, but I don't remember the time.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course! I’ll double-check the exact time for your Wednesday evening appointment and confirm it for you. I’ll send you all the details, and if you have any other questions, just let me know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Okay, thank you, that really helped.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you need anything else at all, just let me know. Looking forward to seeing you on Wednesday, and take care!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“I appreciate your time, bye for now.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "No worries at all! I'll make sure everything is confirmed, and if anything changes, just let me know. Have a great day, and I’ll be here if you need anything else!"
+    }
+  ]
+}

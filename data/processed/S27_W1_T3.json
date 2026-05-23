@@ -1,0 +1,110 @@
+{
+  "student_id": 27,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S27_W1_T3",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to, like, practice my English speaking with you, so could you help me to, like, practice to how to exchange a thing, a product, on a clothing. And I will be the customer, and you will be the, like, staff."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "That sounds perfect! Whenever you’re ready, you can start by letting me know what item you’d like to exchange, and we’ll go from there."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I want to exchange the shoes which bought it last week. It didn't fit my shoulders, so I want to exchange it for a larger size."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I understand! That’s no problem at all. Could you let me know the original size and the new size you’d like to exchange it for?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Well, the original size is 7, so I want to, like, a larger one is size 9 or size 10."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That makes sense! We can definitely help with that. Do you have the receipt or the original packaging with you?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "As I have the receipt and I keep the original packaging, I already bring these things to here."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect, that’s great! That’ll make the exchange process smooth. Is there anything else I can help you with, or any other details you’d like to share about the exchange?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "the clothes didn't have the larger size, then I will offer the similar things that have same price."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll definitely find something similar for you. Let me know if you have any particular preferences in terms of color or style, and we’ll make sure to find the right fit!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "So, how many days do I have to return an item"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great question! Typically, our return policy allows returns within 30 days of purchase. If you have any issues, just let us know, and we’ll help you out!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Thanks, let me know. I also switch it for a different color."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Of course, that’s totally fine! We can definitely help you with a color exchange as well. Just let me know which color you’d prefer, and we’ll make it happen!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I want to the blue one, please."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! We’ll find that blue one for you right away. Is there anything else I can assist you with while we’re at it?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "If I buy a shoe as a gift, and could the person return it without a receipt?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That’s a great question! Generally, we do require a receipt for returns, but we can sometimes look up the purchase if we have the original payment method. Feel free to bring it in, and we’ll see what we can do!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Oh, that's perfect. Thank you very much."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You’re very welcome! It’s my pleasure to help. If you need anything else, just let me know."
+    }
+  ]
+}

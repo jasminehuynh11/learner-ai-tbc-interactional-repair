@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S40_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous question – bot's incomplete time options",
+    "evidence_summary": "The bot's question in turn 10 is incomplete, lacking specific time options, which leads the learner to ask a clarifying question in turn 11 about an afternoon appointment. The bot responds clearly in turn 12, resolving the ambiguity."
+  }
+]

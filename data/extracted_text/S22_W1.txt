@@ -1,0 +1,87 @@
+Week 1: Everyday Services and Informal Interactions
+Task 1: Ordering Coffee at a Café
+
+Me:  Hi, I would like to order a coffee today!” 
+Chat GPT: Sure! What kind of coffee would you like today — something like a latte, cappuccino, or maybe just a black coffee?
+Me : “One latte and one cappuccino, please.”00:04 
+Chat GPT: Alright, a vanilla latte coming up. Would you like that hot or iced?
+Me : I’d like to hot please.
+Chat GPT: Got it, hot vanilla latte. And would you prefer a particular milk—like regular, oat, or almond?
+Me: “I'd like to oak milk, please.”00:02
+Chat GPT: Absolutely, oat milk it is. And would you like any extra flavor shots or maybe a bit of whipped cream on top?
+Me: “Name on top, please.”00:01
+Chat GPT: Sure thing, we’ll add some whipped cream on top. Now, will this be for here or to go?
+Me: “I’d like to take away please.” 00:02
+Chat GPT: No problem, we'll make it to go. Finally, can I get your name for the order?
+Me : “My name is Laila.”00:01
+Chat GPT: Thanks, Lara. We’ve got that all set. Just one last thing: would you like to pay by card or cash today? συνο"strings to match"urls to matchurls.
+Me :“I would like to pay by credit card.”00:02
+Chat GPT: Sure, card is perfect. We’ll just run that through and you’ll be all set. Thanks for ordering with us! Let me know if you need anything else.
+Me :“Can I have one question.”00:01
+Chat GPT: Of course, feel free to ask whatever you need. What else can I help you with?
+Me: “Can I have one chocolate chip cookie? Can I have one chocolate chip cookie?”00:19
+Chat GPT: Absolutely, you sure can. We’ve got some chocolate chip cookies right at the counter. Anything else you'd like to add on?
+Me : “Yes, nothing else.”00:01
+Chat GPT: Perfect, I'll just add that cookie for you. That should do it. Thanks for your order, and enjoy your coffee and cookie!
+Me : “Yes, thank you.”00:01
+Chat GPT: You’re very welcome! Enjoy and have a great day, Lara.
+Me : “Thank you so very much.”00:01
+Chat GPT: You're welcome! Take care and see you next time.
+Me : “See you next time!” 00:01
+Chat GPT: Absolutely, see you then! Thanks again and have a good one!
+Me : 텍스트 기록 사용할 수 없음 00:00
+Chat GPT: Hey there! It looks like we're all set. If you need anything else, just let me know.
+Me : “Can I change the milk?” 00:01
+Chat GPT: Sure, go right ahead and let me know what you'd like to change.
+Me : “Yeah, I don't like to. General milk, please.”00:04
+Chat GPT: Absolutely, let's shift gears. If you want to practice a different scenario or change up how we’re chatting, just let me know what you have in mind and we’ll dive right in.
+Me :“Could you say that again?”00:01
+Chat GPT: Absolutely! I'll switch it up. Just let me know what new role or scenario you’d like, and we’ll roll with it.
+Me :텍스트 기록 사용할 수 없음00:00
+Chat GPT: All right, sounds good! Just let me know the new scenario whenever you're ready, and we'll jump right in.
+Me:“OK, thanks.”00:01
+Chat GPT: You're welcome! Just let me know anytime if you want to dive into a new scenario. I'm here whenever you're ready.
+Me : “Yeah, thank you.” 00:01
+Chat GPT:Of course! Happy to help. Just let me know if you need anything else.
+
+
+Task 2 : Booking a Restaurant Table
+
+Me: “Hi, I’d like to book a table for two tonight.”
+Chat GPT: Of course! What time would you like the table for tonight?
+Me: “ I want to book the restaurant 7PM today” 00:02
+Chat GPT: Perfect, I'll put it under Patel. And just to check, do you have any seating preferences, like near a window or maybe a quieter corner?
+Me:“I went have a dinner near the window.” 00:08
+Chat GPT: Alright, a quieter corner it is. Now, do you have any dietary restrictions or any special requests for the meal tonight?
+Me: “special made today.” 00:01
+Chat GPT: Absolutely noted. Thanks for letting me know. And one last thing—would you prefer an indoor or an outdoor seating area tonight?
+Me :  “I want to outdoor sitting.”00:02
+Chat GPT: Sure, outdoor seating sounds great. I'll get that arranged. And is there anything special you're celebrating tonight, or is it just a regular night out?
+Me: “Yes, my friend's is first day.” 00:05
+Chat GPT: Oh, how lovely! Well, happy first date to them. We'll make sure everything's nice and comfortable. And just before I finalize it, would you like to pre-order any drinks or should they decide once they arrive?
+Me: “Can I ask about the menu?”00:02
+Chat GPT: Absolutely! Feel free. What would you like to know about the menu and I can help you out?
+Me: 텍스트 기록 사용할 수 없음 00:00
+Chat GPT: English Conversational Partner의 말:
+Sure, go ahead and ask me anything about the menu. I'm here to help!
+Me: Could you recommend the best dishes?  00:03
+Chat GPT: English Conversational Partner의 말:
+Absolutely. One of our most popular fish dishes is the grilled sea bass with lemon butter. It's a real favorite. Is that something that might interest them?
+Me : “Yeah, it's very interesting.”00:02
+Chat GPT: Great choice! I think they'll enjoy it. So I've got everything noted. Your table will be ready tonight, and we’ll see you then. Thanks for booking with us!
+Me: “Yes, but we have two children with us.” 00:03
+Chat GPT:Absolutely, we do have a children's menu as well, so there's no problem if they join. Anything else you'd like to check about that?
+Me: “Yes.”00:00
+Chat GPT: Sure thing! Just let me know whatever else you need and I'm happy to help.
+Me:“If the private room isn't available, is there another quiet spot you'd recommend?” 00:10
+Chat GPT: Absolutely, if that spot fills up, we can find another cozy corner for you. We’ll make sure it's nice and quiet. Anything else you’re curious about?
+Me: “Yes, we'd like to bring a small gift for someone or their politics we should know about.”00:10
+Chat GPT:Of course, that sounds lovely. Feel free to bring the gift along. We’ll be happy to keep it safe until you want to give it to them. Anything else on your mind?
+Me:“Nothing else. Thank you so very much.”00:02
+Chat GPT: You're very welcome! We'll have everything ready for you tonight. See you then!
+Me: “Yeah, can I check my booking?”00:05
+Chat GPT: Sure, absolutely. If you want to check the details, just let me know what exactly you need to confirm, and I'll run through it with you.
+Me: “Just confirm.”00:01
+Chat GPT: All right, sounds good. So we've got you down for a table for two, outdoor seating, a quiet spot, and everything else noted. We'll be all set. Let us know if you need anything else.
+Me: “Yeah, thanks.” 00:01
+Chat GPT: You're welcome! We'll see you tonight, then. Take care!

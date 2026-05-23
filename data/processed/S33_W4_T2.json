@@ -1,0 +1,225 @@
+{
+  "student_id": 33,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S33_W4_T2",
+  "source_file": "data\\raw\\#33\\#33\\#33. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Responding to Feedback or a Performance Review"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, thank you for meeting with me. I wanted to talk about the feedback on my presentation, because I’ve been thinking about it a lot."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course. Overall, your presentation had strong content and clear structure."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Thank you. I was worried because while speaking, I felt like my mind went blank sometimes."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That happens to many people. One thing we noticed was your pacing."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Pacing… Do you mean I was too fast or too slow?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Mostly too fast in the middle section."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "That’s interesting, because I thought I was being slow."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "In the beginning you were, but then you sped up."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Ah, I see. I think I was watching the time and panicking."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That makes sense. Time pressure often affects pacing."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "When you say “slow down”, what should I actually do? Because telling myself “slow down” doesn’t work."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That’s a good question. One concrete thing is to pause between ideas."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Pause meaning silence?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Yes, short silence."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "I always feel silence is awkward, like people will judge me."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Many people feel that way, but listeners usually appreciate pauses."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I never thought about listener’s perspective. I only think about myself when presenting."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That’s very common, especially in a second language."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "What about eye contact? You mentioned it briefly in the written feedback."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Yes. You relied on your slides a bit too much."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "I thought looking at slides is respectful. But maybe it looks like I’m avoiding audience?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "It can give that impression, yes."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Okay. So I should look at audience even if I feel uncomfortable?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "You don’t need constant eye contact, just brief moments."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Alright. Another thing I worry about is pronunciation."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Your pronunciation was mostly clear."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Mostly? So sometimes not clear?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "There were a few words, but context helped."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Context meaning the sentence helped people guess?"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Exactly."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Okay, that makes me feel better. I was worried people didn’t understand anything."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That’s not the case at all."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "If I want to improve pronunciation, what should I focus on first?"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Stress and intonation rather than individual sounds."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Stress meaning which word is stronger?"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Yes."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Okay. That feels more manageable."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Would you like to set a goal for your next presentation?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Yes. My goal is to pause more, speak slower, and not panic about time."
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "That’s a very realistic goal."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Thank you. Talking about this in detail really helps."
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "I’m glad. You’re making steady progress."
+    }
+  ]
+}

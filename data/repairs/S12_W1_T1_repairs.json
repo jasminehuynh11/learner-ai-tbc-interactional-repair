@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S12_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      3,
+      4
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "misinterpretation of learner's intent",
+    "evidence_summary": "In turn 3, the learner mentions 'just to the Merrick channel,' which is misinterpreted by the bot as 'just a plain Americano' in turn 4. The bot's response does not address the learner's actual request, indicating a persistent misunderstanding."
+  },
+  {
+    "dialogue_id": "S12_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      13,
+      14
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "In turn 13, the learner asks about 'cat Americano,' which is likely a mispronunciation or ASR error. The bot correctly interprets this as a question about the beans used for the Americano in turn 14, providing a relevant answer and resolving the misunderstanding."
+  }
+]

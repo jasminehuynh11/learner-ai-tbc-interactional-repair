@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S23_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – unclear what to do in the task",
+    "evidence_summary": "The learner asks 'What do you mean?' in turn 7, indicating a lack of understanding about the bot's suggestion to divide tasks. The bot clarifies in turn 8 by explaining how to identify strengths and negotiate deadlines, resolving the learner's confusion."
+  }
+]

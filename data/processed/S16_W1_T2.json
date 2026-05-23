@@ -1,0 +1,455 @@
+{
+  "student_id": 16,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S16_W1_T2",
+  "source_file": "data\\raw\\#16\\#16\\#16. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello! I want to practice ordering coffee at a coffee shop. You're a barista working at a coffee shop in Sydney. I'll be playing a customer. Please create a realistic coffee shop scenario and respond as if we were actually there. Ask about my preferences, help me choose what I want from the menu, and explain the different coffee options. Keep the conversation flowing naturally by asking at least three follow-up questions about size, milk, and payment. We can start with the welcome greeting and move on, okay?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! Smiles warmly while wiping the counter. Hey there, welcome to Harbour Brew Café! How’s your morning going so far? What kind of coffee are you in the mood for today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Hi, I\"m fine. Mine morning is so good. I fope that you're too. So, I wana a Long Black Cooffe."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Glad to hear that — and thanks, I’m doing great too! Nods while tapping the screen to start the order. Alright, a Long Black sounds good. Would you like it in a regular or large size?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I prefer the larger, please!"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, one large Long Black. Starts preparing the cup. Would you like any milk on the side, or just straight black?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I don't want milk. Thank you!"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries, straight black it is. Smiles and pours the espresso shots. Would you like it for here or takeaway?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Yes, straight black. That's it! I will to have here. This place is so comfortable, and I need to start my day relaxing. Here looks a good place for it."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That’s great to hear, I’m glad you like the vibe here! Sets the cup on a saucer and slides it toward you. Alright, one large Long Black for here. How would you like to pay today — card or cash?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "with card"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure thing! Turns the payment terminal toward you with a smile. Just tap your card whenever you’re ready. Would you like me to bring you a glass of water with your coffee?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes, please!"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! Fills a small glass and sets it beside your coffee. Here you go — one Long Black and a glass of water. Would you like a bite to eat with that, maybe a croissant or banana bread?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Wow! I love croissant. Give me one, please!"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Nice choice! Grabs a fresh croissant from the display and warms it up slightly. Would you like it plain, or with butter or jam on the side?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I really love with jam. Do you have strawberries jam?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yep, we sure do — strawberry jam’s our most popular one! Places a small jar beside your plate. There you go. Would you like your croissant warmed up, or just as it is?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "warmed up is better! Please"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely! Pops the croissant into the warmer for a minute. While that’s heating, do you prefer to sit by the window or stay here at the counter?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "I prefer to sit next to the window. Cold you to say me how long I will to need wait? Please!"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Sure! Smiles reassuringly. It’ll just take about two minutes, nice and quick. Would you like me to bring it over to your table, or will you come back to the counter to get it?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Wow, it's really quick! I think, if you can to bring it to me, I really will appreciate it."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "No problem at all! Nods warmly while checking the croissant. I’ll bring it right over once it’s ready. Do you want me to grab any sugar or napkins for you as well?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Yes please!"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You got it! Puts a few sugar packets and napkins on a small tray beside the croissant. Alright, everything’s ready — I’ll bring it over to your window seat now. Anything else you’d like while you’re getting settled?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "No, it's for me is enough."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Perfect! Smiles as they set the tray down at your table. Enjoy your Long Black and croissant — take your time and have a lovely morning!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "I appreciate it! Have a nice day too."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Thanks so much! Smiles warmly. You too — enjoy your coffee and the view. ☕✨"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Thanks"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You’re very welcome! Gives a friendly wave. Have a great day!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Okay! I really will to come back here. So, see you soon!"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That’s wonderful to hear! Smiles brightly. See you soon — can’t wait to serve you again!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Okay"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Take care! Gives a quick nod before turning back to the counter. Task 2: Booking a Restaurant Table"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Hello! I want to practice booking a table at a restaurant. You're a staff member working at a nice restaurant in Sydney. I'll be playing the customer. Please create a realistic restaurant scenario and respond as if we were actually talking on the phone or in person. Ask me about the date, time, number of guests, and any special requests I might have. You can also ask if it’s for a special occasion, like a birthday or anniversary. Keep the conversation flowing naturally by asking at least three follow-up questions about seating preferences, dietary needs, and confirmation details. We can start with your greeting and move on, okay?"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure! Picks up the phone with a friendly tone. Good evening, thank you for calling The Blue Harbour Restaurant in Sydney. My name’s Sarah — how can I help you today? Are you looking to make a reservation?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Hi, good evening, I need to do a reservation."
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Of course! I’d be happy to help with that. Opens the booking system. What date and time would you like to book your table for?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "On thursday at 8pm"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Perfect, Thursday at 8 p.m. sounds great. Types it into the system. And how many people will be joining you for dinner?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "We are four people."
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Alright, a table for four at 8 p.m. on Thursday. Smiles while checking availability. Are you celebrating any special occasion, like a birthday or anniversary?"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "My friend is going to ask his girlfriend get married. And I think this restaurant is a good place for this."
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Oh, that’s wonderful — such an exciting moment! Smiles warmly. We’ll make sure everything’s perfect for them. Would you like me to arrange something special, like flowers on the table or a dessert surprise after the proposal?"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "Wow, it's sounds good! If it's possible, the flowers on the table it will so nice, and after a dessert surprise, if possible too. I really will to appreciate it."
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely, we can do both! Makes a quick note in the booking system. Would you prefer red roses on the table, or something a bit more neutral, like white or mixed flowers?"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "red roses with white roses, I think her girlfriend, will be fells love. hahaha.. It will be nice!!! I really happy with it."
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "That sounds lovely — red and white roses will look beautiful together! Smiles, typing in the details. Do any of your guests have dietary requirements or allergies we should know about?"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "we have no allergies"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Perfect, that makes it easy. Clicks to confirm the booking. Would you prefer indoor seating with a nice view of the harbour, or outdoor seating under the lights on the terrace?"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "I think if we to sit indoor with a nice view of the harbour, we will be nice."
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Excellent choice — the indoor harbour view tables are really romantic at night. Checks availability and smiles. Could I please have a name and contact number to confirm your reservation?"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "Yes, of course! My name is Renato Valle and my phone is 0499123456"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Thank you, Mr. Valle! Enters the details into the booking system. So, to confirm: a table for four guests, this Thursday at 8 p.m., indoor with a harbour view, red and white roses on the table, and a dessert surprise after the proposal — correct?"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "Exactly"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Perfect! Smiles warmly. Your booking’s all set, Mr. Valle — we’ll make sure it’s a beautiful evening. Would you like me to email or text you a confirmation for the reservation?"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "Text me a confirmation, please!"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Of course! Types a quick note on the screen. You’ll receive a text confirmation shortly with all the details. Thanks so much for choosing The Blue Harbour, Mr. Valle — we’ll see you and your friends on Thursday at 8 p.m.!"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "Ow! I forgot one thing!"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "No problem at all! Pauses with a friendly tone. What did you want to add or change?"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "Is there a special dish from the chef on this day?"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Thought for 9s Absolutely! This Thursday our chef’s specials are pan-seared barramundi with lemon myrtle butter, slow-cooked lamb shoulder with rosemary jus, and a truffled wild mushroom risotto. Which one would you like me to note or set aside for the couple?"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "Wow! It's songs good"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Haha, I’m glad you think so — they really are delicious! Laughs softly. Would you like me to reserve one of those dishes in advance, maybe the lamb or the barramundi for your friend and his girlfriend?"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "How many people do these dishes serve?"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "Good question! Each of those dishes is served individually, perfect for one person. Pauses thoughtfully. If you’d like something to share, we also have a seafood platter for two that’s quite popular — would you like me to tell you more about that?"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "I want to surprise you; I'll pay for the whole dinner. So you can reserve 2 grilled barramundi with lemon myrtle butter and 2 slow-cooked lamb shoulder with rosemary sauce. And you can reserve a seafood platter, for us to try together as a starter. Is that possible?"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "That’s incredibly thoughtful of you, Mr. Valle — what a lovely gesture! Smiles warmly while noting it down. Yes, absolutely, I can reserve two barramundi, two lamb shoulders, and one seafood platter to share as a starter. Would you like the seafood platter to be served right after everyone is seated, or after drinks have been brought to the table?"
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "Exactly! Yes I would like it!"
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "Perfect! Types quickly, smiling. I’ll make sure the seafood platter comes out once you’re all seated and comfortable with your drinks. Would you like me to arrange a bottle of wine or champagne to be waiting at the table as well?"
+    },
+    {
+      "turn": 74,
+      "speaker": "learner",
+      "text": "I'd prefer to choose the wine together when we get there. But I'd like to choose the champagne already."
+    },
+    {
+      "turn": 75,
+      "speaker": "bot",
+      "text": "Excellent idea — that’ll make the evening even more special. Smiles while checking the list. Would you like a classic Moët & Chandon, or something a bit more local, like a sparkling from the Hunter Valley?"
+    },
+    {
+      "turn": 76,
+      "speaker": "learner",
+      "text": "The Chandon! Please"
+    },
+    {
+      "turn": 77,
+      "speaker": "bot",
+      "text": "Beautiful choice — Moët & Chandon it is! Adds the note with a satisfied nod. Everything’s set now: dinner, flowers, dessert, and champagne. Would you like us to bring out the champagne right after the proposal, or have it ready when you arrive?"
+    },
+    {
+      "turn": 78,
+      "speaker": "learner",
+      "text": "I think you can to bring it right after the proposal"
+    },
+    {
+      "turn": 79,
+      "speaker": "bot",
+      "text": "Perfect, that’ll make the moment even more memorable. Smiles warmly while finishing the booking notes. Alright, Mr. Valle — everything’s arranged for Thursday at 8 p.m. We’ll take care of every detail. Would you like me to call you earlier that day just to reconfirm the setup?"
+    },
+    {
+      "turn": 80,
+      "speaker": "learner",
+      "text": "That´s okay! Is it no necessary."
+    },
+    {
+      "turn": 81,
+      "speaker": "bot",
+      "text": "Understood! Smiles kindly. Everything’s locked in then — we’ll make sure it’s a beautiful evening for your group and an unforgettable proposal. Thank you so much for choosing The Blue Harbour, Mr. Valle. We’ll see you on Thursday at 8 p.m.!"
+    },
+    {
+      "turn": 82,
+      "speaker": "learner",
+      "text": "It will be very nice!"
+    },
+    {
+      "turn": 83,
+      "speaker": "bot",
+      "text": "It really will! Smiles warmly. We’re looking forward to hosting you — it’s going to be a magical night."
+    },
+    {
+      "turn": 84,
+      "speaker": "learner",
+      "text": "yes"
+    },
+    {
+      "turn": 85,
+      "speaker": "bot",
+      "text": "Wonderful! Smiles softly. Have a great evening, Mr. Valle — we’ll see you soon!"
+    },
+    {
+      "turn": 86,
+      "speaker": "learner",
+      "text": "I appreciate you! Take a nice day."
+    },
+    {
+      "turn": 87,
+      "speaker": "bot",
+      "text": "Thank you so much, Mr. Valle! Smiles warmly through the phone. You too — have a lovely day, and we’ll see you Thursday!"
+    },
+    {
+      "turn": 88,
+      "speaker": "learner",
+      "text": "See you soon"
+    },
+    {
+      "turn": 89,
+      "speaker": "bot",
+      "text": "See you soon, Mr. Valle! Says cheerfully before hanging up."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "dialogue_id": "S24_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner's phrase 'flat coffee' in turn 6 is unclear. The bot interprets this as 'flat white' in turn 7, providing an explanation of what a flat white is, which resolves the misunderstanding."
+  },
+  {
+    "dialogue_id": "S24_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unsure about milk content in 'flat white'",
+    "evidence_summary": "The learner asks if the flat white has a lot of milk in turn 10. The bot clarifies the milk content in a flat white in turn 11, resolving the learner's concern."
+  },
+  {
+    "dialogue_id": "S24_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      28,
+      29
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner confused about 'on the side'",
+    "evidence_summary": "The learner expresses confusion about the placement of the brownie in turn 28. The bot clarifies that the brownie is on the side, not on top of the avo toast, in turn 29, resolving the confusion."
+  },
+  {
+    "dialogue_id": "S24_W1_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      38,
+      39
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – learner confirms spelling of 'coffee'",
+    "evidence_summary": "The learner seeks confirmation of the spelling of 'coffee' in the Wi-Fi password in turn 38. The bot confirms the spelling in turn 39, resolving the learner's uncertainty."
+  },
+  {
+    "dialogue_id": "S24_W1_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      42,
+      43
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requests slow spelling",
+    "evidence_summary": "The learner requests a slower spelling of the Wi-Fi password in turn 42. The bot complies by spelling it slowly in turn 43, resolving the learner's difficulty."
+  }
+]

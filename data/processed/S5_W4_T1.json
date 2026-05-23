@@ -1,0 +1,190 @@
+{
+  "student_id": 5,
+  "week": 4,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S5_W4_T1",
+  "source_file": "data\\raw\\#5\\#5\\#5. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I am speaking with an academic advisor to get guidance about my current study plans or future career options. I want to explain my situation, ask for advice, and clarify next steps. Practise speaking clearly and professionally in a formal setting. The chatbot’s role is a university advisor or career counsellor."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure. What would you like to focus on today—your current programme, future career direction, or something else about your studies?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“My name is Eunbyul Kim. My English name is Amber, and I'm from Korea. I just got here three days ago, and now I took an A1 class, which means Academic 1 level. And I think it's too academic because for me, I have a job in Korea, and after in, I mean, in one year, I have to go back to my country. So I don't think I need Academic 1. So could you please give me some advice?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, Amber. So it sounds like you're wondering if that academic level is actually the right fit given your limited time here. Let's start by figuring out what your main goal is for this year. Are you mainly looking to just pick up a certain skill, or are you aiming for something else during your time here?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Actually, I haven't have any specific goal, but I just want to improve my English, especially everyday English. So, that's why I don't think I need to study Academic 1. So, last three days, I took an academic class, and I feel like it's too difficult, and sometimes I don't need it in real life days. So, that's why I'm just, I don't know, I'm not sure it's the right fit.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "All right, I understand. So if your main aim is really just to improve everyday English and not focus on academic language, then we can definitely look into some more practical or conversational English options for you. My next question would be: would you prefer a class that's more conversation-based or maybe a more general English skills course that's less formal?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Actually, I have no idea because for, I mean, I think to improve my English skills, the most important thing is to get an opportunity to speak out as much as I can. Also, I feel like I want to get a lesson about basic and less formal English. Can I do both?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely. We can definitely do both. So it sounds like you’d benefit from something that’s more of a general conversational English class that really emphasizes just speaking practice and everyday communication rather than anything too formal or academic. So let me ask: would you prefer a class that's more in a small group setting or maybe even one-on-one sessions?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“What do you mean one-on-one session?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure! I just mean like a private lesson, just you and the teacher, so you get all the speaking time and personal attention. Or if you'd rather practice with a few other students, we can do that too. Which one do you think you'd be more comfortable with?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I'm not sure, but for me, one-on-one lesson is more efficient, I think, because if I went wrong with something, then the teacher can correct me. But, you know, with friends, we can do more conversation about everything. So, I think it's, yeah, oh, I have no idea. Can you recommend some?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely! So it sounds like a one-on-one lesson would give you that direct correction and personal feedback you’re looking for, which is definitely more efficient if you want to build confidence quickly. But we can also make sure you have some casual group practice now and then if you want to chat with others. In other words, we can mix and match a bit. So let’s plan on starting you with some individual sessions, and then we can add a group session if you feel like you want to. How does that sound to you?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yeah, it sounds perfect, and I was wondering if I, um, if I do that with multicultural students, like, um, from different culture, like, from different cultures?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! So we can definitely arrange that. We'll set you up so you can join some sessions with students from all sorts of different cultural backgrounds, which is great because you’ll get a variety of accents and ways of speaking, and that can really help you get comfortable with everyday English in all kinds of situations. So let’s plan on that, and we’ll get you started."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yeah, but, um, I'm worried about one thing, which is if we have a variety of accents that I can learn from each other, so my English accent or words can be worse, so I'm worried about that. How can I deal with that?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure, I get that concern. So what we can do is make sure that your one-on-one instructor is giving you a clear standard model to follow. That way, even if you're hearing a lot of different accents from your classmates, you'll still have that consistent guidance on how to speak in a way that's clear and neutral. So don't worry—you won't lose your way. We'll just add variety as a bonus, but you'll always have a strong baseline to rely on."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, thank you. But I worry about one thing. And actually, to get to Berkeley University College, I already took some tests, like placement tests, three times. And for two times, I got a result about BE class, which is direct entry before going to the university. So it's kind of high level, higher level class. But for me, I have enough time to study English and Macquarie University assigned me to A1 class. And so I heard after A1 class that I will move on to A2, A3, like that. So after all, I will get to the maximum level. But I'm worried about that if I do, if I do, or if I take general English level, that it can be much easier than academic one. So I'm worried about that, if it's okay to improve my English. Because, you know, we can learn from each other, like our colleagues, our friends, but they don't speak English very much, as much as I can. So, yeah, that's my concern.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, I get where you're coming from. So here's the thing: moving to a more general English class will definitely be a bit easier than the academic class, but that's okay because it aligns better with your goal of focusing on everyday English. And don't worry about it being too easy—you’ll still be improving and you'll get that important speaking practice. Plus, we can always adjust the level as you go. So you'll be in good hands and you’ll keep improving your English just fine."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Good, what does that mean in good hands? I'm sorry.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure! It just means you'll be well taken care of and supported. In other words, we'll make sure you're in a good situation to keep improving your English. So no need to apologize—that’s all it means!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And if I finish that course, then how long will it take? Will it be finished?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Of course! So typically a general English course like that might run for, let’s say, a few months depending on how intensive it is. We can give you a clearer timeline once we see your schedule and how many classes per week you want. But in general, you'll probably finish up in a few months and we’ll guide you through the whole process."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, then if I finish that course, then usually do people go to the university like diploma or master's degree?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure! So usually once people finish a general English course and they feel confident, they do sometimes move on to a diploma or a master's program if that’s their goal. So it's definitely a common next step if you want to continue your studies at university level. But of course, it's all up to you and what you feel comfortable with."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yeah, what's the big difference? How is the diploma different from the master's degree?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure! So basically a diploma is usually a shorter, more focused program. It can be more practical and take maybe a year or so. A master's degree is longer and more advanced, often taking a couple of years and going deeper into a field. So that's the main difference, and you can choose what fits your goals best."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“If I already graduate from the university in Korea, can I take, can I do a diploma as well in Australia?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, you can. So even if you've already graduated from university in Korea, it's totally possible to do a diploma in Australia. It's actually pretty common for people who want to get some additional qualifications or a more practical focus. So yeah, you can definitely do that."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“If I want to study a diploma or master's degree, what should I do? How can I prepare?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely. So the first step would be to look at the entry requirements for the diploma or master's program you're interested in. Usually, that means making sure your English level is where it needs to be, which you're already working on. Then you might need to gather your academic transcripts, maybe a personal statement, and possibly some references. Once you have those things ready, you can apply to the program that fits you. And of course, we can help guide you through that process whenever you're ready."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, and my major in university was education, especially for elementary school students. So, yes, it's kind of elementary education, but if I want to do a master's degree, then how can it work?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely. So if your background is in elementary education and you want to do a master's in that area, that's definitely possible. Basically, you'd look for a master's program in education that has a focus on elementary or primary education. And really the main thing is just meeting their entry requirements, which usually means having that relevant background—which you do—and the right level of English. So once you find a program that fits, you can apply and take it from there."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Oh, okay. Thanks for your time. I'll look into those options.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you have any more questions down the line, just let me know. Otherwise, good luck exploring those options and take care!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“All good. Take care. Bye.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Bye! Take care and best of luck with everything!"
+    }
+  ]
+}

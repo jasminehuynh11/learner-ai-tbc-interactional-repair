@@ -1,0 +1,84 @@
+Week 2: Formal Interactions with Essential Services.
+Task 1: Visting a Medical Clinic and Booking or Changing an Appointment.
+
+Me:“I’d like to make an appointment to see a doctor.” 00:03
+Chat GPT: Alright, got it. And do you have a preferred date or time in mind for that appointment?
+Me: “I prefer to see a doctor after noon.”00:04
+Chat GPT: Sure, I can check availability for the afternoon on the 20th. Now, do you have a particular doctor you’d like to see, or should I pick one for you?
+Me: “See you, Doctor!” 00:01
+Chat GPT: Sure thing, I’ll note that down for that doctor. And just to confirm, do you already have a file or patient number with us, or will this be your first visit?
+Me:“I don't know patient number, but it's my first time.”00:05
+Chat GPT: Absolutely, that’s all good. I’ll just get a new file started for you. Now, can I get your full name and a contact number to confirm the appointment?
+Me: “Yes, my name is Laila. My phone number is 00010.”00:08
+Chat GPT: Got it, Laila. Thanks for that. So we’re all set on the date and doctor. Just one last thing: do you have any specific preferences or accommodations you need for the appointment?
+Me: “Could I make an appointment next Friday afternoon?”00:06
+Chat GPT: Sure, we can do that for you. I’ll move it to Friday afternoon instead. And is there any particular time on Friday that works best for you?
+Me: Is it possible at 3PM? 00:01
+Chat GPT: Perfect, Friday at 3 PM it is. I’ll lock that in for you. So, you're all set, and if you need anything else before then, just let us know.
+Me: “I have a problem for my headache. Is there a medical specialist doctor?”00:08
+Chat GPT: Of course, that’s no problem at all. We can definitely note that down for the doctor. Is there anything else you’d like us to know before your visit?
+Me:“No.” 00:00
+Chat GPT: All right, got it.
+Me:“Could I change my appointment date?” 00:05
+Chat GPT: English Conversational Partner의 말:
+Absolutely, that’s all noted for you. Well, it sounds like we’ve got everything set for your appointment. If there's anything else that comes up, just give us a shout.
+Me:“I want to change my appointment from Friday afternoon to Wednesday afternoon.”
+Chat GPT: Sure, I can do that for you as well. Let me switch it over to Wednesday afternoon for you. And just to confirm, is the same time around 3 PM okay, or do you need a different time on Wednesday?
+Me:“Is it possible 3 p.m.?”00:01
+Chat GPT: Sure thing, I'll move it to 2 PM on Wednesday for you. So we’ve got that all adjusted now. If there's anything else you need, just let me know.
+Me:“Can I check my appointment?”00:01
+Chat GPT: Of course! Let me just confirm that for you. So right now, your appointment is set for Wednesday at 2 PM with the same doctor we discussed. Does that all look correct to you?
+Me:“I have a question. How long is wait?”00:05
+Chat GPT: Absolutely, that's a common question. Usually, the appointment runs about 20 to 30 minutes, depending on what you need. Anything else you’d like to know?
+Me:텍스트 기록 사용할 수 없음 00:05
+Chat GPT: You’re very welcome! We’ve got you all set, then. If you need anything else, just let us know.
+Me:“Yeah, nothing else.”00:01
+Chat GPT:You're welcome! Take care, and we'll see you at your appointment.
+Me:
+“Okay, thanks.”00:01
+Chat GPT : You're welcome! We’ve got that sorted out then. If there's anything else, just let me know.
+Me:“I appreciate your time. Bye for now.”00:03
+
+
+
+
+Task 2: Visting a Bank and Asking for Help with Banking Services. 
+
+Me: “Hi, I'd like to open a new bank account.”00:02
+Chat GPT: Alright! We can definitely help with that. Now, do you have any specific type of account in mind, like a checking or a savings account?
+Me:“I don't like to make a savings account.”00:02
+Chat GPT: Sure, a savings account is a great choice. I'll just need to know if you have any form of ID with you today. What kind of identification do you have on hand?
+Me:“Is this possible to drive a driver's license?”00:03
+Chat GPT: Absolutely, a driver’s license works just fine. Thanks for that. Now, let me quickly ask: do you have an initial amount in mind that you’d like to deposit to open the account?
+Me:“Pardon.”00:00
+Chat GPT: Alright, that sounds good. We can definitely get started. Now, would you prefer to receive your bank statements online or in paper form? Let me know what works best for you.
+Me:“I prefer to receive online.”00:04
+Chat GPT: 
+Great, online statements it is. That keeps things nice and simple. Now, one last thing: would you like to set up any kind of automatic transfers or just keep it manual for now? Let me know what you prefer.
+Me:텍스트 기록 사용할 수 없음00:01
+Chat GPT: Got it, we’ll keep it manual for now. That’s perfectly fine. And I think we’re all set on my end! If you have any other questions or need anything else, just let me know. What else can I help you with?
+Me:“each have a monthly fee for this account.”00:03
+Chat GPT: English Conversational Partner의 말:
+Sure! There's no rush at all. Take your time to read through it and feel free to ask if anything's unclear. Meanwhile, is there anything else you'd like to go over while you're looking at that form?
+Me:텍스트 기록 사용할 수 없음00:00
+Chat GPT: Alright, sounds good. So go ahead and fill that out at your own pace. And if you do think of any other questions, just let me know. Anything else on your mind right now?
+Me:“I have a question.”00:02
+Chat GPT: English Conversational Partner의 말:
+Sure, go right ahead and ask. I'm here to help with whatever you need! What’s your question? 
+Me:“What's the difference between these two account types, new and mine?”00:05
+Chat GPT: Of course! The main difference is that a savings account is typically for setting money aside and earning a bit of interest, while a checking account is more for everyday transactions. Now, does that help clarify things for you? Let me know if you need more details.
+Me:“Oh, Is it possible to temporarily freeze my account while I'm overseas?”00:07
+Chat GPT: Absolutely, we can do that. It's no problem to keep using your account even while you're overseas. Now, just to confirm, do you already have any plans for how often you might need to access it from abroad? Let me know what you're thinking.
+Me:“No, I don't have any plans, but just curious.”00:06
+Chat GPT: All right, that makes sense. We’ll just keep it flexible for you. If anything changes, you can always let us know. So for now, is there anything else you’re curious about or should we go ahead and finish up your account setup? Let me know!
+Me:텍스트 기록 사용할 수 없음00:02
+Chat GPT: All right, we’re all set then! I’ll go ahead and finalize everything for you. If you need anything else, just ask. Otherwise, welcome aboard and feel free to reach out anytime. Thanks for choosing us! If there's nothing else, are we good to wrap up? Let me know.
+Me:텍스트 기록 사용할 수 없음00:01
+Chat GPT: You're very welcome! Thanks for stopping by and setting up your account with us. If you ever need anything else, just let us know. Have a great day!
+Me:“Excuse me, how long I waited for receive my card?”00:05
+Chat GPT: Of course! Take your time, and there's no rush at all. Just let me know if anything else comes up while you’re here. For now, feel free to sit tight and go through your card details whenever you're ready. Anything else you’d like to go over while you do that?
+Me:“I’ll come back here.”00:02
+Chat GPT: Great, that’s all sorted then. Thanks again for coming in! If you ever need anything else, just reach out. Have a wonderful day! Bye for now.
+Me:“Have a wonderful day. Thanks.”00:01
+
+

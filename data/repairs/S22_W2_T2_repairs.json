@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S22_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      4,
+      5
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's intent not acknowledged",
+    "evidence_summary": "The learner expresses disinterest in creating a savings account, but the bot proceeds as if the learner wants one, ignoring the learner's statement. The misunderstanding is not addressed, and the conversation continues with the bot's incorrect assumption."
+  },
+  {
+    "dialogue_id": "S22_W2_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner indicates misunderstanding by saying 'Pardon,' but the bot does not address this and instead shifts to a new topic about bank statement preferences, leaving the initial question unresolved."
+  },
+  {
+    "dialogue_id": "S22_W2_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      30,
+      31
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "vocabulary – learner's question not addressed",
+    "evidence_summary": "The learner asks about the waiting time to receive their card, but the bot does not address this question. Instead, the bot provides a general response about taking time, leaving the learner's question unresolved and persisting."
+  }
+]

@@ -1,0 +1,275 @@
+{
+  "student_id": 44,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S44_W3_T1",
+  "source_file": "data\\raw\\#44\\#44\\#44. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Good morning, I call you because I need some help for my internet connection at my apartment.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Good morning! I’m happy to help. Could you let me know what exactly is happening with your internet connection? Are you unable to connect at all, or is it just running very slowly?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Just sometimes it doesn't work, and when it works, it works very slow. So I work with my computer, so I must have this internet.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I understand, that sounds frustrating. Thank you for sharing that. Could you let me know how long this has been happening? And have you tried any troubleshooting steps so far?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“It doesn't work since I arrived 3 days ago. I hope this problem is solved by themselves, but it doesn't.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, that definitely makes sense. Thanks for letting me know. Could you tell me if there are any specific times when the connection is worse, or is it consistently slow and unreliable throughout the day?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Sorry, can you repeat?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Of course! I was just asking if there are certain times of day when the connection is worse, or if it’s consistently slow and unreliable at all times. Let me know!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Like, I think 50% it doesn't work at all, and the other percent it works but bad.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I see, that definitely sounds frustrating. Thank you for sharing that detail. Just to help further, could you let me know if you’ve tried restarting your router or if there are any other devices connected that might be affecting the speed?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, I tried to turn over the like to to to turn off the”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "No worries, I understand."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Trascrizione non disponibile"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Take your time! Whenever you’re ready, just let me know what steps you’ve tried, and we can go from there to find a solution."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“I tried to turn off the mobile, but...”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Got it, thanks for"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“It doesn't work.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I understand, that can be quite frustrating. Let's definitely look into that. Could you let me know if there’s any specific error message that appears, or if the connection drops at certain times of day?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“No, it doesn't have any signals.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "I see, thank you for clarifying that. In that case, we might need to check if there’s an outage in your area. Could you let me know your apartment number or the address, so I can look up any service issues for you?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, it's 1-2-3 in Ultimo Street.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Perfect, thank you for that information. I’ll check the service status for that area. In the meantime, is there anything else I can assist you with?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Can you repeat the address?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course! The address you provided is 123 Ultimo Street. Let me check that for you right away. If there's anything else you need in the meantime, just let me know!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“What I should try before you send someone?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely! Typically, you can try restarting your router, checking the cables to make sure they’re all secure, and also testing the connection with a different device. Those steps can often help before we send a technician. If you’d like, I can guide you through those as well."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I tried to connect by two different dispositive, but it doesn't work anyway. I also tried to restart the modem, but it doesn't change anything, and I also try to see if it works in different area of the apartment, but as I told you, it's the same.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "I appreciate you trying all those steps! It definitely sounds like it’s a more persistent issue. In that case, I’ll arrange for a technician to come by and take a closer look. Would you prefer a specific time for the appointment, or should I schedule the earliest available slot?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yes, please can you schedule for the earliest day?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll get that arranged for you right away. We’ll make sure someone comes out as soon as possible. If there’s anything else you need in the meantime, just let me know!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Can I ask you one thing?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Of course, feel free to ask me anything! What do you need?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“You are sure that tomorrow you can solve this problem? And if not, can I have a refund?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll do my best to ensure it’s resolved as quickly as possible. And if we’re not able to fix it promptly, we can definitely discuss a refund or alternative solutions. Rest assured, I’ll keep you updated every step of the way."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“So I await your email with the schedule of the appointment.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll send you the confirmation email with all the details shortly. If you have any other questions in the meantime, just let me know."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“And do you... Um... Wait.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "No worries at all! Feel free to finish your question whenever you’re ready, and I’m here to help with anything you need."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“and I have to stay at home when the assistant come or you can manage these things.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "I completely understand. Typically, it’s best to be at home so we can grant access, but if there are other arrangements we can make, we can definitely discuss them. Just let me know what works best for you, and we’ll do our best to accommodate."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Can come one of your colleague to see the the process because it's I can't say at home”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely arrange for that. I’ll make a note that someone else can come by and handle it even if you’re not at home. Just let me know if you have any specific instructions, and we’ll take care of it for you."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“No, no, thank you, just clean the apartment after the work.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll make sure everything is left neat and tidy afterward. No worries at all. If you need anything else, just let me know, and we’ll take care of it!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Can you give me a reference number for this request?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Of course! I’ll make sure to provide you with a reference number right away. Once I have it confirmed, I’ll share it with you so you can keep track of the request easily. Let me take care of that for you."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Sorry.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "No problem at all! If there's anything else you need or any other questions that come up, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Oh no, thank you. I wait for the assistance.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "That sounds good! I’ll make sure everything is set up, and if anything else comes up, feel free to reach out. Thanks so much, and I’ll be in touch soon!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "You’re very welcome! Have a great day, and don’t hesitate to reach out if you need anything else. Take care!"
+    }
+  ]
+}

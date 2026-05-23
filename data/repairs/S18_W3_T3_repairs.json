@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S18_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding – assumption about task status",
+    "evidence_summary": "The learner states their repair is scheduled and asks for confirmation (Turn 15). The bot clarifies that the appointment needs to be booked first before a confirmation can be sent (Turn 16), correcting the learner's misunderstanding about the current status of the repair. The conversation then moves on, indicating resolution."
+  }
+]

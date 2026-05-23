@@ -1,0 +1,220 @@
+{
+  "student_id": 16,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S16_W4_T2",
+  "source_file": "data\\raw\\#16\\#16\\#16. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, Professor. Thank you for your attention. I know you are always busy.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course, happy to help. So, tell me a bit about what you’re looking into—are you exploring study plans or more focused on future career options right now?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I want to talk about my state plans and my future too. Now I'm studying English. At the moment my level is intermediate. I want to do a master's degree in IT and I need your advice if I stay in the correct way. If I do a chemistry course, an IELTS course just for training, or if I do a PhD, what would advise me for my plan to study English with my dreams to do a master's degree?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, I’m glad you’re thinking ahead. So it sounds like you’re on the right track if you’re aiming for a master’s in IT and you're currently at an intermediate English level. Now, let me ask you: do you have any specific universities or countries in mind for your master’s, or are you still open to exploring that?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I wanted to study Master Degree in UTS, University of Technology, Sydney.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "All right, UTS, that’s a great choice! So in that case, I’d definitely recommend focusing on whichever English test UTS prefers—often they accept IELTS, so that could be a good one to prepare for. Now, do you need any advice on how to structure your study plan or timeline for that?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, I need the address for my steplines, please.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely! So, I’d say let’s map out a timeline. Usually, you’ll want a few months to prep for the IELTS if that’s the test you’re taking. So maybe we can lay out a study schedule that mixes your English practice with a bit of IT prep. Now, do you have a target date for when you’d like to start your master’s, so we can work backwards from there?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Could you repeat what you asked me because I don't listen?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course! I was just asking if you have a target date for when you want to start your master’s so that we can plan your study timeline around that."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Could you repeat again, because we have a noise here.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure, no worries at all! I was just asking if you have a date in mind for when you'd like to begin your master's program. That way, we can plan your study schedule around that goal."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Our Master Degree Program.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Got it, so you're aiming to start your master's program. That’s perfect. We’ll just set up your study timeline so that you’re ready in time for that. So let’s aim to have you comfortable with your English and test prep a few months before your start date. Now, do you feel like you need any specific resources or guidance on what to study each week?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“I think my plan is start the university after one year because I have more one year for studying English in my school. So, I need just advice about if I start for Cambridge course, if I start for IELTS course, if I just study general English. What is the best way for me?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. So with a full year ahead, I'd say if UTS prefers IELTS for admission, it's probably best to focus on that. So you could do general English first and then transition into some IELTS-specific prep as you get closer. Now, does that sound like a plan that would work for you?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, I need a place to for work as well, because I need maintaining me here, so I need money, I need to pay my school, but it's very difficult for me to study, sorry, work in IT area, because in general, the companies just contract if I can work a full day. If I don't work full day, it's almost impossible. So, in the moment, I have work in companies as a laborer, in construction, as my staff is in big events. What you could advise me about it?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a really practical concern. So if you need to juggle work and study, I’d say it’s totally fine to keep doing part-time jobs like barista or event work that fit around your schedule. That way you can earn while you improve your English and work toward your master’s goal. And over time, as your English gets stronger, you might find some small IT internships or part-time roles that can fit in. So does that sound like a workable balance for you?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh, I think it's so good.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Great! I’m glad that sounds good to you. So we’ll plan on that balance of part-time work and focusing on your English and test prep. And of course, as you get closer to your master's start date, we can fine-tune anything else you need. Anything else on your mind for now?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Oh, for today it's nice.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "All right, glad to hear that! Well, we’ve got a good plan in place, and you know where to start. If you need any more advice down the line, just let me know. Otherwise, you're good to go."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Muito obrigado, professor. Eu realmente apreciei sua atenção.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m always happy to help. Good luck with everything, and we’ll chat again if you need any more guidance. Take care!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Take care. Bye-bye.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Bye! Take care and best of luck with everything. Task 2: Participating in Group Decisions and Negotiating Responsibilities “Hello people, we needed to discuss the presentation of the new app project to investors. We needed to divide the tasks. Would you like to hear my suggestion?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, let’s hear them. I’m all ears for your suggestions on how we can split things up for the presentation."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Ok, então, como o proprietário do projeto, posso abrir as apresentações, introduzir todos os membros do projeto e, finalmente, o propósito da aplicação. Depois, acredito que Elton pode falar sobre as mudanças tecnológicas e as ferramentas de IT que serão usadas. Depois, acredito que o Alexandre apresentará os custos do projeto e, finalmente, o Shun apresentará o protótipo com as funcionalidades.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sure, that sounds like a solid plan! I’m happy to jump in and talk about the prototype and the functionalities at the end. So I’m definitely on board with that. Is everyone else comfortable with their parts, or should we tweak anything?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“I want to listen about what you think about my proposal.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, I think your proposal is really well structured. It makes sense to have you kick things off and then have each person present their own area of expertise. So from my side, I’m totally on board with it. Does anyone else have any adjustments, or are we good to lock it in?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Do you have any two-bit about your part of the project? And you can do your presentation and send for me just for I check if you say okay with the project. And all members of the group, I need to receive this information too. Because it's good if our presentation stay in the same direction. Are you concordant with me? Are you okay?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, I agree with you. It’s a great idea for all of us to share our parts in advance so we can make sure everything lines up nicely. I’ll definitely send you my portion of the presentation so you can review it, and we can all stay on the same page. Does that sound good to you?"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Oh, it's good. I really appreciate it. Could you talk about your idea for this project?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure thing! I’d be happy to share my idea. So for this project, I’m thinking we can really highlight the most user-friendly features of the app when I present the prototype. That way the investors get a really clear picture of what makes it stand out. And of course, I’ll sync up with everyone else’s sections so it all flows smoothly. Does that align with what you had in mind?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Oh good, you have a good, you understand the best the project. So I think we can go to work and preparing the presentation and the next week we have a meeting with the investors.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a plan. We understand the project well, and we can all just get to work on our parts. So let’s do that, and then we’ll come together next week for the investor meeting. Sounds great!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Good. Thanks so much. The meeting is finishing and I hope all of you have a great day. And I really appreciate your attention and I hope you have a great day.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely, thanks a lot! It was a great meeting, and I hope you have a fantastic day as well. We'll catch up soon!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“See you soon, people.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "See you soon! Take care and have"
+    }
+  ]
+}

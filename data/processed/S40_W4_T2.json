@@ -1,0 +1,80 @@
+{
+  "student_id": 40,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S40_W4_T2",
+  "source_file": "data\\raw\\#40\\#40\\#40. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hello, we have just started our group project, can we plan the tasks together?"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure, happy to plan together. What exactly is the project about so we know what tasks we need to divide?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "We need to write a new project about sustainability, but I think so we need to divide the project in different steps."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, dividing it into steps makes sense. Which main sections or stages do you think we should include for this sustainability project?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "I think some of the projects have five steps, but it's very important who is looking for information, who is writing the report, and who is checking the information, and who is presenting."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure, those roles are important. So if we have five steps, we can match each step with a clear responsibility. Which role would you personally prefer to take—research, writing, checking, or presenting?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I prefer to look at information and research. It's easier for me. I feel really comfortable to do that."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, great — if research feels comfortable for you, that works well for the team. To plan smoothly, how much information do you think you can gather, and by when can you finish the first part of the research?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I have a question. Who wants to do the writing part?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure, I can take the writing part if that works for everyone. When would you like me to have the first draft ready?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Do you have any template can you share with me but the process will be easy for you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure, I can share a simple writing template we can follow: Introduction – aim of the project Background – key sustainability issues Findings – your research results Discussion – what the results mean Conclusion & recommendations Would you like me to start filling this template once you finish your research notes?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Oh wow, so quick. Thank you for the information. Maybe I send the information in two weeks business day. Thank you so much. See you soon."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, no problem. I’ll wait for your notes in two weeks. See you soon! Principio del formulario Final del formulario"
+    }
+  ]
+}

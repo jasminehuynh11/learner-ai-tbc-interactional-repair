@@ -1,0 +1,240 @@
+{
+  "student_id": 4,
+  "week": 3,
+  "task": 1,
+  "task_label": "T4",
+  "dialogue_id": "S4_W3_T1",
+  "source_file": "data\\raw\\#04\\#04\\#4. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hello, thanks for calling. How can I help you today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Hi, good morning. I’m calling because my internet is not working, like completely, and I don’t know if it’s only me or the building, and I’m a bit… eh… worried because I need it for class."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I understand, that’s stressful. Let’s check it together. When did you first notice the internet stopped working?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Last night, more or less at… maybe ? I was watching a lecture and it just stopped, and then I tried again and it was like, no connection. I mean, no internet."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Okay, around  last night. Thank you. Are you using Wi-Fi, or a cable connection?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Wi-Fi. I don’t use cable, I don’t have it. And my phone also no internet, so it’s not only my laptop."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, multiple devices are affected. That suggests it’s not a single device issue. Can you look at your modem or router for me? Are there any lights on, and what colours are they?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Yes, I’m looking now. The power light is on. The other one, the internet one, is red, and it’s blinking like… blink blink. Not stable."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That’s very helpful. A blinking red internet light usually means the connection to the service is down. Have you tried restarting the modem or router?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Yes, I did. I unplugged it. First I waited one minute, then I did again and I waited like five minutes because someone told me you need to wait more. But it came back the same, red blinking."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "You did exactly the right steps. Thank you for trying that already. Do you live in an apartment building with shared internet, or do you have your own service in your unit?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I think it’s my own service, but also the building has… how you say… like the same company for many people, I think. I’m not sure."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That’s okay. We can still check outages in your area. Can you confirm your address for me, including the unit number?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yes, it’s 18 King Street, apartment 304. And the postcode is 2000."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Thank you. I’m checking now. Just one moment. Okay, I can see there’s a known outage reported in your building area from last night. That means you’re not the only one."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Ah, okay. That makes me feel better, because I was thinking maybe I broke something. So it’s general, yes?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Yes, it looks like a network issue impacting multiple customers nearby. It’s currently marked as “in progress” for repair."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "In progress means they are fixing now? Or it means later? Sorry, I don’t understand."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Good question. “In progress” means technicians are actively working on it now, but it’s not yet resolved."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Okay, so they are working now. Do you have an estimate time? Like, more or less."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "The current estimated restoration time is within the next three hours. I know that’s a wide window, but it’s the best information we have right now."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Three hours… hmm. I have a Zoom at 1 p.m. If it’s not fixed, what can I do? Like, can you give me a solution?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "I understand. While the outage is ongoing, the main options are using mobile data as a hotspot, or going to a place with Wi-Fi, like your campus library or a café."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Yes, I can use hotspot, but my data is not so much. And if I use too much, it’s expensive. So I want to ask, can I get discount for this outage?"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Yes, you can request a service credit once the outage is resolved, since you’ve been without service. I can also note your account right now that you called during the outage."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Yes please, because sometimes when you call later they say, “no record”, and I don’t want that."
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Completely understandable. I’ve added a note to your account with the time of your call and the outage reference."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Thank you. Another question, sorry, I have many questions. If the internet comes back and then goes again, should I restart again, or should I not touch it?"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "That’s a good question. If it comes back and drops again, you can restart once. But if it keeps happening, it’s better to call us again rather than repeatedly restarting."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Okay. And do you know if they need to come inside my apartment? Because I don’t want someone entering when I’m not there."
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "For a building-level outage, technicians usually work on external lines or building equipment, not inside individual apartments. If an in-unit visit is needed later, we would contact you to schedule it."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Okay, that’s good. Because I was thinking, maybe they come and I’m not ready, you know."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Totally understandable. Can I also confirm the best contact method for updates? We can send SMS or email notifications for outages."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Email is better. I check email always. Phone I miss sometimes, because I’m in class."
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "No problem. I’ll set email as your preferred contact."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "Thank you. And sorry, one more thing. The modem light is red now. If the outage is fixed, will it automatically become normal? Or I need to restart again?"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "In most cases it will reconnect automatically once service is restored. If it doesn’t reconnect within about 15 minutes after the outage is marked resolved, then you should restart it once."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Okay, 15 minutes after. That is clear."
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Great. Is there anything else you’d like me to check while I have your account open?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "Umm, yes, maybe. If I use hotspot for Zoom, does it use too much? Like, how much data?"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "It can use quite a bit, especially if your camera is on. If you need to conserve data, you can turn off video and use audio only, and reduce screen sharing where possible."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Ah yes, I can turn off camera. That’s a good tip."
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "I’m glad. I’m really sorry again for the inconvenience. We’ll keep working to restore service as quickly as possible."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "Okay. Thank you for your patience, and for explaining. I will wait, and if not fixed I call again."
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "That sounds good. Thank you for calling, and I hope it’s back very soon."
+    }
+  ]
+}

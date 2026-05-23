@@ -1,0 +1,125 @@
+{
+  "student_id": 48,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S48_W1_T1",
+  "source_file": "data\\raw\\#48\\#48\\#48. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to practise how to order coffee at a café. You are a barista working in a café in Sydney. I’ll play the role of a customer. Please create a realistic café scenario and respond as if we were really there. Ask me about my preferences, help me choose from the menu, and explain different coffee options. Keep the conversation going naturally by asking at least 3 follow-up questions about size, milk, and payment"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": ": Sure! Let’s set the scene. You walk into a busy café in Surry Hills, Sydney. I’m behind the counter, wiping down the espresso machine as you approach. There’s soft music, the smell of fresh pastries, and a bit of morning chatter."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": ": “Hey there! Welcome in. What can I get started for you today?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": ": I would like some coffee. Any recommendations?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": ": “Absolutely! Are you after something strong and bold, like an espresso or long black, or something smoother and creamier, like a latte or cappuccino?” “Also, do you usually like your coffee hot or iced?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": ": Something not too strong, I guess"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": ": “Perfect! In that case, I’d suggest a latte or a flat white—they’re smooth, creamy, and not too strong. A latte has more milk, so it’s a bit milder, while a flat white has a stronger coffee flavour but still creamy. Do you want to go hot or iced?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": ": Latter would be my choice. I'd love to have a hot latte."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": ": “Great choice! Would you like that in a small, medium, or large?” “And what kind of milk do you usually prefer—full cream, skim, or a plant-based option like oat or almond?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": ": Medium size would be perfect. By the way, do you have de-caffeine option?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": ": “Yes, we do! We can make your medium hot latte with decaf coffee if you’d like, so you can enjoy it anytime without the caffeine kick. Would you like to stick with full cream milk, or try a different one for your decaf latte?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": ": Full cream please. Does it cost the same for the decaf? Any interesting combo for this morning?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": ": “Yes, decaf is the same price as regular coffee, so no worries there. If you’re looking for something a little special this morning, we have a few options: Vanilla latte – adds a subtle, sweet vanilla flavour. Caramel latte – a bit richer and perfect if you like a treat. Flat white with a sprinkle of cinnamon – simple but aromatic. Do you want to stick with a classic decaf latte, or try one of these combos?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": ": Flat white with cinnamon would be a bit better I guess. Please change it for me and I would like the flat white decaf too"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": ": “Perfect! So that’s a medium hot decaf flat white with a sprinkle of cinnamon. Sounds delicious! Would you like any sugar or sweetener with that, or just as is?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": ": A little bit sugar would be great. Thank you"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": ": “Got it! Just a little sugar. Will this be for here, or takeaway?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": ": Takeaway please. I'd have it on the way to work"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": ": “Awesome, takeaway it is. That’ll be a medium hot decaf flat white with a sprinkle of cinnamon and a little sugar. Are you paying by card or cash today?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": ": CArd please"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": ": “Great! You can tap or insert your card right here.” [hands over the card machine] “All done—here’s your receipt. Your decaf cinnamon flat white will be ready in just a minute. Enjoy your coffee on the way to work!” The coffee is prepared and handed to you in a takeaway cup, steam rising from the lid. If you want, we can do another practice round with more options, like iced coffees or alternative milk choices, so you get really comfortable ordering. Do you want to try that?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": ": Thanks. You too"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": ": “Thanks a lot! Have a great morning and enjoy your coffee!” You grab your takeaway and head out into the busy street, coffee in hand, ready for the day."
+    }
+  ]
+}

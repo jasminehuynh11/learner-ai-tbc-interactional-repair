@@ -1,0 +1,298 @@
+Task 1: 
+
+You:
+
+Discussing Study or Career Plans with an Advisor Scenario: You are speaking with an academic advisor or career counsellor to get guidance about your current study plans or future career options. You want to explain your situation, ask for advice, and clarify next steps. Practise speaking clearly and professionally in a formal setting. You will need to define the chatbot’s role as a university advisor or career counsellor. You can choose situations from the examples below; start with a basic question about your study plan, and try a more extended interaction by exploring course structures, comparing qualifications, or evaluating career outcomes. Learning objectives: • Practise describing academic or professional goals. • Use formal and polite question forms. • Respond to suggestions and express uncertainty or preferences. • (Advanced option) Manage a longer discussion by comparing study pathways, discussing industry requirements, or asking for help with future planning.
+English Conversational Partner の発言：
+Alright. As your university advisor, I’m here to help.
+What study area or career path are you currently thinking about?
+You:
+“Hi, I'm currently studying English literature, but I'm still unsure about my next step.”
+00:07
+English Conversational Partner の発言：
+Got it, that makes
+You:
+“So, I would like some advice about possible directions.”
+00:05
+English Conversational Partner の発言：
+Absolutely, I’d be happy to help with that. Are you considering further studies, or are you more focused on entering the workforce right after your degree?
+You:
+“Well, I'd like to work after I got a degree.”
+00:07
+English Conversational Partner の発言：
+That sounds great! In that case, we can explore potential career paths related to English Literature. Do you have any specific fields or industries in mind, such as publishing, education, or maybe something else?
+You:
+“So, I'd like to know about my pathway, so what pathways are available for someone with my background?”
+00:11
+English Conversational Partner の発言：
+Absolutely! With a background in English Literature, you could consider pathways in publishing, content writing, communications, or even teaching. We can definitely dive into the specifics of each option. Is there any particular field that interests you the most?
+You:
+“I'm not into, uh, publishment, uh, uh, sorry.”
+00:06
+English Conversational Partner の発言：
+No problem at all! We can definitely
+You:
+“Yeah, Publishment.”
+00:03
+English Conversational Partner の発言：
+Got it, that makes
+You:
+“I forgot the word, but industry, yeah. Publishment industry, I'm not into that.”
+00:09
+English Conversational Partner の発言：
+No worries at all, I understand! We can definitely explore other fields, like education, communication, marketing, or even creative writing and media. Let me know which direction interests you, and we can dive deeper into that.
+You:
+“Maybe I can do an office clerk or something like that, but do you think I should gain more work experience before moving forward?”
+00:16
+English Conversational Partner の発言：
+That’s a great consideration! Gaining some work experience can definitely help you build practical skills and enhance your resume. We can look at internship opportunities or part-time roles that align with your interests. Would you like to explore some specific options or industries for that?
+You:
+“Just, I'd like to know some. Now, I don't have a dream or some...”
+00:07
+English Conversational Partner の発言：
+That’s completely fine!
+You:
+“Some goal for my life, so yeah, I'd like to know some”
+00:07
+English Conversational Partner の発言：
+Absolutely, that
+You:
+“Some other words? I'm not sure, sorry.”
+00:03
+English Conversational Partner の発言：
+No worries at all, take your time! We can explore various possibilities and figure out what feels right for you. Just let me know whenever you have any questions or if you’d like to dive deeper into any area.
+You:
+文字起こしを利用できません
+00:00
+English Conversational Partner の発言：
+Great! Whenever you're
+You:
+“Just imagine now, but I'm planning to study overseas in the future and would like to know how to prepare.”
+00:08
+English Conversational Partner の発言：
+That sounds exciting! We can definitely talk about the steps to prepare, like choosing the right university, understanding application requirements, and even exploring scholarships. Let me know what specific aspects you’d like to focus on!
+You:
+“But after I graduate, I'd like to work at first, because I'm Japanese. So Japan is common to work after graduate the university or college. But I'm planning to study overseas after I can get some money or I can save some money.”
+00:32
+English Conversational Partner の発言：
+That makes perfect sense! It’s definitely common to gain some work experience first and then save up before studying abroad. We can talk about how to balance both goals and plan out the timeline. Just let me know what specific details you’d like to dive into!
+You:
+“But just imagine now, so I don't have some details about it.”
+00:06
+English Conversational Partner の発言：
+That’s absolutely fine! We can take it step by step and explore things as you go. Whenever you have more clarity or specific questions, I’m here to help guide you through it all. Just let me know whenever you're ready!
+You:
+“Okay, thanks, so...”
+00:02
+English Conversational Partner の発言：
+You’re very welcome! Anytime you have questions or want to discuss your plans further, just let me know. I’m here to help whenever you need!
+You:
+“And maybe I might need more time to think about it, so thank you for your guidance. So, once I decide, I'll book another meeting to confirm my plan.”
+00:12
+English Conversational Partner の発言：
+That sounds like a great plan! Take all the time you need, and whenever you're ready, we can definitely continue our discussion. Just let me know, and I’m always here to help. Take care!
+You:
+“Thank you. Bye.”
+00:00
+English Conversational Partner の発言：
+You’re very welcome! Have a great day, and I look forward to talking with you again soon. Take care!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task 2: 
+You:
+Participating in Group Decisions and Negotiating Responsibilities Scenario: You are part of a team working on a group project or task. You need to share opinions, agree or disagree politely, and negotiate roles, deadlines, or contributions. Practise speaking respectfully and collaboratively in a semi-formal setting. You will need to define the chatbot’s role as a teammate or project group member. You can choose situations from the examples below; start with a basic opinion or suggestion and gradually develop a more complex negotiation about deadlines, roles, or contributions. Learning objectives: • Use language for turn-taking and respectful disagreement. • Practise suggesting and clarifying ideas. • Use polite negotiation strategies. • (Advanced option) Engage in more complex group scenarios involving accountability, follow-up planning, and conflict resolution.
+English Conversational Partner の発言：
+Alright! I’ll be your teammate for this group project.
+So first—what’s our project topic, or what part would you like us to start discussing?
+You:
+“So, we've just started the project, so I think we should organize our tasks together. Our deadline is approaching, so we need to decide who will handle each part. We also need to choose the presentation order and plan the workflow.”
+00:19
+English Conversational Partner の発言：
+Absolutely, that makes sense! We can definitely break down the tasks and assign them based on everyone’s strengths. Do you have any preferences for which part you’d like to handle, or should we start by listing out all the tasks first?
+You:
+“So, I think this plan works well now, but we may need more time for the last section. And the last section is, I think, I'm going to do together, I think. Because it's a little bit difficult and complicated, so we should help each other, I think.”
+00:25
+English Conversational Partner の発言：
+I completely agree! It’s always good to support each other, especially with the more challenging sections. We can definitely allocate some extra time for that part and maybe even have a mini-session to brainstorm together. Let’s make sure we’re all on the same page and help each other out as we go along!
+You:
+“Yeah, I agree with most of the ideas.”
+00:02
+English Conversational Partner の発言：
+Awesome! I’m glad
+You:
+“Thank you.”
+00:00
+English Conversational Partner の発言：
+If anything else comes to mind, just let me know. I’m looking forward to working together and making this project a success!
+You:
+“Could we adjust the timing?”
+00:02
+English Conversational Partner の発言：
+Absolutely, we can definitely adjust the timing to make sure it works for everyone. Just let me know what changes you have in mind, and we’ll find a schedule that suits the whole team!
+You:
+“We only have two weeks now, so what day you can do to do it together, we can gather together. So we need to decide some work day, I think.”
+00:20
+English Conversational Partner の発言：
+That sounds good! We can definitely set up a few work sessions over the next two weeks. Let me know which days and times are most convenient for you, and we’ll coordinate with everyone else. That way, we can make the most of our time together!
+You:
+“In my case, I can do it on...”
+00:03
+English Conversational Partner の発言：
+Perfect! Just let me
+You:
+“Monday to Friday, which whichever is where whatever is okay, but except Monday, so what?”
+00:09
+English Conversational Partner の発言：
+Got it, that makes sense! So we can definitely plan our sessions for Tuesday through Friday. Let’s coordinate with the rest of the team and find the best day and time that works for everyone. Sounds like we’re on the right track!
+You:
+“So, what...”
+00:02
+English Conversational Partner の発言：
+Alright, that sounds great! Whenever you're ready, we can finalize those details and make sure everyone’s on board. Just let me know if you have any other thoughts, and we’ll keep moving forward!
+You:
+“Sorry, I couldn't understand.”
+00:03
+English Conversational Partner の発言：
+No worries at all! What I meant was that whenever you’re ready, we can finalize the details and make sure everything works well for everyone. Just let me know if you have any other questions or thoughts, and we’ll keep things moving smoothly!
+You:
+“I don't know, so in my case, I can, on Tuesday to Friday, so what's your plan, or yeah, I'd like to know about you guys, or when it's comfortable for you, or not.”
+00:25
+English Conversational Partner の発言：
+Absolutely, that makes sense! I’ll check in with the rest of the team to see what days work best for them, and then we can find a time that’s convenient for everyone. I’ll keep you updated, and we’ll make sure to find a good time that works for all of us!
+You:
+“If needed, I can handle the writing section, so could someone support the research part while I organize the final slides?”
+00:12
+English Conversational Partner の発言：
+That sounds like a great plan! I’m sure we can definitely have someone focus on the research, and you can take the lead on the writing and final slides. We’ll make sure everything is well-coordinated, and we’ll definitely support each other along the way. Sounds like we’re all set!
+You:
+“Thank you. So, what part of the geographic data do you have?”
+00:03
+English Conversational Partner の発言：
+I’m flexible, so I’m happy to go with whatever works best for the group. If you have any preferences or if the team has a preferred day, just let me know, and I’ll make it work on my end as well!
+You:
+“Okay, so...”
+00:02
+English Conversational Partner の発言：
+Alright, sounds good! Whenever you’re ready, we can finalize everything, and I’m here to help out in any way. Just let me know, and we’ll keep things moving smoothly!
+You:
+“So, please, supporting part, please, so, research part, you, you, could you, could you, could you take a research part, please?”
+00:17
+English Conversational Partner の発言：
+Absolutely, I’d be happy to take on the research part! That sounds great. We’ll make sure everything is well-researched and ready for you to integrate into the final presentation. Just let me know if there’s anything specific you need from me!
+You:
+“Okay, so almost all your agreed on the plan and the timeline, correct?”
+00:08
+English Conversational Partner の発言：
+Yes, that’s correct! Everyone seems on board with the plan and the timeline, and we’re all set to move forward. If anything comes up, we’ll adjust as needed, but I think we’re in a great place.
+You:
+“Okay, so if any issues come up, let's update each other and let's check our progress in a few days to stay on track.”
+00:09
+English Conversational Partner の発言：
+Absolutely, that sounds like a great approach! We’ll keep each other updated and check in regularly to make sure everything stays on track. I’m looking forward to collaborating and making this project a success!
+Task 3: Responding to Feedback or a Performance Review Scenario: You are participating in a feedback session with a teacher, manager, or supervisor. You need to listen actively, ask questions, respond respectfully, and reflect on ways to improve. Practise using constructive, calm, and polite language. You will need to define the chatbot’s role as a supervisor, teacher, or manager. You can choose situations from the examples below; begin with a basic response and gradually try a more complex interaction by asking about development goals, long- term expectations, or feedback from previous tasks. Learning objectives: • Use active listening strategies. • Respond respectfully and constructively. • Ask follow-up questions about performance and goals. • (Advanced option) Participate in extended reflection and goal-setting based on feedback.
+English Conversational Partner の発言：
+Alright, thanks for meeting with me today. To start, how do you feel your recent work on your tasks has been going?
+You:
+“I've just finished my shift.”
+00:02
+English Conversational Partner の発言：
+Got it, thanks for
+You:
+“So could you give me some feedback on my customer interaction today?”
+00:04
+English Conversational Partner の発言：
+Absolutely, I’d be happy to. Could you share a bit about any specific interactions you’re curious about or any challenges you faced?
+You:
+“So, when I, when I, uh, if, if someone, if the customer wants to pay, to pay payment,”
+00:16
+English Conversational Partner の発言：
+No worries at all!
+You:
+“P.A.Y.”
+00:00
+English Conversational Partner の発言：
+Take your time, no rush. Feel free to let me know any details or examples you have in mind, and we'll work through it together.
+You:
+“So the customers finished eating, finished to eat, and they want to pay the register? I'm not sure. So how can I say you can go to the register or the reception? I'm not sure, but yeah, how should I How should I recommend, not recommend, just how should I say?”
+00:37
+English Conversational Partner の発言：
+Absolutely, that makes
+You:
+“This is a captioner.”
+00:01
+English Conversational Partner の発言：
+You could say something like, "Thank you for dining with us! Whenever you're ready, you can head over to the register to complete your payment." Does that sound like something that would work for you?
+You:
+“I'd like to know about the words or sentence, so please say it slowly, sorry.”
+00:08
+English Conversational Partner の発言：
+Absolutely, I'll go slowly. You can say: "Thank you for dining with us! When you're ready, please head over to the register to complete your payment." Let me know if that helps!
+You:
+“It's a little bit long for me, so I can't remember, maybe, I think. So, could you be shorter? Could you be shortened?”
+00:11
+English Conversational Partner の発言：
+Of course, I can definitely make it shorter. You could simply say: "Thank you! Please pay at the register." How does that sound?
+You:
+“Okay, I got it.”
+00:01
+English Conversational Partner の発言：
+Perfect! I'm glad that helps.
+You:
+“And...”
+00:00
+English Conversational Partner の発言：
+You're very welcome! If you have any more questions or need more practice, just let me know.
+You:
+“So I'd like to hear how they're in today's shift.”
+00:05
+English Conversational Partner の発言：
+Absolutely, I’d be happy to share that! Overall, you did really well today. Your interactions were warm and friendly, and customers seemed pleased. Is there any specific area you’d like more detailed feedback on?
+You:
+“I'd like to know about the whole reputation.”
+00:05
+English Conversational Partner の発言：
+Absolutely, that makes sense! Overall, your reputation is quite positive. You’re known for being approachable and helpful, and customers appreciate your friendly demeanor. If there’s any specific aspect you’d like to focus on, just let me know!
+You:
+“So do you have any advice? So could you suggest one thing I could do better tomorrow?”
+00:06
+English Conversational Partner の発言：
+Absolutely! One suggestion would be to maybe focus on even more proactive engagement with customers, like checking in with them a bit more frequently to see if they need anything. That small touch can really enhance their experience. How does that sound to you?
+You:
+“Okay, so how can I suggest some foods or drink?”
+00:06
+English Conversational Partner の発言：
+A great way is to keep it friendly and personal. You could say something like, “If you’re in the mood for something refreshing, I’d highly recommend our special drink today,” or “One of our popular dishes is…” and then name it. It keeps things engaging and helpful!
+You:
+“Okay, got it. And I have one question, and if I remove some dishes for the end dishes, I don't know how to say that, but the finished dishes, how can I say, can I remove these dishes? Is it okay for you guys or something like that? I always say that. Is it okay?”
+00:26
+English Conversational Partner の発言：
+Yes, absolutely! You can keep it polite and simple, like, “Would you like me to clear these dishes for you?” or “May I remove the finished plates?” That way, it’s courteous and clear, and it’s perfectly fine to say it that way!
+You:
+“Okay, it's perfect for me. Thank you very much.”
+00:05
+English Conversational Partner の発言：
+You’re very welcome! I’m glad it helps. If you have any more questions or need any more practice, just let me know.
+You:
+“Thanks again, so I'll apply your advice tomorrow.”
+00:05
+English Conversational Partner の発言：
+That sounds great! I’m sure you’ll do wonderfully. And if you need any more guidance, I’m always here to help. Good luck tomorrow!
+You:
+“Thank you. Bye-bye.”
+00:01
+English Conversational Partner の発言：
+You’re welcome! Take

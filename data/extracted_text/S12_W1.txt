@@ -1,0 +1,184 @@
+TASK 1：
+
+“Hi, could I please get an Americano?”
+English Conversational Partner said：
+Absolutely, an Americano sounds great! Would you like any milk or sugar with that?
+You said：
+“No, I don't want to add anything just to the Merrick channel.”
+English Conversational Partner said：
+Got it, just a plain Americano. That's coming right up! Would you like to have that for here or to go?
+You said：
+“I will take it out, but I want to wait it near the door.”
+English Conversational Partner said：
+No problem at all! I'll have it ready for you to go, and you can wait by the door. Anything else I can help you with?
+You said：
+“I want to know what else do you recommend today?”
+English Conversational Partner said：
+Oh, sure! We have some delicious pastries and a special cake today. Are you in the mood for something sweet or maybe a snack?
+You said：
+“Yes, please.”
+English Conversational Partner said：
+Great choice! We have a lovely almond croissant and a chocolate chip cookie. Which one sounds good to you?
+You said：
+“be a chocolate chip cookie. I like the sweet chocolate chips very much.”
+English Conversational Partner said：
+Excellent choice! I'll add that chocolate chip cookie to your order. Is there anything else I can get for you, or are we all set?
+You said：
+“That's all. Thank you. And I want to know what kind of beans do you use for your cat Americano?”
+English Conversational Partner said：
+Oh, that's a great question! We use a medium roast bean that’s got a nice balance of acidity and richness. I think you'll love it! Anything else you're curious about?
+You said：
+“That's great, thank you and I will wait it next door.”
+English Conversational Partner said：
+You're very welcome! I'll have your Americano and cookie ready for you in just a moment. Thanks for stopping by!
+You said：
+“Hi, does my Americano is all ready?”
+English Conversational Partner said：
+Almost ready! Just putting the finishing touches on it. It should be good to go in just a few seconds. Thanks for your patience!
+You said：
+“Okay, thank you very much.”
+English Conversational Partner said：
+You're very welcome! Here you go, your Americano and cookie are all set. Enjoy, and have a great day!
+You said：
+“Thank you. You too. Have a nice day.”
+English Conversational Partner said：
+Thanks so much! Take care, and feel free to come back anytime. Bye for now!
+
+
+TASK 2：
+
+“okay let's start hi i'd like to book a book for three tonight”
+00:07
+English Conversational Partner said：
+Of course! I'd be happy to help you with that. How many people will be in your party for that reservation?
+You said：
+“And maybe just to person.”
+00:02
+English Conversational Partner said：
+Got it, two people. And do you have a specific time in mind for that reservation?
+You said：
+“Maybe 6 o'clock in the afternoon.”
+00:05
+English Conversational Partner said：
+Perfect, 6 o'clock in the evening for two people. Any preference for the type of seating, like indoors or outdoors?
+You said：
+“I want a doctor outdoor sitting and just near the road, please.”
+00:08
+English Conversational Partner said：
+Got it, outdoor seating with a nice view of the street. That sounds lovely! Anything else I should note for your reservation, like a special occasion or dietary requests?
+You said：
+“Today is my friend's birthday, so I'm booking for her birthday to offer anything in all the decorations.”
+00:12
+English Conversational Partner said：
+Oh, that's so sweet! I'll make sure to add a note for the birthday celebration and a special dessert for her. Anything else you'd like to include?
+You said：
+“Can you put a candle on the dessert?”
+00:02
+English Conversational Partner said：
+Absolutely, I'll make sure there's a candle on the dessert for her. That'll be a lovely touch! I think we have everything set. If there's anything else, just let me know!
+You said：
+“Oops, I forgot to bring our cake to your restaurant. So, do you have any cakes or some things that are very beautiful for the birthday?”
+00:17
+English Conversational Partner said：
+That sounds wonderful! We do have some lovely cakes that are perfect for a birthday celebration, but you're absolutely welcome to bring your own as well. Just let us know in advance, and we'll make sure everything is set up perfectly for you.
+You said：
+“So could you give me some pictures about the lovely cakes?”
+00:05
+English Conversational Partner said：
+Absolutely, I'll make a note of that and we'll ensure everything is ready for the special celebration. If you think of anything else, just let me know!
+You said：
+“Okay, and also I want a romantic table for us because she's my best friend.”
+00:09
+English Conversational Partner said：
+Oh, that's lovely! I'll make sure the table is set up to be extra romantic and cozy for the two of you. I think it’s going to be a wonderful evening! If there’s anything else you need, just let me know.
+You said：
+“Will I get a confirmation message?”
+00:04
+English Conversational Partner said：
+Yes, absolutely! I’ll send you a confirmation message with all the details shortly. If you have any other questions in the meantime, just let me know!
+You said：
+“Don't forget to send me some photos about the lovely cakes so I and I will choose one for her birthday.”
+00:10
+English Conversational Partner said：
+Absolutely, I'll include that in the confirmation as well. That way you'll have all the details and can make your choice easily. Thanks for letting me know!
+You said：
+“Is the menu online or offline?”
+00:03
+English Conversational Partner said：
+We can definitely provide you with an online menu so you can take a look at it at your convenience. I'll include the link in the confirmation as well.
+You said：
+“Great, I will see you at 6 tonight.”
+00:04
+English Conversational Partner said：
+No problem at all! I'll make sure to send that over to you as soon as possible so you can have a look tonight. If there's anything else you need, just let me know!
+You said：
+“That's all. Thank you.”
+00:01
+English Conversational Partner said：
+You're very welcome! I'm glad to help. Have a wonderful day, and I'll be in touch soon!
+
+Task 3
+Now, you are a store shopper, and I'm a customer visiting your clothing store to return or exchange a recent purchase. Let's start!”
+00:18
+English Conversational Partner said：
+Got it! Welcome to the store! I’m here to help you with your return or exchange. Could you let me know what item you’d like to return or exchange?
+You said：
+“Yeah, I bought these shoes last week, but it doesn't fit my feet, so I want to exchange it for a larger one.”
+00:10
+English Conversational Partner said：
+Got it! I can definitely help with that. Do you have the receipt with you, and is there a specific size you're looking for?
+You said：
+“Yeah, of course, I have the receipt here.”
+00:04
+English Conversational Partner said：
+Perfect, thank you! And what size are you looking to exchange it for?
+You said：
+“I want to exchange it into 35.”
+00:04
+English Conversational Partner said：
+Alright, got it! Let me check if we have that size in stock for you. Just a moment!
+You said：
+“Sorry, I don't know the Chinese size and the Australian size, is there a difference between these?”
+00:09
+English Conversational Partner said：
+Yes, there can be a slight difference between the two sizing systems. I can definitely help you convert that. Could you tell me your usual size in the Chinese system, and I’ll find the Australian equivalent for you?
+You said：
+“Chinese size my feet is 36 so how much is it in Australian size?”
+00:10
+English Conversational Partner said：
+Alright, a Chinese size 36 usually corresponds to about a women's size 5 in Australian sizing. So hopefully that will fit you well!
+You said：
+“Okay, so can you...”
+00:02
+English Conversational Partner said：
+Absolutely, I'll go ahead and get that size for you. Just give me a moment, and we'll get this exchange sorted!
+You said：
+“Oh, sorry, but it is too large for me, too.”
+00:06
+English Conversational Partner said：
+No worries at all! Let me know the size that would be comfortable for you, and I'll see what we have available in that size.
+You said：
+“Then create a smaller one.”
+00:02
+English Conversational Partner said：
+Absolutely, I can do that! I'll check for a smaller size for you right away. Just hang tight for a moment!
+You said：
+“That's great. I want to buy this size and I use my store credit too.”
+00:09
+English Conversational Partner said：
+Perfect, that sounds good! I'll process the exchange for you and apply your store credit. Is there anything else I can help you with today?
+You said：
+“Do I need an original packaging to return this?”
+00:05
+English Conversational Partner said：
+It's usually helpful to have the original packaging, but it's not always necessary. As long as the shoes are in good condition, we should be fine. Let me know if you have it, and we can proceed from there!
+You said：
+“Okay, that's great. Thank you.”
+00:02
+English Conversational Partner said：
+You're very welcome! I'm glad I could help. If you need anything else, just let me know!
+You said：
+“No sense, bye.”
+00:01
+English Conversational Partner said：
+You're welcome! Have a great day, and take care!

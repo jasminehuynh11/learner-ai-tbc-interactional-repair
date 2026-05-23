@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S26_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      17,
+      18,
+      19
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's unclear/irrelevant utterance",
+    "evidence_summary": "The learner's utterance in turn 17, 'This data is not working. It is not good for this purpose,' is unclear and seems out of context with the bot's previous advice. The bot in turn 18 implicitly attempts to clarify by re-explaining the utility of Python/R. The learner's subsequent question in turn 19, 'How can I learn R and Python?', indicates the issue was resolved and the conversation returned to the main topic."
+  },
+  {
+    "dialogue_id": "S26_W4_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      40,
+      41,
+      42
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner's utterance in turn 40, 'अधेवार्ड इन्पार्ट,' is unintelligible, likely due to ASR misrecognition or a non-English phrase. The bot in turn 41 attempts to interpret this as a query about 'India' and provides relevant information. The learner's next turn (42) is a coherent, new question, indicating the conversation moved forward without lingering confusion, thus resolving the issue."
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "student_id": 32,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S32_W4_T1",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor:"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Let’s dive into it. Hi there! It's nice to see you. How are you today? What can I help you with regarding your studies and career plans?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, yes, I need some help because I'm in the middle of my career, but I'm not sure if I want to continue doing or if I want to change my career, or if it's possible to have two careers in this moment, so I'm so confused.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I understand, that can definitely feel overwhelming. Let’s break it down a bit. Could you tell me a little about your current field of study and what you’re considering as a potential new career? That’ll help us figure out the best path forward."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Okay, my actual career is graphic design, and I feel I really like it. I enjoy it, but at the same time, I feel really stressed about the projects, and I feel I'm not good enough for that, and sometimes I feel like I really have a big interest in how the brain operates and the behavior of the people, so I don't know, sometimes I feel like I like to study psychology or something like that, but these two majors are so different things, so I don't know."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I totally get that. It’s really common to have diverse interests. Maybe we can explore how your skills in graphic design might complement a psychology-related career, or look at ways you could combine both fields. To start, could you share what kind of projects or tasks in graphic design you find stressful, and what aspects of psychology interest you the most?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I feel I'm really stressful sometimes in graphic design with the programs, because, especially with three-dimensional models, because it's something that I like, and animation is something that I like, but at the same time it's really hard for me. I don't know, I think my classmates, they are doing very well and they progress a lot, and I know people learned in different ways, in different speeds, but I feel like I lost, I understand things, but at the same time I don't understand some topics, or I don't know how to say, but some meaning words, like basic things, so I don't know.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I completely understand that feeling. Everyone has their own pace, and it’s okay to find certain areas challenging. It’s great that you’re exploring your interests in psychology as well. Maybe we can look at some courses or resources that can help bridge that gap or make the transition smoother. Out of curiosity, do you have any specific areas of psychology that you’re drawn to, like clinical psychology or cognitive psychology?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I don't really sure, I just feel like I really like this kind of psychology things, the behavior, the mental health, and how the brain operates, so I don't know exactly now, to be honest.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That’s totally fine; it’s normal to be in that exploratory phase. We can definitely help you narrow things down over time. Perhaps we could start by looking at some introductory psychology courses or workshops and see what sparks your interest. In the meantime, do you have any thoughts on how you’d like to blend your current skills with your new interests, or are you just curious for now?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I would like to try some courses or I don't know if the university has some classes that I can take for free or a place that I can go to know if psychology appeals with me or not.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! We do have some introductory psychology courses at the university that are either free or available at a reduced rate. I can definitely help you find those and guide you through the options. In the meantime, would you like me to look into some local workshops or online resources as well?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, I would like to go on, what time is the introducing psychology classes in the university? If I really like psychology, it is possible to change my career in this point? Or if I decide to take both careers, do you recommend that I take both at the same time? Or first finish graphic design and after study psychology, what do you recommend me in this case?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! We do have some introductory psychology classes offered in the evenings and on weekends, so they’re quite flexible. And absolutely, it’s possible to transition or even combine both fields. We can definitely create a balanced plan that lets you finish your graphic design degree and gradually incorporate psychology. We can also explore part-time options or even overlapping courses. Let’s chat more and find a path that feels right for you!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, so for now, how can enrollment in the introduction psychology classes to start?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Great! To get started, I can help you with the enrollment form and provide you with the schedule. Usually, you can register online through the university portal, and I’ll guide you step-by-step. Would you like me to send you some detailed information on the available classes and how to sign up?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yeah, that's correct, and I would like to know, like, when I take the classes, how I know that I really want to continue doing that, or, I don't know, and I have to continue with my current career, so I don't know, like, how I know that, in this case, this is what I want to do, or not.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That’s a really good question! I think a great way is to start with some introductory courses and see how you feel after each class. You can also try some hands-on experiences, like internships or volunteering in a psychology-related field, to get a taste of it. Over time, you’ll get a clearer sense of whether it’s the right path. And of course, we can always adjust your plan as you go along. Sound good?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, so yes, I want to continue with the process to start introducing class in psychology.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect! I'll gather all the details for the upcoming introductory psychology classes and guide you through the enrollment process. I’ll send you all the information, and we’ll get you started on this exciting journey! If you have any more questions along the way, just let me know."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, thank you. The last question that I have is how many classes I could take and after that I can come here whenever I want, like when I feel like I want to talk with you or we have sessions to have the process about what is the best for me or with options or if I decide to take both, but I don't know.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely! Typically, you can take one or two introductory classes per semester, depending on your schedule and availability. And of course, I’m always here to support you. We can schedule regular check-ins, and you’re welcome to reach out anytime you need guidance or have questions. We’ll tailor everything to suit your needs and make sure you feel confident and comfortable with your choices."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, thank you. If it's possible, and it's okay, I would like to have a session with you, like, two weeks per month, for, I don't know, I don't know exactly what time.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! We can definitely arrange bi-weekly sessions to check in on your progress and discuss any questions or concerns you have. We’ll find a schedule that works well for you, and I’m here to support you every step of the way. Just let me know what times and days work best for you, and we’ll get it all set up!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Can I tell you by email? Because now I'm not sure if you send me the information about the introducing psychology classes. First, I want to organize my schedule with the introducing class. And after that, if it's possible, I can tell you. So it's okay.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "“Can I tell you by email? Because now I'm not sure if you send me the information about the introducing psychology classes. First, I want to organize my schedule with the introducing class. And after that, if it's possible, I can tell you. So it's okay.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I want to start step-by-step.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That sounds perfect! I'm looking forward to helping you along the way. Just reach out whenever you’re ready, and we’ll take it step-by-step. Have a great day, and I’ll be here whenever you need me!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, thank you for listening to me, and see you in another day.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You’re very welcome! Absolutely, take care, and I’ll look forward to chatting again soon. Have a wonderful day!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Thank you, have a good quarantine, and bye-bye.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Thank you so much! Bye for now, and take care!"
+    }
+  ]
+}

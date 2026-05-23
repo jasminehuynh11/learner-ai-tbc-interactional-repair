@@ -1,0 +1,9 @@
+{
+  "student_id": 20,
+  "week": 1,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S20_W1_T1",
+  "source_file": "data/raw/#20/#20/#20. Week1.docx",
+  "turns": []
+}

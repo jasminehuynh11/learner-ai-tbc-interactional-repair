@@ -1,0 +1,160 @@
+{
+  "student_id": 30,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S30_W2_T3",
+  "source_file": "data\\raw\\#30\\#30\\#30. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello, how are you? I am interested in the 3-bedroom with spot wood.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hi there, I’m doing well, thank you! That sounds great. So, you're interested in the three-bedroom unit on Spotswood. Could you tell me what your preferred move-in date is?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“So, I don't know, maybe in two weeks?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, two weeks from now works! That gives us a good timeframe. And do you have any specific requirements or preferences for the unit, like amenities or pet policies?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“No, but I have questions. It's okay?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course, absolutely! Feel free to ask me anything you’d like about the unit or the process. What would you like to know?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“So, do I need to register before attending?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, we do recommend registering beforehand, just so we can secure your spot and have everything ready for you. Would you like some guidance on how to register?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, how much is the bond?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it! The security deposit typically is equivalent to one month’s rent. But it can vary a bit depending on the property. Would you like more details on the exact amount for this unit?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, are pets alloyed?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Yes, pets are definitely allowed! There's usually a pet deposit and maybe a small monthly fee. Do you have any specific pets in mind?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, I have one cat. It is very, very kind.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That sounds lovely! I’m sure your cat will be very happy there. We can definitely accommodate that. Is there anything else you’d like to know about the pet policy or the apartment itself?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I'm not sure, but I think yes.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "No worries at all! Feel free to ask anything that comes to mind, and I’m here to help. Just let me know whenever you’re ready, and we can go from there!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Can I apply online or do I need to visit the office?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You can definitely do it online! We have a simple registration portal that you can use from the comfort of your home. But if you prefer, you’re also welcome to visit the office in person. Whatever’s more convenient for you!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Perfect.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Awesome! I’m glad"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“So, when do I...”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Whenever you're ready,"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "No rush at all!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, take your time! If you have any more questions or need any assistance, just let me know."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“So I think that's okay. Thank you for the information. I will attend the session on Sunday. It's okay?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That sounds perfect! Sunday works just fine. I’m glad I could help, and if anything else comes up, just let me know. Looking forward to seeing you on Sunday!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“So perfect, see ya!”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, see you then! Have a great day, and feel free to reach out anytime. Take care!"
+    }
+  ]
+}

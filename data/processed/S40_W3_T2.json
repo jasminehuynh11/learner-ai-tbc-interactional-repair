@@ -1,0 +1,170 @@
+{
+  "student_id": 40,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S40_W3_T2",
+  "source_file": "data\\raw\\#40\\#40\\#40. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Sorry, my phone keeps restarting by itself."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright, I see. That can be pretty annoying. What model of phone are you using?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "My phone is Samsung S23 ULTRA."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, Samsung S23 Ultra. Got it. When did the restarting problem first start happening?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "When I try to restarting my cell phone, it is nothing happen."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, so when you try to restart it, nothing actually changes. What exactly do you see on the screen—does it stay black, freeze, or loop the Samsung logo?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "The screen is completely black I tried to charge, but nothing happen, I can't see the battery, the image of the battery to charging I can't see any logo of Samsung, nothing"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, completely black screen with no charging icon or logo. Has your phone had any recent impact or water exposure before this happened?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "I don't think so, but last week when I walked to home, it was raining really hard. It's possible in this moment the cell phone exposured with water?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, rain exposure could definitely cause this kind of issue. Have you already tried using a different charger or cable to see if the phone reacts at all?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "I don't agree with you about the exposure of water. I remembered when I bought my cell phone, the salesperson said me this kind of cell phone is a proof of water. By the way, I'm trying to charge with different chargers with my charger bought in your shop, and other chargers, like iPhone, huawei and others brands. But nothing happen"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, I understand — the S23 Ultra is water-resistant, so light rain normally shouldn’t kill it. Good to know you already tried several chargers. One more quick check: when you hold Power + Volume Down together for about 15–20 seconds, does the phone vibrate or show anything on the screen?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Yes, of course. I try to do every tip I found on the internet about what is the problem with my cellphone, but no one gives me a solution about that. For that reason, I'm here to ask for support for Samsung report."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, thanks for trying all those steps already. If none of them worked, we’ll need to check whether your phone is still under warranty so we can process a repair or replacement. When did you buy your S23 Ultra?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I bought last year in January."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, bought last January — that should still be within the standard warranty period. Do you still have the receipt or proof of purchase for the phone?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Unfortunately, I didn't have. But I checked in your website about what is the policy of guaranteen, and the guarantee is possible whenever every shop of Samsung around the world can get me a support."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, no problem — we can still check the warranty without a receipt if we have the device details. Could you tell me the IMEI number of your phone? It’s usually on the box, or printed very small on the SIM tray."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Sure, the IMEI number is 00134789223405."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, thanks for the IMEI number. I’ll run a quick check on that to confirm the warranty status. Before I submit the report, could you tell me which country and city you’re currently in so I can direct you to the correct Samsung service center?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "I bought my cellphone in Colombia, Medellín. And the direction is 123 Bojaca Street, Poblado"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, thanks for that location in Medellín. I can send your report to the nearest Samsung service center there. Before I forward it, how would you prefer the service team to contact you — by phone or by email?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Of course, I prefer email, because I don't have phone, did you remember?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure, right — no phone at the moment. Email works perfectly. What email address should the service team use to contact you?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "My email address is asurez0521@gmail.com"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Alright, perfect — I’ve noted asurez0521@gmail.com for contact. Before I submit the full report, what time of day is best for you to receive the service team’s email or appointment confirmation?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "thank you so much and the last question is how many days i need to wait for the support because i need my phone"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Alright, I get it — you need the phone back quickly. Usually the first email from the service team arrives within 1–2 business days, and repairs themselves often take 3–5 days, depending on parts and diagnosis. By the way, you didn’t tell me your preferred time of day for receiving the service email — mornings or afternoons work better for you?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "I prefer morning and as soon as possible, thank you."
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Alright, morning noted — I’ll mark it as “as soon as possible.” Thanks for your time today. Have a good day, and I hope your phone gets fixed quickly."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Thank you so much."
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure. Thanks for contacting us — hope everything goes smoothly with your repair. Have a great day."
+    }
+  ]
+}

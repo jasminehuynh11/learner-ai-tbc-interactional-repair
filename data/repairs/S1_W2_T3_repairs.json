@@ -1,0 +1,42 @@
+[
+  {
+    "dialogue_id": "S1_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner changes mind about updating phone number",
+    "evidence_summary": "The learner initially states they need to update their phone number but then changes their mind, saying 'Yeah, no, it's okay.' The bot acknowledges this and offers assistance if needed, resolving the issue."
+  },
+  {
+    "dialogue_id": "S1_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner does not understand message",
+    "evidence_summary": "The learner mentions receiving a message they don't understand. The bot reassures the learner and offers to go through the details together, indicating a resolution."
+  },
+  {
+    "dialogue_id": "S1_W2_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      36,
+      37
+    ],
+    "initiation": "LI",
+    "resolution": "U-A",
+    "trigger": "task misunderstanding – unclear about bank schedule",
+    "evidence_summary": "The learner asks about the bank's schedule, but the bot's response does not address the question directly and instead provides irrelevant information, leading to the topic being abandoned without resolution."
+  }
+]

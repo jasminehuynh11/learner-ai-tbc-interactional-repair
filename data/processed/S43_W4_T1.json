@@ -1,0 +1,135 @@
+{
+  "student_id": 43,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S43_W4_T1",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing study or career plans with an advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I want to practice making a discussion about study or career plans with an advisor. So in this scenario, I will explain my situation, I ask for advice, and then you help me to clarify next steps. And you will play the role of a university advisor or career counsellor at the university, and I will play the role of a student. Can we start now?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! I’m ready whenever you are. Feel free to start by telling me a bit about your current situation and what kind of advice you’re looking for, and we’ll go from there."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I'm thinking about changing my degree.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, I see!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Or maybe I'll change my career path. Could you help me to understand my options?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Of course, I'd be happy to help! To get started, could you tell me a bit about your current degree or your current career, and what’s motivating you to make a change?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I had a bachelor’s degree in primary education in Vietnam. I had two years of experience as a primary school teacher. But since I moved to Australia, I realised that I don't want to be a teacher anymore. But I really like the field of technology. So I am considered between an information technology degree or a master’s of data science. I understand that I have no background in this field, but I have spent six months studying data science by myself. So I still wonder whether data science will fit me or if information technology will be a safer choice for my next degree.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. It sounds like you have a strong foundation in education and some self-study in data science. To help you further, could you share what kind of career goals you have in mind? For example, are you leaning towards a specific industry or role?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“So at the moment, as I research, I think I really want to be a data scientist or a data engineer because I learn about some databases and learn about coding recently and learn about the interpretation of the insights from the data, and I think it's really interesting. So that's my career goal but because I know a lot of people are studying data science at the moment so I'm worried that the rate or the chance that I can get a job after graduation is low. That's why I wonder if information technology will be a broader field where I can have more chances to get more jobs within the technology field.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That’s a really thoughtful consideration! It’s true that data science is competitive, but it’s also in high demand. On the other hand, information technology offers a broad range of roles. So, to help narrow it down, could you let me know if you have any specific preferences in terms of work environment or the type of projects you’d like to work on?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I really like to work on some information or data related to the health science, the health industry, or some data related to the agriculture business. And another desire of mine is that I want to find a job that I can work remotely or hybrid. Even hybrid is work for me, so that I can take care of my family and I can work wherever. It will be very versatile.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That definitely gives me a clearer picture! It sounds like both fields can align with your interests in health and agriculture, and also offer flexibility. So, maybe we can explore the kinds of roles in data science or IT that would allow you to work remotely and focus on those industries. Would you like to dive deeper into specific programs or job roles that might suit you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, please. I want to delve into the Master Degree of Data Science and the Master Degree of Information Technology.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sounds great! We can definitely compare those two options. For the Master of Data Science, we can look at the prerequisites, the core subjects, and the career outcomes in that field. And for the Master of Information Technology, we can explore the specializations and the range of job opportunities as well. Let me know if you have any particular questions or if there's anything specific you'd like to know about either program."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Maybe I would delve into the Master's degree of Data Science first, because I spent six months studying Data Science before. I want to know about the course structure for the candidate who has no background in Information Technology in their Bachelor's degree. And I want to align or compare between my own knowledge about Data Science with the course structure to see what kind or what abilities or skills or knowledge that I have to prepare myself before I attend the course.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense. Typically, a Master of Data Science for someone without an IT background will include foundational courses in programming, statistics, and database management before diving into more advanced topics. We can definitely compare what you've already learned with the typical entry requirements and see where you might need to focus your preparation. Let’s dive into the specific modules and any recommended prerequisites for that program."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“I had finished a course of Python 3 on the Codecademy platform. I also finished the Analyse Data with Python, a short course about mathematics and statistics, but I haven't finished that yet, sorry. And I finished a course of SQL and Analyse Data with SQL. I also know how to visualise data with Python, and I understand how to use some IDES, the simulator, the environment, and I know how to use command lines. And what I want to know is what kinds of knowledge that I should prepare before I attend the data science course, because I don't want to be left behind at class.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That’s fantastic! It sounds like you already have a solid foundation. Usually, before starting a Master of Data Science, it’s helpful to have a strong grasp of more advanced statistics, machine learning algorithms, and some deeper programming skills in Python or R. It’s also good to be comfortable with data wrangling, and some understanding of cloud platforms can be helpful. We can definitely map out any gaps and suggest some resources so you feel confident and well-prepared!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh yes, I haven't learned the R language. I really appreciate your suggestion. I almost forgot to prepare that for myself. So R is actually really important in data science.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, R is definitely a key tool, especially for statistical analysis and data visualization. But the good news is that if you're already comfortable with Python, picking up R can be quite manageable. And a lot of data science programs do offer introductory courses in R, so you’ll definitely get the support you need. But I’m really glad you’re thinking ahead and preparing thoroughly!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, that's great. Thank you. I think I might stick to data science. Oh, wait there. Sorry, I need to know about what types of jobs are common for people in my degree.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course, that’s a really important consideration! For graduates with a Master of Data Science, common roles include data scientist, data analyst, machine learning engineer, and data engineer. You can also find positions in specialized fields like healthcare analytics, finance, and even agriculture tech. So, there are plenty of diverse opportunities. If you’d like, we can dive deeper into any specific industry or role that interests you!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“I want to know if my condition or my situation after graduation will be available or suitable for an entry-level position, because by the time that I finish my course, I will be 30 years old and I have no experience, I have no background. Will I have a chance to get an entry-level position?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, you’ll definitely have a chance! Many people transition into data science later in their careers, and your diverse background can actually be a strength. Employers value a variety of experiences, and your teaching background can bring unique perspectives to the table. Plus, with the skills you’re building now, you’ll be well-prepared for entry-level roles. Many programs also offer career support, internships, and networking opportunities to help you get your foot in the door. So, I’m confident you’ll be in a good position!"
+    }
+  ]
+}

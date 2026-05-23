@@ -1,0 +1,40 @@
+[
+  {
+    "dialogue_id": "S6_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand word 'identification'",
+    "evidence_summary": "The learner did not understand the word 'identification' and asked for clarification. The bot explained what 'identification' means, and the learner acknowledged understanding by stating they have a passport. The issue was resolved."
+  },
+  {
+    "dialogue_id": "S6_W2_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      14,
+      15
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'daily limit'",
+    "evidence_summary": "The learner was unsure about the meaning of 'daily limit' and asked for clarification. The bot explained it as the maximum amount of money that can be spent in one day, which the learner understood. The issue was resolved."
+  },
+  {
+    "dialogue_id": "S6_W2_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      18,
+      19,
+      20
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of 'one hundred and twenty'",
+    "evidence_summary": "The learner was confused about the amount 'one hundred and twenty' and asked for clarification. The bot repeated the amount clearly, and the learner confirmed understanding. The issue was resolved."
+  }
+]

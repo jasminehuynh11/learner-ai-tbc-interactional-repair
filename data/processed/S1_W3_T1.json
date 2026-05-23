@@ -1,0 +1,155 @@
+{
+  "student_id": 1,
+  "week": 3,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S1_W3_T1",
+  "source_file": "data\\raw\\#1\\#1\\#1. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“So, now, you are a police officer and I am reporting a lost item, in this case, I report my phone, lost, yes?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that. Let’s go ahead and get started. To begin, could you tell me what exactly happened and when it took place? That way, we can get all the details down."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“I was in the stop to the bus and I had my phone. It was a Xiaomi and when I get up to the bus I”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I’m sorry that happened."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Don't remember, sorry, I don't remember what happened with my phone and when I go out to the bus, take out to the bus, I don't have my phone.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I understand. That sounds frustrating. Let’s start by noting the details. Could you tell me the exact location or the area where you last had your phone, and maybe the approximate time it was lost? That’ll help us get started."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“The success was in Paradise, in Compton, in Adelaide, and the time was maybe 10 a.m. this morning, and the route to the bus was 273.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, thank you for that information. So, your phone was last seen in Paradais, in Cobertown, around 3 a.m. We’ll make sure to document that. Could you also let me know if there were any witnesses or if you noticed anything unusual at that time?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I think I left my backpacks, I don't know, on the bus and I didn't see and maybe someone”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, I see. That definitely helps. We’ll note that you might have left your backpack on the bus, and it’s possible someone may have taken it. We’ll include all these details in the report. If you remember anything else, just let me know."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I, I, sorry, I, the phone has a black case, and a cracked screen, and it was, um, cats in the case, a picture of the cats in the case.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Got it, that’s really helpful. We’ll make sure to note that your phone is black, has a cracked screen, and that it’s in a case with a red color. This will help us identify it more easily. If there’s anything else you remember, just let me know."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“What happens if someone thinks it?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "If someone finds your phone, they can turn it in to the local authorities or drop it off at a nearby lost and found. We’ll also keep an eye out for any reports and do our best to help you recover it. And of course, we’ll keep you updated every step of the way."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“¿Puedo dejar mis detalles de contacto si alguien lo ha terminado?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely try that. If your phone has a tracking feature enabled, like Find My Device, we can use that to help locate it. Just let us know the details, and we’ll do our best to assist you in tracking it down."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yeah, do I need to fill out a form or anything?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Yes, we’ll definitely need to fill out a formal report to document everything properly. I’ll guide you through the process and make sure we have all the details we need. It’s pretty straightforward, and I’ll help you every step of the way."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Which information do you need about me?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "We’ll typically need your full name, contact information, a description of the phone, and any details about when and where it was lost. If you have any identifying information, like the serial number, that can help as well. But I’ll guide you through each part carefully."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Okay, um, can you call me if it's found, please?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "I can definitely assist with that! If you provide me with the phone number associated with the device or any tracking information, I’ll do my best to help you out. And of course, we’ll work together to try and recover it as quickly as possible."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Thanks for explaining everything.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course, no problem at all! I’m here to help whenever you need. Just let me know if anything else comes up, and I’ll be more than happy to assist."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I appreciate your help. Thank you.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything at all, just let me know. Have a great day!"
+    }
+  ]
+}

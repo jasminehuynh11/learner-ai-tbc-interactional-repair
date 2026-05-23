@@ -1,0 +1,60 @@
+{
+  "student_id": 38,
+  "week": 3,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S38_W3_T1",
+  "source_file": "data\\raw\\#38\\#38\\#38. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Good morning, I would like to file a police report on a robbery.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Good morning! I’m really sorry to hear that. I can definitely help you with that. Let’s get started. Could you please share some details about the incident, like the date, time, and what was taken? And then we’ll proceed from there."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“yes everything happened yesterday i went out to go eat with a friend and i received a notification on my camera because yes i installed a couple of camera around the house and i saw that there were i think five men I’m not quite sure about that but yeah they broke into my house and they shattered the window, they stole a couple of things, they stole a tv a couple of jewellery um.. anything concerning electronics yeah.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I’m really sorry that happened to you. Thank you for sharing those details. We’ll definitely make sure to document everything thoroughly. If you have any footage from your cameras, that can be really helpful for the investigation. Once we have all the information, we’ll guide you through the next steps. Let me know if there’s anything else you need or any other details you’d like to add."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, I will leave everything, I will leave my contact details too, in case. Is it possible to get an update every now and then?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, we can keep you updated regularly. We’ll make sure to share any progress and let you know if we need any additional information. And if you have any questions at any time, don’t hesitate to reach out. We’re here to help."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Do I need to fill out a form?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Yes, we’ll have a form for you to fill out with all the details of the incident. Once we have that completed, we can proceed with the report. If you need any assistance while filling it out, just let me know, and I’ll be happy to help!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Alright, thank you very much. Have a nice day. I'll check back tomorrow.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "You're very welcome! If you need anything else, just let me know. Have a great day, and I'll look forward to hearing from you tomorrow. Take care!"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "student_id": 17,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S17_W3_T1",
+  "source_file": "data\\raw\\#17\\#17\\#17. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Alright, thanks for reaching out. This is Internet Support - what seems to be the issue with your connection today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "\"Hi, my internet has stopped working.\"\"It was fine this morning but now it won't connect.\""
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, I see — the connection was fine earlier but now it won't connect. Could I get the name on your account so I can pull up your details?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I'm Ryota"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, Ryota, thanks. Could you tell me the address on the account so I can locate your service?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "The addess is Miller street"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, thanks for that. Just to confirm, could you give me the full street number on Miller Street?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "345 Miller Street"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, got it - 345 Miller Street. When you look at your router right now, what lights do you see on it?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "My router show that red light"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, a red light usually means the router isn't getting a proper signal. Have you already tried restarting it by turning it off and on again?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yes, I tried three times but it couldn't working"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, thanks for trying that - sounds like the restart didn't help. Could you check quickly if all the cables at the bar' of the router are firmly plugged in? What do you see there?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes firmly plugged in"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Alright, good to know everything's plugged in. When did the red light first appear — was it just a little while ago or earlier in the day?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "I'm not sure but maybe little while ago"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, sounds like it started fairly recently. Are any of your other devices able to connect to the Wi-Fi at all, or is everything completely offline?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "My phone shows that Wi-Fi connected sign but I can't connect to the Internet"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, so your phone shows it's connected but there's no actual Interr & Vhen you try to open a website. does anv error messade abnear on your phone?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "I can't. So is there a technician available today?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright, we can look at getting a technician out.Before I check today's availability, could I have the best contact number for you in case the technician needs to reach you?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Yes please"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Alright, great — what's the best phone number for the technician to contact you on?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "000112233"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright, thanks for that. To book the visit, what time today are you available for a technician to come by?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "I’m free at afternoon"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Alright, 1pm is noted. Just so the technician can get in smoothly, will someone be home at that time to let them in?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Yes I'm home at that time and let them in"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Alright, thanks. Before I lock in the 1 pm appointment, are you okay with the standard technician call-out fee if the issue is inside the unit rather than the building line?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Yes I'm okay"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Alright, great. Shall I go ahead and confirm the 1 pm technician for you?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Yes please"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Alright, the 1 pm technician appointment is now confirmed. Is there anything else I can help you with today?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "That'll be all thank you."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Alright, thanks for calling — hope your internet's back up soon. Have a good day."
+    }
+  ]
+}

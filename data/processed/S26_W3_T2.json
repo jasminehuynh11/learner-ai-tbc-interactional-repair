@@ -1,0 +1,160 @@
+{
+  "student_id": 26,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S26_W3_T2",
+  "source_file": "data\\raw\\#26\\#26\\#26. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I'm going to talk about reporting a lost item and your role is here is lost and found assistant or police officer.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Got it! I'll take on the role of a lost and found assistant. Just let me know what item you've lost, and we'll get started!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I have just realized I lost my phone. I am at the train station and I would like to check with the lost and found desk.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Oh, I'm sorry to hear that! Let's get that sorted out. Could you tell me the time you last had your phone and any specific details about it?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“It was in the morning time when I went to my office. At that time, I lost my phone at the train station. So, and I knew only about after one hour when I lost my phone.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, thanks for the details. I’ll make a note that you lost it during the morning rush and it was about an hour ago. Could you describe the phone, like its color or model, so we can identify it quickly?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“The phone has a red case and cracked screen.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "All right, so a red phone with a cracked screen. Got it! I’ll pass that information along to the lost and found team at the station. Hopefully, they’ll have it for you soon!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I last saw it at the train station around 9 a.m. in the morning, and when I went to office, then I didn't have that mobile.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Thank you for that detail! I'll let the team know that you last saw it around 9 a.m. at the station. Hopefully, they’ll have it in their lost and found. I’ll keep you updated as soon as I hear back!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“What happens if someone finds it?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "If someone finds it, they’ll turn it in to the station's lost and found, and you'll be notified so you can pick it up. We'll do our best to make sure it gets back to you as soon as possible!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Can I leave my contact details?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! If you could share your contact details, we'll make sure to reach out to you as soon as your phone is found."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Do I need to fill out a form?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Yes, we do have a simple form for you to fill out with your contact details and a description of the item. I can guide you through it, and then we’ll keep you updated as soon as we have any news!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Do I need to show ID when collecting it?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Yes, typically you will need to show a valid ID when you pick it up, just to confirm your identity. But don’t worry, we’ll make the process as smooth as possible for you!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Can you call me if it's found?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely! We'll give you a call as soon as we have any news about your phone. That way, you’ll know right away."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Should I file an official police report for this?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "It’s usually a good idea to file a report if your phone isn’t found quickly, just to have an official record. I can help you with that process if you'd like!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Is there any lost property website I can check?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, we do have a lost property website where you can check for any items that have been turned in. I can provide you with the link so you can keep an eye on it as well!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Thanks for explaining everything.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you have any other questions, just let me know."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“ہماری مدد کرنے کے لئے احساس کرتے ہیں”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I’m so glad to hear that! Feel free to reach out anytime you need assistance. Have a wonderful day!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care and have a great day!"
+    }
+  ]
+}

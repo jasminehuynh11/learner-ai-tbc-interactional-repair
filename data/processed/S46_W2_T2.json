@@ -1,0 +1,150 @@
+{
+  "student_id": 46,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S46_W2_T2",
+  "source_file": "data\\raw\\#46\\#46. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“So, I have a scenario about when just the client is calling to visit the real estate agency to identify rental property. So, you will be the real estate agent, and I will go in there and ask about the inspection, about property, about the application process.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "That sounds like a great scenario! I’m ready to step into the role of the real estate agent, and we can practice that conversation. Just let me know when you’re ready, and we’ll dive right in!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yeah, cool. So, morning, so I'm interested in the chill bedroom unit on this trip.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Good morning! That’s great to hear. I’d be happy to help you with that two-bedroom unit. When would you like to schedule the inspection, and do you have any specific questions about the property?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“This is available for me to do inspection in this weekend.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely! We can definitely arrange that for this week. Let me check the available times, and we can find a slot that works best for you. What day and time would be most convenient for you?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I think this could be the Sunday on the 9am, and do I need to register before attending?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sunday at 9 AM sounds perfect! And yes, it’s usually best to register in advance, just so we can ensure everything is ready for you. I’ll make sure everything’s set up, and we’ll confirm all the details. Looking forward to meeting you then!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Cool, so can I ask you about the property before I go into the explanation?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to share more details about the property with you. Feel free to ask any questions you have, whether it's about the features, the neighborhood, or anything else. What would you like to know?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yeah, so your animation is a property furnished or unfurnished.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great question! The property is actually unfurnished, so you'll have a blank canvas to make it your own. If you have any other questions about amenities or specifics, just let me know!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“So, are the best allowed?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, I can definitely provide you with all the best details and help you out. Just let me know if there's anything specific you're curious about, and I'll be more than happy to help!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I mean, can I adopt or omit?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely bring a pet, as long as we confirm the building’s pet policy. I can provide you with all the details on that as well. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Also asking you about application process, like can I apply one night or do I need to visit your office?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Great question! You can definitely start the application process online, and we also welcome you to visit the office if you prefer. I’ll make sure you have all the necessary forms and information, and we can guide you through it step by step!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Cool, so what document do I need to put in my application?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Typically, you’ll need a valid ID, proof of income, and sometimes references or rental history. I can provide a detailed list for you, so you’ll have everything ready before you apply. Let me know if you need any more specifics!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“So yeah, so how long do I it take me to to receive the result?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Usually, it takes about a few business days to process the application, depending on the completeness of the documents. But we’ll keep you updated throughout the whole process, and we’ll let you know as soon as we have a decision."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yeah, one more thing I want to know, if Xamarin.io also applies for this, how do you choose?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That’s a great question! We typically consider factors like the completeness of the application, the financial stability, and sometimes the timing of the submission. But we’ll always aim to be as fair and transparent as possible. If you have any concerns, just let me know!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Do I need to pay a bond before signing the lease?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Yes, typically a security deposit or bond is required before signing the lease. The exact amount can vary, but I’ll make sure to give you all the details so you know what to expect. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Cool, so I think that's all. Thank you for all information. I will attend the inspection on this Sunday.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help, and I look forward to seeing you on Sunday. If you have any more questions in the meantime, just reach out. Have a great day"
+    }
+  ]
+}

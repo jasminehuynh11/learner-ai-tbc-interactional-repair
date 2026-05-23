@@ -1,0 +1,204 @@
+Week 4 
+Task 1: 
+Task 1: Discussing Study or Career Plans with an Advisor Scenario: You are speaking with an academic advisor or career counsellor to get guidance about your current study plans or future career options. You want to explain your situation, ask for advice, and clarify next steps. Practise speaking clearly and professionally in a formal setting. You will need to define the chatbot’s role as a university advisor or career counsellor. You can choose situations from the examples below; start with a basic question about your study plan, and try a more extended interaction by exploring course structures, comparing qualifications, or evaluating career outcomes. Learning objectives: • Practise describing academic or professional goals. • Use formal and polite question forms. • Respond to suggestions and express uncertainty or preferences. • (Advanced option) Manage a longer discussion by comparing study pathways, discussing industry requirements, or asking for help with future planning. Instructions: Try to: • Explain your current situation (what you study or do). • Ask about career pathways or study options. • Respond to advice and ask follow-up questions. • Summarise your next steps politely. • (Advanced option) Use the extension prompts below to have a longer conversation.
+English Conversational Partner said:
+Alright. I’m your university academic advisor—could you briefly tell me what you’re currently studying or working in and what prompted you to seek advice today?
+You said:
+“Hey, I'm studying business, but I'm not sure it's the right fit.”
+00:05
+English Conversational Partner said:
+Alright, thanks for sharing that. So, what specifically makes you uncertain about continuing in business? If you can tell me a bit more about what you're feeling unsure about, we can figure out what options might suit you better.
+You said:
+“Uh, I feel like I don't know much of business.”
+00:03
+English Conversational Partner said:
+Sure, that makes sense. So maybe you're feeling a bit disconnected from the subject. Let's start by figuring out what parts of your studies you do enjoy or find interesting. Are there any topics or courses that have caught your attention more than others?
+You said:
+“And now I'm sure for my future in this area.”
+00:04
+English Conversational Partner said:
+Alright, that’s understandable. Let’s explore that a bit more. Can you tell me if there’s a particular career path you’ve considered, or maybe something outside of business that you’re curious about?
+You said:
+“Just I want to know just can I change my degree? Could you help me understand my options?”
+00:06
+English Conversational Partner said:
+Absolutely. So, changing your degree is definitely something we can talk through. Let’s start by looking at what alternative programs interest you the most. Are there any specific fields or areas of study that you think you might want to explore instead of business?
+You said:
+“Maybe IT is good. Do you think I needed more work experience before applying?”
+00:05
+English Conversational Partner said:
+Sure, that sounds like a good direction. So for IT, experience can help, but it’s not always a must before you start. Let’s look at the course structure first. Are you interested in seeing how the IT program compares to what you’re doing now?
+You said:
+“Yeah, just show me, please.”
+00:03
+English Conversational Partner said:
+Of course! So let me give you a quick rundown of the IT course structure. Typically, you’ll start with some foundational programming classes and maybe a bit of networking. Now, do you have any specific questions about how that might fit with your future career plans?
+You said:
+“What’s different between a diploma and a master course?”
+00:03
+English Conversational Partner said:
+Sure, good question! So a diploma is usually shorter and more practical, while a master's is more advanced and takes longer. Now, would you prefer a shorter program or are you thinking of going for a full master’s degree down the line?
+You said:
+“I'm not sure what types of jobs are common for people in the master's degree.”
+00:06
+English Conversational Partner said:
+Absolutely, that’s a fair thing to wonder about. With a master’s in IT, you could aim for more specialized or senior roles, like systems analyst or IT project manager. Now, do you think you'd prefer that kind of advanced role, or are you leaning more towards getting into the workforce sooner with a shorter qualification?
+You said:
+“I don't know. How can I stay motivated if I'm not sure about my goals yet?”
+00:04
+English Conversational Partner said:
+Absolutely, it's normal to feel that way. I’d say just focus on exploring a little bit at a time and see what excites you. So, maybe we can set a short-term step for now: would you like to try an introductory IT course just to see how it feels before making a bigger decision?
+You said:
+“After diploma short course and then I can just jump into master degree or I have to do full master degree again.”
+00:07
+English Conversational Partner said:
+Absolutely, that’s a good plan. So yes, often you can start with a diploma or a shorter course, and then later on those credits might count towards a master's. Now, do you feel comfortable starting with that shorter program first to see how it fits you?
+You said:
+“Yeah, I think this sounds great.”
+00:02
+English Conversational Partner said:
+Perfect! That sounds like a solid way to move forward. So let's note that down as your next step. Is there anything else you'd like to ask or any other detail you want to go over before we wrap up?
+You said:
+“Actually, I got some offering from job, so how can I decide between doing further study or starting work after graduation?”
+00:07
+English Conversational Partner said:
+Sure, that's a common dilemma. I’d say it really depends on whether you’re more eager to get hands-on experience or if you’d like to deepen your knowledge first. So, what do you think suits your personality better: jumping straight into work or continuing with a bit more study?
+You said:
+“I'm not sure.”
+00:01
+English Conversational Partner said:
+Absolutely, it’s okay to be unsure. We can take it step by step. So let’s just say for now you explore a little of both. Maybe do an internship to get a taste of work and see how that feels. Does that sound like a plan for you?
+You said:
+“Yeah, sounds great. So, why did I just go for an internship? I should consider it based on my strengths.”
+00:07
+English Conversational Partner said:
+Sure, absolutely. So let’s think about your strengths. If you're good at problem-solving or you enjoy working with technology, look for an internship that lets you use those skills. Now, is there any particular area within IT or business that you think plays to your strengths that we should focus on for that internship search?
+You said:
+“Yeah, I can make a code.”
+00:01
+English Conversational Partner said:
+Great, that sounds like a plan then! So we’ll aim to find you an internship that matches those strengths, and you can see how it feels from there. Is there anything else on your mind before we wrap this up?
+You said:
+“No, all good. Thanks for your time.”
+00:02
+English Conversational Partner said:
+Of course, happy to help! Best of luck with your plans, and feel free to reach out any time you need more advice. Take care!
+
+Task 2: 
+Task 2: Participating in Group Decisions and Negotiating Responsibilities Scenario: You are part of a team working on a group project or task. You need to share opinions, agree or disagree politely, and negotiate roles, deadlines, or contributions. Practise speaking respectfully and collaboratively in a semi-formal setting. You will need to define the chatbot’s role as a teammate or project group member. You can choose situations from the examples below; start with a basic opinion or suggestion and gradually develop a more complex negotiation about deadlines, roles, or contributions. Learning objectives: • Use language for turn-taking and respectful disagreement. • Practise suggesting and clarifying ideas. • Use polite negotiation strategies. • (Advanced option) Engage in more complex group scenarios involving accountability, follow-up planning, and conflict resolution. Instructions: Try to: • Share your opinion and listen to others. • Agree, disagree, or propose a compromise. • Negotiate deadlines or roles clearly and politely. • End with a clear summary or agreement. • (Advanced option) Use the extension prompts below to have a longer or more complex discussion. Examples of situations and prompts: 1. Describe your situation • “Hi, we’ve just started our group project. Can we plan the tasks together?” • “Hello, our assignment is due next week. Can we decide who will do each part?” • “Hi, we need to choose the presentation order. What do you think works best?” “Hello, let’s talk about how to divide the research and writing sections fairly.” • “Hi, we should set our deadlines today. Can we agree on who does what?” 2. Giving and responding to opinions • “I think we should present first so we have more time to write.” • “I see your point, but I’m worried about time.” 3. Negotiating tasks • “Who wants to do the writing part?” • “Can I take notes while someone else presents?” 4. Finalising the decision • “So we’re all agreed on the new timeline?” • “Let’s message each other if we run into problems.” Extension prompts: Want to challenge yourself? (Optional) 5. Handling disagreement or hesitation Page 24 of 27 Faculty of Medicine, Health and Human Sciences/ Department of Linguistics Faculty of Science and Engineering/ School of Computing • “It sounds like we have different views. Can we find a middle option?” • “If someone can’t meet the deadline, how should we handle that?” 6. Planning for accountability and follow-up • “Should we check in every few days to stay on track?” • “Do you think we need a shared document to manage tasks?” • “How do we make sure everyone is doing their part fairly?” 7. Dealing with workload or confidence concerns • “I’m happy to try the presentation, but I’ve never done it before. Any tips?” • “This part feels too difficult for me. Can I swap with someone else?” • “Does anyone have experience with this type of project? We could learn from each other.”
+English Conversational Partner said:
+Alright, sounds good — I’ll be one of your teammates on the project.
+To get us started, what part of the project do you think we should plan first: research, writing, or the presentation?
+You said:
+“Hi, we've just started our group project. Can you plan the tasks together?”
+00:06
+English Conversational Partner said:
+Sure! Let’s figure that out together. So maybe first, let’s decide who’s comfortable handling which part. Do you have any preference on whether you’d like to do the research, the writing, or maybe the presentation part?
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+Alright, presentation part for you, that sounds good. So from there, let’s see who might want to take on the research or the writing next. Which one do you think we should sort out now: who’ll do the research or who’ll do the writing?
+You said:
+“I think you can do both.”
+00:01
+English Conversational Partner said:
+Sure, I can handle both if that works for everyone. So I’ll dive into the research and the writing side. Now, how about we talk a bit about when we want to have each part done? What kind of timeline are you thinking for the first draft of the presentation?
+You said:
+“Do you have any ideas?”
+00:02
+English Conversational Partner said:
+Absolutely, we can figure that out. Let’s say maybe we aim for a first draft in about three days or so, and then we can review it together. Does that timeline sound reasonable to you?
+You said:
+“Yeah, just sounds great.”
+00:01
+English Conversational Partner said:
+Great! Three days it is. Now let’s just confirm who’s doing what so we’re all clear. I’ll handle the research and the writing, and you’ll prepare that first draft of the presentation. Does that sound like a good plan?
+You said:
+“Do you think we need a shared document to manage tasks?”
+00:04
+English Conversational Partner said:
+Absolutely, that’s a smart idea. We can definitely set up a shared document so we can keep track of everything. How about we use something like Google Docs? Does that work for you?
+You said:
+“Yeah, Google Docs is good. And how do we make sure everyone is doing their part fairly?”
+00:10
+English Conversational Partner said:
+Sure! Google Docs it is. One way is we can check in every couple of days just to see how we’re all doing. So, how often would you like us to do a quick progress check-in?
+You said:
+“So anyway, I'm happy to try the presentation, but I've never done it before. Any tips?”
+00:08
+English Conversational Partner said:
+Of course! I'd be happy to help. One tip is to keep it simple and practice a couple of times. We can also run through it together if that helps. Now, do you want to set a time for a quick practice session before we finalize everything?
+You said:
+“Yeah, I can do it in my ChatGPT. Don't worry about that.”
+00:03
+English Conversational Partner said:
+Alright, sounds good! If you’re comfortable practicing on your own, that works perfectly fine. So, let’s just lock in our plan: we’ve got our tasks divided, and we’ll keep track on Google Docs. Anything else you’d like to go over before we wrap up?
+You said:
+“No, just let's let up, and then let's message each other if we run into problems.”
+00:07
+English Conversational Partner said:
+Absolutely, that sounds perfect. We'll just keep each other posted if anything comes up. So, with that settled, I think we’re all set. Anything else on your mind or are we good to go?
+You said:
+“Just good to go.”
+00:00
+English Conversational Partner said:
+Great, we’re good to go then! I’ll see you around and we’ll keep in touch on the progress. Let’s do this! Thanks for sorting everything out together. If you need anything else, just let me know.
+
+Task 3: 
+Task 3: Responding to Feedback or a Performance Review Scenario: You are participating in a feedback session with a teacher, manager, or supervisor. You need to listen actively, ask questions, respond respectfully, and reflect on ways to improve. Practise using constructive, calm, and polite language. You will need to define the chatbot’s role as a supervisor, teacher, or manager. You can choose situations from the examples below; begin with a basic response and gradually try a more complex interaction by asking about development goals, longterm expectations, or feedback from previous tasks. Learning objectives: • Use active listening strategies. • Respond respectfully and constructively. • Ask follow-up questions about performance and goals. • (Advanced option) Participate in extended reflection and goal-setting based on feedback. Instructions: Try to: • Listen and respond to both positive and critical feedback. • Ask questions to clarify expectations. • Reflect on areas for improvement. • Thank the person and summarise next steps. • (Advanced option) Use the extension prompts below to have a longer or more in-depth conversation.
+English Conversational Partner said:
+Alright, thanks for meeting with me today—I’d like to review your recent performance and talk about next steps. To start, how do you feel the last project or review period went from your perspective?
+You said:
+“Hey, I've just finished my class presentation. Could you talk about it?”
+00:04
+English Conversational Partner said:
+Absolutely! Let's chat about it. So, first things first: how did you personally feel about your presentation?
+You said:
+“I was a little bit nervous.”
+00:02
+English Conversational Partner said:
+I get that. It's totally normal to feel a bit nervous after a presentation. Now, can you tell me one part of it that you think went well and maybe one area where you'd like to improve next time?
+You said:
+“One thing I enjoyed is...”
+00:05
+English Conversational Partner said:
+Sure, I’m listening. It sounds like you enjoyed something about it, and I'd love to hear what that was. And after that, we can chat about any areas you want to develop further. So go ahead and tell me what you felt good about.
+You said:
+“I was comfortable to explain challenging parts, but It was hard to describe recommendations parts.”
+00:10
+English Conversational Partner said:
+Absolutely, that makes sense. So it sounds like you felt pretty confident about explaining the challenging parts, which is great. Now, let's think about the recommendation section. What kind of support or practice do you think would help you feel more comfortable with that next time?
+You said:
+“Maybe writer making better recognition and then I can understand.”
+00:03
+English Conversational Partner said:
+Sure, that sounds like a good plan. So maybe we can work on drafting a few recommendation examples together, and that might help you understand how to frame them. Now, is there any specific area of recommendations you want to focus on, like making them clearer or just feeling more confident?
+You said:
+“If I can understand very much, good, and then I can just present more better.”
+00:05
+English Conversational Partner said:
+Absolutely! So if we help you understand them more deeply, you'll feel more confident presenting them. Let's definitely do that. Now, to wrap up for today, what’s one small step you’d like to take first to start improving in that area?
+You said:
+“How about you? Do you have any ideas in your mind?”
+00:01
+English Conversational Partner said:
+Yeah, that's a good question. I'd say let's start with one simple step: maybe we can pick one recommendation and practice rewriting it together so it feels natural to you. How does that sound as a next step?
+You said:
+“Before that, could you give an example of something I did this well and something I could improve?”
+00:07
+English Conversational Partner said:
+Sure! One thing you did really well was how you explained the complex parts clearly. You made it easy to follow. And as for something to improve, I'd say just getting a bit more comfortable with those recommendation sections. So let's start by rewriting one together and see how that goes.
+Transcript Unavailable
+00:04
+English Conversational Partner said:
+I’d say let’s focus next on building your confidence with those recommendations. So let’s take one of them and practice how you'd present it. Sound good?
+You said:
+“So, could we schedule a follow-up meeting in a few weeks to review progress?”
+00:05
+English Conversational Partner said:
+Absolutely! Let's do that. We can set up a follow-up meeting in a couple of weeks to see how you're doing and review your progress. So just let me know what time works for you, and we'll get it on the calendar.
+You said:
+“Everything's good. So, thank you.”
+00:02
+English Conversational Partner said:
+You're very welcome! I'm glad we could chat through this. If you need anything else, just let me know. Otherwise, take care and talk to you next time!

@@ -1,0 +1,130 @@
+Week 1 - Task 1: 
+You said:
+ Ordering at a café  “Hi, I would like to order a coffee today!”
+English Conversational Partner said:
+Sure! What kind of coffee would you like today?
+You said:
+I would like to have a cup of cappuccino, please, with oat milk. Thank you.
+English Conversational Partner said:
+Got it — one oat milk cappuccino. Would you like it hot or iced?
+You said:
+Like a hot please
+English Conversational Partner said:
+Alright, a hot oat milk cappuccino. Would you like any sugar or sweetener with that?
+You said:
+I don't want sugar or sweetener. Thank you.
+English Conversational Partner said:
+No problem! What size would you like — small, medium, or large?
+You said:
+I would like a large please .
+English Conversational Partner said:
+Perfect, a large hot oat milk cappuccino. Would you like anything to eat with your coffee, like a pastry or sandwich?
+You said:
+Which sandwich do you have?
+English Conversational Partner said:
+We’ve got ham and cheese, chicken pesto, and a veggie option with roasted peppers and hummus. Would you like to try one of those?
+You said:
+I'm not sure. Maybe I would like to add chicken pesto, please
+4/4
+English Conversational Partner said:
+Great choice — the chicken pesto is really tasty. Would you like your sandwich heated or cold?
+You said:
+I would like my sandwich a little toaster, please.
+English Conversational Partner said:
+Sure thing, I’ll have it lightly toasted for you. Are you having your order here or taking it to go?
+You said:
+Takeaway, please.
+English Conversational Partner said:
+Alright, one large hot oat milk cappuccino and a lightly toasted chicken pesto sandwich to go. Would you like a receipt with your order?
+You said:
+Yes, and I want to additional one small latte, thank you.
+English Conversational Partner said:
+Got it — adding one small latte. Would you like regular milk in your latte, or a different type?
+You said:
+Please add almond milk.
+English Conversational Partner said:
+Sure, a small almond milk latte added. Would you like that one hot or iced?
+You said:
+Please hot and please give me a receipt and how much in total
+English Conversational Partner said:
+Alright — one large hot oat milk cappuccino, one lightly toasted chicken pesto sandwich, and one small hot almond milk latte, all to go with a receipt. The total comes to $14.80. How would you like to pay — card or cash?
+You said:
+Pay with card. Thank you.
+English Conversational Partner said:
+Perfect, you can tap your card right here when you’re ready. Thanks a lot — your order will be ready in just a few minutes. Have a great day!
+You said:
+Thank you. Have a good one.
+English Conversational Partner said:
+Thanks! You too — enjoy your coffee and sandwich! 
+
+
+Week 1 – Task 2: 
+🍽️ Booking a table at a restaurant 🗨️ “Hi, I’d like to book a table for two tonight.”
+English Conversational Partner dijo:
+Sure! What time would you like the table for tonight?
+Tú dijiste:
+Hi, I would like to table for tonight around 7 p.m. 7.30?
+English Conversational Partner dijo:
+Alright, we can do that. Would you prefer 7:00 or 7:30 exactly?
+Tú dijiste:
+7.30 p.m. is okay for me.
+English Conversational Partner dijo:
+Great! And could I have your name for the booking, please?
+Tú dijiste:
+My name is Alejandro Suarez.
+English Conversational Partner dijo:
+Thanks, Mr. Suarez. Would you like to sit indoors or on the terrace tonight?
+Tú dijiste:
+I love to have a table outside. Thank you.
+English Conversational Partner dijo:
+Perfect, we’ll reserve a terrace table for you. Do you have any special requests, like dietary preferences or a special occasion?
+Tú dijiste:
+Yeah, I have a specific request about the dietary about my partner. My partner is vegan, intolerant for the lactose, and gluten-free. 
+English Conversational Partner dijo:
+Got it, thank you for letting us know. We’ll make sure to prepare suitable vegan, lactose-free, and gluten-free options. Would you like us to arrange a small surprise or decoration for the table, since it sounds like a special dinner?
+Tú dijiste:
+I would like you to tell me about in your menu what is the option you have for all my partner restrictions food.
+English Conversational Partner dijo:
+Of course! We have several dishes that fit your partner’s needs — for example, our grilled vegetable quinoa bowl, tofu and avocado salad, and coconut curry with rice noodles. We also offer a vegan chocolate mousse made with coconut milk for dessert. Would you like me to note one of these in advance for your order, or would you prefer to decide at the restaurant?
+Tú dijiste:
+Lovely. The tofu and avocado salad and coconut cover with the rice noodle. 
+English Conversational Partner dijo:
+Excellent choice! I’ll note the tofu and avocado salad and coconut curry with rice noodles for your partner. Would you like to order something for yourself in advance as well, or will you decide when you arrive?
+Tú dijiste:
+On the other hand, I love to eat meat, fish, and seafood. You can recommend me something for the menu. What is the chef recommended for the menu?
+English Conversational Partner dijo:
+Sure! Our chef’s recommendations tonight are the grilled sea bass with lemon butter sauce, the steak au poivre, and the seafood risotto — all freshly prepared. Do any of these sound good to you?
+Tú dijiste:
+Oh my god, all sound amazing, but I think so, maybe I will want to grill sea bass with a lemon butter sauce. Thank you.
+English Conversational Partner dijo:
+Perfect choice — the grilled sea bass is one of our most popular dishes! Would you like any drinks with your meal, maybe wine, a cocktail, or something non-alcoholic?
+Tú dijiste:
+Oh sure, can you recommend me about one bottle for Shiraz wine ?
+English Conversational Partner dijo:
+Of course! We have a South Australian Shiraz that’s rich and smooth, perfect with seafood, or a Chilean Shiraz that’s a bit spicier and full-bodied. Would you prefer the lighter Australian one or the bolder Chilean?
+Tú dijiste:
+I choose one, a shiraz from South Australia.
+English Conversational Partner dijo:
+Excellent choice — that pairs beautifully with your sea bass. Finally, could you please share a contact number for the reservation confirmation?
+Tú dijiste:
+Absolutely. My number is 310-458-4421.
+English Conversational Partner dijo:
+Thank you, Mr. Suarez. Your table for two is confirmed for 7:30 p.m. on the terrace, with your menu selections and wine noted. We’ll see you tonight — is there anything else you’d like to add to your booking?
+Tú dijiste:
+Sure, is possible you decorate my table for a celebrate owr second anniversary 
+English Conversational Partner dijo:
+That’s so lovely — congratulations to you both! 🎉 We can decorate your table with candles and some flowers. Would you prefer a romantic red and gold theme or something soft and elegant, like white and pastel tones?
+Tú dijiste:
+I would like Soft and Elegant, and White Tones is lovely.
+English Conversational Partner dijo:
+Perfect, we’ll prepare a soft white and elegant setup for your anniversary dinner. Everything’s arranged! Would you like a small card or message placed on the table to surprise your partner?
+Tú dijiste:
+Ah, no, thank you. That's it. All good.
+English Conversational Partner dijo:
+Wonderful, Mr. Suarez. We look forward to welcoming you both tonight at 7:30. Have a beautiful evening and happy anniversary!
+Tú dijiste:
+Thank you, see you soon!
+English Conversational Partner dijo:
+You’re very welcome, Mr. Suarez. See you soon — and enjoy your celebration!
+
+

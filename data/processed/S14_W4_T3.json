@@ -1,0 +1,120 @@
+{
+  "student_id": 14,
+  "week": 4,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S14_W4_T3",
+  "source_file": "data\\raw\\#14\\#14\\#14. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, Coach. Training just finished. Could you tell me what I did well today and what I should work on next?"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hey there! Great job today! I noticed your form was really solid, especially on those sprints. One thing to work on might be your breathing technique to keep your energy up. How do you feel about focusing on that next time?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Thank you so much. I want to improve my long kicks."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it! For those long kicks, we can definitely focus on your leg strength and your flexibility. Do you have any specific areas you’d like to target for your long kicks?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "I always play center back, so I need to find space behind their defenders."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! So we can definitely work on your awareness and positioning so that you can spot that opponent behind you more quickly. How does that sound for a next focus area?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "I also want to focus on proper defensive."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely! We can definitely focus on your defensive skills and positioning to keep you more secure on the field. We’ll make sure you’re always in the right spot to defend effectively. Anything specific you want to work on within that area?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Could you give me an example of something I did this well and something I could improve?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course! So, one thing you did really well today was your anticipation of the opponent’s moves, which is awesome for defense. One area to improve on might be your footwork, just to make sure you’re staying balanced and can react quickly. How does that sound?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Do you have any recommendation of training in the gym?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely! For gym training, we can focus on exercises that build your core strength and your leg muscles. Things like squats, lunges, and core stability exercises will definitely help with your overall performance. Would you like a specific routine or some more details on that?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Yes, please."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure thing! I can put together a simple routine for you focusing on those key areas. We’ll include some squats for your legs, planks for your core, and a few agility drills as well. I’ll get that ready for you!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "How often should I go to the gym?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "For overall improvement, aiming for about three times a week is a great start. That way, you give your body enough time to rest and recover between sessions. And we can always adjust based on how you feel and your progress!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Sounds like a pran."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Awesome! I’m glad it sounds good to you. We’ll get everything set up, and I know you’ll do great. If you have any other questions or need anything else, just let me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "What would you recommend I focus on improving next?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Well, since we’ve talked about your defensive skills and your kicking, I think the next focus could be on your overall endurance and stamina, just to keep your energy up throughout the game. Sounds like a plan?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Yes, thank you so much. Could you give me some tips for improving my stamina?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely! One great way to boost your stamina is to incorporate interval training, like alternating between high-intensity bursts and slower recovery."
+    }
+  ]
+}

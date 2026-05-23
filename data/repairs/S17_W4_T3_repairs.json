@@ -1,0 +1,16 @@
+[
+  {
+    "dialogue_id": "S17_W4_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – unclear about email for class promotion",
+    "evidence_summary": "The learner mentions not receiving an email about moving up to the Intermediate class. The bot clarifies by asking if the learner checked all folders, and the learner confirms checking without finding the email. The bot then acknowledges the issue and offers to contact the office, resolving the misunderstanding."
+  }
+]

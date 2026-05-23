@@ -1,0 +1,335 @@
+TASK 1: 
+
+You said: 
+Hi! I want practice how to made appointment in clinic. You - call-assistant in this clinic and you always help for people, who need choose time for his visit in clinic. This clinic is very famous and more times on week is occupied. I am a sick man, who has several diseases and wanted to give a help for his health in this clinic at this week. Try to help him and explain slots for his visit. I will start first in next message.
+English Conversational Partner said:
+Sure — go ahead whenever you’re ready.
+You said:
+“Good evening.”
+00:00
+English Conversational Partner said:
+Good evening! How can I assist you today? Are you looking to schedule an appointment for this week?
+You said:
+“Can I book a visit to doctor on this week? I mean I broke my leg and have a problem. I have worse and worse me.”
+00:12
+English Conversational Partner said:
+I’m sorry to hear that! Of course, we can help. Let’s see… Could you let me know which day and time would be most convenient for you this week?
+You said:
+“I prepare Friday afternoon because before I usually work at my home and I never have time for visit.”
+00:12
+English Conversational Partner said:
+Got it, Friday afternoon works well. Let me check our available slots for Friday. Do you have a preferred time, maybe early afternoon or later in the day?
+You said:
+“Later, afternoon.”
+00:01
+English Conversational Partner said:
+Alright, later in the afternoon it is. We have a few slots available, for example, around 2:30 PM or 4:00 PM. Which one would suit you better?
+You said:
+“What doctor you will have at 4 p.m.?”
+00:04
+English Conversational Partner said:
+At 4:00 PM, we have Dr. Smith, who specializes in orthopedics. That should be perfect for your leg injury. Does that time work for you?
+You said:
+“What time does this doctor work in your clinic?”
+00:03
+English Conversational Partner said:
+Dr. Smith usually works on Fridays from 2:00 PM until 5:00 PM, so you’ll have some flexibility. If 4:00 PM works, that’s perfect. Let me know if you’d like to confirm that slot.
+You said:
+“Can you speak for me more about his background, what university he attended, and how long he worked at your clinic?”
+00:13
+English Conversational Partner said:
+Absolutely! Dr. Smith completed his medical degree at Harvard Medical School, and he also did his residency at the Mayo Clinic. He’s been with us for about five years now and has a great reputation in orthopedics. Hopefully, that gives you a good overview!
+You said:
+“Thank you for your information, can you speak me about Mr. Speed, how I can visit for him for Friday at 4pm and what I need take with me?”
+00:21
+English Conversational Partner said:
+Of course! To visit Dr. Smith on Friday at 4:00 PM, we’ll just need your insurance information and any relevant medical records about your leg injury. It’s also helpful to bring a form of ID. Once you have those, we’ll be all set! Let me know if you have any other questions.
+You said:
+“I think that for me, I need x-ray at this day. Can you help me and book it?”
+00:08
+English Conversational Partner said:
+Absolutely, we can arrange that as well. We’ll schedule an X-ray either before or right after your appointment with Dr. Smith. I’ll make sure we have that coordinated for you. Sound good?
+You said:
+“Thank you, I mean I need appointment after visit to Dr. Smith, because Dr. Smith can change my appointment and say me more information what I need did with my health.”
+00:20
+English Conversational Partner said:
+Got it, that makes perfect sense. We’ll plan the X-ray appointment right after your visit with Dr. Smith, so he can give you the best guidance. I’ll make sure everything is set up for you. Let me know if there’s anything else you need!
+You said:
+“I mean, for me, I also need blood test and something, another test for my health. Can I make checkup in your clinic this day?”
+00:19
+English Conversational Partner said:
+Absolutely, we can arrange that as well! We can coordinate the blood test and any other necessary tests on the same day, so everything’s streamlined for you. I’ll make sure all the appointments are scheduled together. Just let me know if there’s anything specific you need!
+You said:
+“Okay, I am waiting.”
+00:01
+English Conversational Partner said:
+All right, I’ll go ahead and confirm all the details for you and make sure everything is booked. Once it’s all set, I’ll let you know. If you have any other questions or need anything else in the meantime, just let me know!
+You said:
+“What tests can you perform?”
+00:06
+English Conversational Partner said:
+Sure, I can definitely help with that! Just let me know which specific tests you have in mind, and I’ll make sure we include them in your appointment. Feel free to share any details, and I’ll take care of the rest!
+You said:
+“Oh, seriously, I want to check up all my body. I mean, I prefer previously check up my blood, my hand, and how many virus can I have now. Because after this Friday, I cannot go to your clinic next week. And I need to have more tests and more time for my visit at Friday. Please appoint me after Dr. Smith for blood test, x-ray, and maybe for important test, what you always offer it for people who need check up his body.”
+01:07
+English Conversational Partner said:
+Absolutely, I understand. We’ll make sure to book a comprehensive check-up for you on Friday. That will include the blood test, the X-ray, and any other important tests we need to ensure a full assessment. I’ll coordinate everything so that you get the complete care you need in one visit. If there’s anything else specific you’d like, just let me know!
+You said:
+“Please give me advice, because I don't know what test do you have now.”
+00:06
+English Conversational Partner said:
+Of course! Typically, for a thorough check-up, we might include tests like a complete blood count, metabolic panel, lipid profile, and maybe tests for specific markers depending on your symptoms. We can also do an EKG for heart health and any other tests Dr. Smith recommends after examining you. I’ll make sure we tailor everything to your needs!
+You said:
+“Sounds good. Please say for me more about specific markers, what you can make in your clinic.”
+00:08
+English Conversational Partner said:
+Absolutely! Some common specific markers we might check include things like thyroid function tests, vitamin D levels, inflammatory markers like CRP, and even specific tests for infections or autoimmune markers. Depending on your health history and symptoms, we can customize the panel. Just let me know what you’re most concerned about, and we’ll cover it all!
+You said:
+“Спасибо за вашу информацию. Для меня нужны тесты на здоровье мужчины, потому что я планировал родить ребенка с моей женой в этом году. Можете ли вы предложить мне больше тестов, чтобы понять, как я могу понять о здоровье мужчины?”
+00:36
+English Conversational Partner said:
+Of course! For men’s health, especially if you’re planning to start a family, we can look at tests like hormone levels (including testosterone), a semen analysis to check fertility, and possibly some genetic screening as well. We can also look at general health markers to ensure everything is optimal. I’ll make sure we cover all the important aspects for you!
+You said:
+“Okay, if you can appointment me for Friday for hormone test, please make it.”
+00:10
+English Conversational Partner said:
+Absolutely, I’ll make sure to schedule the hormone tests for you on Friday, along with everything else we discussed. Once it’s all confirmed, I’ll let you know the full details. If you have any other requests or questions, just let me know!
+You said:
+“Please remind me what time I have appointment at Friday for Dr. Smith.”
+00:06
+English Conversational Partner said:
+Sure! Your appointment with Dr. Smith is scheduled for Friday at 4:00 PM. After that, we’ll have all the additional tests lined up, including the hormone tests and everything else. If you need anything further, just let me know!
+You said:
+“Thank you for appointment, you really helped me, and please tell me what cost of this”
+00:10
+English Conversational Partner said:
+You’re very welcome! As for the cost, it can vary depending on the specific tests and your insurance coverage. I’ll make sure to provide you with a detailed breakdown once everything is confirmed. Feel free to reach out anytime if you have more questions.
+You said:
+“I don't have insurance, but I am ready to pay for it. First, I need to pay for my visit to Dr. Smith. Second, I need to pay for blood test. And third, I want to pay for my hormone test. What is the cost of this?”
+00:27
+English Conversational Partner said:
+I understand! I’ll definitely provide you with an estimate for each part. Typically, the consultation with Dr. Smith, the blood tests, and the hormone tests are all priced separately, but I’ll gather all the details and give you a clear breakdown before your visit. That way, you’ll know exactly what to expect. If you have any specific concerns, just let me know!
+You said:
+“Yes, I want to understand what money we need to take on Friday, because I have only cash, and if I go to your clinic, I need to take my money and pay for all appointments and tests. How much money I need to take with me?”
+00:26
+English Conversational Partner said:
+I completely understand. I’ll make sure to provide you with a detailed cost estimate for each part of the visit, including the consultation, the blood tests, and the hormone tests. That way, you’ll know exactly how much to bring. I’ll get that information for you as soon as possible!
+You said:
+“Okay, thank you. I'm waiting what you can say about my questions.”
+00:09
+English Conversational Partner said:
+Of course! I’ll gather all the details and provide you with a comprehensive cost breakdown as soon as I can. That way, you’ll have a clear idea of what to expect on Friday. If you have any other questions in the meantime, just let me know, and I’m here to help!
+You said:
+“Yes, I have one big question, what cost of this appointment and test?”
+00:09
+English Conversational Partner said:
+Absolutely! I’ll compile a detailed cost breakdown for you, including the consultation, all the tests, and the hormone panel. Once I have that info ready, I’ll share it with you so you know exactly what to expect. Thanks for your patience, and I’ll get that to you as soon as possible!
+You said:
+“Can you give me this information, now?”
+00:03
+English Conversational Partner said:
+Absolutely, I’ll get that information for you right away! Let me quickly outline the typical costs: the consultation usually runs around a certain amount, the blood tests might be another specific amount, and the hormone tests will have their own pricing as well. I’ll put it all together and share the exact numbers with you in just a moment.
+You said:
+“And just talk about this in this chat, I need understanding what cost.”
+00:06
+English Conversational Partner said:
+Of course, I understand! Generally speaking, the consultation fee can range from about $100 to $200, the blood tests might be around $150 to $300 depending on the panel, and the hormone tests could be in the range of $200 to $400. Of course, these are just estimates and can vary. Once I confirm all the specifics with the clinic, I’ll provide you with the exact amounts. Hopefully, that gives you a good starting point!
+You said:
+“Please repeat this information, I don't understand it all.”
+00:03
+English Conversational Partner said:
+Of course! In general, the consultation with the doctor might cost around $100 to $200. The blood tests could range from about $150 to $300, depending on which ones are done, and the hormone tests might be somewhere between $200 and $400. These are just approximate ranges, and the exact cost will depend on your specific tests. Once I confirm everything, I’ll give you the exact numbers. Hopefully, that helps clarify!
+You said:
+“Okay, thank you for your information. Now I understand what cost about this and I am grateful for your job and you really helped me and I will go at your clinic at Friday. Have a nice day. Bye”
+00:26
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help, and I’m happy everything’s clear now. Have a great visit on Friday, and if you need anything else, just let me know. Have a wonderful day, and take care! Bye for now!
+You said:
+“Okay, bye.”
+00:00
+English Conversational Partner said:
+Bye! Take care, and if you need anything at all, I’m here to help. Have a great day!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+TASK 3: 
+
+You said: 
+Hi! I want practice how to buy/rent house in New South Wales. You - real estate agent from "Noah Real Deal", who always recommend to buy houses in city, that placed near Sydney (Kiama, Newcastle) and doesnt like to sell new houses in Sydney CBD. I am a customer, who wants to buy new house with now money down and wants to live in dead end house with view on forest. Try to help me and offer expedient bargain. I will start first in next message.
+English Conversational Partner said:
+Got it! I’m ready when you send your first message to start the roleplay.
+You said:
+“Hello, it's a real estate agency.”
+00:02
+English Conversational Partner said:
+Hello! Great to meet you. I’m here to help you find the perfect home. To get started, are you looking to buy or rent?
+You said:
+“I want to buy a house in Newcastle, maybe in Kiama, and I prefer a place in New South Wales, near the ocean, but I”
+00:18
+English Conversational Partner said:
+That sounds wonderful!
+You said:
+“Don't have money for down payment. Vote UFL for me.”
+00:05
+English Conversational Partner said:
+I understand. Well, we can definitely explore some flexible financing options. Are you open to properties in the suburbs of Newcastle or Kiama that might offer more affordable options?
+You said:
+“Please say me more about this and what price now always for this type of houses in New South Wales.”
+00:12
+English Conversational Partner said:
+Absolutely! In Newcastle and Kiama, you’ll find a range of prices, but generally, homes near the ocean and with a forest view tend to be more affordable than those in Sydney CBD. Typically, you might see prices ranging from around $500,000 to $800,000, depending on the specifics. Would you like to know about any particular area or property features?
+You said:
+“Thank you for your information, what's your name?”
+00:04
+English Conversational Partner said:
+You can call me Noah! I’m here to help you every step of the way. Is there any specific feature or requirement you’d like in your future home?
+You said:
+“Nice to meet you. I want buy a house with four bedrooms and two water closet. My family include me and my wife and two children.”
+00:20
+English Conversational Partner said:
+Perfect, that gives me
+You said:
+“Now I won't buy a new house because previously we rent house in CBD in Sydney because I work near”
+00:17
+English Conversational Partner said:
+I see, that makes
+You said:
+“But now I won't left this place and go to small town near Sydney.”
+00:10
+English Conversational Partner said:
+Got it, that sounds
+You said:
+“Please, say me more about it.”
+00:03
+English Conversational Partner said:
+Of course! We can definitely explore some charming small towns near Sydney, like Kiama or Newcastle, and find a home that suits your family’s needs. Would you like to focus on any particular amenities or features in the new area?
+You said:
+“Yes, I want to live not in ghetto, and...”
+00:08
+English Conversational Partner said:
+Absolutely, that makes
+You said:
+“I prefer that my house have a balcony and we can use it with my wife for view on forest.”
+00:13
+English Conversational Partner said:
+That sounds lovely! We’ll definitely look for homes that have a balcony and a beautiful forest view for you and your wife. Anything else that’s important to you in terms of location or features?
+You said:
+“Yes, how I asked before, I prefer house in dead end because I don't like noisy sounds from cars and what lived in calm place without different sound and I don't want hear cars on another public transport.”
+00:25
+English Conversational Partner said:
+Absolutely, that makes perfect sense. We’ll focus on properties located on quiet cul-de-sacs or dead-end streets to ensure you get that peaceful environment. Anything else you’d like to add to your wish list for your new home?
+You said:
+“Okay, fine. I'm thinking sometimes about it. For example, I want to have a place for our car, and maybe I want to live near a big mall, because for me, we always need to go to shop and buy products, and buy other things for our big family. And for me, it's more helpful if our house is placed near the mall. And I mean, for me, it's very important that I don't have noisy nine boards, and this house doesn't be run down. I want a new house with a new...”
+01:10
+English Conversational Partner said:
+Absolutely, that all
+You said:
+“new buildings. Yes, what you can offer at me.”
+00:03
+English Conversational Partner said:
+Got it! I’ll make sure to find you a new, well-maintained home with a garage for two cars, close to a big mall, and in a peaceful location without any noise. I’ll get started on that and keep you updated with some great options!
+You said:
+“Okay, thank you. I'm waiting. Please come back after five seconds.”
+00:05
+English Conversational Partner said:
+Of course! I'll gather some great options for you and be right back shortly. Feel free to let me know if you have any other preferences in the meantime!
+You said:
+“Please give me three offers what can help me now more about various off-house.”
+00:13
+English Conversational Partner said:
+Absolutely, I’ll put together three great options for you, each with those key features you mentioned. I’ll get back to you in just a moment with the details!
+You said:
+“I am waiting.”
+00:00
+English Conversational Partner said:
+All right, I’m on it! I’ll gather those options and be back with you in just a few seconds. Thanks for your patience!
+You said:
+“Five seconds left. Can you come back now and say me more about options what you have?”
+00:06
+English Conversational Partner said:
+Absolutely! So, I’ve found three great options for you. The first one is a beautiful four-bedroom home in Kiama, with a spacious balcony and a garage for two cars, located near a shopping center and in a quiet cul-de-sac. The second option is in Newcastle, featuring a modern design, close to a large mall, and tucked away in a serene neighborhood. And the third option is another lovely home in a smaller town near Sydney, also with all the features you’re looking for. Let me know which one interests you the most!
+You said:
+“Can you tell me more about price for utilities? What price more in Kiama or Newcastle? And for me, I need understanding what schools I have near my house because to my children go to the school next year and I need have”
+00:30
+English Conversational Partner said:
+Absolutely, I can
+You said:
+“School for them.”
+00:02
+English Conversational Partner said:
+Perfect, I’ll provide detailed information on the pricing for utilities and the overall costs in both Kiama and Newcastle, as well as information on nearby schools for your children. I’ll make sure you have a clear understanding of all those details!
+You said:
+“What information you found?”
+00:02
+English Conversational Partner said:
+Sure! So, in Kiama, the utility costs tend to be a bit higher due to the coastal location, but the property prices are generally slightly lower compared to Newcastle. On the other hand, Newcastle offers a wider range of options and can sometimes be more affordable in terms of utilities. As for schools, both areas have excellent educational facilities. Kiama has some top-rated local schools, and Newcastle also offers a variety of well-regarded options. I can provide more specific details on each school if you'd like!
+You said:
+“Oh yes, I need more information about school, and I prefer Newcastle because I like this place, and if this place have more...”
+00:18
+English Conversational Partner said:
+Absolutely, that makes
+You said:
+“school or more offers, I try to choose something at this place.”
+00:08
+English Conversational Partner said:
+That sounds great! I’ll definitely focus on Newcastle and provide you with detailed information about the top schools in the area, along with more property options. I’ll make sure we find the perfect fit for you and your family!
+You said:
+“Yes, I agree. Can you say to me more information about price range in this place? And send me one message with information about schools in this place.”
+00:19
+English Conversational Partner said:
+Of course! In Newcastle, the price range for a four-bedroom home generally varies from around $600,000 to $900,000, depending on the location and the features. And I’ll also put together a detailed overview of the top schools in Newcastle, so you’ll have everything you need in one message. I’ll get that ready for you shortly!
+You said:
+“All links will be in the description of this video.”
+00:08
+English Conversational Partner said:
+Absolutely, I understand.
+You said:
+“I can buy a house cheaper near Newcastle.”
+00:06
+English Conversational Partner said:
+Of course, we can definitely look at more budget-friendly options around Newcastle. I’ll find some homes that are more affordable and still meet your needs. Just let me know any additional preferences, and I’ll make sure we find the right fit for you.
+You said:
+“For me very important what price for this house not been more than 500 $1,000 because I cannot pay more in this moment and if Talking about another preference for me very important What is this place? Being near forest and how I told before I need have a view on a forest maybe on on hills and just can breathe”
+00:52
+English Conversational Partner said:
+Absolutely, I’ll make sure to focus on options that are under $500,000 and
+You said:
+Okey, thank you for your information. Send me options, what you have on my e-mail and i come back tomorrow after my thinking about choose
+English Conversational Partner said:
+Sure! I’ll prepare those options for you. Thanks for your time, and I’ll be here whenever you come back tomorrow. Have a great day!
+You said:
+Thank you bye!
+English Conversational Partner said:
+Thanks, take care! Bye!

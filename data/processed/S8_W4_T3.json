@@ -1,0 +1,190 @@
+{
+  "student_id": 8,
+  "week": 4,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S8_W4_T3",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, I've just finished my class presentation. Could you talk about it?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! So, in that case, let’s talk a bit about how it went. If you want to share how you felt about it or if there's anything that stood out to you, go ahead. I’m here to chat it through with you!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“As you know, we gave a presentation with you. How about it?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course, I remember! Well, from what we planned out, it sounds like we covered all the key parts smoothly. You did the slides, I did the intro, you wrapped up with the conclusion, and it seems like it went really well. If there's anything else you want to reflect on or ask about, just let me know!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“So, you don't have any regret?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "No regrets at all! I think we covered everything really nicely, and you did a great job. So from my side, I’m all good. And if you’re feeling good too, then I’d say we nailed it!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I think, in my turn, I gave a Japanese slide, but maybe it's not easy to view. How about, how do you think?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, I get what you mean. I think your Japanese slide was just fine, and everyone could follow along. But if you felt like it wasn't easy to view, maybe next time we can just simplify a bit or add some visuals. Overall, you did great, and it’s all part of learning."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Our teacher said, in two weeks, we will give a presentation, which is a renewed version.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "All right, that sounds like a plan! So in a couple of weeks, we’ll have a renewed project to present. We can definitely tackle that together, and we’ll just make any improvements based on what we learned this time around. So when we get closer, we’ll just plan it out again."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“How about other Australian slides, not only New Zealand, but also Australia?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure, we can definitely do that. We can include some Australian slides as well, so it's not just New Zealand. That way, we can expand the presentation a little bit and make it even more interesting. So when we prep for the next round, we’ll just add those in."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Should I change three pages, right?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, if you want to update that slide to include Australia as well, that’s a great idea."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“ご清聴ありがとうございました。”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure! Just go ahead and tweak that"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, just go"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "How about give a presentation not only Japan and New Zealand but also Australia."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, just go ahead and tweak that slide to add in the Australian part. That'll make it even more complete. And if you need any help or want me to take a quick look after you've updated it, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“We schedule a follow-up meeting in a few weeks to review progress.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure thing! Let’s do that. We can set up a meeting in a couple of weeks to check in and see how everything’s going. That way we can review our progress and make any changes we need. Just let me know a time that works for you, and we’ll lock it in!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“And at that meeting, I'd like to give a presentation, like, practically.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. So at that meeting, we’ll make it more like a practice presentation run. You can go through your slides, and we’ll just treat it like a rehearsal so you feel extra ready. That sounds like a great plan!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Goodbye.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Great! Then we’ve got a plan. We’ll do that practice run at our meeting and make sure everything’s smooth. Just let me know when you want to set it up, and we’ll be all set!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, finally, we complete our making slide.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Awesome! That’s fantastic to hear. We’ve got all the slides done, and now we’re all set for the next steps. If you need anything else, just let me know, but it sounds like we’re in great shape!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“I will give a presentation about Japan.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure thing! So you'll be handling the part about Japan in the presentation. That sounds great, and you can just focus on making that section as interesting as you like. If you need any support with it, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Thank you, Medar, Osterhjelm, and Nusran.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, I can"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Also, I will make a conclusion.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure, that sounds like a good plan. I'll cover the Australian and New Zealand parts, and you'll handle the Japan section as well as the conclusion. That way we've got everything nicely divided up. Just let me know if you need any help along the way!"
+    }
+  ]
+}

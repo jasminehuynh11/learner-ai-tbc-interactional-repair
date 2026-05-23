@@ -1,0 +1,75 @@
+{
+  "student_id": 15,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S15_W2_T2",
+  "source_file": "data\\raw\\#15\\#15\\#15. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an issue at a rental property"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I'd like to report a damage at my rental property."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, I can help with that. What exactly happened at the property?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "There's a leak under the kitchen sink. Can someone come today or tomorrow to fix it?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure, a leak under the sink—got it. Is the water still actively dripping or did you manage to stop it for now?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "The water is still actively dripping. Should I turn off the water until they come?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, yes—please turn off the water under the sink if you can, just to limit the damage. Are you at the property now for the plumber to access, or will someone else be there?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I am at the property now, so I can give access to the plumber."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Great, thanks for confirming. What’s the full address of the property so I can schedule the plumber?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Property is Calle Guadalupe, Fisherman v. Sidney."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, thanks. I’ve got the street, but I’ll need the exact house or apartment number to book the call-out. What’s the full unit or house number there?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Street 15 is a house."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, so it’s house number 15 on Calle Guadalupe. Thanks. What time today or tomorrow works best for the plumber to come by?"
+    }
+  ]
+}

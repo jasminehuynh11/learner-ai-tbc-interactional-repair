@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S38_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies ambiguous request",
+    "evidence_summary": "The learner's initial phrasing 'book the entire seaside' was ambiguous for a table reservation. The learner immediately self-corrected within the same turn by saying 'well actually, anything that is more romantic and really a quieter place would be good. But still on the seaside of the restaurant'. The bot's response in turn 13 directly addresses this clarified request, indicating the issue was resolved."
+  }
+]

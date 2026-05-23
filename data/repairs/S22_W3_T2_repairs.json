@@ -1,0 +1,64 @@
+[
+  {
+    "dialogue_id": "S22_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand word 'pipe'",
+    "evidence_summary": "The learner asks for clarification about the term 'pipe', indicating a lack of understanding. The bot explains that it refers to the 'silver pipe underneath the sink'. The learner then confirms understanding, resolving the issue."
+  },
+  {
+    "dialogue_id": "S22_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      14,
+      15
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'water valve'",
+    "evidence_summary": "The learner expresses uncertainty about the location of the 'water valve'. The bot provides a description to help locate it. The learner finds the handle and confirms understanding, resolving the issue."
+  },
+  {
+    "dialogue_id": "S22_W3_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – clarification of 'afternoon'",
+    "evidence_summary": "The learner seeks clarification on the meaning of 'tomorrow afternoon'. The bot confirms it means 'after lunch', and the learner proceeds with scheduling, indicating resolution."
+  },
+  {
+    "dialogue_id": "S22_W3_T2",
+    "repair_id": 4,
+    "turn_indices": [
+      36,
+      37
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'wear and tear'",
+    "evidence_summary": "The learner asks for clarification on 'wear and tear'. The bot explains it as problems that occur naturally over time. The learner acknowledges understanding, resolving the issue."
+  },
+  {
+    "dialogue_id": "S22_W3_T2",
+    "repair_id": 5,
+    "turn_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "clarification – learner requests repetition of reference number",
+    "evidence_summary": "The learner asks the bot to repeat the reference number slowly. The bot complies, and the learner confirms the number, resolving the issue."
+  }
+]

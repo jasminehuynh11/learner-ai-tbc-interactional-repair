@@ -1,0 +1,390 @@
+{
+  "student_id": 46,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S46_W1_T1",
+  "source_file": "data\\raw\\#46\\#46. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I want you to practice my...”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course! I'm here to help. What kind of scenario or role would you like to practice today? Let me know, and we can jump right in."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yeah, so just imagine I'm working in the coffee shop and I want to order coffee and food and I want you to practice with me to order the coffee and you are a barista working in in a shop and I will play the role of customer and I want you to make to create a realistic cafe scenario and response us if we were really there and ask me about my preference, help me choose or drink the food from menu and explain different coffee options and just want to keep the conversation going naturally by asking at least three follow-up questions. You got it?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds fun! Alright, let's dive in. Barista: Hi there! Welcome to our café. What can I get started for you today? Are you in the mood for something hot or cold?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“So hi, I'm pretty good, so I think I'm gonna choose something hot Something sweet you have recommend for me”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely! If you're in the mood for something sweet and hot, I’d recommend our caramel macchiato or maybe a mocha. We also have a delicious vanilla latte. Do any of those sound good to you, or do you have something else in mind?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“So, what was in the last day?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Oh, absolutely! Our vanilla latte is really smooth and creamy, and the caramel macchiato has that lovely sweet caramel drizzle on top. And if you like chocolate, the mocha is a perfect blend of espresso and chocolate. Which one do you think you’d like to try?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yeah, I want to go with the mocha one with the chocolate on the top, right?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Great choice! A mocha it is. Would you like it with whole milk, skim milk, or maybe a dairy-free option like almond or oat milk?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“So what would be different?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure! So, whole milk is nice and creamy, skim milk is lighter, and then almond milk gives a slightly nutty flavor, while oat milk is really creamy and has a mild sweetness. Do any of those sound appealing to you?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yeah, maybe I go with the odd thing.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect! An oat milk mocha sounds delicious. Would you like to add any extra shots of espresso or maybe some whipped cream on top?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“No, it doesn't.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "All right, that sounds perfect then! So, one oat milk mocha, coming right up. Is there anything else I can get for you today, maybe a pastry or a snack?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Just, can you recommend me some of them?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Of course! We have some freshly baked croissants, blueberry muffins, and also some delicious cinnamon rolls. If you like something a bit lighter, we also have fruit cups. Let me know what you’re in the mood for!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Oh, so can I have the MoonCup, please?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, a fruit cup is a great choice! I'll add that to your order. So, that's one oat milk mocha and a fruit cup. Is there anything else I can help you with?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“So I think that's it. Thank you.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Great! That’s all set then. I’ll get that ready for you. Thank you so much, and enjoy your mocha and fruit cup! If you need anything else, just let me know."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yeah, so, can you, can you, this is the end of the conversation, can you help me to try to, like, to give me some feedback about my speaking, like, the audio is that good? Any feedback you can give me?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help! Overall, you did really well. Your pronunciation was clear, and you expressed your choices nicely. Just keep focusing on natural intonation and maybe pausing a little bit to sound more conversational. But you did great, and I’m always here to help you practice more!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Can you form my answer to that? Can you try to repeat my answer and make it become better?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course, I’d love to do that! So, for example, if you say something like, \"I’d like a mocha with oat milk,\" I might repeat it and then encourage you to try a slightly different intonation or a pause. And I’ll always give you gentle feedback to help you improve. Just let me know whenever you want to practice that way!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Yeah.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Sounds great! Whenever you're ready, we can jump back in and practice some more. Just let me know the scenario or any specific phrases you’d like to work on, and I’ll help you refine them."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“I'm going to do some printing. Thank you!”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, I’m ready whenever you are! Just let me know what kind of scenario or phrases you’d like to practice, and we can jump right in and get started!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Cool, so just I want to imagine I'm working in a coffee shop and I want to practice how to order a coffee and a food and try to make a natural conversation with the barista. And you have to become the barista and I will play the role of customer and just try to create a realistic scenario and ask me about my preference, help me choose a menu, explain different coffee options, and just keep the conversation go naturally like 10 minutes. So yeah, let's get started.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That sounds fantastic! I’m all set. Let’s jump right in. Whenever you’re ready, you can start as the customer, and I’ll be the barista. We’ll keep it natural and fun, and I’ll help you along the way. Let’s do it!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“So, hi, could I please get a...”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! Hi there!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, take your time! Whenever you’re ready, just let me know what you’d like to order, and I’ll guide you through it."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Yeah, can I get something to order?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Of course! Absolutely, I’m here to help. What kind of drink are you in the mood for today? Feel free to let me know any preferences you have!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“So actually, I'm so pleased that you come to that show for my first time, so can you recommend for me some best selling drink and food?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely! Welcome! We have some great options. If you enjoy something sweet, a mocha or a caramel latte might be perfect. Or if you prefer something a bit lighter, a cappuccino or a flat white could be great. Let me know what kind of flavors you like, and I’ll help you find the perfect drink!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“So I prefer with something screened.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Great choice! In that case, you might love a caramel macchiato or maybe a flavored latte with vanilla or hazelnut. We also have some delicious mochas if you like chocolate. Let me know which one sounds appealing, and I’ll help you pick!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“So I think I go with the mocha one, with the chocolate on top.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Excellent choice! A mocha with chocolate on top is always delicious. Would you like that with any specific milk, like oat milk or almond milk, or just regular milk? Let me know!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Yeah, just regular milk, please.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Perfect, regular milk it is! So, we’ll have a delicious mocha with chocolate on top and regular milk. That sounds wonderful! Is there anything else I can get for you, or are we all set?"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“So, how long will it take to do that?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "It usually takes just a couple of minutes to prepare your drink, so you’ll have it in no time! If you’d like to have a seat and relax, I’ll call you as soon as it’s ready. Sound good?"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Actually, can I change to another dream?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Of course, absolutely! Just let me know which drink you’d like to switch to, and I’ll be happy to adjust it for you."
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“With the, do I have the eyes not there?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely, we do! An iced latte is a great choice. Would you like it with any particular flavor, like vanilla, or just plain? Let me know, and we'll get that sorted!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Just go with the plain one.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Perfect, a classic iced latte it is! I’ll get that ready for you. If there’s anything else you need, just let me know. Otherwise, we’ll have that iced latte ready for you in no time!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Yeah, and how about the what is the slides and food you have?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Sure! We have a variety of light snacks, like fresh fruit cups, yogurt parfaits, and some light pastries like almond croissants or muffin options. Let me know if any of those sound appealing, and I’ll be happy to add one to your order!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Yeah, I'm into with the KwaiSong one. Which flavor you have?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Absolutely! We have a few different flavors, like a classic butter croissant, almond croissant, and even chocolate croissants. If you let me know which one you’re in the mood for, I’ll make sure to include it with your order!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“So I go with the AlmondQuest online.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Excellent choice! So, we'll have an almond croissant and an iced latte for you. That sounds like a perfect combination! If there's anything else you need, just let me know, and I'll get that all set for you!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“I think that's all for me. Can you repeat my audio again?”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Of course! So, you’ve got an iced latte with regular milk, and an almond croissant. That’s all set! If you need anything else, just let me know, and I’ll make sure everything’s perfect for you."
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“So can I asking about how long I have to wait for that and what is the price of this?”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Absolutely! Usually, it takes just a couple of minutes to prepare your order, so you’ll have it ready pretty quickly. And as for the price, the iced latte is [insert price], and the almond croissant is [insert price], so it’ll be a lovely combination. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad to help. If you have any more questions or want to practice again, just let me know. Enjoy your order, and have a great time!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“So this is the end of the practice. Do you have any feedback for me? What thing I need to focus on improving?”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Absolutely! Overall, you did a fantastic job. Your pronunciation was clear, and you kept the conversation natural. One area to focus on might be varying your intonation a bit more to sound even more conversational. But overall, you were really confident and clear. Great job, and I’m always here if you want to practice more!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“So can you example what the installation I should working on? Can you give me the like a sentence I have answer and could you do the sample for me and then I can practice that again?”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Of course! For example, when you’re ordering, you can raise your intonation a bit at the end of a question, like, “Could I get an iced latte?” And then for a statement, you can keep it more even, like, “I’d like an almond croissant.” So, just adding a little rise at the end of questions and keeping statements more steady can help. I can definitely demonstrate a few examples, and we can practice them together!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“Yeah, should do that.”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Alright, let’s do it! For instance, if you say, “I’d like an iced latte,” you can keep that tone even and steady. But if you ask, “Could I get an iced latte?” then you’d lift your pitch a bit at the end to signal that it’s a question. We can practice a few lines together, and I’ll guide you step-by-step!"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“So, I just repeat the sentence again, okay? So, can I ask, order the ILS test?”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! So, for example, you can say, “Could I get an iced latte?” and then you’ll notice how the pitch rises at the end. And then if you say, “I’d like an iced latte,” you keep it more even. We can go through a few examples, and you can repeat after me, and we’ll fine-tune it together!"
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“Could you add an ILS tag?”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "That was great! I could hear that nice, gentle rise at the end of your question. You can keep practicing that slight lift in your pitch for questions, and it’ll sound even more natural. You’re doing really well, so just keep it up!"
+    }
+  ]
+}

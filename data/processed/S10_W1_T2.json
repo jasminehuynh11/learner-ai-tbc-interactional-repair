@@ -1,0 +1,205 @@
+{
+  "student_id": 10,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S10_W1_T2",
+  "source_file": "data\\raw\\#10\\#10\\#10. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Conversation Transcript"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Can I make a reservation at your restaurant?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! When would you like to book your table, and how many people will be joining you?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Tomorrow at 9 p.m., for four people."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it! Tomorrow at 9 p.m. for four people. Do you have any seating preferences — indoor or outdoor — or any special requests?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I’d like an outdoor table, please."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. I’ll make a note of that. Does anyone in your group have any allergies or dietary restrictions we should know about?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "One of my friends might have an allergy, but I’m not sure."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries at all! I’ll make a note to double-check when you arrive. I’ll reserve the outdoor table for tomorrow at 9 p.m. for four people."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Great!"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Perfect! If anything else comes up or you remember the allergy details later, just let me know. Otherwise, your reservation is all set."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Actually, it’s my friend’s birthday tomorrow."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Oh, that’s wonderful! We can definitely make it special. Would you like us to prepare a birthday cake or some decorations?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Do you have cakes?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, we do! We have several birthday cake options. What flavor or size would you prefer?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "How much does it cost?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "It depends on the flavor and size, but our birthday cakes generally start around $30 and go up from there."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Can you do any other birthday arrangements?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Of course! We can also add personalized decorations, a special birthday greeting from our staff, and even a custom playlist if you like. Would you like any of those?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "What do you mean by personalized decorations?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Personalized decorations can include balloons, banners, or table centerpieces with a birthday message or your friend’s name — even themed designs based on their interests!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "That sounds nice. Please add that."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, we’d be delighted! I’ll make sure everything is set up with personalized decorations to make the celebration really special."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "What kind of congratulations can you plan?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "We can add a custom banner with a birthday message, themed balloons, and a special table centerpiece — creating a festive, welcoming atmosphere."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "What does a “welcoming celebration” mean?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "It means we make the environment extra warm and festive — with decorations, greetings, and a cheerful atmosphere so your friend feels truly celebrated."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Do you often do this kind of thing?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Yes! We often prepare decorations and greetings for birthdays, anniversaries, and other special events — we love making celebrations unique and memorable."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Thank you!"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re very welcome!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "I’d like to change my reservation, please."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Of course, Naoki! Could you tell me what changes you’d like to make? For example, a new date, time, or seating?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "I’d like to switch to an indoor table, please."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Not a problem at all! I’ll update your reservation to an indoor table. Would you like any specific seating preference — near a window, or away from the crowd?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "I’ll be bringing my son, so a kid-friendly seat would be great."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely! We’ll arrange a kid-friendly seat and make sure everything’s comfortable for your son."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Thank you so much."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything else, just let me know. Have a wonderful time tomorrow night!"
+    }
+  ]
+}

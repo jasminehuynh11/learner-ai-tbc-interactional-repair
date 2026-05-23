@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S5_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      33,
+      34
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's explanation",
+    "evidence_summary": "In turn 33, the learner expresses confusion about the bot's previous explanation, asking for clarification on the last sentence. The bot responds in turn 34 by repeating the advice more clearly, resolving the learner's confusion."
+  }
+]

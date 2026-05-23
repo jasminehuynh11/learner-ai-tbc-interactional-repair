@@ -1,0 +1,200 @@
+{
+  "student_id": 46,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S46_W1_T2",
+  "source_file": "data\\raw\\#46\\#46. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi there, so I want to practice English with you.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course! I'm happy to help you practice anytime. Just let me know what you’d like to work on, and we can keep refining your speaking skills together. Let me know whenever you’re ready!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yeah, so I just want to practice with you about book a table at the restaurant. So I want to practice using polite clear language to make a reservation and ask follow-up questions so you can become a restaurant staff member and I will be the customer calling you to book the table for them. So yeah, let's begin.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That sounds like a lot of fun! I’m definitely ready to help you practice that. Whenever you're ready, just let me know the details, like the date, time, and number of people, and we’ll go through the conversation step by step. Let’s do it!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yeah, so, hi, this is the restaurant. I want to make a breakfast reservation in the restaurant for tomorrow at 7pm.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! I’d be happy to help you with that. So, let’s say: “Hi, I’d like to make a reservation for tomorrow at 7 PM.” And then I might ask you how many people and if you have any special requests. We can practice that dialogue, and I’ll guide you through it!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yeah, so hi, I would like to book a table for tomorrow, tonight, for three people.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That sounded really good! You were clear and polite. Just remember to include the exact time and maybe ask if there’s anything special you need. Overall, you did great! If you want to practice any part again or refine anything, just let me know."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Now I just keep conversation continue and yeah, then I will ask you more”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! So after you’ve given your reservation details, I can respond with, for example, confirming the booking and asking if you have any preferences, like seating or special occasions. And then we can keep the conversation flowing naturally. Just let me know what you’d like to cover next!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“So can we do that again? Let me ask you and you answer my question.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! Let's do it. Go ahead and start with your request, and I’ll respond as if I’m the restaurant staff. Whenever you’re ready, we’ll jump right in!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to book a table for three people tomorrow at 7pm.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! I’d be happy to help you with that. Let me just confirm that for you. So, that’s for three people tomorrow at 7 PM. Would you like any special seating preferences or any special occasion we should note? Let me know!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Oh yeah, so can I, can I, can we sit near the window?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course! I’ll make a note that you’d prefer a window seat. That sounds lovely. So, just to confirm, we have a reservation for three people tomorrow at 7 PM, and you’d like a table by the window. Perfect! Is there anything else I can assist you with?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“And actually, tomorrow is my friend's birthday, and can I bring our own cake for the celebration?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, that should be fine! We do allow guests to bring their own cake for celebrations. Just let us know in advance, and we’ll make sure everything is set up perfectly for your celebration. If you have any other requests, just let me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yeah, cool. And do you offer any like singing or decoration for that?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do offer some special decorations and even live music or a small performance upon request. Just let us know what kind of ambiance you’re looking for, and we’ll do our best to accommodate. If you have any specific ideas, feel free to share!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yeah, cool. I will share with you later. And I... Oh! And I also... I want to... like... I made the booking for tomorrow at 7, right? But can I change that to 8?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Of course! We can definitely adjust that. If you need to change the time or the date, just let us know, and we’ll make the update for you. Feel free to let me know the new time or any other details, and we’ll get it all sorted out!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Also, I want to add another person to the booking.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! I’ll update your reservation to include four people instead of three. Just let me know if there’s anything else you’d like to adjust, and I’ll make sure everything’s perfect for your visit!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yeah, and I want to ask you about the menu and dietary needs. So, do you have a vegetarian option?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do have a variety of vegetarian options on our menu. We can definitely provide you with some details or even special recommendations based on your preferences. Just let us know if there’s anything specific you’re looking for, and we’ll make sure you’re well taken care of!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“So, could you confirm the time and name for me?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Of course! Just to confirm, we have your reservation for four people tomorrow at 7 PM, and I’ve noted that you’d like a table by the window. Everything is set, and we’ll also have vegetarian options available for you. If there’s anything else you need, just let me know. We’re looking forward to having you!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“One more thing, just in case, is there any flexibility, like if we arrive 15 minutes late?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely! We can usually accommodate a slight delay, like 15 minutes, without any issues. If you know you’re going to be late, just give us a quick call, and we’ll hold your table for you. We’ll do our best to make everything smooth and enjoyable for you and your guests!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“I would like to bring a small gift for my friend. Are there any policies we should follow?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That’s a great question! Generally, we’re happy to have you bring a small cake for celebrations. We just ask that you let us know in advance, and sometimes there might be a small plating fee. But we’ll make sure everything is smooth and that your friend has a wonderful time. If you have any specific concerns, just let us know, and we’ll guide you through it!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Now, I think that's it for today. Thank you so much for your time.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions or need anything else in the future, just let me know. Have a fantastic time, and I look forward to our next practice session!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Yeah, so this is the end of my practice, so can you ask me to give me some feedback about my speaking, about the things I can improve, I can work on.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely! You did a fantastic job overall. Your clarity and politeness were spot on. One thing you might want to focus on is varying your intonation a bit more, especially when you're asking questions, just to make it sound even more natural. But overall, you did great! Just keep practicing, and you'll keep getting even more comfortable and confident."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Cool, thank you.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m always happy to help. If you ever want to practice again or have any other questions, just let me know. Have a wonderful day! Top of Form Bottom of Form"
+    }
+  ]
+}

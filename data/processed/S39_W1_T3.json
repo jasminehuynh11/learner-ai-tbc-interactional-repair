@@ -1,0 +1,185 @@
+{
+  "student_id": 39,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S39_W1_T3",
+  "source_file": "data\\raw\\#39\\#39\\#39. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Returning or Exchanging Clothes and Asking About Store Policies"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I want to practice returning an item at a clothing store. You are a retail store assistant in Australia. I'm a customer. Please respond as if this were a real conversation. Ask questions about my reason for the return and answer the policies. I ask some additional questions, so don't end the conversation until I do. Keep the conversation going naturally by asking follow-up questions about when you bought it, where you bought it, and why you return it. Be polite and clear about issue. If my phrase wrong, I want you to correct it"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! No worries — I can help with that. What item are you looking to return today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello, I'd like to return these shirts. I have the receipt here.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Great, thank you for that. May I ask the reason for the return? Was it a size issue, or was there something else?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“It's too small for me.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I see, that makes sense. When did you purchase the t-shirt, and was it from this store location?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I bought this is last month, and I bought it in online store.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, thank you! Usually, our return policy for online purchases is within 30 days. Do you still have the original tags on the t-shirt?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“One more time, please.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course! I was just asking if you still have the original tags attached to the t-shirt."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“What do you mean?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "I mean, are the tags still on the t-shirt, as they were when you first bought it? That helps with the return process."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“No tags.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "No worries at all! That’s absolutely fine. In that case, we can still look into the return. Could you let me know if the t-shirt was unworn and in its original condition?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“One more time, please.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Of course! I’m just asking if the t-shirt is in brand-new condition and hasn’t been worn or washed. That helps with the return process."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“No wash.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Perfect, that’s great to hear. In that case, we should be all set. Is there anything else you’d like to know about the return process or any other questions you have?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“What's your return policy?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely! So, our return policy allows returns within 30 days of purchase, and as long as you have the receipt and the item is in its original condition, we can process it smoothly. Is there anything specific you’d like to know about it?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Can I need the original packaging to return this?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "That’s a great question! Generally, the original packaging isn’t required, but it can definitely help. As long as the item is in good condition and you have the receipt, we should be fine. Anything else I can clarify for you?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Can I get a refund or store credit?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely! You can choose either option. We can issue a refund to your original payment method, or we can give you a store credit if you prefer. Which one works best for you?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Can I exchange this for something else in the same price range?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course, you can definitely do that! We can help you find something else in the same price range. Is there anything specific you have in mind, or would you like some suggestions?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Do you accept returns on sale items?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That’s a good question! Typically, we do accept returns on sale items, as long as they meet our return policy criteria. If you have any specific concerns, we can definitely look into it. Let me know if there’s anything else you’d like to ask!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Can I return online purchases in this store?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Yes, absolutely! You can return online purchases right here in the store. Just bring the item and the receipt, and we’ll take care of it for you. If you need any more details, just let me know!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Thank you for your help. I look for something else now.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You’re very welcome! Take your time, and if you need anything else, just let me know. Happy shopping!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I appreciate you explaining the policy.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "My pleasure at all! I’m glad I could help. If you have any more questions at any point, just let me know."
+    }
+  ]
+}

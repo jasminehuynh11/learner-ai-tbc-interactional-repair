@@ -1,0 +1,270 @@
+{
+  "student_id": 50,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S50_W1_T1",
+  "source_file": "data\\raw\\#50\\#50\\#50. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I would like to order something for coffee.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! What kind of coffee would you like to order today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“It is my first time at this cafe, so what do you recommend today?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sure! I'd say our most popular choice is a cappuccino—it's got a nice balance of coffee and foam. Now, do you prefer something more on the sweet side or just a classic taste?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Um, actually, is anything caffeine-free?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! We do have decaf options as well, so you can get a decaf cappuccino or even a nice herbal tea if you like. Would you prefer a decaf coffee or maybe a tea instead?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Aww.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "All right! So if you're leaning toward a decaf coffee, we can do a decaf cappuccino or a decaf latte. Now, would you like any flavoring or just keep it plain?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I want the cappuccino for large size.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it! A decaf cappuccino in a large size coming up. Now, would you like that with any kind of milk, like regular, almond, or oat?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“What's your most popular?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I'd say our most popular pick is probably oat milk—it gives a nice creamy flavor. So does that sound good for your decaf cappuccino?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Um, I want that”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure! Oat milk it is. We'll make that a large decaf cappuccino with oat milk. Now, would you like anything to eat with that, or just the drink today?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Thank you for joining us today.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "All right, just the drink it is. I'll get that ready for you. Anything else you need or any other questions while you're here?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“How long I wait.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "It should just be a couple of minutes, so not long at all. Just hang tight, and we'll have it right up for you."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, I will take a seat now.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure! Feel free to grab a seat and relax. We'll call you as soon as it's ready."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Thank you. Can I grab any seat inside?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, any seat you like inside is fine. Just make yourself comfortable, and we'll take care of the rest."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Excuse me, can I grab any blanket?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure! We actually have a few blankets by the corner over there if you'd like to borrow one. Just help yourself and get cozy."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I will wait.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course! Just make"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“On my site. Thanks.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You got it! Enjoy your seat and I'll let you know when your drink is ready."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Is there a student discount?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely! We do offer a student discount, so just show us your student ID when you come up to pay, and we'll apply it for you."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Oh, I don't have my ID card today. What can I do?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure, no worries. If you don't have it today, that's totally fine. Just let us know next time and bring it along, and we'll give you the discount then."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Oh, thanks a lot!”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course, you're very welcome! Just let me know if you need anything else, and I'll be around."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Could I change for iced cappuccino?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely! We can switch that to an iced cappuccino for you, no problem at all. Anything else you want to tweak?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Exactly, iced decaf cappuccino, right?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Exactly, you got it. We'll do an iced decaf cappuccino for you. I'll get that going, and you just relax."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Thank you very much. I will wait over there.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sure thing! Just go ahead and make yourself comfortable, and we'll have it ready in no time."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“What kind of beans do you use for your espresso?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Sure! We actually use a medium roast blend that has a nice smooth flavor, so it's not too bitter. And you'll definitely taste it in that iced cappuccino."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“What flavor do you like?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Well, personally, I kind of like a little vanilla in there because it adds a nice sweetness. But of course, it's totally up to you. Just let me know if you want to add anything like that."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Actually, I want Brazil.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely, we can do a Brazil roast for you. That's got a nice smooth taste as well. So we'll switch it to that and we'll get it ready."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Is that ready for me?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that for you. We'll use that Brazil roast and have your iced decaf cappuccino ready in just a bit."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Is there a take-away discount?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Sure, we do offer a small discount if you're taking it to go instead of dining in. So just let us know at the register and we'll apply that for you."
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“I appreciate your help. Have a great day!”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "You're very welcome! Enjoy your day too, and just let me know if you need anything else. 양식의 맨 위 양식의 맨 아래"
+    }
+  ]
+}

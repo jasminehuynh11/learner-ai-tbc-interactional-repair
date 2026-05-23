@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S23_W1_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner used 'lucid' instead of 'receipt'",
+    "evidence_summary": "The learner uses 'lucid' instead of 'receipt' in turn 5, which is a vocabulary error. The bot implicitly repairs this by explaining the importance of the receipt in turn 6, and the conversation continues smoothly, indicating successful understanding."
+  }
+]

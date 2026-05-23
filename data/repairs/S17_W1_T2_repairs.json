@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S17_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      26,
+      27
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of 'croissant' as 'convalescent'",
+    "evidence_summary": "The learner attempts to order a 'croissant' but says 'convalescent' instead. The bot correctly interprets this as 'croissant' and confirms the order, resolving the issue."
+  },
+  {
+    "dialogue_id": "S17_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      37,
+      38
+    ],
+    "initiation": "LI",
+    "resolution": "U-A",
+    "trigger": "pronunciation/ASR – misrecognition of learner's name",
+    "evidence_summary": "The bot misrecognizes the learner's name 'Leota' as 'Layota'. The learner does not address the misrecognition and continues the conversation, indicating the issue was not critical and was abandoned."
+  }
+]

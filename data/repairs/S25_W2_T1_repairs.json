@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S25_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      13,
+      14
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "pronunciation/ASR – learner's name misrecognized",
+    "evidence_summary": "The bot misrecognizes the learner's name 'Ayi' as 'Ai'. The learner does not attempt to correct the bot and instead moves on to ask a question, indicating the issue was not explicitly addressed. The conversation continues without resolving the name misrecognition."
+  },
+  {
+    "dialogue_id": "S25_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "vocabulary – learner's phrase 'code' misunderstood as 'cold'",
+    "evidence_summary": "The learner's phrase 'he have a code?' is misunderstood by the bot as 'cold'. The learner does not clarify or correct the bot's interpretation, and the conversation continues without addressing the misunderstanding, indicating unresolved communication trouble."
+  }
+]

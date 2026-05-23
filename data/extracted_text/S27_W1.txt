@@ -1,0 +1,116 @@
+Language Tasks week1
+Task 1: 
+ME: Ordering coffee at a café:
+I want to practise how to order coffee at a café. You are a barista working in a
+café in Tasmania . I’ll play the role of a customer. Please create a realistic café
+scenario and respond as if we were really there. Ask me about my preferences,
+help me choose from the menu, and explain different coffee options. Keep the
+conversation going naturally by asking at least 3 follow-up questions about size,
+milk, and payment. Help me practise using more natural vocabulary and expressions. You can ask follow-up questions or suggest more appropriate words if something sounds less natural. Suggest better ways to describe the problem if I use vague or basic words. Help me practise conversation flow and fluency. You can support me if I make mistakes. Thank you.
+
+GPT: Sure! Morning — welcome in out of the Tassie breeze. What kind of coffee would you like to start with today?
+
+ME: Hi, I want to practice how to order coffee at a coffee shop. You are a brave staff working in the coffee in Tasmania. I will play the role of a customer. So, let's start it.
+
+GPT: Absolutely, that sounds great! A flat white is a fantastic choice. Would you like that in a small, medium, or large size? And also, do you prefer any particular type of milk, like full cream, skim, or maybe a plant-based milk?
+
+ME: Could I please get a cappuccino with oat milk.
+
+GPT: Got it, a medium flat white with oat milk, that sounds delicious! And how would you like to pay today? We accept card, cash, or even contactless payment.
+
+ME: Now I will play by cash, please.
+
+GPT: Absolutely, no worries at all! So, just to confirm, we've got a medium flat white with oat milk. I'll get that ready for you. Is there anything else I can help you with while you wait?
+
+ME: Well, I'm wondering, what's your most popular drink?
+
+GPT: Oh, great question! Our flat white is definitely a favorite, but we also get a lot of love for our cappuccinos and our cold brews. If you’re ever curious to try something different, I’m happy to make a recommendation!
+
+ME: I'm interested in trying something new today, so could you give me a piece of chocolate cake? I think it would taste, like, wonderful if I have chocolate cake with my cappuccino.
+
+GPT: Absolutely, that sounds delicious! We do have a lovely chocolate cake that pairs perfectly with coffee. I’ll add a slice to your order, and you’ll have a wonderful treat along with your flat white. Sounds good?
+
+ME: yes, thank you. Would you give me some fun facts about the coffee or beans, like what's the difference between a flat white and a latte?
+
+GPT: Of course, I'd be happy to! So, for a flat white, we typically use a double shot of espresso and steamed milk with a velvety microfoam. It’s quite smooth and balanced. If you’re curious about any other coffee types or how we prepare them, I’m more than happy to explain!
+
+ME: Yeah, I think that's enough. Thank you.
+
+GPT: No worries at all! I’m always here if you have more questions. For now, I’ll get everything ready for you, and I hope you enjoy your coffee and chocolate cake!
+
+
+TASK 2:
+
+🍽️ Booking a table at a restaurant 🗨️ “Hi, I’d like to book a table for two tonight.”
+
+GPT: Sure! What time would you like the table for tonight?
+
+ME: Well, I want to book a table at a restaurant. I want to book from 1 p.m. to 4 p.m.
+
+GPT:Absolutely! Do you have any specific dietary preferences or favorite dishes that you’d like us to keep in mind?
+
+ME: I have four friends. One is vegan and one can't eat any peanuts because she is allergic to it.
+
+GPT:Got it, that’s really helpful to know! We’ll make sure to have vegan options available and keep everything peanut-free for your friend. Is there anything else we should consider for the group?
+
+ME: Please sit near the windows if possible.
+
+GPT: Absolutely, I’ll make sure to arrange a window seat for you all. Anything else you’d like to add to the reservation?
+
+ME: I'm booking for my friend's birthday because my friend is like having a birthday and we could like celebrate together with Christmas and could we bring our own cake for the celebrations?
+
+GPT: That sounds wonderful! We can definitely note the birthday celebration for your friend. And yes, you’re welcome to bring your own cake. Is there anything else we can do to make it extra special?
+
+ME: Do you have the confirmation message for this one?
+
+GPT: Of course! I’ll send you a confirmation message with all the details shortly. Is there a preferred contact method for that confirmation?
+
+ME: I'm looking forward to it. Well, do the kitchen close earlier or could we still order desserts if we stay after 4pm?
+
+GPT: That’s definitely something we can check on! Typically, the kitchen stays open for orders until a bit later, but I’ll make sure to confirm that for you.
+
+ME: Thank you very much!
+
+GPT: Alright, sounds good! Have a wonderful day, and I’ll see you soon!
+
+
+Task 3: 
+ME: I want to, like, practice my English speaking with you, so could you help me to, like, practice to how to exchange a thing, a product, on a clothing. And I will be the customer, and you will be the, like, staff.
+
+GPT: That sounds perfect! Whenever you’re ready, you can start by letting me know what item you’d like to exchange, and we’ll go from there.
+
+ME: I want to exchange the shoes which bought it last week. It didn't fit my shoulders, so I want to exchange it for a larger size.
+
+GPT: I understand! That’s no problem at all. Could you let me know the original size and the new size you’d like to exchange it for?
+
+ME: Well, the original size is 7, so I want to, like, a larger one is size 9 or size 10.
+
+GPT: That makes sense! We can definitely help with that. Do you have the receipt or the original packaging with you?
+
+ME: As I have the receipt and I keep the original packaging, I already bring these things to here.
+
+GPT: Perfect, that’s great! That’ll make the exchange process smooth. Is there anything else I can help you with, or any other details you’d like to share about the exchange?
+
+ME: the clothes didn't have the larger size, then I will offer the similar things that have same price.
+
+GPT: Absolutely, we’ll definitely find something similar for you. Let me know if you have any particular preferences in terms of color or style, and we’ll make sure to find the right fit!
+
+ME: So, how many days do I have to return an item
+
+GPT: Great question! Typically, our return policy allows returns within 30 days of purchase. If you have any issues, just let us know, and we’ll help you out!
+
+ME: Thanks, let me know. I also switch it for a different color.
+
+GPT: Of course, that’s totally fine! We can definitely help you with a color exchange as well. Just let me know which color you’d prefer, and we’ll make it happen!
+
+ME: I want to the blue one, please.
+
+GPT: Absolutely, we can do that! We’ll find that blue one for you right away. Is there anything else I can assist you with while we’re at it?
+
+ME: If I buy a shoe as a gift, and could the person return it without a receipt?
+
+GPT: That’s a great question! Generally, we do require a receipt for returns, but we can sometimes look up the purchase if we have the original payment method. Feel free to bring it in, and we’ll see what we can do!
+
+ME: Oh, that's perfect. Thank you very much.
+
+GPT: You’re very welcome! It’s my pleasure to help. If you need anything else, just let me know.

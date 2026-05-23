@@ -1,0 +1,120 @@
+{
+  "student_id": 45,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S45_W4_T2",
+  "source_file": "data\\raw\\#45\\#45. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "It's the school's presentation. Next week, we should have the speech in front of other people, of our classmates"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Got it. What’s the topic of your group presentation?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Maybe about healthcare in different countries and what type do you have responsibility for?"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Interesting topic! So, do you mean comparing how healthcare systems work in different countries? Which country are you planning to talk about?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Maybe we can talk about Pakistan or Japan, which is better. I think Japan is a developed country and Pakistan is a traditional developing country. They have different country situation."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That’s a good contrast — it’ll make your presentation more interesting. Which part of the healthcare systems do you want to focus on — like cost, accessibility, or quality of care?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Maybe we can talk about both of them, and I don't know which part can show the quality of a country's healthcare, maybe life expectancy, or others, I don't know."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Exactly, life expectancy is a good indicator. You could also look at infant mortality rate, number of doctors per person, and how much the government spends on healthcare. Would you like to include some personal opinions too, or just statistics?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Yes, we better have a survey to collect personal opinions. And who will do the slide and who will complete our presentation's writing?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Good idea. Surveys make it more engaging. How many people are in your group, and do you already know what each person is good at — like design, writing, or speaking?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "I don't know, but I prefer to make the introduction or give the conclusion. I think it's better for me because I can't remember the concrete data."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That makes sense — introduction and conclusion need clear speaking, not too many numbers. Would you feel more comfortable opening the presentation or giving the final summary?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I feel comfortable if you give this task for me."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect! You can take the conclusion part then — it’s a great way to end strongly. Would you like some help writing what to say for your conclusion?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I can do it by myself, and our deadline is next week Sunday, so maybe we should finish before next week Wednesday and have a meeting to exchange our opinions. If you have some problems, you can ask me on the Teams and send the message. When I see it, I will reply you quickly."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sounds like a solid plan! Meeting before Wednesday gives everyone time to adjust things. What time on Wednesday do you think is best for the group meeting?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Maybe at noon is a perfect time, we can have a lunch together. Which lunch you want to eat? Chinese or Korean or other?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Nice idea! Lunch makes meetings more fun. I think Korean sounds great — maybe some bibimbap or kimchi stew. What about you?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "I'm okay for both of type. You can choose and tell me which restaurant you choose."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, let’s go with a Korean place then. There’s a cozy one near campus called “Seoul Garden.” How about meeting there at 12 p.m. on Wednesday?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "OK, see you next time."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Great! See you on Wednesday at Seoul Garden. Take care till then!"
+    }
+  ]
+}

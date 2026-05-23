@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S34_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      43,
+      44
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand 'SMS'",
+    "evidence_summary": "The learner asks for clarification on 'e-su-mu-su' in turn 43, indicating a lack of understanding of the term 'SMS'. The bot explains that SMS stands for Short Message Service in turn 44, resolving the learner's confusion."
+  }
+]

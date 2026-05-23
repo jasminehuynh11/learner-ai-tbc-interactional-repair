@@ -1,0 +1,225 @@
+{
+  "student_id": 37,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S37_W2_T2",
+  "source_file": "data\\raw\\#37\\#37\\#37. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an issue at a rental property ️ “Hi, I'd like to report a damage at my rental"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "property.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, I can help with that. What kind of damage are you seeing in the property?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I see imputation in the bathroom and the floor. Not good smell."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright. Sounds like you mean there’s some kind of stain or damp area in the bathroom and on the floor, and there’s a bad smell too. Could you tell me exactly where the damage is—inside the bathroom, around the toilet, shower, or somewhere else?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Yes, I say it's heavy. I'm full patient in the bathroom, and now the water outside in my bedroom, then the carpet in the floor, it's mold and not a good smell. Maybe, I think so, it's the shower."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, I understand — sounds like you’ve got a serious leak spreading from the bathroom into the bedroom, and now the carpet is getting moldy. Thanks for explaining that. To help urgently: Is the water still leaking right now, or has it stopped?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Always licking, still licking, when I take a shower, then no stop it."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, so the leak keeps going whenever you shower and doesn’t fully stop after. That helps a lot. When did you first notice this problem starting?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "1 week ago I realized"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, thanks — about one week ago. That gives us a timeline. To arrange repairs quickly, can you tell me which days or times someone can enter the property to check the leak?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yes, in the morning I never stay in the house because I study in the morning, but afternoon, after 1.50 p.m. I stay in my house, then you can went all the time."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, afternoons after  p.m. work well — thanks for that. To schedule the repair team, what’s the full address of the property?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes is in the 1/55 Kirra shop"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Alright, thanks. I’ve got 1/55 Kirra…, but I need the full street name and suburb to make sure the repair team goes to the right place. What’s the complete address?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Unit 10"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, Unit 10 — got it. I still need the street name and the suburb to complete the address. What’s the street name where the property is located?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Luci"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, thanks — Luci for the street name. I just need one more detail for the address. What’s the suburb of the property?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Suburb 5"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright — sounds like you might mean something else by “Suburb 5.” I just need the name of the suburb, like “Kirra”, “Coolangatta”, “Burleigh”, etc. What is the suburb called?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Kirra"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Alright, thanks — Kirra. Now the address is almost complete. To finish the report, what’s your best phone number in case the repair team needs to contact you before they arrive?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "0435661789"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright, thanks for the number. Just one last thing for the repair request — what name should the technicians ask for when they arrive?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Vic"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Alright, Vic — thanks. Would you like me to lodge the repair request now with all these details?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Yes"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Alright, I’ll get that lodged for you now. Afternoon access after  p.m. is noted, Vic. If you need anything else, just let me know."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Thanks! You can tell me the name the people came here?"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Sure, Vic. I can check that for you. Are you asking for the name of the repair company or the individual technician who will come?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Yes"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Alright — just to be clear, Vic, you said “yes,” but I need to know which one you mean. Are you asking for the company name or the technician’s name?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Technicians name"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Alright, Vic. The technician assigned is Mark Delaney. How would you like Mark to contact you before he arrives — by call or SMS?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Call please"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Alright, I’ll let Mark know to call you before he arrives. Is there anything he should know about access, like a gate code or where to park?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Yes, he can park behind for my house and inside for the garage"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Alright, got it — he can park behind your house and inside the garage. Is there anything else Mark should be careful about when he enters, like pets or a tricky door lock?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "No"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Alright, no worries. I’ll pass that on. Take care, Vic, and have a good day."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Thanks have a good day"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Alright, thanks Vic. Have a good day too."
+    }
+  ]
+}

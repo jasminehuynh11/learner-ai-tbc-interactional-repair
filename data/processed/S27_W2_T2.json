@@ -1,0 +1,110 @@
+{
+  "student_id": 27,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S27_W2_T2",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to improve my speaking skills. I will need to define the chatbot’s role, such as a bank staff member or a customer service officer. Could you please create a realistic and authentic conversation scenario about visiting a bank and asking for help with banking services, and respond as if it were a real conversation?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’d like to open a new savings account."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Good morning! I'd be happy to assist you with that. Do you already have an account with us, or would this be your first one?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "This will be my first account with your bank. I'm a student, and I’d like to start saving while I study."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Wonderful, thank you for letting me know. For students, we have a special Student Savings Account which has no monthly fees and gives you easy access to your funds. It also includes free online and mobile banking. Would you like to learn more about this option?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Yes, please. Is this account only for full-time students? And could I set up online banking at the same time?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great questions. The Student Savings Account is available to both full-time and part-time students. And you can set up online banking during your appointment today. We'll help you register and show you how to use our app."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "That’s good to know. What kind of documents do I need to bring along?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "To open the account, we’ll need a form of photo ID — such as a passport or driver’s licence — and proof of your current address, like a recent utility bill or student accommodation letter. If you're under 18, we may also require a parent or guardian to co-sign."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Thanks. Just to confirm — do I need proof of enrollment as well? And is it okay if I don’t have a job?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Yes, proof of enrollment helps us verify your student status, so it's best to bring that too. And don’t worry — you don’t need to be employed to open this type of account. There are no income requirements for the Student Savings Account."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Great! Could I make an appointment, or could I come in anytime today?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "We do accept walk-ins, but it's best to book an appointment to ensure we have enough time to help you fully. Would this afternoon work for you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes,  works for me."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Excellent. I’ll go ahead and book you in for  p.m. this afternoon at our main branch."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes please, and could I ask what should I do if I forget my password when setting up online banking?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That's a good question. During the setup, we’ll guide you step-by-step, and you’ll choose a secure password that you’ll record in your welcome pack. We’ll explain all the recovery options during your appointment."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "That’s helpful. Thanks for being so thorough."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "You’re most welcome! We’ll see you at  this afternoon. Please let us know if anything changes."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "All right, thanks again. See you!"
+    }
+  ]
+}

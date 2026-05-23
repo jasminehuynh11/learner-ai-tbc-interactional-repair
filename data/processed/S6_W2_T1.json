@@ -1,0 +1,170 @@
+{
+  "student_id": 6,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S6_W2_T1",
+  "source_file": "data\\raw\\#06\\#06\\#6. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a Doctor’s Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello… I have appointment with doctor. But I think I need change."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Okay, I can help you with that. Let me just check first — do you already have an appointment booked with us?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Yes. I booked yesterday. Today afternoon."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright. So you have an appointment scheduled for this afternoon. Can you tell me what time the appointment is?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "It is… three thirty."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Okay, thank you. And you’d like to change this appointment to a different time, is that right?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Yes. Because I have class. I forgot about class before."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "I understand. No problem. We can look at other available times for you. Would you like to move it to later today, or to another day?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Um… maybe tomorrow. Morning is better."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, let me check tomorrow morning for you. We have an appointment available at  a.m. and another one at  a.m. Which time would you prefer?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "9… Sorry, 9 in morning?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, 9 a.m. in the morning."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Okay. 9 a.m. is good."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great. I can move your appointment to tomorrow at 9 a.m. Before I do that, I just need to confirm a few details. Is this still for the same problem you mentioned before?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes. Still headache. But it is little better now."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Okay, thank you for letting me know. And just to check, do you have a Medicare card, or will this be a private appointment?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Medicare… I think no. I am international student."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, that’s fine. In that case, it will remain a private appointment, and the consultation fee will stay the same. Do you remember the fee we discussed?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "It was… Eighty? Or eighteen? I’m not sure."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "It’s eighty dollars — eight zero — dollars."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Okay. Eighty dollars. Same price."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, that’s correct. Now, I’ll cancel today’s appointment and rebook you for tomorrow at 9 a.m. Please make sure you arrive about ten minutes early."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Ten minutes early… So ?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, exactly.  would be perfect."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Okay. I understand now."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Just to confirm, your appointment is now booked for tomorrow morning at 9 a.m. Is there anything else you’d like to ask or change?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Um… If I feel better, can I cancel again?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Yes, you can cancel, but please let us know at least two hours before the appointment."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Two hours… before? Okay. I will call if I need."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That’s great. Thank you for letting us know. We’ll see you tomorrow morning."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Okay. Thank you very much."
+    }
+  ]
+}

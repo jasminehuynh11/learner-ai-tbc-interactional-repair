@@ -1,0 +1,180 @@
+{
+  "student_id": 37,
+  "week": 2,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S37_W2_T1",
+  "source_file": "data\\raw\\#37\\#37\\#37. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking or Changing a medical appointment ️ “Hi, I’d like to make an appointment to"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "see a doctor.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright. What’s the reason for your visit today so I can book you with the right doctor?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I have a pain. A pain in my leg."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, leg pain — got it. When did the pain start?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "This pain started one week ago."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Okay, one week ago — thanks. How would you describe the pain now: is it mild, moderate, or quite strong?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "My pain died when I, uh, drove my... ...joelho?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, I think you mean the pain got worse when you moved/bent your knee — “joelho” is “knee.” How strong is the pain now: mild, moderate, or strong?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Yes, I used to say this then. Maybe all the time I drove my knee, I feeling the pain."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, I understand — the pain comes every time you bend or move your knee. To book you with the right doctor, how strong does the pain feel right now: mild, moderate, or strong?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "So strong vent, I need... I need some... The... Doctor."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, it sounds like the pain is strong. When would you like to come in for the appointment — which day works best for you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "I can go Wednesday, 14th December, 1pm."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure, Wednesday the 14th at 1pm is available. Could I take your full name for the booking?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes, my name is Vic Lemmis."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, thank you, Vic Lemmis. Could I have a contact phone number for the appointment? Yes is 435678980"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, thanks for the number. Could I have your date of birth, please?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "05/05/2003"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, thanks for that. Do you have a preferred doctor you’d like to see, or is any doctor okay?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Any doctor is good"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, any doctor is fine. Do you have a Medicare or insurance number you’d like us to add to the booking?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Yes, I have, 5678943"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Alright, I’ve added that number. Is this your first visit to our clinic?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Yes, my first"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Alright, since it’s your first visit, do you have any medical allergies we should note in your file?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "No, I don’t"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Alright, thanks for confirming that. Would you like an SMS reminder for your appointment?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Yes"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Alright, SMS reminder is set. Is there anything else you’d like the doctor to know before your appointment?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "I think no"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Alright, everything’s set for your appointment. Would you like directions to the clinic for Wednesday?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Yes"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Alright. We’re on Main Street, just opposite the big post office — you’ll see a blue sign that says Riverside Medical Clinic. Would you like parking information as well?"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S41_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner unsure about technician visit",
+    "evidence_summary": "The learner expresses uncertainty about whether a technician will come to their apartment. The bot clarifies that a technician can be arranged, resolving the learner's uncertainty."
+  },
+  {
+    "dialogue_id": "S41_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner asks about technician arrival time",
+    "evidence_summary": "The learner asks what time the technician will come. The bot clarifies that the learner needs to provide a convenient time for scheduling, resolving the misunderstanding."
+  }
+]

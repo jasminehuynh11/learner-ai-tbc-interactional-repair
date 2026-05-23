@@ -1,0 +1,220 @@
+{
+  "student_id": 26,
+  "week": 4,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S26_W4_T2",
+  "source_file": "data\\raw\\#26\\#26\\#26. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, Good Morning.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Good morning! How are you today? Is there anything I can help you with?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Today, we are going to talk about a small project, and your role here is project group member.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it! I’ll be a project group member then. Let's dive into the details of the project. What specific part of the project would you like to start with?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, we need to do assignment for this project. We need to make a prepare for plan for a project establishment. So...”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, that sounds good! To get started on that plan, could you tell me what the main goal or objective of this project is?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, we have just started our group project. Can you plan the task together?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, I'd love to help with that! Let's break it down into tasks. Could you share what the main deliverables or milestones are that we need to achieve?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Our assignment is due next week. Can we decide who will do each part?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! Let's list out the tasks that need to be done, and then we can assign them. What are some of the key tasks you have in mind?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“We need to choose the presentation order. What do we think works best? Hello, let's talk about how to divide the research and writing section fairly.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure thing! We can definitely split the research and writing evenly. How about we start by identifying the main topics we need to cover, and then we can decide who will handle each part? Sound good?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I think we should set our deadline today. Can we agree on who does what?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, let's do that! We can set a clear deadline for each part. Could you let me know which tasks you'd prefer to take on, and then we can fill in the rest?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I want to do introduction part and what about review section”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Great! I'll handle the review section then. That way we have the introduction covered by you and the review covered by me. Does that sound like a plan?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I will also cover methodology and I think you need to cover result section as well as discussion section.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Perfect! That works out nicely. So you'll take the introduction and the methodology, and I'll handle the results and discussion. I think we've got a solid plan in place! Let me know if there's anything else we need to sort out."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“What about conclusion?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Got it! I'll take on the conclusion as well, then. That should round everything out nicely. I think we're all set! Let me know if there's anything else you need."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“in what you do in result section.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "In the results section, I’ll summarize our findings and present the data clearly, using charts or tables if needed. Then, I’ll make sure to highlight the key takeaways. If you have any specific points you want to emphasize, just let me know!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I think we should present first, so we have more time to write.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That sounds like a great idea! That way, we can have extra time to refine our writing after the presentation. Let's plan accordingly, and we should be all set!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“who wants to do the writing part.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "I’d be happy to take on the writing part! That way, you can focus on the other tasks you’ve got. Does that sound good to you?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Can I take notes while someone is present?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, that's a great idea! Taking notes during the presentation will help us keep track of all the important points and make the writing process even smoother afterward."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“If someone can't meet the deadline, how should we handle that?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "That's a great question. I think the best approach is to communicate early and see if they need any support or an extension. We can always adjust the plan if needed and make sure everyone is comfortable and on track."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“So do check in every few days to stay on track.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, regular check-ins are a fantastic way to ensure everyone's on the same page and that no one feels overwhelmed. We can set a schedule and keep each other updated. It should help everything run smoothly!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Do you think we need a shared document to manage tasks?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "I think a shared document would be really helpful! It keeps everything organized in one place and makes it easy for everyone to see updates and progress. Let's definitely set that up!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“How do we make sure everyone is doing their part fairly?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "One great way is to have those regular check-ins and also to keep the shared document updated with progress. We can assign clear responsibilities and have everyone confirm when they're done. That way, we can all stay accountable and on track."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Oh, I feel very difficult to make introduction part. Can you help me?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Of course, I'd be happy to help! We can start by outlining the key points you want to cover in the introduction, and then we can draft it together. Just let me know what specific parts you find challenging, and we'll tackle them step by step!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“I think I write too much, how can we cut this?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "One good approach is to focus on the main ideas and keep each sentence concise and to the point. We can always trim any extra details later. I'd be glad to help you streamline it so that it's clear and impactful!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm always here to help, so just let me know whenever you need a hand."
+    }
+  ]
+}

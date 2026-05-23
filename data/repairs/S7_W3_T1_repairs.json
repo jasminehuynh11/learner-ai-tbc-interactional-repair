@@ -1,0 +1,65 @@
+[
+  {
+    "dialogue_id": "S7_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner provides unclear information",
+    "evidence_summary": "The learner provides an unclear address 'curly mark 1342' in turn 6. The bot does not address this potential misrecognition and continues the conversation, indicating it either understood or chose to ignore the unclear information."
+  },
+  {
+    "dialogue_id": "S7_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially states 'I'm using Aleutia' in turn 8, which the bot interprets as a device. In turn 10, the learner self-corrects to clarify they are using a 'router'. The bot acknowledges this correction in turn 11, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S7_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner's request for technician misunderstood",
+    "evidence_summary": "The learner's request in turn 12 is unclear ('No, that color isn't right. Could you send me some technicians available?'). The bot interprets this as a request for a technician and responds appropriately in turn 13, resolving the issue."
+  },
+  {
+    "dialogue_id": "S7_W3_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      14,
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "task misunderstanding – unclear about troubleshooting steps",
+    "evidence_summary": "The learner asks about troubleshooting steps in turn 14. The bot suggests a step in turn 15, but the learner reports in turn 16 that it did not resolve the issue and requests further assistance, indicating the problem remains unresolved."
+  },
+  {
+    "dialogue_id": "S7_W3_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      26,
+      27
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner's incomplete service plan description",
+    "evidence_summary": "The learner's response in turn 26 is incomplete ('For one person's health, I chose'). The bot interprets this as the 'individual home plan' in turn 27, which the learner does not contest, indicating resolution."
+  }
+]

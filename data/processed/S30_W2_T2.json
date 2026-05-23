@@ -1,0 +1,110 @@
+{
+  "student_id": 30,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S30_W2_T2",
+  "source_file": "data\\raw\\#30\\#30\\#30. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello, how are you? Can you help me?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes, so I would like to open a new savings account.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Do I need an appointment or can I come in today?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“In this bunk,”"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“All I'm sorry chatting is the conversation.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“For practice my English so you can help me. Can you help me?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“So, it's a conversation about OpenNeoSaves account, okay?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, so start now.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“So, I would like to open a MuleSaves account. Can you help me?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“So, what ID do I need to rank?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Oh, perfect. And can I open in a code tweet without a job beat?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Oh, perfect. Do you offer debt cards with this?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Perfect! So, I want to open a new account now.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Here, my documents, it's here, so...”"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Oh, perfect. Thank you for opening my account. One question...”"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yes, will I get confirmation it's update?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Oh, perfect. So, thank you so much. I think that's it.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Thank you so much.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“You too, bye-bye!”"
+    }
+  ]
+}

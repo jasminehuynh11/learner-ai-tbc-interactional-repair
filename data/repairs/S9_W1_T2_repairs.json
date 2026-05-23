@@ -1,0 +1,101 @@
+[
+  {
+    "dialogue_id": "S9_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner's phrase 'And then we cast the outdoor setting' in turn 6 is unclear. The bot interprets this as a request for outdoor seating in turn 7, and the conversation continues smoothly, indicating successful understanding."
+  },
+  {
+    "dialogue_id": "S9_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      16,
+      17
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'character for this elaboration'",
+    "evidence_summary": "The learner asks about bringing 'our own character for this elaboration' in turn 16, which is unclear. The bot interprets this as bringing a cake in turn 17, and the conversation continues without issue, indicating resolution."
+  },
+  {
+    "dialogue_id": "S9_W1_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      28,
+      29
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "vocabulary – did not understand 'convolution'",
+    "evidence_summary": "The learner asks 'What is a convolution?' in turn 28, but the bot does not address this question and continues discussing dessert options in turn 29. The learner's confusion about 'convolution' persists as it remains unaddressed."
+  },
+  {
+    "dialogue_id": "S9_W1_T2",
+    "repair_id": 4,
+    "turn_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'flexible if we are live 50 minutes late'",
+    "evidence_summary": "The learner's question in turn 44 about being 'live 50 minutes late' is unclear. The bot responds with a clarification about being 15 minutes late in turn 45. The learner asks for repetition due to noise in turn 46, and the bot repeats the information in turn 47, resolving the issue."
+  },
+  {
+    "dialogue_id": "S9_W1_T2",
+    "repair_id": 5,
+    "turn_indices": [
+      48,
+      49,
+      50
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'heads-up'",
+    "evidence_summary": "The learner asks 'What is it? How does it know?' in turn 48, showing confusion about the term 'heads-up'. The bot explains in turn 49, and the learner acknowledges understanding in turn 50, resolving the issue."
+  },
+  {
+    "dialogue_id": "S9_W1_T2",
+    "repair_id": 6,
+    "turn_indices": [
+      75,
+      76
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand '3-tangent tube'",
+    "evidence_summary": "The learner asks about '3-tangent tube' in turn 75, which is unclear. The bot clarifies the dessert options in turn 76, and the conversation continues smoothly, indicating resolution."
+  },
+  {
+    "dialogue_id": "S9_W1_T2",
+    "repair_id": 7,
+    "turn_indices": [
+      89,
+      90
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner corrects their previous order in turn 89, acknowledging a mistake. The bot confirms the corrected order in turn 90, resolving the issue."
+  },
+  {
+    "dialogue_id": "S9_W1_T2",
+    "repair_id": 8,
+    "turn_indices": [
+      97,
+      98
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'no time'",
+    "evidence_summary": "The learner expresses confusion about 'no time' in turn 97. The bot clarifies the meaning in turn 98, and the conversation continues smoothly, indicating resolution."
+  }
+]

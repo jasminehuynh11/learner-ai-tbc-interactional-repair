@@ -1,0 +1,290 @@
+{
+  "student_id": 19,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S19_W2_T2",
+  "source_file": "data\\raw\\#19\\#19\\#19. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Bank and Asking for Help with Banking Services Scenario: You are visiting a local bank branch or calling customer service to request help with everyday banking services. You may need to open a new account, update your details, or ask about specific features such as online banking or international transfers. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a bank staff or customer service officer. You can choose situations from the examples below; start with a simple request and try a more detailed interaction by asking about documents, account features, or banking procedures. Learning objectives: • Request banking services using polite and formal language. • Ask follow-up questions about procedures or required documents. • Clarify account types and service options. • Practise conversation strategies in professional situations. • Build confidence when interacting with financial service providers. • (Advanced option) Manage more complex banking scenarios involving problem-solving, policies, or service conditions. Instructions: Try to: • Explain what kind of help you need. • Ask at least two follow-up questions about documents or the process. • Confirm next steps and key details. • Finish the conversation clearly and politely. • (Advanced option) Use the extension prompts below to have a longer conversation"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Certainly. Welcome to the bank—how can I help you today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to open a new savings account.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely. Let's get that started for you. Is this savings account going to be just for yourself, or will it be a joint account with someone else?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Just savings account.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, just for yourself then. Now, we'll need to go over a couple of things. Could you let me know if you have any form of ID with you today, like a passport or a driver's license?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Do I need an appointment, or can I come in today?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure, you can just walk in—no appointment needed. Now, besides your ID, I'll just ask: do you already have proof of address handy, like a utility bill?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, I have. And then what types of accounts are available for students?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course! We do have special student savings accounts with some extra perks. Now, just to clarify, are you currently enrolled in a school or university so we can match you to the right account type?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Can I settle online banking at the same time?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, we can set that up as well. So once we have your account open, would you like me to walk you through how to get your online banking access started?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Sure, so what ID do I need to bring?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure! Typically, just a government-issued ID like a passport or driver's license will do. Now, once you bring that in, is there anything else you'd like to know about the account opening process?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I need to update my phone number and home address.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that at the same time. So when you come in, just let us know the new phone number or address details, and we'll update those for you. Is there any other service you'd like to ask about?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure! For certain updates like that, we can handle them over the phone after we verify your identity. So would you prefer to do the changes now, or would you like to wait until you're in the branch?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Will I get a confirmation once it’s updated?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, you'll receive a confirmation once everything's updated, either by email or a quick message. Now, is there anything else you'd like to go over before we wrap up?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“So what's the difference between these two account types?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure! The main difference is that the student account has lower fees and some extra benefits just for students. Now, is there a particular feature you're curious about or that you'd like me to explain in more detail?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Is there a monthly fee for this account?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, there is a small monthly fee for the standard account, but the student account typically has that waived. Now, would you like me to break down any other costs or fees for you?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“So, do you look for debit cards with this?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, yes. We do include a debit card with the account at no extra charge. Now, would you like to know how long it takes for that card to arrive once the account is open?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I'm not sure I have an account, so I forgot my online banking password. Can you help?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Of course! We can definitely help with that. If you’ve forgotten your password, we’ll just need to verify your identity first. After that, do you want me to walk you through how to reset it step by step?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, we can have a replacement card sent right to your new address. Now, just to confirm, do you need that card expedited, or is standard delivery fine for you?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure, standard delivery it is. Now, yes, international transfers are definitely available. Would you like me to explain how to set those up, or do you have a specific country in mind?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Oh, that's all good. Can I open a joint account with my partner?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, you can. We can open a joint account for you and your partner as well. Now, just to check, would both of you be able to come in together, or do you need to know how to add them later?"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure, that's definitely possible. We can put a temporary freeze on your card if you're traveling. Now, would you like me to explain how you can do that online, or do you prefer to handle it in person?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Of course, in that case, just let us know as soon as possible and we can help you try to reverse the transfer. Now, is there anything else on your mind that you'd like to sort out today?"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“So how do you verify identity for large transfers?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sure! For a large transfer, we usually verify by asking a couple of security questions or using a code sent to your phone. Now, is there a specific transfer amount you're thinking about, or just curious how it works?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Just curious, what happens if I lose my bank card overseas?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely, if that happens, just contact us right away and we’ll block the card for you. Now, is there anything else you’d like to double-check about handling your account while you're abroad?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Are there any limits on how much I can transfer daily?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Yes, there are daily limits on transfers for security reasons. We can always adjust them if needed. Now, would you like to know what the standard limit is, or do you have a specific amount in mind?"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“$1,000,000”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely, the standard daily limit is much lower than that, but we can discuss raising it if you need. Now, is there any other detail about these transfer limits that you'd like me to explain?"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“So I'm thinking of switching my account to another bank. How do I close my account?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Sure, closing your account is straightforward. Just let us know and we’ll guide you through the process. Now, before we wrap up, is there any last detail you’d like to ask about that process?"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Can I request a written statement showing my transaction history?"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely, you can request a recent statement anytime, and we can print it or send it digitally. Now, is there a particular time period or format you'd prefer for that statement?"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Could I move some money into a term deposit? What are the options?"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Of course! A four-month period is totally fine. And yes, we can help you move money into a term deposit as well. Now, just to clarify, do you already know how much you'd like to deposit, or would you like some advice on that?"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that in person whenever you're ready. So, is there anything else you'd like to go over before we finish up?"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“The answers are in my questions. Have a great day.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Absolutely, I'm glad I could help. Have a great day as well! Take care."
+    }
+  ]
+}

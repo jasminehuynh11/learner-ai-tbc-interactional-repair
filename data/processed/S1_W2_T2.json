@@ -1,0 +1,215 @@
+{
+  "student_id": 1,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S1_W2_T2",
+  "source_file": "data\\raw\\#1\\#1\\#1. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "VISITING A BANK"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, hello, I want to practice to visiting a local bank branch or calling customer service to request help with everyday banking service, I may need to open a new account, I would not update my details or ask about specific features such as only in banking or international transfer, because my bank in Colombia built my car, and if you can't to be a person that answer my call to the bank, yes, I play the role of customer, please create a realistic and authentic bank situation and responding and ask if this were our conversation. Okay, we can start.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! We can definitely start by talking about the kind of services you’re looking for, and then we can go through the steps of booking an appointment, as well as how to get the right information from your insurance. Let’s go step-by-step, and if you have any specific questions along the way, I’m here to help!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“okay i opening a new one account okay okay hi i like to open a new save an account”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure, I'd be happy to help with that! Let's start with a few details. Is this account for personal or business use? And then we can go from there!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Iso personal account, please.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, got it! So, to get started, I'll just need a few details like your full name, your contact information, and maybe some identification details. Once we have that, we can move on to setting up everything for you. Sound good?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, my name is Julieth Angarita, my birthday is 7th of April of 1996, and my address is Naivara Street, Paradise.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Great, thank you for sharing that information, Julieth! That definitely helps us get started. Next, we can move on to verifying your identity and then selecting the account type and any additional preferences. If you have any questions along the way, just let me know!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, um...”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "All right, perfect!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“What types of accounts are available for students?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely do that. I’ll make sure we go through all the options and find the best fit for you. And if you have any other questions or need more details at any point, just let me know, and I’m here to help!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“which documents I need to bring.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "You’ll typically need a valid photo ID, like a driver’s license or passport, and any proof of address, such as a utility bill or bank statement. If you have any specific documents related to your previous accounts, that can also be helpful. But we’ll guide you through it step by step!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Okay, can I open an account without job?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, you can! We can definitely start the process and get everything set up without needing an initial deposit. Once your account is fully established, we can always add funds later on. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, my last phone number is not good. I need to update my phone number and”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Got it, that makes"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yeah, no, it's okay.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "No worries at all! Whenever you’re ready, we can update that information and make sure everything is accurate. Just let me know if you need any assistance along the way!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, my new number is 0480722457.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Perfect, thanks for sharing that! I’ll make sure we update your contact details accordingly. If there’s anything else you need or any other information you’d like to add, just let me know, and I’m here to help!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yes, maybe do you offer debit cards with this account?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely go over that. I’ll make sure we review all the fees and charges associated with the account so you know exactly what to expect. If you have any specific questions about the costs, just let me know, and we’ll cover everything thoroughly!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Great question! Typically, the debit card comes with no initial fee, and there might be some small transaction fees depending on usage. We’ll go over all the details so you have a clear picture. And of course, if you have any other questions, I’m here to help!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah, I said that my bank blocked my credit card in Colombia. I don't know if you could help me and I don't know what is the process for telling Colombia that my card is blocked.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "I understand, and I’m happy to help with that. We can definitely look into the issue with your card and see what might be causing the block. If you can share any details or any error messages you received, we can try to figure out the best steps to resolve it. Just let me know what you need!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yes, I received a message, but I don't understand.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "No worries at all; I’m here to help you every step of the way. We can definitely go through the details together and figure it out. Just let me know any specific concerns you have, and we’ll work through them one by one!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yes, but I prefer to face-to-face because I don't like to speak here for fun about my details, my bank details.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "I completely understand, and your privacy is definitely important. We can handle everything securely and discreetly. If you prefer, we can also go over things in smaller steps or even through a more private channel. Just let me know what you’re comfortable with, and we’ll make sure everything goes smoothly."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Now it's okay, I'll follow the instructions and maybe... I don't know when I call to go to the bank.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That’s totally fine! Whenever you’re ready, you can just reach out, and we can schedule the best time for you. In the meantime, if you have any questions or need any assistance, I’m always here to help. Just let me know whenever it’s convenient for you!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yes, what is the schedule for the BANK?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, we can start by gathering a bit of basic information and then choose a convenient time that works best for you. From there, we can go over any specific needs or preferences you have. And of course, I’m here to help with any questions that pop up along the way!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Okay, now eat that Anguirus, that Anguirus costumes have a great day.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Thank you so much! I really appreciate that, and I’m always here if you need anything in the future. Have a wonderful day, and take care!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Goodbye! Take care, and have a great day!"
+    }
+  ]
+}

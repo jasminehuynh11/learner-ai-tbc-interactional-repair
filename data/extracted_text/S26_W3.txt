@@ -1,0 +1,466 @@
+TASK 1: 
+You said: 
+“Hello, good morning.”
+00:01
+English Conversational Partner said:
+Good morning! How can I help you today? Are we still talking about the rental property issue, or is there something else on your mind?
+You said:
+“No, I am talking about internet issue today. Your role is internet owner and you are a repair company. So, I would like to ask about my program related to internet in my housing.”
+00:20
+English Conversational Partner said:
+Got it! I'm here to help with your internet issue. Could you let me know what specific problem you're experiencing right now?
+You said:
+“My internet has stopped working from today, what can I do?”
+00:05
+English Conversational Partner said:
+Oh, that's frustrating! Let's get it sorted out. First, have you tried restarting your router or modem?
+You said:
+“There is no signal.”
+00:01
+English Conversational Partner said:
+Got it, no signal
+You said:
+“in my router and I already on and off it but it don't work.”
+00:09
+English Conversational Partner said:
+I see, thanks for letting me know. In that case, let's check if there's an outage in your area. Could you share your address or the area you're in so I can look it up?
+You said:
+“It is Crawley Park.”
+00:01
+English Conversational Partner said:
+Thank you for that. I'll check if there's any known outage in Crawley Port. In the meantime, have you noticed if any of the indicator lights on your router are off or blinking differently than usual?
+You said:
+“It is unusual, it is not, my router is totally off, so I can't do anything.”
+00:10
+English Conversational Partner said:
+I understand, that definitely sounds like a more serious issue. I'll check for any outages and also see if we need to send a technician over. Could I have your account number or the name on the account, just to confirm your details?
+You said:
+“OK, my name is Surya. It is on the road to Stirling Highway.”
+00:08
+English Conversational Partner said:
+Thank you, Surya! I'll look up the details for Stirling Highway in Crawley Port and see if there's an outage. I'll get back to you in just a moment!
+You said:
+“Is there a technician available today?”
+00:02
+English Conversational Partner said:
+I'll definitely check on that for you. If there's no outage, we can arrange for a technician to come out today. Let me confirm and I’ll let you know in just a sec!
+You said:
+“Do I need to reset the modem again?”
+00:02
+English Conversational Partner said:
+It might help to give it one more quick reset just to rule that out, but if the issue persists, we'll definitely send someone over. Let me quickly confirm the status and get back to you!
+You said:
+“Is there a technician available today?”
+00:02
+English Conversational Partner said:
+Yes, we do have a technician available today. I’ll go ahead and schedule a visit for you as soon as possible. Could you let me know what time works best for you?
+You said:
+“I am free in evening time, is it okay?”
+00:04
+English Conversational Partner said:
+Absolutely, that works perfectly. I’ll schedule the technician for this evening. If anything changes, I’ll let you know. Thanks for your patience!
+You said:
+“Should I wait here or will someone call me?”
+00:03
+English Conversational Partner said:
+You can definitely stay at home, and the technician will give you a call when they're on the way, just to confirm the timing. Thanks for arranging this!
+You said:
+“If the service isn't fixed by today, do I get a refund or credit?”
+00:04
+English Conversational Partner said:
+That's a great question! If the issue isn't resolved today, we can definitely offer you a credit on your account. We'll make sure you're taken care of!
+You said:
+“Is it possible to change to a different service plan?”
+00:03
+English Conversational Partner said:
+Absolutely! We can look into different service plans for you as well. Once the technician assesses the situation, we can discuss the best options for you.
+You said:
+“Who can I contact if this isn't resolved today?”
+00:04
+English Conversational Partner said:
+If the issue isn't resolved today, you can contact our customer support team directly, and they'll assist you further. I'll also make a note of your case so you have a direct point of contact.
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+You're very welcome! If you need anything else, just let me know. Have a great day!
+You said:
+“Okay, now...”
+00:00
+English Conversational Partner said:
+All right, perfect! I'll make
+
+
+
+
+
+
+
+TASK 2: 
+You said:
+“I'm going to talk about reporting a lost item and your role is here is lost and found assistant or police officer.”
+00:11
+English Conversational Partner said:
+Got it! I'll take on the role of a lost and found assistant. Just let me know what item you've lost, and we'll get started!
+You said:
+“I have just realized I lost my phone. I am at the train station and I would like to check with the lost and found desk.”
+00:08
+English Conversational Partner said:
+Oh, I'm sorry to hear that! Let's get that sorted out. Could you tell me the time you last had your phone and any specific details about it?
+You said:
+“It was in the morning time when I went to my office. At that time, I lost my phone at the train station. So, and I knew only about after one hour when I lost my phone.”
+00:20
+English Conversational Partner said:
+Got it, thanks for the details. I’ll make a note that you lost it during the morning rush and it was about an hour ago. Could you describe the phone, like its color or model, so we can identify it quickly?
+You said:
+“The phone has a red case and cracked screen.”
+00:03
+English Conversational Partner said:
+All right, so a red phone with a cracked screen. Got it! I’ll pass that information along to the lost and found team at the station. Hopefully, they’ll have it for you soon!
+You said:
+“I last saw it at the train station around 9 a.m. in the morning, and when I went to office, then I didn't have that mobile.”
+00:14
+English Conversational Partner said:
+Thank you for that detail! I'll let the team know that you last saw it around 9 a.m. at the station. Hopefully, they’ll have it in their lost and found. I’ll keep you updated as soon as I hear back!
+You said:
+“What happens if someone finds it?”
+00:02
+English Conversational Partner said:
+If someone finds it, they’ll turn it in to the station's lost and found, and you'll be notified so you can pick it up. We'll do our best to make sure it gets back to you as soon as possible!
+You said:
+“Can I leave my contact details?”
+00:02
+English Conversational Partner said:
+Absolutely! If you could share your contact details, we'll make sure to reach out to you as soon as your phone is found.
+You said:
+“Do I need to fill out a form?”
+00:01
+English Conversational Partner said:
+Yes, we do have a simple form for you to fill out with your contact details and a description of the item. I can guide you through it, and then we’ll keep you updated as soon as we have any news!
+You said:
+“Do I need to show ID when collecting it?”
+00:02
+English Conversational Partner said:
+Yes, typically you will need to show a valid ID when you pick it up, just to confirm your identity. But don’t worry, we’ll make the process as smooth as possible for you!
+You said:
+“Can you call me if it's found?”
+00:02
+English Conversational Partner said:
+Absolutely! We'll give you a call as soon as we have any news about your phone. That way, you’ll know right away.
+You said:
+“Should I file an official police report for this?”
+00:03
+English Conversational Partner said:
+It’s usually a good idea to file a report if your phone isn’t found quickly, just to have an official record. I can help you with that process if you'd like!
+You said:
+“Is there any lost property website I can check?”
+00:03
+English Conversational Partner said:
+Yes, we do have a lost property website where you can check for any items that have been turned in. I can provide you with the link so you can keep an eye on it as well!
+You said:
+“Thanks for explaining everything.”
+00:02
+English Conversational Partner said:
+You're very welcome! I'm glad I could help. If you have any other questions, just let me know.
+You said:
+“ہماری مدد کرنے کے لئے احساس کرتے ہیں”
+00:02
+English Conversational Partner said:
+I’m so glad to hear that! Feel free to reach out anytime you need assistance. Have a wonderful day!
+You said:
+“Thank you.”
+00:01
+English Conversational Partner said:
+You're very welcome! Take care and have a great day!
+
+
+Task 3: 
+Good morning.”
+00:01
+English Conversational Partner said:
+Good morning! How are you today? Let me know if there's anything I can help you with or if you'd like to have a little chat!
+You said:
+“I'm going to talk about requesting maintenance or repairing repair in a rental property and your role is as a property manager”
+00:14
+English Conversational Partner said:
+Got it! I
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+Absolutely! I’ll be your property manager. Just let me know what kind of maintenance or repair you need, and we’ll get it sorted out! What issue are you experiencing?
+You said:
+“There is a leak under the kitchen sink in my home. My home location is near to Crawley Park.”
+00:08
+English Conversational Partner said:
+Oh, I see. Thanks for letting me
+You said:
+“请看这一段视频的评论,并留言,并订阅我们的频道。”
+00:01
+English Conversational Partner said:
+Absolutely, I can definitely arrange for someone to come by. Could you let me know the best time for the repair, and also if there are any specific details about the leak that I should know about?
+You said:
+“If possible, today is best time for me. It is okay to afternoon time. Could you arrange person to come my home?”
+00:10
+English Conversational Partner said:
+Absolutely, I'll arrange for someone to come by this afternoon. Could you please confirm your contact number so that the maintenance person can reach you if needed?
+You said:
+“I will send my email address and exact location of my home and I also send my email address.”
+00:08
+English Conversational Partner said:
+Perfect, thank
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+Great, I’ve got
+You said:
+“in your email. Is it okay?”
+00:03
+English Conversational Partner said:
+Yes, that’s absolutely fine! I’ll make sure everything’s arranged and you’ll get a confirmation soon. If there’s anything else you need, just let me know!
+You said:
+“Could they call or text me when they are on their way?”
+00:03
+English Conversational Partner said:
+Of course, I'll make sure they give you a call or a text when they're on their way. If there's anything else I can do for you, just let me know!
+You said:
+“Will you send me, send a plumber or handyman?”
+00:03
+English Conversational Partner said:
+I’ll send a plumber since it’s a leak under the kitchen sink. They’ll be well-equipped to handle it. If you have any other preferences, just let me know!
+You said:
+“Do I need to stay home for the repair?”
+00:02
+English Conversational Partner said:
+It’s usually helpful if you can be there, just in case they have any questions, but if that’s not possible, we can definitely make arrangements. Whatever works best for you!
+You said:
+“and does it cover or I need to pay.”
+00:03
+English Conversational Partner said:
+If it’s a maintenance issue, it should be covered by the property, so no extra cost for you. If you have any concerns, just let me know!
+You said:
+“Should I turn off the water until they come?”
+00:04
+English Conversational Partner said:
+That would definitely be a good idea, just to prevent any further leakage. If you need any assistance with that, let me know!
+You said:
+“I will leave a key at the reception if I am out.”
+00:03
+English Conversational Partner said:
+That sounds perfect! Thanks so much for arranging that. We'll make sure everything goes smoothly. If there's anything else you need, just let me know!
+You said:
+“Is there anything I should prepare before they arrive?”
+00:03
+English Conversational Partner said:
+It would be helpful to clear out the area under the sink so they have easy access, and maybe keep any pets out of the way. Other than that, you should be all set!
+You said:
+“Can you send me a confirmation when the repair is scheduled?”
+00:03
+English Conversational Partner said:
+Absolutely, I'll send you a confirmation as soon as it's all scheduled. If you have any other questions in the meantime, just let me know!
+You said:
+“Will I get an email or text message once it's booked?”
+00:04
+English Conversational Partner said:
+I can definitely send you a text message so you'll have a quick and convenient update. I'll make sure you're in the loop!
+You said:
+“No one is coming came today and I would like to follow up”
+00:06
+English Conversational Partner said:
+Oh, I’m sorry about that!
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+No worries at all! Let me follow up on that right away and see what happened. I’ll get back to you as soon as I have an update. Thanks for your patience!
+You said:
+“What if I need to organize my own repair and get reimbursed?”
+00:04
+English Conversational Partner said:
+Got it! If that's the case, we can definitely arrange for reimbursement. Just keep the receipt and any details of the repair, and we'll sort it out for you. Let me know if you need any help with that process!
+You said:
+“This is the second time it's happened. Can it be checked more thoroughly?”
+00:05
+English Conversational Partner said:
+Absolutely, I’m really sorry for the inconvenience. I'll make sure the maintenance team does a more thorough check this time to prevent it from happening again. Thanks for bringing it to my attention!
+You said:
+“It was fixed last month, but the issue has returned.”
+00:03
+English Conversational Partner said:
+Oh, I see. Thanks for letting me know. I'll make sure that the team takes a closer look and addresses the root cause so that it doesn't come back. I appreciate your patience with this!
+You said:
+“And I am also worried about any long-term damage, so I think it should be fixed properly.”
+00:08
+English Conversational Partner said:
+Absolutely, I completely understand your concern. We'll make sure it's fixed thoroughly so that there's no long-term damage. Thanks for bringing that up, and we'll take extra care with this repair.
+You said:
+“Oh, it's leaking a lot. Can someone come after business hour?”
+00:03
+English Conversational Partner said:
+Of course, we can arrange for someone to come after business hours to fix it as soon as possible. I’ll make sure we prioritize that for you!
+You said:
+“Is there an emergency number I can call on weekends?”
+00:03
+English Conversational Partner said:
+Yes, absolutely! I'll provide you with an emergency contact number that you can reach anytime, even on weekends. That way, you'll always have someone to help you out!
+You said:
+“Will they charge extra?”
+00:02
+English Conversational Partner said:
+There might be a small
+You said:
+“In after hour repairs”
+00:01
+English Conversational Partner said:
+Got it! There might be a small additional fee for after-hours repairs, but I'll make sure to keep you informed about any costs. We'll do our best to make it as convenient as possible for you!
+You said:
+“Thanks for organizing that so quickly. Have a good day.”
+00:03
+English Conversational Partner said:
+You're very welcome! I'm glad I could help. Have a wonderful day, and if you need anything else, just let me know!
+You said:
+“and I am going to talk about technical support for a device and your role here is”
+00:08
+English Conversational Partner said:
+Got it! I'll be your technical support agent for
+You said:
+Transcript Unavailable
+00:06
+English Conversational Partner said:
+Perfect, I’ll be your tech support agent! Just let me know what device or issue you’re having, and I’ll do my best to help you out!
+You said:
+“My phone keeps restarting by itself and there is an issue in my phone so I couldn't contact anyone.”
+00:09
+English Conversational Partner said:
+Oh, that sounds frustrating! Let's get that sorted out for you. Could you let me know the model of your phone and if you’ve noticed any pattern, like when it restarts or any recent changes?
+You said:
+“It's a Samsung Galaxy 24.”
+00:02
+English Conversational Partner said:
+Got it, thanks for
+You said:
+“It bowed about two years before.”
+00:03
+English Conversational Partner said:
+Thanks for that info! So, a two-year-old Galaxy can sometimes have battery issues. Have you noticed if the phone gets unusually hot or if it restarts at specific times?
+You said:
+“Yeah, sometimes it's become so hard, so I keep in...”
+00:07
+English Conversational Partner said:
+I see, that definitely
+You said:
+“Sometime, I'll eat.”
+00:02
+English Conversational Partner said:
+No worries, I got
+You said:
+“and I do not charge sometimes because of a heart condition.”
+00:04
+English Conversational Partner said:
+That makes sense, it can definitely be uncomfortable. We'll look into that and see if it's a battery issue or something else. We'll get it sorted out for you!
+You said:
+“I bought this phone in Nepal.”
+00:02
+English Conversational Partner said:
+Got it, thanks for
+You said:
+“But now I am in Perth, so what would be there?”
+00:05
+English Conversational Partner said:
+No worries at all! We can definitely find a solution for you, no matter where you are. Just let me know what works best for you, and we'll get your phone running smoothly again!
+You said:
+“I have tried myself by restarting, but it doesn't work.”
+00:06
+English Conversational Partner said:
+I see, that can be quite tricky. Let's try a few more troubleshooting steps together, and hopefully, we can get it resolved for you quickly!
+You said:
+“I think there may be some software issue, could I need to update it?”
+00:06
+English Conversational Partner said:
+That's definitely a possibility! Keeping the software up to date can fix a lot of issues. Let me know if you’d like some guidance on how to check for updates, and we can go from there!
+You said:
+“How do I reset this setting?”
+00:01
+English Conversational Partner said:
+I can definitely help with that! We can do a soft reset or a factory reset, depending on what you prefer. Just let me know which one you'd like to try, and I'll guide you through it!
+You said:
+“I do not find any option here. Could you help me?”
+00:04
+English Conversational Partner said:
+Absolutely, I'd be happy to help! Let me know what kind of options you're seeing, and I'll walk you through the steps to find the reset option!
+You said:
+“Where can I find that option in the menu?”
+00:02
+English Conversational Partner said:
+Sure thing! Usually, you'll find the reset option in your phone's settings, under something like "General Management" or "System." If you want, I can guide you step-by-step through the process!
+You said:
+“Do I need full charge at this time while I'm setting my mobile?”
+00:04
+English Conversational Partner said:
+It’s definitely a good idea to have your phone at least partially charged, preferably above 50%, just to ensure the process goes smoothly. If possible, plug it in just to be on the safe side!
+You said:
+“I need to come there or you may arrange something.”
+00:06
+English Conversational Partner said:
+I can definitely guide you remotely, so no need to come over! Just let me know whenever you're ready, and we can get everything set up step by step.
+You said:
+“What happens if it's not fixed after trying these steps?”
+00:04
+English Conversational Partner said:
+If it’s still not fixed after these steps, we can explore a few more advanced solutions, or possibly have it looked at by a professional. But we’ll definitely do our best to get it working for you!
+You said:
+“Will Resetting Delete My Files or Photos?”
+00:03
+English Conversational Partner said:
+It depends on the type of reset we do. A soft reset won't delete anything, but a factory reset will erase all your data. So, if we need to do that, we'll make sure to back up everything first!
+You said:
+“Is there a way to back up before I reset the phone?”
+00:03
+English Conversational Partner said:
+Absolutely! You can back up your data to the cloud or to a computer. I can guide you through the steps if you’d like, so we make sure nothing important is lost!
+You said:
+“Is there any security risk while resetting my phone?”
+00:04
+English Conversational Partner said:
+Generally, a reset is quite safe, especially if you're following the correct steps. Just make sure you back up your data and follow the instructions carefully, and you’ll be all set!
+You said:
+“What if this problem keeps happening after today?”
+00:03
+English Conversational Partner said:
+If the issue keeps happening even after the reset, it might be a hardware problem, and we may need to have it checked by a professional. But let’s cross that bridge if we come to it!
+You said:
+“OK, if there is no solve of my program, do I need to come here?”
+00:07
+English Conversational Partner said:
+If the problem persists after we've tried everything, then yes, it might be a good idea to have a hands-on look. But let's hope we can get it sorted out before that! Just let me know how it goes.
+You said:
+“When I need to come, what time do you pick me up?”
+00:03
+English Conversational Partner said:
+I’ll coordinate a time that’s convenient for you, and we’ll make sure it fits into your schedule seamlessly. Just let me know what time works best for you, and we’ll set it up!
+You said:
+“and how much it cost, do you say approximate cost for it?”
+00:06
+English Conversational Partner said:
+The cost can vary a bit depending on the exact issue, but I can definitely give you an estimate once we narrow it down. We'll keep it as transparent as possible, so you'll know what to expect!
+You said:
+“Do I need to replace battery?”
+00:02
+English Conversational Partner said:
+It could be a possibility, especially if the phone is a couple of years old and overheating. We can definitely check that out, and if it is the battery, replacing it can often solve the issue. We'll figure it out together!
+You said:
+“I think I also need to replace my charger.”
+00:03
+English Conversational Partner said:
+That could definitely be
+You said:
+“Because at the time of charging, there is too much heat.”
+00:04
+English Conversational Partner said:
+Got it, that can be a sign that the charger might not be working as efficiently as it should. We can definitely look into that as well. It’s always good to have a reliable charger, so we’ll get that sorted out!
+You said:
+“Okay, thank you for your time.”
+00:01
+English Conversational Partner said:
+You're very welcome! I'm glad I could help. If you need anything else, just let me know. Have a great day!

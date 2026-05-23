@@ -1,0 +1,215 @@
+{
+  "student_id": 3,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S3_W2_T2",
+  "source_file": "data\\raw\\#03\\#03\\#3. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Enquiring About a Rental Property or Housing Inspection"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello. I’m calling about an apartment."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hi there! Absolutely, thanks for calling. I can definitely help you with that. Let me just check — are you calling about a one-bedroom property near Central Station?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Yes. That one."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Perfect, I know exactly which one you’re referring to. That’s a popular listing, so it’s good you called early. Are you mainly looking for the inspection details today?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Yes. When can I see it?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great question. We have an inspection scheduled for this Saturday, and it runs from 10am until am. So you don’t need to arrive exactly at 10 — anytime within that window is fine."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "10 to … okay."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Exactly. Some people like to come early, some come closer to the end — both are completely fine. Just one important thing before I forget: you’ll need to register online before attending."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Register… email only?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Yes, just your name and email address. No full account, no documents at this stage — very quick and simple."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Okay. That’s fine."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Perfect. Now, just so I give you the most helpful information — are you currently renting in Australia, or would this be your first rental here?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "I rent now. But short time."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s completely fine — a lot of people are in the same situation. Short rental history is very common, especially for students and people who’ve recently moved."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Let me also run through a few key details people usually ask about before inspections. First, the apartment is unfurnished, so you would need your own bed and furniture."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "No bed?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That’s right — no bed or sofa. However, the kitchen appliances are included, so you’ll have a fridge, oven, and cooktop."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Fridge included. Good."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Yes, that definitely makes things easier. Now, in terms of noise, because it’s close to Central Station, there can be some train noise during the day."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "At night also?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Mostly during the day and early evening. Late at night it’s generally much quieter, but it’s good to be aware of."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "There’s no dedicated parking space with the apartment, just so you know. But there is street parking available nearby."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "I don’t have car."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Perfect — that makes parking a non-issue then. Now, the rent for the property is $510 per week, and the bond is four weeks’ rent."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Four weeks… so bond is… wait."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That comes to $2,040 in total for the bond."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Yes. Correct."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Great. If you like the property after the inspection, you can apply straight away online. Applications are usually reviewed within two to three business days."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "If many people apply… still chance?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yes, definitely. What helps most is having your documents ready — things like photo ID, proof of income, and any rental history you have."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Rental history… I have only short one."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That’s okay — you can still apply. The agent will look at the full application, not just one factor."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "So just to quickly summarise everything for you: inspection is this Saturday from 10 to am, please register online beforehand with your name and email, and if you like the place, you can apply online afterward."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Saturday. Register first. Then decide."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Exactly right. If you think of any other questions before Saturday, feel free to give us a call."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Okay. Thank you."
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "You’re very welcome! Good luck with the inspection — we’ll see you on Saturday."
+    }
+  ]
+}

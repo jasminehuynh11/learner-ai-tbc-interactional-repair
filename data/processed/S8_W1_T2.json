@@ -1,0 +1,220 @@
+{
+  "student_id": 8,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S8_W1_T2",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I don't know.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hello there! So, it sounds like you're just popping in for a casual chat. I'm happy to be your everyday conversational partner. Let’s just keep it simple: what’s on your mind today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Also today, I'd like to book a table for tonight.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! What time would you like that table for tonight?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Can you rebook for at 5 p.m.?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure, 5 p.m. works just fine. And how many people will be joining you at the table?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“もしかしたら、5人か6人の方が参加してくれるかもしれません。 なので、5人か6人の方にお座りください。”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, got it! I'll set it up for six just to be safe. And do you have any preference for indoor or outdoor seating?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, we prefer outdoor eating to indoor eating.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, outdoor seating it is! We'll have a nice spot ready for you. Now, do you have any special requests for the reservation, like dietary needs or a special occasion we should know about?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yes, please. I'd like to order smoked salmon as a starter.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure, a small celebration with some champagne sounds perfect. We'll take care of that. And is there a name I should put the reservation under?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I'm sorry, could you say that again?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Of course! I’ll put it under your name then. Thanks for letting me know. And is there anything else you need us to know before you arrive?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yes, one person has a disable on his foot, so can he use a wheelchair to go restaurant?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, we can accommodate a wheelchair without any problem. We'll make sure everything is set up so they can be comfortable. Is there anything else you'd like us to prepare?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Let's see, so, to be honest, my friend is birthday today, so can you arrange a piece of, no, whole cake?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure, we can absolutely arrange a little birthday cake to help celebrate. We'll have that ready for your friend. Anything else you'd like us to add for the occasion?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“ご視聴ありがとうございました。”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Alright, sounds great!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Also, please get ready for dinner.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, we'll have everything all set for dinner. Thanks for letting me know. Now, if there's nothing else, we’re all set on our end. Let me know if you need anything else!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Thanks!”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You're very welcome! We'll have everything ready for you. Have a great time tonight, and we’ll see you then!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“See you, thanks for conversation.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course, happy to help! See you later, and enjoy your dinner."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Hello, I'm a person who reserved your restaurant at 5 p.m.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Sure, I remember! You're all set for 5 p.m. with that outdoor table and the birthday cake as well. Just let us know when you arrive, and we'll take care of everything. See you then!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Maybe we will go to restaurant at half past 4 p.m., so could you reschedule at half past 4 p.m.?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that. I'll move your reservation to  p.m. instead. Thanks for the heads-up, and we’ll see you a bit earlier then!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "You're welcome! We'll have everything ready for you at . See you then!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Hi again! Still here for you. If there's anything else you need to sort out or ask about, just let me know!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“今は友達のお祝いですが、写真を撮るためのカメラを忘れたので、撮影用のカメラを撮ってもらえますか?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure, we can help you out with that. We’ll have a camera ready so you can take some pictures during the party. Just let us know and we'll bring it over. Anything else you need?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“That's all, thank you!”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You got it! Happy to help, and we'll have everything set up for you. Thanks for letting me know, and we’ll see you soon!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“See you soon!”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "You're welcome! See you"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“All right.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Alright, perfect! Everything’s all set then. Enjoy, and we’ll be ready for you!"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "dialogue_id": "S21_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unsure about the word 'publishing'",
+    "evidence_summary": "The learner expresses uncertainty about the word 'publishment' in turn 11, indicating a vocabulary issue. The bot responds supportively in turn 12, and the learner attempts to clarify in turn 13 and 15. The bot then offers alternative fields in turn 16, resolving the issue as the conversation continues smoothly."
+  }
+]

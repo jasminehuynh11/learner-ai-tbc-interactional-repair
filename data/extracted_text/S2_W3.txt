@@ -1,0 +1,53 @@
+Week3
+Task 1 Internet Outage
+ChatGPT said:
+Hello! This is housing management, how can I assist you today?
+You said:
+“Uh, hello, this is Tonic Lee. I'm from Uni5B, so I'm calling again because my internet hasn't been working like two weeks.”
+00:09
+ChatGPT said:
+Hi Tonic, I'm sorry to hear that you've been having trouble for so long. Could you describe a bit more about what happens when you try to connect?
+You said:
+“Like these times, many times, I guess, I play video games, but the internet is always not working, and it's been about a week I'm calling your office service many times, but every time I call, I'm told that someone else is responsible. Honestly, I'm getting really frustrated.”
+00:28
+ChatGPT said:
+I completely understand your frustration, Tonic, and I do apologize for the inconvenience. Let me take full responsibility and help you out now. Have you tried any troubleshooting steps so far, like restarting the modem or checking the cables?
+You said:
+“Um, last time I called you guys, you guys just told me about I need to re-record, re-sign the mobile on the Wi-Fi, but I really need to do face-to-face as soon as possible. And this issue continues and no one takes the responsibility. I have to change another Internet company. And again, I do try what you guys tell me to do, but I really need someone to go into my house to face them. Any engineer, any support, please, please, if you guys are not doing that, I'm going to change the Internet company.”
+00:49
+ChatGPT said:
+I completely understand your concerns, Tonic, and I really appreciate your patience so far. Let me arrange for a technician to visit as soon as possible. May I confirm your availability over the next few days so we can book a time that works for you?
+You said:
+“Yes, yes, yes, please. If you tonight 6 p.m. is available, I will at home. If you guys not going, you come to my house today, then tomorrow morning like 10 a.m. is okay. I'm fine.”
+00:25
+ChatGPT said:
+Thank you for that, Tonic. I’ll prioritize this for you and arrange for a technician to come by tonight at 6 PM. If for any reason that doesn't work, we’ll have someone there at 10 AM tomorrow. I’ll confirm shortly. Thanks again for your patience!
+You said:
+“Thank you. I hope it can be resourced soon. Okay, bye.”
+00:06
+ChatGPT said:
+You're very welcome, Tonic! We’ll get this sorted out for you. Have a great day, and take care!
+
+Task 2 Lost of Wallet
+You said: “Hi, Officers.”
+ChatGPT said: Hello! How can I
+You said: “Good afternoon. I think I lost my wallet at the train station.”
+ChatGPT said: I'm sorry to hear that! Can you tell me which station and roughly what time you think you lost it?
+You said: “I think I lost the wallet light at 3 p.m. yesterday.”
+ChatGPT said: Thank you for that. We’ll note Parramatta Station at around 3 p.m. yesterday. Could you describe the wallet for me—its color, any unique features, and what items were inside?
+You said: “Yes, the world color is black and his parents is from the”
+ChatGPT said: Got it, a black wallet with some wear and tear. What kind of items were inside—like cards, ID, or anything important we should know about?
+You said: “Oh, yes. My student ID, my driver's license, and 1,000 cars. Yes.”
+ChatGPT said: Thank you for that
+You said: Transcript Unavailable
+ChatGPT said:
+Thanks for letting me know. We’ll file this report and check if anything matching that description has been turned in. Next step, we’ll contact you if we find anything. Could I get your contact number or email so we can reach you?
+You said:“Yes, my contact number is XXXXXX, and my email address is leandor, L-E-E-A-N-D-O-R, at gmail.com.”
+ChatGPT said: Perfect, we have your contact details. We’ll keep an eye out and let you know if your wallet is found. In the meantime, you might want to notify your bank and any relevant institutions about the lost cards. Is there anything else I can assist you with today?
+You said: “I just remember something that my wallet had a tiny logo with L-I-V-E-I, and it comes from the Chinese Pradas. And I remember that the tie in the 3 p.m. Palo Alto season, I remember I'm sitting on the on the chair because it's the last time I remember that I used the wallet. And then in the next morning that I can find my wallet in my bed. So I just think I might have pictures in my wallet. And the pictures is me and my boyfriends. And this is all I know the details about my lost wallet.”
+ChatGPT said: Thank you for all those details, that’s really helpful. We’ll note that it’s a black wallet with a "LIVEI" logo, from a Chinese brand, and it had pictures of you and your boyfriend. We’ll keep that in mind while we search. If anything comes up, we’ll reach out to you right away. I hope we can find it for you soon!
+You said: “Thank you, thank you.”
+ChatGPT said:
+You're very welcome! If you need any more help, just let me know. Have a great day, and fingers crossed that we find it!
+You said: “YouTube.”
+ChatGPT said: Thanks! Take care,

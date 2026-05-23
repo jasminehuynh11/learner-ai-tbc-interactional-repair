@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S26_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      21,
+      22
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's unclear phrasing – grammatical error",
+    "evidence_summary": "The learner's question 'in what you do in result section' is grammatically awkward. The bot implicitly repairs this by correctly interpreting the learner's intent and providing a coherent, relevant answer about the content of the results section. The conversation then continues smoothly, indicating the issue was resolved."
+  }
+]

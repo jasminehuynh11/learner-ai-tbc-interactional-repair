@@ -1,0 +1,110 @@
+{
+  "student_id": 38,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S38_W4_T2",
+  "source_file": "data\\raw\\#38\\#38\\#38. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hello, our segment is due next week. Can we decide who will do each part?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a plan! We can definitely divide up the tasks. Which part would you like to take on, and is there any specific area you’re interested in focusing on?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes, I will do the benefits. Is it okay if you do the drawbacks?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That sounds perfect to me! I’d be happy to handle the drawbacks. So, we’ll each focus on our parts and then we can come together and combine everything into a cohesive presentation. Let me know if you need any help with research or anything else along the way!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I think it's better if we add the percentages.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, adding percentages will definitely strengthen our points and make the presentation more impactful. We can include some relevant statistics for both the benefits and the drawbacks. Let me know if you have any specific data in mind, or I can help gather some as well!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I wanted to know, do you want to do the presentation and I do the writing, or would you like me to do the presentation and you do the writing? Which one would you prefer?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That’s a great question! I’m happy to be flexible. If you’d prefer to handle the presentation part, I can definitely take on the writing and the research. On the other hand, if you’d rather do the writing, I’m more than happy to present. Just let me know what works best for you!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I think I will do the presentation. Is that okay with you?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That sounds perfect to me! I’m more than happy to handle the writing and research, and that way you can shine during the presentation. If you need any support along the way, just let me know!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Using the presentation with me, I meant going there, up there, for the overall we do it together. So, I mean, by presentation, the four points.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Oh, got it! That sounds great. We’ll definitely collaborate on the key points, and we can both be involved in the actual presentation. I’ll handle the writing and the research, and then we can both present together and highlight the important aspects. Sounds like a plan!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, I'm going to message... Yeah, no, actually, let's message each other, because I still need to see your part, and so we can agree on a couple of things that we are going to talk about in the presentation.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That sounds perfect! We can definitely coordinate and fine-tune everything together. Just let me know whenever you’re ready to share your part, and I’ll do the same. We’ll make sure everything’s aligned and polished before the final presentation!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Sure thing. So since the presentation is due to next week, is it okay with you if we just do the research for the next two days and then we message each other on, what day is it? It's Monday, so on Wednesday. Is that okay if we share the information that we have on Wednesday?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! We can definitely spend the next couple of days on research, and then touch base on Wednesday to share our findings and make sure everything lines up. That way, we’ll have plenty of time to refine everything before the due date. Sounds perfect to me!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“All right, excellent. So let's do a recap. So I'm doing the benefits and you're doing the drawbacks. We have to, I'm doing the presentation, so the PowerPoints, and you're doing the writing. And then we will meet each other in two days to finalize it and just show each other the notes that we took so we can just practice together. Is that okay?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a perfect plan! We’ve got everything organized, and I’m excited to see what we come up with. We’ll reconvene in two days and polish everything up together. Sounds great, and I’m looking forward to it!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, if you need anything or if you have difficulties with anything, just text me and I'll be able to help you. On the other hand, I will do the same. Is that okay?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! We’ll keep the communication open, and we’ll help each other out whenever needed. I’m looking forward to collaborating, and I’m sure it’s going to go great!"
+    }
+  ]
+}

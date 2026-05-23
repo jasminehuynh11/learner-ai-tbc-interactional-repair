@@ -1,0 +1,400 @@
+{
+  "student_id": 13,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S13_W4_T2",
+  "source_file": "data\\raw\\#13\\#13\\#13. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hey there! How can I help you today? Let me know what you'd like to do or talk about, and we'll jump right in."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“We are going to create a new scenario.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That sounds great! I'm ready whenever you are. Just let me know the kind of scenario you're thinking of, and we can dive right into it."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, in this case, you will be... your role will be my team... my teammate.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Awesome, I can definitely do that! So, I'll be your teammate. Just let me know the context—are we working on a project, playing a game, or something else? And we’ll get started from there."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, today we need to work in a project together.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect! That sounds good to me."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“We need to discuss about the deadlines and how will be organized the job.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense! So, let's start by figuring out what the main tasks are and what deadlines we have in mind. What do you think is the first task we should tackle?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Well, the deadline is in two weeks.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it, two weeks sounds like a solid timeframe. So, let’s break down the tasks and see how we can divide them up. What’s the first major task you think we should focus on?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“The first step, I think that we need to collect all the data.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, collecting all the data is a great first step. So, let's figure out what kind of data we need and who will be responsible for gathering it. Do you have any specifics in mind for the data we need?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I'm thinking that you can collect the data.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sounds good to me!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Like first stage”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, I can take care of that initial data collection. So, let me know what specific information you’d like me to gather, and I’ll get started on that. Anything else you want to plan out for now?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yeah, after that, we need to discuss the information, generalize them.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "That makes perfect sense! Once we have the data, we’ll dive into analyzing it carefully. So, we’ll plan out the analysis steps once we’ve got everything collected. Sound good?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yeah, and after that we need to have a meeting to discuss the results.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a great plan! So, after the analysis, we’ll schedule a meeting to go over all the results and decide on the next steps. Let me know if there’s anything else you’d like to add to our plan for now!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yeah, what do you want to do for the project?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Well, I’m definitely excited to contribute wherever needed! We could focus on gathering the data first, and then maybe I can help with the analysis or even the presentation of the results. Whatever works best for you! Let me know what you think."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, just be sure that all the data you are collecting is about the last quarter.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Got it, that makes"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“The results of the last quarter.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to focus strictly on the data from the last quarter. If there are any specific metrics or details you want me to pay attention to, just let me know, and I'll handle it from there!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, this information is for the managers”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Got it, I’ll keep that in mind and make sure everything is well-organized for the manager. If you need any additional details or any specific format, just let me know, and I’ll get everything ready!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“What do you think that you could have information?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "I think I can definitely help by gathering all the relevant performance metrics, any trends or patterns from the last quarter, and maybe even some visualizations to make it clearer. Just let me know if there's any particular area you want me to prioritize, and I'll get right on it!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Perfect, that gives us a solid timeframe to work with. I’ll make sure everything is collected and ready well before the deadline. If you think of anything else along the way, just let me know!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Okay, but when are you going to have the information?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "I can start gathering the information right away, and I’ll aim to have everything compiled within the next few days. That way, we’ll have plenty of time to review and analyze it before the two-week mark. Does that timeline work for you?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“No, because we need to see the information together.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Got it, that makes"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“So, yeah, we don't have a lot of time to collect the data.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely, I understand. In that case, I’ll prioritize getting the data as quickly as possible so we can review it together promptly. We’ll make sure to stay on track and meet our deadline. Let me know if there’s anything else you’d like to adjust!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Do you think tomorrow could you have information?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Yes, I can definitely aim to have the information ready by tomorrow. I’ll get started on it right away and keep you updated as I progress. That way, we can go over everything together without any rush. Sound good?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Perfect! I’ll get to work on it, and I’ll make sure everything’s ready for us by tomorrow. If anything comes up in the meantime, just let me know. Looking forward to collaborating!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Okay, like, okay, we're going to have information tomorrow, and...”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Sounds good, that’s"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“We need to make the analysis. I will be focused in the clients, the market, the external factor. I would like that you could do the finance, financial information.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a great plan! I’ll focus on gathering and analyzing all the financial information, and you can handle the client, market, and external factors. That way, we’ll have a comprehensive overview. Let me know if there’s anything specific you’d like me to pay attention to!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“I would like to have some charts.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely, I can definitely include some charts to help visualize the financial data. Just let me know if there are any particular metrics or formats you have in mind, and I’ll make sure to incorporate those as well!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“I don't have a list specific, I would like a pretty good job, so if you have some idea, please share it with me.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "That sounds great! I’ll make sure to put together some clear and insightful charts, and I’ll definitely share any ideas I come up with. We’ll aim for a polished and comprehensive presentation. If anything else comes to mind, just let me know!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Okay, I would like to know from your perspective”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "That sounds perfect! I’m looking forward to collaborating and hearing your perspective as we go along. Just keep me posted, and we’ll make sure everything turns out great!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Okay, uh, what do you think about the result of the company?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "I think it’ll be really interesting to see how the numbers and trends shape up! Once we have all the data collected and analyzed, I’m sure we’ll get a really clear picture of the company’s performance. I’m excited to dive into it and share those insights with you!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Awesome! If anything"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“So, do you think that we could have good news for the managers?”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "I’m optimistic! Based on what we’ve discussed so far, I’m hopeful that we’ll uncover some positive trends. Of course, we’ll have to see the final data, but I’m definitely hopeful that the results will be encouraging for the managers!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Great! If you have any more questions or anything else you’d like to go over, just let me know. I’m here to help every step of the way!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“I just was... I'm thinking that we need a shared document.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "That’s a great idea! A shared document will definitely help us collaborate more smoothly and keep everything organized. Let me know what platform you’d like to use, and I’ll get that set up right away!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“Yeah, because I will try to put some information to you So I think it's a good idea if we have like shared document”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense! A shared document will definitely make it easy for everyone to contribute and stay on the same page. Just let me know which platform you prefer, and I’ll get it all set up for us!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“You know what? I will start with the introduction.”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "That sounds like a great"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“So, you can put information after that.”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Absolutely, that works perfectly! I’ll make sure to add all the relevant information once you’ve got the introduction in place. Just let me know when you’re ready, and I’ll jump in right after that!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“Yeah, I've seen that.”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Perfect, that sounds great!"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“We are on the same page, so we need to have the next meeting to analyze all the information.”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a solid plan! Once we have everything collected and organized, we’ll schedule that follow-up meeting to dive into the analysis. I’m looking forward to it, and I’m here whenever you’re ready!"
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“I think we are done with this meeting.”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "Sounds good to me! If anything else comes up, just let me know. Thanks for the productive discussion, and I’m looking forward to our next steps. Have a great one!"
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "Thank you! I appreciate it. If you need anything at all, just reach out. Take care, and talk to you soon!"
+    }
+  ]
+}

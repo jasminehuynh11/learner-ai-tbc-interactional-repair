@@ -1,0 +1,130 @@
+{
+  "student_id": 47,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S47_W2_T1",
+  "source_file": "data\\raw\\#47\\#47\\#47. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, how's it going?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hey there! I'm doing great, thanks for asking. How about you? How's your day going?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I'm good, I'm good. And you?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Glad to hear it! If there's anything specific on your mind or anything I can help with, just let me know!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“So, I would like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! I can definitely help with that. Do you have a specific date and time in mind, or do you need some suggestions on availability?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sounds good! Just let me know which day works best for you, and I can help check some options or guide you through the booking process!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“So, can I book a general check-up?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! I can help with that. Just let me know the preferred date, and if you have any particular doctor or clinic in mind, and I'll get things started!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“So, for me, it's better in the next week, yeah.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Updated saved memory Got it! I’ll keep that in mind. If you have any specific day or time next week that works best for you, just let me know, and I'll help you find an available slot!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yeah, Tuesday, please.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Updated saved memory Perfect! I'll keep Tuesday next week in mind. If you have a preferred time on Tuesday, or if you want me to look up some availability for you, just let me know!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“So, yes, I have it. 2 p.m., please.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Updated saved memory Got it! Tuesday next week at 2 PM. I’ll keep that in mind. If you need any more details or want me to check specific clinics, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“No, no, the general doctor.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, that sounds good! I'll make sure it's a general doctor appointment. If there's anything else you need, just give me a shout, and I'll help you out!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“No, no, I think he's dead.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sounds great! If anything else comes up, just let me know. I’m here to help. Otherwise, I hope the appointment goes smoothly!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Oh, okay, okay, of course. Thank you.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You're very welcome! Anytime. Just reach out if you need anything else. Have a great one!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Thank you, YouTube.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You're welcome! Take care, and have a wonderful day!"
+    }
+  ]
+}

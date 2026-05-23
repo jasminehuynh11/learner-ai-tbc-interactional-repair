@@ -1,0 +1,114 @@
+Week 3: Reporting Problems and Seeking Help
+Task 1: Reporting an Internet Outage at Your Housing
+You said:
+“Hi, good morning. I would like to tell you about the Internet. It stopped working.”
+English Conversational Partner said:
+Good morning! I'm sorry to hear that you're having trouble. Could you tell me if there are any specific error messages, or is the connection just not working at all?
+You said:
+“I can still see the connection on my phone, but if I'm going through Facebook or surfing the internet, it's not loading.”
+English Conversational Partner said:
+I see, so it sounds like you're experiencing a connection issue. Let's try a couple of things. Have you tried restarting your router or modem?
+You said:
+“Yes, I have restarted it like 3 times or 4 times, but it's still not working.”
+English Conversational Partner said:
+Got it. Thanks for trying that. It might be a broader issue. Could you please confirm if other devices are also unable to connect, or is it just one device?
+You said:
+“It's about my phone and my laptop. My mom and my dad are not here now, so I cannot check if the device can connect or not.”
+English Conversational Partner said:
+Understood. It sounds like the issue might be with your network. I recommend contacting your Internet service provider for further assistance. They can check if there's an outage in your area. Would you like me to provide their contact details, or is there anything else I can help with?
+You said:
+“Thank you.”
+English Conversational Partner said:
+You're welcome! If you need anything else, feel free to ask. Have a great day!
+You said:
+“Yeah, can I ask about, is there a technician available today? Like, yeah.”
+English Conversational Partner said:
+Certainly! If you need a technician to visit, I can help schedule one for you. Could you please provide your address and a
+You said:
+“Yeah, because I'm really, like, busy and I have to do my deadline, my...”
+English Conversational Partner said:
+I understand.
+You said:
+“Yeah, I have to remember deadlines so that it's really good that you can sell someone really quickly.”
+English Conversational Partner said:
+I’ll do my best to assist you quickly. Could you please provide your address so I can check the earliest available appointment for a technician?
+You said:
+“There is 1-2-3-lambtang-2-2-9-9 in this URL.”
+English Conversational Partner said:
+Thank you for the address. Let me check the earliest available technician appointment for you. Please hold on for a moment.
+You said:
+“Can I ask that can you check if there's an outage in the area, like also other houses and other people cannot connect with the internet?”
+English Conversational Partner said:
+Certainly, let me check if there's an outage in your area. Please give me a moment.
+You said:
+“How are you there? How are you doing with your research?”
+English Conversational Partner said:
+Thank you for your patience. I've checked and there is currently no outage reported in your area. We can proceed with scheduling a technician visit. Would you like the earliest available appointment, or do you have a preferred time?
+You said:
+“The first one, please, yeah, as quick as possible.”
+English Conversational Partner said:
+Got it. I'll schedule the technician for the earliest available slot today. You should receive a confirmation shortly. Is there anything else I can assist you with?
+You said:
+“So you have to try something before you send someone.”
+English Conversational Partner said:
+Of course. Before the technician arrives, you can try a few troubleshooting steps:
+Check if the cables are securely connected to your modem/router.
+Restart your modem/router one more time.
+Try connecting with a different device if possible.
+If the issue persists, the technician visit will be helpful. Let me know if you need further assistance!
+You said:
+“I should wait here when someone call me when they come.”
+English Conversational Partner said:
+Absolutely. The technician will contact you when they are on their way. You should receive a confirmation and an estimated time of arrival soon. If you have any other questions, feel free to reach out. Thank you for your patience!
+
+
+Task 2: Reporting a Lost Item or Filing a Minor Police Report
+You said:
+“Hi, I've just realized I lost my phone. I'm at the train station and I'd like to check with the lost and found desk.”
+English Conversational Partner said:
+I’m sorry to hear that. Let’s see how we can help. Could you please tell me the name of the train station you’re at and when you last saw your phone?
+You said:
+“The name is from a central station to Meadow River, and the last one when I can see my phone is on the train, on the seat.”
+English Conversational Partner said:
+Thank you for the details. I recommend checking with the lost-and-found service at the central station first. They often keep items found on trains. You can also file a report with the station's customer service.
+Would you like me to provide the contact number for the lost-and-found office, or do you need help with anything else?
+You said:
+“Yeah, I have checked with the last and filed this, but actually, they haven't had the one I filed, and yeah, I would like to make a report.”
+English Conversational Partner said:
+Understood. I can help you with filing a report. Could you please provide your full name, contact information, and any specific details about your phone (such as brand, model, and color)? This will help in identifying it.
+You said:
+“My phone Okay Okay, can you guys hear me? My phone name is Anh A-N-H and And the visual of my phone is it has a pink case A pink transparent case and And on my screen there is a dog, my dog, and it is really, really easy to realize that Yeah, it's my dog and I can easily realize that if it's my phone or not”
+English Conversational Partner said:
+Thank you for providing those details. I’ve noted the description of your phone. I’ll file a report for you right away. Please keep your contact information handy in case we need to reach you.
+Is there anything else I can assist you with?
+You said:
+“um do i need to fill out a form or something and do i need to show id when i went collecting it and how and when will i been and when will i been like i will i will be noticed that i that's my that's my spawn is is far is found”
+English Conversational Partner said:
+You may need to fill out a simple form when reporting your lost item. When you collect your phone, you’ll likely be asked to provide identification to confirm ownership.
+You’ll be notified by the station’s lost-and-found service once your phone is found. You can also follow up with them if needed.
+Is there anything else I can assist you with?
+You said:
+“Yeah, can you call me if it's fouled? I will send my parents' number that you can call them and I will be know that my phone is fouled.”
+English Conversational Partner said:
+I’ll make a note that you prefer to be notified through your parents' contact number. The lost-and-found service will call that number as soon as your phone is found.
+If you have any more questions or need further assistance, feel free to ask.
+You said:
+“How long do you keep the last items on file?”
+English Conversational Partner said:
+Typically, lost items are kept in the lost-and-found for a few weeks to a few months, depending on the location’s policy. It’s best to check with the specific lost-and-found office for their exact retention period.
+Is there anything else I can help you with?
+You said:
+“Is there a lost property website I can check?”
+English Conversational Partner said:
+Yes, many stations have a lost property website where you can check if your item has been found. I recommend visiting the official website of the station or contacting their lost-and-found office directly for more information.
+Let me know if you need any further assistance!
+You said:
+“And what should I do if I lost it in another city? Like, yeah, I don't know that if someone can take it and they will go to another city, like, really far from there. And, yeah, it's really, like, it's more difficult that I can take my phone back.”
+English Conversational Partner said:
+I understand how frustrating that can be. If you believe your phone may have been taken to another city, it’s important to report the loss to the police as well. They can help track your device if it has location services enabled.
+Additionally, you can contact your phone provider to report it and possibly lock it remotely.
+Is there anything else I can do to assist you?
+You said:
+“Should I find an unofficial Polish report for this?”
+English Conversational Partner said:
+I’m glad to hear you're taking steps to recover your property. If you need any more assistance or have further questions, feel free to reach out. Stay safe!

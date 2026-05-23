@@ -1,0 +1,365 @@
+{
+  "student_id": 31,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S31_W1_T2",
+  "source_file": "data\\raw\\#31\\#31\\#31. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a Restaurant Table"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hello! How can I assist you today? Are you looking to make a reservation?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yes, I would like to book a table for two people tonight.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course! What time would you like the reservation for tonight?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“What time do you free? Like, I mean like... What time do you... yeah.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "We have availability at 6 PM, 7 PM, and 8 PM. Which time works best for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Do you guys have any, like, entertainment, like, a band, singing, or something, on wartime?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "We have live music at 7 PM. Would you like to book your table for that time?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“The live music will continue to one on one time.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "The live music usually continues until around 10 PM. Would you like to reserve a table for 7 PM?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“It will be nice when it's 8pm.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Our 8 PM slot is also available. Would you prefer to book a table at 8 PM instead?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great! I’ve booked a table for two at 8 PM tonight. Do you have any special requests or dietary needs we should know about?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Do you have any table like next to the outdoor and also I want some, I want the chair that I can see the live music in the, in upstairs and yeah.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll arrange a table for you near the outdoor area with a good view of the live music. Is there anything else I can assist you with?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“I mean that I want to shoot that next to the window and I want a scene that is higher than the live music. I want it upstairs the music.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Got it! I’ll book a table by the window upstairs with a view of the live music. Is there anything else you need?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, yes it is.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright, I have everything set for your reservation. We look forward to welcoming you tonight! If you have any more questions, feel free to ask."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Do you have any menu or something? Because it is my husband's birthday, and I want to make him surprised.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Happy birthday to your husband! We do have a menu available online. Would you like me to send you the link, or do you have any specific dishes in mind?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“I want, my husband really like beef, and yeah, it can be a steak, and I want, and can you order some beef steak cake for us, please?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Certainly! I’ll make a note for a steak dish for your husband. We can also arrange a birthday cake for him. Do you have any specific flavor or type of cake in mind?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Um, and also we want to order vegetables, vegetables and like, uh, barbecue, barbecue steaks after, after steak.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Got it! I’ll include a side of vegetables and a baked potato with the steak. Everything is set for a wonderful birthday surprise. Is there anything else I can do for you?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Hi, can you decorate my decorate the outfit for the birthday, please?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely! We’ll make sure to decorate the table for the birthday celebration. It will be a special setup. Looking forward to celebrating with you tonight!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Can you send me some sample of decoration of this one?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course! I can send you some sample images of our birthday table decorations. Would you like me to email them to you or share a link where you can view them?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yeah, okay. It can be later. I will send you my email later.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Sure! You can send me your email whenever you’re ready, and I’ll share the decoration samples with you. Looking forward to making it a memorable celebration!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Also, this is just only me and my husband for the celebration, and the next day will be our friends with my husband and me. So I want also to put, like, yeah, a big table with a lot of people there in the next day, next next day.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely! I can help you with that. For the next day, how many guests will be attending the celebration? This way, I can reserve the appropriate table size for you."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“5 people and 5 people are friends of me and 6 friends of him, so it will be 5 plus 6 and plus 2, so it will be 14, right?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Got it, a total of 14 people for the next day. I’ll reserve a large table for your group. Is there a specific time you’d like to make the reservation for that day?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Yes, it's also decorated for the birthday, and I want the outer piece, I want, we want to make a baby cute. Bye.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Understood! I’ll reserve an outdoor table for your group of 14 with birthday decorations and a BBQ setup. Is there a preferred time for the reservation?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“It's also with the ICBM, and do you have any, like, some steps to help to make the meet?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "8 PM sounds great. We’ll have everything ready for your celebration. As for the BBQ, we have a special menu with various options. Would you like me to send you the menu in advance?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Yes, thank you.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "You’re welcome! I’ll send you the BBQ menu right away. Looking forward to celebrating with you all!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Awesome.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Great! If you have any more questions, feel free to reach out. Have a wonderful day!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Sorry, do you have... I'm not done with this. Do you have any wireless in advance?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "I'm here to help with your restaurant reservation. If you have any other questions about your booking or anything else, feel free to ask!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“You can see the one released in advance.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "I'm here to assist with your restaurant reservation. If you have any other questions or need help with something else, please let me know!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“I'm in the ranking list, the Y list, Y-W-I-N-E.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "I can help with your restaurant reservation or any questions related to that. If you have any specific requests or need assistance, feel free to let me know!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Drinking. Drinking, please.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "I'm here to help with your reservation. If you have any other questions or need assistance, please let me know!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Hi, do you hear me?”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Yes, I can hear you! How can I assist you today?"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“I also want to know about the wine list, I mean the drinking, the drinking for the celebration for the party.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Got it! For your celebration, we have a selection of drinks available. Would you like a menu with our drink options, or do you have any specific preferences?"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Yes, can I see the list? The menu, please, please. The one list.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Certainly! I'll send you the drink menu, including our wine list. You can choose from a variety of options for your celebration."
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Do you have any rare one?”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Yes, we have a selection of red wines available. I can send you the full wine list so you can choose your favorite. Would you like that sent to you?"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“Yes, thanks.”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "You're welcome! I'll send you the wine list right away. Let me know if you need anything else!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“Could you confirm the time and name for me, please?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Certainly! Your reservation is confirmed for tonight at 8 PM for two people, with a table by the window upstairs and birthday decorations. For the next day, we have a large table reserved at 8 PM for 14 guests with outdoor seating and BBQ setup. If you need any further assistance, just let me know!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“Oh yeah, my name is Anh and my number is 1234567. Can you confirm this also?”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Thank you, Anh. Your reservation is confirmed under your name, Anh, with the contact number 123-4567. If you need anything else, feel free to ask. Looking forward to seeing you tonight!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“Anyway, I'll see you guys on next day.”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "Absolutely! I’ve noted your reservation for next day as well. If you have any other requests or need more assistance, just let me know. Looking forward to celebrating with you!"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "“Thank you so much. See you then.”"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "You're welcome! See you soon, have a great day!"
+    }
+  ]
+}

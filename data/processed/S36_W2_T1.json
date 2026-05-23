@@ -1,0 +1,310 @@
+{
+  "student_id": 36,
+  "week": 2,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S36_W2_T1",
+  "source_file": "data\\raw\\#36\\#36\\#36. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi! I want practice how to made appointment in clinic. You - call-assistant in this clinic and you always help for people, who need choose time for his visit in clinic. This clinic is very famous and more times on week is occupied. I am a sick man, who has several diseases and wanted to give a help for his health in this clinic at this week. Try to help him and explain slots for his visit. I will start first in next message."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure — go ahead whenever you’re ready."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Good evening.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Good evening! How can I assist you today? Are you looking to schedule an appointment for this week?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Can I book a visit to doctor on this week? I mean I broke my leg and have a problem. I have worse and worse me.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that! Of course, we can help. Let’s see… Could you let me know which day and time would be most convenient for you this week?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I prepare Friday afternoon because before I usually work at my home and I never have time for visit.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, Friday afternoon works well. Let me check our available slots for Friday. Do you have a preferred time, maybe early afternoon or later in the day?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Later, afternoon.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, later in the afternoon it is. We have a few slots available, for example, around  or . Which one would suit you better?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“What doctor you will have at 4 p.m.?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "At , we have Dr. Smith, who specializes in orthopedics. That should be perfect for your leg injury. Does that time work for you?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“What time does this doctor work in your clinic?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Dr. Smith usually works on Fridays from  until , so you’ll have some flexibility. If  works, that’s perfect. Let me know if you’d like to confirm that slot."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Can you speak for me more about his background, what university he attended, and how long he worked at your clinic?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely! Dr. Smith completed his medical degree at Harvard Medical School, and he also did his residency at the Mayo Clinic. He’s been with us for about five years now and has a great reputation in orthopedics. Hopefully, that gives you a good overview!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Thank you for your information, can you speak me about Mr. Speed, how I can visit for him for Friday at 4pm and what I need take with me?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Of course! To visit Dr. Smith on Friday at , we’ll just need your insurance information and any relevant medical records about your leg injury. It’s also helpful to bring a form of ID. Once you have those, we’ll be all set! Let me know if you have any other questions."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I think that for me, I need x-ray at this day. Can you help me and book it?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange that as well. We’ll schedule an X-ray either before or right after your appointment with Dr. Smith. I’ll make sure we have that coordinated for you. Sound good?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Thank you, I mean I need appointment after visit to Dr. Smith, because Dr. Smith can change my appointment and say me more information what I need did with my health.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it, that makes perfect sense. We’ll plan the X-ray appointment right after your visit with Dr. Smith, so he can give you the best guidance. I’ll make sure everything is set up for you. Let me know if there’s anything else you need!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I mean, for me, I also need blood test and something, another test for my health. Can I make checkup in your clinic this day?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange that as well! We can coordinate the blood test and any other necessary tests on the same day, so everything’s streamlined for you. I’ll make sure all the appointments are scheduled together. Just let me know if there’s anything specific you need!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, I am waiting.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "All right, I’ll go ahead and confirm all the details for you and make sure everything is booked. Once it’s all set, I’ll let you know. If you have any other questions or need anything else in the meantime, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“What tests can you perform?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Sure, I can definitely help with that! Just let me know which specific tests you have in mind, and I’ll make sure we include them in your appointment. Feel free to share any details, and I’ll take care of the rest!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Oh, seriously, I want to check up all my body. I mean, I prefer previously check up my blood, my hand, and how many virus can I have now. Because after this Friday, I cannot go to your clinic next week. And I need to have more tests and more time for my visit at Friday. Please appoint me after Dr. Smith for blood test, x-ray, and maybe for important test, what you always offer it for people who need check up his body.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, I understand. We’ll make sure to book a comprehensive check-up for you on Friday. That will include the blood test, the X-ray, and any other important tests we need to ensure a full assessment. I’ll coordinate everything so that you get the complete care you need in one visit. If there’s anything else specific you’d like, just let me know!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Please give me advice, because I don't know what test do you have now.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Of course! Typically, for a thorough check-up, we might include tests like a complete blood count, metabolic panel, lipid profile, and maybe tests for specific markers depending on your symptoms. We can also do an EKG for heart health and any other tests Dr. Smith recommends after examining you. I’ll make sure we tailor everything to your needs!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Sounds good. Please say for me more about specific markers, what you can make in your clinic.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely! Some common specific markers we might check include things like thyroid function tests, vitamin D levels, inflammatory markers like CRP, and even specific tests for infections or autoimmune markers. Depending on your health history and symptoms, we can customize the panel. Just let me know what you’re most concerned about, and we’ll cover it all!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Спасибо за вашу информацию. Для меня нужны тесты на здоровье мужчины, потому что я планировал родить ребенка с моей женой в этом году. Можете ли вы предложить мне больше тестов, чтобы понять, как я могу понять о здоровье мужчины?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Of course! For men’s health, especially if you’re planning to start a family, we can look at tests like hormone levels (including testosterone), a semen analysis to check fertility, and possibly some genetic screening as well. We can also look at general health markers to ensure everything is optimal. I’ll make sure we cover all the important aspects for you!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Okay, if you can appointment me for Friday for hormone test, please make it.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to schedule the hormone tests for you on Friday, along with everything else we discussed. Once it’s all confirmed, I’ll let you know the full details. If you have any other requests or questions, just let me know!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Please remind me what time I have appointment at Friday for Dr. Smith.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sure! Your appointment with Dr. Smith is scheduled for Friday at . After that, we’ll have all the additional tests lined up, including the hormone tests and everything else. If you need anything further, just let me know!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Thank you for appointment, you really helped me, and please tell me what cost of this”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "You’re very welcome! As for the cost, it can vary depending on the specific tests and your insurance coverage. I’ll make sure to provide you with a detailed breakdown once everything is confirmed. Feel free to reach out anytime if you have more questions."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“I don't have insurance, but I am ready to pay for it. First, I need to pay for my visit to Dr. Smith. Second, I need to pay for blood test. And third, I want to pay for my hormone test. What is the cost of this?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "I understand! I’ll definitely provide you with an estimate for each part. Typically, the consultation with Dr. Smith, the blood tests, and the hormone tests are all priced separately, but I’ll gather all the details and give you a clear breakdown before your visit. That way, you’ll know exactly what to expect. If you have any specific concerns, just let me know!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Yes, I want to understand what money we need to take on Friday, because I have only cash, and if I go to your clinic, I need to take my money and pay for all appointments and tests. How much money I need to take with me?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "I completely understand. I’ll make sure to provide you with a detailed cost estimate for each part of the visit, including the consultation, the blood tests, and the hormone tests. That way, you’ll know exactly how much to bring. I’ll get that information for you as soon as possible!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I'm waiting what you can say about my questions.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Of course! I’ll gather all the details and provide you with a comprehensive cost breakdown as soon as I can. That way, you’ll have a clear idea of what to expect on Friday. If you have any other questions in the meantime, just let me know, and I’m here to help!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Yes, I have one big question, what cost of this appointment and test?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely! I’ll compile a detailed cost breakdown for you, including the consultation, all the tests, and the hormone panel. Once I have that info ready, I’ll share it with you so you know exactly what to expect. Thanks for your patience, and I’ll get that to you as soon as possible!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Can you give me this information, now?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll get that information for you right away! Let me quickly outline the typical costs: the consultation usually runs around a certain amount, the blood tests might be another specific amount, and the hormone tests will have their own pricing as well. I’ll put it all together and share the exact numbers with you in just a moment."
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“And just talk about this in this chat, I need understanding what cost.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Of course, I understand! Generally speaking, the consultation fee can range from about $100 to $200, the blood tests might be around $150 to $300 depending on the panel, and the hormone tests could be in the range of $200 to $400. Of course, these are just estimates and can vary. Once I confirm all the specifics with the clinic, I’ll provide you with the exact amounts. Hopefully, that gives you a good starting point!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Please repeat this information, I don't understand it all.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Of course! In general, the consultation with the doctor might cost around $100 to $200. The blood tests could range from about $150 to $300, depending on which ones are done, and the hormone tests might be somewhere between $200 and $400. These are just approximate ranges, and the exact cost will depend on your specific tests. Once I confirm everything, I’ll give you the exact numbers. Hopefully, that helps clarify!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Okay, thank you for your information. Now I understand what cost about this and I am grateful for your job and you really helped me and I will go at your clinic at Friday. Have a nice day. Bye”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help, and I’m happy everything’s clear now. Have a great visit on Friday, and if you need anything else, just let me know. Have a wonderful day, and take care! Bye for now!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Okay, bye.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Bye! Take care, and if you need anything at all, I’m here to help. Have a great day! ---------------------------------------------------------------------------------------------------------------------"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "student_id": 35,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S35_W2_T1",
+  "source_file": "data\\raw\\#35\\#35\\#35. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "APPOINTMENT IN MEDICAL CLINIC"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I would like to make an appointment for Medical Clinic"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure. What’s the reason for your visit so I can book the right appointment for you?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I would like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course! What kind of medical concern or reason do you have for the appointment today?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“You see, this morning I woke up with a lot of pain in my left eye.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I'm sorry to hear that. How long have you been experiencing this eye pain, and is there anything else unusual that you’ve noticed?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“It's too weird. It just started this morning and was...”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "I see, that does"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I have a small pain, but right now it's 12 o'clock and I can't stand with the pain.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I’m sorry it’s so uncomfortable. Let’s get you seen as soon as possible. Could you let me know your preferred date and time for the appointment?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Can I get an appointment for today? What's the most closest available free schedule that you have?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, let me check the earliest slots for today. Could you also let me know your name and contact information so I can book it for you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Por supuesto, mi nombre es Nicolás Hernández.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great, thank you,"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“And my phone number is 0450-932-...”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Perfect, thank you,"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Got it! I’ll look for the earliest available slot today for you, Nicolas. Is there any particular time of day that works best for you?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Could we today at 4pm?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "All right, let me check that for you. I’ll confirm if we have a 4 p.m. slot available and then we’ll get you all set. Just give me a moment."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Sounds cool. Thank you.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "You’re welcome! I’ll let you know in just a moment once I have that confirmed. If you have any other preferences in the meantime, just let me know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yeah, can you confirm my name and number just to be safe that it's the same, the right one?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course! Your name is Nicolas Hernandez, and your phone number is 0450 932 105. That’s correct, and I’ll make sure everything matches up when I book the appointment. Let me confirm that slot for you now!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Yeah, that's correct. Thank you.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’ll finalize everything and let you know once it’s all set. If you need anything else in the meantime, just let me know!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah, actually, I have a meeting, a job meeting with my co-workers. Is there any possibility to change, for example, for, I don't know, tomorrow at 1 p.m.?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! Let me check availability for tomorrow at 1 p.m. and I’ll make sure to reschedule it for you. Just give me a moment!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“All right, I'm here with my appointment with Dr. James.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Perfect, I’ve got that noted. I’ll make sure your appointment with Dr. James is set for tomorrow at 1 p.m. If anything else comes up, just let me know, and I’ll be happy to help!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“That's all for now, thank you, and I'm gonna see you tomorrow.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad we got everything sorted out. Take care, and I’ll see you tomorrow. Have a great day!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“You too, thank you!”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You're welcome! Take care and see you soon!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Hello, it's me again. It's Nicolas. Do you remember me?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Of course, Nicolas! I remember you. It’s great to hear from you again. How can I help you today?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“As you see, I have a friend, can I make the appointment for him as well?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! Just let me know your friend’s details and the reason for their visit, and I’ll get everything arranged."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“His name is Ravi Kamaladee.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Great, thanks for that! Could you also let me know the reason for Ravi’s visit and any preferred date or time that works for him?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Yeah, he has gonorrhea.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "I understand. In that case, I'll make sure we arrange an appointment that’s appropriate for his needs. If you could let me know his preferred time or any other details, that would be perfect."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Yeah, he has time this week, he doesn't speak English, he just speaks Arabic. So, is there any possibility to have a translator in the appointment?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely arrange for a translator who speaks Arabic. I’ll make a note of that and find a suitable time for Ravi this week. Thanks for letting me know, and I’ll take care of everything for you!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Okay, what do I need for my appointment and Robby's appointment?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "For both appointments, we'll just need some basic details. For Ravi, we'll want his identification and any relevant medical history. For both of you, it’s good to have your contact information, any insurance details if applicable, and a list of any symptoms or concerns. Once we have that, we’ll be all set!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Okay, for example, for me, I don't have Medicare.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Got it, that’s totally"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Because I'm not a Thalian, it's any problem with that?”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Not a problem at all! We can still proceed with the appointment, and we’ll make sure everything is arranged accordingly. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“I have some assurance. I'm gonna send you the details by email.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "That sounds perfect! Once we receive the details, we’ll have everything ready. Just let me know if you need any further assistance, and I’ll be happy to help!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“OK, I'm going to give you Robby's contact. His number is 0433981.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Perfect, thank you for"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“444”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Got it, I’ve noted that down. I’ll make sure to keep everything organized for Ravi as well. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Yeah, he has an space in his shuttle next Friday.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Alright, that’s great to know! I’ll make sure to schedule his appointment for next Friday and keep everything coordinated. If there’s any other detail you want to share, just let me know!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Yeah, I need for my appointment, I would like to have, I would like to get the...”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "No worries at all! Whenever you’re ready, just let me know what you need, and I’ll make sure everything’s arranged for your appointment. Take your time!"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“Yeah, the confirmation of the appointment, because at that specific time I have to work, so I need to show the confirmation to my boss.”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to send you a confirmation once everything is booked. That way, you’ll have it handy for your work. Just let me know if you need anything else, and I’ll take care of it!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“Can I request a copy of my results after the visit, please?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Of course! I’ll make sure that you receive a copy of your results after the visit. If there’s any specific format or way you’d like to receive them, just let me know, and I’ll arrange that for you as well!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“Yeah, I think that's everything. Dr. James told me that you're going to give me the prescription to get my eye drop for my eye.”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Got it, that sounds good! I’ll make sure everything is noted and that you’ll have that prescription ready for you. If you need anything else at all, just let me know, and I’m happy to help!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“I think that's all. Thank you so much.”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you need anything else in the future, just reach out. Have a wonderful day!"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "“Oh, thank you. You too. Have a lovely day.”"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "Thank you so much! Take care, and I’ll talk to you soon. Bye for now!"
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "“Bye.”"
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "Bye! Have a great"
+    }
+  ]
+}

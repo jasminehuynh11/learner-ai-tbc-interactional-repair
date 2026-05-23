@@ -1,0 +1,445 @@
+{
+  "student_id": 7,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S7_W1_T1",
+  "source_file": "data\\raw\\#7\\#7\\#7. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Sure! [smiling warmly as you step up to the counter] Hey there, welcome in! What can I get started for you today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, what do you recommend today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! Well, today our most popular drink is the caramel latte — it‘s smooth, a bit sweet, and perfect for this chilly weather. We’ve also got a new single-origin Ethiopian espresso if you like something a little bolder. Do you usually prefer something milky, or more of a strong coffee flavor?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I like the taste of Note Peter. Can I get something I want to eat?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Ah, you like nutty flavors — nice choice! In that case, I‘d recommend our hazelnut cappuccino; it’s got a rich, roasted nut taste. For food, we‘ve got some fresh pastries — almond croissants, banana bread, and a peanut butter cookie that goes great with coffee. Would you like something sweet, or maybe something more like a light lunch?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Okay, I’ll… Can I please get a Hazelnut Cappuccino and Banana Blade? Okay. Is Banana Blade a sweet?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sure! [smiling] Just to check — did you mean banana bread? It‘s a soft, sweet loaf cake, a bit like a muffin, and yes, it’s definitely sweet! Would you like your hazelnut cappuccino hot or iced?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "It’s a hot day today, so I’d like to get iced cappuccino, please. And any other do you recommend to me?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright! An iced hazelnut cappuccino sounds perfect for a warm day. If you‘d like to try something else, our iced matcha latte is really refreshing, or you could go for a cold brew — it’s smooth and not too bitter. Do you prefer drinks that are more sweet or less sweet?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I already got some sweets. So I like sweeter things. Please."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Got it — since you‘ve already got something sweet, maybe try the cold brew. It’s smoother and less sweet, a nice balance with the banana bread. Would you like a small or a large for your iced hazelnut cappuccino?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "I like the big captino. Can you ask me a question? I don't know Code Blue. What is Code Blue?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course! [smiling] So, cold brew isn‘t a “code blue” — it’s actually a type of coffee! It‘s made by steeping coffee grounds in cold water for many hours instead of brewing with hot water. That makes it smoother and less acidic, with a gentle flavor. Would you like to try a small cup of cold brew along with your iced hazelnut cappuccino?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Oh, sure. Yes, please. Is there a student discount?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Good question! Yes, we do offer a 10% student discount — you just need to show your student ID when you pay. Would you like to have your drinks here, or take them to go?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Okay, I’ll hop here, and are there a seat near the window?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Sure thing! Yes, there are a couple of seats open by the window — they‘ve got a nice bit of sunlight too. Would you like me to bring your drinks over once they‘re ready, or will you pick them up at the counter?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "There are many clusterers, so I'll invite them at the counter later. How many hours do you wait here?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Got it — you‘ll pick them up later, no problem! It’s a bit busy right now, but your order should be ready in about 5 to 7 minutes. Would you like me to warm up your banana bread while you wait?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Warm up, please. By the way, what do you like the most in this shop?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Nice choice — warmed banana bread smells amazing! [chuckles] Personally, I really like our flat white; it‘s smooth and creamy, and I usually have it with a slice of almond croissant. Do you usually drink coffee every day, or just sometimes as a treat?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "I can’t drink bitter taste something, so I never tried to drink coffee, but I’ll try some not bitter coffee in the near future."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Ah, that makes sense! If you don‘t like bitterness, starting with something milky like a latte or a flavored cappuccino is perfect — just like the hazelnut one you ordered. Would you like me to add a little extra milk to make it even smoother?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "If you can do it, yes please. Thank you very much."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course! I‘ll make your iced hazelnut cappuccino extra smooth with a bit more milk. It’ll be ready soon at the counter. Thanks for coming in — enjoy your drink and the sunny window seat!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Oh, I’m sorry. Can I check what I asked you, please?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Sure! Here‘s what you ordered: One large iced hazelnut cappuccino with extra milk One slice of warm banana bread And one small cold brew coffee You‘ll pick everything up at the counter, and you’ll get a 10% student discount when you show your ID. Would you like me to repeat anything or change part of your order?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "I also get a large cold brew coffee, please, and it’s okay."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Alright, got it — I‘ll change your cold brew to a large one instead. So now it’s: Large iced hazelnut cappuccino (extra milk) Warm banana bread Large cold brew coffee Perfect! Thanks for confirming. Would you like a receipt with your order?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Yes, please. And how much is it?"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Sure! So your total comes to $11.70 after the student discount — that‘s: $5.20 for the large iced hazelnut cappuccino $3.50 for the banana bread $3.00 for the large cold brew Minus 10% student discount Would you like to pay by card or cash?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Oh, it’s very reasonable. I’d like to pay by card."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Perfect! You can just tap your card right here on the reader. [smiles] Alright, it‘s all set — your drinks will be ready soon at the counter. Would you like a tray to carry everything more easily?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Oh, yes, please. I’d like a tray to carry. Thank you very much. Have a good day."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You‘re very welcome! [hands you the tray with a smile] Enjoy your coffee and banana bread — have a great day!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Hello. Iced hazelnut cappuccino was very good, and also the banana bread was very sweet and great. I liked the cold brew also. That was a great lunch. By the way, today, what do you recommend?"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Ah, welcome back! I‘m really glad you enjoyed everything last time — that makes my day. [smiling] Today I‘d recommend our iced vanilla latte — it’s smooth, not too sweet, and goes perfectly with our blueberry muffin or chicken pesto sandwich if you‘re a bit hungry. Are you In the mood for something more like a snack or more like a light meal today?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "I’m hungry now, so do you have something like chicken pesto sandwich?"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure do! We‘ve got the chicken pesto sandwich on toasted ciabatta — it comes with melted mozzarella and fresh basil. It’s really filling. Would you like it served hot or just cold and fresh?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "I’ll try chicken pesto sandwich, but any other out there?"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Good choice! Besides the chicken pesto, we also have a smoked salmon bagel, a grilled veggie panini, and a turkey avocado wrap — all really popular for lunch. Would you like something with meat, or are you thinking of trying something lighter or vegetarian today?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Oh, I really love salmon, so I tried smoked salmon bagel, please. And, as you said, I also tried iced vanilla latte, please."
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Perfect combo! The smoked salmon bagel and an iced vanilla latte go great together. Would you like your bagel toasted or just as it is?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "Toast, please. Have you tried the smoked salmon bagel? Is it great?"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Yeah, I have! [grinning] It‘s one of my favorites — the cream cheese and smoky salmon taste amazing together, especially when it’s toasted warm. Would you like any extra toppings, like capers or sliced tomato?"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "What kind of toppings are there, and what’s your recommended?"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Good question! We‘ve got capers, red onion, sliced tomato, and a bit of lemon dill sauce as topping options. Personally, I‘d recommend adding capers and a little lemon dill sauce — they make the flavor really fresh and balanced. Would you like to add those?"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "Okay, I trust you. Capers and a little lemon juice sauce, please."
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Nice! I‘ll add capers and a touch of lemon dill sauce to your toasted smoked salmon bagel. That’ll taste amazing. Would you like your iced vanilla latte in a regular size or large today?"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "Lodge, please, and I’ll pay by card."
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Perfect — one large iced vanilla latte and a toasted smoked salmon bagel with capers and lemon dill sauce. You can just tap your card right here when you‘re ready. Would you like to have it here or to go today?"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "Today, I’ll take away."
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Alright! I‘ll pack everything up for takeaway — it’ll be ready in just a few minutes. Would you like a napkin and a straw with your order?"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "Yes, please. And I’ll eat it, eat them, with my friend, so two pears, please."
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Sure thing! I‘ll pop in two sets of napkins and straws so you can share with your friend. That’s thoughtful of you. Would you like me to split the sandwich in half for easier sharing?"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "Yes, please. And are there something else to share easily?"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Good idea! Yes — we‘ve got a few easy-to-share items: mini quiche bites, chocolate chip cookies, and small fruit cups. They’re perfect for two people. Would you like to add something sweet or something savory to share?"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "I’d like to add something sweet."
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Nice choice! For sweet options, we‘ve got chocolate chip cookies, brownies, and mini blueberry muffins — all freshly baked this morning. Would you like to try one type, or maybe a small mix of them to share?"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "A small mix of them to share, please. And how much is it? How much are they?"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Sure! A small mix box with cookies, brownies, and mini muffins is $4.50. So your total today is $14.20 — that‘s: Smoked salmon bagel with toppings — $7.00 Large iced vanilla latte — $4.00 Sweet mix box — $4.50 Minus 10% student discount Would you like me to put everything in one bag, or separate the sweets from the sandwich?"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "I don’t mind putting everything in one bag. So, please put everything in same bag."
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Alright! I‘ll pack everything neatly together in one bag for you — easy to carry and share. [smiles] Your total is still $14.20 with the student discount. Once you tap your card, I‘ll get your order started. Would you like me to include any forks or spoons for the sweets?"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "Some categories, please. Okay, that’s all."
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Sure thing! I‘ll pop a couple of forks in the bag for you. Thanks so much — enjoy your food and coffee with your friend, and have a lovely day!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "Thank you, have a good day too!"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "You‘re very welcome! [smiles warmly] Enjoy your lunch and see you next time!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "Good morning. Today I'll have breakfast here. So, what do you recommend to me?"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "Morning! [smiling brightly] Great way to start the day. For breakfast, I’d recommend our avocado toast with poached egg — really fresh and filling — or a ham and cheese croissant if you want something warm and buttery. Would you like something more light and healthy, or a bit rich and warm this morning?"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "I can't eat too much at morning, so something more light, please."
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "Got it — something light sounds perfect. In that case, I’d suggest the avocado toast or maybe a Greek yogurt parfait with granola and fruit. Both are fresh and not too heavy. Would you like something to drink with your breakfast — maybe coffee, tea, or juice?"
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "Okay, I'll buy the avocado toast. And do you have orange juice or apple juice?"
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "Nice choice! Yes, we’ve got both orange juice and apple juice, both fresh and chilled. Would you like the orange juice or the apple juice with your avocado toast?"
+    },
+    {
+      "turn": 74,
+      "speaker": "learner",
+      "text": "Which is better? What do you think?"
+    },
+    {
+      "turn": 75,
+      "speaker": "bot",
+      "text": "Hmm, good question! I’d go with orange juice — the citrus flavor goes really well with the creamy avocado and toast. It’s a refreshing combo. Would you like your orange juice in a small or large cup?"
+    },
+    {
+      "turn": 76,
+      "speaker": "learner",
+      "text": "Small cup, please. Okay, that's all. I'll pay by card."
+    },
+    {
+      "turn": 77,
+      "speaker": "bot",
+      "text": "Perfect! One avocado toast and a small orange juice, and you’ll pay by card — sounds great. You can tap your card right here, and I’ll bring your breakfast out in just a few minutes. Enjoy your morning!"
+    },
+    {
+      "turn": 78,
+      "speaker": "learner",
+      "text": "Thank you. What did you eat for morning today?"
+    },
+    {
+      "turn": 79,
+      "speaker": "bot",
+      "text": "Ah, good question! [laughs softly] I just had a quick breakfast — a slice of banana bread and a cappuccino before the morning rush. Simple, but it keeps me going! How about you — do you usually eat breakfast at home or outside?"
+    },
+    {
+      "turn": 80,
+      "speaker": "learner",
+      "text": "I usually eat cereal at home, but sometimes I don't eat breakfast at all."
+    },
+    {
+      "turn": 81,
+      "speaker": "bot",
+      "text": "I see — yeah, that’s pretty common, especially on busy mornings. Cereal’s quick and easy, though! Do you prefer something sweet like cereal, or do you sometimes like savory breakfasts too?"
+    },
+    {
+      "turn": 82,
+      "speaker": "learner",
+      "text": "Can I ask a question? What does the word savory mean? I'm not good at English, sorry."
+    },
+    {
+      "turn": 83,
+      "speaker": "bot",
+      "text": "Of course — no need to apologize! [smiles kindly] The word “savory” means not sweet — it describes foods that have a salty or rich flavor, like eggs, cheese, or sandwiches. For example, toast with avocado or an omelet are savory foods. So, do you think you like sweet breakfasts like cereal and fruit, or savory ones like eggs and toast?"
+    },
+    {
+      "turn": 84,
+      "speaker": "learner",
+      "text": "I always eat sweet breakfast, but truly, actually, I like savory ones."
+    },
+    {
+      "turn": 85,
+      "speaker": "bot",
+      "text": "Ah, nice! So you enjoy savory food but usually end up having sweet breakfasts — that makes sense. If you like savory things, you might really enjoy our egg and spinach toast or mini quiche next time. They’re light but flavorful. Do you like eggs for breakfast?"
+    },
+    {
+      "turn": 86,
+      "speaker": "learner",
+      "text": "Yes, I like eggs. Oh. My lunch are already done. Okay, thank you for... Thank you. Have a good day. If you are free, please tell me your morning recipe."
+    },
+    {
+      "turn": 87,
+      "speaker": "bot",
+      "text": "You’re very welcome! [smiling warmly] I’d love to share my breakfast recipe sometime — it’s really simple: just toasted bread, banana slices, and a drizzle of honey on top. Have a great day, and enjoy your lunch!"
+    }
+  ]
+}

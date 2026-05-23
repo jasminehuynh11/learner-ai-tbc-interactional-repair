@@ -1,0 +1,90 @@
+{
+  "student_id": 30,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S30_W2_T1",
+  "source_file": "data\\raw\\#30\\#30\\#30. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking or Changing a medical appointment 🗨️"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I’d like to make an appointment to see a doctor.” English Conversational Partner disse: Of course. What seems to be the reason for your visit today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I would like to make an appointment.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“No, I'm sorry. I am a student, so I learn English. You... you... help me.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, now I need to talk about doctor and medical. I don't know.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“So now I need practical conversation in English about doctors or appointments.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, so, hello, I need a checkup with doctor. Can you help me?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I prefer day appointment, please.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I'm sorry, I don't understand, won't you repeat, please?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Don't specifically because I don't have nothing, it's only ChatGP.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, I prefer 10 a.m. Thursday or Friday.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Those days, please.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, perfect.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, of course.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Thank you so much, you too!”"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Take care, bye-bye.”"
+    }
+  ]
+}

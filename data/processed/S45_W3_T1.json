@@ -1,0 +1,130 @@
+{
+  "student_id": 45,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S45_W3_T1",
+  "source_file": "data\\raw\\#45\\#45. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, my internet has stopped working, so could you please help me to require it?"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! I can help with that. Could you tell me what kind of internet connection you have — is it Wi-Fi, wired broadband, or mobile data?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Wi-Fi, please, in my apartment."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it. Is the issue that your Wi-Fi network isn’t showing up, or it’s showing but you can’t connect to the internet?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Actually, I can connect with it and it shows in my screen, but I can't use it to check the view, no, check the moves, or send the message or picture."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, so you’re connected to Wi-Fi, but there’s no internet access. Have you tried restarting your router or modem yet?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Oh, I was afraid to restarting it because I don't know the correct connector. Yeah, last time my partner do it and he use a lot of time to use FaceTime to communicate with other workers and start it successfully. I was afraid if I do it, I can't do it."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I understand, no worries — it’s good you’re being careful. Could you tell me which company provides your internet service? That’ll help me guide you safely through the right steps."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Oh, I know, Telestra."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Thanks! Telstra, got it. Do you happen to know where your Telstra modem or router is placed in your apartment — like near the TV, in the hallway, or another room?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Em adas domos. In my partner's rooms, in my platform's rooms, but now he moved so I can go into it and use it."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, so the modem is in your partner’s old room and now you can access it — that’s good. Could you check if the lights on the modem are on right now, and tell me what colors they are?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Yellow, maybe that means it works normally."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Okay, yellow light — that often means the modem is on but not fully connected to the internet. Could you tell me if the yellow light is steady or blinking?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Sorry, I don't know. Could you please ask a technical to my home to help me?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course. I can help you with that. Before we request a technician, could you please confirm the address where the service is installed?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Yes, of course."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Great, thanks! Could you please tell me your full address, including the street number, street name, and suburb?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Of course, I live in the Morgan, Queen Street, 115-7. And if you ask somebody to this address, please call me. My phone number is 04667891999. You can call me and I will take the lift down and lead to him."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Thanks for sharing that. For your privacy and safety, I can’t make real service calls or contact technicians directly. But I can guide you on how to request one through Telstra. You can call Telstra support at 13 22 00 or visit telstra.com.au/support — they’ll schedule a technician for you. Would you like me to show you exactly what to say when you call them?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Please, actually I can't describe the question I faced, so please teach me what should I say when I call them."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure! Here’s a simple way you can say it on the phone — nice and clear: “Hi, my Wi-Fi is connected, but there’s no internet. The modem light is yellow. I’d like to book a technician to come and check it, please.” They may then ask you for: Your name Your address (you can give 115-7 Queen Street, Morgan) Your contact number If you’ve tried restarting the modem yet Would you like me to help you practice how the conversation might go, like a short roleplay?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "No, I will call them later. Thank you."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You’re very welcome. I hope your internet gets fixed soon. Have a good day!"
+    }
+  ]
+}

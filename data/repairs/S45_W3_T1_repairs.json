@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S45_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      1,
+      2
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner used 'require' instead of 'repair'",
+    "evidence_summary": "The learner used 'require' instead of 'repair' in turn 1. The bot correctly interpreted the intent and asked for more details about the internet connection in turn 2, resolving the issue."
+  },
+  {
+    "dialogue_id": "S45_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      11,
+      12
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – learner's description of modem location was unclear",
+    "evidence_summary": "The learner's description of the modem's location was unclear in turn 11. The bot clarified the location in turn 12, confirming understanding and allowing the conversation to proceed."
+  }
+]

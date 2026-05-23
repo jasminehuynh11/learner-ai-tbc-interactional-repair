@@ -1,0 +1,260 @@
+{
+  "student_id": 35,
+  "week": 4,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S35_W4_T1",
+  "source_file": "data\\raw\\#35\\#35\\#35. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Degree change discussion"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hi, I’m thinking about changing my degree"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure, that’s a big decision. What degree are you studying right now?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello, I'm an environmental engineer, but I'm thinking in changing my degree. Could you help me to understand my options?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help! Are you considering moving into a completely different field, or are you thinking of a related area, maybe something like renewable energy or something else?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Let me tell you something about my background and my story. I'm from Colombia. I started my career there. I graduated four years ago, but three months ago I arrived to Australia. And I would like to...”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, that’s really Transcript Unavailable"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries, that makes sense! So you’re looking to explore new opportunities in Australia. Are you thinking of staying within the engineering field, or are you considering something entirely different?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yeah, to be honest, I love my career, and I've worked in relation, relationated things. For almost two years, I've worked with data and managed people, but in things involved to the environment, so in the mayor's office of my city, and in other things as well. But here in Australia, it's different, first because I have to improve my English first, of course, but then I cannot work as data analyst, which was my role in the mayor's office in Bogota.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "I understand; that makes"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“So, it's difficult to hear because a lot of people has a career with data analysis or in general, maybe with software development and things like that. I think I'm like a task.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, that can definitely feel challenging. But your background is still really valuable! We can definitely explore some options that might build on your existing skills and help you get established in Australia. Are there any specific areas or industries that you’re curious about?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Not really, I don't know. I've worked with solid waste, but I don't know if I would like to work in that area. In general, I think I would like to still work in something like similar to Data Analyzed or something like that, because I think I'm good with numbers, with analysis. In Spanish, I'm really good in writing, but not in English, because of course, I'm here for studying English.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That makes a lot of sense! It’s great that you have such strong analytical skills and that you’re motivated to improve your English. We can definitely look at fields like environmental data analysis, or maybe even sustainability consulting. And of course, as you get more comfortable with English, doors will open even more. Let me know if you’d like some suggestions or guidance on specific steps!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yeah, I would like a suggestion. What would you think that I would like to look for according to them?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely! Based"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Australian requirements. My visa is gonna expire in April and I would like to looking for any profession which Australia is needed at this moment.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Got it, that definitely helps narrow it down. We can look into in-demand roles in Australia, especially those that align with your skills in data analysis and environmental engineering. We can also explore professional development opportunities or even certifications that might boost your chances. Let me know if you’d like more detailed info on any specific path!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Do you think I need more experience to apply for any job as data analyzed?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "It can definitely help to have some local experience, but many employers also value your previous international experience. You might consider looking into internships, volunteer roles, or even short courses that can help bridge the gap. And of course, improving your English will also strengthen your profile. I’m happy to help with more specific advice if you need it!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yeah, for example, yeah, what do you think about try to study a master degree or a diploma because I'd like to study a master of course, but it's too expensive. Maybe any diploma would be a better idea. What do you think would be great?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a great point! A diploma can definitely be more affordable and still provide you with valuable, practical skills that can help you get your foot in the door. On the other hand, a master’s degree can open more advanced opportunities and potentially higher salaries in the long run. It really depends on your goals, budget, and timeline. We can definitely explore some options and see what aligns best with what you’re looking for!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“In April, I would like to apply for an extension for my visa, but I don't know if it would be a good idea to apply with a diploma, because I studied a bachelor's degree already, so I don't know if for the embassy it would be a good idea, or it's looking good like applying with a diploma. Well, do you think it makes sense for the Australian embassy?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "I see what you mean! Generally, having a higher qualification, like a master’s degree, can strengthen your visa application and show your commitment to further education. That said, a diploma can still be valuable, especially if it’s related to your field and aligns with your career goals. The key is to show that it adds value to your professional path. We can definitely look at some programs that would be a good fit and also check out what the embassy looks for. Let me know if you’d like to dive deeper into any specific options!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yeah, you... maybe you have any option, maybe I'm gonna apply with the diploma. You have any option according to the necessities in Australia, and of course according with my background as well.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, I can definitely help with that! There are some diplomas in environmental management, data analytics, or sustainable energy that align well with your background and are in demand in Australia. We can explore some institutions that offer those programs and see which ones fit your needs and budget best. And of course, we can look at how these qualifications will support your visa extension as well. Just let me know what you’d like to focus on, and we can go from there!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Actually, in the university, I liked a lot renewable energies.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That’s fantastic! Renewable energy is definitely a growing field in Australia, and it aligns really well with your background. We can look at some universities or institutions that offer specialized diplomas or master’s programs in that area. And that could definitely help strengthen your profile and support your goals. Just let me know if you want some specific recommendations or details!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yeah, maybe I would like it. To be honest, I would prefer to just go straight with data-analyzed. But I have to be realistic because there are a lot of competition here in this country. A lot of people are probably better prepared than me for that. So, also, maybe it's not a necessity in the Australian options. So yeah, you should change the mind, of course. What do you think?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "I totally understand that perspective. It’s definitely important to balance your passions with the practical realities of the job market. And there are definitely ways to carve out a niche for yourself, even in competitive fields. If you're open to it, we can definitely explore some blended paths—maybe combining data analysis with some environmental focus or renewable energy insights. And that way, you can stand out while still following your interests. Let me know how you’d like to proceed!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Actually, that would be fantastic, yeah, like mix something, because to be honest at this moment I don't know if I'm good in another area.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That sounds like a great approach! Blending your strengths can definitely open up more opportunities and help you stand out. We can explore some programs or career paths that integrate data analysis with sustainability and environmental focus. That way, you can leverage your existing skills and also build new ones. I'm excited to help you figure out the best path forward!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Do you have any recommendation? Any recommendation in any university in Australia for example?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely! For example, universities like the University of Melbourne, the University of Queensland, or RMIT University offer great programs in data analytics, environmental management, and renewable energy. They often have flexible diploma and master’s programs that cater to international students as well. We can definitely look into specific courses and see which ones align best with your goals and budget. Just let me know if you’d like more detailed info on any particular university!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Yeah, I was wondering if we can we focus in any university in Sydney because I love Sydney.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Of course! Sydney is a fantastic choice. Universities like the University of Sydney, the University of Technology Sydney (UTS), and Macquarie University all offer great programs in data analysis, environmental science, and renewable energy. We can definitely narrow down some options in Sydney and find the best fit for you. Just let me know what specific areas you’d like to focus on, and we’ll go from there!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Something which Australia needs in the environment. I think I can do it by myself. According to the universities that you gave me already. Thank you.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I’m sure you’ll find some excellent options that align with what Australia needs and match your interests. And if you ever need more guidance or have any questions along the way, I’m always here to help. Good luck, and I’m excited to see where your journey takes you!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“You're so kind, thank you. Actually, I have a last one question. Do you think if there is any scholarship available for international students like me?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely, there are definitely scholarships available for international students in Australia! Many universities offer their own scholarships, and there are also government-funded options, like the Australia Awards. It’s definitely worth exploring those opportunities, and I’d be happy to help you look into some specific scholarships that fit your situation. Just let me know whenever you’re ready!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Yeah, you know about one in specific.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely! For instance, the Australia Awards are quite well-known and cover a range of fields, including environmental studies and data analytics. Also, many universities in Sydney, like the University of Sydney and UTS, have their own scholarship programs for international students. There are also scholarships specifically for postgraduate studies or for students focusing on sustainability and renewable energy. If you want, I can help you look into some specific ones that might be a perfect fit!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“I think, indeed, this was the most useful conversation that I have ever had with the AI. Thank you. You gave me a lot, actually.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Oh, that means so much to hear! I’m really glad I could help. If you ever have more questions or need support down the road, just let me know. Best of luck with everything, and I’m excited to see what you achieve!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“No, thank you. I think that's all for now. You're really kind. Thank you so much.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "You’re very welcome! It was my pleasure to help. Feel free to reach out anytime, and best of luck with everything ahead. Take care!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Thank you. Good luck. Have a good one.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Thank you so much! You too, and take care. If you need anything at all, I’m here. Have a wonderful day!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“See you soon.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely, take care!"
+    }
+  ]
+}

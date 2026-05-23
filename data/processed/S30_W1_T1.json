@@ -1,0 +1,145 @@
+{
+  "student_id": 30,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S30_W1_T1",
+  "source_file": "data\\raw\\#30\\#30\\#30. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering at a café 🗨️"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I would like to order a coffee today!”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! What kind of coffee would you like today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“I won't light up today.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "No worries at all! Would you like something else to drink, like tea or maybe a smoothie?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, no problem at"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Maybe T.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Great choice! What kind of tea would you like? We have black tea, green tea, herbal tea… Let me know your preference."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I would like black tea, please.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Perfect! Would you like that black tea hot or iced?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I sit.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it, iced black tea it is! Would you like any sweetener or lemon with that?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Sweetmare, please.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, I'll add a slice of lemon for you. Is there anything else I can get for you today?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“No, nothing more today. Thank you.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "You're very welcome! I’ll get that ready for you right away. If you need anything else, just let me know."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "You're welcome! I'll have that ready for you in just a moment. Enjoy, and let me know if there's anything else I can help with."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“OK, thank you.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course! My pleasure. If you need anything at all, just give me a shout. Enjoy your tea!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Okay, perfect.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Great! I’m glad everything’s set. If you think of anything else, just let me know. Otherwise, have a wonderful day!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“You too! Have a good day!”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Thank you so much! Take care, and feel free to come by anytime. Bye for now!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Bye-bye!”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Bye! Have a great one!"
+    }
+  ]
+}

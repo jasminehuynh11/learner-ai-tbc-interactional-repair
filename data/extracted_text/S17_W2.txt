@@ -1,0 +1,86 @@
+Week2 – Task 1
+
+English Conversational Partner said: Hi there! Thanks for contacting Green Valley Medical Clinic.
+English Conversational Partner said: Are you calling to make a new appointment, or to change or cancel an existing one?
+You said: Hi, good morning. I'd like to make an appointment this week.
+English Conversational Partner said: Good morning! Absolutely, I’d be happy to help. May I know which day and time works best for you this week?
+You said: Which day is free?
+English Conversational Partner said: Sure! Let me check our schedule for you. We have openings on Wednesday afternoon and Thursday morning. Does either of those times work for you?
+You said: So, Wednesday afternoon, please.
+English Conversational Partner said: Great! I’ll book you in for Wednesday afternoon. Could you please let me know the preferred time, and also the reason for your visit?
+You said: Could I visit 1PM?
+English Conversational Partner said: Absolutely, Alright, so we’ll set it for 1 p.m. on Wednesday. And could you also let me know the reason for your visit, just so we can prepare accordingly?
+You said: Yes, I've had a headache and I couldn't sleep well these days.
+English Conversational Partner said: I’m sorry to hear that. We’ll make sure to note that down. I’ll go ahead and confirm your appointment for Wednesday at 1 p.m. Is there anything else I can assist you with today?
+You said: Is it okay if I come earlier 10 minutes?
+English Conversational Partner said: Of course, that’s absolutely fine! Feel free to arrive 10 minutes early, and we’ll get you checked in smoothly. Is there anything else you’d like to know?
+You said: That will be all. Thanks. I'll see you at 1pm on Wednesday.
+
+
+Week 2 – Task 2
+English Conversational Partner said: Good morning! Thanks for contacting Horizon Bank.
+English Conversational Partner said: How can I assist you today - are you looking to open a new account, update your information, or ask about one of our banking services?
+You said: "Hi, l'd like to open a new bank account."
+English Conversational Partner said: Absolutely, I can help with that! Could you let me know what type of account you're interested in, such as a checking account or a savings account?
+You said: "I'd like to open a new savings account."
+English Conversational Partner said: Great choice! To get started, I'll need a few details. Could you please provide your full name and a valid form of identification? Also, do you currently have an account with us?
+English Conversational Partner said: Great choice! To get started, I'll need a few details. Could you please provide your full name and a valid form of identification? Also, do you currently have an account with us?
+You said: "Yes, sure. My name is Ryota Ogura, and I don't have an account with you."
+English Conversational Partner said: Thank you, Li Tao!No worries at all!
+You said: "What item do I need to blink?"
+English Conversational Partner said: You'll just need to bring 'alid photo ID, such as your passport or driver _ cense, and proof of your address, like a utility bill or bank statement.Once you have those, we can get your account set up right away!
+You said: "Yeah, I got it, my passport is Japan, is it okay?"
+English Conversational Partner said: Yes, that's perfectly fine! Your Japanese passport will work as valid identification. Once you have that and your proof of address, we'll be all set! Let me know if you have any other questions."
+You said: Thank you. What's the difference between these two account types?"
+English Conversational Partner said: Of course! Generally, a checking account is designed for everydav transactions, like deposits, withdrawals, * payments, while a savings account usually offers interest on your balance and is meant for saving money over time. If you'd like more details, I'm happy to explain further!"
+You said: Oh, so I misunderstood, I'd like to open a new checking account.
+English Conversational Partner said: Got it, a checking account it is! We can definitely get that sorted for you. Just bring your ID and proof of address, and we'll have everything set up quickly. Let me kno d you need any more information!
+You said: "Yes, is it possible to do this over the phone?
+English Conversational Partner said: Absolutely, we can start the process over the phone! We'll just need to verify your details and then you can visit the branch to complete the final steps. Let me know if you'd like to proceed that way!
+You said: "Ah, yes, please."
+English Conversational Partner said: Perfect! In that case, let's get started. I'll just need a few details from you, and then we can schedule a convenient time for you to finalize everything. Whenever you're ready, we can begin!
+You said: "I got it."What is the first step?"
+English Conversational Partner said: The first step is to verify your identity and gather a few details, like your full name, contact information, and the best time for us to follow up.Once we have that, we can move on to the next steps. So, whenever you're..ready, just let me know, and we'll get started right away. I'm here to help every step of the way.
+You said: Thank you. I’ll see you at afternoon on Thursday.
+English Conversational Partner said: Sounds good! I'll look forward to connecting with you on Tuesday. If you have any questions before then, just reach out. Have a great day!
+
+
+
+Week 2- Task 3
+English Conversational Partner said: Good afternoon! This is Sarah from Maple Grove Real Estate.
+English Conversational Partner said: Are you calling about a specific property, or would you like help finding a rental that suits your needs?
+You said: "Hi, I'm interested in the two-bedroom unit on Miller Street."
+English Conversational Partner said: Great! The two-bedroom unit on Miller Street is definitely available. May I ask if you'd like to schedule an inspection, or do you have any specific questions about the property?
+You said: "Yes, sure. I'd like to schedule an inspection."
+English Conversational Partner said: Perfect! Let's find a time that works for you.Could you let me know & r preferred day and time for inspection?
+You said: "I preferred 1pm on next Monday."
+English Conversational Partner said: That sounds good! I'll schedule the inspection for next Monday at 1 PM. Is there anything else I can assist you with before then?
+You said: "What documents do I need to include with my application?"
+English Conversational Partner said: Great question! Typically, you'll need to provide proof of identity, proof of income, and references from previous landlords. I can give you a detailed list as well, if you'd like. Let me know if you have any specific questions!
+You said: "Proof of identity is Passport?"
+English Conversational Partner said: Yes, absolutely! A passport is perfectly acceptable as proof of identity. If you have any other questions about th documents or the application process, fe. * ee to ask!
+You said: "Oh, thank you. I have only Japanese passport. Is it okay?"
+English Conversational Partner said: Yes, that's absolutely fine! Your Japanese passport will work perfectly as proof of identity.
+If there's anything else you need, just let me knoW
+You said: "Should I provide any of the documents?"
+English Conversational Partner said: Yes, in addition to your passport, we typically also ask for proof of income, like recent pay stubs or an employment letter, and sometimes a reference from a previous landlord. But I can provide a detailed checklist if you'd like!
+You said: "Yes, thanks."
+English Conversational Partner said: You're very welcome! If you have any more questions or need further assistance, just let me know. I'm here to help
+You said: "How do I pay for rent fee? Pay by card or pay by cash?"
+English Conversational Partner said: Great question! Usually, we prefer payments by bank transfer or direct debit for convenience and security. However, we can also accommodate card payments. Cash payments are generally not preferred. Let me know what works best for you!
+You said: "I think DirectDebit is best for me."
+English Conversational Partner said: That sounds perfect! We can set that up easily. I'll make sure to provide you with all the necessary details and forms for the direct debit setup. If you have any other questions or need assistance along the way, just let me know!
+You said: Thank you for your service. I’ll see you at 1PM on next Monday.
+
+
+
+
+
+
+
+
+
+
+
+
+

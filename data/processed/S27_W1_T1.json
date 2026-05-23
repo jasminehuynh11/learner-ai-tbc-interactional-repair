@@ -1,0 +1,90 @@
+{
+  "student_id": 27,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S27_W1_T1",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering coffee at a café: I want to practise how to order coffee at a café. You are a barista working in a café in Tasmania . I’ll play the role of a customer. Please create a realistic café scenario and respond as if we were really there. Ask me about my preferences, help me choose from the menu, and explain different coffee options. Keep the conversation going naturally by asking at least 3 follow-up questions about size, milk, and payment. Help me practise using more natural vocabulary and expressions. You can ask follow-up questions or suggest more appropriate words if something sounds less natural. Suggest better ways to describe the problem if I use vague or basic words. Help me practise conversation flow and fluency. You can support me if I make mistakes. Thank you."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! Morning — welcome in out of the Tassie breeze. What kind of coffee would you like to start with today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Hi, I want to practice how to order coffee at a coffee shop. You are a brave staff working in the coffee in Tasmania. I will play the role of a customer. So, let's start it."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! A flat white is a fantastic choice. Would you like that in a small, medium, or large size? And also, do you prefer any particular type of milk, like full cream, skim, or maybe a plant-based milk?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Could I please get a cappuccino with oat milk."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, a medium flat white with oat milk, that sounds delicious! And how would you like to pay today? We accept card, cash, or even contactless payment."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Now I will play by cash, please."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, no worries at all! So, just to confirm, we've got a medium flat white with oat milk. I'll get that ready for you. Is there anything else I can help you with while you wait?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Well, I'm wondering, what's your most popular drink?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Oh, great question! Our flat white is definitely a favorite, but we also get a lot of love for our cappuccinos and our cold brews. If you’re ever curious to try something different, I’m happy to make a recommendation!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "I'm interested in trying something new today, so could you give me a piece of chocolate cake? I think it would taste, like, wonderful if I have chocolate cake with my cappuccino."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds delicious! We do have a lovely chocolate cake that pairs perfectly with coffee. I’ll add a slice to your order, and you’ll have a wonderful treat along with your flat white. Sounds good?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "yes, thank you. Would you give me some fun facts about the coffee or beans, like what's the difference between a flat white and a latte?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Of course, I'd be happy to! So, for a flat white, we typically use a double shot of espresso and steamed milk with a velvety microfoam. It’s quite smooth and balanced. If you’re curious about any other coffee types or how we prepare them, I’m more than happy to explain!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yeah, I think that's enough. Thank you."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "No worries at all! I’m always here if you have more questions. For now, I’ll get everything ready for you, and I hope you enjoy your coffee and chocolate cake!"
+    }
+  ]
+}

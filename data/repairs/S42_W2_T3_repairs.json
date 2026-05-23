@@ -1,0 +1,42 @@
+[
+  {
+    "dialogue_id": "S42_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – learner's mention of 'dock' misinterpreted",
+    "evidence_summary": "The learner mentions 'we have a dock,' which the bot interprets as a need for pet-friendly options. The bot's response suggests a misunderstanding, but it moves the conversation forward by focusing on pet-friendly options, resolving the issue."
+  },
+  {
+    "dialogue_id": "S42_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies incomplete question about utilities",
+    "evidence_summary": "The learner's initial question about utilities is fragmented. The bot acknowledges the question, and the learner completes it in the next turn. The bot then provides a complete answer, resolving the issue."
+  },
+  {
+    "dialogue_id": "S42_W2_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies question about references",
+    "evidence_summary": "The learner initially asks if getting references from their home country would be bad. After the bot's response, the learner clarifies by saying 'I mean if we can't.' The bot then addresses this clarification, resolving the misunderstanding."
+  }
+]

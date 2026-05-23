@@ -1,0 +1,190 @@
+{
+  "student_id": 41,
+  "week": 3,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S41_W3_T1",
+  "source_file": "data\\raw\\#41\\#41. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Here is a scenario. I'm connecting my house's provider or internet company to report that the internet isn't working. I need to describe the problem, ask for assistance, and check when the issue will be fixed. Practically speaking, clearly and productively in service society, I need to define the chatbot's roles as housing managers or internet support staff. I can choose a situation from examples below, start with a simple report, and try a more detailed interaction by asking about troubleshooting tips.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Got it! Let's say I'm your internet support agent. We can start with a simple report of your issue, and then we can dive deeper into troubleshooting steps if needed. Whenever you're ready, just let me know what the problem is, and I'll guide you through the process."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Okay, I'm ready. Hi, I have some problem. My internet has some problem. I think maybe it's my router isn't work.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "： Alright, I’m sorry to hear that. Let's get this sorted out. Could you let me know if there are any specific error messages you’ve noticed, or if the internet is down completely in all rooms of your house?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I think that the internet is completely down in my house.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "： Got it, thanks for that info. Have you tried restarting your router or checking if the cables are securely connected? That can sometimes help."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yeah, I have checked my router and the connection. Everything is okay, but it doesn't work. And I know my area isn't voltage. So I don't know what happened.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "： I see, that does sound frustrating. In that case, we might need to run a more detailed diagnostic. Could you let me know the model of your router, and if you’ve noticed any lights or indicators on it that might be unusual?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Actually, I'm not sure my routers, I'm not sure could do, is there any technician will come to my apartment to help me?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "： Absolutely, we can arrange for a technician to visit. Could you let me know your address and the best time for the appointment, so we can schedule that for you as soon as possible?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“What time the technician will come here?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "： We can definitely arrange a time that works for you. Could you let me know what day and time would be most convenient, and I’ll do my best to schedule it accordingly?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“It's available for tomorrow. Tomorrow morning about 10 a.m.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "： That works perfectly! I’ll arrange for the technician to come by tomorrow morning at 10 a.m. We’ll confirm everything and make sure you’re all set. If there’s anything else you need in the meantime, just let me know!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“And also, what should I try before you send someone?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "： Great question! Before the technician arrives, you can try power cycling your router by unplugging it for about 30 seconds and then plugging it back in. Also, checking any loose cables or making sure that the modem is connected properly can help. And if you notice any specific error lights, let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“So, should I wait until tomorrow before someone call me?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "： Yes, it’s usually best to wait until the technician arrives, especially if the troubleshooting steps don’t resolve the issue. But if you do notice anything unusual before then, feel free to reach out, and we’ll do our best to help."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, and also I want to know is this for free or should I need to pay some day post”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "： That’s a great question! Typically, if it’s an issue covered under your service plan, the technician visit is free of charge. But if it’s something outside of that, there might be a fee. I can definitely check the details for you and confirm once we schedule the appointment."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yeah, um, okay, um, and, um...”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "： Absolutely, no worries at all! If you have any more questions or need anything else, just let me know. I’m here to help whenever you need!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“And also, um, and also, I think my...”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "： No problem at all! Whenever you’re ready to share more details, just let me know, and we’ll keep working through it together."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I want to know if, um, um, how can I stop my...”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "： Of course! Just let me know what you’d like to stop or what you need help with, and I’ll be"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“So, I want to know...”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "： Of course, I’m here and listening carefully."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“If I”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "： Take your time, and whenever you’re ready, just let me know. I’m here to help with whatever you need."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“This transcript may not be transcribed.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "： Absolutely, I’m here for that. Just let me know what you’d like to change or"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“If I want to change my apartment, if it's available for my router, how can I change my router?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "： Got it! If you’re looking to change your router, you can definitely contact your internet provider for an upgrade or a replacement. They can guide you through the available options. And if you need any help with that process, I’m happy to assist!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I got it. Bye.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "： You’re very welcome! Take care, and if you need anything else, just let me know. Bye for now!"
+    }
+  ]
+}

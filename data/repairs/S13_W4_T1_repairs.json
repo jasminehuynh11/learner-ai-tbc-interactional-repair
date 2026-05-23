@@ -1,0 +1,27 @@
+[
+  {
+    "dialogue_id": "S13_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      23,
+      24
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not catch bot's previous suggestions",
+    "evidence_summary": "The learner asks the bot to repeat its previous suggestions in turn 23. The bot responds in turn 24 by agreeing to explore the options in more detail, indicating that the learner's request for repetition was understood and addressed, resolving the issue."
+  },
+  {
+    "dialogue_id": "S13_W4_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      27,
+      28,
+      29
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous question – learner confused by bot's question",
+    "evidence_summary": "In turn 27, the learner expresses confusion with 'But do you think what?' indicating they did not understand the bot's previous question. The bot clarifies by highlighting the learner's strong interpersonal skills in turn 28, and the learner acknowledges this with 'All right, thank you' in turn 29, resolving the confusion."
+  }
+]

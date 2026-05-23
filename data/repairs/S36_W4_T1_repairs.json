@@ -1,0 +1,40 @@
+[
+  {
+    "dialogue_id": "S36_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      3,
+      4
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – bot started roleplay prematurely",
+    "evidence_summary": "The learner in turn 3 corrects the bot's action in turn 2, stating the bot should 'Start after my greeting in voice mode' as per the initial instructions. The bot in turn 4 acknowledges and confirms it will wait for the greeting, resolving the misunderstanding about the task initiation."
+  },
+  {
+    "dialogue_id": "S36_W4_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "conversational flow – bot interrupting/asking too many questions",
+    "evidence_summary": "The learner in turn 11 explicitly asks the bot to 'give me a chance answer for you question, not need give me a more question when I didn't answer it for you,' indicating frustration with the bot's conversational style. The bot in turn 12 acknowledges this and promises to 'follow your lead,' resolving the issue."
+  },
+  {
+    "dialogue_id": "S36_W4_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous question – learner's question interpreted too broadly by bot",
+    "evidence_summary": "In turn 43, the learner asks what they 'need learn more' regarding English for the job. The bot in turn 44 provides general industry skills. The learner in turn 45 clarifies that they meant specific English skills (speaking, listening, etc.). The bot in turn 46 then provides a focused answer on those specific English skills, resolving the ambiguity."
+  }
+]

@@ -1,0 +1,185 @@
+{
+  "student_id": 31,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S31_W2_T2",
+  "source_file": "data\\raw\\#31\\#31\\#31. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Bank and Asking for Help with Banking Services"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, good morning.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Good morning! How can I assist you today? Are you looking to open a new account or do you need help with something else?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“I want to update my details because I drank my juice last week. I have moved my phone.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Certainly, I can help with that. To update your address, we’ll need a valid ID and a proof of your new address, such as a utility bill or lease agreement. Could you please provide those documents?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That’s perfectly fine. You can upload them through our online banking portal or bring them to the branch at your convenience. Is there anything else I can assist you with today?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Well, can you repeat your sentence because I don't hear really well. I mean the last sentence, the last last sentence and not the latest one.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Of course. I mentioned that you can upload your documents through our online banking portal or bring them to the branch whenever it’s convenient for you. Is there anything else I can help you with?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Now I mean that one document I should bring to you.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Got it. You’ll need to bring a valid ID and a proof of your new address, such as a utility bill or lease agreement, to update your details. Please bring those documents to the branch when you can. Is there anything else I can assist you with?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I have my ID now and I can approve my address now. Can you help me with that?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Certainly! You can upload your address proof through our online banking portal. If you prefer, I can guide you through the steps. Would you like me to explain how to do that?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Not really, I will give my ID card for you and can you approve my address?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course, you can bring your ID and proof of address to the branch, and we’ll take care of the update for you. Just visit us whenever it’s convenient. Is there anything else"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Now, I mean that I want you to do that for me now, not later. Can you hear me? Can you understand me?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I understand. If you’re at the branch, you can provide your ID and proof of address at the customer service desk, and we’ll update your details right away. If you need any assistance while you’re here, please let me know."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“So you are the assistant and I will give my ID card for you now and you will approve my address now in your system. Now, not in, not later, okay?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll assist you right now. Please hand me your ID card, and we’ll update your address in the system immediately. Thank you for your patience!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“This is my ID card, my new address is 123 in London, 2299, in Newcastle.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Thank you for providing your ID and address details. I’ll update your information in our system right away. If there’s anything else you need, feel free to let me know."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Can I ask about the internal, international transfer? Because I want to transfer to my parents in Vietnam.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course! For international transfers, we offer several options. You can do transfers through our online banking platform or by visiting the branch. There might be fees associated, and exchange rates may apply. Could you tell me if you prefer to do it online or in-branch? Also, do you need information on fees or the process?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Maybe now, maybe I want to transfer now. Can you help me with that? Well, I will transfer about 5,000 to my parents.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Certainly, I can help you with that. To proceed, I’ll need to confirm a few details: The recipient’s full name and bank account information in Vietnam. Your account details and ID for verification. Any specific instructions or preferences for the transfer. Would you like to proceed with these details?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Yes, I am. I will write the details for the recipients in the paper, and I will give you later. And I will ask you another question, like, how do I check if the international transfers are confirmed and freely transferred to my parents after that?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Sure, to check if international transfers are enabled on your account, you can: Log in to your online banking account and check under the international transfers section. Call customer service to confirm if the feature is active. After you complete the transfer, you can track it through your online banking or by contacting customer service for updates. Is there anything else I can help you with?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“So, what should I do if I accidentally transfer money to the wrong account?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "If you accidentally transfer money to the wrong account, it’s important to act quickly. Here’s what you can do: Contact your bank’s customer service immediately to report the error. Provide them with the transaction details, including the amount and the incorrect account information. The bank will assist in trying to recover the funds. It’s important to act quickly, as there may be limitations on what can be done once the transfer is completed. Is there anything else I can help with?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“How many, how many days that I have to wait when the fund will, will be covered and I will receive my fund? When will I receive my fund?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "The time it takes to recover funds from an incorrect transfer can vary. Typically, it depends on the bank’s policies and the circumstances of the transfer. It can take anywhere from a few days to a couple of weeks. Your bank will work to resolve the issue as quickly as possible. Make sure to keep any communication with the bank regarding this matter. If you have more questions, feel free to ask!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Can I request a written statement showing my transaction history?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yes, you can request a written statement showing your transaction history. You can do this through online banking, by visiting the branch, or by contacting customer service. They will provide you with a detailed statement of your account transactions. Is there anything else I can help you with?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Okay, I will check, I will give my, I will give the details of the recipients in Vietnam and Can you give, and after transfer the money to my parents, can you give me the real statement? my transaction history”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Certainly! After you complete the transfer, you can request a written statement of your transaction history at the branch, through online banking, or by contacting customer service. We'll make sure you have all the documentation you need."
+    }
+  ]
+}

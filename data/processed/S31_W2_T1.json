@@ -1,0 +1,225 @@
+{
+  "student_id": 31,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S31_W2_T1",
+  "source_file": "data\\raw\\#31\\#31\\#31. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, I can help with that. What type of appointment are you looking to schedule? Is it for a general check-up, a specific concern, or something else?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“I will talk about my symptoms and can you define me where I should go?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course. To help you best, could you please let me know what symptoms you're experiencing? Also, would you prefer an appointment with a general practitioner or a specialist?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“What is the difference about both of these?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sure. A general practitioner, or GP, handles a wide range of health issues and can treat common illnesses, provide check-ups, and offer general medical advice. A specialist focuses on a specific area of medicine, like cardiology or dermatology, and treats more specialized concerns. Which type of appointment do you think would be more suitable for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Maybe both of them because I have a heart and also I want to improve my health.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it. For a cough, you can see a general practitioner first. They can assess your symptoms and determine if you need to see a specialist. Would you like to book an appointment with our general practitioner? If yes, I can check available times for you."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, I am. Do you have available appointments for in this week?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Let me check. We have available appointments with our general practitioner on Wednesday at 10 AM, Thursday at 2 PM, and Friday at 11 AM. Which time works best for you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“It is available in Wacom.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Our general practitioner's appointments are available from Monday to Friday. If you need a weekend appointment, I can suggest seeing a nurse or another available healthcare professional. Would you prefer a weekday appointment, or would you like to discuss weekend options?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yeah, it can be in Friday.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great! I’ll book you an appointment with our general practitioner this Friday at 11 AM. Could you please provide your full name and contact number to confirm the booking?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“My name is Ang. My phone number is 1234567.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Thank you, Ms. Ang. I’ve scheduled your appointment for Friday at 11 AM. If you have any questions or need to make changes, feel free to call us. We look forward to seeing you. Take care!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“So why I haven't tell about my symptoms?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I apologize for that. Could you please describe your symptoms so we can make sure to address them during your appointment?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Tuesday ago, I had a headache, a really, really hurt one, and I also still have a headache until now. And also, I also have a lot of blood in my stomach.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "I'm sorry you're feeling this way. It sounds like you have a headache and a cough. It’s good that you’re coming in for your appointment so we can help you. Please remember to stay hydrated and rest. If you have any other symptoms or concerns, feel free to let us know. We’ll see you on Friday at 11 AM. Take care!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Should I bring something with me, like medical care or something? Do I have any, like, my family, my husband, or my mother, or my dad to go with me?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "For your appointment, please bring your ID and your insurance card, if you have one. It’s also helpful to bring a list of any medications you’re taking. If you’d like someone to accompany you, that’s absolutely fine. Family members are welcome to join you if you prefer. If you have any other questions, feel free to ask!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Can I request a copy of my result after reset?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, you can request a copy of your results after your visit. You can either pick them up at the clinic or receive them via email or mail, depending on your preference. Just let the staff know during your appointment, and we’ll make sure you get them. If you have any other questions, feel free to ask!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“So what will be written in the results?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "The results will include any tests or assessments done during your visit, such as blood tests, imaging, or other diagnostic information. It will also include the doctor's notes and any recommendations or next steps for your care. If you have specific questions about your results, you can discuss them with your doctor during a follow-up appointment. Let us know if you have any other questions!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“So how much will I pay for the results or for meeting a professional?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "The cost for medical services and test results can vary depending on your insurance coverage and the specific tests or services provided. It’s best to contact our billing department or check with your insurance provider for exact details. If you have any concerns about costs, feel free to ask us, and we’ll do our best to assist you."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“To have the discount for students.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "We do offer discounts for certain situations. It’s best to speak with our billing department to see if you qualify for any discounts or financial assistance. They’ll be able to provide you with detailed information. If you need help contacting them, just let us know!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“So I don't need to have options if I can't come in person.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yes, we offer telehealth options if you’re unable to come in person. You can schedule a virtual appointment with our healthcare provider to discuss your symptoms and receive care. Please let us know if you’d prefer a telehealth appointment, and we’ll assist you in setting it up."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Is there anyone available now?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Let me check our telehealth appointment availability. We can offer telehealth appointments on weekdays, typically within the same timeframe as in-person visits. If you’d like to book a telehealth appointment now, please let us know your preferred time, and we’ll do our best to accommodate you. Alternatively, you can call our clinic to schedule it directly."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“I won't now. I think that I cannot wait for my way to Friday, so maybe now is the best option.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "I understand. Let me check the availability for a telehealth appointment today. Please hold on for a moment."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Hi, are you still there? Do you check up?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Thank you for waiting. We do have a telehealth appointment available today at 2 PM. Does that work for you? If so, I can help you set it up."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“It is 1.45pm now, and it's 2pm on 15 minutes away. Okay, that's good.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Perfect! I’ve scheduled your telehealth appointment for today at 2 PM. You'll receive a link or instructions to join the virtual appointment. If you have any issues, feel free to contact us. Take care, and we’ll see you soon!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Yeah, thank you. That really helps. And also, I haven't mentioned about when I have the appointment for my, like, improving my health.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "You’re welcome! If you have any concerns or want to discuss improving your health, feel free to bring them up during your appointment. Our healthcare provider will be happy to assist you with any health improvement plans. Take care, and we’ll see you soon!"
+    }
+  ]
+}

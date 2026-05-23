@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S40_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      4,
+      5
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – incomplete question",
+    "evidence_summary": "The bot's question in turn 4 is incomplete, leading to potential confusion. The learner clarifies their preference in turn 5, resolving the issue."
+  },
+  {
+    "dialogue_id": "S40_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – misinterpretation of learner's order",
+    "evidence_summary": "The learner's order in turn 15 is slightly unclear, but the bot correctly interprets it in turn 16, confirming the order and resolving any potential confusion."
+  }
+]

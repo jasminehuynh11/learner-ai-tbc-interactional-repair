@@ -1,0 +1,48 @@
+[
+  {
+    "dialogue_id": "S35_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7,
+      8
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – learner's phrase unclear",
+    "evidence_summary": "The learner's phrase 'I'll try to plug it in and plug it in' is unclear. The bot responds by asking about the router lights, which helps clarify the situation. The learner then provides more information about the router lights, resolving the issue."
+  },
+  {
+    "dialogue_id": "S35_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – unclear learner input",
+    "evidence_summary": "The learner's input 'Altyazı M.K.' is unclear. The bot asks for clarification about the device or operating system, and the learner responds with uncertainty about their machine. The bot reassures the learner, resolving the issue."
+  },
+  {
+    "dialogue_id": "S35_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner requests email service",
+    "evidence_summary": "The learner requests a recording to be sent via email, which the bot cannot do. The bot clarifies its limitations, and the learner acknowledges this, resolving the misunderstanding."
+  }
+]

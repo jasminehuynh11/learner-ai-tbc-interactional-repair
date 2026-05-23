@@ -1,0 +1,276 @@
+WEEK1 – 
+TASK 1: 
+Q1- Ordering at a café 🗨️“Hi, I would like to order a coffee today!”
+You said:
+“I would like to order a cappuccino.”
+00:02
+English Conversational Partner said:
+Awesome choice! And would you prefer that cappuccino in a small, medium, or large
+size?
+You said:
+“Can you please tell me what you put inside the cappuccino?”
+00:06
+English Conversational Partner said:
+Absolutely! A cappuccino is typically made with a shot of espresso, steamed milk, and
+a generous layer of foamed milk on top. It’s got that nice balance of rich espresso and
+creamy foam. Let me know if you have any specific preferences!
+You said:
+“Because I would like also a little bit of chocolate inside it, so can you suggest me
+something with it?”
+00:09
+English Conversational Partner said:
+Absolutely, we can do that! We can add a little chocolate syrup or even some cocoa
+powder on top to give it that extra chocolaty touch. That’ll definitely make it even more
+delicious! Let me know if that sounds good to you.
+You said:
+“Oh, it's perfect. And I would like to choose the medium size.”
+00:05
+English Conversational Partner said:
+Great choice! So we'll go with a medium cappuccino, with a touch of chocolate as well.
+That’s going to be delicious! Is there any particular type of milk you’d prefer, or would
+you like to keep it standard?
+You said:
+“...a light milk, something without a lot of fat inside.”
+00:07
+English Conversational Partner said:
+Absolutely, light milk it is! That’ll give you a nice, creamy texture without too much
+richness. Perfect! Is there anything else you’d like to add, or are we all set for your
+order?
+You said:
+“The cup is big, the medium size is enough, do you think?”
+00:04
+English Conversational Partner said:
+Absolutely, a medium size is definitely plenty and will give you that perfect balance.
+Alright, so we have a medium cappuccino with light milk and a hint of chocolate. That
+sounds absolutely delicious! Let me know if there's anything else you’d like to add.
+You said:
+“You can offer also some biscuits or something similar to it.”
+00:06
+English Conversational Partner said:
+Oh, absolutely! We’ve got a lovely selection of biscuits and pastries. We can add a
+butter biscuit, a biscotti, or even a little croissant if you'd like. Just let me know what
+sounds good to you!
+You said:
+“Can you please tell me something that you have?”
+00:07
+English Conversational Partner said:
+Of course! We have a variety, like buttery shortbread cookies, crunchy biscotti in
+different flavors, and some almond cookies as well. We also have a few sweet pastries,
+like mini croissants or fruit danishes. Just let me know what you’re in the mood for!
+You said:
+“Do you have pain au chocolat?”
+00:02
+English Conversational Partner said:
+Yes, we do! We have delicious pain au chocolat available, fresh and flaky. That would
+pair wonderfully with your cappuccino. Would you like to add one to your order?
+You said:
+“Yes, and also our orange juice, please.”
+00:03
+English Conversational Partner said:
+Absolutely, that sounds perfect! So, we’ll have a medium cappuccino with light milk, a
+hint of chocolate, a pain au chocolat, and a fresh orange juice. That’s going to be a
+delightful combo! Let me know if there’s anything else you’d like to add.
+You said:
+“No, it's okay. Thank you so much.”
+00:02
+English Conversational Partner said:
+You’re very welcome! I’ll get everything prepared for you. If you need anything else at
+all, just let me know. Enjoy your coffee and your treats!
+You said:
+“Thank you. Can I sit here? There?”
+00:03
+English Conversational Partner said:
+Of course, absolutely! Feel free to take a seat wherever you’d like, and I’ll bring your
+order over as soon as it’s ready. Enjoy your time!
+You said:
+“I have to wait over there, or I can take it by myself.”
+00:07
+English Conversational Partner said:
+You’re welcome to do either! If you’d like, you can have a seat and I’ll bring it right over
+once it’s ready, or if you prefer, you can just pick it up at the counter. Whatever’s most
+convenient for you!
+You said:
+(Transcription not available)
+00:05
+English Conversational Partner said:
+That sounds perfect! I’ll bring your order right over to you as soon as it’s ready. In the
+meantime, just relax and enjoy yourself!
+You said:
+“Thank you so much.”
+00:01
+English Conversational Partner said:
+You’re very welcome! If you need anything at all, just let me know. Enjoy your time and
+your coffee!
+You said:
+“And about the payment, can I pay with my card?”
+00:04
+English Conversational Partner said:
+Absolutely, you can pay with your card. We’ll have everything ready for you, and when
+it’s time, you can just settle up at the counter or right at your table. No worries at all!
+You said:
+“Can I pay now?”
+00:01
+English Conversational Partner said:
+Of course, you can definitely pay now if you’d like! Just let me know when you’re ready,
+and I’ll get everything set up for you.
+You said:
+“Okay, I'm ready.”
+00:00
+English Conversational Partner said:
+Great! Let me go ahead and process that for you. I'll take your card and get everything
+squared away. Once that’s done, you can just relax and enjoy your order!
+WEEK1 – 
+TASK 2: 
+Q2-🍽️Booking a table at a restaurant 🗨️“Hi, I’d like to book a table for two tonight.”
+for the reservation, do you have a preferred time, and is there any special occasion we
+should know about?
+You said:
+“Yes, it's my boyfriend's birthday, so if you can provide a birthday cake for her.”
+00:13
+English Conversational Partner said:
+Of course, that sounds lovely! We can definitely arrange a birthday cake. Do you have
+any specific flavor or type of cake in mind?
+You said:
+“Yes, something with chocolate and fruit like strawberry, blueberries, so this type of
+fruit.”
+00:10
+English Conversational Partner said:
+That sounds delicious! We'll make sure to have a chocolate cake with fresh
+strawberries and blueberries. Is there anything else you'd like us to include, like a
+special message on the cake?
+You said:
+“Yeah, like, happy birthday, Maria. And, uh, can I ask for a dark chocolate... ...cake?”
+00:10
+English Conversational Partner said:
+Absolutely, a dark chocolate cake it is! And we’ll have the message “Happy Birthday
+Maria” on it. Is there a particular time tonight that works best for your reservation?
+You said:
+“at 9, please.”
+00:01
+English Conversational Partner said:
+Perfect, I'll book your table for two at 9 PM. Is there any particular seating preference
+you have, like indoors or outdoors, or maybe a quieter corner?
+You said:
+“It depends on the weather, but we prefer in general to stay outside.”
+00:04
+English Conversational Partner said:
+Got it, we'll aim for an outdoor table, weather permitting. If anything changes, we'll let
+you know. Is there any specific cuisine or dietary requirement we should be aware of?
+You said:
+“Yeah, we are both vegetarians, so do you have vegetarian dishes or choice?”
+00:06
+English Conversational Partner said:
+Absolutely, we have plenty of delicious vegetarian options on the menu. I'll make sure
+to highlight those for you. Is there anything else you'd like us to prepare or any special
+requests?
+You said:
+“Do you have the menu online or can I check some dishes online?”
+00:05
+English Conversational Partner said:
+Yes, absolutely! We do have our full menu available online, and I can share the link with
+you. That way, you can browse through the dishes before your visit. Would that work for
+you?
+You said:
+“Okay, perfect. And do you have a lot of wine selection?”
+00:05
+English Conversational Partner said:
+Yes, we do have a wonderful selection of wines, including some great vegetarian-
+friendly options. If you have any particular preference or type of wine you enjoy, just let
+me know, and we’ll make sure to have it ready for you.
+You said:
+“Her favorite wine is Chardonnay, so if you have a good Chardonnay, I will take it.”
+00:06
+English Conversational Partner said:
+Perfect! We'll have a lovely Chardonnay ready for you. I’m sure you’ll enjoy it. If there's
+anything else you think of before your visit, just let me know!
+You said:
+“Do you do something special like something with fireworks or these things?”
+00:05
+English Conversational Partner said:
+Absolutely, we can arrange something special! We can have a little sparkler or a small
+celebratory surprise for the birthday. Just let us know what you’d prefer, and we’ll make
+it memorable!
+You said:
+“Do you have some standards or something that you usually do for it?”
+00:04
+English Conversational Partner said:
+Yes, we do have some standard celebratory touches, like a complimentary dessert or a
+special toast from our staff. We can definitely personalize it even more if you’d like. Just
+let us know, and we’ll make it extra special!
+You said:
+“Okay, perfect.”
+00:01
+English Conversational Partner said:
+Great! I'm really looking
+You said:
+“And can I ask for a table that is not surrounded by a lot of other tables, like something
+more private?”
+00:14
+English Conversational Partner said:
+Of course, we can definitely arrange a more private table for you, away from the crowd.
+I'll make sure to find a cozy, quieter spot. If there’s anything else you need, just let me
+know!
+You said:
+“What time do you close the kitchen and the restaurant?”
+00:05
+English Conversational Partner said:
+Our kitchen usually closes around 10 PM, and the restaurant itself closes a bit later,
+around 11 PM. So you’ll have plenty of time to enjoy your evening. If you have any other
+questions, just let me know!
+You said:
+“Okay, thank you. So, can you make a summary of all about the time and these things?”
+00:08
+English Conversational Partner said:
+Absolutely! So, we have your reservation for two at 9 PM tonight. You'll have a dark
+chocolate cake with strawberries and blueberries, and a special message saying
+"Happy Birthday Maria." We'll also have a lovely Chardonnay ready for you, and a more
+private, quieter table outdoors. The kitchen closes at 10 PM, and the restaurant at 11
+PM. If there's anything else, just let me know!
+You said:
+“And don't forget the vegetarian meal.”
+00:03
+English Conversational Partner said:
+Absolutely, I’ve got that covered as well! We’ll ensure there are plenty of delicious
+vegetarian options for you both. Everything’s set for a wonderful evening. If anything
+else comes to mind, just let me know!
+You said:
+“Okay, thank you so much, have a nice day.”
+00:02
+English Conversational Partner said:
+You're very welcome! It’s my pleasure. Have a wonderful celebration, and if you need
+anything else, just reach out. Take care and have a great day!
+
+
+Task 3: 
+Returning or Exchanging Clothes and Asking About Store Policies 
+You: “Good morning, I would like to change this pair of pants because it's so large for me.” 
+Shop Assistant: Good morning! I’m happy to help with that. Do you have the receipt or the original proof of purchase with you? 
+You: “Yes, I have. Here we are.” 
+Shop Assistant: Perfect, thank you! And would you like to exchange them for a different size, or are you looking for a different item altogether? 
+You: “I'm looking for different size, but if you have some other option, I will ask you to show me.” 
+Shop Assistant: Absolutely, that sounds good! Let me check if we have that size in stock, and I’ll also show you some other options that might interest you. Sound good? 
+You: “Oh, thank you so much.” Shop Assistant: You're very welcome! Just give me a moment, and I’ll get everything sorted for you. In the meantime, is there a particular style or color you prefer? You: Transcription not available 
+Shop Assistant: Got it, no worries! 
+You: “I don't know how to say that. Not skinny jeans, but a little bit more larger.” 
+Shop Assistant: Absolutely! You can say something like "straight-leg jeans" or "relaxed fit jeans." That way, they're not too tight and have a bit more room. Let me know if that works for you! 
+You: “Yeah, okay, a large, a relaxed pants of jeans.” 
+Shop Assistant: Perfect, that sounds great! I’ll find a few options in that style and size for you. Just give me a moment, and I’ll show you what we have! 
+You: “So, do you have something?” 
+Shop Assistant: Yes, absolutely! We do have a few pairs that match what you're looking for. Let me grab them for you, and we can see which one fits best! 
+You: “I think I chose the black one.” 
+Shop Assistant: Great choice! The black ones will look fantastic. Let me get them ready for you, and if you need any further assistance, just let me know! 
+You: “How much is the costa?” 
+Shop Assistant: Sure! Let me check the price for you right away. I’ll confirm the cost and let you know in just a moment. 
+You: “So,” 
+Shop Assistant: Alright, I’ve checked the price, and it’s going to be $ fifty-five. Let me know if that works for you, or if you have any other questions! 
+You: “Oh, it's perfect. If you have also some other clothes, like some t-shirt, that's good with them.” 
+Shop Assistant: Absolutely, I'd be happy to help with that! Let me show you a few t shirts and sweaters that would pair nicely with those black jeans. Just give me a moment, and I'll bring some options for you! 
+You: “and” 
+Shop Assistant: Alright, I've got a few options ready for you! Let's take a look and see which ones you like best. If there's anything specific in mind, just let me know! 
+You: “No, just something that's sweet with these pants. So maybe some color that's sweet with these black jeans.” 
+Shop Assistant: Got it, that makes sense! I'll pick out some neutral or complementary colors that go well with black jeans. Let me show you a couple of options, and we’ll find the perfect match! You: “Okay.” 
+Shop Assistant: Awesome! I'll go ahead— 
+You: “I think the t-shirt that you have in your...” 
+Shop Assistant: Sure, I’ll bring that t-shirt right over, and we can see how it looks together. Let me know if you have any other preferences or questions! 
+You: “Okay, it's, uh, it's good, this one.” Shop Assistant: Perfect, I’m glad you like it! If there's anything else you need or any other items you’d like to look at, just let me know. Otherwise, we can wrap things up whenever you’re ready!
+

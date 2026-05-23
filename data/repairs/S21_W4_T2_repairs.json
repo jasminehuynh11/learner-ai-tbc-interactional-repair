@@ -1,0 +1,39 @@
+[
+  {
+    "dialogue_id": "S21_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      21,
+      22
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's previous statement",
+    "evidence_summary": "The learner explicitly states they couldn't understand in turn 21. The bot then rephrases its previous statement in turn 22, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S21_W4_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      50,
+      51
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requests slower repetition of bot's suggestion",
+    "evidence_summary": "The learner asks the bot to say the sentence slowly in turn 50. The bot complies by repeating the sentence slowly in turn 51, and the learner acknowledges understanding in subsequent turns, resolving the issue."
+  },
+  {
+    "dialogue_id": "S21_W4_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      52,
+      53,
+      54
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requests a shorter version of the bot's suggestion",
+    "evidence_summary": "The learner finds the bot's suggestion too long to remember in turn 52 and asks for a shorter version. The bot provides a concise alternative in turn 53, and the learner confirms understanding in turn 54, resolving the issue."
+  }
+]

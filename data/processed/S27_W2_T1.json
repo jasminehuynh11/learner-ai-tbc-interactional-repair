@@ -1,0 +1,185 @@
+{
+  "student_id": 27,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S27_W2_T1",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "👨🏻‍⚕️Booking or Changing a medical appointment 🗨️ “Hi, I’d like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. What’s the reason for your visit today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I’ve been having headaches and feeling more tired than usual over the past week."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, headaches and fatigue for about a week — got it. Have your symptoms been getting worse recently, or staying about the same?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "They’ve gotten a bit worse, actually. The headaches are more frequent now, and I’m feeling even more tired than before. So Is there available tomorrow morning?"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure. We do have some openings tomorrow morning — what time works best for you?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "How early could I come in?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright. The earliest slot we have tomorrow is  a.m. — would that work for you?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "is a bit early for me. Would there be any little later time in the morning?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure. We also have  a.m. and  a.m. available. Which of those would suit you better?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Yes,  a.m. sounds good."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, I’ll hold  for you. Could I get your full name for the appointment?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Charissa, and the first letter is C, not K."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it — Charissa, with a \"C\". May I also have your surname, please?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Guo"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Thank you, Ms. Guo. Just to confirm: an appointment for tomorrow at  a.m. to see a doctor regarding headaches and fatigue."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Yep, thanks. Do I need to bring anything? Do I need to bring my Medicare card even if I'm a student visa holder?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Yes, please bring your Medicare card if you have it. If you don't have it, you can still come. We can talk about other ways to pay."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "I see. And how long is the appointment likely to take?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Most standard consultations are about 15 to 20 minutes, though it may go a bit longer depending on what the doctor needs to discuss with you."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "That’s good to know. Also, is bulk billing available for students?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sometimes, yes. It depends on the doctor and your situation. Some doctors bulk bill students. Others may charge a small fee. Are you a student with a valid Medicare card?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Yes, I have a Medicare card."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That’s good! If you have a Medicare card, you may be able to get bulk billing. It depends on the doctor and the type of visit. Did you want a long visit or just a quick check for your headache?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Just a quick check please."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Okay, a quick check is fine. For a simple visit like this, bulk billing may be possible. We will check when you arrive."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Thank you. See you tomorrow."
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You're welcome! Just to make sure — your appointment is tomorrow at  a.m. Please come about 10 minutes early. Bring your Medicare card if you have it. Anything else I can help you with before you go?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Could I request a copy of my results after the visit?"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Yes, you can. After your visit, you can ask the doctor or our staff for a copy of your results. Some results may take a day or two. We can print or email them to you. Would you like the results sent by email or printed paper?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "I think printed paper is fine."
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Great, printed paper is no problem. We can give it to you before you leave. Is there anything else you want to know before your appointment?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "No, I think that’s everything for now."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Okay, thank you. If you have any problems or need to change your booking, just call us. Have a good day, and take care!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Thank you! Have a nice day!"
+    }
+  ]
+}

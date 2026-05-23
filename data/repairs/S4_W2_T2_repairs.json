@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S4_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      23,
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'overdraft option'",
+    "evidence_summary": "The learner asks for the meaning of 'overdraft option' in turn 23, indicating a lack of understanding. The bot provides a clear explanation in turn 24, and the learner responds with understanding and a decision in turn 25, resolving the issue."
+  }
+]

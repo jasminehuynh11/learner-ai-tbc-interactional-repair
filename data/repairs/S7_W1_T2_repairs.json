@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S7_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner provides a phone number in turn 6, but it is likely misrecognized or incomplete ('123-456-789'). The bot does not explicitly ask for clarification but confirms the reservation details, including the phone number, in turn 7, indicating the issue was resolved implicitly."
+  },
+  {
+    "dialogue_id": "S7_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner realizes they confused the reservation date and initiates a correction in turn 22. The bot acknowledges and updates the reservation to the correct date in turn 23, resolving the issue."
+  }
+]

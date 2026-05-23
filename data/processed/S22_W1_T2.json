@@ -1,0 +1,185 @@
+{
+  "student_id": 22,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S22_W1_T2",
+  "source_file": "data\\raw\\#22\\#22\\#22. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a Restaurant Table"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I’d like to book a table for two tonight.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course! What time would you like the table for tonight?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“ I want to book the restaurant 7PM today”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Perfect, I'll put it under Patel. And just to check, do you have any seating preferences, like near a window or maybe a quieter corner?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I went have a dinner near the window.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, a quieter corner it is. Now, do you have any dietary restrictions or any special requests for the meal tonight?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“special made today.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely noted. Thanks for letting me know. And one last thing—would you prefer an indoor or an outdoor seating area tonight? Me : “I want to outdoor sitting.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure, outdoor seating sounds great. I'll get that arranged. And is there anything special you're celebrating tonight, or is it just a regular night out?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yes, my friend's is first day.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Oh, how lovely! Well, happy first date to them. We'll make sure everything's nice and comfortable. And just before I finalize it, would you like to pre-order any drinks or should they decide once they arrive?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Can I ask about the menu?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! Feel free. What would you like to know about the menu and I can help you out?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "English Conversational Partner의 말: Sure, go ahead and ask me anything about the menu. I'm here to help!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Could you recommend the best dishes?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "English Conversational Partner의 말: Absolutely. One of our most popular fish dishes is the grilled sea bass with lemon butter. It's a real favorite. Is that something that might interest them? Me : “Yeah, it's very interesting.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Great choice! I think they'll enjoy it. So I've got everything noted. Your table will be ready tonight, and we’ll see you then. Thanks for booking with us!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, but we have two children with us.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, we do have a children's menu as well, so there's no problem if they join. Anything else you'd like to check about that?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Sure thing! Just let me know whatever else you need and I'm happy to help."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“If the private room isn't available, is there another quiet spot you'd recommend?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, if that spot fills up, we can find another cozy corner for you. We’ll make sure it's nice and quiet. Anything else you’re curious about?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Yes, we'd like to bring a small gift for someone or their politics we should know about.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course, that sounds lovely. Feel free to bring the gift along. We’ll be happy to keep it safe until you want to give it to them. Anything else on your mind?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Nothing else. Thank you so very much.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You're very welcome! We'll have everything ready for you tonight. See you then!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yeah, can I check my booking?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Sure, absolutely. If you want to check the details, just let me know what exactly you need to confirm, and I'll run through it with you."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Just confirm.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "All right, sounds good. So we've got you down for a table for two, outdoor seating, a quiet spot, and everything else noted. We'll be all set. Let us know if you need anything else."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Yeah, thanks.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You're welcome! We'll see you tonight, then. Take care!"
+    }
+  ]
+}

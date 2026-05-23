@@ -1,0 +1,305 @@
+{
+  "student_id": 35,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S35_W3_T1",
+  "source_file": "data\\raw\\#35\\#35\\#35. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, my internet has stopped working"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, sorry about that—are you using Wi-Fi or a wired (Ethernet) connection?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, my internet has stopped working.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, I’m here to help. Can you tell me if you’ve tried restarting your router or modem yet?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I'll try to plug it in and plug it in.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, great! That’s a good first step. Are you noticing any lights on the router that might give a clue, like if any are off or blinking?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I think it's still working as always because the lags are turned on.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Gotcha, that’s good to know. In that case, have you tried connecting another device to see if the issue is with one device or with the entire network?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yeah, yeah, yeah. I did. I did. I tried. And it's still not working.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I see, got it. In that case, we might need to check with your internet service provider. Have you noticed any outages in your area, or have you received any notifications from your provider?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I haven't received any notifications, so I think it's not a problem from the area. I think it's a problem with the internet from you guys.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "I understand. Alright, in that case, we can definitely troubleshoot further. Have you tried any specific troubleshooting steps, like checking your device’s network settings or running a diagnostic test?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Not yet. Can you explain to me how I can do it, please?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! So, one thing you can try is to open your device’s network settings and run the built-in troubleshooter. If you’re on Windows, for example, you can go to the Network & Internet settings and select the network troubleshooter. Would you like some guidance for a specific device?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Altyazı M.K.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely! Just let me know which device or operating system you're using, and I’ll walk you through the steps to get that troubleshooting going."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Hmm, I don't know what kind of machine I have.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“I would like to know, actually, if there is a technician available today.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that. Let me know your provider, and I can guide you on how to contact a technician or schedule a service visit."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“The provisor is Claro.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Got it, thanks for that info! For Claro, you can usually reach their customer support line, and they’ll set up a technician visit if needed. Would you like me to give you their contact number or guide you through their online support?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“アウタッチを確認できますか?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! If you give me your location or your area, I can look up any reported outages for Claro and let you know what's going on."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Hello, I check your data. What should I try before using someone?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Sure! Before reaching out to a technician, it’s always helpful to double-check a few things, like making sure all cables are securely connected, verifying that your device’s Wi-Fi is turned on, and even testing with another device. That way, we can narrow down the issue before getting extra help."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah, I did everything. I think I reset the motor again, I plugged it in and unplugged it, so I think I did everything.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. Since you’ve tried all those steps, it might indeed be something on the provider’s end. I’d recommend contacting Claro’s support directly just to confirm if there’s an outage or to get further assistance. But I’m here if you need any more help along the way!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Uh, yeah, I think this is a line to Pilaro Contacts, isn't it?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Yes, exactly! That’s definitely the right approach. And if you need any more guidance or have any other questions, just let me know."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yeah, and can you give me like an appointment, a day, maybe any rank of hours?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Absolutely! To set up an appointment, you can usually contact Claro’s support line and let them know your availability. They’ll be able to give you a time slot, usually within a certain window, like morning or afternoon. If you’d like, I can guide you through the steps to reach out to them or help with any other details."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Yeah, I need a recording for this conversation. I think it doesn't bother you. Can you send me the record of the calling, please?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Of course! I’m happy to help. Typically, the provider’s support call will have its own recording, but if you need any notes or a summary from our conversation, I’m more than happy to provide that. Just let me know what you need!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yeah sure, just the records. I think you have my email in your data.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "I’m here to help as best as I can! Just to clarify, I don’t have access to your personal data or email. But if you have any questions or need a summary, I’m more than happy to provide that right here. Just let me know what you need!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Just send me the record to my email. My email is Nicolas Moncada.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "I’m here to help in"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“at gmail.com point com, sorry”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "I appreciate you sharing that. Just to let you know, I can't send emails or store personal information. However, I'm always here"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Oh, okay.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“It's okay, it's okay, it's okay.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely, I’m here whenever you need anything, and feel free to reach out anytime. Just let me know if there's anything else I can assist with!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“It's the third time that it happened this month, so I would like you guys to keep in mind that when the technicians arrive, because it's the third time this month, so I'm tired of this situation, sorry.”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "I completely understand, and I’m really sorry you’ve had to deal with that so often. Definitely let the technician know about the recurring issue, and hopefully, they can find a more permanent solution. If you need any support or have any other questions, I’m always here to help."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Yeah, who can I contact if this isn't resolved today?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "If it’s not resolved today, the best approach is to contact Claro’s customer support directly, either through their hotline or their online chat. You can explain the situation and request a follow-up or even escalate the issue. They’ll usually be able to arrange a more urgent technician visit if needed."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Yeah, sure, just I saw that this is the cloud online, but it's okay. Can you give me the reference number for this request?”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Absolutely! While I can’t generate an official reference number myself, I’d recommend noting down the details of your conversation and the date and time you contacted support. When you do reach out to Claro, they’ll provide you with a reference number for your request. If you need any help with that process, I’m here to assist!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“클라로에게 전화를 보낼 수 있을까요?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "I can definitely guide you on how to reach them, but I can't directly redirect calls. The best way is to give Claro’s customer support line a call directly, and they’ll take it from there. If you need the contact details or any assistance, just let me know!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“I would like to do a complaint about it, so what's the process to do it?”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Absolutely, I understand. To file a complaint, you can contact Claro’s customer support and request to speak with a supervisor or their complaints department. You can also often do this through their official website or app. Just make sure to have all your details ready, like the dates of the issues and any reference numbers. And if you need any help with that process, I’m here for you!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“No, that's okay Thanks for the update. I'll wait for the technician If he will be here Today will be fantastic”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Of course, that sounds good! I hope everything gets resolved quickly. If you need anything else in the meantime, just let me know. Good luck, and I’m here if you need any further assistance!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Thank you. Have a good day.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "You’re very welcome! Have a great day, and feel free to reach out anytime. Take care!"
+    }
+  ]
+}

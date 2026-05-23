@@ -1,0 +1,195 @@
+{
+  "student_id": 16,
+  "week": 1,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S16_W1_T1",
+  "source_file": "data\\raw\\#16\\#16\\#16. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello! I want to practice ordering coffee at a coffee shop. You're a barista working at a coffee shop in Sydney. I'll be playing a customer. Please create a realistic coffee shop scenario and respond as if we were actually there. Ask about my preferences, help me choose what I want from the menu, and explain the different coffee options. Keep the conversation flowing naturally by asking at least three follow-up questions about size, milk, and payment. We can start with the welcome greeting and move on, okay?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! Smiles warmly while wiping the counter. Hey there, welcome to Harbour Brew Café! How’s your morning going so far? What kind of coffee are you in the mood for today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Hi, I\"m fine. Mine morning is so good. I fope that you're too. So, I wana a Long Black Cooffe."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Glad to hear that — and thanks, I’m doing great too! Nods while tapping the screen to start the order. Alright, a Long Black sounds good. Would you like it in a regular or large size?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I prefer the larger, please!"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, one large Long Black. Starts preparing the cup. Would you like any milk on the side, or just straight black?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I don't want milk. Thank you!"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries, straight black it is. Smiles and pours the espresso shots. Would you like it for here or takeaway?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Yes, straight black. That's it! I will to have here. This place is so comfortable, and I need to start my day relaxing. Here looks a good place for it."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That’s great to hear, I’m glad you like the vibe here! Sets the cup on a saucer and slides it toward you. Alright, one large Long Black for here. How would you like to pay today — card or cash?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "with card"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure thing! Turns the payment terminal toward you with a smile. Just tap your card whenever you’re ready. Would you like me to bring you a glass of water with your coffee?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes, please!"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! Fills a small glass and sets it beside your coffee. Here you go — one Long Black and a glass of water. Would you like a bite to eat with that, maybe a croissant or banana bread?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Wow! I love croissant. Give me one, please!"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Nice choice! Grabs a fresh croissant from the display and warms it up slightly. Would you like it plain, or with butter or jam on the side?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I really love with jam. Do you have strawberries jam?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yep, we sure do — strawberry jam’s our most popular one! Places a small jar beside your plate. There you go. Would you like your croissant warmed up, or just as it is?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "warmed up is better! Please"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely! Pops the croissant into the warmer for a minute. While that’s heating, do you prefer to sit by the window or stay here at the counter?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "I prefer to sit next to the window. Cold you to say me how long I will to need wait? Please!"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Sure! Smiles reassuringly. It’ll just take about two minutes, nice and quick. Would you like me to bring it over to your table, or will you come back to the counter to get it?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Wow, it's really quick! I think, if you can to bring it to me, I really will appreciate it."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "No problem at all! Nods warmly while checking the croissant. I’ll bring it right over once it’s ready. Do you want me to grab any sugar or napkins for you as well?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Yes please!"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You got it! Puts a few sugar packets and napkins on a small tray beside the croissant. Alright, everything’s ready — I’ll bring it over to your window seat now. Anything else you’d like while you’re getting settled?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "No, it's for me is enough."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Perfect! Smiles as they set the tray down at your table. Enjoy your Long Black and croissant — take your time and have a lovely morning!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "I appreciate it! Have a nice day too."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Thanks so much! Smiles warmly. You too — enjoy your coffee and the view. ☕✨"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Thanks"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You’re very welcome! Gives a friendly wave. Have a great day!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Okay! I really will to come back here. So, see you soon!"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That’s wonderful to hear! Smiles brightly. See you soon — can’t wait to serve you again!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Okay"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Take care! Gives a quick nod before turning back to the counter."
+    }
+  ]
+}

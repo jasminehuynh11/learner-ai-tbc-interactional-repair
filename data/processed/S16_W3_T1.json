@@ -1,0 +1,315 @@
+{
+  "student_id": 16,
+  "week": 3,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S16_W3_T1",
+  "source_file": "data\\raw\\#16\\#16\\#16. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi How are u?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hey! I’m good, thanks for asking. How about you — how’s your day going so far?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I'm good. Thanks"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Glad to hear that! What are you up to today?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Today you will be a call center operator for the internet company. I'm calling you because I'm having internet problems. So, you can start my call."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sure! [phone line clicks] Hello, this is Alex from SkyNet Internet Support. Thanks for calling today. Can you please tell me what kind of problem you’re having with your internet?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely. So let"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Hi, Alex.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Hi there! All right, let’s get started. Can you tell me a bit more about what exactly is going on with your connection right now?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Oh, my internet doesn't work.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it. So your internet’s not working at all. Let’s start with this: are you seeing any error messages on your devices or is it just not connecting?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Not connecting, since 1 o'clock p.m., 1 p.m.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "All right, so it"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“and in the morning it's okay, but now it doesn't work.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I see. So it was working fine this morning, and now it’s just stopped. Let me ask: have you tried restarting your router since it went out?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, I tried.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "All right, good to know you’ve already tried that. In that case, let's check one more thing: do you have any lights on your router that are blinking or off that normally should be on?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Could you repeat?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Sure! So I was just asking if you could take a look at your router and see if any of the lights are blinking or off when they should normally be on. What do you see there?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Hi, it's normal.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "All right, if the lights are normal, that’s helpful to know. Now, just to narrow it down a bit more, are you using Wi-Fi or a wired connection when you’re trying to get online?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“In the moment, I'm trying to use Wi-Fi, but our lights are not open.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Gotcha. You're on Wi-Fi and not all the lights are on. That definitely gives us a clue. Now, have you noticed if any other devices in your home are having the same issue, or is it just this one device you're trying?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Sorry, I can't understand. Could you repeat, please?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course! So I was just asking if it's only one device having the problem or if all your devices can't connect. How is it for your other devices?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Could you repeat, please?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Sure thing! So basically, I'm just asking: are all of your devices having the same internet issue, or is it just this one you're using right now?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“I'll adjust it when I use it right now.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "All right, so it's just that one device acting up. That’s helpful to know. Let me ask you one more thing: have you tried forgetting the Wi-Fi network on that device and reconnecting it?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yes, I've tried but it doesn't work. I removed the socket on the wall and I put it again, but the wireless started, but it doesn't work. It doesn't have a signal, not for me and my other flatmates.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "All right, I get you. So you did try unplugging and plugging it back in, and it's still not giving a signal for you or your flatmates. Let me ask this next: have you contacted your internet service provider before about outages in your area, or is this the first time you're reaching out?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“It's my first time.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "All right, thanks for letting me know it's your first time reaching out. Let's do this: I'll go ahead and check if there's any known outage in your area on our end. Could you just tell me your address or the area you're located in?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Of course, my address is Pitt Street.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Perfect, thanks for that. Let me just take a quick look and see if there's any reported issue in that area. In the meantime, is there anything else about the situation you'd like me to know?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Is there a technical available today?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, I can check that for you. Let me see if we have a technician available today who can come out and help. Meanwhile, is there a time today that would work best for you if we do need to send someone over?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Could you check if there is an outage in the area?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Sure, I can definitely do that. Let me quickly check if there's an outage reported in your area. Just give me a moment. In the meantime, if there's anything else that comes to mind about the problem, feel free to let me know."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“What should I try before you send someone?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Yeah, of course! One last thing you might try is just restarting the device itself, like your computer or phone, and then reconnecting. But if that doesn't help, I'll definitely line up a technician for you. So let me know if that restart helps at all."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Okay, but should I wait here, or will someone call me?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Sure, you can just hang tight here for a moment, and I'll let you know what I find. So no worries, I'll give you the update right here. And if we do need to send someone, I'll let you know how that’ll work. Sound good?"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Good.”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Great! All right, I’ll just check that outage info and we’ll figure things out from there. So just sit tight, and I’ll let you know in a sec if we need to send someone or if there’s an update."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "All right, perfect! So I’m checking that for you now. Just give me a moment and I’ll let you know what I find. In the meantime, just relax and I’ll keep you posted in just a sec."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Yes, okay, I will to wait you.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "All right, thanks for your patience! I’ll let you know as soon as I’ve got that info. So just hang tight for a moment and I’ll get right back to you."
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Great! So I’ve checked and it looks like there actually is a small outage in your area, which might explain the problem. We’re already working on it, and it should be fixed in a few hours. If you still have issues after that, just let us know and we can send someone out. Anything else I can help with?"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Who can I contact if this isn't resolved today?”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Sure! If it’s not resolved today, you can just contact us again at this same support line and we’ll be happy to help. We’re here 24/7, so just reach out if you need anything else."
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "You're very welcome! If you need anything else, just let me know. Otherwise, I hope your internet is back up and running soon. Thanks for calling and have a great day!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“I hope you have a great day, too.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Thank you so much! I appreciate that. All right, well, if there's nothing else, feel free to reach out anytime. Have a lovely day!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“You, too.”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Thanks a lot! Take care and I’ll be here if you need anything else. Have a good one!"
+    }
+  ]
+}

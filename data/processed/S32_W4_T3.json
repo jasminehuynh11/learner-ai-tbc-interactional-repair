@@ -1,0 +1,110 @@
+{
+  "student_id": 32,
+  "week": 4,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S32_W4_T3",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Responding to Feedback or a Performance Review:"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Let's jump right in. So, imagine I'm your teacher and we've just finished a semester. Overall, you've done really well in some areas, but there are a few points we can improve. Alright, let me start. \"Hi! I wanted to talk about your performance this semester. First off, you've shown great improvement in participation and your assignments have been very thorough. However, I'd like to see a bit more consistency in meeting deadlines and also some more engagement during group discussions. How do you feel about that?\" Now, over to you as the student!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I understand what are you saying to me about the deadlines meeting. Sometimes it's very hard for me to have the deadlines because some of our projects need to use a specific software or three-dimensional program. So sometimes I have problems with my computer. So it's things that I can control, but I know if I have these problems, I try to find a solution about that or a, I don't know, doing with more time, but sometimes it's something that I can control, I think.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. I appreciate your honesty. It's definitely challenging when technical issues come up. One thing we could consider is maybe giving you a bit more flexibility or planning ahead for those issues. And I'm glad to hear you're proactive about finding solutions. How do you think we could better support you in managing those challenges in the future?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“For instance, but it's not your problem, it's a problem in general in the university. I think a good thing to change is that they give us the license for some programs, because sometimes because we don't have the license, it's difficult to use the software. So I think this is something that should change for better. At the same time, maybe some computer rooms that the university has, maybe have more time to be open or be more open for the students, because we know that they exist, but we don't know exactly what time we can use. The management is not good, so maybe improve that, but maybe it's a general problem that the university has. And about the engagements during the group discussions, this is so difficult for me, because I'm a little bit shy to say something, so I just prefer to think in my mind and listen to people, and I find it interesting, but for me it's difficult to speak in front of everyone, and they maybe make a mistake or something, so I don't know, it's very hard.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I totally understand, and I appreciate you sharing that. It's definitely a common challenge, and it’s important to have the right resources and support. I’ll definitely keep that in mind and pass along your feedback. And regarding the group discussions, that’s completely understandable. Maybe we can explore some smaller group settings or other ways to help you feel more comfortable. We’ll definitely work together on that. Is there anything else you’d like to add or any other areas where you feel you need more support?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, I want to know about my last presentation for the last project in the semester, I want to know how I did it, if the presentation was good or something was missing, what do you think about that?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course! So, your presentation was actually quite solid. You had a clear structure, and your visuals were well done. One area for improvement would be to engage the audience a bit more—maybe ask some questions or encourage discussion. Also, there were a few points where you could have elaborated a bit more. But overall, it was really good! How do you feel about the feedback? And is there anything specific you’d like to focus on improving next time?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Could you tell me some examples about, ask some questions on Anchorage discussions, because I don't know how to do that. I don't know. It's difficult.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! For example, you could start by asking open-ended questions like, \"What do you think about this approach?\" or \"Does anyone have any different perspectives?\" Another idea is to invite a specific person to share their thoughts or even present a hypothetical scenario and ask the group how they would respond. It’s really about creating a comfortable space for everyone to contribute. We can definitely practice some of these techniques together if you'd like!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Okay, I see what you mean. Thank you for letting me know. And yeah, I would like to practice some of these techniques together if we have time. Another thing that I want to ask is about... In the presentation, I put some information and I don't know if the... If the reference was good or not, because sometimes it's difficult to use APA rules. So I don't know if it was okay or not. And I want to know what do you think about the immigration, about the presentation in general. Like if I have to put less text or more image or it was correct. I don't know."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course, that’s a great question! Overall, your references were quite solid, and you followed the APA guidelines pretty well. There were just a couple of minor formatting tweaks needed, but nothing major. As for your slides, you did a great job balancing text and visuals. Maybe just a bit more imagery and a little less text on some slides could help keep the audience engaged. But overall, you did really well! We can definitely dive into more details and practice those techniques whenever you’re ready. Sound good?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, sounds good. I want to know if you want to say another thing that I could improve in general in the class or everything is okay and it's just that.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! I think overall, you did really well, and you’ve shown a lot of growth. One small area we could work on is maybe time management for assignments, just to ensure everything is submitted on time. And also, maybe a bit more active participation in smaller group activities, just to build that confidence. But you’re definitely on the right track, and I’m here to support you all the way. Let me know if there’s anything else on your mind!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“To finish, in general about the subject, my notes are good, and I know you didn't tell us yet how was the last score for the last presentation project, but I want to know if in general it was good, if I don't have problems with the subject in general, because I know I have some problems with the deadlines, but after that, after all, I always do my assignments in a good way, so I don't know if I don't gave the project in the deadline, I obtained a less score, or it was not a big problem.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I totally get what you mean! Overall, your performance in the subject is strong, and your assignments have been of high quality. The deadlines do play a role in the final score, but since you’ve been consistent with the quality of your work, it’s definitely not a major issue. We can definitely work on improving that time management to ensure you get the best possible grades. But rest assured, you’re on a great path, and I’m confident you’ll do well overall. If you have any other concerns, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“And now I think that's all. Thank you for telling me what things I need to improve and to understand the situation and listen to me about some things that you told me. Of course, it's something that I need to improve and I will try it. So thank you and I don't know, do you need something else or I can go for a break?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad we could chat and that you found it helpful. I think you're on the right track, and I’m here if you need anything else. But if you're all set, then feel free to take a break, and we can always continue another time. Thanks for the great conversation!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Thank you, teacher. See you in the next class. Thank you. Bye-bye.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm looking forward to it. Take care and have a great rest of your day. Bye for now!"
+    }
+  ]
+}

@@ -18,9 +18,8 @@ We used OpenAI's GPT-5 via the Custom GPT interface to develop the customised AI
 The coding stage uses a structured system prompt to operationalise the repair codebook into explicit decision rules, inclusion/exclusion boundaries, and constrained JSON output format.
 
 Repository pointers:
-- `code/scripts/repair_detector.py`
-- `code/scripts/repair_detector_gpt.py`
-- `code/config/few_shot_examples.txt`
+- `code/scripts/repair_detector_gpt.py` (the 586 validated repair sequences reported in the manuscript were produced by this module using GPT-4o)
+- `code/config/few_shot_examples.txt` (reference artifact illustrating coding criteria; not loaded at runtime)
 
 ### 3) Output constraints and programmatic checks
 

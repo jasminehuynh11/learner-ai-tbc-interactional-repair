@@ -1,0 +1,238 @@
+WEEK 4 — TASK 1: 
+You said:
+I want to practice about discussing study or career plans. I'm going to explain my situation, ask for advice, and clarify next step. You are a university advisor. I will play the role as a student who needs advice. Please create a realistic scenario and respond as if we were really there.
+English Conversational Partner said:
+Absolutely, that sounds great! Alright, so let's imagine you're coming into my office as a university advisor. I'll be here to help guide you through your study or career plans. So, whenever you're ready, just let me know what you're thinking about, and we’ll get started!
+You said:
+Okay, hi, how are you?
+English Conversational Partner said:
+Hi there! I’m doing well, thank you. How about you? What can I help you with today? Are you thinking about your studies or your career path?
+You said:
+Yeah, I just think about my career path. Actually, I work part-time in retail, but I'd like to try something new.
+English Conversational Partner said:
+That’s great to hear! It’s always good to explore new opportunities. What kind of fields or industries are you interested in, and do you have any specific goals in mind?
+You said:
+Actually, I have no idea.
+English Conversational Partner said:
+No worries at all, that’s totally fine! We can definitely explore some options together. Are there any subjects or skills that you enjoy or that you’d like to develop further?
+You said:
+I'm just thinking about that. I want to be a teacher in the future.
+English Conversational Partner said:
+Oh, that’s wonderful! Teaching is such a rewarding career. Do you have a particular subject or age group in mind that you’d like to teach?
+You said:
+Yeah, I want to teach Korean, but in another country.
+English Conversational Partner said:
+That sounds fantastic! Teaching Korean abroad can be a really exciting path. Do you have any specific countries in mind, or are you still exploring your options?
+You said:
+I'm still not sure about that.
+English Conversational Partner said:
+That’s completely understandable! We can definitely look at some popular destinations and what kind of qualifications you might need. Is there a particular reason you’re interested in teaching Korean, like cultural connections or personal experiences?
+You said:
+Maybe if I teach Korean to overseas people, maybe we can connect each other between different cultures, and I can also learn about the other countries' culture as well.
+English Conversational Partner said:
+Absolutely, that sounds like a wonderful exchange! It’s such a great way to build understanding and connection. We can definitely look into the qualifications or programs that might help you get started. Let me know if you have any questions about that!
+You said:
+Do you think I need more work experience before applying?
+English Conversational Partner said:
+That can definitely help! Having some teaching or relevant work experience can strengthen your application, but it’s not always mandatory. We can definitely explore different pathways and maybe even find some internships or volunteer opportunities to build up your experience.
+You said:
+What do you think study overseas in the future?
+English Conversational Partner said:
+Studying overseas can be a fantastic experience! It can really broaden your horizons, give you new perspectives, and help you build valuable connections. If that’s something you’re considering, we can definitely look into programs and scholarships that might be available to you.
+You said:
+Then can you tell me how to prepare now?
+English Conversational Partner said:
+Of course! A great starting point would be to research the countries and universities that offer programs in teaching Korean or related fields. You can also look into language proficiency exams, maybe gain some volunteer or part-time teaching experience, and prepare a strong application. And of course, I’m here to help you every step of the way!
+You said:
+Okay, thank you for today.
+English Conversational Partner said:
+You’re very welcome! It was my pleasure to help. If you have any more questions in the future, just let me know. Have a great day!
+You said:
+Okay, thank you. Let's try to change a little bit.
+English Conversational Partner said:
+Sure, absolutely! Just let me know what kind of changes you'd like, and we can adjust things however you’d like. I’m here to help!
+You said:
+Okay, let's play, let's do again with same topic, but I'm going to give you a different question. Is that okay?
+English Conversational Partner said:
+Absolutely, that sounds perfect! I’m ready whenever you are, so feel free to ask your new question, and we’ll dive right back in.
+You said:
+Hi, can I get some advice for my future?
+English Conversational Partner said:
+Of course! I’d be happy to help. Just let me know a bit more about what you’re considering, and we can explore your options together. What’s on your mind?
+You said:
+I'm studying business now, but I'm not sure about that. I just want to learn about partitiary course, but I think it's too late. What do you think?
+English Conversational Partner said:
+I see! That’s actually really exciting. It’s never too late to explore new passions. We can definitely look at how to integrate a patisserie course with your business studies or even consider a career shift. Let’s break it down step by step!
+You said:
+Yeah, so I'm thinking about changing my degree. Can you help me understand my option?
+English Conversational Partner said:
+Absolutely, I’d love to help with that! We can go over the different pathways, whether it’s switching majors, taking additional courses, or even looking at part-time programs. Just let me know what you’re most curious about, and we’ll dive right in!
+You said:
+However, I just think about that, can I study abroad? like an exchanging student.
+English Conversational Partner said:
+Absolutely, that’s a fantastic option! We can look into exchange programs that allow you to experience a different culture while continuing your studies. Let me know what countries or universities you’re interested in, and we can explore the possibilities together!
+You said:
+I just think about that, Paris or Sydney, because that city is megacity, also that country is like a multicultural, so I can learn trendy things.
+English Conversational Partner said:
+That sounds like a wonderful choice! Both Paris and Sydney offer rich multicultural experiences and plenty of opportunities in business and patisserie. We can definitely explore the programs and requirements for both cities. Just let me know what you’d like to dive into first!
+You said:
+Then how can I prepare for that to study overseas in the future?
+English Conversational Partner said:
+Great question! To prepare, you can start by researching the universities and their programs, checking the admission requirements, and looking into language proficiency tests if needed. Also, it helps to plan your finances, look into scholarships, and maybe connect with current students or alumni. And of course, I’m here to guide you through each step along the way!
+You said:
+Oh, okay. Then, do you think I need more work experience before applying or just start studying?
+English Conversational Partner said:
+It really depends on the program and your goals. Some programs value work experience, while others focus more on academic background. We can definitely explore some options and see if there are internships or part-time roles that can complement your studies. Whatever suits you best, we’ll make it work!
+You said:
+Do I just need to graduate a degree, the diploma, or should I try to get a master's degree?
+English Conversational Partner said:
+That’s a great question! It really depends on your current level of education and your career goals. Sometimes starting with a diploma or a bachelor’s degree can lay a solid foundation, and then a master’s degree can help you specialize further. We can definitely explore what’s the best fit for you!
+You said:
+Yeah, like if I want to be a patisserie chef, do I need to get a master's degree or just try to get more work experience?
+English Conversational Partner said:
+In patisserie, hands-on experience often matters more than a master’s degree. Typically, starting with a diploma or a certification from a culinary school is a great first step, and then building your skills through work experience and apprenticeships can be really valuable. We can definitely map out a path that suits you best!
+You said:
+Then, after diploma, degree, should I to try apply internship course?
+English Conversational Partner said:
+Yes, absolutely! Internships are a fantastic way to gain practical experience and make industry connections. So after you complete your diploma, diving into internships or entry-level positions can really help you refine your skills and build your portfolio. It’s definitely a great next step!
+You said:
+Okay, the last question is, do I need to go to abroad or just stay in this country?
+English Conversational Partner said:
+That’s a really personal choice! Studying or working abroad can offer unique experiences and perspectives, while staying in your home country can give you a strong local network and familiarity. We can weigh the pros and cons together and find what aligns best with your goals and preferences!
+You said:
+Okay, thank you for your advice today.
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you have any more questions in the future, just let me know. Have a wonderful day!
+You said:
+You too. See you soon.
+English Conversational Partner said:
+Absolutely, see you soon! Take care!
+You said:
+What do you think about this conversation?
+English Conversational Partner said:
+I think it went really well! You asked some thoughtful questions, and we covered a lot of ground. I’m glad we could explore your options and find some clarity. If you ever want to continue the conversation, I’m always here to help!
+You said:
+Okay, then change the topic.
+English Conversational Partner said:
+Sounds good! Alright, whenever you're ready, just let me know what new topic you'd like to explore, and we'll jump right in!
+
+
+WEEK 4 — TASK 2: 
+You said:
+Okay, I want to practice about participating in group discussion and negotiating responsibilities. I'm gonna explain my situation.
+English Conversational Partner said:
+Perfect! That sounds like a great scenario to practice. I’ll be happy to help you navigate that group discussion and negotiation. Whenever you're ready to share your situation, we can jump right into it!
+You said:
+Okay, you are a teammate or project group member and we're gonna discuss about some group project and we're gonna share options and agree or disagree politely and negotiate rules, deadlines, or contributions.
+English Conversational Partner said:
+That sounds like a great setup! I’m ready to jump into that role. Whenever you're ready to start, just let me know the context of our project, and we’ll begin the discussion and negotiation from there!
+You said:
+Hi. Our assignment is due next week. Can we decide who will do each part?
+English Conversational Partner said:
+Hi there! Absolutely, we can definitely sort that out. Let’s start by breaking down the tasks and seeing what everyone’s strengths and preferences are. How would you like to divide the work?
+You said:
+What do you mean?
+English Conversational Partner said:
+I think we can start by identifying each person’s strengths and the parts of the project that they feel most comfortable with. Then we can negotiate deadlines and make sure everyone’s on the same page. Let me know which parts you’re interested in, and we’ll go from there!
+You said:
+um okay then i'm gonna searching information can i?
+English Conversational Partner said:
+That sounds great! Gathering information is definitely a crucial part. Once you have the details, we can see how to fit everything together. Let me know if you need any help or if you’d like to discuss any specific parts!
+You said:
+Then what do you want to do?
+English Conversational Partner said:
+I’m happy to take on whatever task would be most helpful! Whether it’s organizing the information, coordinating deadlines, or reviewing what we’ve got so far, just let me know what works best for you, and we’ll make it a team effort!
+You said:
+Okay, who wants to do the writing part?
+English Conversational Partner said:
+That’s a great question! We can definitely see who feels most comfortable with writing. If anyone has experience or a preference for that part, we can assign it accordingly. Let’s hear from the group and figure out the best fit!
+You said:
+Yeah, I see your point, but I have bad writing skill, so I think you're good at writing, aren't you?
+English Conversational Partner said:
+I appreciate that! I’m definitely happy to help with the writing portion. We can work together to make sure everything’s clear and polished. If there’s anything else you’d like to focus on, just let me know, and we’ll make it work!
+You said:
+Okay, then let's searching, getting information, each part, and then try to think about the good things tomorrow. Is that okay?
+English Conversational Partner said:
+That sounds like a great plan! We can gather all the information today and then reconvene tomorrow to discuss the best approaches. That way, we’ll have everything ready to go. Sounds perfect!
+You said:
+And let's message each other if we run into a problem.
+English Conversational Partner said:
+Absolutely, that’s a great idea! We’ll keep the communication open, and if any issues come up, we can help each other out right away. Sounds like a solid plan!
+You said:
+Do you think we need a shared document to manage tasks?
+English Conversational Partner said:
+I think that’s a fantastic idea! A shared document will definitely help us stay organized and keep track of everyone’s contributions and deadlines. Let’s set that up, and it’ll make collaboration even smoother!
+You said:
+Let's try to share information every night. Everyone is fine for that?
+English Conversational Partner said:
+That sounds like a great plan! Sharing updates every night will keep everyone on the same page and help us stay on track. I’m sure everyone will be on board with that. Let’s make it happen!
+You said:
+and who wants to do presentation. Not me.
+English Conversational Partner said:
+Got it! No worries at all. Let’s see who feels comfortable with the presentation part. We can definitely find someone who’s excited about that, and we’ll support them as needed. Let’s figure it out together!
+You said:
+Because this part feels too difficult for me, because I've never done it before.
+English Conversational Partner said:
+I completely understand! It can definitely feel challenging at first, but we’ll make sure to support you and make it as smooth as possible. We can also work on it together and build your confidence along the way. Just let us know how we can help!
+You said:
+So we are all agreed on the new timeline. Next week?
+English Conversational Partner said:
+Yes, it sounds like we’re all on the same page! The new timeline for next week works well for everyone. We’ll keep everything on track and make sure we’re all set. If anything comes up, we’ll adjust as needed. Sounds perfect!
+You said:
+Oh, perfect. Then let's talk about this later online.
+English Conversational Partner said:
+That sounds like a plan! We’ll touch base later and keep everything moving forward. Thanks for coordinating, and I’m looking forward to it!
+You said:
+Thank you, see you later.
+English Conversational Partner said:
+You're very welcome! See you later, and have a great one!
+You said:
+What do you think about this conversation?
+English Conversational Partner said:
+I think it went really well! You shared your thoughts clearly, and we had a productive discussion. It was great collaborating and planning things out together. If there’s anything else you’d like to refine or explore, I’m always here to help!
+You said:
+okay and then let's try to make more aggressive conversation like you are not agree with me
+English Conversational Partner said:
+Got it! I can definitely adopt a more assertive stance and we can practice some more challenging discussions. Just let me know the scenario, and we’ll dive right in and see how it goes!
+You said:
+Like let's say, I said our deadline should be until this Friday, but you want to finish on next week.
+English Conversational Partner said:
+Alright, that sounds like a perfect scenario! So, I’ll take the position that I believe we should extend the deadline to next week, and we can have a more spirited discussion about it. Let’s dive in and see how it unfolds!
+You said:
+Hi, everyone. I know our deadline is next week, but I want to finish earlier than before. So, can we finish at this Friday?
+English Conversational Partner said:
+I see where you're coming from, and I definitely appreciate the eagerness to wrap things up quickly. However, I do think that aiming for Friday might rush some of the quality and thoroughness we need. Let’s talk about how we can balance both speed and quality so that we can meet our goals effectively.
+You said:
+Um, yeah, I see your point, but I think we can do it because we already learned about this topic as well. And so, we can finish quickly before next week. What do you think?
+English Conversational Partner said:
+I definitely appreciate your confidence and the progress we’ve made so far! If we can ensure that the quality remains high and everyone’s comfortable with the workload, then finishing by Friday could definitely be possible. Let’s make sure we’re all aligned and keep open communication so we can get it done effectively.
+You said:
+Yeah, I mean, divide each part, and then we can make it really good presentation. Like, you are really good at presentation. The other people can gather information very quickly because they are professional. And I'm really good at writing, so it's going to be very easy for us.
+English Conversational Partner said:
+That sounds like a fantastic plan! With everyone playing to their strengths, I’m confident we’ll produce a really strong presentation. Let’s keep that momentum going, and I’m sure we’ll wrap everything up smoothly by Friday!
+You said:
+thank you so much because you know next week is gonna be very busy because the christmas is coming so i just want to finish before christmas holiday
+English Conversational Partner said:
+Absolutely, that makes perfect sense! Wrapping everything up before the holidays will definitely help everyone enjoy the break without any stress. I’m glad we’re on the same page, and I’m sure we’ll make it happen smoothly. Let’s get it done and enjoy the holiday season!
+You said:
+Yeah, thank you for understanding. Then let's keep in touch after gathering information. What do you think tonight?
+English Conversational Partner said:
+That sounds great to me! Let’s definitely stay in touch and share updates as we go. I’m looking forward to seeing what everyone finds, and we can touch base tonight to make sure we’re on track. Sounds like a plan!
+You said:
+Okay, then, see you, and if someone need our help, just don't hesitate to message us.
+English Conversational Partner said:
+Absolutely, that sounds perfect! We’ll keep the communication open, and I’m always here to help as well. Looking forward to it, and I’ll see you soon!
+You said:
+See you, thank you!
+English Conversational Partner said:
+You're very welcome! Take care, and I’ll talk to you soon!
+You said:
+Yeah, what do you think about this conversation?
+English Conversational Partner said:
+I think it was really productive and engaging! You shared your ideas clearly, and we had a great back-and-forth. It was really nice to see how we collaborated and worked through different ideas. If there's anything else you'd like to explore, I'm always here!
+You said:
+Thank you for today.
+English Conversational Partner said:
+You're very welcome! It was my pleasure. Have a wonderful rest of your day, and I look forward to chatting again soon!
+
+

@@ -1,0 +1,16 @@
+[
+  {
+    "dialogue_id": "S20_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner asks about 'the fear' in turn 11, which is likely a mispronunciation or misrecognition of 'the fee'. The bot interprets this as a question about fees in turn 12, providing relevant information. The learner then clarifies their question in turn 13, and the bot confirms the fee details in turn 14, resolving the issue."
+  }
+]

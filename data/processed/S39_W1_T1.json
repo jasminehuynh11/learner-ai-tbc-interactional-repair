@@ -1,0 +1,220 @@
+{
+  "student_id": 39,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S39_W1_T1",
+  "source_file": "data\\raw\\#39\\#39\\#39. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I want to practice English conversation in a situation of cafe. I decide role. You are barista working in a cafe in Adelaide and I am a customer. Please create realistic cafe scenario and respond as if we were really there. Ask me about my ordering, help me decide from the menu, and explain different drink options like size and kind of milk. I practice making casual and polite requests. Keep the conversation going naturally and ask least 3 follow-up questions. Let's talk for at least 2 minutes first and have more conversations afterwards in different situations. If I use basic or unclear words, you can ask questions like 'did you mean a different type of coffee?' or 'Is there another way to say that?' but don't correct me directly."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Perfect 👍 Let’s set the scene: ☕ Setting: You walk into a cozy café in Adelaide on a sunny afternoon. There’s light music playing, and the smell of freshly ground coffee fills the air. I’m behind the counter, smiling and ready to take your order."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Hi there! How’s your day going so far? (gestures to the menu board) Are you after something hot today, or maybe an iced drink to cool off?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Hi, could I please get a ice coffee?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! An iced coffee sounds great. Would you like it black, or would you prefer some milk or a syrup added in? And we’ve got a couple of size options as well."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Hmm.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries, take your time! And if you’d like to try different types of milk, we have regular, skim, almond, and oat milk. Just let me know what you prefer, and we’ll get it sorted for you!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I want to add almond milk”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Great choice! An iced coffee with almond milk it is. And would you like it in a small, medium, or large size? And do you have any preference for sweetness, like adding a little syrup or keeping it black?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Large size and a little bit sugar, please.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Perfect, so that’s a large iced coffee with almond milk and just a hint of sugar. That sounds delicious! Anything else you’d like to add, or is that all for now?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Hmm?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, that’s all sorted then! I’ll get that prepared for you right away. In the meantime, if you have any questions or need recommendations, just let me know."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“ah,”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "All set! Your iced coffee will be ready in just a moment. Feel free to have a seat and relax, and I’ll bring it over once it’s done. Let me know if you need anything else in the meantime!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Do you have any recommendations of drinks?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely! If you're in the mood for something a bit different, we’ve got some great specialty lattes, like a vanilla or caramel latte. And if you’re feeling adventurous, we also have some cold brews and iced teas. Just let me know what kind of flavor or vibe you’re after!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Can I change the drink to caramel latte?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course, we can do that! A caramel latte sounds delicious. Would you like it hot or iced? And do you have any preference for the type of milk or sweetness level? Let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I want Iced caramel latte, almond milk and a little sugar please.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it! So that’s an iced caramel latte with almond milk and just a hint of sugar. That’ll be absolutely lovely! I’ll get that ready for you right away. Let me know if there’s anything else you’d like to explore!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Can I get something to eat as well?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely! We’ve got a variety of pastries, muffins, and some savory options like quiches and sandwiches. Anything in particular you’re craving, or would you like some recommendations?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“What is the best match to caramel latte?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "A caramel latte is typically made with espresso, steamed milk, and caramel syrup, giving it that lovely sweet and creamy flavor. And when you have it iced, we just chill it down and serve it over ice, so it’s really refreshing and smooth. It’s definitely a treat!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Do you have recommendation of food to match the caramel latte?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely! A caramel latte pairs really nicely with something like a buttery croissant or a sweet pastry, like a cinnamon roll. If you prefer something savory, a light quiche or a toasted sandwich also goes wonderfully. It really depends on what you’re in the mood for!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“I want a buttery croissant, but is buttery croissant gluten-free?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Great choice! Our butter croissants are typically made with regular flour, so they’re not gluten-free. However, we do have some gluten-free options, like certain muffins or a gluten-free pastry that we can recommend. Let me know if you’d like to try one of those!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Which is gluten-free pastry?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "We have a few options! For instance, we have gluten-free almond muffins, and sometimes we offer gluten-free brownies or cookies as well. They’re all delicious and pair nicely with coffee too! If you’d like to try one, just let me know."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Yes, I want gluten-free muffins.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Perfect! A gluten-free muffin it is. That’ll go wonderfully with your iced caramel latte. I’ll get everything ready for you, and you’ll be all set to enjoy your treat! Let me know if there’s anything else I can do for you."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Thank you. Can I grab any seat inside?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Of course! We have plenty of cozy seating inside, and you're welcome to pick any spot you like. Feel free to get comfortable, and I'll bring your order over as soon as it’s ready. Enjoy your time!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“So, how long will that take?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "It should only take a couple of minutes, just enough time to get everything prepared and nicely chilled. You can settle in, and I’ll have it ready for you in no time!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Thank you very much. I'll wait over here.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’ll be right over with your order shortly. In the meantime, just make yourself comfortable and enjoy the atmosphere. Let me know if you need anything else!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Thank you so much.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "My pleasure! I’ll be right with you. Enjoy your time, and if you have any questions at all, just let me know."
+    }
+  ]
+}

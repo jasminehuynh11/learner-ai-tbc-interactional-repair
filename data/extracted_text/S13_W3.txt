@@ -1,0 +1,313 @@
+Week 3: Reporting Problems and Seeking Help
+
+TASK 1: 
+You said: 
+“Hello.”
+00:00
+English Conversational Partner said:
+Hey there! How can I help you today? Are you looking to practice a particular kind of conversation or scenario? Let me know!
+You said:
+“Yes, I would like to practice a new scenario to improve my English.”
+00:06
+English Conversational Partner said:
+Awesome! I'd be happy to help. Do you have a specific scenario in mind, like ordering food, visiting a doctor, or maybe something else? Just let me know what you're interested in.
+You said:
+“Today, you will be my internet company, because I have some problems with my internet, so you will be my support staff to fix this.”
+00:16
+English Conversational Partner said:
+Perfect! I can definitely do that. Alright, so I'll be your internet support representative. To get started, can you tell me what kind of issue you're experiencing with your internet connection?
+You said:
+“Of course, there's no sign out in my apartment, could you help me?”
+00:07
+English Conversational Partner said:
+Absolutely, I can help with that. Let's see. First, can you let me know if you've tried restarting your modem or router yet? That often helps.
+You said:
+“And not yet.”
+00:01
+English Conversational Partner said:
+No worries! That's a good first step. Whenever you're ready, go ahead and restart your modem or router, and then let me know once it's back on. We can check if the signal improves after that.
+You said:
+“OK, I will try.”
+00:01
+English Conversational Partner said:
+Sounds good! Take your time, and just let me know once it's restarted. If the issue persists, we can definitely troubleshoot further.
+You said:
+“Done. I finished, but it's not working.”
+00:02
+English Conversational Partner said:
+Alright, got it. Thanks for trying that. Next, could you let me know if you're seeing any error lights on your modem or router? That might give us a clue as to what's going on.
+You said:
+“No, I can see that.”
+00:01
+English Conversational Partner said:
+No problem at all. In that case, let's try another step. Could you let me know if other devices in your apartment are also having the same issue, or is it just one device that’s not connecting?
+You said:
+“No, it's a general problem. All my devices have the same problem.”
+00:03
+English Conversational Partner said:
+Got it, thanks for letting me know. That helps narrow it down. Next, let's check if there's any outage in your area. Could you share your zip code or your location so I can look that up for you?
+You said:
+“Yeah, it's 2020, the postal code.”
+00:03
+English Conversational Partner said:
+Perfect, thank you! I'll quickly check that for you. In the meantime, if you have any other details about the problem, feel free to let me know.
+You said:
+“Okay, I will wait for you.”
+00:01
+English Conversational Partner said:
+All right, I appreciate your patience! I'll just take a moment to look into that, and I'll let you know what I find out shortly. Thanks for hanging tight!
+You said:
+“OK.”
+00:00
+English Conversational Partner said:
+You're welcome! I’ll be right back with some information, and we’ll get this sorted out as quickly as possible.
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Alright, I’ve checked the area, and it looks like there is a known outage affecting your neighborhood right now. The provider is working on it, and it should be resolved within a few hours. In the meantime, if there's anything else I can help with or any other questions you have, just let me know!
+You said:
+“To be honest, I need the internet to be fixed really fast, so do you think there is any technician available today?”
+00:08
+English Conversational Partner said:
+I completely understand! Let me check the availability of a technician for you. If there's a possibility for a same-day appointment, I’ll let you know right away. Just give me a moment!
+You said:
+“Do you have someone available?”
+00:01
+English Conversational Partner said:
+Yes, it looks like we do have a technician available later today. I can schedule an appointment for you, and they'll come by and take a look at the issue. Could you let me know what time works best for you, and we’ll get that arranged?
+You said:
+“As soon as possible.”
+00:01
+English Conversational Partner said:
+Absolutely, I'll prioritize that for you. I'll arrange for the technician to come as soon as possible, likely within the next few hours. I’ll confirm the exact time shortly, and I’ll keep you updated. If you have any other preferences or questions, just let me know!
+You said:
+“I want to know if someone else is gonna call me or I don't have a requirement number or something to know in case that it's not coming early.”
+00:12
+English Conversational Partner said:
+Absolutely, I can arrange that. You’ll definitely receive a confirmation call or message from our support team, and we’ll also provide you with a reference number so you can track the appointment. I’ll make sure everything is set up, and you’ll be kept in the loop. If anything changes, we’ll notify you right away.
+You said:
+“Oh, thank you. Perfect.”
+00:01
+English Conversational Partner said:
+You're very welcome! I'm glad I could help. If you have any more questions or need anything else in the meantime, just let me know. I’m here to help!
+You said:
+“Yeah, actually I would like to know if the service isn't fixed by today. Do I get a refund or a credit?”
+00:06
+English Conversational Partner said:
+Absolutely, that's a great question. Typically, if the issue isn’t resolved within the promised timeframe, you’ll definitely receive either a refund or a credit on your account. Once the technician finishes the assessment, we can confirm the details and ensure you’re taken care of. If you need more specifics, I’m happy to go over them as well.
+You said:
+“OK.”
+00:00
+English Conversational Partner said:
+Great! If anything else
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+…comes up or you have more questions, just let me know. I’m here to help anytime. Otherwise, I’ll keep you posted on the technician’s arrival and any updates.
+You said:
+“I just want to have the reference number now because, just in case I need to call again, I can give this number.”
+00:08
+English Conversational Partner said:
+Of course! I’ll make sure to provide you with a reference number right away. Once the appointment is confirmed, I’ll give you that number, and you can use it for any future inquiries. I’ll handle that right away!
+You said:
+“Can you give me the reference number now?”
+00:02
+English Conversational Partner said:
+Absolutely! I’ll generate that reference number for you right now and make sure you have it handy. Just give me one moment, and I’ll provide it right away.
+You said:
+“Thank you for being ready.”
+00:00
+English Conversational Partner said:
+Great! The reference number for your appointment is INT-2025-00123. You can use that whenever you need to follow up or check the status. If you need anything else, just let me know!
+You said:
+“Yes, could you repeat the number?”
+00:01
+English Conversational Partner said:
+Of course! The reference number is INT-2025-00123. Feel free to reference that whenever you need. Let me know if there's anything else I can do for you!
+You said:
+“Okay, perfect, thank you very much.”
+00:02
+English Conversational Partner said:
+You're very welcome! I'm glad I could help. If anything else comes up, just let me know. Otherwise, I hope everything gets resolved quickly, and you have a great day!
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+Bye! Take care, and feel free to reach out anytime. Have a wonderful day!
+
+
+
+
+
+
+Task 2: Reporting lost items
+Hey there! How can I help you today? Let me know what kind of scenario you'd like to practice, and we can jump right into it.
+You said:
+“Okay, the topic will be reporting a lost item.”
+00:03
+English Conversational Partner said:
+Got it! I can definitely help with that. Let’s imagine you’re at a police station or contacting an officer. To start off, can you tell me what item you lost and when it went missing?
+You said:
+“Okay, I have lost my wallet at the train station and I would like to make a report.”
+00:07
+English Conversational Partner said:
+Alright, I’m sorry to hear that. Could you let me know the exact date and time when you last had your wallet at the station?
+You said:
+“Well, the last time I remember that I was with my wallet was at 2pm at the museum station.”
+00:11
+English Conversational Partner said:
+Got it, around 2 p.m. at the museum station. That helps a lot. Could you describe the wallet for me, like its color, brand, or any distinctive features?
+You said:
+“Oh yes, of course. It's a black leather wallet.”
+00:04
+English Conversational Partner said:
+Perfect, a black leather
+You said:
+“Inside, I remember I had my photo ID.”
+00:04
+English Conversational Partner said:
+Alright, got it. So your photo ID
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+No worries, take your
+You said:
+“There we are.”
+00:01
+English Conversational Partner said:
+All good, no rush
+You said:
+“What is the dollar?”
+00:01
+English Conversational Partner said:
+Alright, so it had about a hundred dollars in it as well. That definitely helps. Is there anything else inside the wallet that might help identify it further?
+You said:
+“Yes, I have my licensing.”
+00:02
+English Conversational Partner said:
+Perfect, that’s definitely helpful. Alright, so we have your license as well. Is there any other important card or detail that we should note about the wallet?
+You said:
+“Yes, my transportation card and my credit card.”
+00:05
+English Conversational Partner said:
+Got it, so we have your transportation card and credit card as well. That’s really helpful for identification. Is there anything else you’d like to add, or any specific details you remember about the location?
+You said:
+“I mean, I just remember I was in the train, I sold my wallet.”
+00:04
+English Conversational Partner said:
+Alright, that definitely helps
+You said:
+“I'm going to leave the station.”
+00:02
+English Conversational Partner said:
+Got it, you noticed
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+No problem at all, I’ve got all that information noted down. If there's anything else you remember later on, just let me know. Otherwise, we can proceed with the report. Let me know if you have any other questions!
+You said:
+“Yeah, should I complete the form or what I need to do now?”
+00:05
+English Conversational Partner said:
+Absolutely! Typically, we’ll need to fill out a loss report form with all these details. I can guide you through that step-by-step or provide you with the necessary contact information. Just let me know how you’d like to proceed!
+You said:
+“Yeah, we can do it step-by-step.”
+00:02
+English Conversational Partner said:
+Perfect, let’s do that! We’ll go through each detail one by one, and I’ll help you fill everything out. Let’s get started with your full name and contact information first.
+You said:
+“Yeah, my name is Francisco Valverde.”
+00:02
+English Conversational Partner said:
+Great, nice to meet you, Francisco! Now, let’s also get your contact number and email address, so we can keep in touch if we need any more details.
+You said:
+“It's 124.897.”
+00:03
+English Conversational Partner said:
+Perfect, got that noted down. And if you could share your email address as well, that would be great, just to make sure we have a way to reach you easily.
+You said:
+“Man, my email is Francisco.”
+00:02
+English Conversational Partner said:
+Got it, thanks, Francisco! That’s all we need for now. If there’s anything else you’d like to add, just let me know. Otherwise, we can move forward with the rest of the report!
+You said:
+“Yeah, I mean, sorry but my email is Francisco”
+00:04
+English Conversational Partner said:
+No worries at all, I’ve got that noted. If there's anything else you think of
+You said:
+“Bye.”
+00:00
+English Conversational Partner said:
+All right, that sounds good! If you need any further assistance or have more details to share, just let me know. I’m here to help every step of the way!
+You said:
+“Oh yes, I have some questions.”
+00:02
+English Conversational Partner said:
+Of course! Feel free to ask whatever you need, and I'll do my best to help you out. What’s on your mind?
+You said:
+“What happens if someone finds it? I mean my wallet.”
+00:02
+English Conversational Partner said:
+That’s a great question! Usually, if someone finds it, they might turn it in to the lost and found at the station or contact the police. We’ll also keep your report on file, so if it’s found, we can notify you as soon as possible.
+You said:
+“Do I need to show an ID when collecting? I need to collect it? It's because I'm worried because all my IDs were in my wallet so I don't have an ID card.”
+00:12
+English Conversational Partner said:
+I completely understand
+You said:
+“To show that I am the person that lost the wallet.”
+00:03
+English Conversational Partner said:
+Absolutely, that makes sense. In situations like that, you can usually provide other forms of identification or even answer some security questions to verify your identity. The station or the police will work with you to make sure it’s secure and that you can retrieve your wallet safely.
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Of course! I'm glad I could help. If you have any more questions or need anything else, just let me know.
+You said:
+“But yes, can you call me if it's found? Or should I be calling in every day to ask if we have some news?”
+00:09
+English Conversational Partner said:
+Absolutely, we can definitely give you a call as soon as it’s found. But it’s also a good idea to check in occasionally, just to make sure everything’s on track. We’ll keep you updated as much as possible!
+You said:
+“Do you have a website or...”
+00:03
+English Conversational Partner said:
+Yes, absolutely! We do have a website where you can check updates and even file reports online. I can share that link with you, and you can always reach out there as well. Let me know if you’d like that info!
+You said:
+“Yeah, what is the link?”
+00:02
+English Conversational Partner said:
+Sure! You can visit our official website at www.policestationexample.com, and there you’ll find all the details and updates. Feel free to check it out anytime!
+You said:
+“Okay, perfect. And if someone finds a wallet and you have in your...”
+00:06
+English Conversational Partner said:
+Absolutely, if
+You said:
+“Those items, how long do you keep those items?”
+00:03
+English Conversational Partner said:
+Typically, we keep lost items for a certain period, often around 30 to 60 days, depending on local policies. After that, if it’s not claimed, we may proceed with other protocols. But we’ll definitely do our best to keep it safe and notify you as soon as we can.
+You said:
+“Yeah, I think it's so good for my size”
+00:04
+English Conversational Partner said:
+I’m really glad to hear that! If you have any more questions or need anything else in the future, just let me know. I’m always here to help!
+You said:
+“Thank you. I appreciate your help.”
+00:01
+English Conversational Partner said:
+You’re very welcome! It’s my pleasure. If anything else comes up, just reach out. Have a great day!
+You said:
+“It's true.”
+00:00
+English Conversational Partner said:
+Thanks so much! Take care, and feel free to reach out anytime. Bye for now!
+ 
+

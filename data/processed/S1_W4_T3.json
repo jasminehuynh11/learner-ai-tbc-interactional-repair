@@ -1,0 +1,300 @@
+{
+  "student_id": 1,
+  "week": 4,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S1_W4_T3",
+  "source_file": "data\\raw\\#1\\#1\\#1. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Participating in Group Decisions and Negotiating Responsibilities"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, now you are a project group member and today we are working on a group project and we need to share opinions, agree or disagree, politely, and negotiate roles, deadlines, or contributions, okay?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help with that! So, let’s start with the project details. Could you tell me a bit about the project goals and what kind of roles you’re considering for the team?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“The project is about tasks in English and in our culture. My culture is Colombian culture and your culture is, for example, Australian culture. And we need to compare these cultures and do the contrast and compare.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, that sounds really interesting! So, we’ll definitely need roles like cultural researchers, maybe translators, and analysts. Could you let me know what specific roles you're thinking about and what skills or expertise you want for each role?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“You need to choose the presentation order what do you think works best.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, that makes"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Hello, let's talk about how to, is the, what is the culture, diverse culture, Australian culture, or common culture.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure, we can definitely dive into that. So, let’s start by identifying some of the key cultural elements or values that are unique to each culture. Then we can compare how they might influence communication styles or social norms. Does that sound good to you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Could you repeat the last part?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course! I said: \"Then we can compare how they might influence communication styles or social norms.\" Hopefully that helps!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, code will compare the social norms and, for example, different things about the culture. In my culture is normally too... Colombia is really noisy culture and the people is not polite and is unsafe. Not the culture, but the country is unsafe. And, for example, you don't have a cell phone in the street because someone... It's possible that someone stole your phone. And it's possible that the other people hurt yourself with a gun or... I don't know.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "I see what you mean!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yeah, no, no, no. I called you a speck.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "No worries at all! We can definitely explore that further whenever you’re ready. Just let me know what specific aspects you’d like to dive into, and I’m here to help!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Maybe could we compare the food? Is different the food in Colombia and is different the food in Australia? What is the main dishes in Colombia? Or what is the main dishes in Australia?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That sounds like a great"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“In Colombia, for example, we have bandeja paisa, it's rice with beans, with beef, with plátano, with avocado, or arepa, it's really famous, it's a dish, a meal with flavor corn and butter and cheese, and we have ajiaco, it's a soap, we have tamal, or we have lechona, it's a pork, it's delicious, and you call to speak about the food in Australia?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a wonderful comparison! In Australia, for instance, you might find iconic dishes like meat pies, vegemite on toast, or even the famous barbecue culture. And of course, there are unique dishes like kangaroo steak or pavlova for dessert. It’s fascinating to compare these culinary traditions!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, that"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Who wants to do the reading part?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "No problem at all! We can always revisit the food comparison later. Just let me know whenever you want to dive back into it or if there’s anything else you’d like to explore for the project. I’m here to help!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“I see your point, but I am worried about the time.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "I completely understand. If there's anything specific you're concerned about, or if you need more clarity on any aspect, just let me know. I’m happy to help you through it!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“You are all agree on the new timeline or the time for the presentation?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! If you’d like, we can definitely focus more on the Chinese cultural aspects or the project details related to that. Just let me know what direction you’d like to take, and I’m here to help you out."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Why Chinese? I speak about Colombian culture and Australian culture.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Ah, I see! No worries at all. We can absolutely focus on Colombian culture and keep everything centered around that. Just let me know what aspects you’d like to explore further, and I’m happy to help out however you need!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Always check if every few days to stay on track.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! Just let me know whenever you're ready, and we can pick up right where we left off. I’m here whenever you need me!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“I am happy to try the presentation, but I've never done it before. Any tips?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That’s totally okay! It’s always great to start somewhere, and I’m here to guide you through every step. We can take it slow and make sure you feel comfortable and confident along the way. Just let me know what you need, and we’ll go at your pace!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Does anyone have experience with this type of project? We could learn from each other.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, often people do collaborate and share their experiences, and it can be really helpful to learn from one another. If you’d like, I can help connect you with others who’ve worked on similar projects, or we can just go step-by-step together. Whatever works best for you!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Maybe we do it together. Thank you.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I’m more than happy to work through everything with you step-by-step. Just let me know what you’d like to tackle first, and we’ll dive right in. I’m here to help and support you all the way!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“All right, thank you so much.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m really glad to help. Whenever you’re ready, just let me know, and we’ll get started. Feel free to reach out anytime! 窗体顶端 窗体底端 ChatGPT can make mistakes. Check important info. Task 3: Responding to Feedback or a Performance Review “Now, I am participating in a feedback session with my manager or supervisor in the hotel. You are the supervisor and, for example, it's a week of housekeeping in my hotel, Meridian Hotel, and I start a presentation about the problems and solutions in the hotel.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Got it, that sounds like an exciting opportunity! I’m happy to help you practice and refine your presentation for the hotel setting. Just let me know what specific areas you’d like to focus on, and we can get started whenever you’re ready!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Hi, this is about the customer service call I handled earlier. Could you tell me what I should improve?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Of course! When it comes to handling errors in your presentation, it’s great to stay calm and composed. You can acknowledge the mistake briefly, correct it, and then smoothly continue. It’s also helpful to have some backup notes or key points in mind. We can definitely go over some scenarios and practice together!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Ok, sometimes the coworkers don't clean appropriately, and sometimes the rooms are dirty, not so much, too much, but is a little bit. Maybe when you check the rooms, you do a better check, because sometimes when the guests arrive in the hotel, the guests put a complaint about us. And is not the mistake, our mistake for us, and is difficult for us to clean really quickly, with really detail, and you sometimes don't report about our mistakes for fixing that.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely, I understand. It's definitely important to be aware of those details and to handle any confusion gracefully. We can definitely practice how to explain things clearly and how to reassure guests if there’s any misunderstanding. We’ll make sure you feel confident and prepared for anything that comes up!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“What does SUSE look like for this task?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Great question! Usually, it might look like having a clear, concise explanation ready for each room or service, and being able to adapt if a guest has questions. It could also mean having some friendly, reassuring phrases to let them know you’re on top of things. We can definitely role-play some scenarios so you get comfortable with it!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Thanks, I'll make sure to check details more carefully the next time and I tell you if I need anything else.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "That sounds perfect! I’m always here to help whenever you need it. Just let me know, and we can refine everything until you feel confident. I’m sure you’ll do great, and I’m excited to see how it all comes together!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Have you seen empowerment in any particular area?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely! If you have any specific area or topic in mind, just let me know, and we can focus on that together. Whether it’s a certain aspect of the presentation, or a particular kind of scenario, I’m here to help you out every step of the way!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Maybe you should check better the toilets and the kitchen, the glasses, because the glasses have a lot of fingerprints and the mirror have drops in the top sometimes.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "That’s a great point! It definitely helps to have everything neat and well-organized, and making sure those details are covered can really enhance the guest experience. We can definitely go over some tips and best practices for that as well. Just let me know how you'd like to proceed, and we’ll make it all perfect!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“What would you recommend? Focus on improving nets.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "I’d definitely recommend focusing on the small details that create a welcoming atmosphere, like ensuring cleanliness, organizing amenities neatly, and maybe adding a personal touch, like a welcome note. Also, paying attention to lighting and making sure everything is well-maintained can make a big difference. And of course, we can fine-tune all these elements together as well!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Lovely, thank you so much.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "You’re so welcome! I’m really glad I could help. If you need anything else at all, just let me know. Good luck with everything, and I’m sure you’ll do fantastic!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Thank you. Bye.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "You're very welcome!"
+    }
+  ]
+}

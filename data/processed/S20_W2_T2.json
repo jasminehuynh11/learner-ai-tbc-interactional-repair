@@ -1,0 +1,150 @@
+{
+  "student_id": 20,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S20_W2_T2",
+  "source_file": "data\\raw\\#20\\#20\\#20. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "You work at a bank as a customer service officer. I will ask you some questions about your bank. Please do not apologize for every question. Sometimes you have to say no form make the conversation more interesting."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! I can do that. What would you like to ask about our bank today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I'm new here in Australia and I want to open a bank account. Can you give me some information about that?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! To get started, we usually need to know whether you're looking for a personal or a business account. Also, do you have the required identification documents handy?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I'm just a student, so I don't know if you have some special bank account for students.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Yes, we definitely do have student accounts! They usually have lower fees and some extra benefits. Could you let me know which university you're attending, and maybe how long you'll be staying in Australia?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I think I will study in IRC school, so in Greystone College, and I think I will stay here in Australia for maybe one year.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, that sounds great! In that case, we have some specific student accounts tailored for short-term stays. Just to confirm, do you have your student ID and your passport ready?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I don't have a student ID at the moment because I need to start a school, but I have my passport, yes.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "No worries at all! We can start the process with your passport, and once you have your student ID, you can update your account details later. Does that sound good to you?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Can you please tell me about the fear?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! Our student accounts typically have very low monthly fees, and sometimes we even waive them if you meet certain conditions. Would you like details on the exact fee structure, or do you have any specific questions about it?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“No, I just want to know if there is something to pay every month, every year, I don't know, something like that.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! For most student accounts, there's usually a minimal monthly fee, often around a few dollars, and sometimes it can be waived if you meet certain criteria. There's no annual fee, though, so it's pretty straightforward. Let me know if you need more specifics!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“No, okay. It's okay like that. And I need to come in your bank to open my bank account, or I can do online.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "You can definitely do it online as well! We have a simple online application process, and if you prefer, you can also visit one of our branches in person. Whatever’s more convenient for you!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Ok, credo che faccio online. Potresti darmi il sito web per fare questo?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Of course! You can visit our official website at www.examplebank.com, and you'll find the online application right there. If you need any help along the way, just let us know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“which information you need to have about me just the passport or like the address the phone number something like this”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yes, we'll definitely need your passport for identification, and we'll also need your Australian address, a phone number, and sometimes proof of enrolment in your school. But we’ll guide you through it step-by-step!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Ok, ok, thank you.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You're very welcome! If you have any more questions or need help at any point, just let me know."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“If I want to return to my country, I can freeze my account.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely! You can close your account whenever you're ready, and we can help you with that process. There's usually no penalty, and you can easily transfer any remaining funds before you leave."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“And like a student, the bank, the credit card have some limits or nothing.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Yes, typically student credit cards do have certain limits to help manage spending, and they often have lower credit limits compared to regular accounts. We can definitely go over those details once you apply, and we’ll make sure it fits your needs."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“by!”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You're very welcome! If anything else comes up, just let me know."
+    }
+  ]
+}

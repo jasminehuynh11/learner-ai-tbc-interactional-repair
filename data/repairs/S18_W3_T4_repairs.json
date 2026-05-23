@@ -1,0 +1,27 @@
+[
+  {
+    "dialogue_id": "S18_W3_T4",
+    "repair_id": 1,
+    "turn_indices": [
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand technical term",
+    "evidence_summary": "The learner explicitly asked for the meaning of 'connection failed' in turn 11, indicating a lack of understanding. The bot provided a clear explanation in turn 12, resolving the learner's query and allowing the conversation to progress."
+  },
+  {
+    "dialogue_id": "S18_W3_T4",
+    "repair_id": 2,
+    "turn_indices": [
+      17,
+      18,
+      19
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "ambiguous question – learner's phrasing unclear",
+    "evidence_summary": "In turn 17, the learner's question 'is this covered up?' was ambiguous. The bot initiated a repair in turn 18 by asking for clarification and offering possible interpretations. The learner successfully clarified their intent in turn 19, indicating the trouble was resolved."
+  }
+]

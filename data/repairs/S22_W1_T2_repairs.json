@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S22_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner expression of seating preference misunderstood by bot",
+    "evidence_summary": "The learner expressed a preference to sit near the window, but the bot misunderstood and confirmed a quieter corner instead. The learner did not address the misunderstanding, and the conversation continued without resolving the seating preference issue."
+  },
+  {
+    "dialogue_id": "S22_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      11,
+      12
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – misinterpreted 'first day' as 'first date'",
+    "evidence_summary": "The learner mentioned 'my friend's is first day,' which the bot misinterpreted as 'first date.' The bot responded with a congratulatory message for a 'first date,' but the conversation continued without further clarification, indicating the issue was resolved in context."
+  }
+]

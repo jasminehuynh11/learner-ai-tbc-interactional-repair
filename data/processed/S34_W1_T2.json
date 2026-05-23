@@ -1,0 +1,345 @@
+{
+  "student_id": 34,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S34_W1_T2",
+  "source_file": "data\\raw\\#34\\#34\\#34. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a restaurant table"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“I want to practice how to book a table at a restaurant on the farm. You are a waiter working in a restaurant in Sydney. I'll play the role a customer. Please create a realistic restaurant scenario and respond as if we are really there. Ask me about my preference, help me choose from the menu, and explain different date and time options. Keep the conversation going naturally and ask at least three follow-up questions about special request, celebration or special occasion, and change upbooking.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hello, and thank you for calling The Seaside Grill in Sydney. This is Emma speaking. How can I assist you today? Are you looking to make a reservation, or do you have any particular requests in mind?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello, I'm Masumi. I'd like to book a table for two tonight.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course, Masami! I'd be happy to help you with that. Could you let me know what time you’d prefer for your booking this evening, and if you have any seating preferences?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Do you have a table available at 9 p.m.?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Let me check that for you… Yes, we do have a table available at 9 p.m. for two guests. Would you prefer an indoor or outdoor seating area tonight?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I prefer sit near the window inside.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That sounds lovely! I’ll make sure to reserve a window seat for you. Also, is there any special occasion you’re celebrating tonight, or any dietary preferences we should be aware of?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I'm booking for my friend's birthday. Do you offer any singing or decorations?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, we’d be delighted to help celebrate! We can arrange a small birthday cake and even have our staff sing a little tune for your friend if you’d like. Just let us know what you’d prefer! And do you have any dietary restrictions we should keep in mind as well?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Do you have any special menu for birthday dinner?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course, no worries at all! I was asking if there are any dietary restrictions or preferences we should be aware of for your friend’s birthday dinner. For example, vegetarian, vegan, or any food allergies. Let me know, and we’ll make sure everything’s perfect!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“She is Muslim, so she can't eat pork and can't drink alcohol.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Got it, thank you for letting me know. We’ll make sure to provide halal options for her, and we can definitely keep everything alcohol-free as well. Is there anything else specific you’d like us to arrange for the celebration?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Please put your candle on the desert.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! We’ll make sure to place a candle on the dessert to add a special touch to the celebration. Is there anything else I can assist you with, or any other details you’d like to share?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“What kind of course do you have for birthday dinner?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "We offer a range of options! For birthday dinners, we can do a special three-course set menu with a choice of starters, mains, and desserts. We also have à la carte options if you prefer more flexibility. And of course, we can cater to any dietary needs. Let me know what you’re interested in, and I’ll help tailor it for you!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“I’d like to order Tender steak course.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That sounds wonderful! Our tender steak course is definitely a favorite. You can choose from options like a ribeye or a fillet, and we’ll pair it with seasonal sides and sauces. I’ll make sure to include that in your booking. Is there anything else you’d like to add or any other questions you have?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“How much is it?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Certainly! The tender steak course is priced at about $45 per person, and that includes your choice of sides and sauces. If you’d like, I can send you a detailed menu and pricing ahead of time. Just let me know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Can we bring our own alcoholic free drink?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, you’re welcome to bring your own non-alcoholic beverages. We just ask that you let us know in advance, and there might be a small corkage fee. If you have any other questions or special requests, just let me know!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“How much is the fee of BYO?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "The corkage fee for BYO non-alcoholic drinks is usually around $10 per bottle. If you have any specific items in mind, just let us know, and we’ll make sure everything’s arranged smoothly!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Sorry, what does snow mean?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Oh, no worries at all! When I said “smoothly,” I just meant that we’ll make everything easy and well-organized for you. So, no complications, and everything will be taken care of seamlessly. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Thank you so much.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re very welcome! It’s my pleasure to help. If you need anything else or have more questions as we get closer to the date, just let me know. I’m looking forward to hosting you!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“No, thank you. I have no questions.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That’s perfectly fine! Well, I’ll go ahead and secure your reservation, and we’ll make sure everything is set for a wonderful evening. If anything else comes up, just give us a call. Looking forward to having you and your friend with us!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“You don't need to ask me about my detail, contact detail?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That’s absolutely fine! I’ll keep everything noted as we’ve discussed. If you need anything at all in the future, just let me know. Thanks so much, and we’ll see you soon!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“I suppose I need to tell you about my contact details to secure my reservation.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Oh, absolutely, I understand! In that case, we can go ahead and take your contact details to confirm everything. Whenever you're ready, feel free to share them, and I'll make sure your reservation is fully secured."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Yes, please ask me.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Of course! Could you please provide your full name and a contact number, so we can finalize your reservation? And if there’s an email address you’d like us to use for confirmation, that would be great as well."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“My name is blah, blah, blah, blah. My phone number is 000-000-1234. And two customers, 9 p.m. today.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Perfect, thank you so much! I’ve got all the details noted. Your reservation for two at 9 p.m. is all set, and we’ll make sure everything’s ready for your friend’s birthday celebration. If you need anything else at all, just let me know. We look forward to welcoming you tonight!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Thank you. See you then.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "You’re very welcome! It’s been a pleasure helping you. Have a wonderful time, and we’ll see you later tonight. Take care!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“So we finish the calling now. Ding.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely, sounds great! Thank you so much, and have a fantastic evening. Take care, and goodbye for now!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Finish the roleplay, okay?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Got it! Roleplay finished. If you need any more practice or have any other questions, just let me know. Have a great day!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Yeah, I want to continue another roleplay, okay?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Just let me know the scenario or role you’d like to practice, and we can jump right in. I'm ready whenever you are!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“OK, after finish the phone, which I booked a reservation, I need to change my reservation. So I called the restaurant again.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Perfect, that sounds like a great scenario! Whenever you're ready, we can jump into that roleplay of calling the restaurant to modify your reservation. Just let me know the details, and we’ll get started!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Trrr Trrr… Hello!”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Hello! Thank you for calling The Seaside Grill again. This is Emma speaking. How can I assist you today? Are you looking to make a change to your reservation?"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Hi Emer, hello again. I'm Masumi. I called you 15 minutes ago.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Of course, Masami! I remember you. How can I help you today? Are you looking to adjust the time or perhaps add another guest to your reservation? Just let me know!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Can I add another person to the booking?”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! I’ll update your reservation to include one more guest. Could you let me know the total number of people now, and if there’s any other detail you’d like to change?"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Ah, No, I have more two people.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Got it, so that makes it a total of four people now. I’ll update that for you."
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Yes.”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Perfect! I’ll make sure everything is adjusted accordingly. If there’s anything else you’d like to modify or any special requests, just let me know. Otherwise, your reservation is all set!"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“One friend who is the birthday today is Muslim, so we need to serve halal food. But include me, another three people aren't Muslim, so it doesn't matter to eat pork or drink alcoholic, so could you serve alcoholic for us?”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely accommodate that. We’ll ensure that halal options are available for your friend, and we’ll have the usual menu, including alcoholic beverages, for the rest of the group. Everything will be well taken care of. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“Can I see the wine list in advance?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Of course! I can definitely send you the wine list ahead of time. I’ll make sure you have it well before your reservation so you can have a look and choose what you’d like. If there’s anything else I can assist you with, just let me know!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“Great. I'll see you at 9 p.m. today.”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Perfect! We’re looking forward to welcoming you at 9 p.m. today. If you need anything else in the meantime, just reach out. Have a wonderful day."
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "student_id": 24,
+  "week": 4,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S24_W4_T1",
+  "source_file": "data\\raw\\#24\\#24\\#24. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi. Hello.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "G'day there! Could you tell me a bit about what you're studying at the moment? Just take your time."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yes, at the moment I am studying English.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, perfect. And how are you feeling about your current course? Are you enjoying studying English so far?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yes, I am enjoying studying English too much.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great to hear that! So, since you're enjoying it so much, are you considering maybe changing your degree or adding something new on top of it?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, about my plan, I will finish my English study next December, and I am planning to continue with my study in AI.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, that sounds like a really interesting plan. So you're looking at moving into AI after you finish English. What is it that makes you unsure or curious about your study plans at the moment?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Sure, no worries at"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Which are the options in the field about AI?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, no worries at all. So you're curious about what options there are in the AI field. Well, let me ask: have you considered whether you'd prefer to study further, like maybe doing a diploma first, or would you rather jump straight into a bachelor's or something else?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I would like to begin with a diploma and then continue with a bachelor's.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Alright, that sounds like a solid plan. Starting with a diploma can definitely give you a good foundation before you move on to a bachelor’s. Now, is there anything that worries you about choosing the right pathway, or are you feeling pretty comfortable with that idea?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“I am interested to know if the AI diploma is suitable to learn about, and how I can help other companies to include AI in their process?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. So you're really keen to see if that AI diploma will help you support companies with integrating AI into their processes. Well, how do you see the differences between doing a diploma first and then moving on to a bachelor’s?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“No, I don't know.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, no worries at all. So basically, a diploma is a bit more focused and shorter, which can give you those practical skills quickly. Then a bachelor’s is a bit more in-depth and theoretical. Now, would you like to know how a diploma compares to a master’s degree as well, or are you just focusing on the bachelor’s for now?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“I am focused on my diploma and I would like to know if this diploma that you suggest to me is appropriate to develop my career as a project manager.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. So you're really focused on that diploma and making sure it'll help you become a project manager in the AI field. Well, absolutely, it can be a good step in that direction. Now, what kind of jobs do you imagine yourself doing in the future with those skills?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“I would like to help other companies, basically all about design, because I am a graphic designer and I am interested in AI applied to design, such a marketing.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, that makes"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“This is a different field where the AI could be an improvement for them.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, that makes a lot of sense. So you're really looking to blend AI with your design background and help companies in areas like marketing. Now, would you like some advice on applying for internships that can give you a bit of experience in that kind of role?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course, no worries at all. I was just asking if you'd like some advice on applying for internships that could give you a bit of experience in using AI in design roles. So would you like some help with that?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yeah.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Alright, no worries at all. We can definitely do that. So once you've had a bit of a think about these options, feel free to reach out again, and we can talk through some specific internships or next steps. Thanks for chatting today!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yes, but I am interested to know how much diploma occurs”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a good point. We can definitely look into the costs of the diploma courses for you. So let me find some info on that, and we can chat about what fits your budget. In the meantime, have you spoken with anyone else at the university about these plans, or would you like me to help you with that as well?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“My preference is, do you refer to where I am to take the course? Do you ask me about the city, or do you offer some options in other cities?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Sure, no worries. So I was actually just asking if you've spoken to anyone else here at the university about your plans. But if you're wondering about cities, we can definitely help with that, too. So would you like to know about courses in your city, or are you open to other locations?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I prefer to study in my city. I am in Golgotha now.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, that's no problem at all. So we'll focus on what's available on the Gold Coast then. And once I have some details, we can chat through those options. In the meantime, just let me know if there's anything else you're curious about."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yes, I am curious about the time, how...”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Yeah, absolutely. So if you're curious about the time it might take, no worries at all. We can go over that. Typically, a diploma might take a year or so, but we can look at the exact details for the courses in your area. Just let me know anything else you're wondering about."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Yes, what type of jobs are common for people with my diploma when I finish? What type of jobs are common for people with this diploma?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure thing. So typically, with a diploma like the one you're looking at, people often go into roles like AI project assistant, junior AI consultant, or even something like a technical coordinator in a design-focused company. So there's a range of entry-level jobs where you can apply those AI skills. Let me know if that helps."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely, and just"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Some types of networking where I finish my course”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely, we do. So the university definitely has some networking opportunities for you once you finish your course. We can connect you with alumni or industry events to help you get started. So once you've got a bit further along, just let me know and we can sort that out for you."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Oh, excellent. It's an excellent idea. Do you think that the student who finishes this kind of diploma will have more opportunities than other diplomas?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Yeah, absolutely. So doing a diploma in AI can definitely open up some unique opportunities compared to more general diplomas. I’d say it’s quite a growing field, so you’ll probably have a bit of an edge in the job market. And if you need more details, just let me know!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Yes, because I am thinking that AI is something that improves all the time. I don't think that it's a diploma that you can learn once in your life. I suppose that AI is a degree or a diploma that you should be learning every day.”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Yeah, absolutely. You're spot on there. AI is definitely something that keeps evolving, so you'll be learning all the time. It's one of those areas where you just keep building on what you know. But that's great, because it means you'll always have new opportunities. So yeah, I think you're on the right track."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Okay, when do you consider that, when do you consider send me, to send me the price of this diploma, this diploma's price?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that for you. So I'll go ahead and gather the details, and I’ll send you the pricing information as soon as possible. Just keep an eye out for that, and we’ll take it from there."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Okay, I will wait.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Sure thing, sounds good."
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“It's a good idea for you if I call you next week?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a great idea. Feel free to give me a call next week, and we can chat more then. I'm looking forward to it!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Or maybe you can send me the cost by email.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that. I'll go ahead and send you the cost by email once I have the details. So just keep an eye on your inbox, and we'll take it from there."
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“If I receive this email next week, I will call you again.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Absolutely, that works perfectly. Once you get the email, just give me a call whenever you're ready next week and we can go from there. It’s absolutely fine."
+    }
+  ]
+}

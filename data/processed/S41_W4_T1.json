@@ -1,0 +1,65 @@
+{
+  "student_id": 41,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S41_W4_T1",
+  "source_file": "data\\raw\\#41\\#41. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "English Conversational Partner ："
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Here is a scenario. I am speaking with an academic advisor or career counselor to get guidance about my current study plans or future career options. I want to explain my situation, ask for advice and clarify next steps, practice speaking clearly and professionally in a formal setting.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I will need to define the chatbot's role as a university advisor or career counselor.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I'm studying graphic design right now, but I'm not sure if it's the right fit.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Actually, I like design, but not graphic design, I think, because I'm afraid the AI, with the development of AI, I'm afraid the AI will replace my workplace in the future.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Actually, I think...”"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I want to go to the international company like...”"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I don't know, but I'm thinking about, should I need to, if I will go to the international company, like the big scale international company, should I need to graduate from bachelor degree and apply the master degree?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“And also, how can I decide between doing future study or starting work after graduation?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“What should I do now if I want to apply for an internship next year?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yeah, sounds good. Thank you. Thank you for your help.”"
+    }
+  ]
+}

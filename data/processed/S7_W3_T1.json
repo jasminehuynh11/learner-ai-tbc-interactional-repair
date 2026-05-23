@@ -1,0 +1,155 @@
+{
+  "student_id": 7,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S7_W3_T1",
+  "source_file": "data\\raw\\#7\\#7\\#7. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Sure! Thanks for calling. This is Daniel from ConnectNet Support — how can I help you with your internet today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi Daniel. My internet has stopped working. It was fine yesterday night, but now it won't connect."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, I see. Sorry about the trouble. Can you tell me if the lights on your modem or router are on right now?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I have listened many times before I called you, so whatever. Could you check if there's an outage in this area?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure, I can do that. Could you please give me your address or at least your ZIP code so I can check for any local outages?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Okay, my address is curly mark 1342, and zip code is 339."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, thanks. I’m checking that now… there doesn’t seem to be any outage in your area. Can I ask which internet device you’re using — a router, a modem, or both together?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I'm using Aleutia. Could you know what the issue might be?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, Aleutia — got it. That’s a combined modem and router, right? Can you tell me if you see any red or blinking lights on it right now?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I'm sorry, I pronounced it badly. I'm using router, and I can't see. Oh, right, some lights."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "No worries! Good catch. Which lights are blinking or showing red on your router?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "No, that color isn't right. Could you send me some technicians available?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure, we can arrange that. Could you tell me when you’d prefer a technician to come—today, tomorrow, or later in the week?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "I forgot to check what should I try before you send somewhere? Or do I need to reset the router again?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Good question! Before we send someone, let’s try a quick step. Could you unplug your router from the power for about 30 seconds, then plug it back in and see if the lights change?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "I try now. No, it doesn't work. It won't work. Could you send me someone, please?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, no problem. I’ll arrange a visit. Could you please confirm your full name and a phone number where our technician can reach you?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I'm Sasaki Kouta, and my phone number is 765-123-908."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Thanks, Mr. Kouta. One last thing — would you prefer a morning or afternoon appointment for the technician?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "If you send someone today, I prefer afternoon because I have to work right now. And if you send someone to me tomorrow, I'm available both morning and afternoon."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Got it, thanks. I’ll check availability for this afternoon first, and if no one’s free, we’ll schedule you for tomorrow. Would you like the technician to call before they arrive?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Yes, please. So now, could I, should I just be staying at home?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Good question. You don’t need to wait yet — once your appointment is confirmed, we’ll text or call you with the time window. Will you be the one at home when the technician comes, or should we note another contact person?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "I will be playing at home, so no problem if the technician comes."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Perfect, thank you. I’ve noted that you’ll be available. Before I confirm, could you please tell me which service plan you’re using with us? It helps us match the right technician."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "For one person's health, I chose"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Ah, you mean the individual home plan — great, that helps. Alright, I’ve got everything I need to schedule your visit. Would you like me to confirm the exact time by text or phone call?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Please text me later. Okay, that's all. I'll be waiting for your message. Thank you. Thank you for your help."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You’re very welcome, Mr. Kouta. We’ll text you soon with your appointment time. Have a good day and hope your internet’s back up soon!"
+    }
+  ]
+}

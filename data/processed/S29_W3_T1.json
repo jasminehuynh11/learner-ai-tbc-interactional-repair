@@ -1,0 +1,15 @@
+{
+  "student_id": 29,
+  "week": 3,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S29_W3_T1",
+  "source_file": "data\\raw\\#29\\#29\\#29. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an Internet Outage at Your Housing"
+    }
+  ]
+}

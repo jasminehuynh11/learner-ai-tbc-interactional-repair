@@ -1,0 +1,120 @@
+{
+  "student_id": 30,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S30_W3_T2",
+  "source_file": "data\\raw\\#30\\#30\\#30. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello!”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hello! How"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“How is the”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I’m doing great, thank you! How about you? What can I help you with today?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“So, I'm staying at this hotel, and I believe I left my phone in the lobby.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Could you help me check, please?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course, I’d be happy to help! Could you let me know approximately when you last saw your phone in the lobby?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I'm sorry, I don't understand.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "No worries at all! Could you tell me when you last saw your phone in the lobby, maybe the time or the day?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Oh, yeah. Before the launch, then it's disappeared, so I use until launch. After, I don't know.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it, that’s helpful! So, it was there before lunch. Could you also let me know the exact location in the lobby where you left it, or maybe which seating area you were in?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Oh, I don't know, maybe near the TV.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, that definitely helps narrow it down! I’ll check near the TVs. Is there anything else you remember, like if you had any accessories with your phone, such as a case or headphones?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yes, the phone has a blue case and a cracked screen.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect, that’s really useful to know. I’ll keep an eye out for that blue case and the cracked screen. Is there anything else that might help us identify it more easily?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“No, I think that's it. I appreciate your help.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Of course, I’m happy to help! I’ll go check the lobby and let you know if I find it. Feel free to let me know if you think of anything else in the meantime!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, so I will go back in maybe 13 minutes.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sounds good! I’ll keep an eye out, and hopefully, we’ll have it ready for you by the time you return. Just let me know if you need anything else in the meantime!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“For now, no, it's okay. Thank you so much. I appreciate your help.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad to help. Just let me know if anything else comes up, and I’ll be here. Have a great time, and I hope you find your phone soon!"
+    }
+  ]
+}

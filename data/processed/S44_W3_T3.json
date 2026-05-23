@@ -1,0 +1,185 @@
+{
+  "student_id": 44,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S44_W3_T3",
+  "source_file": "data\\raw\\#44\\#44\\#44. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Good morning, I call because I broke, my roommate broke the oven and now we would like to ask you to repair it.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. Of course, I can help with that. Could you let me know the specific issue with the oven, and how urgent the repair is?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“It's very urgent because we need this to prepare some dishes and just the light inside the oven it doesn't work and we don't know if”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, that makes"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Why?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "No worries at all! We’ll definitely get that sorted quickly. Could you let me know if there’s a convenient time for maintenance to come by and take a look, and if there’s any access instructions we should know about?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“It's better this Thursday because both me and my roommates are in the apartment so we can also help or just give assistance.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That sounds great! I’ll schedule the repair for Thursday, and it’s helpful to know that you and your roommates will be there. If there’s anything else we need, I’ll let you know. Thank you for letting me know!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Just I would like to ask you, like, for how long we have to wait?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely! Typically, once the maintenance team arrives on Thursday, the repair should take about an hour or so, depending on the issue. We’ll do our best to get it done as quickly as possible!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I understand.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Great! I’m glad that helps. If you have any other questions or need anything else, just let me know."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Could they call or text me when they are on their way?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Yes, absolutely! The maintenance team will either call or text you beforehand to let you know they’re on their way. That way, you’ll have a heads-up and can coordinate easily."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“And do I need to stay home for the repair?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "It’s usually best to be present, just in case they need access or have any questions. But if you’re not able to be there, we can definitely arrange an alternative access plan. Just let me know what works best for you."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“And we have to pay for this maintenance or is included in our contract.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That’s a great question! Typically, routine repairs like this are included in your contract, so there shouldn’t be any extra cost. But if it’s something outside the usual maintenance, we can definitely clarify that as well."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Because, as I told you, it's my roommate's fault and I don't want to pay for his mistake.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "I completely understand. In that case, we can definitely look into the details and see if any charges apply. We’ll make sure everything is fair and transparent. Just let me know if you need any further clarification, and we’ll sort it out."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“And can you provide us the amount of the cost?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely! Once we assess the situation, I’ll be able to provide a detailed breakdown of any costs involved. And if everything is covered under the contract,"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Okay, but more or less, how much do you think it is?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "I understand! Generally, for a minor repair like an oven light, it might be a small fee, often just a service charge. But I’ll confirm the exact amount once we know more details. I’ll keep you posted!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Okay, perfect.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Great! If you have any more questions or need further assistance, just let me know. I’m here to help anytime!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yes, can I ask you also more plate because I think the previous roommate broke a lot of it and we don't have enough”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Of course, I can definitely help with that as well. Just let me know the details of what you need replaced, and we’ll see what we can do to arrange it. We’ll make sure everything’s taken care of for you."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Some basic plate, like normal plate, just to eat.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Got it, that’s totally understandable. I’ll make sure we arrange for a couple of basic plates for you. Just let me know if there’s anything else you need, and we’ll take care of it."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“No, thank you. I appreciate a lot your support.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If anything else comes up, just let me know. Have a wonderful day!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Bye.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Goodbye! Take care, and feel free to reach out anytime. Have a great one!"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S12_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "vocabulary – learner's use of 'unforget' instead of 'forget'",
+    "evidence_summary": "The learner uses 'unforget' in turn 5, which is not a standard English word. The bot does not address this misuse and continues the conversation without clarifying or correcting the term, leaving the misunderstanding unresolved."
+  },
+  {
+    "dialogue_id": "S12_W3_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner clarifies inability to receive email",
+    "evidence_summary": "The learner expresses concern about not having a phone to receive emails in turn 13. The bot offers an alternative communication method in turn 14, but the learner further clarifies the issue in turn 15. The bot then suggests another solution in turn 16, resolving the misunderstanding."
+  }
+]

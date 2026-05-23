@@ -1,0 +1,255 @@
+{
+  "student_id": 25,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S25_W3_T2",
+  "source_file": "data\\raw\\#25\\#25\\#25. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "\"Hi.\""
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hello! How can I assist you today? Feel free to let me know what you'd like to report."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "\"And I lost my smartphone at the train station, and / would like to make a report.\""
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I'm sorry to hear that you lost your phone. Of course, I can help you with that. Could you please describe the phone, including the model and color, and let me know the exact time and location where you think you lost it?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "\"Okay, I explained the phone. My phone has a red case and a crashed screen. And maybe also, I lost at 3 p.m. Maybe.\""
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, thank you for that information. A red case and a cracked screen, noted. And you believe you lost it around 3 PM at the train station. Alright, let me ask you a few more details. Did you happen to notice the exact area or platform where you last had it?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "（don’t translate ）"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries, take your time"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "\"I get on the hospital station. I get a train at hospital stations, but maybe I lost my phone at here, but I'm not sure everything.\""
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I understand, that's totally fine. We'll do our best to help. What I'll do next is take down all the details you provided, and we'll look into it. If you remember any additional information later on, just let us know. Thank you for reporting it!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "\"However, do I need to show ID when collecting it?\""
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, typically, you'll need to show some form of ID to confirm ownership when you come to collect it. If you have any proof of ownership, like a receipt or a phone box, that can also be helpful. But your ID will definitely be important."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "\"Um, actually this time is traveling and I'm now traveling in here so / don't have any IDs because my IDs is everything is Japanese so\""
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "I see, that makes sense. In that case, we can definitely work with what you have. If you have any travel documents or a copy of your ID, that could also help. We'll do our best to assist you and keep you updated. Just let us know if there's anything else you need."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "\"Okay, thank you. Thank you for explaining everything. I appreciate your help.\""
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you need anything else or have more questions, just let me know. Good luck, and I hope your phone turns up soon"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "\"Thank you. I hope that...\""
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely! Fingers crossed everything works out smoothly. And if you need any more assistance, I'm here to help. Take care!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "\"Goodbye. Thank you.\""
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "You're welcome! Have a great day, and don't hesitate to reach out anytime. Bye for now! Task 3: Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Hello, I’d like to report something that needs repair in my apartment."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course. Could you tell me what the issue is and where it’s located?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "The heater in my bedroom isn't turning on."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "I see, thank you for letting me know. Could you tell me when you first noticed the issue and if there are any other details that might help us address it quickly?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "I realized that this morning, this morning is so cold, so I tried to turn on the heater, but heater don't turn on, so I'm not sure what happened."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Got it, that sounds uncomfortable! Thank you for the details. We’ll definitely look into it. Could you also let me know if there’s a preferred time for us to come by and take a look, or if there are any specific safety concerns we should keep in mind?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "um i wanna i wanna change the heater soon so i'm asking a question for you can someone come today or tomorrow"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange that. Let me check the schedule and see if we can have someone come either today or tomorrow. I’ll make sure we get it sorted as quickly as possible!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "I hope that I'm so, I'm too uncomfortable condition now, so please come to soon."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "I completely understand, and we’ll do our best to get someone over as soon as possible. I’ll confirm the timing and keep you updated. Hang in there, and we’ll get that heater fixed for you quickly!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Thank you so much."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything else or have any other concerns, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "If you come to my house, do I need to stay home for the repairs?"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That’s a great question! In most cases, it’s best to be present so we can access the area and answer any questions. However, if you’re not available, we can arrange a suitable time or even coordinate access through a neighbor or a key lockbox. We’ll make it as convenient as possible!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Thank you, Will."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Actually, this is the second time it's happened. Can it be checked more thoroughly?"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely do a more thorough check to find out the root cause of the issue. We’ll make sure to inspect everything carefully and ensure it’s fixed properly this time. Thanks for letting us know, and we’ll handle it thoroughly!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "And also, if there is an emergency number, I can call on..."
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Yes, absolutely!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Tell me about it."
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Of course! I’ll make sure to provide you with the emergency contact number so you can reach us quickly if something urgent comes up. We’re here to help, and we want to make sure you’re comfortable and supported at all times."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "I want to confirm about this issue, so could you call or text me when they are on their way?"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to give you a call or send a text when our team is on the way. That way, you’ll know exactly when to expect them. We’ll keep you updated every step of the way!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "Thank you so much."
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "You’re very welcome! It’s my pleasure to help. If you need anything else at all, just let me know. Take care!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "Thank you."
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Anytime! Have a great one, and feel free to reach out whenever you need. Take care!"
+    }
+  ]
+}

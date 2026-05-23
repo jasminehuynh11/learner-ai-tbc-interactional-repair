@@ -1,0 +1,130 @@
+{
+  "student_id": 20,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S20_W4_T1",
+  "source_file": "data\\raw\\#20\\#20\\#20. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "You are a university advisor or career counsellor. Your role is to simulate a formal guidance session with me, the student. Scenario: I am discussing my current study plans and future career options. You must respond professionally and politely, but you should not always agree with me. Instead, ask clarifying questions, provide suggestions, and explain possible pathways."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. To get started, what would you like to focus on today—your current study plans, your future career direction, or something else?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, hello.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Hello! It's great to meet you. How can I assist you today with your academic and career plans?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“In a few weeks, I become graduate, and I have to decide what I want to do next. But I'm not sure about what I want to do next. Do you have some recommendations, some ideas, something that you can advise me?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to help! To start off, could you tell me what your major is and what kind of fields or industries you’re interested in? That way, we can narrow down some options."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, now I'm just studying in the ILC school in Sydney, just English, because I have to improve my English. But in a few weeks, exactly in three weeks, I become graduate, so I have to decide if I want to stay more in this English school, or maybe change and do some course about some topic but I'm not sure because maybe I can just extend my course at this school and learn more English, or I can go to work.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. It’s definitely a big decision. So, are you leaning more towards continuing your English studies, or are you more curious about diving into work experience right away? And do you have any specific career goals in mind?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“No, a specific career in mind I don't have, but maybe I can continue at the English school, but I'm not sure if I want like part-time or full-time, if I want in the morning, afternoon, or in the evening. Can you maybe please give me some advice?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course! It really depends on what balance you’re looking for. For example, if you continue studying English full-time, you’ll definitely improve faster, but it might limit your work opportunities. On the other hand, part-time English courses can give you more flexibility to explore work or internships. So, do you think you’d prefer a more intensive language focus, or are you hoping to gain some work experience at the same time?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I think because now the problem is to find a work, so if I decide to do part-time and I don't have a work, I think it's just lose time. But if I have a work, it can be a good idea to stay at school.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That makes perfect sense. It might be helpful to look into part-time jobs that are flexible and allow you to continue your English studies. That way, you get practical experience and keep improving your language skills. Would you like some guidance on how to find suitable part-time work or maybe how to balance both?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Do you know the school that I'm going? Can you search if they are connected with some college and if they give some course information or something like this?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, I can definitely help with that. If you let me know the name of your current school, I can look into whether they have partnerships with local colleges or if they offer pathways to further courses. Feel free to share the name or any details you have, and we’ll go from there."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Ok, vi dirò di nuovo che il nome della scuola è ELC Sydney.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect, thank you! I’ll look into ELC Sydney and see what kind of connections they have with colleges or any additional courses they might offer. Give me just a moment, and I'll gather that information for you."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Ok, thank you.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You're very welcome! I'll just take a moment to look that up, and then we can discuss the options and next steps. Just hang tight, and I’ll be right back with some details."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, have you found what I'm searching?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yes, I’ve got some information for you! ELC Sydney does have partnerships with several local colleges and offers pathways for further academic courses. They also provide flexible study options, including part-time English courses. So, we can definitely explore how you can combine that with part-time work. Let me know if you’d like more details on any particular pathway or have any other questions!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“No, I think you have explained me good all the things so I think I will stay more at school But maybe I will I will call you back in the future To decide a future master of you as future degree or future course”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I’m really glad I could help. And absolutely, feel free to reach out anytime you need guidance in the future. Best of luck with your continued studies, and I’m here whenever you need me."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Thank you, have a nice day.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You’re very welcome! You have a wonderful day as well, and take care."
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "student_id": 14,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S14_W3_T3",
+  "source_file": "data\\raw\\#14\\#14\\#14. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I've just realized I lost my phone. I'm at the train station and I'd like to check with the lost and found disk."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that. Let’s get that sorted out for you. Could you tell me when you last saw your phone and where exactly you think you might have lost it?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I last saw it at the train station around 3 p.m."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, that helps a lot. So, did you happen to leave it in a specific area, like near a particular platform or maybe a waiting area?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Maybe platform 9 because I took the train from there."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Thanks for that detail! I’ll let the lost and found desk know. Just to confirm, did you have any specific case or cover on your phone that might help identify it?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Yeah, the phone has a purple case and a cracked screen."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Perfect, that will definitely help them identify it. I’ll pass that along. Is there anything else you remember that could be useful, like any specific apps that were open or any other details?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "The case design has a Japan flag."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Oh, that’s a great detail! That should make it even easier to spot. Alright, I’ll make sure they have all that info. Is there a phone number or an email I can leave them so they can contact you if they find it?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yes, My phone number is 123456789."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it! I’ll make sure they have that number as well. Hopefully, they find your phone soon! If there’s anything else I can help with, just let me know."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Do I need to fill out a form?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Usually, they do have a simple form for lost items, just to confirm all the details. I can give you the form or guide you through it if you’d like!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "OK, and also do I need to show ID when collecting it?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yes, typically they’ll ask for an ID when you pick it up, just to confirm that it’s really yours. But no worries, we’ll get everything set up so you can retrieve it easily!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Thank you so much. Can you call me if it's found?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure they have your contact number and give you a call if they find it. Hopefully, you’ll have it back in no time! If you need anything else, just let me know."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "How long do you keep lost items on file?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Typically, they keep lost items for about 30 days, but it can vary a bit depending on the station’s policy. If it’s not found within that time, they might donate or dispose of it. So, it’s always good to check in sooner rather than later!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "OK, if it's found, I will collect it soon. And what should I do if I lost it in another city?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "In that case, you’d want to contact the lost and found department of that specific city or station. Usually, you can reach out to them online or by phone, and they’ll guide you through their process. But hopefully, you won’t have to worry about that!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Yeah, definitely. Is there a lost property website I can check?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, many train stations and transit systems have their own lost and found websites where they list items. It’s definitely worth checking the official website of the station or the transit authority. If you need help finding it, I can point you in the right direction!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "I appreciate your help. Thank you for explaining everything."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any other questions at all, just let me know. Good luck, and I hope you get your phone back soon!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "I hope. Thank you so much. That's all today."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You’re welcome! I’m glad I could help. If you ever need anything else, just reach out. Have a great day!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Thank you so much, you too."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Thank you! Take care, and talk to you later! Task 3: Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Hello, I'm calling for requesting maintenance. Are you a property manager?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yes, I am! I’d be happy to help you with your maintenance request. Could you let me know what kind of maintenance issue you’re experiencing?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "The heater in my bedroom isn't turning on and there is a leak under the kitchen sink."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Oh, I see, that sounds like a couple of important issues. Thanks for letting me know! Could you tell me if you’ve noticed any specific time when the heater stopped working or how long the leak has been going on?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "From this morning."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Got it, thanks for clarifying. I’ll make sure to prioritize that. Just to confirm, is there any specific time frame that you’d prefer the maintenance to come by, or is anytime during the day fine?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Anytime is fine."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Perfect, that makes it easier. Alright, I’ve got all the details I need. Is there anything else I can help you with, or are we all set?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Will you send a plumber or handyman?"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "I can definitely arrange for a handyman to come by and take care of both issues. I’ll get that scheduled for you. If you think of anything else, just let me know!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Could they call or text me when they are on their way?"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure they give you a call or send a text when they’re on their way. That way you’ll know exactly when to expect them. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "Do I need to stay home for the repair?"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "It’s usually a good idea to be present just so you can let them in and show them the issues, but if that’s not convenient, we can always arrange access another way. Just let me know what works best for you!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "Okay, thank you. And should I turn off the water until they come?"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "It’s a good precaution to turn off the water, especially with that leak, just to prevent any further issues. Once the repair is done, you can turn it back on. If you need any more help, just let me know!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "Is there anything I should prepare before they arrive?"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Just make sure the area around the heater and the kitchen sink is accessible, so the handyman can easily get to the issues. Other than that, you should be all set! And of course, if you think of anything else, just let me know!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "It was fixed last month, but the issue has returned. Should I be worried about any long-term damage?"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "It’s definitely a good idea to get it checked out since it’s reoccurring. That way we can make sure there’s no underlying issue that could cause any long-term damage. We’ll get it sorted out and hopefully everything will be good as new!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "Is there an emergency number I can call on weekends?"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Absolutely, we do have an emergency number that you can reach out to on weekends or outside of regular hours. I’ll make sure to share that with you so you have it handy just in case."
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "OK, thanks for organizing that so quickly. Have a good day."
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. You have a great day as well, and feel free to reach out anytime!"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "dialogue_id": "S9_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      3,
+      4
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner requests to repeat",
+    "evidence_summary": "The learner asks to say something again in turn 3, indicating a need to repeat or clarify their previous statement. The bot encourages the learner to take their time and repeat in turn 4, resolving the issue."
+  },
+  {
+    "dialogue_id": "S9_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      17,
+      18
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "In turn 17, the learner corrects themselves by stating that it is not their house and they do not know the company, which clarifies the previous misunderstanding. The bot acknowledges this correction in turn 18, resolving the issue."
+  },
+  {
+    "dialogue_id": "S9_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      11,
+      12,
+      14
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – learner's request for a visit",
+    "evidence_summary": "The learner suggests a company co-worker should visit in turn 11, which the bot interprets as a request for help in turn 12. The bot then offers to help set up an appointment in turn 14, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S9_W3_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      21,
+      22
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "bot misunderstanding – learner's request for a visit is not acknowledged",
+    "evidence_summary": "The learner requests confirmation of a visit from a company co-worker in turn 21, but the bot fails to acknowledge or address this request in turn 22, leading to an unresolved issue."
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "dialogue_id": "S29_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially states 'I'm hoping to do the dinner in next week,' which the bot interprets as 6 PM for five people. The learner then corrects themselves, clarifying they meant 'in next week,' not 6 PM. The bot acknowledges the correction and asks for the specific day and time, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S29_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand word/phrase",
+    "evidence_summary": "The learner asks to clarify 'which stage is available,' which is unclear. The bot responds by checking availability for each day next week, effectively addressing the learner's request for clarification."
+  },
+  {
+    "dialogue_id": "S29_W1_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      44,
+      45
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially states 'You will now have total 6,' then corrects to 'oh sorry, 7 persons.' The bot acknowledges the correction and updates the reservation for seven guests, resolving the issue."
+  }
+]

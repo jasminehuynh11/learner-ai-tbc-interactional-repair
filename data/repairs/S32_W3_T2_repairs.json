@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S32_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous question – learner confused by bot's request",
+    "evidence_summary": "The learner was unsure whether to provide both a phone number and an email or just one (T9). The bot clarified that either was acceptable but both were helpful (T10). The learner then provided both details (T11), indicating the issue was resolved."
+  }
+]

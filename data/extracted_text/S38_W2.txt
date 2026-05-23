@@ -1,0 +1,135 @@
+WEEK 2 
+TASK 2: BANK
+You said: 
+“Good evening. I would like to open a bank account, please, if possible.”
+00:05
+English Conversational Partner said:
+Of course! I can definitely help you with that. Let me know what type of account you’re interested in, and I’ll guide you through the process.
+You said:
+“I would like to get a MasterCard, what type of card do you have?”
+00:06
+English Conversational Partner said:
+We offer a variety of cards, including debit cards, credit cards, and also prepaid cards. If you're interested in a Mastercard, we can definitely look at the options available for that as well. Let me know what you're looking for, and I’ll help you find the best fit!
+You said:
+“Actually, I would like to have a credit card with a MasterCard. Is it possible to get two, or should I?”
+00:08
+English Conversational Partner said:
+Yes, absolutely!
+You said:
+“Splendid”
+00:02
+English Conversational Partner said:
+No worries at all! If you’d like to get two credit cards, we can definitely discuss the options and see what works best for you. Just let me know your preferences, and we’ll make it happen!
+You said:
+“Alright, do I need to book an appointment for, to have, to create my bank account, or?”
+00:06
+English Conversational Partner said:
+It’s usually possible to do it either way. You can either come in and we’ll assist you right away, or you can schedule an appointment if you prefer a more personalized experience. Just let us know what works best for you!
+You said:
+“All right, I need to bring my ID card or anything that concerns...”
+00:04
+English Conversational Partner said:
+Yes, definitely! You’ll want to bring a valid ID, like your driver’s license or passport, and also any proof of address, like a utility bill. If you’re applying for a credit card, we might also need some financial documents. But I’ll guide you through all of that when you come in.
+You said:
+“May I know the advantages of having a credit card and a MasterCard?”
+00:04
+English Conversational Partner said:
+Absolutely! Having a credit card can help you build your credit history, offer rewards like cashback or travel points, and provide fraud protection. A Mastercard, in particular, is widely accepted globally, and it often comes with additional benefits like travel insurance and purchase protection. It’s definitely a convenient and secure way to manage your finances.
+You said:
+“How interesting. Do I get taxes when I pay with my MasterCard and, for example, if I ever go overseas, do I need to pay a tax with it or no?”
+00:14
+English Conversational Partner said:
+Great questions! Typically, when you use your Mastercard, the taxes are determined by the merchant and the local laws, so it’s not really the card itself that adds taxes. When you travel overseas, you might encounter foreign transaction fees, which are usually a small percentage of the purchase amount. Some cards do offer travel-friendly features that reduce or waive those fees, so it’s definitely something to consider.
+You said:
+“Thank you very much. Is it possible if I come on the afternoon after work?”
+00:06
+English Conversational Partner said:
+Of course! That’s absolutely fine. You can come by in the afternoon, and we’ll be happy to assist you then. Just let us know the exact time that works best for you, and we’ll have everything ready!
+You said:
+“Is 5 pm okay? What time do you close?”
+00:03
+English Conversational Partner said:
+Yes, 5 PM works perfectly! Our clinic usually closes around 6 PM, so you’ll have plenty of time. If anything changes or you need to adjust the timing, just let us know, and we’ll accommodate you!
+You said:
+“Oh, thank you very much. See you later.”
+00:02
+English Conversational Partner said:
+You're very welcome! Looking forward to seeing you later. Have a great day!
+TASK 3: RENTAL PROPERTY 
+You said: 
+“Good morning Good morning, I'm really interested in that one bedroom unit in Coolangatta”
+00:16
+English Conversational Partner said:
+Good morning! That sounds great. I'd be happy to help you with that. Do you have any specific questions about the unit, or would you like more details on availability, pricing, or maybe scheduling a viewing? Let me know!
+You said:
+“Is the property fully furnished?”
+00:01
+English Conversational Partner said:
+Absolutely! I can check on that for you. Let me confirm if the unit comes fully furnished and provide you with all the details you need. Just give me a moment, and I'll get that information for you!
+…
+Yes, I've confirmed that the unit is indeed fully furnished, including essential appliances and furniture. If you have any other questions or if you'd like to schedule a visit, just let me know!
+You said:
+“Excellent. Are pets allowed though?”
+00:04
+English Conversational Partner said:
+No worries at all! I’ll check on the pet policy for you as well. Generally, many units do allow pets, but I’ll confirm the details and any specific requirements. Just hang tight, and I’ll get back to you shortly!
+You said:
+“and how much is the bond ?”
+00:01
+English Conversational Partner said:
+I’ll look up the specific pet deposit or fee for you as well. Usually, there’s a one-time pet deposit or sometimes a monthly pet rent, so I’ll get those details and let you know right away!
+You said:
+“Is there any inspection time this week?”
+00:03
+English Conversational Partner said:
+Absolutely! I can check the availability for inspection this week. Just let me know what day and time would work best for you, and I’ll do my best to arrange it. Let me know what suits you!
+You said:
+“I would like to have an inspection on the weekend, especially on Saturday, on the afternoon at 2pm. Is it possible?”
+00:07
+English Conversational Partner said:
+That sounds good! I’ll check if we have availability for an inspection on Saturday at 2 PM and get that scheduled for you. I’ll confirm the details and let you know shortly!
+You said:
+“So have you got the answers yet?”
+00:01
+English Conversational Partner said:
+Yes, I’ve confirmed that we can schedule the inspection for Saturday at 2 PM. The unit is fully furnished, and pets are allowed with a refundable deposit. If you need any more information or have any other questions, just let me know!
+You said:
+“Do I need to include any documents for my application, or...?”
+00:03
+English Conversational Partner said:
+Yes, typically you'll need a few documents for the application, like a valid ID, proof of income, and possibly references or a credit report. I can give you a full list once we confirm the inspection. If you have any specific questions or need guidance, just let me know!
+You said:
+“So, does it take to hear you back?”
+00:01
+English Conversational Partner said:
+Usually, we aim to get back to you within one business day, but often we can respond even sooner. If you have any urgent questions or need something quickly, just let us know, and we’ll do our best to accommodate!
+You said:
+“And should I provide any other documents?”
+00:02
+English Conversational Partner said:
+In addition to the main documents, sometimes we might ask for things like recent pay stubs, a rental history reference, or a credit check authorization. Once we finalize the details, I'll provide a complete list so you’ll be fully prepared. If you have any concerns or need clarification, feel free to ask!
+You said:
+“Thank you for the information. I will attend the inspection on Saturday.”
+00:03
+English Conversational Partner said:
+You’re very welcome! I’m glad everything works out. If you have any other questions before Saturday or need any assistance, just let me know. Looking forward to seeing you then!
+You said:
+“Yes, I am also interested in another unit. It's situated in Tungun. Is it possible to visit this one too?”
+00:10
+English Conversational Partner said:
+Absolutely, we can definitely arrange a visit for that unit in Tuen Mun as well. Just let me know a day and time that works for you, and I'll coordinate everything so you can check out both places. Feel free to let me know what works best for your schedule!
+You said:
+“Yes, I also noticed that the lease is quite pricey. Is it possible to negotiate the lease length?”
+00:10
+English Conversational Partner said:
+Certainly! It’s often possible to negotiate the lease terms, including the length or even the rent. We can definitely discuss that with the landlord and see what flexibility is available. Just let me know what you have in mind, and I'll do my best to help!
+You said:
+“like to have an inspection the same day as well, on Saturday, but this time in the morning.”
+00:06
+English Conversational Partner said:
+That sounds perfect! We can arrange both inspections for you on Saturday, one in the morning and the other in the afternoon. I’ll make sure to coordinate the times so that everything works smoothly for you. Just let me know if you have any specific preferences or questions, and I’ll take care of the rest!
+You said:
+“for sure i will note everything if i ever have a question and i will ask you directly there”
+00:05
+English Conversational Partner said:
+That sounds great! I’m always here to help, so don’t hesitate to reach out anytime. Looking forward to assisting you, and I’m sure everything will go smoothly. Just let me know whenever you need anything!

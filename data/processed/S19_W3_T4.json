@@ -1,0 +1,220 @@
+{
+  "student_id": 19,
+  "week": 3,
+  "task": 4,
+  "task_label": "T4",
+  "dialogue_id": "S19_W3_T4",
+  "source_file": "data\\raw\\#19\\#19\\#19. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Seeking Technical Support for a Device or Service Scenario: You are contacting customer support for a technical problem with your phone, computer, or an online service. You need help troubleshooting or asking for service options. Practise speaking clearly and politely using technology-related vocabulary. You will need to define the chatbot’s role as a tech support agent or customer service assistant. You can choose situations from the examples below; start with a simple issue and try a more detailed interaction by discussing troubleshooting steps, data recovery, or service coverage. Learning objectives: • Practise using tech-related vocabulary and error descriptions. • Follow instructions and sequence events. • Use polite and persistent enquiry language. • (Advanced option) Manage extended support conversations by clarifying error symptoms, asking about warranties or replacements, and confirming next actions. Instructions: Try to: • Describe what went wrong in clear steps. • Respond to questions about device or account information. • Follow troubleshooting suggestions. • Ask what happens next. • (Advanced option) Use the extension prompts below to have a longer conversation"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright, happy to help! I’m your tech support agent today. What problem are you having with your device or service?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it. Let's start with the basics. Can you tell me what model your phone is and how long this has been happening?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“My phone is a Galaxy Tab and it happens a lot.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Alright, a Galaxy phone, and this has been going on for a while. Let's see what we can do. Have you noticed if it restarts when you're using a specific app or just randomly?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“It's just a random name, yeah?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, randomly it is. Let's try a quick step. Could you go ahead and restart the phone yourself once and let me know if it still keeps rebooting after that?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yeah, it keeps rebooting, yes.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, so it’s still doing it even after a manual restart. Let’s dig a bit deeper. Could you tell me if you’ve installed any new apps or updates recently, just before this started happening?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Nothing I know of.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure, nothing new that you can think of. No worries. Let’s try another step then. Could you check if your phone’s software is fully up to date, and let me know if there are any pending updates showing up?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Not really, I can't check any screen now.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, so you can't really check the screen right now. No problem. Let's just move on to another angle. Have you tried maybe charging it fully or using a different charger just to see if that makes any difference?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“No, I just use usual one.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Gotcha. You just used your usual charger. That’s totally fine. Let’s keep it simple. Could you let me know if the phone is still under any kind of warranty or if you have any coverage plan that we should know about?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I think I have a warranty for 5 years soon.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, a five-year warranty sounds good. That’s helpful to know. So next, let’s figure out how we can use that. Would you like me to walk you through how to contact the warranty service, or do you want to try another troubleshooting step first?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I can go troubleshooting first.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure thing! We can keep troubleshooting a bit more. Let me ask: have you tried starting the phone in safe mode to see if it still restarts there?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I do know about that.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Alright, no worries. Safe mode is basically a way to start your phone without any third-party apps running. So let's try that next. Can you go ahead and power it off completely and then turn it back on by holding the volume down button? Let me know if that gets you into safe mode."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“So I connect it to safe mode. What should I do next?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Alright, great job getting into safe mode! So from here, let's just see if the phone still restarts on its own. If it doesn't reboot randomly in safe mode, that means it’s probably an app causing the issue. So just let me know if it stays stable or if it still restarts while you're in this mode."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I guess to restart it in this mode.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Alright, so it still restarts even in safe mode. That’s good info. In that case, let’s lean on that warranty. I’ll help you with the next steps to contact the service center so they can take care of it. So, just let me know if you're ready to reach out to them or if you need anything else first."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Uh, they're gonna reset my files or photos or deleting.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Sure, that makes sense. We can definitely do a reset or a factory reset if you’re comfortable with that. Just remember it’ll erase your data, so let me know if you want to back anything up first. And then we can walk through that reset step together."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yeah, I mean, I wanted to save my photos and files.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Alright, got it! You want to save your photos and files first. So let’s do that before we reset anything. You can back them up to a cloud service or transfer them to a computer. Once you've got them safe, just let me know and we’ll take the next step together."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, it's good to think about that. If you're backing up to a trusted cloud service or a computer you trust, you should be fine. Just make sure you're using a secure account and you're all set. Once everything's backed up, we can move on to that factory reset. Let me know when you're ready!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“I'm leaking my photos or files or my account, something like that.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Sure, I hear you. So basically, you're just worried about your photos or files leaking or your account info getting out. As long as you're using a trusted method, like a well-known cloud service or a safe computer, you're good. And once we do the reset, that should wipe everything off the phone cleanly. Just let me know when you're all backed up and we’ll jump to the next step."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“So what if this problem keeps happening after maintenance?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure, totally understandable to wonder about that. So if the problem keeps happening even after we do a reset, then it's likely a hardware issue rather than a software one. In that case, we’d definitely want to use that warranty and have a technician look at it. So let's just back things up, do the reset, and if it still acts up, we’ll go from there."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Can I open a case number to follow up later, and what's the case number again?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. So let me go ahead and open a case number for you. That way you can follow up easily if you need to. And your case number is 12345. So if you have any more issues, just mention that number and we’ll pick up where we left off. Let me know if you need anything else!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“So what does that mean, case number, in this context?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sure! So a case number is basically just a reference number that lets us keep track of your issue. It means that if you contact us again, we can quickly find all the details about what's been done so far. So just hang on to that number, and it'll help if you need to reach out to us again. Anything else on your mind?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“I'll reach you all again if I still have problems. Thank you.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Of course! You're very welcome. Just keep that case number handy and reach out any time you need more help. Have a good one!"
+    }
+  ]
+}

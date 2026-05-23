@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S47_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      13,
+      14
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner explicitly states they don't understand and asks the bot to repeat its previous question. The bot then rephrases the question about other issues like water pressure or leaks, which resolves the learner's confusion."
+  }
+]

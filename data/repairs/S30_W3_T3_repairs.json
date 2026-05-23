@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S30_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      14,
+      15
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "In turn 14, the learner expresses confusion and asks for repetition of the bot's previous question. The bot clarifies the question in turn 15, and the conversation continues smoothly, indicating the issue was resolved."
+  }
+]

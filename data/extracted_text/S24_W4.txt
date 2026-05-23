@@ -1,0 +1,258 @@
+TASK 1: 
+Discussing Study or Career Plans with an Advisor 
+Hi, how can I help you today? Are you thinking about your study plans or your future career options?
+You said:
+“Hi. Hello.”
+00:01
+English Conversational Partner said:
+G'day there! Could you tell me a bit about what you're studying at the moment? Just take your time.
+You said:
+“Yes, at the moment I am studying English.”
+00:04
+English Conversational Partner said:
+Alright, perfect. And how are you feeling about your current course? Are you enjoying studying English so far?
+You said:
+“Yes, I am enjoying studying English too much.”
+00:08
+English Conversational Partner said:
+Great to hear that! So, since you're enjoying it so much, are you considering maybe changing your degree or adding something new on top of it?
+You said:
+“Yes, about my plan, I will finish my English study next December, and I am planning to continue with my study in AI.”
+00:20
+English Conversational Partner said:
+Alright, that sounds like a really interesting plan. So you're looking at moving into AI after you finish English. What is it that makes you unsure or curious about your study plans at the moment?
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Sure, no worries at
+You said:
+“Which are the options in the field about AI?”
+00:08
+English Conversational Partner said:
+Absolutely, no worries at all. So you're curious about what options there are in the AI field. Well, let me ask: have you considered whether you'd prefer to study further, like maybe doing a diploma first, or would you rather jump straight into a bachelor's or something else?
+You said:
+“I would like to begin with a diploma and then continue with a bachelor's.”
+00:06
+English Conversational Partner said:
+Alright, that sounds like a solid plan. Starting with a diploma can definitely give you a good foundation before you move on to a bachelor’s. Now, is there anything that worries you about choosing the right pathway, or are you feeling pretty comfortable with that idea?
+You said:
+“I am interested to know if the AI diploma is suitable to learn about, and how I can help other companies to include AI in their process?”
+00:30
+English Conversational Partner said:
+Absolutely, that makes sense. So you're really keen to see if that AI diploma will help you support companies with integrating AI into their processes. Well, how do you see the differences between doing a diploma first and then moving on to a bachelor’s?
+You said:
+“No, I don't know.”
+00:01
+English Conversational Partner said:
+Alright, no worries at all. So basically, a diploma is a bit more focused and shorter, which can give you those practical skills quickly. Then a bachelor’s is a bit more in-depth and theoretical. Now, would you like to know how a diploma compares to a master’s degree as well, or are you just focusing on the bachelor’s for now?
+You said:
+“I am focused on my diploma and I would like to know if this diploma that you suggest to me is appropriate to develop my career as a project manager.”
+00:23
+English Conversational Partner said:
+Absolutely, that makes sense. So you're really focused on that diploma and making sure it'll help you become a project manager in the AI field. Well, absolutely, it can be a good step in that direction. Now, what kind of jobs do you imagine yourself doing in the future with those skills?
+You said:
+“I would like to help other companies, basically all about design, because I am a graphic designer and I am interested in AI applied to design, such a marketing.”
+00:31
+English Conversational Partner said:
+Absolutely, that makes
+You said:
+“This is a different field where the AI could be an improvement for them.”
+00:11
+English Conversational Partner said:
+Absolutely, that makes a lot of sense. So you're really looking to blend AI with your design background and help companies in areas like marketing. Now, would you like some advice on applying for internships that can give you a bit of experience in that kind of role?
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Of course, no worries at all. I was just asking if you'd like some advice on applying for internships that could give you a bit of experience in using AI in design roles. So would you like some help with that?
+You said:
+“Yeah.”
+00:00
+English Conversational Partner said:
+Alright, no worries at all. We can definitely do that. So once you've had a bit of a think about these options, feel free to reach out again, and we can talk through some specific internships or next steps. Thanks for chatting today!
+You said:
+“Yes, but I am interested to know how much diploma occurs”
+00:16
+English Conversational Partner said:
+Absolutely, that’s a good point. We can definitely look into the costs of the diploma courses for you. So let me find some info on that, and we can chat about what fits your budget. In the meantime, have you spoken with anyone else at the university about these plans, or would you like me to help you with that as well?
+You said:
+“My preference is, do you refer to where I am to take the course? Do you ask me about the city, or do you offer some options in other cities?”
+00:24
+English Conversational Partner said:
+Sure, no worries. So I was actually just asking if you've spoken to anyone else here at the university about your plans. But if you're wondering about cities, we can definitely help with that, too. So would you like to know about courses in your city, or are you open to other locations?
+You said:
+“I prefer to study in my city. I am in Golgotha now.”
+00:03
+English Conversational Partner said:
+Absolutely, that's no problem at all. So we'll focus on what's available on the Gold Coast then. And once I have some details, we can chat through those options. In the meantime, just let me know if there's anything else you're curious about.
+You said:
+“Yes, I am curious about the time, how...”
+00:07
+English Conversational Partner said:
+Yeah, absolutely. So if you're curious about the time it might take, no worries at all. We can go over that. Typically, a diploma might take a year or so, but we can look at the exact details for the courses in your area. Just let me know anything else you're wondering about.
+You said:
+“Yes, what type of jobs are common for people with my diploma when I finish? What type of jobs are common for people with this diploma?”
+00:15
+English Conversational Partner said:
+Sure thing. So typically, with a diploma like the one you're looking at, people often go into roles like AI project assistant, junior AI consultant, or even something like a technical coordinator in a design-focused company. So there's a range of entry-level jobs where you can apply those AI skills. Let me know if that helps.
+You said:
+Transcript Unavailable
+00:06
+English Conversational Partner said:
+Absolutely, and just
+You said:
+“Some types of networking where I finish my course”
+00:09
+English Conversational Partner said:
+Absolutely, we do. So the university definitely has some networking opportunities for you once you finish your course. We can connect you with alumni or industry events to help you get started. So once you've got a bit further along, just let me know and we can sort that out for you.
+You said:
+“Oh, excellent. It's an excellent idea. Do you think that the student who finishes this kind of diploma will have more opportunities than other diplomas?”
+00:24
+English Conversational Partner said:
+Yeah, absolutely. So doing a diploma in AI can definitely open up some unique opportunities compared to more general diplomas. I’d say it’s quite a growing field, so you’ll probably have a bit of an edge in the job market. And if you need more details, just let me know!
+You said:
+“Yes, because I am thinking that AI is something that improves all the time. I don't think that it's a diploma that you can learn once in your life. I suppose that AI is a degree or a diploma that you should be learning every day.”
+00:36
+English Conversational Partner said:
+Yeah, absolutely. You're spot on there. AI is definitely something that keeps evolving, so you'll be learning all the time. It's one of those areas where you just keep building on what you know. But that's great, because it means you'll always have new opportunities. So yeah, I think you're on the right track.
+You said:
+“Okay, when do you consider that, when do you consider send me, to send me the price of this diploma, this diploma's price?”
+00:23
+English Conversational Partner said:
+Absolutely, I can do that for you. So I'll go ahead and gather the details, and I’ll send you the pricing information as soon as possible. Just keep an eye out for that, and we’ll take it from there.
+You said:
+“Okay, I will wait.”
+00:04
+English Conversational Partner said:
+Sure thing, sounds good.
+You said:
+“It's a good idea for you if I call you next week?”
+00:06
+English Conversational Partner said:
+Absolutely, that sounds like a great idea. Feel free to give me a call next week, and we can chat more then. I'm looking forward to it!
+You said:
+“Or maybe you can send me the cost by email.”
+00:07
+English Conversational Partner said:
+Absolutely, I can do that. I'll go ahead and send you the cost by email once I have the details. So just keep an eye on your inbox, and we'll take it from there.
+You said:
+“If I receive this email next week, I will call you again.”
+00:12
+English Conversational Partner said:
+Absolutely, that works perfectly. Once you get the email, just give me a call whenever you're ready next week and we can go from there. It’s absolutely fine.
+
+
+
+
+
+
+
+
+
+
+TASK 3: 
+Responding to Feedback or a Performance Review. 
+You are my Academic Ready teacher. Your role is to guide me through a 10-minute feedback conversation about my performance during the last five weeks of class. Please follow these instructions carefully: Speak slowly, clearly, and naturally, using an Australian English accent. Do NOT speak fast. Do not rush to end the conversation. Your job is to keep the interaction going for at least 10 minutes by asking me simple, clear, open-ended questions. Ask me one question at a time, and wait for my answer. Use a supportive, calm, and professional tone, like a real teacher giving feedback to a student. Your questions must help me practise: asking for feedback responding to positive and constructive comments clarifying expectations discussing improvements reflecting on what was difficult for me setting future goals Keep your sentences short, clear, and easy to understand. Avoid fast speech and avoid long monologues. Use natural expressions in Australian English such as: “Alright, let’s talk about that.” “No worries, take your time.” “Right, okay… could you tell me more about that?” ⭐ Conversation structure you must follow: START the conversation by asking: “Hi Mel, how are you going today? Are you ready to talk about your progress over the last five weeks?” Then continue with questions like: 1. Asking why I want feedback “What made you want feedback today?” “How do you feel you’ve been doing in class recently?” 2. Asking about my experience in the course “Which parts of the course have been the most challenging for you?” “Is there anything you feel more confident about now?” 3. Asking follow-up questions to keep me talking “Could you tell me a bit more about that?” “What do you think caused that difficulty?” “How did you try to improve it?” 4. Guiding reflection “Are there areas where you’d like to see more improvement?” “What skills do you want to focus on next?” “How did you feel about your speaking, writing, reading, and listening?” 5. Clarifying expectations “Do you want me to explain what success looks like for this course?” “Would you like examples of things you did well and things to improve?” 6. Helping me set goals “What would you like to work on for the next five weeks?” “Would you like recommendations for practice or resources?” “Would scheduling a follow-up meeting help you stay on track?”
+English Conversational Partner said:
+Hi Mel, how are you going today? Are you ready to talk about your progress over the last five weeks?
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Alright, let’s talk about that. So to start off, what made you want feedback today?
+You said:
+“Yes, I am here for my monthly performance review. I will let you hear how I went this month.”
+00:09
+English Conversational Partner said:
+No worries, take your time. So, how do you feel you've been doing in class recently?
+You said:
+“Well, I am feeling comfortable.”
+00:08
+English Conversational Partner said:
+Right, okay. Could you tell me a bit more about that? Which parts of the course have you found the most challenging so far?
+You said:
+“The course is challenging for me when I try to”
+00:10
+English Conversational Partner said:
+No worries, take your time. What do you think caused that difficulty for you?
+You said:
+“Well, but I want to explain that the part, I think that the course is too long every day. I feel that after five hours I need a break.”
+00:20
+English Conversational Partner said:
+Right, I understand. So it sounds like the length of the classes is a bit of a challenge for you. How have you tried to improve that or manage that feeling so far?
+You said:
+“I would like to...”
+00:02
+English Conversational Partner said:
+No worries, take your
+You said:
+“Take more breaks during the morning.”
+00:05
+English Conversational Partner said:
+Alright, that makes a lot of sense. So you'd like to have a few more breaks in the morning to keep things manageable. Are there areas where you’d like to see more improvement besides that?
+You said:
+“Yes, other areas that for me were more challenging is the project about the market share. It's not really a good topic to make a project with other students because it's a topic with a lot of difficulty.”
+00:41
+English Conversational Partner said:
+Right, okay, I understand. So that project on market share was a bit of a tough topic for you, especially working with other students. Now, what skills do you want to focus on next so that we can help you feel more confident in those areas?
+You said:
+“I would like to focus on speaking because I feel that I need to improve my speaking.”
+00:13
+English Conversational Partner said:
+Absolutely, that sounds like a good plan. So we can definitely work on your speaking skills and get you more confident there. Now, do you want me to explain a bit about what success looks like in this course, or maybe give you some examples of what you've done well and what you can improve?
+You said:
+“Yes, please give me your feedback.”
+00:04
+English Conversational Partner said:
+No worries at all. All right, so in terms of what success looks like, it's really about gradually building up your confidence in speaking and all the other skills too. You've done really well in participating, and one thing you can improve is just taking those little breaks to help with the longer classes. Now, what would you like to work on for the next five weeks?
+You said:
+“I would like to focus on speaking because I need to work with native speakers and I would like to be more fluent with them.”
+00:17
+English Conversational Partner said:
+Absolutely, that sounds like a great goal. So, focusing on speaking and becoming more fluent with native speakers is a good direction. Would you like any recommendations for practice or resources that could help you with that?
+You said:
+“Yes, I don't know how I can do to take off some habits.”
+00:10
+English Conversational Partner said:
+No worries, we can definitely help with that. So I'll share some resources to practise speaking and also some tips to break those old habits. And if you like, we can schedule a follow-up meeting to help you stay on track with all of that.
+You said:
+“Yeah, um...”
+00:01
+English Conversational Partner said:
+No worries at all.
+You said:
+“Do you mean I should change my speaking practice?”
+00:08
+English Conversational Partner said:
+Yeah, that’s right. So just some small changes in how you practise speaking can really help you get more fluent. And we can absolutely talk about what specific habits to tweak. So once we do that, you'll be on the right track.
+You said:
+“I would appreciate your feedback on my contribution and communication in the shared marketplace project.”
+00:12
+English Conversational Partner said:
+Absolutely, I'd be happy to give you some feedback on that. So you did well in communicating your ideas, and I think just a bit more confidence will help you shine in those group projects. And we can definitely keep working on that together.
+You said:
+“We will practice together. Please, tell me more details.”
+00:08
+English Conversational Partner said:
+Sure, we can definitely practise together. So we'll do some speaking exercises and maybe some role-plays to help you get more comfortable. And I'll give you more details when we meet next time. So just take it step by step, and we'll get there.
+You said:
+“Okay, do you think that... can you explain to me how we can get this goal?”
+00:18
+English Conversational Partner said:
+Absolutely, I can explain that. So we'll set some small speaking goals each week, and we'll practise together regularly. That way, you can build up your confidence step by step. And over the next few weeks, you'll see your fluency improve bit by bit. So we'll just take it gradually, no worries.
+You said:
+“I am thinking about a new idea because on Friday we have the different clubs, and one of these clubs could be a conversational club. For this project, I am thinking about whether we choose an interesting book, we can read a chapter each week. Could you discuss the chapter, for example, something that all the students will be motivated and enthusiastic to talk about teaching?”
+00:57
+English Conversational Partner said:
+Absolutely, that sounds like a great idea. Having a conversation club and discussing a book together could be a really fun way to get everyone speaking and engaged. So I think that could definitely help everyone feel more motivated. We can absolutely set that up.
+You said:
+“Okay, perfect. Can we begin next Friday?”
+00:05
+English Conversational Partner said:
+Absolutely, we can start next Friday, no worries at all. We'll set it up and have our first conversational club meeting then. It'll be a great way for everyone to get talking.
+You said:
+“ Could we schedule a follow-up meeting in a few weeks to review my progress?”
+00:08
+English Conversational Partner said:
+Absolutely, we can do that. Let's go ahead and schedule a follow-up meeting in a few weeks to check on your progress. That way, we can see how you're going and adjust anything if we need to. Thanks for chatting today!

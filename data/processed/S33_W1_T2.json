@@ -1,0 +1,205 @@
+{
+  "student_id": 33,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S33_W1_T2",
+  "source_file": "data\\raw\\#33\\#33\\#33. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "ordering coffee in cAfé"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, how's it going?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hey there! I’m doing well, thAnks for Asking. So, sounds like you just wAnt A cAsuAl chAt. WhAt’s on your mind todAy?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Sorry."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "All good! So let’s just chAt nAturAlly. Tell me A bit About whAt you’d like to tAlk About or do todAy."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I wAnt to prActice how to order coffee At cAfe. You Are A bAristA working in A cAfe in Sydney. I will plAy the role customer. PleAse creAte cAfe situAtion And respond As if you're reAlly there. And Ask me About my preference. Help me choose from the menu And explAin different coffee options. Keep conversAtion going nAturAlly by Asking At leAst three follow-up questions About size, milk, And pAyment. And we hAve to conversAtion for 10 minutes."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sure thing! Welcome to our little cAfé in Sydney. So, to stArt off, whAt kind of coffee Are you thinking you’d like todAy?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "CAn you recommend?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely! So, one of our populAr choices is A flAt white. It’s nice And smooth with A good bAlAnce of espresso And milk. Now, do you hAve A preference on whAt size you’d like to go for?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Obviously, I need A lArge size, but I don't know whAt cAn I choose coffee menu."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, A lArge size coming right up. So, just to help you out, on the menu we’ve got things like cAppuccinos, lAttes, or even just A clAssic long blAck if you like it simpler. Now, do you hAve Any preference for the type of milk you’d like in thAt coffee?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Before I choose the milk, I hAve to choose coffee menu, but I don't know thAt things. Long BlAck, FlAt White, CAppuccino. I don't know the types of coffee. You hAve to know me."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure, got it! So let me breAk it down quickly. A flAt white is reAlly smooth And velvety, A cAppuccino is A bit foAmier on top, And A long blAck is just strAight-up coffee with hot wAter—kind of like An AmericAno. So, which of those styles sounds good to you before we tAlk About milk?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "I think I prefer coffee thAt contAins mAny cAffeine, so is it A good choice, long blAck?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, A long blAck is A greAt choice if you wAnt something with A good cAffeine kick. It’s nice And strong but still smooth. Now thAt we’ve got thAt settled, do you hAve A milk preference, or do you wAnt to keep it blAck?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "As fAr As I know, Lone BlAck does not contAin milk, right?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "ExActly! You’ve got it. A long blAck is typicAlly just coffee And wAter, no milk Added. So if thAt works for you, we cAn keep it just like thAt. Now, let me just Ask: how would you like to pAy todAy?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I wAnt to pAy for Apple PAy, but As I know, the credit cArd hAs more pAy, right?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Sure, Apple PAy is totAlly fine. YeAh, it’s bAsicAlly just like using your credit cArd but contActless, And we don’t hAve Any extrA fees for thAt here. So thAt should be eAsy. Now I’ll get thAt long blAck stArted for you. Anything else you’re curious About?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "I did not Ask how size is, I don't know. In StArbucks, there Are mAny size, but I don't know in here, so you cAn notice me."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course! Here, it’s pretty strAightforwArd. We usuAlly just hAve smAll, medium, And lArge. So since you mentioned you wAnt A lArge, we’ll go with thAt. I’ll get your lArge long blAck reAdy. Anything else you’d like to know while I’m At it?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "ActuAlly, I love drinking, so I wAnt more bigger size, so do you hAve Any extrA lArge size or something like thAt?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Sure, we cAn do thAt! We ActuAlly hAve An extrA-lArge size As well if you reAlly wAnt to go big. So I’ll just bump it up to the extrA-lArge for you. And yeAh, I’ll get thAt All set. Anything else on your mind About the coffee or just reAdy to enjoy it?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "I'm reAdy to enjoy it, yeAh."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Awesome! I’ll get thAt extrA-lArge long blAck going for you, And you’ll be sipping on it in no time. Enjoy! If there’s Anything else you need, just let me know."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "I think you guys hAve to know my nAme becAuse the RuneBlood is reAdy, you hAve to cAll me, so"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Absolutely! We cAn do thAt. So just let me know your nAme, And I’ll cAll it out once your extrA-lArge long blAck is reAdy. WhAt’s your nAme?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "My nAme is Andy. (my nAme is not Andy just tell you know)"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "GreAt, Andy! I’ve got thAt noted down. I’ll cAll out your nAme As soon As your coffee’s All set. Just hAng tight And I’ll hAve it for you shortly."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Yep. ThAnk you. HAve A nice dAy."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re welcome, Andy! You hAve A greAt dAy too. Enjoy your coffee!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "And this cAfe hAs Any kind of point or something?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Sure! ActuAlly, yes, we do hAve A little loyAlty cArd system. So if you grAb A cArd from us, we cAn stAmp it eAch time you get A coffee, And After A few coffees, you’ll get one for free. So feel free to Ask for thAt if you’re interested!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "YeAh, mAke it one, pleAse."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely! I’ll get you one of those loyAlty cArds right AwAy And stAmp it for todAy’s coffee. Here you go, And we’ll just stAmp it eAch time you come by. Let me know if there’s Anything else."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "No, thAt's it. I'm good."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Perfect, Andy! All sorted then. Enjoy your coffee And hAve A fAntAstic dAy. ThAnks for stopping by!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Yep, thAnk you. You too."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "You’re very welcome! TAke cAre And see you next time, Andy."
+    }
+  ]
+}

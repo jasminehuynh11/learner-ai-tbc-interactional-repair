@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S37_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – unclear time expression",
+    "evidence_summary": "The learner provides a date and time in turn 5, but the time expression 'às pm' is unclear. The bot attempts to confirm the date and time in turn 6, indicating a misunderstanding. The bot's response shows an attempt to clarify the time, resolving the issue."
+  }
+]

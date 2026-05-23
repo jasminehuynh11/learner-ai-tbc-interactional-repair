@@ -1,0 +1,130 @@
+{
+  "student_id": 8,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S8_W3_T2",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "TAKS 2:"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Today, I lost my cell phone.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that. Let’s figure this out. Could you tell me where you last remember seeing it?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“This is the way I enter the station to go to Sydney. Last time, maybe I lost my cellphone.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it! So it sounds like you might have lost it somewhere around the station on your way to Sydney. Let me ask, do you remember if you used it on the train or maybe right before you got on?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yes, I catched train, which was number 445, and I got a platform 8.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "All right, that’s helpful to know. So you were on train 445 and got off at platform eight. Let’s start there. Have you tried contacting the station’s lost and found yet, or would you like to do that next?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Also, probably my cell phone was not working because”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure, I get it. So maybe the phone itself had an issue too. Let’s do this: if you think it’s not working, it might be good to mention that to the lost and found as well. So would you like to go ahead and give them a call now?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“because my cell phone was expired.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Gotcha! If your phone's expired or maybe out of service, that definitely makes it trickier to track down. So in that case, let's just have you head over to the station's lost and found in person or use another device to reach out to them. How does that sound?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, that's great. Okay, now I'm going to tell about my phone.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Perfect! That sounds like a plan. So go ahead and let them know all those details about your phone, and hopefully they'll be able to help you out. Let me know if you need anything else!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, my phone is suddenly prepare Celsius.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Alright, got it! So you'll let them know that it's a Sydney flip phone and give them those details. That should help them identify it more easily. And if you need any more help, just let me know!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yes, this consists of red, purple, and black, and there was no cover.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Got it! So you'll let them know it’s a flip phone that's red, purple, and black, and there's no cover on it. That should help them spot it more easily. Good luck, and let me know how it goes!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“And so, if you find my phone, would you tell me your information?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. Just let them know how they can contact you once they find it. Maybe give them a number or an email they can reach you at. And hopefully you’ll have your phone back soon!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“OK, this is my email, xxxyyy.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "All right, perfect! Just give them that email and they should be able to reach out to you if they find your phone. Hopefully that helps and you’ll get it back soon!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“And I come up with a design about my phone. In my phone, it's got a tracker.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Oh, perfect! That’s actually really helpful. So you can also let them know there’s a tracker attached to the phone. That might make it even easier for them to identify it if they come across it. Sounds like you’re all set!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yes, I will send you a phone URL to which can find our phone location exactly.”"
+    }
+  ]
+}

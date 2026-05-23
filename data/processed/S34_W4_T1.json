@@ -1,0 +1,200 @@
+{
+  "student_id": 34,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S34_W4_T1",
+  "source_file": "data\\raw\\#34\\#34\\#34. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I want to practice how to discuss career plans with an advisor. You are a career counselor working in Sydney. I play the role of a customer. Please create a realistic career counseling scenario and respond as if we are really there. Keep the conversation going naturally by asking at least three or four questions.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, let’s dive in! Hello and welcome! It’s great to have you here. To begin, could you tell me a bit about your current background and what sort of career goals you have in mind?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I'm thinking about changing my career. I've worked part-time in retail, but I'd like to try something new.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! It’s always exciting to explore new opportunities. Could you share what kind of fields or industries you’re interested in? And also, do you have any particular skills or qualifications that you’d like to leverage in this new career?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I'm interested in teaching music, so...”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That’s wonderful!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I'd like to deal with the musical instruments.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That sounds fantastic! Teaching music can be really rewarding. Could you let me know if you have any formal qualifications in music or teaching so far? And also, are you considering working in schools, or perhaps offering private lessons?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I don't have any qualification about it. Do you think I need more?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That’s a great question!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Any other certificates before applying?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, having some certification can definitely strengthen your profile. It might be helpful to look into music education courses or certifications that are available. Would you like some recommendations on where to start, or do you have any specific questions about that process?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, please tell me your suggestion.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Of course! One great starting point is to look at certifications offered by recognized music institutions or even online courses from accredited platforms. Additionally, you might consider volunteering or assisting in local schools or community centers to gain some practical experience. Let me know if you’d like more details on any specific path!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“what kind of couse”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely! There"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Does the college have?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "They typically offer a range of courses, including foundational music education programs, diploma courses in music teaching, and even specialized certifications for different instruments. If you’d like, I can recommend some specific institutes or online platforms that would be a good fit. Let me know what you’re most interested in!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I'm interested in not only musical instruments, but also I'd like to learn about sales and management.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "That’s a fantastic combination! Blending music with sales and management can open up some unique career paths, like arts administration or managing music studios. Would you like some guidance on courses that cover both areas, or are you more interested in exploring one of those fields in depth first?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Would you recommend the suitable course for me?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely! For a combination of music and management, I’d recommend looking into programs that offer music business or arts management certificates. Some universities and online platforms offer specialized courses that blend these fields. I can definitely share some specific recommendations if you’d like!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“What should I do now if I want to apply this course?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Great question! The next step would be to research the specific programs that interest you and check their admission requirements. You can also reach out to the admissions office for more details and maybe even schedule a consultation. If you’d like, I can help you find some specific programs and guide you through the application process!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Do you know how much is that cost?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Yes, absolutely! The cost can vary quite a bit depending on the institution and the program’s length. Generally, you might find courses ranging from a few hundred dollars for online certificates to a few thousand dollars for more comprehensive diploma programs. If you have a specific program in mind, I can help you look up more precise details!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I prefer online costs than real costs because it's cheaper than it.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That makes perfect sense! Online courses can definitely be more affordable and offer a lot of flexibility. I can help you find some reputable online platforms that provide quality courses in both music and management. Just let me know if you’d like some recommendations, and we can get started!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“How many weeks should I learn, should I study this course?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "That can definitely vary depending on the depth and intensity of the course. Generally, shorter online certifications might take anywhere from a few weeks to a couple of months, while more comprehensive diploma programs could span six months to a year. If you have a specific timeframe in mind, I can help you find the right fit!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“After I got this certificate, what types of jobs are common for people in this certificate?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Great question! Once you earn that certificate, you could explore roles such as music coordinator, arts administrator, or even a music marketing specialist. You could also look into positions like program manager at music schools, or even roles in music retail management. It really opens up a lot of exciting opportunities!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“How do I find Armini who've taken a similar path?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "That’s a great idea! One way is to connect through alumni networks at your chosen institution, as many schools have dedicated alumni groups. You can also join professional associations related to music and arts management, and even use platforms like LinkedIn to search for alumni who’ve taken similar paths. I’d be happy to help you with some tips on that!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“No, thank you at this moment.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Of course, no worries at all! If you have any other questions down the line or need more guidance, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“I'll book a follow-up meeting once I've decided. Thanks for your time.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. Feel free to reach out anytime, and best of luck with everything. Have a great day!"
+    }
+  ]
+}

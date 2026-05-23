@@ -1,0 +1,92 @@
+[
+  {
+    "dialogue_id": "S12_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner did not understand bot's previous utterance",
+    "evidence_summary": "The learner explicitly states 'Sorry, I didn't catch you' in turn 7, indicating a lack of understanding of the bot's previous question. The bot rephrases its question in turn 8, and the learner responds appropriately in turn 9, showing the issue was resolved."
+  },
+  {
+    "dialogue_id": "S12_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "unclear phrasing – learner's awkward questions about time",
+    "evidence_summary": "The learner uses awkward phrasing like 'up-to-date time' (turn 11) and 'period time' (turn 13) to inquire about the appointment time. The bot successfully interprets the learner's intent to find the earliest available time (turn 12) and then provides a specific period (turn 14), which the learner accepts in turn 15, resolving the communication trouble stemming from the learner's phrasing."
+  },
+  {
+    "dialogue_id": "S12_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      17,
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot omission – bot did not provide specific time",
+    "evidence_summary": "After the bot mentioned an appointment 'later today in the afternoon' (turn 14), the learner explicitly asks for the specific time in turn 17. The bot provides the exact time (3 PM) in turn 18, and the learner confirms understanding in turn 19, resolving the missing information."
+  },
+  {
+    "dialogue_id": "S12_W2_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      23,
+      24
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner clarification – adding a new preference/constraint",
+    "evidence_summary": "The learner introduces a new preference for a female dentist in turn 23, which could potentially affect the previously discussed booking. The bot acknowledges and confirms it will accommodate this request in turn 24, resolving the potential issue and moving forward with the updated preference."
+  },
+  {
+    "dialogue_id": "S12_W2_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      27,
+      28
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "unclear phrasing – learner's awkward question about arrival time",
+    "evidence_summary": "The learner uses the awkward phrasing 'more earlier' in turn 27 to ask about an earlier arrival time for the newly arranged check-up. The bot correctly interprets this as a request for an earlier check-up and confirms it will try to arrange it in turn 28, successfully resolving the communication despite the learner's phrasing."
+  },
+  {
+    "dialogue_id": "S12_W2_T1",
+    "repair_id": 6,
+    "turn_indices": [
+      35,
+      36
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "fragmented/unclear phrasing – learner's grammatically incorrect and fragmented question",
+    "evidence_summary": "The learner's utterance in turn 35 is highly fragmented and grammatically incorrect, making it difficult to understand their question about what to do if they don't receive the email. The bot successfully interprets the underlying intent and provides a clear solution in turn 36, resolving the communication trouble."
+  },
+  {
+    "dialogue_id": "S12_W2_T1",
+    "repair_id": 7,
+    "turn_indices": [
+      39,
+      40,
+      41
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding – misunderstanding bot's identity/capabilities",
+    "evidence_summary": "The learner asks for the bot's personal number in turn 39, indicating a misunderstanding of the bot's nature as an AI. The bot clarifies its role and offers the clinic's phone number instead in turn 40, which the learner accepts in turn 41, resolving the misunderstanding."
+  }
+]

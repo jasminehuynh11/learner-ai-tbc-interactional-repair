@@ -1,0 +1,200 @@
+{
+  "student_id": 12,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S12_W4_T1",
+  "source_file": "data\\raw\\#12\\#12\\#12. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hello, you're an academic advisor or career counselor, and I'm asking you to get guidance about my current study plans or future career options. Could we start the communication?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! I'd be happy to help you with your academic and career planning. To get started, could you tell me what field or area of study you're currently considering?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I'm studying social media, but I'm not sure it's the right fit, and I want to do something more, maybe.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it! Social media is definitely an exciting field. What aspects of social media are you most interested in, like content creation, analytics, marketing, or something else?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“communication on social media.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That’s a great focus! Social media communication is really impactful. Are you thinking about working in a specific industry, like fashion, tech, or maybe non-profits?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yeah, I want to know when I'm graduated, what should I do in the market, or what role should I be?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That's a great question! There are definitely a variety of roles you can consider, like social media manager, content strategist, or community manager. Do you have any particular strengths or skills that you'd like to leverage in your future role?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I like photography and I took a lot of wonderful videos for a lot of scenes.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Oh, that's fantastic! Your photography and videography skills will definitely be a big asset in social media. Would you say you're more interested in creating visual content, or do you also enjoy the strategic side of planning that content?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yes, of course, and I like the social media very much, but I don't know what will I do in the future, or what kind of work experience will I looking for, so I can prepare for it more wonderful.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, that makes a lot of sense. It's great to have a clear vision. There are roles like social media content creator, brand strategist, or even a digital marketing specialist. Do you have a particular industry that you think you'd like to focus on, or are you still exploring that?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Just because I'm looking forward to do something interesting and I love to, but maybe I can't find the most adapt to me about the role. And I'm studying overseas right now. In the future, will I go back to China or stay at Sydney? What do you think about it?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That's a really exciting consideration! Both options have their own unique advantages. Sydney is a fantastic hub for social media and marketing, and China has a huge market as well. It really depends on where you see the best opportunities and where you'd feel more at home. What kind of environment do you think you'd thrive in the most?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Both of the environments are alike, but maybe in Sydney it is more comfortable, but in China maybe I will have a lot of chances, more than Sydney, I think.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "That makes a lot of sense! Sydney definitely offers a comfortable lifestyle, and China can be a great place for career growth. It sounds like you have a solid foundation to make a great choice. If you need any more guidance on specific roles or steps, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“So what do you think about the two markets, international markets?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "I think that's a fantastic idea! International marketing can really open up a lot of opportunities, especially with your skill set in social media and content creation. It could give you a unique edge in the field!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“So what's your advice?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "I would say definitely leverage your strengths in content creation and your understanding of different markets. Being open to working internationally is a great advantage, and you can definitely find a niche that suits you. Keep building those skills, and you’ll be in a fantastic spot!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I want more specific options about the two markets, just in Sydney or back to China.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it! If you stay in Sydney, you might find opportunities with global companies that have a presence there, giving you that international exposure. On the other hand, going back to China could put you right in the heart of a rapidly evolving market with tons of opportunities in tech and e-commerce. So, it really depends on whether you want that global experience from Sydney or a more immersive experience back home in China."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“If you are mine, what will you choose?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That's a really thoughtful question! If I were in your shoes, I'd probably consider where I feel I can grow the most and where I'd be most comfortable and inspired. Sydney offers that great balance of lifestyle and opportunity, but China could really give you that dynamic"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“No, no, no, no, no. Just say the name of the city. I want to know which wheel you choose.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Got it! If I had to pick one, I’d probably choose Sydney just for the lifestyle and the variety of opportunities there. But it’s definitely a close call!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, what should I do now if I want to apply for internships?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "A great next step would"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "转录不可用"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "No worries! A great next step would be to start building a strong portfolio of your work, especially your photography and social media content. Also, start networking and looking for internship opportunities in Sydney that align with your interests. Let me know if you need any specific tips!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“But I am consider about my family, will they come to Sydney together or just live at China?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That's definitely an important factor to consider. It might help to have a conversation with your family and see what their thoughts are as well. That way, you can make a decision that feels right for everyone. And of course, I'm here to help with any other details along the way!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“But my parents definitely can't learn English very well, and they can't communicate with others in Sydney.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "I see, that's definitely something to consider. In that case, it might be worth exploring some support or community resources in Sydney to help them adjust. But it sounds like you all have a strong family bond, which will definitely help with the transition. Let me know if you need any more advice on that front!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“I want to know who else I can talk to for career or study advice at Macquarie University.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, your university's career services can be a fantastic resource. You can also consider talking to professors in your field, industry professionals, or even alumni from your program. They can offer valuable insights and guidance tailored to your goals. Feel free to reach out to them as well!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Okay, thank you for your advice and thank you very much.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm really glad I could help. If you ever have more questions or need any more guidance, just let me know. Have a great day!"
+    }
+  ]
+}

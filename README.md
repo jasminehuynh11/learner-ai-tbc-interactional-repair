@@ -11,6 +11,7 @@ Author order for dataset citation:
 3. Mark Dras
 4. Michael Proctor
 5. Peter Roger
+6. Phuong Thao Huynh
 
 It is curated for Zenodo deposit and includes:
 
@@ -29,33 +30,26 @@ Included scope is limited to interactional repair analysis. Out-of-scope analyse
 - `data/` - Publication-approved de-identified extracted text and coded repair JSON guidance.
 - `results/` - Frozen tables and statistics used in manuscript reporting.
 - `validation/` - Human validation files (two-coder confirmation plus supplementary batch-pipeline screening).
-- `docs/` - Data governance, model disclosure, and journal submission support docs.
+- `docs/` - Data governance, model disclosure, study materials, and journal submission support docs.
 
 ## Reproduction Overview
 
 Runtime path policy:
 - Canonical runtime data root is repository-level `data/` (for example, `data/raw`, `data/processed`, `data/repairs`).
-- Legacy `code/data/` is still supported for backward compatibility, but migration to `data/` is recommended.
 
 1. Install dependencies:
    - `pip install -r requirements.txt`
 2. Set environment variables:
    - `OPENAI_API_KEY`
-   - `GEMINI_API_KEY` (if Gemini path is used)
 3. Run the repair pipeline from `code/src/`:
    - `python run_full_pipeline.py --all`
 4. Rebuild consolidated repairs:
    - `python generate_all_repairs_json.py`
 5. Use frozen files in `results/` for manuscript-aligned values.
 
-## Migration Note
-
-If your existing workflow writes files under `code/data/`, move runtime folders to repository-root `data/`:
-
-- `code/data/raw` -> `data/raw`
-- `code/data/extracted_text` -> `data/extracted_text`
-- `code/data/processed` -> `data/processed`
-- `code/data/repairs` -> `data/repairs`
+Study materials:
+- Human-readable task prompt source: `docs/materials/Language Tasks.docx`
+- Machine-readable task index: `code/config/language_tasks.csv`
 
 ## Data Availability and Privacy
 

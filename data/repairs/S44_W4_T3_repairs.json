@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S44_W4_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's incomplete utterance",
+    "evidence_summary": "The learner's utterance in turn 7 (\"Do you...\") is incomplete. The bot in turn 8 implicitly initiates a repair by inviting the learner to elaborate. The learner then successfully completes their question in the ASR part of turn 8, resolving the incompleteness."
+  },
+  {
+    "dialogue_id": "S44_W4_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      11,
+      12
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's incomplete utterance",
+    "evidence_summary": "The learner's utterance in turn 11 (\"Like, do you have noticed some important and particular, uh...\") is incomplete. The bot in turn 12 attempts to interpret this by offering a general observation. The learner then provides a complete and more specific question in the ASR part of turn 12, showing the conversation successfully moved past the initial incompleteness."
+  }
+]

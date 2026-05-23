@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S45_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner says 'I want to eat a disease with scream,' which is unclear. The bot correctly interprets this as 'a dessert with cream' and confirms with the learner, who agrees. The issue is resolved as the conversation continues smoothly."
+  }
+]

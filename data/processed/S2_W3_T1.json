@@ -1,0 +1,70 @@
+{
+  "student_id": 2,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S2_W3_T1",
+  "source_file": "data\\raw\\#2\\#2\\#2. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Internet Outage"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hello! This is housing management, how can I assist you today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Uh, hello, this is Tonic Lee. I'm from Uni5B, so I'm calling again because my internet hasn't been working like two weeks.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Hi Tonic, I'm sorry to hear that you've been having trouble for so long. Could you describe a bit more about what happens when you try to connect?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Like these times, many times, I guess, I play video games, but the internet is always not working, and it's been about a week I'm calling your office service many times, but every time I call, I'm told that someone else is responsible. Honestly, I'm getting really frustrated.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I completely understand your frustration, Tonic, and I do apologize for the inconvenience. Let me take full responsibility and help you out now. Have you tried any troubleshooting steps so far, like restarting the modem or checking the cables?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Um, last time I called you guys, you guys just told me about I need to re-record, re-sign the mobile on the Wi-Fi, but I really need to do face-to-face as soon as possible. And this issue continues and no one takes the responsibility. I have to change another Internet company. And again, I do try what you guys tell me to do, but I really need someone to go into my house to face them. Any engineer, any support, please, please, if you guys are not doing that, I'm going to change the Internet company.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I completely understand your concerns, Tonic, and I really appreciate your patience so far. Let me arrange for a technician to visit as soon as possible. May I confirm your availability over the next few days so we can book a time that works for you?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, yes, yes, please. If you tonight 6 p.m. is available, I will at home. If you guys not going, you come to my house today, then tomorrow morning like 10 a.m. is okay. I'm fine.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Thank you for that, Tonic. I’ll prioritize this for you and arrange for a technician to come by tonight at 6 PM. If for any reason that doesn't work, we’ll have someone there at 10 AM tomorrow. I’ll confirm shortly. Thanks again for your patience!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Thank you. I hope it can be resourced soon. Okay, bye.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "You're very welcome, Tonic! We’ll get this sorted out for you. Have a great day, and take care!"
+    }
+  ]
+}

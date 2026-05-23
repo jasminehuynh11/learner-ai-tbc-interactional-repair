@@ -1,0 +1,52 @@
+[
+  {
+    "dialogue_id": "S12_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – 'bound' instead of 'bond'",
+    "evidence_summary": "The learner used the incorrect word 'bound' in turn 15. The bot implicitly corrected this to 'bond' in its response in turn 16 and provided a relevant answer, indicating successful understanding and resolution."
+  },
+  {
+    "dialogue_id": "S12_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous reference – 'the third day'",
+    "evidence_summary": "The learner's reference to 'the third day' in turn 21 was ambiguous. The bot's response in turn 22 was generic and did not fully address the ambiguity. The learner then clarified their intent in turn 23 by explaining they wanted to visit twice (morning and evening), which the bot successfully understood and confirmed in turn 24, resolving the initial ambiguity."
+  },
+  {
+    "dialogue_id": "S12_W2_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      29,
+      30
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – 'signal the lease' instead of 'sign the lease'",
+    "evidence_summary": "The learner used the incorrect phrase 'signal the lease' in turn 29. The bot implicitly corrected this to 'sign the lease' in its response in turn 30 and provided a relevant answer, indicating successful understanding and resolution."
+  },
+  {
+    "dialogue_id": "S12_W2_T3",
+    "repair_id": 4,
+    "turn_indices": [
+      37,
+      38
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – 'break the list early' instead of 'break the lease early'",
+    "evidence_summary": "The learner used the incorrect phrase 'break the list early' in turn 37. The bot implicitly corrected this to 'breaking the lease early' in its response in turn 38 and provided a relevant answer, indicating successful understanding and resolution."
+  }
+]

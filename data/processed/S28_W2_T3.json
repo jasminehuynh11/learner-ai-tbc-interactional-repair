@@ -1,0 +1,375 @@
+{
+  "student_id": 28,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S28_W2_T3",
+  "source_file": "data\\raw\\#28\\#28\\#28. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, can we apprentice about the fixing a bank and asking for help with banking service?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, let's do that! I'll be happy to role-play as a bank teller, and we can go through some common scenarios, like opening an account, asking about loans, or getting help with online banking. Just let me know what kind of scenario you’d like to start with!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Okay, hi, I'm Jessie. I would like to open a new service account.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course, Jessie! I’d be happy to help you with that. To get started, could you let me know if this is a personal or a business account? And do you have any specific features you’re looking for?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yeah, actually I'm a student. Is it okay for me to open the personal account?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, yes! We have special accounts for students that come with some great benefits. To move forward, I’ll just need a few details like your ID, proof of address, and any student documentation. Let me know if you have those handy!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Um, wait a moment, can I give you my passport? They have my ID inside and my address is, uh, can I give you the driving lessons? I also have my address on it and, um, yeah, that's all. And can I also have a set up online banking at the same time?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! You can definitely use your driver’s license for proof of address, and we can set up your online banking right away. Once we have those documents, we’ll get everything set up for you smoothly. Just let me know when you’re ready, and we’ll get started!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“And I also have a question, can I open an account without a job yet?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Many banks offer accounts for students or individuals who may not have a job yet. As long as you have the required identification and can meet any minimum deposit requirements, you should be good to go. If you have any concerns, we can definitely work through them together!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“And I just arrived here, and I don't have any phone number. Will it be OK for opening accounts?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, that’s totally fine! We can still open an account without a phone number. If you have another way to stay in touch, like an email address, that works well too. We’ll make sure everything is set up smoothly for you!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Okay, and I also want to ask what's the difference between the personal account and the business account?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! A personal account is typically designed for individual use, like managing your daily expenses, savings, and personal transactions. A business account, on the other hand, is tailored for business-related finances, such as handling business income, expenses, and payroll. Business accounts often have additional features and requirements. If you have any specific questions, I’m happy to explain further!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“OK, and is there a monthly fee for this account? Personal account. Thank you.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, personal accounts have low or no monthly fees, especially if certain conditions are met, like maintaining a minimum balance. It can vary a bit by bank and account type, so we can definitely go over the details and find the best option for you!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“That would be great. Do you offer debit cards with this one?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, yes! With the personal account, you’ll definitely receive a debit card that you can use for purchases and ATM withdrawals. We’ll make sure to get that set up for you as part of the account opening process!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh, that would be great, and if I want to apply the credit card, what should I do?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Great question! To apply for a credit card, we’d typically start by reviewing your credit history and income details. You can let us know what kind of credit card you’re interested in, and we’ll guide you through the application process step-by-step. We can definitely help you with that!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Sorry about that, I am a foreigner and I come to this country for studying, so can I apply for a credit card?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "No worries at all! Yes, as an international student, you can still apply for a credit card. We might just need a few additional documents, like proof of enrollment, your passport, and possibly a visa. We’ll work with you to find the best option and make the process as smooth as possible!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“OK, that would be great. And if I forgot my online bank passport, can you help me?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! If you’ve forgotten your online banking password, we can guide you through the password reset process. Usually, it involves verifying your identity and then creating a new password. Just let me know, and we’ll get you back into your account quickly!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Yep, and can I change the currencies in the online bank?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, definitely! Most online banking platforms let you view and manage your accounts in different currencies, especially if you have international accounts. We can help you set that up and make sure everything is configured the way you need. Just let us know what you’re looking for, and we’ll take care of it!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Also, if my mother wants to give me money, can they use my country's account to transfer to Australia's account?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, they can! International transfers are quite common, and we can help set that up easily. Your mother can transfer funds from her account in your home country to your account in Australia, and we’ll guide you through the details to make it smooth and secure. Just let us know whenever you're ready!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“OK, that will be good. Thank you. You answered all my questions. OK, we can open the account, and I'm happy to do that.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That’s wonderful to hear! I’m glad I could help. Whenever you’re ready, just let me know, and we’ll get everything set up for you. If you have any other questions in the meantime, feel free to ask. Looking forward to getting your account up and running!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Okay, and then, oh, sorry about that. I have two questions. One is, what happens if I lost my bank card overseas? And does that have any limit on how much I can transfer daily?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "No worries at all! If you lose your bank card overseas, you can contact us right away, and we’ll help you block the card and arrange for a replacement. As for transfer limits, yes, there are usually daily limits, but we can adjust them based on your needs. Just let us know what you require, and we’ll make sure everything is set up properly for you!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Okay, and if I want, if I go back to my country, how do I close my account? And can I transfer all my money in the drawer?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Great questions! To close your account, you can simply let us know in advance, and we’ll guide you through the process, which usually involves transferring your remaining balance to another account and then officially closing it. And yes, you can absolutely transfer all your funds before you leave. We’ll make sure everything is smooth and straightforward for you! Task 3: Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Hi, today can we practice about a rental apartment or housing expansion.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! We can practice scenarios like inquiring about rental apartments, asking about lease terms, or even negotiating with landlords. Just let me know what kind of situation you’d like to role-play, and we’ll dive right in!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Hi, I'm interested in two bedroom units on the George Street and LA in Spacetown this week.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Sure, that sounds great! So, you could start by saying something like, \"Hi, I'm interested in a two-bedroom unit on George Street. Are there any inspections available this week?\" And then we can go from there, practicing how to follow up on availability, asking about the lease terms, and so on. Let me know if you’d like to start with that!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Yeah, I want to practice about that. So now I am the renter to see the house and you are the agencies. Will you be okay?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! I'll be the agent, and you can be the prospective tenant. Whenever you're ready, go ahead and start with your inquiry, and we’ll go from there!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Yeah. Hi, I'm interested in two veteran units on the George Street. And do they have any inspections this week?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Hello! Yes, we do have a couple of two-bedroom units available on George Street. We have inspections scheduled for Wednesday and Saturday this week. Would either of those days work for you?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Yeah, good. Yeah, and I'm looking for a house. I want to move in for the 15th of November. Is there any apartment available now?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely! We do have a few units that will be ready by mid-November, including some two-bedroom options. I can definitely arrange for you to come by and take a look during the inspection times, and we can also discuss the details to make sure everything aligns with your move-in date."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Okay, and also my budget is 700 per week. Will it be easy to find the apartment?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Yes, definitely! With a budget of $700 per week, we have several great options available. We can find something that fits your needs and matches your budget comfortably. We'll make sure to find a place that suits you perfectly!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Okay, and I, uh, it's a pet, a lower, a low, and, uh, also it's layer have, uh, lift layer.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely, many of our units do allow pets, and we can definitely confirm that for the specific apartment you’re interested in. And yes, we also have buildings with lifts, so you won’t have to worry about stairs. We’ll make sure to find a perfect fit for you and your pet!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Yeah, I thought one is the Uni26 Georges III, I'm really interested about that. Can I apply online or do I need to visit this office?”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "That's wonderful to hear! You can absolutely apply online, and we can also arrange for a virtual tour if you'd like. But if you prefer, you're always welcome to visit our office in person as well. We'll make the process as smooth as possible for you!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“And how much is the bone?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Typically, the bond is equivalent to four weeks’ rent, but it can vary depending on the property. Once we confirm the unit, I can give you the exact amount. But generally, it’s pretty straightforward, and we’ll make sure everything is clear for you!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“And can I also rent for half a year?”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Absolutely! We do offer flexible lease terms, so you can definitely rent for six months if that suits you better. We’ll work with you to find a lease duration that fits your plans perfectly!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“If I want, how can I apply it? What should I prepare?”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Great question! To apply, you'll usually need a few documents, like a form of ID (like your passport or driver's license), proof of income or enrollment if you're a student, and possibly a reference from a previous landlord. Once you have those, you can apply online, and we’ll guide you through each step of the process!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“This is my first time to rent a house, I don't have any reference, so how can I do?”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "No worries at all! For first-time renters, we can often look at other factors like your proof of income, your enrollment status if you're a student, and even a guarantor if needed. We’re here to help you through the entire process and find a solution that works for you!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Okay, and I don't have any job. I'm a student and my parents support all of free, so how can I prove my income?”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "That’s totally understandable! In that case, you can provide a letter of support from your parents, along with proof of their income or bank statements, to show that they can support you. We can also look at your enrollment status and any other documentation that can help strengthen your application. We'll definitely work with you to find a solution!"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“If I rent this house, my friend will share to me, does she need to improve like income and something reference to you or just only me?”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "That’s a great question! Typically, if you have a housemate or a friend sharing the lease, we’d also need to consider their financial situation. That means they might need to provide proof of income or references as well. But we can definitely work with both of you to make sure everything is in order and that the application is smooth for both parties!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“And can we confirm once how much for a week for Uni 26 Georgia Road?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Of course! For Unit 26 on George Street, the weekly rent is currently [insert amount here]. That includes all the standard amenities, and we can definitely confirm the exact details once we finalize everything. Let me know if you have any other questions or if you’d like to move forward!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“and can I reapply it later if I find the code tender?”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely apply later once you’ve found a co-tenant. We can hold the unit for you for a certain period, and once you have everything sorted out, we can finalize the application together. We’re here to make it as easy and flexible as possible for you!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“Okay, should I tell the policy first?”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "Yes, typically the deposit is required to secure the unit, and that helps hold it for you while you finalize everything else. Once the deposit is paid, we can move forward with the application and get everything set up for your move-in. If you have any questions along the way, just let us know!"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "“Okay, yeah, that will be great. And I will discuss with my friend and I will give you my answers later. Will you be okay?”"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "Of course, that sounds perfect! Take your time to discuss it with your friend, and whenever you’re ready, just let us know. We’ll be here to help and make the process as smooth as possible for you. Feel free to reach out anytime!"
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "“Yes, thank you, and see you. Take care.”"
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care, and I look forward to hearing from you soon. Have a great day!"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "student_id": 16,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S16_W3_T3",
+  "source_file": "data\\raw\\#16\\#16\\#16. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Now you will be working as an officer at a police station. I need to report the loss of my wallet. tham, I have just arrived at the police station and you will be assisting me"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course. [sound of papers shuffling] Good afternoon. I’m Officer Daniels — I’ll help you with your report today. Can you tell me when you first noticed your wallet was missing?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Bye, Daniels.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Hi there! All right, let’s get started. So just let me know roughly when you realized your wallet went missing, and we’ll take it from there."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Last night, I have been in a pub. When I paid my account, I remember I put my wallet in my pocket. But after that, when I arrived in my house, my wallet didn't stay in my pocket.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it. So it sounds like it might have gone missing sometime between the pub and getting home. Let me ask: do you remember which pub you were at, just so we have that on record?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“The name is IveClub.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "All right, thanks for"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I remember when I left the pub, I met some girls and I hugged the girls.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "All right, that’s"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“beautiful girls, but I just talked together some time. I took it just some time. And after that, I leave it. And when I arrived in my house, didn't my wallet.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. So you chatted with them for a bit and then headed home. All right, we’ll note that down. Now, just to be thorough, do you remember if you noticed anyone acting suspicious or if you think the wallet might have fallen out somewhere along the way?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I think no, but in my wallet, there's my driver's license and my MasterCard and $50 or $60.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "All right, thanks for letting me know what was inside. That's definitely helpful for the report. So we'll note down your driver’s license, your MasterCard, and about 50 to 60 dollars in cash. Now, we'll go ahead and file this and keep an eye out. Is there anything else you’d like to add before we wrap it up?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Could you check in the pub if any wallet was found in the place?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that for you. I'll give the pub a quick call and see if anyone turned in a wallet matching your description. In the meantime, we'll have all your details on file here. Just hang tight and I’ll let you know what they say."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Okay, I have more details. This wallet is black, it's the high-fired Heliosphere, the brain's Heliosphere, and there is a blue in the headline around this wallet.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Perfect, that’s really helpful. So a black Tommy Hilfiger wallet with a blue outline detail—got it. I'll mention those specifics when I give them a call, and hopefully that helps track it down. Let me do that real quick and I’ll get back to you."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“OK. I will try.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "All right, thanks for waiting just a bit. I'll make that call and we’ll see what they say. Sit tight and I’ll be right back with an update."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Could you repeat, please?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course! I’m just saying I’ll give them a quick call now and see if they’ve found your wallet. So just hang on for a moment and I’ll let you know what I find out."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "All right, thanks! I’ll handle that and get right back to you. Just a moment and we’ll see what they say."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Okay, I'm waiting.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Perfect, I appreciate your patience! I’ll go ahead and check in with them now. Just give me a second and I’ll let you know as soon as I hear back."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Did you check?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "I sure did. So I just got off the phone with them, and unfortunately, they didn't find any wallet matching that description at the pub. But no worries, we've got all the details in the report here, and if anything turns up, we’ll let you know. Let me know if there's anything else you need!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Oh, really?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Yeah, unfortunately,"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Oh, it's so bad for me.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "I understand, it’s definitely frustrating to lose something like that. We’ll keep the report on file, and if anything comes up, we’ll let you know. In the meantime, if you need anything else, just let me know."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“What happens next if we finish it here?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely. So from here, we’ve got everything noted down and we’ll keep an eye out. If anything turns up, we’ll contact you. Otherwise, you’re all set and we’re done here. Thanks for coming in, and take care!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“I have another question. What happens if a 7-1-1 finds it?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Sure, that's a good question. If someone finds it and turns it in, we'll contact you right away so you can come pick it up. In the meantime, if you have any updates or if you find it yourself, just let us know."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Okay, thank you so much. I will check back tomorrow again.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "You're very welcome! Feel free to check back anytime. We'll be here if you need anything else. Have a good day, and we’ll see you tomorrow if you need to follow up."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I appreciate your attendance, and I hope you have a very good day.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "You're very welcome, and I really appreciate that. You have a great day as well! And of course, if you need anything else, just let us know. Take care! Task 3: Requesting Maintenance or Repairs in a Rental Property I will now call the real estate agency that manages the apartment I rent to report a problem that requires urgent maintenance. You will be the operator."
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Sure! [phone ringing] Good afternoon, this is Emma from BrightHome Real Estate. How can I help you today? What seems to be the issue with your apartment?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Hello, Emma. I have a big issue in my apartment. Could you help me?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that. Let's start with what kind of issue you're having. Is it a leak, or is it something else that's causing the flooding?"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“My air conditioner isn't working and it's very hot. I'm almost boiling. I need help. Could you check if someone can come here to fix it?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Sure, I can definitely check that for you. Let me just see if we can get a maintenance person out there as soon as possible. Could you let me know your apartment number so I can look up the details and arrange that?"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“It's number 100.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Got it, apartment 100. Thanks for that. Let me just check our schedule really quickly. All right, it looks like we can have someone come out this afternoon to fix that AC for you. Does that timing work for you?"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Yes, of course, I have time here.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "All right, perfect! We’ll have someone out there this afternoon to take care of it for you. If you need anything else in the meantime, just let us know. Thanks for calling, and we’ll get that sorted out for you!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Could they call or text me when they are on their way?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. I’ll make sure they give you a quick call or text when they’re on their way over so you know when to expect them. Thanks for letting me know, and we’ll get that arranged."
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Do I need to stay home for repair?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "You’re welcome to if you prefer, but it’s not strictly necessary. If you’re comfortable with us having a key or access, we can handle it. Otherwise, you can just be home when they arrive. Whatever works best for you!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“I will leave the key at the reception if I am out, okay?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Absolutely, that works perfectly. Just leave the key at the reception, and we'll let the maintenance team know to pick it up there. They’ll take care of everything and leave the key safely afterwards. So that’s all set!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Está aí algo que eu deveria preparar antes de eles chegarem?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Not really, just make sure they can easily get to the air conditioner and that there's nothing blocking the way. Other than that, you’re all set. We'll handle the rest!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“So, these problems will be fixed today.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Yes, absolutely. We'll have someone there today to get it fixed for you. So by the end of the day, your AC should be back up and running. Let us know if you need anything else!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Oh, thank you so much for organizing that so quickly.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad we could get it sorted out fast for you. If you have any other issues, just let us know. Otherwise, have a great day!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“I hope you have a good day, too.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Thank you so much! I really appreciate that. You have a great day as well, and we’ll make sure everything’s taken care of for you."
+    }
+  ]
+}

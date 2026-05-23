@@ -1,0 +1,305 @@
+{
+  "student_id": 28,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S28_W3_T3",
+  "source_file": "data\\raw\\#28\\#28\\#28. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I'm going to practice the reporting a lose item. And now you are the police and I'm losing my wallet. Can we have a lose conversation to practice?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to help! Let’s get started. So, to begin, could you tell me when and where you last saw your wallet?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Okay, I just lost my student ID card and driving license. Actually, I lost a bag. So inside I have my wallet and $5.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. Let’s get all the details we need. Could you let me know where you last remember having your bag, and when that was? That’ll help us figure out the next steps."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Hi, today I bring it to the library, and when I went to bathroom, toilet, when I come back, my bag is gone.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I’m really sorry to hear that happened. All right, let’s note that down. Could you also describe the bag for me, including its color, brand, and any distinctive features? That’ll help us with the report."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Okay, on my back, they have a lot of king rings, like the Mickey Mouse or like the LaBaboo. And they have one, the black one, no any color, just black. And they're not so big, just maybe just 23”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, that’s really helpful. Thank you for the details! Now, could you also let me know if there were any witnesses around or if you’ve already checked with the library staff? That way, we can gather as much info as possible."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "\"Yes, I've confirmed with the library staff. Unfortunately, they don't have CCTV in this area, so I didn't receive any notification because they didn't notice who took my bag.\""
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I understand, that’s unfortunate."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "We’ll do our best to help recover it. In the meantime, I’ll make sure we document everything thoroughly. If you remember anything else or have any updates, just let me know. We’ll keep you informed every step of the way."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Okay yeah and oh I last time saw it is around 4 p.m. so could you help me should I have some more detail for you if you find it”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, that’s great information. Along with the time, if you remember any specific landmarks or people you might have interacted with around that time, that would definitely help. And of course, if you think of anything else later on, just let me know. We’ll do our best to assist!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Okay, what should I give you my detail if you find it?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "You can share your contact details, like your phone number or email, and also any identifying information about the bag or the items inside. That way, if we do find it, we can reach out to you quickly and make sure it gets back to you safely."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“OK, my phone number is 0430586448. So thank you for your help. I hope I can get my bag soon.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course, I’ll make sure to note that down. We’ll do our best to help you recover it, and if we get any updates, we’ll definitely reach out. Fingers crossed, and I hope your bag turns up soon!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yeah, thank you. Bye-bye.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care, and if you need anything else, just let me know. Goodbye for now! Task 3: Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Hi, I'm going to practice about the repair in the rental poverty, and I'm a renter. You are maybe the starter, so now we can have a conversation.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! I’m ready to help. So, as the strata manager, feel free to let me know what kind of repair issue you’re facing, and we’ll go from there. What’s the problem you need help with?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Oh no, my heater in my bedroom isn't turning on, and then my fridge is making a loud noise and not cooling.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that! Let’s start with the heater. Could you tell me if it’s completely unresponsive or is it just not heating up properly? And for the fridge, do you know if it’s been making this noise for a while, or is it recent?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I think the heater, I'm not so sure I open it, but it's not getting hot, and the fridge is just, I just move in for my first day, and I'm not so sure it's my problem.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. For the heater, it could be something like a power issue or a thermostat problem. And for the fridge, since you just moved in, it might be that it just needs some adjustment or maybe it’s an existing issue. We can definitely arrange for a maintenance check. Could you let me know when would be a good time for someone to come by?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Oh yeah, can someone come today?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely arrange that. I’ll check the schedule and see if someone can come over today. Could you let me know what time works best for you, and if there's any specific details we should know?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Mm, all good. Today I'm all free, so I will stay at home.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Perfect, that makes it easy! I’ll arrange for someone to come by today, and we’ll get both the heater and the fridge checked out. If anything changes, just let me know, and we’ll make it as convenient as possible for you."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Okay, and should I turn off the power for all of the things, or I just keep running?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "It’s usually a good idea to turn off the power to the heater for safety, especially if it’s not working properly. For the fridge, you can keep it running if it’s still cooling adequately, but if the noise is really loud or concerning, you can unplug it temporarily. Just let us know how you’d like to handle it, and we’ll guide you through it."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Oh, OK, yeah. Oh, sorry. In this afternoon, 6 PM, I need to pick up my son. So should I leave a kid at the reception if I'm out?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Yes, that would be perfect. You can leave a key at the reception, and that way the maintenance team can access your unit even if you’re not home. Just let them know at the reception, and we’ll make sure everything goes smoothly."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Okay, and would you send the pumper or the handling man here?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Yes, absolutely!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "We'll make sure to send a qualified technician or maintenance professional who can handle both the heater and the fridge issues. We'll coordinate everything, so you don’t have to worry. If you have any other preferences, just let me know!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“After we check, could you send me a confirmed machine when the repair is scheduled?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Of course, I'll make sure to send you a confirmation once everything is scheduled. That way, you'll know exactly when to expect the technician. If you have any other questions or need anything else, just let me know!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Okay, and I just heard my neighbor, they have the same neighborhood, they have the same question, and can they have at the same time and check with me?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely, we can coordinate that as well! If your neighbor has similar issues, we can arrange for the technician to come at the same time or back-to-back. Just let me know their details, and we’ll make sure everything’s synchronized so it’s convenient for both of you."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Yeah, I know my neighbor who also complained to me it happened the second time in this month.”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Oh, I see, that definitely sounds frustrating. In that case, we can prioritize both of your units and ensure that the repairs are done efficiently. Feel free to share your neighbor’s contact details as well, and we’ll coordinate everything seamlessly."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“OK, yeah, cool. And then should I give you more detail about my unit, or you already got my information?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "I have the basic details for now, but if there’s anything specific about your unit, like the model of the heater or fridge, or any additional concerns, definitely let me know. That way, we can make sure everything is addressed thoroughly and efficiently. Just let me know what you’d like to share!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“okay yeah oh my neighbor's my neighbor whose problem is the drying machine”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Got it, thanks for letting me know! We’ll make sure to include the dryer issue in the maintenance visit as well. That way, both your unit and your neighbor’s will be taken care of at the same time. If there’s anything else you think of, just let me know, and we’ll handle it all together!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Yeah, and we are worried about any long-term damage. And is there have any emergency number can we call?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Absolutely, I understand your concern. We do have an emergency contact number that you can call if anything urgent comes up. I’ll make sure to provide that to you, and in the meantime, we’ll do everything we can to prevent any long-term damage. Just let us know if you need that emergency number, and we’ll get it to you right away."
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Okay, please tell me your emerging number.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Of course! The emergency contact number is [insert number here]. You can call this line anytime, and we’ll ensure that someone gets back to you promptly. And of course, if you have any other questions or concerns, just let me know!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“In coding midline,”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Yes, absolutely! The emergency number is available 24/7, so you can reach out any time, even at midnight. We’re always here to help and make sure everything’s taken care of for you."
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Okay, yeah, perfect, thank you. See you, and if I have any update, please let me know.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Of course! I’ll keep you updated, and if you need anything at all, just reach out. Thanks so much, and take care! Goodbye for now!"
+    }
+  ]
+}

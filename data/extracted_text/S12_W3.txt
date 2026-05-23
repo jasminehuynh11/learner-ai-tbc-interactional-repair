@@ -1,0 +1,236 @@
+Task 1:
+You said： 
+“At this time, I am contacting my housing provider and all the internet companies to report that the internet is not working. So, I want you to help me solve this problem.” 
+00:18 
+English Conversational Partner said： 
+Of course, I can help with that! Let's get started. Could you let me know if you've tried any troubleshooting steps so far, and if there's any specific issue you 
+You said： 
+“Okay, okay. Let's start. Hi, my internet has stopped working.” 
+00:07 
+English Conversational Partner said： 
+I'm sorry to hear that! Let's get it sorted out for you. Could you let me know if you've noticed any specific error messages, or if there’s anything else unusual going on? 
+You said： 
+“No, everything just not working on the internet and I can't send a message or play in the game. It was fine this morning, but now it won't connect. I don't know why.” 
+00:15 
+English Conversational Partner said： 
+Got it, that sounds frustrating. Let's see what we can do. First, could you check if your router is on and if all the lights are showing properly? That can help us figure out the next steps. 
+You said： 
+“Okay, that's all. Fine.” 
+00:02 
+English Conversational Partner said： 
+Great! If everything looks fine with the router, the next step might be to restart it. If you can, go ahead and unplug it for about 30 seconds and then plug it back in. Let me know if that helps! 
+You said： 
+“Okay, so we were waiting it for 30 seconds.” 
+00:06 
+English Conversational Partner said： 
+Perfect, thank you! Once it’s back on, let me know if the connection is restored, and we can go from there. 
+You said： 
+“that still not connect.” 
+00:02 
+English Conversational Partner said： 
+Got it, thanks for letting me know. In that case, we might need to check a couple of other things. I’ll guide you through some additional troubleshooting steps, or we can arrange for a technician if needed. Let me know how you'd like to proceed! 
+You said： 
+“So, should I wait here or will someone call me?” 
+00:04 
+English Conversational Partner said： 
+I can definitely arrange for someone to get in touch with you as soon as possible. If you'd like, you can stay put, and we'll have a technician give you a call shortly. Just let me know what works best for you! 
+You said： 
+“What should I try before you send someone to me? I want to attempt to solve the problem by myself.” 
+00:11 
+English Conversational Partner said： 
+Absolutely, I can guide you through a few more troubleshooting steps. Let’s try checking if the cables are securely connected and also see if the internet works on a different device. Let me know how it goes! 
+You said： 
+转录不可用 
+00:02 
+English Conversational Partner said： 
+Alright, great! Take your time with those steps, and if it still doesn't work, just let me know, and we can get a technician involved. I’m here to help whenever you need! 
+You said： 
+“I think I can do it with myself, so I want you to come quickly and I have something emergency to solve on the internet.” 
+00:14 
+English Conversational Partner said： 
+I completely understand. I’ll arrange for someone to come out as soon as possible to get everything fixed for you. Thank you for your patience, and we’ll have it sorted out shortly! 
+You said： 
+“Thank you and I will wait for the technique in.” 
+00:04 
+English Conversational Partner said： 
+You're very welcome! We'll get it all taken care of as quickly as possible. If you need anything else in the meantime, just let me know. 
+You said： 
+“I want to know if the service fee isn't fixed by today, do I get a refund or credit?” 
+00:08 
+English Conversational Partner said： 
+That's a great question! Usually, if the service isn't restored today, you would indeed be eligible for a refund or a credit. I’ll make sure to confirm the details for you and let you know once everything is sorted out. 
+You said： 
+“Can you give me a reference number for this request?” 
+00:04 
+English Conversational Partner said： 
+Absolutely! I'll make sure to provide you with a reference number for this request, and you'll have it in the confirmation. If you need anything else, just let me know! 
+You said： 
+“Now, thank you very much. Have a good day. Bye.” 
+00:03 
+English Conversational Partner said： 
+You're very welcome! Have a wonderful day as well, and if you need anything else, don't hesitate to reach out. Bye for now! 
+
+
+Task 2:
+You said： 
+“something important, just like my phone, I need to report it either to a lost and found service.” 
+00:09 
+English Conversational Partner said： 
+Got it! I’ll keep everything nice and simple for you. If there's anything else you need at any time, just let me know. Have a great day! 
+You said： 
+“Let's start. Hi, I've just lost my iPhone 17 Pro at the train station. Could you help me to check?” 
+00:14 
+English Conversational Partner said： 
+Oh, I’m sorry to hear that you've lost your phone. I'd be happy to help you out. Let me just gather a few details. Could you let me know the exact location at the station where you think you lost it, and if you remember the time? 
+You said： 
+“Unforget the specific location.” 
+00:04 
+English Conversational Partner said： 
+No worries at all! We can still do our best to track it down. If you have any details about the approximate time you lost it or any other identifying features, just let me know. I’ll do my best to assist you! 
+You said： 
+“I didn't stay at the station for a long time. I just go outside when I get off the train.” 
+00:09 
+English Conversational Partner said： 
+Got it, that definitely helps narrow it down. I'll make sure to report it to the station's lost and found with those details. Hopefully, we can locate it quickly. I'll keep you updated! 
+You said： 
+“The phone is orange and it's iPhone 17 Pro. It's a smaller one than Pro Max. So maybe it's very easy to find it because the color is very light.” 
+00:22 
+English Conversational Partner said： 
+That’s a really helpful detail, thank you! I'll make sure to pass that along so it stands out. Hopefully, that will make it easier to find. I'll keep you posted on any updates! 
+You said： 
+“If you find the phone, how can you contact me?” 
+00:05 
+English Conversational Partner said： 
+I can definitely reach out to you via the contact number or email you provided, whichever you prefer. Just let me know the best way to get in touch, and I’ll make sure to keep you updated as soon as we have any news! 
+You said： 
+“But I don't have a phone right now.” 
+00:03 
+English Conversational Partner said： 
+No worries at all! In that case, I'll make sure to email you with any updates, and we can keep in touch that way. Just let me know if there's anything else I can do for you! 
+You said： 
+“I don't have the phone, so I can't receive the email at the same time.” 
+00:05 
+English Conversational Partner said： 
+Got it, that makes sense. In that case, I can also reach out to you through another method if you'd like, or we can arrange a convenient time for you to check in with us. Just let me know what works best for you! 
+You said： 
+“Can I get to any location that you are at there and I will help you to find my phone together?” 
+00:12 
+English Conversational Partner said： 
+That sounds like a great plan! I’d be more than happy to coordinate a time and place that works for both of us, so we can search for your phone together. Just let me know a time that suits you, and we’ll make it happen! 
+You said： 
+“So, where is the specific location?” 
+00:05 
+English Conversational Partner said： 
+Absolutely, I can do that! Just let me know a time and a place that’s convenient for you, and I'll be there to help. We'll work together to find your phone as quickly as possible! 
+You said： 
+“Okay, thank you. And can I leave another of my contact details, just like you can call my father or my friends?” 
+00:09 
+English Conversational Partner said： 
+Of course, that would be totally fine! Just let me know the best contact details for your father or friend, and I’ll make sure to reach out to them if needed. We'll make sure we can get in touch with you one way or another! 
+You said： 
+“Yeah, it's 1-9-0-0-6.” 
+00:05 
+English Conversational Partner said： 
+Got it! I’ll make sure to note that down and keep your father or friend in the loop as well. We’ll do everything we can to help you get your phone back as soon as possible! 
+You said： 
+“Thank you, that's all. I will meet you at the station.” 
+00:06 
+English Conversational Partner said： 
+Absolutely, I’ll make sure to coordinate everything so we can meet at the station. Thank you for letting me know, and I’ll be there to help you out. If you need anything else, just let me know! 
+You said： 
+“Thank you, bye.” 
+00:01 
+English Conversational Partner said： 
+You're very welcome! Take care, and I’ll see you soon. Bye for now! 
+
+Week 3 – Task 3
+You said： 
+“something broken and the needs fixing in my rental accommodation and I will call you to find a help to me.” 
+00:13 
+English Conversational Partner said： 
+That sounds like a plan! I'm here whenever you need me, so just give me a call and I'll be ready to help. Have a great time, and talk to you soon! 
+You said： 
+“Okay let's start. Hi, something is broken in my accommodation and could you help me to fix it? It's my fridge.” 
+00:14 
+English Conversational Partner said： 
+Oh, I’m sorry to hear that your fridge is acting up! I’d be happy to help. Let me know what exactly seems to be the issue, and we can figure out the best way to get it fixed. 
+You said： 
+“My fridge is making a loud noise and not a crowing.” 
+00:05 
+English Conversational Partner said： 
+Got it, that can definitely be annoying! It might be something simple like the fan or the coils. I can guide you through a few quick checks, or we can arrange for a technician to take a look. Let me know how you'd like to proceed! 
+You said： 
+转录不可用 
+00:04 
+English Conversational Partner said： 
+Absolutely, I can arrange for a technician to come by and take a look at your fridge as soon as possible. I'll just confirm the details with you, and we'll get everything sorted out quickly! 
+You said： 
+“When will you come? Today or tomorrow?” 
+00:02 
+English Conversational Partner said： 
+I’ll check the earliest availability for you and get someone out today if possible. If not, we’ll schedule it for tomorrow. I’ll confirm the time with you shortly! 
+You said： 
+“So I want you come as soon as possible.” 
+00:04 
+English Conversational Partner said： 
+Got it! I’ll make sure to arrange for the technician to come as soon as possible today. I’ll confirm the exact time with you shortly, and we’ll get that fixed up for you! 
+You said： 
+“I also have a lot of things need to cool, but my fridge is broken, so what can I do?” 
+00:10 
+English Conversational Partner said： 
+I can definitely help with that as well! We can arrange for someone to come by and take care of the fridge and also help you with the shelving. Just let me know the best time for you, and we’ll get everything sorted out! 
+You said： 
+“this afternoon at 3 p.m. It's okay?” 
+00:06 
+English Conversational Partner said： 
+That works perfectly! I’ll schedule the technician to come by this afternoon around 3 PM. They’ll take care of the fridge and the shelving for you. If you need anything else, just let me know! 
+You said： 
+“If that is broken, will I need, can I buy a new one from you?” 
+00:06 
+English Conversational Partner said： 
+Absolutely! If it turns out that it’s beyond repair, we can definitely help you find a replacement. I’ll make sure to provide you with all the options and details once the technician has a look. We'll get everything sorted out for you! 
+You said： 
+“So do I need to stay at home for the repair?” 
+00:04 
+English Conversational Partner said： 
+It would be helpful if you could be home for the repair, just so the technician can access everything and answer any questions. But if that’s not possible, we can definitely work something out! Just let me know what’s most convenient for you. 
+You said： 
+“But maybe I will have other things to do at 2pm and probably can't be at home at 3pm.” 
+00:11 
+English Conversational Partner said： 
+No problem at all! We can arrange for the technician to come a bit earlier or later if that works better for you. Just let me know what time would be most convenient, and we'll make it happen! 
+You said： 
+“Could you come a little bit earlier, just like 1pm?” 
+00:05 
+English Conversational Partner said： 
+Absolutely, I’ll arrange for the technician to come around 1 p.m. That way, you’ll have plenty of time to get everything sorted out before your other plans. If there's anything else you need, just let me know! 
+You said： 
+“As well, contact to my number this before you arrive my home.” 
+00:08 
+English Conversational Partner said： 
+Absolutely, I'll make sure to give you a call before the technician arrives so you know exactly when to expect them. If there's anything else I can do for you, just let me know! 
+You said： 
+转录不可用 
+00:01 
+English Conversational Partner said： 
+I’ll make sure to confirm all the details for you and keep everything as smooth as possible. If you have any other questions or need anything else, just let me know! 
+You said： 
+“Actually, it was fixed at last month, but the issue has returned, so maybe I can't believe you.” 
+00:08 
+English Conversational Partner said： 
+I completely understand your concern, and I'm really sorry for the inconvenience. I’ll make sure we do a thorough check this time and keep you updated every step of the way. Your satisfaction is really important, so I’ll do my best to make it right. 
+You said： 
+“Thank you, that's all.” 
+00:01 
+English Conversational Partner said： 
+Absolutely, I appreciate your patience, and I’ll make sure everything is taken care of properly this time. If you have any other concerns or need anything at all, just let me know. I’m here to help! 
+You said： 
+“No thanks, and bye.” 
+00:02 
+English Conversational Partner said： 
+Take care! If you need anything at all, just reach out. Have a great day! 
+You said： 
+“Have a good day.” 
+00:01 
+English Conversational Partner said： 
+Thank you! Bye for now, and feel free to reach out anytime you need. Take care! 

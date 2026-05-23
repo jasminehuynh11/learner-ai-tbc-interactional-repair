@@ -1,0 +1,120 @@
+{
+  "student_id": 45,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S45_W2_T1",
+  "source_file": "data\\raw\\#45\\#45. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Excuse me, I'd like to make an appointment to see a doctor."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course. What seems to be the reason for your visit today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Because I feel my mind seem to have a sick, and I am not sure should the doctor have free time tomorrow, so I call this phone to confirm."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I understand. You’re not feeling well mentally and want to check if the doctor is available tomorrow, right? Which doctor would you like to see — a general practitioner or a mental health specialist?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Actually, I think it's just, it's like a head, but I think maybe my mental health should be seen, because when I arrive in Melbourne, I think I feel very lonely and always feel upset."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I see. It sounds like you’ve been feeling quite down since moving to Melbourne. I’m sorry you’re going through that. Would you like me to book you with a psychologist or a general doctor first for an initial check-up?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Yes, I think it's necessary. And do you have some famous doctors recommend?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure. We have a few well-known psychologists who specialize in adjustment and mood concerns. Would you prefer someone male or female, or is either fine?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Maybe mail is better."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright. We have Dr. James Porter and Dr. Michael Lin — both experienced in mental health support for newcomers. Would you like an appointment with one of them?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Yes, thank you. Sorry, I kept a message. Let's see. Tomorrow I have an English learning class. Can I put the date down to that day after tomorrow?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course, that’s no problem. So you’d like to book the appointment for the day after tomorrow — would you prefer morning or afternoon?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "もしかしたら、朝? i said English but i do not know it shows Japanese"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure, morning is fine. Would around 10 a.m. work for you, or would you prefer a little earlier or later?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Okay, the timing is very suitable for me. I can get up as normal, and also, I think today I need some medical. What type of medical you can recommend to me?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright. Since you’re feeling emotionally low and a bit unwell, I’d suggest a basic health check first — to rule out any physical causes — and then a mental health consultation. Would you like to have both at the same clinic on the same day?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "If I can solve them in the same day, it's better."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Perfect. I’ll schedule you for a morning general check-up first, followed by the session with Dr. Porter. Could I have your full name, please, to confirm the booking?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "볼킹 확인 완료. 감사합니다. i say english but i do not know why it shows Korean"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "좋아요, 감사합니다. 😊 예약이 완료되었습니다. 그럼 이틀 뒤 아침 10시에 뵙겠습니다. 혹시 방문 전에 궁금한 점 있으신가요?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Yes. Thank you. That's real help."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re very welcome. I’m glad I could help. Take care, and we’ll see you at your appointment."
+    }
+  ]
+}

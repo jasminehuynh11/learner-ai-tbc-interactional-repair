@@ -1,0 +1,185 @@
+{
+  "student_id": 43,
+  "week": 3,
+  "task": 4,
+  "task_label": "T4",
+  "dialogue_id": "S43_W3_T4",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Seeking technical support for a device or service"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, I want to practice seeking technical support for a device or a service. In this scenario, I will contact the customer support for a technical problem with my airpods, and you will play the role of the customer support person, and I will be the customer. Please help me to speak clearly and politely and use some technology-related vocabulary as well.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! I’m ready to help. So, let’s say you’re reaching out to customer support about your AirPods. Feel free to start the conversation whenever you’re ready, and I’ll respond as the support agent. Let’s get started!"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello, good morning. I just want to report an issue about my airport that I'd recently bought.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Good morning! I’m happy to help. Could you let me know what specific issue you’re experiencing with your AirPods? That way, I can assist you more effectively."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“My AirPort, sometimes I can use both of the earbuds, but sometimes I cannot, especially the left one. I don't know why I charge it, I fully charge and I never drop it, as I just bought it recently, I think just 3 months ago.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I see, thank you for sharing that. It definitely sounds like a connectivity or battery issue with the left earbud. Could you tell me if you've tried resetting the AirPods or if you’ve noticed any firmware updates that might have been installed?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I haven't updated my phone yet. I don't know if there is anything to do with the operating system of my phone, and the Bluetooth connection of the AirPods, but especially when I try to pair the AirPods with my iPhone, that problem occurs. There's no problem when I connect my AirPods to my husband's phone at all, so I wonder if there is any relation.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "I see, that’s really helpful information. It does sound like it might be related to the iPhone’s Bluetooth settings or the software version. Have you tried forgetting the AirPods on your iPhone and then re-pairing them? That sometimes helps resolve these kinds of issues."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, I did try it, and it actually worked, but I wonder why resetting or forgetting the device will and then reconnecting again will help to solve the problem.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a great question! Essentially, when you forget and re-pair the device, it clears out any old connection data or glitches that might have built up over time. It basically starts fresh, which often resolves any connectivity issues and ensures a smoother pairing process."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Thank you for your explanation. So should I update my software on my phone?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, that would definitely be a good idea. Keeping your phone’s software up to date can help maintain compatibility and often fix bugs that might cause these kinds of issues. So I’d recommend giving that a shot as well."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, I did try it recently, and coincidentally, I found that there is another problem with the AirPod. When I connected to my Pluto on my iPhone, it says that the AirPod is already in range, but I'm sure that no one in the house paired the AirPod with their device.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "I understand, that can definitely be confusing. It might mean that the AirPods are still connected to another device or that there’s some residual connection. We can definitely walk through some steps to fully disconnect them and ensure they’re paired correctly. Let me know if you’d like to try that."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yes, please, can you show me the procedure to reset?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Of course! To reset your AirPods, first you’ll want to place them in their charging case and keep the lid open. Then, press and hold the setup button on the back of the case for about 15 seconds until you see the status light flash amber and then white. After that, you can go ahead and reconnect them to your iPhone. Let me know how that goes!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, it will definitely help, but I wonder what happens if it's not fixed after trying these steps.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I totally understand. If it’s still not resolved after that, we might want to look into things like updating the AirPods firmware or checking for any hardware issues. And of course, if all else fails, contacting Apple Support directly or visiting an Apple Store might be the best option."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh great, but because this problem occurred many times since I bought the AirPod, and I bought a new one as well, so I wonder if I can file a complaint with the company?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely reach out to the company and file a complaint, especially if the issue has been recurring and the product is still under warranty. They might offer a replacement or further troubleshooting. It’s definitely worth exploring those options for sure."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“So, who do I contact if I want to make a complaint?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Typically, you can contact the company’s customer support directly through their official website or their support hotline. If you bought your AirPods from an Apple Store, you can also visit them in person. And of course, if you purchased them through another retailer, you can reach out to them as well. They’ll guide you through the complaint process."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yes, thank you for your explanation. I just realized that you mentioned before that it might be the problem of the charger from the airport. So, what can I do to maybe try to fix this by myself with the charger things in my airport?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely! One thing you can try is making sure that the charging contacts on both the AirPods and the case are clean and free of debris. You can gently wipe them with a soft, dry cloth. Also, you can try using a different charging cable or adapter to see if that helps. And sometimes, letting the AirPods fully drain and then recharge can also help reset any charging issues."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“That information is very useful. I maybe will try to drain the battery out and then recharge it again. And I definitely will give it a try, cleaning around. Can I use a little bit of alcohol to clean around the charger?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, you can use a tiny amount of isopropyl alcohol on a soft cloth or a cotton swab, just to gently clean the charging contacts. Just make sure it’s completely dry before you put them back in the case. That should help keep everything in good condition."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yes, thank you for your help. So, I just want to ask about the return or repair policy.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Of course! Generally, most companies offer a return or repair policy within a certain warranty period—often about a year from the purchase date. You can usually get a replacement or a repair if the issue is covered under warranty. It’s always best to check the specific policy for your region and keep your proof of purchase handy. Let me know if you need any more details!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yes, I bought this one three months ago. It's still under warranty. So, I wonder if my airport can be returned and then I'll get a new one, or I can only be eligible for a repaired one.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That’s great that it’s still under warranty! Usually, if the issue is a manufacturing defect, you can either get a replacement or a repair, depending on the situation and the company’s policy. It’s definitely worth contacting them and explaining the issue, and they’ll guide you through whether it’s a replacement or a repair."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Oh, yes, that sounds great. So I will them a complaint, and then they will base it on it and estimate the severity of the problem, and then they will decide whether to let me return it and get a new one, or they will repair it for me for free. Is that right?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Exactly, you’ve got it! They’ll assess the situation, and if it’s covered under warranty and it’s a genuine defect, they’ll either replace it or repair it at no extra cost. Hopefully, it all gets sorted out smoothly for you!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Yes, thank you so much. I am going to fill out the complaint right now. I really appreciate your explanations. Very detailed, very helpful. Thank you very much.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m really glad I could help. Best of luck with everything, and if you need any more assistance, just let me know. Have a great day!"
+    }
+  ]
+}

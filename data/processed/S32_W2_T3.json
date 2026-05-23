@@ -1,0 +1,135 @@
+{
+  "student_id": 32,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S32_W2_T3",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Enquiring About a Rental Property or Housing Inspection:"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! Let’s get started. Hi there! Welcome to our property management office. Are you looking to rent a property or are you here for an inspection?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, yes, I'm interested in the three-bedroom unit on South Bank.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Great choice! That unit is quite popular. Could you let me know when you'd like to schedule a viewing, or would you like some more details about the property first?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, I would like to know about the process for the rental application.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! The application process is pretty straightforward. You'll need to fill out an application form, provide some identification, and supply references. Would you like me to walk you through the documents you need or the timeline for approval?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, I would like to know about the documents that are required for that.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely! Typically, you'll need a form of ID, proof of income, like recent payslips, and previous rental references. Sometimes, a rental ledger or a credit report is also needed. Do you have any specific questions about any of those documents?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“No, I don't have, and I would like to confirm if I understand well, if I want to do an application about the property, I can do it online, right?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Exactly, you got it! We do offer an online application process for your convenience. I can send you the link or guide you through it if you'd like. Would you prefer the link now, or do you have any other questions before we get started?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yes, I would like to know about the price for the rent.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! The three-bedroom unit on South Bank is currently listed at $550 per week. Does that fit within your budget, or would you like more details about what’s included in that price?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, I want to know if the price includes something, or it's only for the rent”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely! The price generally covers rent only, but it does include maintenance of common areas. Utilities like water, electricity, and internet are usually separate. If you’d like, I can give you more specifics or break down any other costs for you."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, I understand. Thank you for telling me.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course! Usually, it takes about five to seven business days for the physical card to arrive, depending on your location. But you'll have full access to your digital card right away."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I need two more documents or only with the passport and the enrollment. It's okay.” “I continue have interest in renting the unit, so is it possible to make an inspection this weekend or what are the times for the inspection in general?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely arrange that. This weekend, we have slots available on Saturday and Sunday, both in the morning and the afternoon. Which day and time would work best for you?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I would like to do it on Saturday. I think in the morning it's okay. What time is the inspection?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Great! On Saturday morning, we have openings starting at 9 AM and then again at 11 AM. Which time would you prefer for the inspection?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I would like to go there at 11 a.m.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Perfect! I’ve got you scheduled for 11 AM on Saturday. If you need any further details or have any questions before then, just let me know!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“And now I think it's okay for the moment. Thank you for your help.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You’re very welcome! It was my pleasure to help. If you have any more questions, just let me know. Have a great day, and I’ll see you on Saturday!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Thank you. See you on Saturday. Bye-bye.”"
+    }
+  ]
+}

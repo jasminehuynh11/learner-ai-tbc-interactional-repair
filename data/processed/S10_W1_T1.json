@@ -1,0 +1,85 @@
+{
+  "student_id": 10,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S10_W1_T1",
+  "source_file": "data\\raw\\#10\\#10\\#10. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Café Roleplay Script – Ordering Coffee in Sydney"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Hey there, welcome to Flat White & Co. How’s your morning going? What kind of coffee would you like to start with today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "I’d like to order a coffee, please."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Sure thing! What kind of coffee are you in the mood for today? Something like an espresso, a flat white, or maybe a cappuccino?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "I think I’ll have a flat white, please."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Perfect choice! A flat white is creamy and smooth. Would you like that in a small, medium, or large size? And do you have a preference for the type of milk — full cream, skim, or maybe a dairy-free option?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "A medium one with soy milk, please."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it! So, a medium flat white with soy milk. Would you like to add any sweeteners or a flavor shot, like vanilla or caramel?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Yes, please. I’ll have a caramel flavor shot."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Great! So, a medium flat white with soy milk and caramel flavor — that sounds delicious! Will you be having it here or taking it to go?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "To go, please."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "No worries. And how would you like to pay today — cash or card?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Card, please."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect! So, that’s a medium flat white with soy milk, caramel flavor, takeaway, and you’ll be paying by card. All set! ☕ Feedback Section"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "You did really well! Your responses were clear and polite. Just a couple of small improvements: Instead of saying “I want soy milk”, try “I’d like soy milk” or “I prefer soy milk.” When ordering, using “Could I have” or “I’d like to order” sounds a bit more natural. Overall, your English was great — confident and easy to understand!"
+    }
+  ]
+}

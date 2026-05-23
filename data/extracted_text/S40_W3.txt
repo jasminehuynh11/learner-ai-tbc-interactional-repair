@@ -1,0 +1,145 @@
+TASK 3:
+Tú dijiste: 
+🏠 Reporting an issue at a rental property 🗨️ “Hi, I'd like to report a damage at my rental property.”
+English Conversational Partner dijo:
+Of course. Could you tell me what kind of damage you’re reporting?
+Tú dijiste:
+Hey, I would like to report that the kitchen faucet is broken.
+English Conversational Partner dijo:
+Alright, thanks for letting me know. Is the faucet leaking, completely detached, or just not working properly?
+Tú dijiste:
+The faucet is leaking
+English Conversational Partner dijo:
+Got it. How bad is the leak — is it a steady drip, or is water running continuously?
+Tú dijiste:
+the water is running continuously 
+English Conversational Partner dijo:
+That sounds quite serious. Have you been able to turn off the water supply to stop the flow for now?
+Tú dijiste:
+Currently, the water supply is turned off. I can use the bathroom, sink or dishwasher
+English Conversational Partner dijo:
+Good move turning it off. Could you tell me the property address so I can log the maintenance request properly?
+Tú dijiste:
+My address is 123 Hawker Street, north Adelaide.
+English Conversational Partner dijo:
+Thanks for that. When did the leak start — was it today, or has it been going on for a while?
+Tú dijiste:
+I'm not sure. I think so. It started yesterday at night.
+English Conversational Partner dijo:
+Alright, thanks for the info. Just to confirm — are you the main tenant listed on the lease, or are you reporting this on behalf of someone else?
+Tú dijiste:
+I am reporting this on behalf of someone else.
+English Conversational Partner dijo:
+Understood. Could you please tell me the tenant’s full name so I can match the report to the right lease record?
+Tú dijiste:
+the main tenant is Juan Antonio Duque Gómez.
+English Conversational Partner dijo:
+Perfect, thank you. Lastly, could you share a contact number or email in case the maintenance team needs access or more details?
+Tú dijiste:
+Sure, of course. My number is 310-458-9948. And my email address is asuarex0521@gmail.
+English Conversational Partner dijo:
+Thanks, that’s all I need to file the report. Our maintenance team will contact you or the tenant soon to arrange a repair visit. Is there any preferred time for them to come by?
+Tú dijiste:
+Of course, the maintainers can call me, and for me the best time is after 12 p.m., thank you.
+English Conversational Partner dijo:
+Great, I’ll note that down — after 12 p.m. works best. Thanks for reporting the issue; we’ll get it sorted soon. Have a good day!
+Tú dijiste:
+You too. Have a good one.
+English Conversational Partner dijo:
+Thanks! Take care and goodbye.
+
+
+
+
+
+
+
+
+
+TASK 4: 
+Tú dijiste:
+Sorry, my phone keeps restarting by itself.
+English Conversational Partner dijo:
+Alright, I see. That can be pretty annoying.
+ What model of phone are you using?
+Tú dijiste:
+My phone is Samsung S23 ULTRA.
+English Conversational Partner dijo:
+Alright, Samsung S23 Ultra. Got it.
+ When did the restarting problem first start happening?
+Tú dijiste:
+When I try to restarting my cell phone, it is nothing happen.
+English Conversational Partner dijo:
+Alright, so when you try to restart it, nothing actually changes.
+ What exactly do you see on the screen—does it stay black, freeze, or loop the Samsung logo?
+Tú dijiste:
+The screen is completely black I tried to charge, but nothing happen, I can't see the battery, the image of the battery to charging I can't see any logo of Samsung, nothing
+English Conversational Partner dijo:
+Alright, completely black screen with no charging icon or logo.
+ Has your phone had any recent impact or water exposure before this happened?
+Tú dijiste:
+I don't think so, but last week when I walked to home, it was raining really hard. It's possible in this moment the cell phone exposured with water?
+English Conversational Partner dijo:
+Alright, rain exposure could definitely cause this kind of issue.
+ Have you already tried using a different charger or cable to see if the phone reacts at all?
+Tú dijiste:
+I don't agree with you about the exposure of water. I remembered when I bought my cell phone, the salesperson said me this kind of cell phone is a proof of water. By the way, I'm trying to charge with different chargers with my charger bought in your shop, and other chargers, like iPhone, huawei and others brands. But nothing happen
+English Conversational Partner dijo:
+Alright, I understand — the S23 Ultra is water-resistant, so light rain normally shouldn’t kill it.
+ Good to know you already tried several chargers.
+One more quick check: when you hold Power + Volume Down together for about 15–20 seconds, does the phone vibrate or show anything on the screen?
+Tú dijiste:
+Yes, of course. I try to do every tip I found on the internet about what is the problem with my cellphone, but no one gives me a solution about that. For that reason, I'm here to ask for support for Samsung report.
+English Conversational Partner dijo:
+Alright, thanks for trying all those steps already. If none of them worked, we’ll need to check whether your phone is still under warranty so we can process a repair or replacement.
+ When did you buy your S23 Ultra?
+Tú dijiste:
+I bought last year in January.
+English Conversational Partner dijo:
+Alright, bought last January — that should still be within the standard warranty period.
+ Do you still have the receipt or proof of purchase for the phone?
+Tú dijiste:
+Unfortunately, I didn't have. But I checked in your website about what is the policy of guaranteen, and the guarantee is possible whenever every shop of Samsung around the world can get me a support.
+English Conversational Partner dijo:
+Alright, no problem — we can still check the warranty without a receipt if we have the device details.
+ Could you tell me the IMEI number of your phone? It’s usually on the box, or printed very small on the SIM tray.
+Tú dijiste:
+Sure, the IMEI number is 00134789223405.
+English Conversational Partner dijo:
+Alright, thanks for the IMEI number. I’ll run a quick check on that to confirm the warranty status.
+ Before I submit the report, could you tell me which country and city you’re currently in so I can direct you to the correct Samsung service center?
+Tú dijiste:
+I bought my cellphone in Colombia, Medellín. And the direction is 123 Bojaca Street, Poblado 
+English Conversational Partner dijo:
+Alright, thanks for that location in Medellín. I can send your report to the nearest Samsung service center there.
+ Before I forward it, how would you prefer the service team to contact you — by phone or by email?
+Tú dijiste:
+Of course, I prefer email, because I don't have phone, did you remember?
+English Conversational Partner dijo:
+Sure, right — no phone at the moment. Email works perfectly.
+ What email address should the service team use to contact you?
+Tú dijiste:
+My email address is asurez0521@gmail.com
+English Conversational Partner dijo:
+Alright, perfect — I’ve noted asurez0521@gmail.com for contact.
+ Before I submit the full report, what time of day is best for you to receive the service team’s email or appointment confirmation?
+Tú dijiste:
+thank you so much and the last question is how many days i need to wait for the support because i need my phone
+English Conversational Partner dijo:
+Alright, I get it — you need the phone back quickly.
+ Usually the first email from the service team arrives within 1–2 business days, and repairs themselves often take 3–5 days, depending on parts and diagnosis.
+By the way, you didn’t tell me your preferred time of day for receiving the service email — mornings or afternoons work better for you?
+Tú dijiste:
+I prefer morning and as soon as possible, thank you.
+English Conversational Partner dijo:
+Alright, morning noted — I’ll mark it as “as soon as possible.”
+ Thanks for your time today. Have a good day, and I hope your phone gets fixed quickly.
+Tú dijiste:
+Thank you so much.
+English Conversational Partner dijo:
+Sure. Thanks for contacting us — hope everything goes smoothly with your repair. Have a great day.
+
+
+
+
+

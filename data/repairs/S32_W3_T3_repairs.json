@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S32_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      11,
+      12,
+      13
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "bot misunderstanding – irrelevant information about a 'bag'",
+    "evidence_summary": "After the learner provides contact information in turn 11, the bot responds in turn 12 by mentioning a 'bag', which is completely irrelevant to the ongoing conversation about a washing machine leak. This indicates a bot misunderstanding. The learner does not attempt to correct the bot and instead moves on to a new topic in turn 13, so the issue is unresolved and abandoned."
+  }
+]

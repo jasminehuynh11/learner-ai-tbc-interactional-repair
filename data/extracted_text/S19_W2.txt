@@ -1,0 +1,462 @@
+Week 2
+
+Task 1: 
+
+Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment Scenario: You are visiting a medical clinic in person or calling the clinic to make, change, or cancel an appointment. You may need to check in, explain your symptoms, ask for available times, or confirm appointment details. You will need to define the chatbot’s role as a receptionist or staff member at a medical clinic. You can choose situations from the examples below; start with a simple booking and try a more detailed interaction by asking about check-up procedures, prescription requirements, or clinic policies. Learning objectives: • Practise making and changing appointments formally and clearly. • Use vocabulary related to symptoms, times, and availability. • Apply polite question forms (e.g., “Could I…?” / “Would it be possible to…?”). • Use structured language for both in-person and phone-based interactions. • (Advanced option) Manage formal health-related interactions by asking about check-up procedures, prescription requirements, or clinic policies. Instructions: Try to: • Make or change a booking using clear and polite language. • Explain your reason for visiting. • Confirm appointment details and ask at least two follow-up questions. • End the conversation clearly and politely. • (Advanced option) Use the extension prompts below to have a longer conversation. 
+English Conversational Partner said:
+Sure! Thanks for the scenario — I’ll act as the clinic receptionist.
+Alright, welcome to Greenfield Medical Clinic. How can I help you today?
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Sure, I got that. It sounds like you're here to book an appointment. So, could you let me know what kind of appointment you’d like to make and if there's any particular reason for your visit?
+You said:
+“So hi, I'd like to make an appointment to see a doctor.”
+00:04
+English Conversational Partner said:
+Absolutely. What I'll need to know is what day and time would work best for you. Let me know your preferred availability?
+You said:
+“So is anyone available tomorrow morning?”
+00:02
+English Conversational Partner said:
+Sure, let me check that for you. We do have an opening tomorrow morning around 10 a.m. Would that time work for you, or do you need something a bit later?
+You said:
+“Sounds great. Can I book a general checkup?”
+00:02
+English Conversational Partner said:
+Absolutely, we can do that. I'll go ahead and book you in for a general check-up at 10 a.m. tomorrow. Now, is there anything specific you'd like the doctor to know in advance, like any symptoms or concerns?
+You said:
+“Actually, I want to change my booking due to my work schedule.”
+00:04
+English Conversational Partner said:
+Alright, no problem at all. We can definitely adjust that. Could you tell me what new day and time would suit you better so we can reschedule that appointment?
+You said:
+2pm is fine for me
+00:01
+English Conversational Partner said:
+Sure, I’ll switch that to 2 p.m. for you. And just to confirm, it’ll still be a general check-up. Is there anything else you’d like to ask about our clinic policies or procedures before we wrap up?
+You said:
+“Is there a cancellation fee?”
+00:01
+English Conversational Partner said:
+Sure, just to let you know, we don’t have any cancellation fee as long as you let us know at least 24 hours in advance. Now, is there anything else you’d like to check on, or does that cover everything for you?
+You said:
+“Okay, let's go”
+00:01
+English Conversational Partner said:
+Alright, that sounds great. We’ve got you all set for 2 p.m. Thanks for letting me know, and we’ll see you then.
+You said:
+“Okay, let's shift into a different situation. I just arrived there already.”
+00:04
+English Conversational Partner said:
+Sure, we can do that. Let's go ahead and dive into a different scenario whenever you're ready. Just let me know what you'd like to try next.
+You said:
+“So hi, I'm here for my appointment with Dr. Smith.”
+00:04
+English Conversational Partner said:
+Sure! Welcome. So you're here for your appointment with Dr. Smith. Let me quickly check you in. Could you just let me know what time your appointment was scheduled for?
+You said:
+“All right, it's okay if I come in 10 minutes earlier?”
+00:03
+English Conversational Partner said:
+Absolutely, that’s no problem at all. We can get you in a little early. While you’re here, is there anything you’d like to ask about the check-up process or anything else you're curious about?
+You said:
+“I also want to help my friend to book an appointment in English.”
+00:04
+English Conversational Partner said:
+Sure, I get it! So you're helping a friend out with booking in English—that's totally fine. Just let me know what your friend's looking for, like the type of appointment or time, and I'll help you phrase it. What does your friend need to say?
+You said:
+Transcript Unavailable
+00:04
+English Conversational Partner said:
+Sure! In that case, you can tell them to say something like, "Hi, I'd like to book an appointment for this week. Could you let me know what times are available?" And of course, if you need any more help with that, just let me know!
+You said:
+“And for my friends, they are looking to see a doctor this week, and what times are available.”
+00:05
+English Conversational Partner said:
+Absolutely, that’s perfect. You can guide them to say exactly that, and the clinic will let them know the available slots. Now, is there anything else you or your friend would like to know, or are we all set?
+You said:
+Transcript Unavailable
+00:05
+English Conversational Partner said:
+Sure, I can help you confirm that. I'll just need to know your friend's name and the time they're booked for tomorrow, and I'll double-check it for you. What name is the appointment under?
+You said:
+“Under the name, who hates you?”
+00:02
+English Conversational Partner said:
+All right, let me just confirm that for you. So, your friend's appointment under that name is indeed all set for tomorrow. And is there anything else you’d like to ask or are we good to go?
+You said:
+“Does my friend need to bring his Medicare card?”
+00:05
+English Conversational Partner said:
+Absolutely, yes. Just let them know to bring their Medicare card along for the appointment. And is there anything else you're curious about, or does that cover it?
+You said:
+Transcript Unavailable
+00:03
+English Conversational Partner said:
+Sure, typically a general appointment will take around 15 to 20 minutes, depending on what they need. And if you've got any other questions, just let me know!
+You said:
+“Also, I've had a sore throat and cough for a few days.”
+00:05
+English Conversational Partner said:
+All right, got it. So you've been dealing with a sore throat and a cough for a few days. We'll definitely mention that to the doctor. Is there anything else you want to ask about your symptoms or are we all set for now?
+You said:
+“Also, I need a medical certificate for work.”
+00:02
+English Conversational Partner said:
+Sure, no worries. If you do need a medical certificate for work, just let the doctor know during your appointment and they'll be able to provide one. Anything else on your mind or does that cover it for you?
+You said:
+“So let's see if you are a doctor and then a recessionist.”
+00:05
+English Conversational Partner said:
+Absolutely, happy to help! So you've got everything you need. We'll see you at your appointment, and take care until then!
+You said:
+“I just need a repeat prescription.”   
+00:02
+English Conversational Partner said:
+Sure, absolutely. If you just need a prescription refilled, you can let us know the medication and the doctor will handle it. Now, is there anything else you want to go over, or does that cover you?
+You said:
+Switch your role into doctor.
+00:05
+English Conversational Partner said:
+Ah, got it! You'd like me to switch hats and pretend to be the doctor now. Sure thing! All right, as Dr. Smith, go ahead and let me know what you'd like to ask or discuss, and we’ll take it from there.
+You said:
+“I just need a repeat prescription.”   
+00:02
+English Conversational Partner said:
+Sure, as the doctor, that's easy enough. I can definitely issue a repeat prescription for you. Just let me know which medication you need, and I'll get that sorted out. Anything else you want to cover while you're here?
+You said:
+“So, I've had a sore throat and cough for a few days.”
+00:04
+English Conversational Partner said:
+Sure, I understand. So with that sore throat and cough, I’ll go ahead and make sure we address that and include any medication you might need. And is there anything else you want to discuss about your symptoms or any other concerns while we’re at it?
+You said:
+“I appreciate your time, that really helped.”
+00:02
+English Conversational Partner said:
+Absolutely, you're very welcome. I'm glad I could help out! If you need anything else, just let me know.
+You said:
+“We don't need a road test for this type of checkup.”
+00:03
+English Conversational Partner said:
+Sure, happy to clarify. For a general check-up like this, you usually won't need any blood tests unless the doctor thinks it's necessary after we talk about your symptoms. So no worries there. Anything else on your mind?
+You said:
+“Is there a fee for a medical certificate or a referral?”
+00:04
+English Conversational Partner said:
+Sure, I can clarify that for you. There's usually no extra fee for a medical certificate. It's just part of the appointment. So if you need one, just ask the doctor and we'll include it. Anything else you'd like to know?
+You said:
+“Can I get a script if I've already had this medication before?”
+00:05
+English Conversational Partner said:
+Absolutely, you can. If you've taken this medication before and it worked well, just let the doctor know and they'll re-prescribe it for you. Anything else you're wondering about?
+You said:
+Transcript Unavailable
+00:03
+English Conversational Partner said:
+Sure, good question. Usually, for something straightforward like this, you might not need a follow-up unless your symptoms persist. But if you still feel unwell in a few days, just book another appointment. Anything else on your mind?
+You said:
+“So it's a bulk building available for the student.”
+00:03
+English Conversational Partner said:
+Absolutely, yes. For students, we do have bulk billing available, so you won't have to worry about any out-of-pocket costs. Is there anything else you'd like to know before we wrap up?
+You said:
+“Are there any telehealth options if I can’t come in person?” 
+00:05
+English Conversational Partner said:
+Sure, good to know. If you can't come in person, we can often arrange a telehealth appointment so you can talk to the doctor online. Just let us know and we can set it up that way. Anything else on your mind today?
+You said:
+Transcript Unavailable
+00:04
+English Conversational Partner said:
+Absolutely, we do. We can arrange a translator or language support if you need help during your appointment. Just let us know in advance and we'll set that up. Anything else you'd like to cover?
+You said:
+“Thank you. Bye for now.”
+00:02
+English Conversational Partner said:
+Of course! You're very welcome, and thanks for chatting. Bye for now!
+
+Task 2:
+
+Task 2: Visiting a Bank and Asking for Help with Banking Services Scenario: You are visiting a local bank branch or calling customer service to request help with everyday banking services. You may need to open a new account, update your details, or ask about specific features such as online banking or international transfers. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a bank staff or customer service officer. You can choose situations from the examples below; start with a simple request and try a more detailed interaction by asking about documents, account features, or banking procedures. Learning objectives: • Request banking services using polite and formal language. • Ask follow-up questions about procedures or required documents. • Clarify account types and service options. • Practise conversation strategies in professional situations. • Build confidence when interacting with financial service providers. • (Advanced option) Manage more complex banking scenarios involving problem-solving, policies, or service conditions. Instructions: Try to: • Explain what kind of help you need. • Ask at least two follow-up questions about documents or the process. • Confirm next steps and key details. • Finish the conversation clearly and politely. • (Advanced option) Use the extension prompts below to have a longer conversation.
+English Conversational Partner said:
+Certainly. Welcome to the bank—how can I help you today?
+You said:
+“Hi, I'd like to open a new savings account.”
+00:03
+English Conversational Partner said:
+Absolutely. Let's get that started for you. Is this savings account going to be just for yourself, or will it be a joint account with someone else?
+You said:
+“Just savings account.”
+00:01
+English Conversational Partner said:
+Alright, just for yourself then. Now, we'll need to go over a couple of things. Could you let me know if you have any form of ID with you today, like a passport or a driver's license?
+You said:
+“Do I need an appointment, or can I come in today?”  
+00:04
+English Conversational Partner said:
+Sure, you can just walk in—no appointment needed. Now, besides your ID, I'll just ask: do you already have proof of address handy, like a utility bill?
+You said:
+“Yes, I have. And then what types of accounts are available for students?”
+00:04
+English Conversational Partner said:
+Of course! We do have special student savings accounts with some extra perks. Now, just to clarify, are you currently enrolled in a school or university so we can match you to the right account type?
+You said:
+“Can I settle online banking at the same time?”
+00:02
+English Conversational Partner said:
+Absolutely, we can set that up as well. So once we have your account open, would you like me to walk you through how to get your online banking access started?
+You said:
+“Sure, so what ID do I need to bring?”
+00:03
+English Conversational Partner said:
+Sure! Typically, just a government-issued ID like a passport or driver's license will do. Now, once you bring that in, is there anything else you'd like to know about the account opening process?
+You said:
+“I need to update my phone number and home address.”  
+00:03
+English Conversational Partner said:
+Absolutely, we can do that at the same time. So when you come in, just let us know the new phone number or address details, and we'll update those for you. Is there any other service you'd like to ask about?
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Sure! For certain updates like that, we can handle them over the phone after we verify your identity. So would you prefer to do the changes now, or would you like to wait until you're in the branch?
+You said:
+“Will I get a confirmation once it’s updated?”  
+00:06
+English Conversational Partner said:
+Absolutely, you'll receive a confirmation once everything's updated, either by email or a quick message. Now, is there anything else you'd like to go over before we wrap up?
+You said:
+“So what's the difference between these two account types?”
+00:04
+English Conversational Partner said:
+Sure! The main difference is that the student account has lower fees and some extra benefits just for students. Now, is there a particular feature you're curious about or that you'd like me to explain in more detail?
+You said:
+“Is there a monthly fee for this account?”
+00:02
+English Conversational Partner said:
+Yes, there is a small monthly fee for the standard account, but the student account typically has that waived. Now, would you like me to break down any other costs or fees for you?
+You said:
+“So, do you look for debit cards with this?”
+00:04
+English Conversational Partner said:
+Absolutely, yes. We do include a debit card with the account at no extra charge. Now, would you like to know how long it takes for that card to arrive once the account is open?
+You said:
+“I'm not sure I have an account, so I forgot my online banking password. Can you help?”
+00:06
+English Conversational Partner said:
+Of course! We can definitely help with that. If you’ve forgotten your password, we’ll just need to verify your identity first. After that, do you want me to walk you through how to reset it step by step?
+You said:
+Transcript Unavailable
+00:04
+English Conversational Partner said:
+Absolutely, we can have a replacement card sent right to your new address. Now, just to confirm, do you need that card expedited, or is standard delivery fine for you?
+You said:
+Transcript Unavailable
+00:08
+English Conversational Partner said:
+Sure, standard delivery it is. Now, yes, international transfers are definitely available. Would you like me to explain how to set those up, or do you have a specific country in mind?
+You said:
+“Oh, that's all good. Can I open a joint account with my partner?”
+00:04
+English Conversational Partner said:
+Absolutely, you can. We can open a joint account for you and your partner as well. Now, just to check, would both of you be able to come in together, or do you need to know how to add them later?
+You said:
+Transcript Unavailable
+00:06
+English Conversational Partner said:
+Sure, that's definitely possible. We can put a temporary freeze on your card if you're traveling. Now, would you like me to explain how you can do that online, or do you prefer to handle it in person?
+You said:
+Transcript Unavailable
+00:07
+English Conversational Partner said:
+Of course, in that case, just let us know as soon as possible and we can help you try to reverse the transfer. Now, is there anything else on your mind that you'd like to sort out today?
+You said:
+“So how do you verify identity for large transfers?”
+00:04
+English Conversational Partner said:
+Sure! For a large transfer, we usually verify by asking a couple of security questions or using a code sent to your phone. Now, is there a specific transfer amount you're thinking about, or just curious how it works?
+You said:
+“Just curious, what happens if I lose my bank card overseas?”
+00:04
+English Conversational Partner said:
+Absolutely, if that happens, just contact us right away and we’ll block the card for you. Now, is there anything else you’d like to double-check about handling your account while you're abroad?
+You said:
+“Are there any limits on how much I can transfer daily?”
+00:04
+English Conversational Partner said:
+Yes, there are daily limits on transfers for security reasons. We can always adjust them if needed. Now, would you like to know what the standard limit is, or do you have a specific amount in mind?
+You said:
+“$1,000,000”
+00:01
+English Conversational Partner said:
+Absolutely, the standard daily limit is much lower than that, but we can discuss raising it if you need. Now, is there any other detail about these transfer limits that you'd like me to explain?
+You said:
+“So I'm thinking of switching my account to another bank. How do I close my account?”
+00:06
+English Conversational Partner said:
+Sure, closing your account is straightforward. Just let us know and we’ll guide you through the process. Now, before we wrap up, is there any last detail you’d like to ask about that process?
+You said:
+“Can I request a written statement showing my transaction history?
+00:05
+English Conversational Partner said:
+Absolutely, you can request a recent statement anytime, and we can print it or send it digitally. Now, is there a particular time period or format you'd prefer for that statement?
+You said:
+“Could I move some money into a term deposit? What are the options?
+00:06
+English Conversational Partner said:
+Of course! A four-month period is totally fine. And yes, we can help you move money into a term deposit as well. Now, just to clarify, do you already know how much you'd like to deposit, or would you like some advice on that?
+You said:
+Transcript Unavailable
+00:03
+English Conversational Partner said:
+Absolutely, we can do that in person whenever you're ready. So, is there anything else you'd like to go over before we finish up?
+You said:
+“The answers are in my questions. Have a great day.”
+00:03
+English Conversational Partner said:
+Absolutely, I'm glad I could help. Have a great day as well! Take care.
+
+
+Task 3:
+
+Task 3: Enquiring About a Rental Property or Housing Inspection Scenario: You are calling, emailing, or visiting a real estate agency to ask about a rental property. You may want to attend an inspection, ask about the application process, or follow up after submitting your documents. Practise speaking clearly and politely in a formal setting. You will need to define the chatbot’s role as a property manager or real estate agent. You can choose situations from the examples below; start with a simple enquiry and try a more detailed interaction by asking about inspections, application documents, or follow-up procedures. Learning objectives: • Use polite, clear language when enquiring about rental properties. • Ask specific questions about availability, inspections, or applications. • Practise understanding and confirming important information. • Gain confidence communicating in housing-related situations. • (Advanced option) Handle more detailed rental enquiries by discussing application steps, document requirements, or follow-up actions. Instructions: Try to: • Ask about property details or inspection times. • Inquire about the application or rental process. • Confirm next steps or follow up on your application. • Finish the conversation politely and professionally. • (Advanced option) Use the extension prompts below to have a longer conversation. 
+English Conversational Partner said:
+Sure! I can help with that. Which rental property are you interested in today?
+You said:
+“Hey, hi, I'm interested in the two-bedroom unit on Main Street.”
+00:05
+English Conversational Partner said:
+Alright, got it! Are you looking to come by for an inspection of that two-bedroom unit on Main Street, or do you have some specific details you'd like to know first?
+You said:
+“Are there any inspection times this weekend?”
+00:03
+English Conversational Partner said:
+Sure! We do have a couple of inspection slots open this weekend. Would you prefer a Saturday or a Sunday time?
+You said:
+“maybe sunday is fine for me and then do i need to register before attending”
+00:05
+English Conversational Partner said:
+Absolutely! Sunday at five works just fine. And yes, we do ask that you register beforehand so we know who's coming. Could I get your name and contact number for that?
+You said:
+“My name is Hu, and then, yeah, you can just send, you can use my email.”
+00:05
+English Conversational Partner said:
+Alright, Wu, that sounds good. I'll note down your email for the registration. And just to confirm, do you need any details about the application process once you've seen the place?
+You said:
+“Is the property furnished or unfurnished?”
+00:06
+English Conversational Partner said:
+Sure! This particular property is unfurnished, so you'll need to bring your own furniture. Now, after the inspection, would you like me to walk you through the application steps as well?
+You said:
+“Not yet. I want to have more... I want to ask more things. So, R patch allowed?”
+00:06
+English Conversational Partner said:
+Sure! Pets are actually allowed in this unit, so that's no problem at all. Now, is there anything else you'd like to check on before the inspection day?
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Absolutely! The bond for this property is four weeks' rent upfront. Now, is there anything else you'd like to clarify, or does that cover your main concerns?
+You said:
+“So clarifying the application process, can I apply online or do I need to visit the office?”
+00:07
+English Conversational Partner said:
+Sure! You can definitely apply online, so no need to come into the office unless you prefer to. Now, would you like me to send you the application link after your inspection?
+You said:
+“Yeah, sure. So what document do I need to include in my application?”
+00:04
+English Conversational Partner said:
+Alright! Usually, you'll just need to include some ID, proof of income, and a rental reference if you have one. Anything else you'd like to ask about the application process?
+You said:
+“So how long does it take to hear back?”
+00:02
+English Conversational Partner said:
+Sure! It typically takes us about two to three business days to get back to you once you've submitted everything. Is there anything else you’d like to know before we wrap up?
+You said:
+“I submitted my application yesterday. Actually, could you confirm if it was received?”
+00:05
+English Conversational Partner said:
+Absolutely! I'll go ahead and check that for you. Just give me a moment. And once I confirm it's received, is there anything else you need from me today?
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Sure! We usually make a decision within about three business days after receiving your application. Now, is there anything else I can help you with?
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+All right! Generally, the documents we've mentioned—ID, income proof, and a rental reference—are all you'll need. If anything else comes up, I'll let you know. So, does that cover everything you wanted to ask?
+You said:
+“Sure. Actually, I'm also interested in another unit. Could I apply for both?”
+00:05
+English Conversational Partner said:
+Absolutely! You can definitely apply for both units if you're interested in more than one. Now, would you like me to send you details for that other unit as well?
+You said:
+“Yeah, sure. Would it be possible to negotiate the lease length?”
+00:05
+English Conversational Partner said:
+Sure! We can definitely discuss the lease length and see if there's some flexibility there. After I send you those details, is there anything else you’d like to chat about?
+You said:
+“By any chance, are there any furnished properties available around the same price?”
+00:06
+English Conversational Partner said:
+Absolutely! We do have a couple of furnished options in a similar price range. I can share those listings with you as well. Anything else you're curious about?
+You said:
+“Thank you. What makes a strong rental application?”
+00:03
+English Conversational Partner said:
+Sure! A strong rental application usually includes solid references, a stable income, and a clear rental history. Now, is there anything else you'd like to know before we wrap up?
+You said:
+“If someone else also applies, how do you choose?”
+00:03
+English Conversational Partner said:
+Absolutely! If we have multiple applications, we generally look at the overall strength of each one—things like references and income stability. Now, is there anything else you'd like to go over?
+You said:
+“Actually, I don't have any rental history in Australia. Can I still apply?”
+00:03
+English Conversational Partner said:
+Sure! You definitely can still apply even without a local rental history. We’ll just focus a bit more on your income proof and any other references you have. Anything else you’d like to ask before we finish up?
+You said:
+“Actually, I'm still waiting for one of my documents. Can I send the others first?”
+00:05
+English Conversational Partner said:
+Absolutely! You can go ahead and send the documents you have first, and then just follow up with the missing one when you get it. Anything else on your mind before we wrap up?
+You said:
+“Can I apply now and bring the document later?”
+00:02
+English Conversational Partner said:
+Sure! You can absolutely apply now and then just bring in that document a bit later. Is there anything else you need from me, or does that cover everything for now?
+You said:
+“It is okay to email a copy of my ID.”
+00:04
+English Conversational Partner said:
+Absolutely! It's perfectly fine to email us a copy of your ID. We handle that securely. So, is there anything else you'd like to go over, or are we all set for now?
+You said:
+Transcript Unavailable
+00:05
+English Conversational Partner said:
+Sure! Once you're approved, the lease can start pretty much as soon as you're ready, usually within a week or two. Is there anything else you'd like to ask before we wrap up?
+You said:
+“Do I pay the bond before signing the lease?”
+00:03
+English Conversational Partner said:
+Absolutely! Typically, you'll pay the bond right after signing the lease to secure the property. Now, is there anything else you'd like to go over, or are we all set?
+You said:
+Transcript Unavailable
+00:06
+English Conversational Partner said:
+Sure! If you break the lease early, there might be some break-lease fees involved, usually covering the cost of re-advertising and any rent until a new tenant is found. Anything else you'd like to clarify before we wrap things up?
+You said:
+“Will I receive a written tenancy agreement before payment?”
+00:03
+English Conversational Partner said:
+Absolutely! You can definitely arrange monthly payments if that works better for you. Now, does that cover all your questions, or is there anything else you'd like to ask?
+You said:
+“Thank you for the information.”
+00:01
+English Conversational Partner said:
+You're very welcome! If there's nothing else, feel free to reach out anytime. Have a great day!
+

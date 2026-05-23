@@ -1,0 +1,198 @@
+WEEK2
+TASK 1: 
+나의 말:
+“Hi, I'd like to make an appointment to see a doctor.”
+00:03
+English Conversational Partner의 말:
+Of course! I'd be happy to help. Could you let me know the reason for your visit today?
+나의 말:
+“I've had a sore throat and cough for a few days.”
+00:03
+English Conversational Partner의 말:
+I'm sorry to hear that. Let's get you taken care of. Would you prefer to see a general practitioner, or is there a specific specialist you have in mind?
+나의 말:
+“I don't know what his name is, but he is a old man and have a black glasses. I like that doctor.”
+00:12
+English Conversational Partner의 말:
+Got it! I’ll do my best to help identify him. In the meantime, could you let me know which days and times would work best for your appointment?
+나의 말:
+“Um, is tomorrow morning... available?”
+00:03
+English Conversational Partner의 말:
+Let me check that for you. Tomorrow morning should be possible. Do you have a preferred time, like early morning or maybe late morning?
+나의 말:
+“Before 10 a.m., please.”
+00:02
+English Conversational Partner의 말:
+Alright, that sounds good. I'll look for an available slot before 10 a.m. Is there anything else you’d like me to note, like any allergies or special requests?
+나의 말:
+“Um, I don't know is it important, but I have a sun allergy. Sunlight allergy.”
+00:08
+English Conversational Partner의 말:
+Thank you for letting me know; that’s definitely important. I'll make a note of that. Is there anything else you think I should be aware of before we finalize the appointment?
+나의 말:
+“Nothing, but I need a medical certificate for work.”
+00:03
+English Conversational Partner의 말:
+Got it, I’ll make sure to let the doctor know. We’ll arrange everything so that you can get that medical certificate as well. Is there anything else I can assist you with right now?
+나의 말:
+“No, that's all. Thank you.”
+00:01
+English Conversational Partner의 말:
+You’re very welcome! I’ll get everything set up and confirm the appointment details for you. If you need anything else, just let me know.
+나의 말:
+“Is there a fee for a medical certificate?”
+00:03
+English Conversational Partner의 말:
+That's a great question. Usually, there might be a small fee for issuing a medical certificate, but I can confirm the exact amount for you. Would you like me to find out the specific fee details?
+나의 말:
+“Oh, yes, please.”
+00:01
+English Conversational Partner의 말:
+Absolutely, I’ll check that and let you know the details shortly. In the meantime, if you have any other questions or need anything else, just let me know!
+나의 말:
+“Now that's all I need to know.”
+00:01
+English Conversational Partner의 말:
+Alright, perfect! I’ll take care of everything and confirm the details for you. If anything else comes up, feel free to reach out. Take care!
+나의 말:
+“Okay, so see you tomorrow.”
+00:02
+English Conversational Partner의 말:
+Sounds great! See you tomorrow, and I hope you feel better soon. Take care!
+
+
+
+
+
+
+
+
+
+
+TASK 3:
+나의 말:
+“Hi, I'm interested in the three-bedroom units on Main Street.”
+00:05
+English Conversational Partner의 말:
+Absolutely! I'd be happy to help you with that. Are you looking to rent or buy the three-bedroom unit on Main Street?
+나의 말:
+“I want to buy, but I'm looking for a rent.”
+00:04
+English Conversational Partner의 말:
+Got it, you're interested in renting. No worries! Could you let me know what your budget range is for the rental?
+나의 말:
+“I don't know how much is the average pay in this street.”
+00:07
+English Conversational Partner의 말:
+Sure, I can give you an idea! Typically, the average rent for a three-bedroom on Main Street ranges from about $450 to $600 per week. Does that kind of range work for you?
+나의 말:
+“$600? Oh my god, that's too expensive.”
+00:04
+English Conversational Partner의 말:
+I understand, it can definitely be a bit pricey. Would you like me to look into some more affordable options, maybe in a different area or with different amenities?
+나의 말:
+“Okay, then change the area, I mean a little bit far from the main street, but not too far.”
+00:10
+English Conversational Partner의 말:
+Absolutely, that
+나의 말:
+“You know?”
+00:00
+English Conversational Partner의 말:
+Alright, that sounds good! I can definitely find some options a bit further out but still convenient. Do you have any specific preferences, like proximity to public transport or certain amenities?
+나의 말:
+“I need a car park.”
+00:02
+English Conversational Partner의 말:
+Got it, a car park is definitely important. I'll keep that in mind. Is there a particular number of parking spaces you need, or is one space enough?
+나의 말:
+“Just one space, please, because I have a... one car.”
+00:05
+English Conversational Partner의 말:
+Perfect, that makes it easier. Alright, I’ll look for some three-bedroom rentals in a nearby area with at least one parking space. Anything else that you’d like to add or consider?
+나의 말:
+“Is the property furnished or unfurnished?”
+00:04
+English Conversational Partner의 말:
+That’s a great question! Would you prefer a furnished property, or are you looking for something unfurnished so you can bring your own furniture?
+나의 말:
+“Furnished is better to me.”
+00:02
+English Conversational Partner의 말:
+Got it, furnished it is! That definitely helps narrow it down. I’ll keep that in mind as well. Is there a specific move-in date you have in mind?
+나의 말:
+“No, but I just need a practical furnished.”
+00:05
+English Conversational Partner의 말:
+Absolutely, that makes sense! I’ll focus on properties that are practically furnished and have the essentials. If there's anything else you think of, just let me know!
+나의 말:
+“Please, find the place as cheap as possible. I don't have much budget.”
+00:08
+English Conversational Partner의 말:
+Of course, I’ll definitely keep affordability in mind and try to find the best value options for you. I’ll make sure to balance both cost and the essentials. If you have any other preferences, just let me know!
+나의 말:
+“I don't want the first floor.”
+00:03
+English Conversational Partner의 말:
+Got it, no ground-level units. I’ll focus on properties above the first level for you. That definitely helps narrow it down further. Let me know if there's anything else I can do!
+나의 말:
+“And I don't like kids, so...”
+00:02
+English Conversational Partner의 말:
+No worries, I’ll
+나의 말:
+“No playground around. My unit is better to me.”
+00:07
+English Conversational Partner의 말:
+Understood, I'll make sure to look for places that aren't near playgrounds or children-focused areas. That definitely helps refine the search. If there’s anything else you'd like to add, just let me know!
+나의 말:
+“Now that's all, but what documents I need to provide?”
+00:05
+English Conversational Partner의 말:
+Great question! Usually, you'll need proof of income, a photo ID, and sometimes a credit check. Additionally, a rental application form and references might be required. If you have any specific questions about that, just let me know!
+나의 말:
+“And credit check, is that important?”
+00:03
+English Conversational Partner의 말:
+Yes, it can be pretty important for landlords to assess your financial reliability. It helps them understand your credit history and ensure you can meet the rent payments. But if you have any concerns, we can definitely discuss alternatives as well.
+나의 말:
+“What alternative is there?”
+00:04
+English Conversational Partner의 말:
+Well, some landlords might accept a higher security deposit, or a co-signer, or even proof of steady income and references instead of a credit check. It really depends on the landlord and the property. If you’d like, we can explore those options further.
+나의 말:
+“So, prove my income is important, right?”
+00:05
+English Conversational Partner의 말:
+Exactly, yes! Showing proof of income helps confirm that you can comfortably afford the rent. Usually, that can be recent pay stubs, bank statements, or even a letter from your employer. It definitely helps the process go smoothly.
+나의 말:
+“Okay, then I'll be prepared. Thank you.”
+00:03
+English Conversational Partner의 말:
+You're very welcome! If you have any more questions or need any more help along the way, just let me know. I’m here to help!
+나의 말:
+“When can I see the unit?”
+00:04
+English Conversational Partner의 말:
+I can definitely arrange that for you! Let me know your availability, and I’ll coordinate with the property owner. We can set up a viewing at a time that works best for you.
+나의 말:
+“Okay.”
+00:00
+English Conversational Partner의 말:
+Great! Just let me know when you’re available, and I’ll take care of the rest. Feel free to reach out anytime, and I’m happy to help.
+나의 말:
+“How about this Saturday?”
+00:02
+English Conversational Partner의 말:
+Saturday sounds perfect! I’ll go ahead and arrange everything for you, and I’ll confirm the details shortly. If anything comes up in the meantime, just let me know!
+나의 말:
+“Alright, thank you, then see you this Saturday.”
+00:04
+English Conversational Partner의 말:
+You’re very welcome! I’m looking forward to it. See you on Saturday, and have a great day until then!
+나의 말:
+“Bye-bye.”
+00:00
+English Conversational Partner의 말:
+Bye for now! Take care, and I’ll see you soon!

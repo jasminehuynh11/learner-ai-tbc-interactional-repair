@@ -1,0 +1,260 @@
+{
+  "student_id": 49,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S49_W2_T2",
+  "source_file": "data\\raw\\#49\\#49\\#49. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, I'm interested in the three-bedroom units on Main Street.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! I'd be happy to help you with that. Are you looking to rent or buy the three-bedroom unit on Main Street?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I want to buy, but I'm looking for a rent.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, you're interested in renting. No worries! Could you let me know what your budget range is for the rental?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I don't know how much is the average pay in this street.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure, I can give you an idea! Typically, the average rent for a three-bedroom on Main Street ranges from about $450 to $600 per week. Does that kind of range work for you?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“$600? Oh my god, that's too expensive.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I understand, it can definitely be a bit pricey. Would you like me to look into some more affordable options, maybe in a different area or with different amenities?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, then change the area, I mean a little bit far from the main street, but not too far.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, that"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“You know?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, that sounds good! I can definitely find some options a bit further out but still convenient. Do you have any specific preferences, like proximity to public transport or certain amenities?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I need a car park.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it, a car park is definitely important. I'll keep that in mind. Is there a particular number of parking spaces you need, or is one space enough?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Just one space, please, because I have a... one car.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect, that makes it easier. Alright, I’ll look for some three-bedroom rentals in a nearby area with at least one parking space. Anything else that you’d like to add or consider?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Is the property furnished or unfurnished?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That’s a great question! Would you prefer a furnished property, or are you looking for something unfurnished so you can bring your own furniture?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Furnished is better to me.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Got it, furnished it is! That definitely helps narrow it down. I’ll keep that in mind as well. Is there a specific move-in date you have in mind?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“No, but I just need a practical furnished.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense! I’ll focus on properties that are practically furnished and have the essentials. If there's anything else you think of, just let me know!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Please, find the place as cheap as possible. I don't have much budget.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Of course, I’ll definitely keep affordability in mind and try to find the best value options for you. I’ll make sure to balance both cost and the essentials. If you have any other preferences, just let me know!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I don't want the first floor.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Got it, no ground-level units. I’ll focus on properties above the first level for you. That definitely helps narrow it down further. Let me know if there's anything else I can do!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“And I don't like kids, so...”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "No worries, I’ll"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“No playground around. My unit is better to me.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Understood, I'll make sure to look for places that aren't near playgrounds or children-focused areas. That definitely helps refine the search. If there’s anything else you'd like to add, just let me know!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Now that's all, but what documents I need to provide?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Great question! Usually, you'll need proof of income, a photo ID, and sometimes a credit check. Additionally, a rental application form and references might be required. If you have any specific questions about that, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“And credit check, is that important?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Yes, it can be pretty important for landlords to assess your financial reliability. It helps them understand your credit history and ensure you can meet the rent payments. But if you have any concerns, we can definitely discuss alternatives as well."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“What alternative is there?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Well, some landlords might accept a higher security deposit, or a co-signer, or even proof of steady income and references instead of a credit check. It really depends on the landlord and the property. If you’d like, we can explore those options further."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“So, prove my income is important, right?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Exactly, yes! Showing proof of income helps confirm that you can comfortably afford the rent. Usually, that can be recent pay stubs, bank statements, or even a letter from your employer. It definitely helps the process go smoothly."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Okay, then I'll be prepared. Thank you.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "You're very welcome! If you have any more questions or need any more help along the way, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“When can I see the unit?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "I can definitely arrange that for you! Let me know your availability, and I’ll coordinate with the property owner. We can set up a viewing at a time that works best for you."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Great! Just let me know when you’re available, and I’ll take care of the rest. Feel free to reach out anytime, and I’m happy to help."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“How about this Saturday?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Saturday sounds perfect! I’ll go ahead and arrange everything for you, and I’ll confirm the details shortly. If anything comes up in the meantime, just let me know!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Alright, thank you, then see you this Saturday.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m looking forward to it. See you on Saturday, and have a great day until then!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Bye-bye.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Bye for now! Take care, and I’ll see you soon!"
+    }
+  ]
+}

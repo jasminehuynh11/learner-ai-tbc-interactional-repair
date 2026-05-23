@@ -1,0 +1,44 @@
+[
+  {
+    "dialogue_id": "S16_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner asks the bot to repeat its question in turn 16, indicating a lack of understanding. The bot repeats the question in turn 17, and the learner responds appropriately in turn 18, resolving the issue."
+  },
+  {
+    "dialogue_id": "S16_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner asks for repetition in turn 24, showing they did not understand the bot's previous question. The bot repeats the question in turn 25, and the learner responds in turn 26, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S16_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "confirmation – learner asks for confirmation of scheduled day",
+    "evidence_summary": "The learner asks for confirmation of the scheduled day in turn 32. The bot confirms the day in turn 33, and the learner then requests a change to Friday in turn 34, which the bot accommodates in turn 35, resolving the issue."
+  }
+]

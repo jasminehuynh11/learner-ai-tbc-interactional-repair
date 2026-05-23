@@ -1,0 +1,125 @@
+{
+  "student_id": 17,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S17_W2_T3",
+  "source_file": "data\\raw\\#17\\#17\\#17. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Good afternoon! This is Sarah from Maple Grove Real Estate."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Are you calling about a specific property, or would you like help finding a rental that suits your needs?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "\"Hi, I'm interested in the two-bedroom unit on Miller Street.\""
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Great! The two-bedroom unit on Miller Street is definitely available. May I ask if you'd like to schedule an inspection, or do you have any specific questions about the property?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "\"Yes, sure. I'd like to schedule an inspection.\""
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Perfect! Let's find a time that works for you.Could you let me know & r preferred day and time for inspection?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "\"I preferred 1pm on next Monday.\""
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That sounds good! I'll schedule the inspection for next Monday at 1 PM. Is there anything else I can assist you with before then?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "\"What documents do I need to include with my application?\""
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Great question! Typically, you'll need to provide proof of identity, proof of income, and references from previous landlords. I can give you a detailed list as well, if you'd like. Let me know if you have any specific questions!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "\"Proof of identity is Passport?\""
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Yes, absolutely! A passport is perfectly acceptable as proof of identity. If you have any other questions about th documents or the application process, fe. * ee to ask!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "\"Oh, thank you. I have only Japanese passport. Is it okay?\""
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Yes, that's absolutely fine! Your Japanese passport will work perfectly as proof of identity. If there's anything else you need, just let me knoW"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "\"Should I provide any of the documents?\""
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Yes, in addition to your passport, we typically also ask for proof of income, like recent pay stubs or an employment letter, and sometimes a reference from a previous landlord. But I can provide a detailed checklist if you'd like!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "\"Yes, thanks.\""
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You're very welcome! If you have any more questions or need further assistance, just let me know. I'm here to help"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "\"How do I pay for rent fee? Pay by card or pay by cash?\""
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Great question! Usually, we prefer payments by bank transfer or direct debit for convenience and security. However, we can also accommodate card payments. Cash payments are generally not preferred. Let me know what works best for you!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "\"I think DirectDebit is best for me.\""
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "That sounds perfect! We can set that up easily. I'll make sure to provide you with all the necessary details and forms for the direct debit setup. If you have any other questions or need assistance along the way, just let me know!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Thank you for your service. I’ll see you at 1PM on next Monday."
+    }
+  ]
+}

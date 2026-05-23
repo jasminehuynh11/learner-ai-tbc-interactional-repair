@@ -1,0 +1,360 @@
+{
+  "student_id": 43,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S43_W1_T2",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a restaurant table"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“want to practice making a reservation for a table at a restaurant. I want to practice using polite language.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course, I'd be"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Can you correct me if I did something wrong in my conversation?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, I'll be happy to help and give you feedback as we go along. So, whenever you're ready, we can start making that reservation. Let me know the details you have in mind."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“So, you will be the receptionist, and I will be the customer. The conversation will be occurred through the phone.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, that sounds great! I'll be the receptionist, and you can go ahead and start whenever you're ready. Let's do this!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Hello, I wonder if you have any available tables for tomorrow night?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Hello! Yes, we do have availability. Could you let me know how many people will be in your party and what time you'd like to reserve?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I want to book a table for two people tomorrow night at 7 pm.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Great! A table for two tomorrow at 7 PM. May I have your name, please, to complete the reservation?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“My name is Isabella.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Thank you, Isabella! I’ve got your reservation down for tomorrow at 7 PM. Is there any special request or anything else we should know?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Can you arrange an outdoor table for us if it's possible?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course, I’ll make a note to request an outdoor table for you. Is there anything else you’d like to add to your reservation?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“um because it's our anniversary and so there is a lot of preparation so i just want to tell you first because i'm going to ask a lot of questions”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Oh, congratulations on your anniversary! That’s wonderful. Absolutely, feel free to ask any questions you have, and I’ll do my best to help you out."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, so I have a list of different components that I wish that I will have during my anniversary. So the first one I want to ask, if you provide a candle on the table for us, we have to prepare it ourselves.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely arrange a candle for your table. We’ll make it nice and cozy for your anniversary. If there’s anything else special you’d like, just let me know!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Because it's our anniversary, so I really want a quieter or a more romantic table. I don't know if you have any table like I described.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, we can certainly arrange a quieter and more romantic spot for you. I’ll make sure to note that as well, and we’ll do our best to create the perfect atmosphere. If there’s anything else you’d like to add, just let me know!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“As you can remember, your restaurant has a table with a very beautiful view to the mountain. I would like to ask if that table is still available for tomorrow night?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Oh, absolutely! We do have that mountain-view table, and I can reserve that for you as well. That should definitely make your anniversary even more special! If there's anything else you need, just let me know."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“I want to talk about the flower and the decorations, so do I have to pay extra money for the decoration for my anniversary, or I have to prepare ourselves what kinds of decoration that you are able to provide for us?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Great question! We do offer some complimentary flower decorations, and we also have premium options available for a small fee. I’d be happy to share more details and arrange something lovely for you. Just let me know what you prefer!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Oh yeah, that sounds great.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Perfect! I’m glad"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I think I would like some rose flower. I think it would be very romantic. Is that available tomorrow?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange some beautiful roses for you! I’ll make sure to include them in your reservation. If there’s anything else you’d like to add or any specific preferences, just let me know!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Oh, actually, my mistake, sorry. My partner, he will finish work at 6.30pm. I think 7pm is too early for him. He may not prepare himself. Can I change to 8pm?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course, we can definitely move your reservation to 8 PM. That should give you both plenty of time. I’ll update that for you right away! If there’s anything else you need, just let me know."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Oh, I didn't realize that the kitchen closed pretty early. Can I still order dessert if we arrive later than 8.30?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do have a selection of desserts available even after the kitchen closes, so you’ll still be able to enjoy something sweet. We’ll make sure everything’s set for you!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Oh, yes, that's great. That sounds perfect. Do you have your menu online?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Yes, we do! Our menu is available on our website, and I can also send you a link if you'd like. Just let me know, and you can take a look at everything in advance."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Jes, that sounds great!”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Wonderful! I’m really glad everything sounds good to you. If you have any more questions or need any further assistance, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“So as you can remember, I tried the lamb shank once at your restaurant and it was beautiful. I wonder if this is available tomorrow because as I can remember it just on the chef special on that day.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Oh, I'm so glad you enjoyed the lamb shank! I'll definitely check with the kitchen and confirm if it’s available tomorrow. I’ll make sure to let you know, and we can arrange it for your special evening!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Yes, thank you so much. It would be great if we can have the lamb shank with the wine. I like the rose wine. Are you available? Do you have it tomorrow?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a wonderful pairing! We do have rosé wine available, and I’ll make sure that’s ready for you as well. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“I'm having a look on your menu and I'm thinking about having some entree. Do you have any recommendation for the entree?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely! One popular entrée is our grilled salmon, which pairs really nicely with the rosé. We also have a delicious mushroom risotto and a classic filet mignon. If any of those sound appealing, just let me know!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Um, do you have any lighter food, like some fresh dishes, like salad for the entree?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Absolutely! We have some lovely fresh salads, like a mixed greens salad with a light vinaigrette, and also a beet and goat cheese salad that’s really popular. Those would pair nicely with your wine as well. Let me know if any of those sound good to you!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“I'm sorry, I think my idea was not very compatible with the lunch line, but I think I want some Asian salad. Do you have that option?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Of course! We do have an Asian-inspired salad, with ingredients like sesame ginger dressing, fresh veggies, and maybe some crispy wonton strips. That would definitely complement the lamb shank nicely. Just let me know if that works for you!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Oh yeah, that sounds great. I saw that you have some garlic bread. I wonder if I can get some cheese on top, like make it a cheesy garlic bread.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely do that! We can top the garlic bread with some melted cheese to make it cheesy garlic bread. That’ll be a delicious addition! If there’s anything else you’d like to customize, just let me know."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“That would be great, but the lamb shank will be my dish, but maybe my partner, he would want to have a look at some pork option. I'm having a look now, and I will tell you in one second.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Absolutely, take your time! We have a few delicious pork options as well, and whenever you're ready, just let me know what your partner prefers, and I’ll make sure everything’s set for both of you!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Oh, I saw so many of the pork options and they all look very delicious to me. I wonder if you can give me any recommendation.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Of course! One of our favorites is the pork tenderloin, which comes with a lovely glaze and seasonal veggies. Another great option is our pork belly, which is really tender and flavorful. I’m sure whichever you choose, it’ll be delicious! Let me know what sounds good to you. “I think the pork belly sounds better for me because I love tender meat and flavourful dishes. So I think I will order one lamb shank. For me, the pork belly, maybe my partner will like it.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "That sounds like a fantastic combination! I’m sure both dishes will be delicious and perfect for your anniversary. If you need any more recommendations or have any other special requests, just let me know. I’m here to help make it all perfect!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Yes, I just want to check again with my order to make sure that everything is all set. So I will have the cheesy garlic bread for the entree, and then I have the Asian salad, and then for the main dish we have lamb shank and pork belly.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "That sounds absolutely perfect! I’ve got everything noted down: cheesy garlic bread, Asian salad, lamb shank, and pork belly. It’s going to be an amazing meal! If there’s anything else you need or any last-minute details, just let me know. I’m happy to help!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Oh yes, I forgot about the dessert. I don't know if you have any other option for the dessert.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Absolutely, we have a lovely range of desserts! Some popular options include a rich chocolate mousse, a classic crème brûlée, and a refreshing fruit tart. If you have a particular preference, just let me know, and we’ll make sure to include it!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Do we have any cheesecake for tomorrow?”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do have a delicious cheesecake available, and it’s definitely a popular choice. We can include that as your dessert as well! Just let me know if that sounds good to you, and we’ll make it happen."
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“I think I will have one creme brulee and one cheesecake, please.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "That sounds like a wonderful choice! I’ll make sure we have one crème brûlée and one cheesecake ready for you both. Everything is all set for your celebration! If you need anything else at all, just let me know."
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Oh, I just want to check everything again, just make sure that tomorrow will be a perfect day, you know. So, one table at 8 p.m. I think I booked an outdoor table. And then, entree, we have Asian salad, garlic bread, main dish, we have lamb shank and pork belly, and for dessert, we have creme brulee and a cheesecake with rose wine. Can you check everything, please?”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Absolutely, that all sounds perfect! Just to confirm: you have an outdoor table at 8 p.m., with an Asian salad and cheesy garlic bread as appetizers, lamb shank and pork belly for the main course, crème brûlée and cheesecake for dessert, and a lovely rosé wine to accompany it all. Everything is set and ready to go! If there's anything else you need, just let me know."
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“All right, I think that's it for today. Everything sounds perfect. Really thank you for your help.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m so glad everything’s set. I hope you both have a truly wonderful anniversary. If you need anything else in the future, just let me know. Have a fantastic time!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“I think everything is on set. I really appreciate your help. Thank you again.”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "You’re so welcome! It was my pleasure to help. Have an amazing celebration, and if you ever need anything else, just reach out. Take care and enjoy!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“Thank you, see ya!”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "You're welcome! See you later, and have a great day!"
+    }
+  ]
+}

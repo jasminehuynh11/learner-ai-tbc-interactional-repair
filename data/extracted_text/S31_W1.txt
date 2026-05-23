@@ -1,0 +1,276 @@
+Week 1: Everyday Services and Informal Interactions
+Task 1: Ordering Coffee at a Café
+You said:
+“Hi, good morning. Can I get a flat white, please?”
+English Conversational Partner said:
+Good morning! Absolutely, a flat white it is. Would you like that in a small, medium, or large size?
+You said:
+“How much is about a medium and a large one?”
+English Conversational Partner said:
+For a medium flat white, it’s $4.50, and for a large, it’s $5.50. Which size would you prefer?
+You said:
+“Do you have any promotion or discount on this?”
+English Conversational Partner said:
+Yes, we do have a special offer today! If you get a medium flat white, you can add a pastry for just $2 extra. Would you like to take advantage of that deal?
+You said:
+“Do you have any proposal with the last one?”
+English Conversational Partner said:
+Currently, the special promotion is only for the medium size. But if you'd like a large flat white, I can offer you a free extra shot of coffee for just $0.50. How does that sound?
+You said:
+“Okay, so I will get a medium one and the promotion you gave me.”
+English Conversational Partner said:
+Perfect choice! So, that’s a medium flat white and a pastry for $6.50 in total. Would you like to pay by card or cash?
+You said:
+“OpenPICCard, do you have membership on something else?”
+English Conversational Partner said:
+We do have a membership program! You can earn points with every purchase and get discounts on future orders. Would you like to sign up today?
+You said:
+“Yes, it is.”
+English Conversational Partner said:
+Great! I’ll sign you up right away. Could I have your name and email address, please?
+You said:
+“My name is Anh. My email is 1234567.”
+English Conversational Partner said:
+Thank you, An!
+You said:
+“The... Okay. The...”
+English Conversational Partner said:
+You're welcome, An! I’ve signed you up for our membership. Your total is $6.50. You can pay with your card here. Is there anything else I can help with?
+You said:
+“Can I ask about what means, what are you using?”
+English Conversational Partner said:
+Of course! We use a premium Arabica blend for our coffee, sourced from sustainable farms. It’s roasted locally here in Sydney for the freshest flavor. Is there anything else you’d like to know?
+You said:
+“I'm sorry, I'm not really good about the information of the beans or about the coffee. Can you give me more details of the information of the beans?”
+English Conversational Partner said:
+No problem at all! Our beans are Arabica, which means they have a smooth and rich flavor. They come from farms that focus on quality and sustainability. We roast them right here in Sydney so that you get the freshest taste possible. Does that help?
+You said:
+“Yes, sure. So...”
+English Conversational Partner said:
+Great! I’m glad that helps. Here’s your coffee and pastry. Enjoy, and have a wonderful day!
+You said:
+“Thank you so much!”
+English Conversational Partner said:
+You're very welcome! Enjoy your coffee!
+You said:
+“I'm done with my coffee. Do you have any more recommendations?”
+English Conversational Partner said:
+Of course! If
+You said:
+“I want to try something like fresh and make me like...”
+English Conversational Partner said:
+Sure! If you’re looking for something fresh, you might enjoy our iced lattes or a refreshing iced tea. We also have some delicious smoothies if you prefer a fruitier option. Would any of those interest you?
+You said:
+“Pattern please.”
+English Conversational Partner said:
+Great! If you like something fresh and fruity, our mango or mixed berry smoothie is a fantastic choice. They’re both refreshing and delicious. Would you like to give one a try?
+You said:
+“Do you help me with watermelon or mango or strawberries?”
+English Conversational Partner said:
+Yes, we have a delicious watermelon smoothie and a mango smoothie. Unfortunately, we don’t have a strawberry smoothie, but the watermelon and mango ones are both amazing. Which one would you like to try?
+You said:
+“Can you combine a watermelon and a mango?”
+English Conversational Partner said:
+That sounds delicious! We can definitely make a mixed watermelon and mango smoothie for you. It’s a refreshing combo. Would you like that in a small or medium size?
+You said:
+“Medium-sized please, but do you have any toast or like something sweet for me to eat?”
+English Conversational Partner said:
+Absolutely! For our smoothies, you can add a scoop of protein powder or a boost of chia seeds for an extra charge. Would you like to add any of those to your smoothie?
+You said:
+“No, I'm sorry, I mean that I want something to eat and I want something that's sweet.”
+English Conversational Partner said:
+Got it! If you’re looking for something sweet, our baked goods like muffins or cookies are a great choice. We have chocolate chip cookies, blueberry muffins, and more. Would you like to try one?
+You said:
+“Yeah, Blueberry 1.”
+English Conversational Partner said:
+Great choice! I’ll add a blueberry muffin to your order. So that’s a mixed watermelon and mango smoothie and a blueberry muffin. Your total is $9.50. How would you like to pay?
+You said:
+“Please, can you give me like, don't put any more sugar in the smoothie, please.”
+English Conversational Partner said:
+Certainly! I’ll give you $10 back. Here’s your order: a mixed watermelon and mango smoothie, a blueberry muffin, and $10 in change. Enjoy your day!
+You said:
+“No, what about a $10 change? I just said that I don't want any sugar in my smoothie.”
+English Conversational Partner said:
+I’m sorry for the mix-up! I’ll make sure your smoothie has no added sugar. And your total is $9.50. How would you like to pay?
+You said:
+“All are to pay by card.”
+English Conversational Partner said:
+Perfect! You can go ahead and tap your card here. Thank you so much!
+You said:
+“Can I ask that you use the fresh fruit or you use frozen fruit?”
+English Conversational Partner said:
+We use fresh fruits whenever possible for our smoothies. The watermelon and mango we use are fresh and carefully selected to ensure the best taste. If you have any more questions or need anything else, feel free to ask!
+You said:
+“Where do you get the fruit from?”
+English Conversational Partner said:
+Thank you for understanding! If you need anything else or have more questions, just let me know. Enjoy your day!
+You said:
+“I'm sorry I asked about where do you get the food from.”
+English Conversational Partner said:
+No problem! We source our fruits from local farms around Sydney. This way, we support local farmers and ensure the freshest ingredients for our customers. If you have any more questions, feel free to ask!
+You said:
+“Oh, where is local from? Because I want to, like, make a company, like, make a coffee shop, like, yeah, I just want to learn about another coffee shop, and also I want to open a coffee shop.”
+English Conversational Partner said:
+That’s exciting! Starting a coffee shop sounds like a great venture. If you have any questions or need tips on sourcing ingredients or anything else, feel free to ask. Good luck with your coffee shop plans!
+You said:
+“Yeah, so I asked about where the local farm is.”
+English Conversational Partner said:
+Local farms around Sydney can be found in areas like the Hawkesbury region, which is known for its fresh produce. There are also farmers' markets in Sydney where local farmers sell their goods directly. Supporting local farms is a great way to ensure high-quality ingredients for your coffee shop.
+You said:
+“as the number of the farmers raised.”
+English Conversational Partner said:
+I'm sorry, I can't provide specific phone numbers. However, you can find local farms and their contact information through online directories or by visiting local farmers' markets. They often have websites or contact details available to connect with them directly.
+You said:
+“I see. Thank you so much. Thank you. Thank you for the food.”
+English Conversational Partner said:
+You’re welcome! If you have any more questions, feel free to ask. Good luck with your coffee shop!
+You said:
+“Thank you so much. Have a good day.”
+English Conversational Partner said:
+You too! Have a great day!
+
+
+
+
+
+Task 2: Booking a Restaurant Table
+You said:
+“Hi.”
+English Conversational Partner said:
+Hello! How can I assist you today? Are you looking to make a reservation?
+You said:
+“Yes, I would like to book a table for two people tonight.”
+English Conversational Partner said:
+Of course! What time would you like the reservation for tonight?
+You said:
+“What time do you free? Like, I mean like... What time do you... yeah.”
+English Conversational Partner said:
+We have availability at 6 PM, 7 PM, and 8 PM. Which time works best for you?
+You said:
+“Do you guys have any, like, entertainment, like, a band, singing, or something, on wartime?”
+English Conversational Partner said:
+We have live music at 7 PM. Would you like to book your table for that time?
+You said:
+“The live music will continue to one on one time.”
+English Conversational Partner said:
+The live music usually continues until around 10 PM. Would you like to reserve a table for 7 PM?
+You said:
+“It will be nice when it's 8pm.”
+English Conversational Partner said:
+Our 8 PM slot is also available. Would you prefer to book a table at 8 PM instead?
+You said:
+“Yes.”
+English Conversational Partner said:
+Great! I’ve booked a table for two at 8 PM tonight. Do you have any special requests or dietary needs we should know about?
+You said:
+“Do you have any table like next to the outdoor and also I want some, I want the chair that I can see the live music in the, in upstairs and yeah.”
+English Conversational Partner said:
+Absolutely, I’ll arrange a table for you near the outdoor area with a good view of the live music. Is there anything else I can assist you with?
+You said:
+“I mean that I want to shoot that next to the window and I want a scene that is higher than the live music. I want it upstairs the music.”
+English Conversational Partner said:
+Got it! I’ll book a table by the window upstairs with a view of the live music. Is there anything else you need?
+You said:
+“Yes, yes it is.”
+English Conversational Partner said:
+Alright, I have everything set for your reservation. We look forward to welcoming you tonight! If you have any more questions, feel free to ask.
+You said:
+“Do you have any menu or something? Because it is my husband's birthday, and I want to make him surprised.”
+English Conversational Partner said:
+Happy birthday to your husband! We do have a menu available online. Would you like me to send you the link, or do you have any specific dishes in mind?
+You said:
+“I want, my husband really like beef, and yeah, it can be a steak, and I want, and can you order some beef steak cake for us, please?”
+English Conversational Partner said:
+Certainly! I’ll make a note for a steak dish for your husband. We can also arrange a birthday cake for him. Do you have any specific flavor or type of cake in mind?
+You said:
+“Um, and also we want to order vegetables, vegetables and like, uh, barbecue, barbecue steaks after, after steak.”
+English Conversational Partner said:
+Got it! I’ll include a side of vegetables and a baked potato with the steak. Everything is set for a wonderful birthday surprise. Is there anything else I can do for you?
+You said:
+“Hi, can you decorate my decorate the outfit for the birthday, please?”
+English Conversational Partner said:
+Absolutely! We’ll make sure to decorate the table for the birthday celebration. It will be a special setup. Looking forward to celebrating with you tonight!
+You said:
+“Can you send me some sample of decoration of this one?”
+English Conversational Partner said:
+Of course! I can send you some sample images of our birthday table decorations. Would you like me to email them to you or share a link where you can view them?
+You said:
+“Yeah, okay. It can be later. I will send you my email later.”
+English Conversational Partner said:
+Sure! You can send me your email whenever you’re ready, and I’ll share the decoration samples with you. Looking forward to making it a memorable celebration!
+You said:
+“Also, this is just only me and my husband for the celebration, and the next day will be our friends with my husband and me. So I want also to put, like, yeah, a big table with a lot of people there in the next day, next next day.”
+English Conversational Partner said:
+Absolutely! I can help you with that. For the next day, how many guests will be attending the celebration? This way, I can reserve the appropriate table size for you.
+You said:
+“5 people and 5 people are friends of me and 6 friends of him, so it will be 5 plus 6 and plus 2, so it will be 14, right?”
+English Conversational Partner said:
+Got it, a total of 14 people for the next day. I’ll reserve a large table for your group. Is there a specific time you’d like to make the reservation for that day?
+You said:
+“Yes, it's also decorated for the birthday, and I want the outer piece, I want, we want to make a baby cute. Bye.”
+English Conversational Partner said:
+Understood! I’ll reserve an outdoor table for your group of 14 with birthday decorations and a BBQ setup. Is there a preferred time for the reservation?
+You said:
+“It's also with the ICBM, and do you have any, like, some steps to help to make the meet?”
+English Conversational Partner said:
+8 PM sounds great. We’ll have everything ready for your celebration. As for the BBQ, we have a special menu with various options. Would you like me to send you the menu in advance?
+You said:
+“Yes, thank you.”
+English Conversational Partner said:
+You’re welcome! I’ll send you the BBQ menu right away. Looking forward to celebrating with you all!
+You said:
+“Awesome.”
+English Conversational Partner said:
+Great! If you have any more questions, feel free to reach out. Have a wonderful day!
+You said:
+“Sorry, do you have... I'm not done with this. Do you have any wireless in advance?”
+English Conversational Partner said:
+I'm here to help with your restaurant reservation. If you have any other questions about your booking or anything else, feel free to ask!
+You said:
+“You can see the one released in advance.”
+English Conversational Partner said:
+I'm here to assist with your restaurant reservation. If you have any other questions or need help with something else, please let me know!
+You said:
+“I'm in the ranking list, the Y list, Y-W-I-N-E.”
+English Conversational Partner said:
+I can help with your restaurant reservation or any questions related to that. If you have any specific requests or need assistance, feel free to let me know!
+You said:
+“Drinking. Drinking, please.”
+English Conversational Partner said:
+I'm here to help with your reservation. If you have any other questions or need assistance, please let me know!
+You said:
+“Hi, do you hear me?”
+English Conversational Partner said:
+Yes, I can hear you! How can I assist you today?
+You said:
+“I also want to know about the wine list, I mean the drinking, the drinking for the celebration for the party.”
+English Conversational Partner said:
+Got it! For your celebration, we have a selection of drinks available. Would you like a menu with our drink options, or do you have any specific preferences?
+You said:
+“Yes, can I see the list? The menu, please, please. The one list.”
+English Conversational Partner said:
+Certainly! I'll send you the drink menu, including our wine list. You can choose from a variety of options for your celebration.
+You said:
+“Do you have any rare one?”
+English Conversational Partner said:
+Yes, we have a selection of red wines available. I can send you the full wine list so you can choose your favorite. Would you like that sent to you?
+You said:
+“Yes, thanks.”
+English Conversational Partner said:
+You're welcome! I'll send you the wine list right away. Let me know if you need anything else!
+You said:
+“Could you confirm the time and name for me, please?”
+English Conversational Partner said:
+Certainly! Your reservation is confirmed for tonight at 8 PM for two people, with a table by the window upstairs and birthday decorations. For the next day, we have a large table reserved at 8 PM for 14 guests with outdoor seating and BBQ setup. If you need any further assistance, just let me know!
+You said:
+“Oh yeah, my name is Anh and my number is 1234567. Can you confirm this also?”
+English Conversational Partner said:
+Thank you, Anh. Your reservation is confirmed under your name, Anh, with the contact number 123-4567. If you need anything else, feel free to ask. Looking forward to seeing you tonight!
+You said:
+“Anyway, I'll see you guys on next day.”
+English Conversational Partner said:
+Absolutely! I’ve noted your reservation for next day as well. If you have any other requests or need more assistance, just let me know. Looking forward to celebrating with you!
+You said:
+“Thank you so much. See you then.”
+English Conversational Partner said:
+You're welcome! See you soon, have a great day!

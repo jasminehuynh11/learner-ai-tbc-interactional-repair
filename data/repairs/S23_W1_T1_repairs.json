@@ -1,0 +1,32 @@
+[
+  {
+    "dialogue_id": "S23_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner confused by difference between 'Flat White' and 'Latte'",
+    "evidence_summary": "The learner asks for clarification on the difference between a Flat White and a Latte in turn 19. The bot provides an explanation in turn 20. The learner seeks confirmation in turn 21, and the bot confirms the understanding in turn 22, resolving the confusion."
+  },
+  {
+    "dialogue_id": "S23_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner confused by difference between 'Americano' and 'Long Black'",
+    "evidence_summary": "The learner asks about the difference between an Americano and a Long Black in turn 53. The bot explains in turn 54, but the learner expresses confusion in turn 55. The bot provides a more detailed explanation in turn 56, and the learner confirms understanding in turn 57, with the bot affirming in turn 58, resolving the issue."
+  }
+]

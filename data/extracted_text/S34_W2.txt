@@ -1,0 +1,724 @@
+Week2 - Task 1: 
+
+You said: 
+“I will practice how to visiting a medical clinic and booking or changing an appointment. You are a receptionist or staff member at a medical clinic working in a medical clinic's catering. I'll play the role of customer. Please create a realistic medical clinic scenario and respond as if we are really there. Help me talk about check-in by symptoms, clinic available times, or confirm appointment details. Keep the conversation ongoing naturally and asking at least three follow-up questions about check-up procedures. First, prescription requirements for clinic policies.”
+00:54
+English Conversational Partner said:
+Absolutely! Let's dive right in.
+
+Receptionist:
+Good morning, and welcome to Harbourview Medical Clinic. How can I assist you today? Are you here to check in for your appointment, or would you like to book or change one?
+
+Feel free to respond with your scenario, and we’ll keep it going from there!
+You said:
+“Let's start.”
+00:01
+English Conversational Partner said:
+Perfect! Let’s get started.
+**Reception
+You said:
+“Let's start.”
+00:00
+English Conversational Partner said:
+Sure, no worries! Whenever you're ready, you can let me know whether you’re here to check in for your appointment or if you’d like to book or change one. I’m here to help with any details you need!
+You said:
+“Hi, I'd like to make an appointment to see a doctor.”
+00:04
+English Conversational Partner said:
+Of course! I’d be happy to help you with that. Could you let me know what kind of appointment you’re looking for, and if you have any preferred date or time?
+You said:
+“I have a fever, and I'd like to check the COVID.”
+00:05
+English Conversational Partner said:
+I’m sorry to hear
+You said:
+“Could I make a reservation this afternoon or tomorrow morning?”
+00:04
+English Conversational Partner said:
+Absolutely, we can check that for you. Let me see what’s available. Would you prefer an afternoon appointment today, or would tomorrow morning work better for you?
+You said:
+“Also, as possible, I prefer.”
+00:03
+English Conversational Partner said:
+Got it, that makes sense. Let me check our schedule for both today and tomorrow. Could you also let me know if there’s a specific time range that works best for you, or if you’re flexible?
+You said:
+flexible 
+00:01
+English Conversational Partner said:
+Perfect, that gives us some flexibility. Let me check the available slots now, and I’ll find the earliest convenient time for you. Also, if you have any other questions about the check-up or any specific requirements, just let me know!
+You said:
+“A few minutes later...”
+00:01
+English Conversational Partner said:
+All right, I’ve checked our schedule, and we do have an available slot this afternoon at 3:30 PM, or alternatively, tomorrow morning at 9 AM. Which one would you prefer? And also, do you have any questions about the check-up procedures or anything else we can assist you with?
+You said:
+“I'd like to go 3.30 p.m. today.”
+00:03
+English Conversational Partner said:
+Great, I've booked you in for 3:30 PM today. Just to confirm, please remember to bring your ID and any relevant health information. Is there anything else you’d like to know about the appointment or our clinic policies before your visit?
+You said:
+“Could I use all SHC because I'm international student?”
+00:06
+English Conversational Partner said:
+Absolutely, we do accept OSHC for international students. When you arrive, just let us know, and we’ll ensure everything is processed smoothly. If you have any other questions or need further assistance, feel free to ask!
+You said:
+How much is the cost?
+00:04
+English Conversational Partner said:
+Typically, OSHC covers most of the consultation costs, but there might be some additional fees depending on the treatment or any tests required. We can give you a detailed breakdown when you come in. If you have any concerns, just let us know, and we’ll be happy to help!
+You said:
+“How much should I pay for?”
+00:01
+English Conversational Partner said:
+That can vary depending on the specific services and any additional treatments. Generally, the consultation fee is minimal if covered by OSHC, but for any tests or prescriptions, there might be a small out-of-pocket cost. We can provide a more precise estimate
+You said:
+“Roughly, for example, roughly how much is it? For example, I see a doctor and just have their medicine.”
+00:12
+English Conversational Partner said:
+Of course! For a standard consultation and a basic prescription, it’s usually around a small co-payment, often between $20 to $50, depending on the specific medication. Of course, we’ll confirm the exact cost
+You said:
+“Okay, thank you.”
+00:01
+English Conversational Partner said:
+You’re very welcome!
+You said:
+“So, thank you so much.”
+00:02
+English Conversational Partner said:
+My pleasure! If you
+You said:
+“My name is BlaBlaBla, and my phone call is BlaBlaBla.”
+00:04
+English Conversational Partner said:
+Got it, thank you
+You said:
+“Feel then.”
+00:00
+English Conversational Partner said:
+Absolutely, whenever you're ready, just let me know. I’m here to help with anything you need.
+You said:
+“or Prefinish.”
+00:01
+English Conversational Partner said:
+All right, sounds good! If you have any more questions in the future, just let me know. Have a great day!
+You said:
+Roll play finished
+00:01
+English Conversational Partner said:
+Perfect! Glad we could wrap that up. If you ever want to practise again or have any other scenarios in mind, just let me know. Have a wonderful day!
+You said:
+“at 3 p.m.”
+00:01
+English Conversational Partner said:
+Got it, I'll keep
+You said:
+“I'm calling clinic to change my medical appointment. Hello. Can I cancel my 3.30 PM appointment today?”
+00:13
+English Conversational Partner said:
+Of course! I can help you with that. Let me just pull up your appointment details. May I have your name, please, so I can locate your booking?
+You said:
+“My name is blah blah blah.”
+00:01
+English Conversational Partner said:
+Thank you! I’ve found your appointment. I’ll go ahead and cancel that for you. Is there another time you’d like to reschedule, or would you just like to cancel it completely?
+You said:
+“Ah, I just, I would like to just cancel. Is there a cancellation fee?”
+00:07
+English Conversational Partner said:
+Got it, I’ll cancel that for you right away. Typically, we do have a small cancellation fee if it’s within 24 hours of the appointment. Let me check that for you and confirm the details.
+You said:
+“A few minutes later.”
+00:01
+English Conversational Partner said:
+All right, I've confirmed that there is a small cancellation fee of $20 since it’s within the 24-hour window. Would you like me to proceed with the cancellation, and is there anything else I can assist you with?
+You said:
+“Is that covered by OSHG?”
+00:02
+English Conversational Partner said:
+In most cases, the cancellation fee isn’t covered by OSHC, as it’s considered a clinic policy fee. However, if you have any concerns, we can definitely look into it further. Let me know how you’d like to proceed!
+You said:
+“We just proceed with OSHU.”
+00:03
+English Conversational Partner said:
+Absolutely, I’ll go ahead and apply that. I’ll make sure everything is sorted with your OSHC coverage, and we’ll take care of the cancellation fee. If you need any more assistance or have any other questions, just let me know!
+You said:
+“Coercive payment by OHS-HG? What should I do now?”
+00:05
+English Conversational Partner said:
+All set! Since everything’s covered by OSHC, there’s no additional payment needed. You’re all good to go. If you have any other questions or need to reschedule in the future, just let us know. Have a wonderful day!
+You said:
+“Roleplay finish.”
+00:01
+English Conversational Partner said:
+All right, perfect! If you ever want to run through another scenario or have any more questions, just let me know. Have a great one!
+You said:
+“Next scenario is, I'm going clinic directory.”
+00:06
+English Conversational Partner said:
+Sounds good! In that
+You said:
+“So, in front of our session. Hi.”
+00:04
+English Conversational Partner said:
+Hi there! Welcome to
+You said:
+“How long is the current wait?”
+00:02
+English Conversational Partner said:
+At the moment, the current wait is about 15 minutes. If you’d like, you can have a seat, and we’ll call you as soon as the doctor is ready. Is there anything else I can help you with while you wait?
+You said:
+“I'm here for appointment with Dr. Smith.”
+00:03
+English Conversational Partner said:
+Great! I’ll make
+You said:
+“Is he also, should I also wait him 15 minutes?”
+00:12
+English Conversational Partner said:
+Yes, that’s correct. Doctor Smith should be available in about 15 minutes, so you can have a seat, and we’ll call you as soon as he’s ready. If you need anything in the meantime, just let us know!
+You said:
+“I'm so sorry, 50, 1-5 minutes or 5-0 minutes, which one is correct?”
+00:08
+English Conversational Partner said:
+No worries at all! It’s about 15 minutes, so roughly a quarter of an hour. You should be seen pretty soon. If anything changes, I’ll let you know!
+You said:
+“So you mean 1, 5?”
+00:01
+English Conversational Partner said:
+Exactly, yes, 15 minutes. That should be the correct wait time. If you have any other questions or need anything else while you wait, just let me know!
+You said:
+“Thank you.”
+00:00
+English Conversational Partner said:
+You’re very welcome! If you need anything else at all, just give me a shout. Enjoy
+You said:
+?
+00:05
+English Conversational Partner said:
+Sounds great! Let’s set the scene.
+You said:
+“Helping someone else book an appointment”
+00:13
+English Conversational Partner said:
+Of course! I’d be happy to help with that. Could you let me know your friend’s name and what kind of appointment they’re looking to book? Also, if they have any preferred dates or times, that would be great to know!
+You said:
+“My friend's name is Blahblahblah.”
+00:02
+English Conversational Partner said:
+Perfect, thank you! And do you know
+You said:
+“She would like to see Dr. Smith.”
+00:04
+English Conversational Partner said:
+Great, that helps a
+You said:
+?
+00:00
+English Conversational Partner said:
+No problem at all! So,
+You said:
+“She get injured her neck and she feel pain last one week.”
+00:10
+English Conversational Partner said:
+I’m sorry to hear that. Let’s make sure we get her an appointment as soon as possible. Could you let me know if she has any preferred day or time, or if she’s flexible with scheduling?
+You said:
+“She is available in weekdays after 2 p.m. is good for her. In weekends, all time is available.”
+00:12
+English Conversational Partner said:
+That’s perfect, that gives us some good options. I’ll check the availability for Dr. Smith on weekdays after 2 PM and also look at weekend slots. Let me quickly find the best time for her!
+You said:
+“What times are available?”
+00:02
+English Conversational Partner said:
+All right, let me quickly check the schedule. For weekdays after 2 PM, we have openings on Tuesday and Thursday around 3:30 PM. And for weekends, we have a variety of times available. Let me know which option works best, and we’ll get that appointment booked!
+You said:
+“Let me see. OK, Tuesday 3 p.m. is fine. Could I make an appointment?”
+00:08
+English Conversational Partner said:
+Absolutely, that sounds good! I’ll go ahead and book the appointment for 3 PM on that chosen day. If there’s anything else you need, just let me know, and I’ll make sure everything’s all set!
+You said:
+“What kind of card should she bring?”
+00:03
+English Conversational Partner said:
+Absolutely! It would be helpful for her to bring her ID, any relevant medical records, and her insurance details. Also, if she has any current medications or a list of symptoms, that would be great to have on hand. Let me know if there’s anything else!
+You said:
+“Thanks, I'll see her.”
+00:01
+English Conversational Partner said:
+You’re very welcome! If you need any more assistance or have any other questions, just let me know. I’m happy to help!
+You said:
+“OK, next situation.”
+00:01
+English Conversational Partner said:
+Sounds good! Whenever
+You said:
+“Describing reason for the visit.”
+00:02
+English Conversational Partner said:
+Absolutely, we
+You said:
+“Maybe it means after I see a doctor, I need to explain my symptoms, right?”
+00:08
+English Conversational Partner said:
+Exactly, that’s right! When you visit the doctor, you’ll need to explain your symptoms and the reason for your visit so that they can provide the best care. If you need help practising that explanation, I’m here
+You said:
+“Okay, so now you are Dr. Smith.”
+00:03
+English Conversational Partner said:
+Got it, I’ll step into Dr. Smith’s role! Whenever you’re ready, go ahead and let me know your symptoms or your reason for the visit, and we’ll go from there.
+You said:
+“Hi, Dr. Smith.”
+00:01
+English Conversational Partner said:
+Hello! It’s nice to meet you. What brings you in today, and how can I help you? Feel free to tell me about any symptoms or concerns you have.
+You said:
+“I've had a sore throat and cough for a few days.”
+00:04
+English Conversational Partner said:
+I’m sorry to hear that. Let’s make sure we get you feeling better. How long have you been experiencing these symptoms, and have you noticed any other issues, like a fever or fatigue?
+You said:
+“for our few days. Also, I can't stop running nodes.”
+00:05
+English Conversational Partner said:
+I see, that definitely sounds uncomfortable. We’ll look into that. Have you tried any remedies so far, or taken any medication to help with the symptoms?
+You said:
+“Sorry, could you repeat that slowly, please?”
+00:05
+English Conversational Partner said:
+Of course, no problem at all. I was just asking if you’ve tried any remedies so far or taken any medication to help with your symptoms. Feel free to let
+You said:
+?
+00:00
+English Conversational Partner said:
+Got it, thank you! That definitely
+You said:
+I bought drops 
+00:08
+English Conversational Partner said:
+That’s great, it
+You said:
+“Some medicines for fever in the pharmacy, and I took these yesterday.”
+00:08
+English Conversational Partner said:
+I see, that’s helpful to know. We’ll definitely take that into account. Let’s go ahead and check how things are progressing, and we can figure out the best course of action from here.
+You said:
+“Mm-hmm.”
+00:00
+English Conversational Partner said:
+Perfect! If you have any other details or any questions as we go along, just let me know. I’m here to help and make sure you get the care you need.
+You said:
+“I need your medical certificate for work.”
+00:03
+English Conversational Partner said:
+Of course, I can help with that. Once we’ve had a chance to go over your symptoms and confirm everything, I’ll make sure to provide the necessary medical certificate for your work. Let’s get that sorted for you.
+You said:
+?
+00:00
+English Conversational Partner said:
+Absolutely!
+You said:
+“Could you give me medical, uh, medic, medicine receipt?”
+00:07
+English Conversational Partner said:
+Of course, I can definitely provide you with a prescription receipt. Once we’ve gone through the examination and determined the appropriate medication, I’ll make sure you have the receipt you need. Let me know if there’s anything specific you’d like to discuss!
+You said:
+“After some examinations.”
+00:01
+English Conversational Partner said:
+Absolutely, we’ll make sure to do a thorough examination to understand your symptoms better. Once we’ve completed that, we’ll go ahead and provide the necessary documentation and prescriptions. Just let me know if you have any questions along the way!
+You said:
+“After some examinations.”
+00:01
+English Conversational Partner said:
+Absolutely, we’ll make sure to conduct all the necessary examinations to get a clear picture of your condition. Once we’ve done that, we’ll go over the results and provide
+You said:
+“Please proceed after done some examinations.”
+00:06
+English Conversational Partner said:
+Of course, I’ll make sure we go step by step, and once we’ve completed the examinations, we’ll proceed with the next steps, whether that’s treatment, prescriptions, or providing any necessary documentation.
+You said:
+“Please proceed our role play next step after done examinations.”
+00:07
+English Conversational Partner said:
+Absolutely, let’s continue from there. After we’ve completed the examinations, I’ll share the findings with you, and then we can discuss the treatment plan, any prescriptions needed, and provide the medical certificate if required. Let’s keep going!
+You said:
+“Please tell me doctor's site.”
+00:02
+English Conversational Partner said:
+Of course! From the
+You said:
+“about my symptoms.”
+00:01
+English Conversational Partner said:
+Absolutely, I’m here to help. Based on what you’ve shared, we’ll carefully consider your symptoms and come up with the best plan moving forward. If you have any more details or questions, feel free to let me know, and we’ll proceed from there.
+You said:
+“In this roleplay, you have done the examinations for my symptoms, and you found my fever is 38 degrees, and running nose is allergy, so you decided to give some medical prescriptions for me, okay?”
+00:28
+English Conversational Partner said:
+Absolutely, that sounds perfect! Based on your examination, we’ll address the fever and the allergy symptoms with the appropriate medications. I’ll make sure to prescribe something to help reduce your fever and manage the allergy-related runny nose. If you have any questions about the treatment or the prescriptions, just let me know!
+You said:
+“So doctor, how many days do I need to take medicines?”
+00:05
+English Conversational Partner said:
+That’s a great question! Typically, for a fever and allergy symptoms like yours, we’d usually recommend taking the medication for about 5 to 7 days. Of course, I’ll give you specific instructions based on how you’re feeling. If anything changes or you have concerns, just let me know!
+You said:
+“How many times a day?”
+00:01
+English Conversational Partner said:
+Typically, you’d take the medication two to three times a day, depending on the specific prescription. I’ll make sure to give you detailed instructions, so you’ll know exactly how often to take it. And of course, if you have any questions along the way, I’m here to help!
+You said:
+“Usually, medicine for allergy is too strong for me, so I reduce 3 times to 2 times. So, is this medicine same?”
+00:14
+English Conversational Partner said:
+I understand! It’s definitely important to find a dosage that’s comfortable for you. We can adjust the frequency to make sure it’s effective but also gentle. If you find that two times a day works better for you, we can definitely do that, and we’ll keep an eye on how you respond. Just let me know how you feel, and we can tweak it as needed!
+You said:
+“Thanks.”
+00:00
+English Conversational Partner said:
+You’re very welcome!
+You said:
+“When should I come again here?”
+00:02
+English Conversational Partner said:
+That’s a great question! Usually, if your symptoms improve, we can schedule a follow-up in about a week or so, just to make sure everything is on track. Of course, if you notice any changes or if anything concerns you, you can always reach out sooner. Just let me know what works best for you!
+You said:
+“I appreciate your time. Bye for now.”
+00:02
+English Conversational Partner said:
+Of course, it was my pleasure! Take care, and feel free to reach out anytime. Bye for now!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Week 2 – Task 2: 
+You said: 
+I want to practise how to Visiting a Bank and Asking for Help with Banking Services . You are a receptionist at a local bank branch. I’ll play the role of a customer. Please create a realistic a local bank branch scenario and respond as if we were really there. Help me talk about bank service. Keep the conversation going naturally by asking at least 3 follow-up questions about bank service
+English Conversational Partner said:
+Of course! Let’s imagine you’ve just walked into Riverside Community Bank, a bright local branch on a weekday morning. I’m standing behind the reception desk, ready to assist you.
+
+Good morning! Welcome to Riverside Community Bank. How can I help you today? Are you here to open a new account, or do you need help with an existing service?
+You said:
+“Hi, I'd like to open a new serving account. Do I need an appointment or can I come in today?”
+00:07
+English Conversational Partner said:
+Absolutely, you can come in today without an appointment. We’ll be happy to help you right away. Just make sure to bring a valid ID and proof of address. Would you like to know more about the types of savings accounts we offer?
+You said:
+“Yes, please.”
+00:00
+English Conversational Partner said:
+Great! We have a few options. For example, we have a standard savings account with a competitive interest rate, and we also have a high-yield savings account if you’re looking to earn more on your balance. Do you have any specific goals for your savings, or any questions about the benefits of each account type?
+You said:
+“I'm an international student. I'll stay here until next May.”
+00:06
+English Conversational Partner said:
+Got it, that’s great
+You said:
+“So I don't need, I don't use, I won't use this account long time and I prefer the cost is free.”
+00:10
+English Conversational Partner said:
+Absolutely, that makes sense! We do have a student-friendly savings account that has no monthly fees and offers convenient features. I can also help you with any required documents, like your student ID and visa details. Would you like more information about how to open that account or about any additional services we offer?
+You said:
+“Do you have any campaign to open new account?”
+00:04
+English Conversational Partner said:
+Yes, actually we do have a promotional campaign right now for new accounts, which includes a welcome bonus and reduced transaction fees for the first few months. I can definitely give you more details and walk you through the process. Is there anything specific you’d like to know about the campaign or any other services?
+You said:
+“I'd like to know about the campaign. If I open account today, what kind of benefit I can receive?”
+00:10
+English Conversational Partner said:
+Absolutely! If you open an account today, you'll receive a welcome bonus credited to your account within the first month. Plus, you'll enjoy zero monthly maintenance fees for the first six months, and also reduced fees on international transfers. If that sounds good, we can get everything set up right now. Would you like to proceed with the application?
+You said:
+“Would you proceed, please?”
+00:01
+English Conversational Partner said:
+Perfect! Let’s get started. I’ll just need to take down some details from you, like your full name, your contact information, and your student ID. Once we have that, we can move forward with the application process. Sound good?
+You said:
+“OK, I'll fill it out. Please check it. Here you are.”
+00:06
+English Conversational Partner said:
+Wonderful, thank you! I’ll take a look at the information now and make sure everything is correct. Once we confirm the details, we can finalize your account setup. If you have any questions in the meantime, just let me know!
+You said:
+“What ID do I need to show?”
+00:03
+English Conversational Partner said:
+Typically, you'll need to provide a valid government-issued photo ID, such as your passport or a national ID card. Additionally, we’ll need a document that proves your address, like a utility bill or a rental agreement. If you have your student visa as well, that’ll be helpful. Let me know if you have any of those documents ready!
+You said:
+“Yes, I have passport and visa details. Here you are. Also, I have a proof of my address. It is the tax number's letter. Is it useful for this situation?”
+00:18
+English Conversational Partner said:
+Yes, absolutely! Your passport, visa details, and the proof of address from the tax number letter will all be useful and acceptable. That’s perfect! Once I verify these documents, we can proceed with the account setup. Let me know if you have any other questions or need any assistance!
+You said:
+“Yes, can I set up online banking at the same time?”
+00:04
+English Conversational Partner said:
+Of course! We can definitely set up online banking at the same time. Once your account is open, I’ll guide you through the registration process and help you activate it right away. That way, you’ll have convenient access to your account anytime. Sound good?
+You said:
+“Do you offer debit card with this?”
+00:03
+English Conversational Partner said:
+Yes, absolutely! We do offer a debit card that comes with your savings account, and we can issue it right when your account is set up. You’ll be able to use it for purchases, ATM withdrawals, and more. If you’d like, we can also arrange to have it mailed to your address or pick it up in branch. Let me know what you prefer!
+You said:
+“I prefer sent to my post.”
+00:05
+English Conversational Partner said:
+That’s no problem at all! We’ll make sure your debit card is mailed directly to your address, and it should arrive within a few business days. Once everything is set, I’ll provide you with all the details. If you have any other questions or need further assistance, just let me know!
+You said:
+“Perfect. I have no more questions. Thank you.”
+00:03
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If anything else comes up, don’t hesitate to reach out. Have a wonderful day, and best of luck with your new account!
+You said:
+“Thank you.”
+00:01
+English Conversational Partner said:
+You're very welcome! Take care, and goodbye!
+
+You said:
+Please use only English. Do not translate in Japanese.
+English Conversational Partner said:
+Of course! Let’s continue entirely in English.
+
+You said:
+“Next roleplay is few weeks later I received the bank account card.”
+00:08
+English Conversational Partner said:
+Sounds great! In that case, we can continue the roleplay as if you’re now visiting or calling the bank with questions about using your new debit card, or maybe you need some help with online banking features. Just let me know how you’d like to proceed, and we’ll jump right in!
+You said:
+“I'm calling back, hello, hello, is this reverse side bunk?”
+00:11
+English Conversational Partner said:
+Hello! Yes, you've reached Riverside Bank. How can I assist you today? Are you calling about your new debit card or something else?
+You said:
+“Thanks. I'm calling about... I forgot my online banking password. Can you help?”
+00:08
+English Conversational Partner said:
+Of course, I can help with that! We’ll just need to verify a few details to confirm your identity. Could you please provide your account number or the phone number associated with your account?
+You said:
+“I see. My account number is blah blah blah. Also, my phone number is blah blah blah.”
+00:09
+English Conversational Partner said:
+Thank you for that information! I’ll just take a moment to verify your details. Once that’s done, I’ll guide you through the password reset process. Is there a preferred method for resetting your password, like via email or SMS?
+You said:
+“Sorry. what is e-su-mu-su?”
+00:02
+English Conversational Partner said:
+Of course! SMS stands for Short Message Service, and it’s basically a text message sent to your mobile phone. So if we reset your password via SMS, you’d receive a code or a link directly on your phone. Let me know which method you’d prefer!
+You said:
+“I save things. I prefer SMS.”
+00:03
+English Conversational Partner said:
+Perfect! In that case, I’ll go ahead and send a verification code to your phone number. Once you receive it, just let me know the code, and we can reset your password right away. Let me know if you have any other questions in the meantime!
+You said:
+“few minutes later: I received SMS new password and log in”
+00:05
+English Conversational Partner said:
+That’s great to hear! Now that you have the code, go ahead and enter it into the password reset portal, and you’ll be able to set a new password right away. If you run into any issues or need any additional help, just let me know. Otherwise, you should be all set!
+You said:
+“Oh, but it's possible... Hm? Sorry. It's temporarily freeze my account.”
+00:09
+English Conversational Partner said:
+I understand, that can happen sometimes. No worries! Let’s go ahead and confirm a few details to lift that freeze. Could you let me know if you received any notification or if there’s a specific reason mentioned for the freeze? That way, we can resolve it quickly.
+You said:
+“Now, I try to log in with new password, but I can't open my account, and dialog shows it froze, this account is temporarily freezed.”
+00:16
+English Conversational Partner said:
+I see, thank you for letting me know. In that case, we can definitely look into it further. I’ll just need to verify some security details with you. Once we confirm your identity, we can remove the freeze and restore access. If you have any recent transaction details or any information that might help, feel free to share that as well.
+You said:
+“So how should I show you my transaction history or my passport? Because we are talking for now. Should I make an appointment tomorrow?”
+00:12
+English Conversational Partner said:
+That’s a great question! Usually, for security purposes, it’s best to handle certain verifications in person. We can definitely arrange an appointment for you tomorrow, and that way, you can bring your ID and any necessary documents. In the meantime, if you have any other questions, I’m here to help!
+You said:
+“So, could I...”
+00:01
+English Conversational Partner said:
+Absolutely, feel free to let me know
+You said:
+“Could I make an appointment at 11 a.m. tomorrow?”
+00:07
+English Conversational Partner said:
+Of course! I can definitely schedule that for you. We'll set your appointment for 11 a.m. tomorrow, and that way, we can take care of everything in person. If you need any further assistance or have any more questions before then, just let me know!
+You said:
+“Can you explain again what should I bring for identify, just in case?”
+00:07
+English Conversational Partner said:
+Absolutely! For your appointment, it’s best to bring a valid government-issued photo ID, like your passport or national ID card. Also, it’s helpful to have any documents related to your address, such as a utility bill or a bank statement. And if you have any recent transaction details or any correspondence from the bank, that can be useful as well. If you bring these along, we should be able to sort everything out smoothly!
+You said:
+“Is it possible to use screenshots for transaction history?”
+00:05
+English Conversational Partner said:
+In most cases, it’s better to have official statements or documents, but screenshots can definitely help as a reference. If you bring them along, we can review them, and then we’ll confirm everything in person. But having the official documents on hand is always the safest approach. Let me know if you have any other questions!
+You said:
+“No, thank you.”
+00:01
+English Conversational Partner said:
+You’re very welcome!
+You said:
+“See you tomorrow.”
+00:01
+English Conversational Partner said:
+Absolutely, see you tomorrow! Have a great day, and take care until then!
+You said:
+“You too. Bye.”
+00:01
+English Conversational Partner said:
+Bye! Have a wonderful day!
+
+
+
+
+
+
+
+
+Week 2 – Task 3: 
+You said: 
+I want to practice how to Enquiring About a Rental Property or Housing Inspection. You are property manager at a real estate agency. I’ll play the role of a customer. Please create a realistic a real estate agency scenario and respond as if we were really there. Help me talk about a real estate agency service. Keep the conversation going naturally by asking at least 3 follow-up questions about a Rental Property or Housing Inspection 
+English Conversational Partner said:
+Sure! Let’s start the roleplay.
+
+(You walk into a bright, modern real estate office. The property manager looks up from her desk with a welcoming smile.)
+English Conversational Partner said:
+“Good morning! Welcome to Elmwood Real Estate. How can I help you today? Are you here to ask about a rental property?”
+You said:
+“Hi, I saw the advertisement in front of your store. I'm interested in the two-bedroom unit on the main street.”
+00:11
+Absolutely, I’m glad you stopped by! That two-bedroom unit is indeed available. May I ask if you’d like to schedule an inspection to see the property in person? And do you have any specific questions about the unit or the application process?
+You said:
+“I have some questions about the unit.”
+00:03
+English Conversational Partner said:
+Of course! I’m happy to help. What would you like to know about the unit? For example, are you curious about the layout, the amenities, or maybe the rental terms? Let me know!
+You said:
+“Is the property furnished or unfurnished?”
+00:03
+English Conversational Partner said:
+Great question! The property is actually unfurnished, so you'll have the flexibility to decorate it as you like. Is there anything else specific you'd like to know about the features or the inspection
+You said:
+“I have a cat.”
+00:01
+English Conversational Partner said:
+That’s great to know!
+You said:
+“Is Pat around?”
+00:01
+English Conversational Partner said:
+Yes, pets are indeed allowed in that unit. We just have a small pet policy in place. Would you like to know more about any other details, like the inspection schedule or the application steps?
+You said:
+“How much is the bond?”
+00:01
+English Conversational Partner said:
+The bond is typically equivalent to four weeks’ rent. If you’d like, I can also provide more details about the rental terms or the next steps in the application process. Let me know!
+You said:
+“Ah, yes, could you let me know how much and the period?”
+00:06
+English Conversational Partner said:
+Absolutely! The bond amount is generally four weeks’ rent, and the rental period is usually a minimum of twelve months. If you’d like to schedule an inspection or need guidance on the application documents, just let me know!
+You said:
+“How much is the rent per month?”
+00:02
+English Conversational Partner said:
+The monthly rent for that unit is $1,800. If you have any other questions or would like to arrange a viewing, feel free to let me know!
+You said:
+“$8000”
+00:02
+English Conversational Partner said:
+You’re welcome! If you need any more details or want to set up that inspection, just let me know. I’m here to help!
+You said:
+“Please let me clarify. The rent is 1,800 or 1,800, I mean 1,800 or 8,000, which is correct.”
+00:20
+English Conversational Partner said:
+Got it, no worries! The correct amount is $1,800 per month, so one-eight-zero-zero. Hopefully that clears it up! If there’s anything else you’d like to confirm, just let me know.
+You said:
+“Ah, thank you. So per week is how much?”
+00:07
+English Conversational Partner said:
+Sure! If we divide the monthly rent of $1,800 by four weeks, it comes out to about $450 per week. If you have any other questions, I’m happy to help!
+You said:
+“Channels registered on inspection this weekend.”
+00:04
+English Conversational Partner said:
+Absolutely, we can arrange that! Let me check the available times for this weekend. Would Saturday morning or Sunday afternoon work better for you? Let me know!
+You said:
+“Sunday afternoon is fine for me.”
+00:01
+English Conversational Partner said:
+Perfect, Sunday afternoon it is! I’ll go ahead and schedule that for you. If you need any additional information or have any other requests, just let me know!
+You said:
+“What time is it?”
+00:01
+English Conversational Partner said:
+We can schedule the inspection for Sunday at 2 PM. Does that time work well for you? If not, we can definitely adjust it to fit your schedule.
+You said:
+“I had an appointment at 3pm, so I prefer 1.30pm.”
+00:09
+English Conversational Partner said:
+Absolutely, we can do 1:30 PM on Sunday. That works perfectly. I’ll book that for you, and if you have any other questions before then, just let me know!
+You said:
+“OK, thanks.”
+00:01
+English Conversational Partner said:
+You’re very welcome! If anything else comes up, feel free to reach out. I look forward to meeting you on Sunday. Have a great day!
+You said:
+“Bye.”
+00:00
+English Conversational Partner said:
+Bye! Take care, and I’ll see you soon!
+You said:
+“After Sunday's inspection, I will come here again to proceed application for rent.”
+00:10
+English Conversational Partner said:
+That sounds perfect! I’ll be here to help you with the application process after the inspection. If you have any questions in the meantime, just let me know. Looking forward to it!
+You said:
+“Let's restart Roleplay.”
+00:03
+English Conversational Partner said:
+Sounds good! Let’s jump back in and restart the roleplay whenever you’re ready. Just let me know the scenario or any details, and we’ll get started!
+You said:
+“Hello again. Thank you for last Sunday. I really came on. I really like that property. I'd like to apply. How should I do?”
+00:16
+English Conversational Partner said:
+That’s wonderful to hear! I’m glad you liked the property. To get started with the application, I’ll just need a few documents from you, like proof of income and a photo ID. Then we can fill out the application form together. Let me know if you have any questions about that process!
+You said:
+“Here you are.”
+00:00
+English Conversational Partner said:
+Great, thank you! I'll go ahead and get everything ready. Once we have all the documents and the form filled out, we’ll be all set. If you have any other questions or need any assistance along the way, just let me know!
+You said:
+“I filled up the document. Here you are. Could you check that?”
+00:03
+English Conversational Partner said:
+Absolutely, I’d be happy to take a look. Let me review the documents for you and make sure everything is in order. Once I’ve confirmed everything, we can proceed with the application. Let’s get started!
+You said:
+“I submit my application today. How long does it take to hear back?”
+00:06
+English Conversational Partner said:
+Typically, it takes about two to three business days for us to review the application and get back to you. Of course, if there are any additional details we need, we’ll let you know right away. But we’ll do our best to keep it as quick and smooth as possible!
+You said:
+“Thank you. I'm looking forward to hearing back from you.”
+00:04
+English Conversational Partner said:
+You’re very welcome! We’re excited to have you on board, and we’ll be in touch as soon as possible. If you need anything else in the meantime, just let me know. Have a great day!
+You said:
+“Thank you. Bye.”
+00:01
+English Conversational Partner said:
+You’re welcome! Bye for now, and take care!
+

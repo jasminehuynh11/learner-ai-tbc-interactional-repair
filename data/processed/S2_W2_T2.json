@@ -1,0 +1,275 @@
+{
+  "student_id": 2,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S2_W2_T2",
+  "source_file": "data\\raw\\#2\\#2\\#2. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Medical clinic"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hey, did you remember I have an appointment next Tuesday at 2 p.m.?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Let me check that for you... Yes, I can see you have an appointment booked for next Tuesday at 2 p.m. Would you like to keep that time, or are you looking"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yeah, I have some situation need to take care, so I need to cancel the appointment. Could you help me to change another day?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course, I can help with that! What days or times would work better for you? We can look at our schedule and find the next available slot that suits you!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Next Friday, I am available.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great! Let me check... We have a few slots open next Friday. Would you prefer morning or afternoon? And is there a specific time that works best for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Um, I, uh, expected afternoon.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Afternoon it is!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Transcript Unavailable (Meaning roughly: Can you help me book an appointment sometime next Friday?)"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "We have a 1 p.m. and a 3 p.m. available next Friday. Do either of those times work for you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“It's a better afternoon, and I have some estimate that Harald needs to see the doctor and see how it goes well.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Got it, thank you for letting me know! In that case, let's lock in the 3 p.m. slot for you next Friday, so you’ll have plenty of time. Does that sound good to you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Could you help me to check the...”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely! I’ll book that for you right now and send you a confirmation. Is there anything else you'd like to ask about the appointment, like what to bring or any specific instructions from the doctor?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yeah, yeah, yeah. First, I want to know that today any teachers can speak Cantonese or Mandarin. If you had a doctor can speak my language, then I can explain much than today I talk to you like that.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I completely understand! We do have a doctor who speaks Mandarin, and they will be available during your appointment time next Friday at 3 p.m. That way you can explain everything in your language comfortably. Does that help?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Oh, thank you. And another thing I want to chat, the degree had parking. I want to drive car in the day.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yes, we do have parking available for patients. There's a free parking area just behind the clinic, so you can easily drive in that day. Is there anything else you'd like to know or prepare for before the appointment?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“All good. Thank you. Thank you.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "You're very welcome! I’m glad I could help. If anything else comes up, feel free to reach"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“I forgot to mention my name. I know you have my phone number. I just want to double-chat. My name is Tonic Lee.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Thank you, Tanic! Yes, I've got your phone number on file, and now we have your updated appointment all set. If you need anything else, just give us a call. Have a great day!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“All good. Thank you. Thank you.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "You're very welcome! Anytime, and good luck with your appointment next week. Take care! Top of Form Bottom of Form Task 2: Bank"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Hi, I'm Tonic. I'm calling the Wellbit Bank to open a new account.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Hi Tonic! Thanks for calling. I’d be happy to help you open a new account. May I ask what type of account you’re interested in, and do you have any identification documents with you?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I found a debit card, and yeah, I just need a debit card.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, we can get you set up with a debit account and card. I'll need a form of ID, like a passport or driver's license, and proof of address. Do you have those handy?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“I have a driver's license. I can give you my driver's license number 4A783821A.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Thank you, Tonic. That’s perfect. We’ll also need your address. Could you let me know your current residential address so we can add that to your account details?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Of course, I live in Parramatta, Tumultus Street.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Got it, Tonic! Thank you for that. Now, I’ll just confirm a few more details with you, and we"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“And, okay, you can continue.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Perfect! Let's move forward. I'll set up your account now, and you’ll receive your debit card in the mail within 5-7 business days. Is there anything else I can help you with today?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yeah, before I opened this account, I didn't get my taxes numbers. Is it okay with that?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "That's totally fine, Tonic! You can still open the account now, and once you have your tax file number, you can provide it later. This will help you avoid any withholding tax on interest. Anything else you'd like to ask?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“OK, thank you, thank you so much. And then, you mentioned that you will send the card to my address, right?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Yes, that's correct! We'll send the debit card directly to your address in Parramatta. You should receive it soon. Anything else I can assist you with today?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“I once asked, when I got a car, can I use my car to, for saving money?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Ah, I see! The debit card is linked to your everyday account, so it's mainly for spending and accessing your money. If you'd like to save, we can also open a savings account for you, and you can transfer funds from your debit account into it. Would you like to do that?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“I also want to know, did the bank car, the debit car, have any bank app?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We have a mobile banking app that you can download. It lets you check your balance, transfer money, and even set savings goals. Once your card arrives, you can register for the app and start using it right away!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“I'm sorry to stop you, and could you just send a download QR code to my e-mail? My e-mail is 9727 at gmails.com.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Of course, Tonic! I'll send the QR code to your email right now. You should receive it shortly. Anything else I can do for you?"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Oh, I got it. Thank you so much!”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "You're very welcome, Tonic! It was my pleasure to help. If you have any other questions in the future, feel free to reach out. Have a wonderful day!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“I also have a question. I want to know did the ban had any people can speak Mandarin because I might gonna help my parents to open a new account and they might not speak English. So could you help me to do that by someone can speak Mandarin?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do have staff who speak Mandarin and can assist your parents. Just let us know when they'd like to come in or if they need help over the phone, and we’ll arrange for a Mandarin-speaking team member to assist them."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Oh, thank you so much, because last Friday I didn't have time to take them to the bank. Okay, would you just make an appointment for my parents? They may come Friday, this Friday in the afternoon, 2 p.m.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Yes, I can arrange that for you! I’ll book an appointment for your parents this Friday at 2 p.m., and we’ll have a Mandarin-speaking staff member ready to help them. Anything else I can do?"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Okay, thank you, very bit hard. Have a good day.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "You're very welcome, Tonic! You have a great day too, and feel free to reach out anytime. Take care!"
+    }
+  ]
+}

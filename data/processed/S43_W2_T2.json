@@ -1,0 +1,215 @@
+{
+  "student_id": 43,
+  "week": 2,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S43_W2_T2",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Bank and Asking for Help with Banking Services"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, I want to practice visiting a bank and asking for help with banking services. Here you will play the role as a bank staff or customer service officer and I will be the customer.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That sounds great! I’m ready whenever you are. Just let me know what kind of banking services you’re interested in, and we can jump right into the roleplay."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“How are you today?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I’m doing well, thank you! I’m happy to help you with any banking needs today. What can I assist you with?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I would like to open a new saving account with your bank.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! To get started, I'll just need a few details from you. Could you let me know your full name and some identification, like a driver’s license or passport?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Oh yeah, definitely. But I just wonder, do I need to make an appointment or I just do it online through the phone with you?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "You can definitely do it either way! We can set up an appointment if you prefer to come into the branch, or we can handle most of it over the phone and online. Whichever is more convenient for you!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“That would be great because I can't go to the bank today. I have a few more lessons at the university. It would be great if I can do it just online. Thank you.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course, that makes sense! We can definitely handle everything online. I’ll guide you through the process step-by-step, and we’ll make sure it’s all smooth and easy. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, I'm sorry for interrupting you before. What kind of document do I need to provide to you?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "No worries at all! Typically, you'll need a valid photo ID, like a driver’s license or passport, and proof of address, such as a recent utility bill or a bank statement. Once we have those, we should be all set!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, all set. I have all of these required documents with me at the moment. Can we start now?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, we can get started right away! If you’d like, I can walk you through the online application steps, and we can upload your documents as we go. Just let me know whenever you’re ready, and we’ll take it from there!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yeah, great. Yeah, we can just start now. Can you please show me the first step of the process?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Of course! The first step is to fill out the online application form, which will ask for your personal details like your name, contact information, and your identification details. Once you complete that, we’ll move on to uploading your documents. Let’s get started with the form, and I’ll guide you through it step-by-step!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, great. I'm on the website at the moment, and I saw that they require for my occupation, but is that okay if I just put unemployed, because at the moment I don't have a job yet?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, that's totally fine! You can just put \"unemployed\" for your occupation, and that won’t be a problem at all. The bank just needs that information for their records. If you have any other questions as you go along, just let me know!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“There is another problem because I live with other people at a share house, so basically on the electricity bill, it doesn't appear my name on it, so it's okay if I use it to prove the address.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That’s totally understandable. In that case, we can use a different document, like a lease agreement, or even a letter from the house manager that confirms your residence. As long as we have a document that clearly shows your current address, we’ll be good to go!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Oh yes, that sounds great. Thank you very much.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you need anything else or have more questions along the way, just let me know. Good luck with the application!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“I saw there are two types of accounts on the paper, so I wonder what is the difference between these two types of accounts.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Great question! Usually, one type of savings account might offer a higher interest rate but with certain conditions, while the other might be more flexible with fewer restrictions. If you let me know what you’re looking for—like whether you want higher interest or more easy access to your funds—I can help you pick the best one!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“So, is there any monthly fee for the account with higher interest?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "It can vary depending on the bank and the specific account type. Often, the higher interest accounts might have a monthly fee unless you meet certain conditions, like maintaining a minimum balance. But I can definitely help you find the details for each option so we can choose the best fit for you!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“May I ask for the interest rate of the two accounts I want to compare them to?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Of course! Typically, the standard savings account might have an interest rate of around 0.5% to 1%, while the higher interest account could range from about 1.5% to 2.5%, depending on the bank’s current offers. I can definitely provide the exact rates for our bank so you can compare them and decide which one suits you best!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“I love the idea of having an account with high interest, but the monthly fee and a certain amount of deposit is really hard to maintain it because I have to pay for my study. So maybe I'll just go with the normal account without high interest.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That makes perfect sense! The standard account can definitely be more convenient and flexible, especially if you want to avoid monthly fees or balance requirements. It’s all about finding what works best for you and your budget. And if you ever want to switch in the future, we can always revisit it. Let me know if you’d like to proceed with the standard account!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“I just finished the application form. Will I have confirmation that all of my information has been sent to your buy account through my Gmail?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Once you submit the application, you’ll receive a confirmation email right away. That email will outline all the details and let you know the next steps. If there’s anything else you need or if you have any questions, just let me know!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“So if I register a new account today, so I can transfer some money from my old bank account to the new account today immediately, or I have to wait for a few days.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Usually, once your new account is fully set up and verified, you can transfer funds right away. There might be a brief processing period, but typically you can start moving money on the same day or within a day or two. If you run into any issues, I’m here to help!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yes, that'd be great because I need to send some money from my old account to this one because my previous account is about to expire and I'm not really happy about it, so I'd really want to change to your bank.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "I completely understand! We’ll make the transition as smooth as possible for you. Once your new account is active, you’ll be able to transfer your funds easily and quickly. If you need any assistance along the way, just let me know, and I’m happy to help!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Oh, I have a question about the Join account. I recently joined my account with my partner. So I wonder if I can change the newer account to the Join account with my partner.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely do that! We can convert your individual account into a joint account with your partner. It’s a straightforward process, and I can guide you through the required steps and documentation. Just let me know when you’re ready, and we’ll get everything set up for you!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Oh yes, I think that's it for today.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Perfect! I’m glad we could cover everything. If you have any more questions in the future, just let me know. Have a wonderful day, and take care!"
+    }
+  ]
+}

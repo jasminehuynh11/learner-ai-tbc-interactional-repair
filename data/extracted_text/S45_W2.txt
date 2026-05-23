@@ -1,0 +1,113 @@
+TASK 1:
+你说：
+Excuse me, I'd like to make an appointment to see a doctor.
+English Conversational Partner 说：
+Of course. What seems to be the reason for your visit today?
+你说：
+Because I feel my mind seem to have a sick, and I am not sure should the doctor have free time tomorrow, so I call this phone to confirm.
+English Conversational Partner 说：
+I understand. You’re not feeling well mentally and want to check if the doctor is available tomorrow, right? Which doctor would you like to see — a general practitioner or a mental health specialist?
+你说：
+Actually, I think it's just, it's like a head, but I think maybe my mental health should be seen, because when I arrive in Melbourne, I think I feel very lonely and always feel upset.
+English Conversational Partner 说：
+I see. It sounds like you’ve been feeling quite down since moving to Melbourne. I’m sorry you’re going through that. Would you like me to book you with a psychologist or a general doctor first for an initial check-up?
+你说：
+Yes, I think it's necessary. And do you have some famous doctors recommend?
+English Conversational Partner 说：
+Sure. We have a few well-known psychologists who specialize in adjustment and mood concerns. Would you prefer someone male or female, or is either fine?
+你说：
+Maybe mail is better.
+English Conversational Partner 说：
+Alright. We have Dr. James Porter and Dr. Michael Lin — both experienced in mental health support for newcomers. Would you like an appointment with one of them?
+你说：
+Yes, thank you. Sorry, I kept a message. Let's see. Tomorrow I have an English learning class. Can I put the date down to that day after tomorrow?
+English Conversational Partner 说：
+Of course, that’s no problem. So you’d like to book the appointment for the day after tomorrow — would you prefer morning or afternoon?
+你说：
+もしかしたら、朝? i said English but i do not know it shows Japanese
+English Conversational Partner 说：
+Sure, morning is fine. Would around 10 a.m. work for you, or would you prefer a little earlier or later?
+你说：
+Okay, the timing is very suitable for me. I can get up as normal, and also, I think today I need some medical. What type of medical you can recommend to me?
+English Conversational Partner 说：
+Alright. Since you’re feeling emotionally low and a bit unwell, I’d suggest a basic health check first — to rule out any physical causes — and then a mental health consultation. Would you like to have both at the same clinic on the same day?
+你说：
+If I can solve them in the same day, it's better.
+English Conversational Partner 说：
+Perfect. I’ll schedule you for a morning general check-up first, followed by the session with Dr. Porter. Could I have your full name, please, to confirm the booking?
+你说：
+볼킹 확인 완료. 감사합니다. i say english but i do not know why it shows Korean
+English Conversational Partner 说：
+좋아요, 감사합니다. 😊 예약이 완료되었습니다. 그럼 이틀 뒤 아침 10시에 뵙겠습니다. 혹시 방문 전에 궁금한 점 있으신가요?
+你说：
+Yes. Thank you. That's real help.
+English Conversational Partner 说：
+You’re very welcome. I’m glad I could help. Take care, and we’ll see you at your appointment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+TASK 2: 
+你说：
+“Hello, I'd like to open a new saving account.”
+00:04
+English Conversational Partner 说：
+Sure! Is this savings account going to be for your personal use, or is it for a joint account with someone else?
+你说：
+“Sorry, I don't know what's the difference between usage to account. Could you please describe the function of this?”
+00:10
+English Conversational Partner 说：
+Of course! A personal account is just for you alone, so only you can access it. A joint account means you share it with someone else, like a family member, and both of you can manage it. So, would you like it just in your name, or do you want to share it with someone?
+你说：
+“Nowadays, I just need to use by myself, so the first one is more suitable for me. And what ID do I need to bring?”
+00:13
+English Conversational Partner 说：
+Sure! If it's just for yourself, a personal account is perfect. You'll typically need to bring a government-issued ID, like a passport or driver’s license, and maybe proof of address. Does that sound okay?
+你说：
+“Okay, I have the Chinese passport, here you are, and I want to know, could I use a foreign phone number or just use a local phone number? Because when I return my hometown, maybe the foreign phone number can't accept the message.”
+00:23
+English Conversational Partner 说：
+Absolutely, that’s no problem. We can use your local phone number here so that you’ll still receive messages even when you go back home. So, just give me the local number you’d like to use and we’ll set that up for you.
+你说：
+“Okay, my local phone number is 040-491-661.”
+00:07
+English Conversational Partner 说：
+Got it, thank you! We'll use that local number for your account. Now let's just fill out the rest of the details and we’ll have your savings account opened up in no time.
+你说：
+“And I want to know should I pay extra money per month or per year for this saving account.”
+00:08
+English Conversational Partner 说：
+Sure! For a standard savings account, there’s usually no monthly or yearly fee. It’s just free to maintain as long as you keep a small minimum balance. So you won’t have to worry about any extra charges.
+你说：
+“And I want to know, last year I lost a debate card, and I changed it to closed, but now I want to cancel it and get a new one.”
+00:23
+English Conversational Partner 说：
+Sure, I understand. So you had a debit card that you closed last year, and now you’d like to cancel that closure and get a new one issued. We can absolutely help you with that. We’ll just need to confirm a few details from your previous account, and then we’ll get you set up with a fresh card.
+你说：
+“Yes, here is my debate card's number, and could you please post it to China when I return my hometown, or you can just post in Melbourne or in Australia?”
+00:20
+English Conversational Partner 说：
+Absolutely, I can help with that. We can definitely arrange to post your new card to China once you’re back home, or we can just mail it to your address here in Australia if that’s easier for you. Just let me know which you prefer.
+你说：
+“I want to proceed to China, and thank you. I will come by this afternoon with my documents.”
+00:09
+English Conversational Partner 说：
+Sure, we’ll arrange to post it to China for you. Thanks for letting me know, and I’ll see you this afternoon with your documents!
+
+
+
+
+
+
+
+
+

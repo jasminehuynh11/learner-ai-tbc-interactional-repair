@@ -1,0 +1,95 @@
+{
+  "student_id": 27,
+  "week": 3,
+  "task": 4,
+  "task_label": "T4",
+  "dialogue_id": "S27_W3_T4",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "My phone keeps restarting by itself."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "I see—that must be frustrating. How often does it restart during the day?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "It’s an iPhone 13, about 2 years old."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Thanks for confirming. Did this start after a recent update or installing a new app?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Yes, it happened after the latest iOS update."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "That helps. First, could you check if your storage is almost full? Low storage can cause restarts."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "It’s nearly full. What should I do?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Try deleting unused apps or large videos, then restart the phone manually."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "How do I reset the settings? Will resetting delete my files or photos?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Good question. Resetting settings only won’t delete your data. Go to Settings > General > Transfer or Reset iPhone > Reset > Reset All Settings."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "It restarted and seems more stable now."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That’s a good sign. Please monitor it for the next few hours."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "It’s working again! Appreciate your support."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "You’re very welcome—glad to hear that."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "What if this problem keeps happening after today?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "If it continues, I recommend backing up your phone and visiting an Apple Store or authorized service provider for a hardware check."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "dialogue_id": "S4_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      5,
+      6
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of 'hard' as 'hot'",
+    "evidence_summary": "The learner says 'Hard is ok because the day is cold,' which is likely a mispronunciation or misrecognition of 'hot.' The bot correctly interprets this as 'hot' and confirms with a hot cappuccino, resolving the issue."
+  },
+  {
+    "dialogue_id": "S4_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's fragmented/unclear phrasing",
+    "evidence_summary": "The learner's phrase 'Go, please, alive, and, if it is possible, with skim milk' is unclear. The bot interprets it correctly as a request for a large cappuccino with skim milk, resolving the issue."
+  },
+  {
+    "dialogue_id": "S4_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      13,
+      14
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "vocabulary – 'espinac' interpreted as 'spinach'",
+    "evidence_summary": "The learner uses 'espinac,' which is interpreted by the bot as 'spinach.' The bot confirms with 'extra spinach,' resolving the vocabulary issue."
+  },
+  {
+    "dialogue_id": "S4_W1_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – 'besto' interpreted as 'pesto'",
+    "evidence_summary": "The learner says 'besto,' which is interpreted by the bot as 'pesto.' The bot confirms with 'pesto,' resolving the pronunciation issue."
+  },
+  {
+    "dialogue_id": "S4_W1_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      17,
+      18
+    ],
+    "initiation": "None",
+    "resolution": "None",
+    "trigger": "None",
+    "evidence_summary": "There is no indication of a misunderstanding or repair sequence in the dialogue. The bot responds appropriately to the learner's statement without any indication of trouble."
+  }
+]

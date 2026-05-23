@@ -1,0 +1,205 @@
+Week 4
+Task 1: Discussing study or career plans with an advisor
+You said: 
+“Hi, I want to practice making a discussion about study or career plans with an advisor. So in this scenario, I will explain my situation, I ask for advice, and then you help me to clarify next steps. And you will play the role of a university advisor or career counsellor at the university, and I will play the role of a student. Can we start now?”
+00:34
+English Conversational Partner said:
+Absolutely, that sounds great! I’m ready whenever you are. Feel free to start by telling me a bit about your current situation and what kind of advice you’re looking for, and we’ll go from there.
+You said:
+“Hi, I'm thinking about changing my degree.”
+00:04
+English Conversational Partner said:
+Alright, I see!
+You said:
+“Or maybe I'll change my career path. Could you help me to understand my options?”
+00:06
+English Conversational Partner said:
+Of course, I'd be happy to help! To get started, could you tell me a bit about your current degree or your current career, and what’s motivating you to make a change?
+You said:
+“Okay, thank you. I had a bachelor’s degree in primary education in Vietnam. I had two years of experience as a primary school teacher. But since I moved to Australia, I realised that I don't want to be a teacher anymore. But I really like the field of technology. So I am considered between an information technology degree or a master’s of data science. I understand that I have no background in this field, but I have spent six months studying data science by myself. So I still wonder whether data science will fit me or if information technology will be a safer choice for my next degree.”
+01:08
+English Conversational Partner said:
+Got it, that makes sense. It sounds like you have a strong foundation in education and some self-study in data science. To help you further, could you share what kind of career goals you have in mind? For example, are you leaning towards a specific industry or role?
+You said:
+“So at the moment, as I research, I think I really want to be a data scientist or a data engineer because I learn about some databases and learn about coding recently and learn about the interpretation of the insights from the data, and I think it's really interesting. So that's my career goal but because I know a lot of people are studying data science at the moment so I'm worried that the rate or the chance that I can get a job after graduation is low. That's why I wonder if information technology will be a broader field where I can have more chances to get more jobs within the technology field.”
+00:56
+English Conversational Partner said:
+That’s a really thoughtful consideration! It’s true that data science is competitive, but it’s also in high demand. On the other hand, information technology offers a broad range of roles. So, to help narrow it down, could you let me know if you have any specific preferences in terms of work environment or the type of projects you’d like to work on?
+You said:
+“I really like to work on some information or data related to the health science, the health industry, or some data related to the agriculture business. And another desire of mine is that I want to find a job that I can work remotely or hybrid. Even hybrid is work for me, so that I can take care of my family and I can work wherever. It will be very versatile.”
+00:39
+English Conversational Partner said:
+That definitely gives me a clearer picture! It sounds like both fields can align with your interests in health and agriculture, and also offer flexibility. So, maybe we can explore the kinds of roles in data science or IT that would allow you to work remotely and focus on those industries. Would you like to dive deeper into specific programs or job roles that might suit you?
+You said:
+“Yes, please. I want to delve into the Master Degree of Data Science and the Master Degree of Information Technology.”
+00:10
+English Conversational Partner said:
+Sounds great! We can definitely compare those two options. For the Master of Data Science, we can look at the prerequisites, the core subjects, and the career outcomes in that field. And for the Master of Information Technology, we can explore the specializations and the range of job opportunities as well. Let me know if you have any particular questions or if there's anything specific you'd like to know about either program.
+You said:
+“Maybe I would delve into the Master's degree of Data Science first, because I spent six months studying Data Science before. I want to know about the course structure for the candidate who has no background in Information Technology in their Bachelor's degree. And I want to align or compare between my own knowledge about Data Science with the course structure to see what kind or what abilities or skills or knowledge that I have to prepare myself before I attend the course.”
+00:44
+English Conversational Partner said:
+Absolutely, that makes perfect sense. Typically, a Master of Data Science for someone without an IT background will include foundational courses in programming, statistics, and database management before diving into more advanced topics. We can definitely compare what you've already learned with the typical entry requirements and see where you might need to focus your preparation. Let’s dive into the specific modules and any recommended prerequisites for that program.
+You said:
+“I had finished a course of Python 3 on the Codecademy platform. I also finished the Analyse Data with Python, a short course about mathematics and statistics, but I haven't finished that yet, sorry. And I finished a course of SQL and Analyse Data with SQL. I also know how to visualise data with Python, and I understand how to use some IDES, the simulator, the environment, and I know how to use command lines. And what I want to know is what kinds of knowledge that I should prepare before I attend the data science course, because I don't want to be left behind at class.”
+00:59
+English Conversational Partner said:
+That’s fantastic! It sounds like you already have a solid foundation. Usually, before starting a Master of Data Science, it’s helpful to have a strong grasp of more advanced statistics, machine learning algorithms, and some deeper programming skills in Python or R. It’s also good to be comfortable with data wrangling, and some understanding of cloud platforms can be helpful. We can definitely map out any gaps and suggest some resources so you feel confident and well-prepared!
+You said:
+“Oh yes, I haven't learned the R language. I really appreciate your suggestion. I almost forgot to prepare that for myself. So R is actually really important in data science.”
+00:16
+English Conversational Partner said:
+Absolutely, R is definitely a key tool, especially for statistical analysis and data visualization. But the good news is that if you're already comfortable with Python, picking up R can be quite manageable. And a lot of data science programs do offer introductory courses in R, so you’ll definitely get the support you need. But I’m really glad you’re thinking ahead and preparing thoroughly!
+You said:
+“Yes, that's great. Thank you. I think I might stick to data science. Oh, wait there. Sorry, I need to know about what types of jobs are common for people in my degree.”
+00:14
+English Conversational Partner said:
+Of course, that’s a really important consideration! For graduates with a Master of Data Science, common roles include data scientist, data analyst, machine learning engineer, and data engineer. You can also find positions in specialized fields like healthcare analytics, finance, and even agriculture tech. So, there are plenty of diverse opportunities. If you’d like, we can dive deeper into any specific industry or role that interests you!
+You said:
+“I want to know if my condition or my situation after graduation will be available or suitable for an entry-level position, because by the time that I finish my course, I will be 30 years old and I have no experience, I have no background. Will I have a chance to get an entry-level position?”
+00:26
+English Conversational Partner said:
+Absolutely, you’ll definitely have a chance! Many people transition into data science later in their careers, and your diverse background can actually be a strength. Employers value a variety of experiences, and your teaching background can bring unique perspectives to the table. Plus, with the skills you’re building now, you’ll be well-prepared for entry-level roles. Many programs also offer career support, internships, and networking opportunities to help you get your foot in the door. So, I’m confident you’ll be in a good position!
+
+Task 2: Participating in Group Decisions and Negotiating Responsibilities
+You said:
+Hello, I want to practice participating in group decisions and negotiating responsibilities. So, in this scenario, I will be a part of a team working on a group project, and my group just includes two members, which are you and me. We need to share our opinions, agree or disagree politely, and negotiate roles, deadlines, contributions, ideas, and arrangements in the project. You will be my teammate, and I will be another member of this group.”
+00:46
+English Conversational Partner said:
+That sounds great! I'm excited to dive into this scenario with you. So, let’s say we’re working on a project together, and we need to figure out our roles and responsibilities. To start off, why don't you tell me a bit about the project and what your initial ideas are? Then we can go from there and figure out how we can best collaborate.
+You said:
+“Our assignment is due next week. I just received this topic this morning. The project is about how to use generative technology appropriately without breaching academic integrity, with examples of the most common generative AI that students use.”
+00:28
+English Conversational Partner said:
+Got it, that sounds like a really timely and relevant topic! So, to get started, maybe we can brainstorm which generative AI tools we want to focus on. Do you have any particular tools in mind, or should we start by identifying those first?
+You said:
+“I think we should start with unpacking the question first.”
+00:08
+English Conversational Partner said:
+Absolutely, that makes sense! So, let's break down the main question about using generative technology responsibly. We can look at what academic integrity means, how these tools are typically used by students, and then identify some best practices. Sound good to you?
+You said:
+“I think your idea is great. However, I think we should delve into the definition of all the related terms, not only academic integrity. Because even though generative technology is very prevalent nowadays, but I believe that a lot of people don't actually know about the definition or the operating mechanism of GenAI tools. So, personally, it would be a good approach.”
+00:38
+English Conversational Partner said:
+I completely agree with you! It definitely helps to lay a solid foundation by understanding the definitions and how these tools actually work. So, let’s definitely start there and then we can expand into the ethical considerations and best practices. Sound like a plan?
+You said:
+“Yeah, your idea is great. Very concise. However, I think we just forgot the part about the four commonly used AI tools at university.”
+00:15
+English Conversational Partner said:
+Ah, you're absolutely right! We definitely want to highlight those examples. So, we can choose a few popular ones, like ChatGPT, DALL-E, maybe some code generators, and then we can discuss how each one is used and the potential pitfalls. That way, we’ll cover all the bases. Sound good?
+You said:
+“Yes, I think it will be a best arrangement. So to sum up, so we will start with the definition about all related terms in the discussion topic, about generative technology, about academic integrity, and then in the next heading we will delve into the ethical consideration when using generative technology at university, and the next heading we will delve into some guidelines to help students to use Gen-AI without breaching academy integrity, and the last one will be the four commonly used tools, or you think we should rearrange the order.”
+00:55
+English Conversational Partner said:
+I think that arrangement sounds really solid! It flows naturally and covers everything thoroughly. We can always tweak it if we feel like something needs more emphasis, but I think we’re on the right track. I’m excited to get started!
+You said:
+“It sounds great. I feel the same. So, it will do next week. The deadline is quite tight. Can we decide who will do each part?”
+00:11
+English Conversational Partner said:
+Absolutely, let's do that! We can divide the sections based on our strengths and interests. For example, I could take the part on defining the terms and explaining the tools, and then you could handle the ethical considerations and the guidelines. Or we can adjust it however works best for both of us. Let me know what you prefer!
+You said:
+“Oh yes, I think, I think so too. I really enjoy delving into some ethical consideration and actually I've read several articles about it recently. So yes, we can start to do it now.”
+00:15
+English Conversational Partner said:
+That sounds perfect! I’m glad we’re on the same page. Let’s go ahead and break it down step-by-step, and we can start working on our individual sections. I’m sure we’ll come up with something really great together! Let me know whenever you’re ready to dive in.
+You said:
+“Yes, I have a few questions about the arrangement, the task arrangement. I know you have to work, and I do too. My work schedule this week is quite busy. The business owner went away for another business trip. I don't know exactly when he will come back, but I only know that he'll be absent the whole week. So, I think I can arrange the time to fit the deadline. But do you think that we need to connect each heading together? I'm worried if I start writing before you, I can't do the transition between your part and my part, because obviously the definition will be the first heading. So, can you do it maybe today or tomorrow?”
+01:11
+English Conversational Partner said:
+Absolutely, that makes perfect sense! We can definitely coordinate so that the transitions between our sections are smooth. I can try to get my part done as soon as possible, maybe today or tomorrow, and then you can build on it. That way, we’ll keep everything cohesive. And if anything comes up, we can always adjust along the way. Let’s make it work!
+You said:
+“Yes, sounds great. Thank you very much. I really appreciate your understanding. So I will arrange my work schedule to just a few days on, maybe on Monday, Tuesday, and then after you finish your part, I will just doing my part, maybe on Wednesday, Thursday, and then maybe on Friday, we have a revision together. We haven't met up again, and we will think about what we should correct or what we should improve before we submit it.”
+00:38
+English Conversational Partner said:
+That sounds like a fantastic plan! I love that we have a clear timeline and dedicated days for each part and then a final revision together. That will definitely ensure everything is cohesive and polished. I’m really looking forward to working on this with you, and I’m sure it’s going to turn out great!
+You said:
+“Yes, thank you very much for your cooperation. So, do you want to do the writing part or you want to do the presentation part? I'm happy to take note while you do the presentation.”
+00:14
+English Conversational Partner said:
+I appreciate that! I’m definitely comfortable with either part, but I think I’d enjoy handling the writing portion first, and then we can collaborate on the presentation later. That way, we have a solid foundation to build on. But I’m happy to switch things up if you’d prefer to lead the writing and then I can handle the presentation. Let me know what works best for you!
+You said:
+“I think either way works fine to me, but we can arrange it later after we finish the draft. Yes, I think that's it for our meeting today.”
+00:15
+English Conversational Partner said:
+That sounds perfect! I’m really glad we got everything sorted out, and I’m looking forward to working together on this. If anything comes up or you need to chat again, just let me know. Thanks so much, and we’ll touch base soon!
+You said:
+“I think everything is fine now. Alright, see you on Friday. Bye!”
+00:05
+English Conversational Partner said:
+Sounds great! Looking forward to it. Take care, and see you on Wednesday! Bye for now!
+
+Task 3 - Responding to Feedback or a Performance Review
+You said:
+
+“Hi, I want to practice responding to feedback or a performance review. So I will set a scenario where I am participating in a feedback session with my teacher about an EDA project that I've done recently about some supplement sale report and I want you to be my teacher giving me feedback, comments, what I should improve and what I did good in my project and I will play the role of a student.”
+00:47
+English Conversational Partner said:
+That sounds great! I’d be happy to help you practice. So, let’s imagine we’re in a feedback session about your exploratory data analysis project on supplements. I'll start by giving you some feedback on what you did well and areas for improvement, and then you can respond as the student. Sound good? Let’s get started!
+You said:
+“Hi, I just submitted my assignment this morning. It is a project about the supplement sales. Could you please share your comments about my visualisation and my code, and my inside interpretation, please?”
+00:28
+English Conversational Partner said:
+Of course! Overall, your visualizations looked really clear, and you did a great job of presenting the data in a straightforward way. One suggestion would be to add a bit more context to some of your charts, like maybe including annotations or more detailed labels. And your code was well-structured, but we can definitely refine some of the functions for efficiency. How do you feel about those points?
+You said:
+“Thank you so much. I can understand why you tell me to improve this point. I will try to refine my code more in the future, but I don't really understand why I should put more annotations on my project. Can you explain me more about it?”
+00:24
+English Conversational Partner said:
+Absolutely! So, annotations help guide your audience through the key insights in your visualizations. They make it easier for someone to understand the main points at a glance, especially if they’re not familiar with the data. So, adding a few notes or highlights can really enhance the clarity of your findings. Does that help clarify it a bit?
+You said:
+“Yes, absolutely. I really appreciate it. So, last time I submitted another EDA project, but I did not explain well and I did not interpret the insight very deep. So, have you seen any improvement in this particular area?”
+00:24
+English Conversational Partner said:
+Yes, definitely! I’ve noticed that your interpretation has become more thorough and clear this time around. You’ve really gone deeper into the patterns and trends, and your explanations are more detailed. That’s definitely an improvement! Keep it up, and I’m excited to see how you continue to grow. Let me know if there’s any other area you’d like more feedback on!
+You said:
+“I really want to receive more feedback on two areas. The first area is my code efficiency, because I know that in real life you don't have much time to write your code, and I don't really want to do byte-coding. I want to write my own code, but sometimes I realize that my code is not very efficient, especially at the first part, the cleaning part. I don't know if I can refine it more.”
+00:38
+English Conversational Partner said:
+Absolutely, that makes perfect sense! In terms of code efficiency, we can definitely look at ways to streamline your data cleaning steps. For example, we can use more efficient pandas functions, or vectorized operations, and avoid loops where possible. We can also look at how you handle missing data and see if there are some shortcuts or best practices you can use. We can definitely dive into that more deeply if you'd like!
+You said:
+“Oh yes, talking about finding missing values, I have a question about dropping columns. Because in my dataset, I found that there are a lot of columns that have missing values, and some of them take up around 40% of the column. So I don't know if we have any criteria or standard to decide when you should drop a column when it misses too many columns, like 20% or 10%.”
+00:42
+English Conversational Partner said:
+That’s a great question! Generally, there isn’t a one-size-fits-all rule, but a common practice is to consider dropping columns if they have a high percentage of missing values, like above 30% or 40%. But it also depends on how important that column is for your analysis. If it’s crucial for your insights, you might consider imputing the missing values instead. So it’s really about balancing the data completeness with the importance of the information. We can definitely explore some criteria and strategies that would work best for your dataset!
+You said:
+“Yes, I really thank you for that. I also want to receive more feedback on my interpretation because I haven't finished my business analysis yet. I want to know how to make my interpretation sound more professional and less clunky. Sometimes I feel like my insight is very straightforward but is not suitable to present it in the business conference context. Could you give me some advices on my writing, please?”
+00:48
+English Conversational Partner said:
+Absolutely, I’d love to help with that! One tip is to focus on clarity and context. When you present your insights, try to link them directly to business objectives or potential impacts. Also, using more precise language and avoiding jargon can help keep your interpretation professional. It can also help to include a few actionable recommendations based on your findings. And of course, practice makes perfect, so we can definitely refine your writing step-by-step. Let me know if there’s a particular section you’d like to work on first!
+You said:
+“Thank you for your advice. I really want to start with generating some actionable...”
+00:09
+English Conversational Partner said:
+That sounds great!
+You said:
+“Inside, yeah.”
+00:01
+English Conversational Partner said:
+Perfect! We can definitely focus on crafting those actionable insights and making sure they’re clear and impactful. Whenever you’re ready, we can dive into some examples or go step-by-step through your findings. Just let me know how you’d like to proceed!
+You said:
+“I found that there is a part where I analyzed a correlation between the discount rate and the revenue of the Zins supplement and I think the correlation rate is is not very clear that they affect each other. So I want to draw the insight from this data that the discount rate have nothing to do with the revenue of Zins. So they should try to improve the quality or they can do all the marketing policy instead of using discount rate.”
+00:48
+English Conversational Partner said:
+That’s a really solid insight! You’re absolutely right that if the correlation is weak, it’s important to highlight that the discount rate might not be the key driver of revenue. Emphasizing that point can help guide the business toward focusing on other strategies, like improving product quality or refining marketing tactics. We can definitely refine how you present that in a professional and clear manner, so it’s impactful and actionable. Let me know if you’d like to work on the wording or any specific part of that insight!
+You said:
+“Yes, thank you for that. I really want to delve into that part. I want to make it sound more suitable for business context.”
+00:10
+English Conversational Partner said:
+Absolutely, we can work on that! We can focus on framing it in a way that highlights the strategic implications. For example, you could say something like, "Our analysis indicates that discount rates do not significantly impact revenue for the Zims supplement. Therefore, the business should consider focusing on enhancing product quality and refining marketing strategies to drive growth." We can polish and refine that wording together, and make sure it’s both professional and impactful!
+You said:
+“Yes, thank you for your advice. I wonder if the writing language and the speaking language at this such context will be similar because I'm worried that my speaking language will affect my writing, my interpretation. So, and vice versa, I don't want to sound too formal at the conference. So, what is your recommendation?”
+00:32
+English Conversational Partner said:
+That’s a great point! In a business conference setting, it’s definitely important to strike a balance. You want to be professional, but also clear and approachable. So, a good approach is to use concise, straightforward language without too much jargon. Also, speaking naturally and confidently will help your interpretation come across as authentic and engaging. We can definitely work on making sure your writing and speaking styles align, so that everything feels cohesive and professional. Just let me know whenever you want to practice or refine a particular section!
+You said:
+“Yes, I really want to work on this section. I wonder if the insight and the presentation in my project will be similar to academic writing.”
+00:12
+English Conversational Partner said:
+That’s a really insightful question! In general, academic writing tends to be more formal and detailed, often with a focus on theory and comprehensive literature reviews. On the other hand, business communication is often more concise, focused on actionable insights, and a bit more approachable. But there’s definitely overlap, and you can absolutely blend the two styles. We can work on making sure that your interpretations are both professional and practical, so they fit well into the business context. I’m excited to help you refine that!
+You said:
+“Yes, I really appreciate your explanation. I understand everything and I will try to improve this particular area in the next project. So I will make the changes and then I will send you the update by Friday.”
+00:19
+English Conversational Partner said:
+That sounds fantastic! I’m really glad to hear that, and I’m excited to see how your next project turns out. Feel free to reach out anytime if you need more feedback or just want to brainstorm. Good luck with the revisions, and I look forward to seeing your updates on Friday!
+Top of Form
+
+Bottom of Form

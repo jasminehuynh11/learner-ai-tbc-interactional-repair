@@ -1,0 +1,62 @@
+[
+  {
+    "dialogue_id": "S46_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's unclear reference – 'last day'",
+    "evidence_summary": "The learner's question 'So, what was in the last day?' is unclear. The bot responds by describing the drinks again, which suggests it interpreted the learner's question as a request for more information about the drinks. The conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S46_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      19,
+      20
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's use of an unrecognized term 'MoonCup'",
+    "evidence_summary": "The learner requests a 'MoonCup,' which is not recognized by the bot. The bot assumes the learner meant 'fruit cup' and confirms this without any clarification from the learner. The learner does not correct the bot, leaving the misunderstanding unresolved."
+  },
+  {
+    "dialogue_id": "S46_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      49,
+      50
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner's unclear request – 'change to another dream'",
+    "evidence_summary": "The learner asks to 'change to another dream,' which is likely a mispronunciation or misstatement. The bot interprets this as a request to change the drink order and asks for clarification. The learner then specifies the new order, resolving the issue."
+  },
+  {
+    "dialogue_id": "S46_W1_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      51,
+      52
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's unclear phrase 'eyes not there' without explicit indication of trouble",
+    "evidence_summary": "The learner's phrase 'eyes not there' is unclear and does not explicitly signal trouble. The bot assumes a request for an iced latte, but this does not directly address the learner's unclear reference. The conversation continues without resolving the initial ambiguity."
+  },
+  {
+    "dialogue_id": "S46_W1_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      57,
+      58
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's unclear reference – 'KwaiSong' not recognized by the bot",
+    "evidence_summary": "The learner mentions 'KwaiSong,' which is not recognized by the bot. The bot offers general options for croissants without addressing the specific term 'KwaiSong.' The misunderstanding about 'KwaiSong' remains unresolved."
+  }
+]

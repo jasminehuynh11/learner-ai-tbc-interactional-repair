@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S26_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      27,
+      28,
+      29
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "language switch – learner used non-English phrase",
+    "evidence_summary": "The learner used a non-English phrase in turn 27. The bot misinterpreted this as a positive closing statement in turn 28, indicating a lack of understanding. The learner then abandoned the non-English attempt and switched back to English in turn 29, so the trouble was unresolved and abandoned."
+  }
+]

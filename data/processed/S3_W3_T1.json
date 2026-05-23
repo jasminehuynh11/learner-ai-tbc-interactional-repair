@@ -1,0 +1,205 @@
+{
+  "student_id": 3,
+  "week": 3,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S3_W3_T1",
+  "source_file": "data\\raw\\#03\\#03\\#3. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, excuse me. I think I lost something."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That’s okay, take your time. You’ve come to the right place. We deal with lost items all the time. First, I just need to check — do you believe the item was lost, or do you think it might have been stolen?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Lost. I think lost. But I’m not totally sure."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That’s completely fine. You don’t need to be one hundred percent certain to make a report. We can still record it as lost, and if anything changes later, it can be updated. What item are you missing?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "My backpack. Small one."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, a small backpack. Thank you. Let me enter that. Now, can you tell me when you last clearly remember having it with you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Yesterday. After class."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Yesterday after class — that’s helpful. And after class, do you remember where you went? Even roughly is okay."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Library. Then coffee. Then train. Many places."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That’s okay, that happens a lot. I’ll note multiple possible locations. Now, let’s describe the backpack a bit more so it’s easier to identify if someone hands it in. What colour is it?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Dark blue."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Dark blue, got it. Does it have any logos, patterns, or something attached to it?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes. Keychain. Cartoon face."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s actually very helpful. I’ll include that detail. People often remember keychains more than the bag itself. Now, can you tell me what was inside the backpack?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Laptop. Charger. Notebook. Lunch box."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Okay, laptop, charger, notebook, and a lunch box. Because there’s a laptop inside, it’s especially important that we record this properly. Do you remember the brand or size of the laptop?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Silver one. Medium size. I don’t know brand."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That’s okay — silver and medium size is still useful. Now, have you already contacted any of the places you visited, like the library or café?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Library, yes. They don’t have it. Café, not yet."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright. I recommend checking with the café later today as well. Sometimes items are found a few hours later. Filing this report now is still the right thing to do. Now I’ll need your name and contact details so we can reach you if the backpack is found."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Daniel Lee. Email is better."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Email is absolutely fine. Please spell it out slowly for me so I can enter it correctly."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "D-A-N-I-E-L dot L-E-E at gmail dot com."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Great, thank you. I’ve entered that. Now, just so you know how the process works, if the item is handed in to any police station or transport office, they’ll check the system and contact you using this email."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "I also want to let you know that unfortunately not all lost items are recovered, but backpacks with laptops are often returned, especially if they’re left in public places like libraries or trains."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "If I need proof for university… this report is okay?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Yes, exactly. This report can be used as official proof that you reported the loss, which universities usually accept for things like deadline extensions or replacement cards."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Okay. That helps."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Good. Now, before I finalise everything, I’ll quickly read the details back to you, just to make sure I’ve recorded it correctly. You lost a small dark blue backpack with a cartoon keychain yesterday after class, possibly at the library, a café, or on the train. Inside were a silver laptop, charger, notebook, and lunch box. Does that sound right?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Yes. That’s right."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Perfect. I’m finalising the report now. Here is your report number. Please keep it somewhere safe, as you may need it later."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "I also strongly recommend cancelling or securing any accounts connected to the laptop, just in case, and checking with the café today."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Yes. I will."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Alright. If you remember any new details later — even something small — you can contact us again and update the report."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Okay. Thank you."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "You’re welcome. I hope the backpack turns up soon. Take care."
+    }
+  ]
+}

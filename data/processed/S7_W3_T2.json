@@ -1,0 +1,115 @@
+{
+  "student_id": 7,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S7_W3_T2",
+  "source_file": "data\\raw\\#7\\#7\\#7. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Sure. I’m Officer Patel from the Lost Property Unit — I’m sorry this happened. Can you tell me where and when you last remember having your wallet?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I just realized I lost my wallet. I was staying at the restaurant and I think I left my wallet on the table and I went straight outside. My wallet is a blue wizard with my debit card and my credit card inside. I will choose here about my lost wallet."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, thanks for explaining. Do you remember the name or location of the restaurant where you were eating?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Of course, the restaurant name is DALL, D-A-L-L."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, DALL restaurant. About what time were you there when you think you left the wallet?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Okay, and this morning at 7.30 to 8 o'clock, I think."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Thanks, that helps. Did you pay for your meal with the wallet, or did you use something else?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I used my... I don't know how to express. Word application on my phone."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Ah, you mean a mobile payment app on your phone — that’s clear. Did you notice anyone near your table after you left, or did the restaurant seem quiet?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I think there might be some other people, but I didn't mind. Would I need to fill out some kind of form?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Yes, that’s right. We’ll need you to fill out a lost property report so we can record the details. Could you please tell me your full name for the report?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "My name is Toshiki. My surname is Kayama."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Thank you, Mr. Kayama. Could you also give me a phone number or email so we can contact you if your wallet is found?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "My phone number is 703-669-520. Can I ask you a question? Would I need to show my ID when collecting it? And could you call me if it's found?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Yes, exactly — you’ll need to show some form of ID when collecting it, just to confirm it’s yours. And yes, we’ll call you as soon as we get any information. By the way, do you remember if there was any cash or other personal item in the wallet besides the cards?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "No, there were only my credit card and debit card. That's all."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, that’s noted. We’ll log your report right away and contact DALL restaurant to check their lost-and-found. Do you want us to block or notify your bank about the cards, or have you already done that?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Oh, okay. I'm already done, so don't worry about it."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Good, that’s smart. We’ve got all the details we need then, Mr. Kayama. We’ll contact you if your wallet is handed in. Is there anything else you’d like to ask about the process?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "No, thank you. Thank you for your help."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "You’re very welcome, Mr. Kayama. I hope your wallet turns up soon—take care."
+    }
+  ]
+}

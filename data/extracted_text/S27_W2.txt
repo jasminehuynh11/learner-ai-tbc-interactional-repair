@@ -1,0 +1,76 @@
+Week2
+Task 1: 
+Me: 👨🏻‍⚕️Booking or Changing a medical appointment 🗨️ “Hi, I’d like to make an appointment to see a doctor.”  
+AI: Alright. What’s the reason for your visit today?
+Me: I’ve been having headaches and feeling more tired than usual over the past week.
+AI: Alright, headaches and fatigue for about a week — got it. Have your symptoms been getting worse recently, or staying about the same?
+Me: They’ve gotten a bit worse, actually. The headaches are more frequent now, and I’m feeling even more tired than before. So Is there available tomorrow morning?
+AI: Sure. We do have some openings tomorrow morning — what time works best for you?
+Me: How early could I come in?
+AI: Alright. The earliest slot we have tomorrow is 8:30 a.m. — would that work for you?
+Me: 8:30 is a bit early for me. Would there be any little later time in the morning?
+AI: Sure. We also have 9:15 a.m. and 10:00 a.m. available. Which of those would suit you better?
+Me: Yes, 9:15 a.m. sounds good.
+AI: Alright, I’ll hold 9:15 for you. Could I get your full name for the appointment?
+Me: Charissa, and the first letter is C, not K.
+AI: Got it — Charissa, with a "C". May I also have your surname, please?
+Me: Guo
+AI: Thank you, Ms. Guo. Just to confirm: an appointment for tomorrow at 9:15 a.m. to see a doctor regarding headaches and fatigue. 
+Me: Yep, thanks. Do I need to bring anything? Do I need to bring my Medicare card even if I'm a student visa holder?
+AI: Yes, please bring your Medicare card if you have it. If you don't have it, you can still come. We can talk about other ways to pay.
+Me: I see. And how long is the appointment likely to take?
+AI: Most standard consultations are about 15 to 20 minutes, though it may go a bit longer depending on what the doctor needs to discuss with you.
+Me: That’s good to know. Also, is bulk billing available for students?
+AI: Sometimes, yes. It depends on the doctor and your situation. Some doctors bulk bill students. Others may charge a small fee. Are you a student with a valid Medicare card?
+Me: Yes, I have a Medicare card.
+AI: That’s good! If you have a Medicare card, you may be able to get bulk billing. It depends on the doctor and the type of visit. Did you want a long visit or just a quick check for your headache?
+Me: Just a quick check please.
+AI: Okay, a quick check is fine. For a simple visit like this, bulk billing may be possible. We will check when you arrive.
+Me: Thank you. See you tomorrow.
+AI:You're welcome! Just to make sure — your appointment is tomorrow at 9:15 a.m. Please come about 10 minutes early. Bring your Medicare card if you have it. Anything else I can help you with before you go?
+Me: Could I request a copy of my results after the visit?
+AI: Yes, you can. After your visit, you can ask the doctor or our staff for a copy of your results. Some results may take a day or two. We can print or email them to you. Would you like the results sent by email or printed paper?
+Me: I think printed paper is fine.
+AI: Great, printed paper is no problem. We can give it to you before you leave. Is there anything else you want to know before your appointment?
+Me: No, I think that’s everything for now.
+AI: Okay, thank you. If you have any problems or need to change your booking, just call us. Have a good day, and take care! 
+Me: Thank you! Have a nice day!
+
+Task 2:
+Me: I want to improve my speaking skills. I will need to define the chatbot’s role, such as a bank staff member or a customer service officer. Could you please create a realistic and authentic conversation scenario about visiting a bank and asking for help with banking services, and respond as if it were a real conversation?
+Me: Hi, I’d like to open a new savings account.
+AI: Good morning! I'd be happy to assist you with that. Do you already have an account with us, or would this be your first one?
+Me: This will be my first account with your bank. I'm a student, and I’d like to start saving while I study.
+AI: Wonderful, thank you for letting me know. For students, we have a special Student Savings Account which has no monthly fees and gives you easy access to your funds. It also includes free online and mobile banking. Would you like to learn more about this option?
+Me: Yes, please. Is this account only for full-time students? And could I set up online banking at the same time?
+AI: Great questions. The Student Savings Account is available to both full-time and part-time students. And you can set up online banking during your appointment today. We'll help you register and show you how to use our app.
+Me: That’s good to know. What kind of documents do I need to bring along?
+AI: To open the account, we’ll need a form of photo ID — such as a passport or driver’s licence — and proof of your current address, like a recent utility bill or student accommodation letter. If you're under 18, we may also require a parent or guardian to co-sign.
+Me: Thanks. Just to confirm — do I need proof of enrollment as well? And is it okay if I don’t have a job?
+AI: Yes, proof of enrollment helps us verify your student status, so it's best to bring that too. And don’t worry — you don’t need to be employed to open this type of account. There are no income requirements for the Student Savings Account.
+Me: Great! Could I make an appointment, or could I come in anytime today?
+AI: We do accept walk-ins, but it's best to book an appointment to ensure we have enough time to help you fully. Would this afternoon work for you?
+Me: Yes, 2:30 works for me.
+AI: Excellent. I’ll go ahead and book you in for 2:30 p.m. this afternoon at our main branch.
+Me: Yes please, and could I ask what should I do if I forget my password when setting up online banking?
+AI: That's a good question. During the setup, we’ll guide you step-by-step, and you’ll choose a secure password that you’ll record in your welcome pack. We’ll explain all the recovery options during your appointment.
+Me: That’s helpful. Thanks for being so thorough.
+AI: You’re most welcome! We’ll see you at 2:30 this afternoon. Please let us know if anything changes.
+Me: All right, thanks again. See you!
+
+Task 3: 
+Me: I want to practise asking follow-up questions and clarifying details in a housing enquiry. You are a real estate agent in a rental agency office. I’ll play the role of a prospective tenant. Please create a realistic and authentic conversation about attending a rental inspection and following up on an application. Respond as if this were a real conversation. Please ask questions, offer options, provide feedback, clarify, keep the conversation going, and help me develop a confident, fluent interaction.
+Me: Hi, I’m interested in the two-bedroom unit on Main Street. Is it still available?
+AI: Good morning! Yes, the two-bedroom unit on Main Street is still available. It’s a ground-floor apartment near the train station. Have you had a chance to view it yet?
+Me: Not yet. Are there any inspection times this weekend?
+AI: Yes, we have an open inspection on Saturday from 10:00 to 10:30 a.m., and another on Sunday at 2:00 p.m. Would you like to attend either?
+Me: Saturday at 10 a.m. works for me. May I ask a question, are pets allowed?
+AI: Unfortunately, pets aren't permitted in this building — it's covered by strict body corporate rules. But we do have other listings that are pet-friendly if you're interested.
+Me: I see. I’ll attend the inspection on Saturday. Also, I’m also interested in another unit — could I apply for both?
+AI: Yes, you can apply for multiple properties. Each application is considered separately, so it’s a good idea if you're deciding between options. We’ll assess them based on your documents and availability.
+Me: Great. What documents do I need to include with my application?
+AI: You’ll need photo ID, proof of income — such as payslips or Centrelink letters — and rental references. If you don’t have rental history in Australia, we can accept character references, such as from an employer or university lecturer.
+Me : I understand. How long does it take to hear back?
+AI: Usually within 48 to 72 hours. If we receive multiple applications, it may take a little longer. We’ll notify you by email with the result.
+Me: Thank you for the information. 
+AI: You're very welcome. Feel free to reach out with any other questions. Have a great day, and see you on Saturday!

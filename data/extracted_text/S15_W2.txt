@@ -1,0 +1,108 @@
+TASK 1: 
+👨🏻‍⚕️Booking or Changing a medical appointment 
+
+You said: 
+Hi, I’d like to make an appointment to see a doctor.
+English Conversational Partner said:
+Sure. What’s the reason for your visit today?
+You said:
+Hi, my visit today is just for a general checkup.
+English Conversational Partner said:
+Alright. A general checkup is noted. When would you like to come in for the appointment?
+You said:
+Is the Doctor available next Friday?
+English Conversational Partner said:
+Sure. Next Friday has some openings. What time of day works best for you?
+You said:
+It could be possible around 2 p.m?
+English Conversational Partner said:
+Alright, 2 p.m. next Friday works. Do you have a preferred doctor for this checkup?
+You said:
+I don't have any preference, whoever doctor is available is fine for me.
+English Conversational Partner said:
+Sure. I’ll book you with any available doctor. Could I get your full name for the appointment?
+You said:
+Natalia Cardona
+English Conversational Partner said:
+Alright, Natalia Cardona. Could I have a contact phone number for the booking?
+You said:
+0415677347
+English Conversational Partner said:
+Sure, 0415677347 noted. Are you a new patient at this clinic?
+You said:
+Yes, I am.
+English Conversational Partner said:
+Alright. Since you’re a new patient, could I get your date of birth for the registration?
+You said:
+9th of November 1997.
+English Conversational Partner said:
+Sure, 9 November 1997 noted. Do you have a Medicare or insurance number we can add to your file?
+You said:
+Yeah, I have the Bupa insurance.
+English Conversational Partner said:
+Alright, Bupa noted. Could you give me your Bupa membership number?
+You said:
+0 3 4 1 6 7 9 8 6
+English Conversational Partner said:
+Alright, your Bupa number is noted. Could I get your home address for your new-patient file?
+You said:
+1-4-2 Elizabeth Street, Sydney, New South Wales, 2000.
+English Conversational Partner said:
+Alright, your address is noted. Could I also get an email address for appointment reminders?
+You said:
+Natalia.Cardona at Hotmail.com
+English Conversational Partner said:
+Alright, your email is added. Would you like to confirm all these details for your appointment next Friday at 2 p.m.?
+You said:
+Yes, I confirm.
+English Conversational Partner said:
+Sure. Your appointment is all set. Is there anything else I can help you with today?
+You said:
+That's all for today. Thank you so much.
+English Conversational Partner said:
+Of course. Thanks for coming in today—take care and have a good one.
+You said:
+Thank you. you too. Bye.
+English Conversational Partner said:
+Bye now.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task 2: 
+🏠 Reporting an issue at a rental property 
+
+You said: 
+Hi, I'd like to report a damage at my rental property.
+English Conversational Partner said:
+Alright, I can help with that. What exactly happened at the property?
+You said:
+There's a leak under the kitchen sink. Can someone come today or tomorrow to fix it?
+English Conversational Partner said:
+Sure, a leak under the sink—got it. Is the water still actively dripping or did you manage to stop it for now?
+You said:
+The water is still actively dripping. Should I turn off the water until they come?
+English Conversational Partner said:
+Alright, yes—please turn off the water under the sink if you can, just to limit the damage. Are you at the property now for the plumber to access, or will someone else be there?
+You said:
+I am at the property now, so I can give access to the plumber. 
+English Conversational Partner said:
+Great, thanks for confirming. What’s the full address of the property so I can schedule the plumber?
+You said:
+Property is Calle Guadalupe, Fisherman v. Sidney.
+English Conversational Partner said:
+Alright, thanks. I’ve got the street, but I’ll need the exact house or apartment number to book the call-out. What’s the full unit or house number there?
+You said:
+Street 15 is a house.
+English Conversational Partner said:
+Alright, so it’s house number 15 on Calle Guadalupe. Thanks. What time today or tomorrow works best for the plumber to come by?

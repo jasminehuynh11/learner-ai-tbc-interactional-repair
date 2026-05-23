@@ -1,0 +1,165 @@
+{
+  "student_id": 39,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S39_W2_T1",
+  "source_file": "data\\raw\\#39\\#39\\#39. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I want to practise calling a clinic to make a medical appointment. You are the receptionist at a medical clinic in Australia. I'll be the patient. Please respond as if this were a real conversation. Help me schedule a check-up appointment, ask questions about my symptoms and preferred date and time, and give me options for available times and doctors. Ask follow-up questions if I seem confused. Be polite and clear about the issue. If my phrase worong, I want you to correct it."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure, thanks for calling the clinic. What’s the reason for your check-up today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to make an appointment tomorrow to see a doctor.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, we can help with that. May I ask what time tomorrow works best for you, and do you have a preferred doctor or any specific symptoms you’d like to discuss?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I've had a stuffy nose and cough for a few days.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I'm sorry to hear that. Thanks for letting me know. In that case, would you prefer a morning or an afternoon appointment tomorrow? And I can let you know which doctors are available."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“It is better in morning.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, that sounds good. Let me check our availability for tomorrow morning. Would you prefer to see a general practitioner or a specific specialist?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I need a medical certificate for work.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. We can definitely arrange that. In that case, let me find a suitable time and doctor for you. Would you like an appointment with Dr. Smith or Dr. Jones, or is there another preference?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Who will I be seeing?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure! We have Dr. Smith available at 9 AM and Dr. Jones at  tomorrow. Which one would you prefer, or does either time work better for you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Dr. Smith.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great choice! I’ve scheduled you with Dr. Smith tomorrow at 9 AM. Is there anything else you’d like to know or any other details you need for your appointment?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Do I need to bring my Medicare card?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Please bring your Medicare card along with any relevant medical records. That’ll help us streamline the appointment. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“How long is an appointment likely to take.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "It usually takes about 20 to 30 minutes for a routine check-up, but it can vary depending on the consultation. If you have any specific concerns, we can allocate extra time as needed. Does that sound good to you?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“I'd like to confirm my appointment for tomorrow.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely! I’ve got you confirmed for tomorrow at 9 AM with Dr. Smith. If anything comes up or you have any questions before then, feel free to give us a call. We look forward to seeing you!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Would I need a follow-up appointment after this?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "It might depend on what we find during your check-up, but we can definitely arrange a follow-up if needed. We’ll let you know after your appointment. If you have any specific concerns or questions, just let us know, and we’ll plan accordingly."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Do you offer translators or language support for appointments?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do provide language support and can arrange for a translator if needed. Just let us know in advance, and we’ll make sure everything is set up for you."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Are there any telehealth options if I can't come in person?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, we do offer telehealth options as well. If you’re unable to come in person, we can arrange a virtual appointment. Just let us know, and we’ll set everything up for you."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I want to take telehealth options tomorrow.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "No problem at all! I’ll go ahead and arrange a telehealth appointment for you tomorrow at 9 AM with Dr. Smith. We’ll send you the link and instructions beforehand. If you need anything else, just let us know!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Thanks, I'll see you at 9am tomorrow.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re very welcome! We’ll see you tomorrow at 9 AM for your telehealth appointment. If you have any other questions in the meantime, just let us know. Have a great day! Voice chat ended"
+    }
+  ]
+}

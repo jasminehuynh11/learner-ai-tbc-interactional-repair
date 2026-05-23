@@ -1,0 +1,420 @@
+{
+  "student_id": 34,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S34_W3_T2",
+  "source_file": "data\\raw\\#34\\#34\\#34. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I will practice how to report a lost item for field and minor police report. You are a police officer working in a police city. He is professional and blunt. I'll play the role of a people who something lost. Please create a realistic police scenario and respond as if we are really there. Start with a simple report and try more details in collection by asking about recovery steps, documentation, or how to follow up. Keep the conversation going naturally by asking at least three or four questions.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Understood. Let's get started. So, what item have you lost, and where and when did you lose it?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Here is a police station.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, understood. So, inside the station, can you tell me exactly what item you lost and the circumstances around it? When did it go missing?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Sorry, can I restart?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course, no problem at all. Go ahead and take your time. Whenever you’re ready, just let me know the details of the lost item."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Hi.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "No worries at all."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Is this the police station?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Yes, that’s correct, you’re at the police station. Whenever you're ready, just let me know what item you lost and any details about when and where it went missing."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I'd like to make a conversation with you, so please answer my greeting.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, I’m here to help. Feel free to start whenever you’re ready, and I’ll respond accordingly. Let’s go ahead and get started."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Let's start.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, let’s do"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Hi.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Hello! How can I assist you today? What item are you looking to report as lost?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“No, no, no.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "No problem at all. Whenever"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“You don't need to say lost item.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Got it, understood."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I will mention after that, after reading.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sounds good! Take your time, and whenever you’re ready, just let me know, and we’ll go from there."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, let's restart. Hello!”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Hello! Great to hear from you. Whenever you’re ready, just let me know what you need, and we’ll get started."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Hello Policeman”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Hello! How can I help you today? Feel free to let me know what you need, and we’ll go from there."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I have just realized I lost my phone.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. Could you tell me when and where you last had your phone?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“I sold my phone before I got off the train. I was at the train station, and I realized I lost my phone.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "I see, that’s definitely frustrating. Could you let me know which train station you were at and roughly what time you realized it was missing?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“It was 12.45 at Gadigal Station.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Got it, thank you for that detail. Now, can you describe the phone for me? For example, the model, color, and any distinguishing features?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“My phone is an iPhone 17. It's red.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Thank you for that information."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“And I use the Kerber.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Alright, noted. Could you also let me know if there were any specific markings on the cover, or if there’s anything else unique about the phone that might help us identify it?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“The cover color is yellow, but, uh...”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Got it, a yellow cover. That definitely helps. Is there anything else you’d like to add, such as any specific apps or personal information on the phone that might help us in the recovery?"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“My cover is yellow, but it is clear, clear yellow, so I can look through my phone from outside of cover.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "That’s really helpful,"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“So, my phone is red, and outside is a bit yellow, but it's clear.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Exactly, that makes it easier to identify. Thanks for clarifying. Now, do you have any details about whether you’ve contacted the station or if you’ve checked with any lost and found services there?"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Could you repeat the previous?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Of course, I’ll repeat that for you. So, your phone is red, and it has a clear yellow cover, which means the phone itself is visible through that cover. Let me know if there’s anything else you’d like to add or if you have any other questions."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“In addition, my phone has old-schooling paper which is flowers such as red rose and white rose.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "That’s a great detail, thank you. So, your phone has a wallpaper featuring red and white roses as well. That definitely helps in identifying it. Is there anything else you’d like to add, or any other questions you have about the next steps?"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“My opal curls sit back of my phone.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Got it, that’s really helpful to know. The OPPO logo on the back is definitely another distinguishing feature. If you have any other details or need guidance on the next steps, just let me know."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“That's all.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Alright, that’s perfect. Thank you for providing all those details. We’ll make sure to document everything and help you with the next steps. If you have any more questions or need further assistance, just let me know."
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“What happens if Samara finds it?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "If someone finds it, they can either turn it in to the lost and found at the station, or contact us directly with the details. We’ll keep you updated on any developments and let you know how to follow up. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Can I leave my contact details?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely, that would be very helpful. Please go ahead and share your contact details, and we’ll make sure to keep you informed as soon as we have any updates."
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“I have another mobile phone, so this chat number is blah blah blah.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Perfect, thank you for"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Also, my email is blahblahblah.com.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Great, that’s all noted down. We’ll make sure to reach out to you if we get any updates. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Do I need to fill out a form?”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Absolutely, I can help you with that. I’ll get the form ready for you, and we’ll make sure all the details are captured accurately. Just let me know when you’re ready to proceed."
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Yes, please proceed.”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Alright, I’ll get that form prepared for you right away. Once we have everything filled out, we’ll make sure you have a copy and keep you updated. Just let me know if you have any other questions in the meantime."
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Do I need to show ID when I collect it?”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Yes, typically you’ll need to provide some form of identification when you come to collect it, just to verify your identity. We’ll let you know all the details when the phone is found. If you have any other concerns, just let me know!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "What kind of ID can I use”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "You can usually use a government-issued ID, like a driver’s license or a passport. Sometimes, even a state ID card works as well. We’ll let you know the exact requirements once we have the phone ready."
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“Can you please call me if it's found?”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. Once we have any updates or if the phone is found, we’ll give you a call right away. Just keep your phone on hand, and we’ll stay in touch."
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“How long do you keep lost archives on file?”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Typically, we keep lost items on file for about 30 to 60 days, depending on the item and local policies. If it’s not claimed within that period, we usually follow a specific procedure for disposal or donation. But we’ll definitely keep you informed along the way."
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“Is there a lost property website I can check?”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Yes, absolutely. We do have a lost property website where you can check the status of your item. I can provide you with the link and any additional instructions so you can keep an eye on it as well."
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“Can you please send my email about the link?”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "Of course, I’ll make sure to send that link to your email right away. If you need any further assistance, just let me know, and I’ll be happy to help."
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“If my phone found another Steve, what should I do next?”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "If your phone is found in another city, we’ll coordinate with the local authorities or the relevant station there to arrange its return. We’ll keep you updated on the process and let you know if any additional steps are needed from your side. Just stay in touch, and we’ll make it as smooth as possible."
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "“Thanks for explaining everything.”"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions or need anything else, just let me know."
+    },
+    {
+      "turn": 79,
+      "speaker": "learner",
+      "text": "“Now that's all, thank you.”"
+    },
+    {
+      "turn": 80,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything in the future, just reach out. Have a great day!"
+    },
+    {
+      "turn": 81,
+      "speaker": "learner",
+      "text": "“Thank you. Bye.”"
+    },
+    {
+      "turn": 82,
+      "speaker": "bot",
+      "text": "You’re welcome! Take care, and goodbye for now!"
+    }
+  ]
+}

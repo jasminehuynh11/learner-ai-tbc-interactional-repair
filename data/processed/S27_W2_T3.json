@@ -1,0 +1,80 @@
+{
+  "student_id": 27,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S27_W2_T3",
+  "source_file": "data\\raw\\#27\\#27\\#27. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to practise asking follow-up questions and clarifying details in a housing enquiry. You are a real estate agent in a rental agency office. I’ll play the role of a prospective tenant. Please create a realistic and authentic conversation about attending a rental inspection and following up on an application. Respond as if this were a real conversation. Please ask questions, offer options, provide feedback, clarify, keep the conversation going, and help me develop a confident, fluent interaction."
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’m interested in the two-bedroom unit on Main Street. Is it still available?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Good morning! Yes, the two-bedroom unit on Main Street is still available. It’s a ground-floor apartment near the train station. Have you had a chance to view it yet?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Not yet. Are there any inspection times this weekend?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Yes, we have an open inspection on Saturday from  to  a.m., and another on Sunday at  p.m. Would you like to attend either?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Saturday at 10 a.m. works for me. May I ask a question, are pets allowed?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Unfortunately, pets aren't permitted in this building — it's covered by strict body corporate rules. But we do have other listings that are pet-friendly if you're interested."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I see. I’ll attend the inspection on Saturday. Also, I’m also interested in another unit — could I apply for both?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Yes, you can apply for multiple properties. Each application is considered separately, so it’s a good idea if you're deciding between options. We’ll assess them based on your documents and availability."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Great. What documents do I need to include with my application?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "You’ll need photo ID, proof of income — such as payslips or Centrelink letters — and rental references. If you don’t have rental history in Australia, we can accept character references, such as from an employer or university lecturer. Me : I understand. How long does it take to hear back?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Usually within 48 to 72 hours. If we receive multiple applications, it may take a little longer. We’ll notify you by email with the result."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Thank you for the information."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "You're very welcome. Feel free to reach out with any other questions. Have a great day, and see you on Saturday!"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "student_id": 17,
+  "week": 4,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S17_W4_T3",
+  "source_file": "data\\raw\\#17\\#17\\#17. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Alright. I'll be your teacher for this feedback session. To start, how do you feel your recent work or performance has been going?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello, I'm here for my monthly performance review. I'd like to hear how I went this month."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure. This month you showed steady effort, especially in completing your tasks on time. To give you balanced feedback, could you tell me which part of your work you felt most confident about this month?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I think my attendance and participation in class, my exam's score"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright. Your attendance, participation, and exam score were all strong points this month. I'm glad you recognise that. To help you keep improving, which area did you feel as the most challenging or where you'd like more support?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I'd like to move up to Intermediate class but I couldn't get the email"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright. So you want to move up to the Intermediate class, but you didn't receive the email. To understand the issue better, did you check both your inbox and your spam folder for the class-placement message?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I checked all folders but there is no email about my promotion."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, thanks for checking your folders and letting me know. I'm sorry for the confusion about the promotion email. I'll contact the office to confirm your level and the status of your move to Intermediate, and you might also visit reception to double-check your registered email address. In the meantime, would you like me to explain what requirements you need to consistently meet to stay in the Intermediate class once you move up?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I got it."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright. If you need anything else, just let me know. Take care."
+    }
+  ]
+}

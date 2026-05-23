@@ -1,0 +1,306 @@
+Week 2
+	: 
+Task 1: 
+
+👨🏻‍⚕️Booking or Changing a medical appointment 🗨️ 
+
+Dijiste:
+“Hi, I’d like to make an appointment to see a doctor.”
+English Conversational Partner dijo:
+Of course. What’s the reason for your visit today?
+Dijiste:
+Hi, my name is Pamela, and I want to make an appointment with the doctor, because I've had a sore throat and cough for a few days. And cough for a few days.
+English Conversational Partner dijo:
+Alright, Pamela. Sorry you’re not feeling well. How long exactly have you had these symptoms?
+Dijiste:
+Maybe 5 or 7 days.
+English Conversational Partner dijo:
+Got it. Have you had any fever or other symptoms besides the sore throat and cough?
+Dijiste:
+Yes, I have a pain in my nose too.
+English Conversational Partner dijo:
+Okay, thanks for letting me know. Would you prefer to see a male or female doctor for your appointment?
+Dijiste:
+For me, it's okay, whatever. It's not a problem for me.
+English Conversational Partner dijo:
+Alright. Do you have a preferred day or time for the appointment?
+Dijiste:
+Do you have appointment on Saturday?
+English Conversational Partner dijo:
+Let me check—yes, we do have Saturday slots. Would you prefer morning or afternoon?
+Dijiste:
+I prefer morning, please.
+English Conversational Partner dijo:
+Sure thing. We have openings at 9:30 a.m. and 11:00 a.m.—which time works better for you?
+Dijiste:
+At 9.30, it's OK, please.
+English Conversational Partner dijo:
+Perfect. Can I confirm your phone number, Pamela, in case we need to reach you about your appointment?
+Dijiste:
+Yeah, for sure, it's 06-412-5152-63. And do I need to bring my Medicare card?
+English Conversational Partner dijo:
+Thanks, I’ve noted your number. Yes, please bring your Medicare card and a photo ID when you come in. Would you like me to send you a text reminder for your appointment?
+Dijiste:
+Yes, please. It will be fine. How long is the appointment likely to take?
+English Conversational Partner dijo:
+Usually about 15 to 20 minutes, depending on what the doctor needs to check. Will this be your first visit to our clinic, Pamela?
+Dijiste:
+This is my first visit, so do I need to bring something else with me?
+English Conversational Partner dijo:
+Good question. Just your Medicare card, photo ID, and any medications you’re currently taking. Do you have any allergies to medicines that the doctor should know about?
+Dijiste:
+Not really, I'm not allergic to medicines, so it's okay.
+English Conversational Partner dijo:
+Alright, that’s good to know. You’re all set for Saturday at 9:30 a.m. Would you like directions to the clinic as well?
+Dijiste:
+Yes, please. And do you have parking for patients?
+English Conversational Partner dijo:
+Yes, we do—there’s free parking just behind the clinic. We’re located at 25 Greenfield Road, right next to the pharmacy. Will you be driving yourself here?
+Dijiste:
+Yes, of course, and what is the name of my doctor?
+English Conversational Partner dijo:
+Your appointment will be with Dr. Sarah Collins, one of our general practitioners. Would you like me to note if you prefer to see her again in the future?
+Dijiste:
+I want to know how I feel in the appointment, so after that I will tell you if I want to see her again in the future.
+English Conversational Partner dijo:
+That sounds perfectly fine, Pamela. You can decide after your visit. Is there anything else you’d like to ask about your appointment?
+Dijiste:
+Yeah, I have another question. In fact, do you think that I need a plot test for this type of appointment?
+English Conversational Partner dijo:
+Just to be sure—did you mean a swab test or blood test?
+Dijiste:
+Yeah, yeah, you're right. Swap test.
+English Conversational Partner dijo:
+Got it! For a sore throat and cough, the doctor might do a throat swab if she suspects an infection, but it depends on what she finds during the exam. Have you taken any medicine so far for your symptoms?
+Dijiste:
+Yeah, for relief my pain, three days ago I went to chemist, and they give me demazine. There are tablets, two days tablets during the day and two tablets during the night.
+English Conversational Partner dijo:
+Alright, thanks for explaining. Has the Demazine helped at all with your sore throat or cough?
+Dijiste:
+No, not really. That's the reason that I prefer go to the doctor.
+English Conversational Partner dijo:
+Makes sense, Pamela. It’s best to have it checked properly. Just to confirm—are you still coughing a lot, or has it gotten a bit better?
+Dijiste:
+Yeah, a little bit. I can say that my cough has gotten a bit better.
+English Conversational Partner dijo:
+That’s good to hear. Since you’re improving slightly, the doctor will likely check your throat and chest to see if you need any extra treatment. Is there anything else you’d like to ask before your visit on Saturday?
+Dijiste:
+Is bulk billing available for students?And do you offer a kind of language support for appointments? Or can I bring a person with me, a friend, that can help me with the translation?
+English Conversational Partner dijo:
+Yes, we do bulk bill students if they have a valid Medicare card, so you’ll be covered. And sure—you can bring a friend to help with translation, that’s no problem at all. Would you like me to note that in your booking?
+Dijiste:
+Yes, please. It will be fine. And the other thing, the book bill, it's fantastic. Thank you very much.
+English Conversational Partner dijo:
+You’re very welcome, Pamela. I’ve added the note about your friend and confirmed bulk billing for you. See you on Saturday at 9:30 a.m.—take care until then!
+Dijiste:
+Thank you, see you, bye.
+English Conversational Partner dijo:
+You’re welcome, Pamela. See you on Saturday—take care and feel better soon. Bye!
+
+____________
+
+Task 2: 
+
+Now we are going to change, let's practice if we are like in a bank and I want to open a bank account.
+English Conversational Partner dijo:
+Sure! Is this bank account for personal use or for your business?
+Dijiste:
+It's for personal use, and I have a question. What type of accounts are available for students?
+English Conversational Partner dijo:
+Alright. For students, we usually offer two main types: a student everyday account with no monthly fees, and a student savings account with higher interest. Are you looking mainly for daily use, like payments and transfers, or more for saving money?
+Dijiste:
+I'm interested in daily use, like payments and transfers.
+English Conversational Partner dijo:
+Got it. The student everyday account would be best then—it includes a debit card, online banking, and no account-keeping fees. Are you currently studying in Australia or overseas?
+Dijiste:
+Yeah, I'm a student in Australia, so I need to have a bank account.
+English Conversational Partner dijo:
+Perfect. Do you already have any form of ID here, like your passport or student ID, to open the account?
+Dijiste:
+Yeah, I wrote my passport and my student ID.Do I need something else? Do I need to make an appointment?
+English Conversational Partner dijo:
+That’s great—you’ve got the main documents. You don’t need an appointment; you can just walk in. But if you prefer, we can book a time to make it quicker. Would you like to book an appointment anyway?
+Dijiste:
+No, no, it's fine. I can wait.Do I need another document or just my student ID and my passport?
+English Conversational Partner dijo:
+Those two are usually enough, but it’s helpful if you also bring proof of your address, like a rental agreement or a recent bill. Do you already have an Australian address to use for the account?
+Dijiste:
+Yeah, of course I have an Australian address, but unfortunately I didn't bring proof of my address.
+English Conversational Partner dijo:
+That’s okay. You can still start the process today—we’ll just need you to email or bring the proof later to finish setting up the account. Do you want your debit card sent to your address or picked up at the branch?
+Dijiste:
+I prefer that you send to my address, because the bank is a little far from my house. So, please, can you send the debit card to my address?
+English Conversational Partner dijo:
+Sure, we can do that. It usually arrives within 5–7 business days. Would you like to set up online banking access at the same time?
+Dijiste:
+Yeah, set up online banking, it could be fine. Do I need my cell phone for the set up online?
+English Conversational Partner dijo:
+Yes, you’ll need your phone to verify your identity and get a security code during setup. Do you already have an Australian phone number registered in your name?
+Dijiste:
+Yes, yesterday I went to the telephonic company. So, now I have...
+English Conversational Partner dijo:
+Perfect! Then you’ll be able to link your number easily. Would you like to receive bank alerts and account updates by text message or only by email?
+Dijiste:
+Yeah, by text message it will be ok.
+English Conversational Partner dijo:
+Alright, I’ll note that. Just one last thing—would you like your account to include an overdraft option, or do you prefer to spend only the money you have available?
+Dijiste:
+What is the meaning of the overdrive option?
+English Conversational Partner dijo:
+Good question! An overdraft means the bank lets you spend a bit more than what’s in your account—like a small loan—if you run out of money. You’d pay it back later with some interest. Would you like that option, or prefer to keep it simple with no overdraft?
+Dijiste:
+Oh, sounds very, very interesting, but no, thank you. I prefer just spend only the money that I have in my account.
+English Conversational Partner dijo:
+Sure, that’s a safe choice. Everything’s ready then—you’ll get your debit card by mail and your online banking access today. Would you like me to explain how to activate your card when it arrives?
+Dijiste:
+Yes, please
+English Conversational Partner dijo:
+Alright. When your debit card arrives, just log in to your online banking app or website, enter the last four digits of your card, and follow the steps to create your PIN. It only takes a minute. Do you want me to explain how to use the card for payments, too?
+Dijiste:
+No, that's not necessary. I have friends and I have seen how they use their accounts. But if in the future I have a question, maybe can I come here and ask you? Right?
+English Conversational Partner dijo:
+Of course, absolutely! You can come anytime or call us if you have questions. We’re always happy to help. Anything else you’d like to check before we finish opening your account today?
+Dijiste:
+Yeah, one more question. Is there a monthly fee for this account?
+English Conversational Partner dijo:
+Good question. No, there’s no monthly fee for student accounts—as long as you’re enrolled as a student, it stays free. Would you like me to email you the full account details and conditions?
+Dijiste:
+Yay, that's a good idea. And maybe when I receive the email, I have more time to read about the conditions. But until here, you are being so clear and so kind. Your explanation, it'll help me a lot.
+I mean, so far everything has been clear.
+English Conversational Partner dijo:
+That’s really nice to hear, thank you, Pamela. I’m glad it’s all clear for you. I’ll send that email with your account details today. Is there anything else you’d like to ask before you head off?
+Dijiste:
+No, thank you. That's all.
+English Conversational Partner dijo:
+You’re very welcome, Pamela. Have a great day, and good luck with your studies!
+Dijiste:
+Thank you. You are so kind. I hope that if I come back in one or three months, if I have a question, I can be more clear with my English. Thank you.
+English Conversational Partner dijo:
+That’s such a lovely goal, Pamela! Your English is already very good—and you’re getting clearer every time you speak. I’ll be happy to talk with you again anytime. Take care and see you soon!
+Dijiste:
+Thank you so much, take care, and see you soon.
+English Conversational Partner dijo:
+You’re very welcome, Pamela. Take care and see you soon! 🌷
+_______________________
+
+Task 3: 
+
+Let´s change the scenario, is the first time that we meet each other, and you are a pr a property and I´m Interested in
+English Conversational Partner dijo:
+Sure! Just to clarify — do you mean I’m a real estate agent showing you a property you’re interested in?
+Dijiste:
+yes
+English Conversational Partner dijo:
+Great! Welcome. Are you looking to rent or buy a property today?
+Dijiste:
+Hi! I´m interested in rent a property, whats your name?
+English Conversational Partner dijo:
+Hi there! I’m Daniel, one of the agents here. Nice to meet you. What kind of property are you hoping to rent — an apartment, a house, or maybe a studio?
+Dijiste:
+An apartment , I´m interested in the two- bedroom unit on Swanston street. Can you help me? I'm here with my sister and we are very interested in that property.
+English Conversational Partner dijo:
+Of course, I can help with that! The two-bedroom on Swanston Street is a great choice. Can I ask when you’d like to move in?
+Dijiste:
+The next week will be fine. We were living in a suburb and it's a little far from the school and we are interested in the two-bedroom on Swanson Street because it's near from the school, but we don't know anything about that kind of things.
+English Conversational Partner dijo:
+I understand, that makes sense. Moving closer to school will make life much easier. No worries—I’ll guide you through everything. First, can I ask your budget range per week for the rent?
+Dijiste:
+We consider that 200 or 300 per week will be fine.
+English Conversational Partner dijo:
+Alright, that helps. The Swanston Street apartment is around $280 per week, so it fits your range nicely. Would you like to book an inspection to see the property in person?
+Dijiste:
+Yeah, for sure. When we can arrive? When can we arrange the appointment?
+English Conversational Partner dijo:
+Perfect! We have viewing times on Friday at 4:30 p.m. and Saturday at 11:00 a.m. Which time works better for you and your sister?
+Dijiste:
+I prefer Saturday at 11am because that day we are free. Do I need to bring some documents to the appointment? How much is the bond? And how long does it take to... ...to the appointment?
+English Conversational Partner dijo:
+Good questions! The appointment usually takes about 20–30 minutes, just to look around and ask anything you like. You don’t need documents for the inspection—only later if you decide to apply. The bond is usually four weeks’ rent, so around $1,120 for this unit. Would you like me to pencil you in for Saturday at 11 a.m.?
+Dijiste:
+Yes, please. And if after the inspection I decide to apply, how long does it take to her back?What could make me a good candidate for this application?
+English Conversational Partner dijo:
+Great questions. After you apply, it usually takes 2–3 business days to hear back. To be a strong candidate, it helps to show proof of income, references (like from a previous landlord or teacher), and that you can pay rent on time. Would you and your sister both be on the lease?
+Dijiste:
+Ah, that sounds fantastic. Yeah, we will be on the list.
+English Conversational Partner dijo:
+Perfect, that makes it simple. I’ll note both of your names on the inspection list. Do you already have any proof of income or employment here in Australia, or are you both studying full-time?
+Dijiste:
+Yeah, both of us, we are studying full-time, but we have a proof of income from our country that will be helpful?
+English Conversational Partner dijo:
+Yes, that can help, especially if it’s recent and shows your financial support. You can also include your student enrollment letters to strengthen your application. Would you like me to send you the rental application form by email before the inspection?
+Dijiste:
+Yes, please. I said about a proof of income from our country because we create a startup in our country, so that business help us to stay here. Yeah, that's it.
+English Conversational Partner dijo:
+That’s great, congratulations on your startup! That definitely supports your application—it shows stable income and responsibility. Could you please give me your email address so I can send the application form and property details?
+Dijiste:
+Yeah, for sure, it's SP-WY-AROBA-GMAIL.COM
+English Conversational Partner dijo:
+Thanks, I’ll send the details to that address today. Just to confirm, will both of you need furnished or unfurnished accommodation?
+Dijiste:
+Indefinitely furnished, please, because we don't have furnitures in here, so it will be helpful if we can have the apartment furnished.
+English Conversational Partner dijo:
+Got it, furnished it is—that’ll make your move much easier. The Swanston Street unit does come furnished with basic items like beds, a sofa, and kitchen essentials. Would you like me to include some photos of the furniture in the email as well?
+Dijiste:
+Yes, please!
+English Conversational Partner dijo:
+Perfect! I’ll add the photos and full property details to your email. Before we finish, can I just confirm your current suburb so I can include directions to the inspection?
+Dijiste:
+Yes, it's Footscray 108. Can you repeat me if do I pay the bond before seeing the lease?
+English Conversational Partner dijo:
+Good question! No, you never pay the bond before seeing or signing the lease. You only pay after your application is approved and you’ve reviewed and signed the rental agreement. Would you like me to explain what’s usually included in that lease?
+Dijiste:
+Yes, yes, yes, it could be nice.
+English Conversational Partner dijo:
+Alright! The lease usually includes:
+The rental amount and payment dates,
+
+The bond amount,
+
+The length of the agreement (often 6 or 12 months),
+
+The rules for the property (like pets or smoking), and
+
+The maintenance responsibilities for both tenant and owner.
+
+Would you prefer a 6-month lease to start or a 12-month one?
+Dijiste:
+Okay, I can see. So, at the end, for this first payment, how much is it? And I prefer six months list, please.
+English Conversational Partner dijo:
+Perfect, a six-month lease it is. For the first payment, you’ll usually pay two weeks’ rent in advance plus the four-week bond. So, for this unit at $280 per week, it would be $560 + $1,120 = $1,680 in total. Would you like me to include a breakdown of those costs in the email too?
+Dijiste:
+Yes, please, please. So, I'll attend the inspection on Saturday.
+English Conversational Partner dijo:
+Excellent! I’ve booked you and your sister for Saturday at 11:00 a.m. at the Swanston Street apartment. You’ll get the confirmation email with the address, photos, and cost breakdown shortly. Do you need parking information for the inspection as well?
+Dijiste:
+No, thank you. It's okay.
+English Conversational Partner dijo:
+Alright, perfect. You’re all set for Saturday then! I’ll send everything to your email. See you at the inspection—have a great week until then!
+Dijiste:
+Yeah, thank you. So, after the inspection on Saturday, do I need to send my application?
+English Conversational Partner dijo:
+Yes, exactly. After the inspection, if you like the apartment, you can fill out and send your rental application with your documents and proof of income. Would you like me to give you a quick checklist of what to include in that application?
+Dijiste:
+Oh, that would be great. Thank you very much.
+English Conversational Partner dijo:
+Of course! Here’s what you’ll need for your application:
+Photo ID (passport or student card)
+
+Proof of income (like your startup documents or bank statements)
+
+Proof of enrollment from your school
+
+Rental history or references (if you have any)
+
+Contact details for both you and your sister
+
+Would you like me to attach this checklist to the email as well, so you don’t forget anything?
+Dijiste:
+No, don't worry, I'm going to take a screenshot and I'm going to keep it.
+English Conversational Partner dijo:
+Perfect, that works just as well! You’re completely ready for Saturday’s inspection then. Anything else you’d like to ask about the rental process before we finish?
+Dijiste:
+Not really, thank you very much, so see you soon.
+English Conversational Partner dijo:
+You’re very welcome! See you and your sister on Saturday at 11 a.m.—have a lovely week until then!
+
+

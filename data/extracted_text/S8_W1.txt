@@ -1,0 +1,363 @@
+TASK 1: 
+“Hi, good afternoon.”
+00:01
+English Conversational Partner said:
+Good afternoon! How's it going? What can I help you with today?
+You said:
+“Can I have a cappuccino and...”
+00:04
+English Conversational Partner said:
+Of course! One capp
+You said:
+Transcript Unavailable
+00:02
+English Conversational Partner said:
+Got it, a cappuccino and an Australian crush. Would you like any sugar or any specific toppings on your cappuccino?
+You said:
+“Yes, please. One sugar and some milk, please.”
+00:05
+English Conversational Partner said:
+Perfect, so that’s one cappuccino with one sugar and some milk, and an Australian crush. Anything else I can get for you?
+You said:
+“And also, do you have a specialty?”
+00:03
+English Conversational Partner said:
+Absolutely! We have a few specialties, like our caramel macchiato and a signature vanilla latte. Would you like to try one of those as well?
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+So our caramel macchiato is made with espresso, steamed milk, and a caramel drizzle on top, while our vanilla latte combines espresso with steamed milk and a touch of vanilla syrup. They’re both really delicious!
+You said:
+“Yeah, it sounds good.”
+00:02
+English Conversational Partner said:
+Awesome! Just let me know if you’d like any of those specialties added to your order, or if there’s anything else I can do for you.
+You said:
+“All right. Yes, please.”
+00:01
+English Conversational Partner said:
+Perfect! I’ll get that all set up for you. If you need anything else in the meantime, just let me know!
+You said:
+“Oh yes, I do have a...”
+00:02
+English Conversational Partner said:
+No worries at all! Just let me know whenever you're ready, and I'll be happy to help with whatever you need.
+You said:
+“Yes, can I have a 21 sheet?”
+00:03
+English Conversational Partner said:
+Absolutely! I'll make sure to include that with your order. Is there anything else I can get for you right now?
+You said:
+“どうもありがとうございました。”
+00:00
+English Conversational Partner said:
+All right, that sounds
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Great! I'll get everything ready for you. If you think of anything else, just let me know. Otherwise, enjoy, and I’ll have that ready for you shortly!
+You said:
+“Thanks a lot.”
+00:01
+English Conversational Partner said:
+You’re very welcome! If you need anything else, just let me know. Have a great one!
+You said:
+“Can I get a mocha?”
+00:03
+English Conversational Partner said:
+Of course! I'll add a mocha to your order as well. Anything else you’d like to include?
+You said:
+“Ah, no thanks. I will have a... outside.”
+00:03
+English Conversational Partner said:
+Sounds good! I’ll get everything prepared for you, and you can enjoy it outside. Just let me know if you need anything else.
+You said:
+“Do you have a specialty? I'm allergic to bread, so...”
+00:10
+English Conversational Partner said:
+Got it, thanks for letting me know! We can definitely accommodate that. And we do have some specialty drinks that are bread-free, so if you have any specific preferences, just let me know, and I'll make sure everything is safe and delicious for you.
+You said:
+“Hello, everyone.”
+00:00
+English Conversational Partner said:
+They’re really great! If you have any specific questions or if you’d like recommendations, just let me know, and I’ll be happy to help.
+You said:
+“Hi, can I get a cappuccino and an americano?”
+00:05
+English Conversational Partner said:
+Absolutely! I'll get you a cappuccino and an Americano. Would you like either of them with any specific additions, like sugar or milk?
+You said:
+“No thanks, but in Americano, please put two sugars.”
+00:06
+English Conversational Partner said:
+Got it! One Americano with two sugars, and one cappuccino. That sounds great! If there's anything else you need, just let me know.
+You said:
+“And also, do you have a cake?”
+00:04
+English Conversational Partner said:
+Yes, we do! We have a variety of cakes, like chocolate cake, cheesecake, and some fruit tarts. Is there a particular flavor you’re interested in?
+You said:
+“私はチョコレートに興味があるので、チョコレートを使わずにケーキを作ってください。”
+00:09
+English Conversational Partner said:
+Got it, no chocolate cake for you! We can definitely do something like a vanilla or a fruit-based cake instead. I’ll make sure it’s all set. Let me know if there’s anything else you’d like!
+You said:
+“Do you have a cheesecake?”
+00:02
+English Conversational Partner said:
+Yes, we absolutely do! We have a delicious cheesecake available. I’ll add that to your order as well. If there’s anything else you’d like to adjust, just let me know!
+You said:
+“2ピースチーズケーキをください、友達と一緒に。”
+00:06
+English Conversational Partner said:
+Perfect! I’ll include two pieces of cheesecake for you and your friend. That should round out your order nicely. If there’s anything else, just let me know!
+You said:
+“How much is that to sum up?”
+00:04
+English Conversational Partner said:
+Sure! Let me quickly total it up for you. You have the cappuccino, the Americano with two sugars, the cheesecake for you and your friend, and the Australian crush. I’ll calculate everything and let you know the final amount in just a moment.
+You said:
+“Did you finalize our money?”
+00:04
+English Conversational Partner said:
+Yes, absolutely! After adding everything up, your total comes to about [amount]. If you have any questions or need any adjustments, just let me know!
+
+TASK 2: 
+You said:
+“I don't know.”
+00:02
+English Conversational Partner said:
+Hello there! So, it sounds like you're just popping in for a casual chat. I'm happy to be your everyday conversational partner. Let’s just keep it simple: what’s on your mind today?
+You said:
+“Also today, I'd like to book a table for tonight.”
+00:04
+English Conversational Partner said:
+Absolutely! What time would you like that table for tonight?
+You said:
+“Can you rebook for at 5 p.m.?”
+00:04
+English Conversational Partner said:
+Sure, 5 p.m. works just fine. And how many people will be joining you at the table?
+You said:
+“もしかしたら、5人か6人の方が参加してくれるかもしれません。 なので、5人か6人の方にお座りください。”
+00:25
+English Conversational Partner said:
+Alright, got it! I'll set it up for six just to be safe. And do you have any preference for indoor or outdoor seating?
+You said:
+“Yes, we prefer outdoor eating to indoor eating.”
+00:06
+English Conversational Partner said:
+Alright, outdoor seating it is! We'll have a nice spot ready for you. Now, do you have any special requests for the reservation, like dietary needs or a special occasion we should know about?
+You said:
+“Yes, please. I'd like to order smoked salmon as a starter.”
+00:08
+English Conversational Partner said:
+Sure, a small celebration with some champagne sounds perfect. We'll take care of that. And is there a name I should put the reservation under?
+You said:
+“I'm sorry, could you say that again?”
+00:01
+English Conversational Partner said:
+Of course! I’ll put it under your name then. Thanks for letting me know. And is there anything else you need us to know before you arrive?
+You said:
+“Yes, one person has a disable on his foot, so can he use a wheelchair to go restaurant?”
+00:14
+English Conversational Partner said:
+Absolutely, we can accommodate a wheelchair without any problem. We'll make sure everything is set up so they can be comfortable. Is there anything else you'd like us to prepare?
+You said:
+“Let's see, so, to be honest, my friend is birthday today, so can you arrange a piece of, no, whole cake?”
+00:18
+English Conversational Partner said:
+Sure, we can absolutely arrange a little birthday cake to help celebrate. We'll have that ready for your friend. Anything else you'd like us to add for the occasion?
+You said:
+“ご視聴ありがとうございました。”
+00:01
+English Conversational Partner said:
+Alright, sounds great!
+You said:
+“Also, please get ready for dinner.”
+00:06
+English Conversational Partner said:
+Absolutely, we'll have everything all set for dinner. Thanks for letting me know. Now, if there's nothing else, we’re all set on our end. Let me know if you need anything else!
+You said:
+“Thanks!”
+00:01
+English Conversational Partner said:
+You're very welcome! We'll have everything ready for you. Have a great time tonight, and we’ll see you then!
+You said:
+“See you, thanks for conversation.”
+00:02
+English Conversational Partner said:
+Of course, happy to help! See you later, and enjoy your dinner.
+You said:
+“Hello, I'm a person who reserved your restaurant at 5 p.m.”
+00:08
+English Conversational Partner said:
+Sure, I remember! You're all set for 5 p.m. with that outdoor table and the birthday cake as well. Just let us know when you arrive, and we'll take care of everything. See you then!
+You said:
+“Maybe we will go to restaurant at half past 4 p.m., so could you reschedule at half past 4 p.m.?”
+00:20
+English Conversational Partner said:
+Absolutely, I can do that. I'll move your reservation to 4:30 p.m. instead. Thanks for the heads-up, and we’ll see you a bit earlier then!
+You said:
+“Thank you.”
+00:00
+English Conversational Partner said:
+You're welcome! We'll have everything ready for you at 4:30. See you then!
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+Hi again! Still here for you. If there's anything else you need to sort out or ask about, just let me know!
+You said:
+“今は友達のお祝いですが、写真を撮るためのカメラを忘れたので、撮影用のカメラを撮ってもらえますか?”
+00:24
+English Conversational Partner said:
+Sure, we can help you out with that. We’ll have a camera ready so you can take some pictures during the party. Just let us know and we'll bring it over. Anything else you need?
+You said:
+“That's all, thank you!”
+00:02
+English Conversational Partner said:
+You got it! Happy to help, and we'll have everything set up for you. Thanks for letting me know, and we’ll see you soon!
+You said:
+“See you soon!”
+00:00
+English Conversational Partner said:
+You're welcome! See you
+You said:
+“All right.”
+00:00
+English Conversational Partner said:
+Alright, perfect! Everything’s all set then. Enjoy, and we’ll be ready for you!
+
+TASK3
+“Yesterday, I bought a piece of cloth, yet it's rather snug for me, so could you change the size?”
+00:14
+English Conversational Partner said:
+Sure, I can help with that. We'll just switch gears a bit. So if it's a bit snug, absolutely, we can arrange a different size for you. Could you let me know what size you'd like instead?
+You said:
+“この衣装は26サイズなので、27サイズで買えますか?”
+00:15
+English Conversational Partner said:
+Absolutely, we can swap that out for a size 27 for you. I'll make sure we get that arranged. Anything else you need help with?
+You said:
+“Ah, so should I admit a receipt?”
+00:08
+English Conversational Partner said:
+Yep, if you can just bring the receipt along, that’ll make the size exchange super easy. We'll take care of it from there. Anything else on your mind?
+You said:
+“Yes, in my wallet, I have a receipt, so immediately we can change it, right?”
+00:12
+English Conversational Partner said:
+Exactly, you've got it. If you have the receipt in your wallet, we can do that exchange right away, no problem at all. Just let us know when you're ready.
+You said:
+“Okay, here is the receipt, the tips.”
+00:02
+English Conversational Partner said:
+Perfect, got it. With that receipt, we'll just go ahead and get your new size sorted out right away. And you should be all set! Let me know if there's anything else.
+You said:
+“So, could you tell me your criteria about return?”
+00:07
+English Conversational Partner said:
+Sure! Our return criteria are pretty simple: as long as you’ve got the item in its original condition and you have the receipt, we can do the exchange or return within 30 days. So you're all good to go. Anything else you want to ask about that?
+You said:
+“Yesterday, I bought a hat, but after that, I'm not keen on this hat, so could you return this hat? Of course, I have a receipt.”
+00:17
+English Conversational Partner said:
+Absolutely, we can handle that too. If you’re not keen on the hat and you've got the receipt, we can go ahead and process that return for you. Just bring it in and we’ll take care of it. Anything else on your mind?
+You said:
+“また質問がありますが、貨幣の返済方法はどのようにしているのでしょうか? 私はこのカードを購入し、クレジットカードを使用しました。”
+00:23
+English Conversational Partner said:
+Sure, that’s no problem at all. If you paid by credit card, we’ll just refund the amount right back to your card. So once you bring the hat and the receipt in, we'll just credit it straight back to the same card you used. And that’s all there is to it! Anything else you’d like to know?
+You said:
+“昨日はパンを買いました。”
+00:06
+English Conversational Partner said:
+All right, got it.
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Sure, understood. If you also
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+Absolutely, I get it. If you need to return or exchange those pants as well, we can handle that the same way. Just bring them along with the receipt and
+You said:
+“Also, this pants is orange, but I don't have a clothing which is suit for this orange pants, so could you change a color?”
+00:18
+English Conversational Partner said:
+Of course, we can do that for you as well. If you want to change the color of those pants to something that matches your wardrobe better, just let us know what color you’d like. We’ll be happy to find a better match for you.
+You said:
+“Let's see, I think, hmm...”
+00:03
+English Conversational Partner said:
+Take your time, no
+You said:
+“ブラウンやグレーは私にとって最高のシートです。”
+00:08
+English Conversational Partner said:
+All right, brown or grey it is! We can definitely find you a pair in one of those colors. Just let us know which one you prefer, and we’ll get that sorted out for you.
+You said:
+“インディビューのコメントをお願いいたします どれがクーラーか、オレンジ色か、黄色か、黄色か、”
+00:19
+English Conversational Partner said:
+Sure! So if you're looking for something a bit cooler in tone, I'd say go with the grey. It tends to match a lot of things and gives you that nice neutral vibe. But if you want something a bit warmer, then brown is a great choice. So it really just depends on your style. But either way, we’ll help you out.
+You said:
+“I have a lot of clothing, which is like cyan, blue, pink, right?”
+00:14
+English Conversational Partner said:
+Got it! So with
+You said:
+“ブライトカラーはどう思いますか?”
+00:06
+English Conversational Partner said:
+Sure, that makes sense. If you've got a lot of bright colors like cyan and pink, I'd say the grey would be a really versatile choice. It's going to complement those brighter colors really easily and not clash. But if you prefer a warmer tone, brown could work too. So I'd lean towards grey for maximum matching.
+You said:
+“Okay, please grade a pair of pants.”
+00:05
+English Conversational Partner said:
+Absolutely, we'll get you a nice grey pair of pants then. That should fit right in with your bright wardrobe. We'll sort that out for you, and you’ll be all set. Anything else you need?
+You said:
+“Now, I want to buy a watch.”
+00:04
+English Conversational Partner said:
+Sure, we can help you with that as well. If you're looking for a belt, just let me know what style or color you have in mind, and we'll find something that suits you.
+You said:
+“Yes, my budget is about 10,000 yen, and also this watch to use sports, such as tennis, cycling.”
+00:16
+English Conversational Partner said:
+All right, that sounds good. So with a budget of about 10,000 yen and for casual use like tennis or cycling, we can definitely find you a comfortable and sporty belt that fits that range. We'll pick something out that’s both practical and stylish for you. Let me know if you have any other details in mind!
+You said:
+“これはビジネスではなくてカジュアルなのですが、 日常使用に最も役立ちます。 学校に行く、運動やスポーツをする、 スポーツをする、 スポーツをする、 スポーツをする、”
+00:27
+English Conversational Partner said:
+Absolutely, that sounds like a great pick. If it’s something that works both casually and a little bit for everyday use, like going to school or doing some sports, that’s perfect. We’ll go with that option. It should fit really well into your daily routine. Let me know if there's anything else you need!
+You said:
+“I think this is a best choice for me, so can I buy this watch?”
+00:06
+English Conversational Partner said:
+Absolutely, that sounds perfect. We’ll go ahead and get that watch for you. It’s a great choice if it suits all your needs. So we'll ring that up and you’ll be all set. Let me know if there’s anything else you need!
+You said:
+“Can I use a cache?”
+00:03
+English Conversational Partner said:
+Sure, we can do that. You can absolutely pay in cash if that’s easier for you. So just let us know and we’ll handle it that way. Anything else you want to check on?
+You said:
+“OK, how much is that? I have 10,000 yen.”
+00:03
+English Conversational Partner said:
+All right, no worries. So that watch is actually well within your budget. It comes to about 8,000 yen, so you’ll be comfortably under that 10,000 yen mark. You’re all good to go, and we can do the payment in cash. Anything else you need?
+You said:
+“Yes, okay. I'm going to buy this watch.”
+00:04
+English Conversational Partner said:
+Perfect, we’ll get that all set up for you then. So you can go ahead and buy the watch, and we'll ring it up in cash. Thanks so much, and if there's anything else, just let me know!
+You said:
+“Thank you! That's all!”
+00:01
+English Conversational Partner said:
+You're very welcome! I'm glad we got everything sorted out. If you need anything else, just let me know. Otherwise, enjoy your new watch and have a great day!

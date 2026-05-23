@@ -1,0 +1,415 @@
+{
+  "student_id": 28,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S28_W1_T3",
+  "source_file": "data\\raw\\#28\\#28\\#28. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 2: Booking a Restaurant Table"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“I'm trying to make a booking with at least one special, so like I'm going to booking for regular dinner. Hi, I would like to book a table for two tonight.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That sounds perfect! Let’s go ahead and start with that. So, you’d like a table for two for tonight. Could you let me know what time you’d prefer and if there are any special requests or preferences?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Do you have a table available at 7 p.m.?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Yes, let me check that for you. A table for two at 7 p.m. should be available. Is there any particular seating preference, like indoor or outdoor, or any special occasion you’d like us to note?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Can we sit near the door if possible?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make a note to seat you near the door if possible. That sounds great! Is there anything else you’d like to add to your reservation?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yeah, I'm booking for my friend's birthday. Do you offer singing or decorations?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Oh, that’s wonderful! Yes, we can definitely arrange for a little birthday celebration. We can provide a special decoration and maybe even a little birthday song. Just let us know any specific details or preferences, and we’ll make it extra special!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“and maybe I would bring our own cake, would it be okay?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, that’s totally fine! You’re more than welcome to bring your own cake. Just let us know in advance, and we’ll make sure we have everything set up for you. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yes, and I also will bring a candle and I need to borrow the lighter from your restaurant.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course, that sounds great! We’d be happy to help with a candle, and we can definitely provide a lighter for you as well. Just let us know when you arrive, and we’ll make sure everything’s ready. If there’s anything else, just let me know!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Perfect! Everything sounds good,"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Sorry, I think I need to change the time. Can I make the booking for Friday at 7 and can I change it for late?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "No worries at all! We can definitely move the booking to Friday at 7 p.m. and adjust any other details you need. Just let me know if there’s anything else you’d like to change, and I’ll make sure it’s all set for you!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yes, and we would bring another people, so we will add another one.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Got it! I’ll update the reservation to include one more person, so that’ll be three people in total. Everything’s noted, and we’ll make sure everything’s ready for Friday at 7 p.m. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, and because of the other people, he is a child, would you over the child's chair?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course! We can definitely provide a child’s chair for you. I’ll make a note of that as well. Everything is shaping up nicely! Just let me know if there are any other special requests, and we’ll take care of it."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“I also want to confirm the menu. Do you have a vegan or halal choice?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, we do offer both vegan and halal options on our menu. I can make sure to highlight those choices for you and your guests. If you have any specific dietary requests or preferences, just let me know, and we’ll make it all perfect for you!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yeah, and can I also check the menu is the online menu or can I see the whitelist?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely! I can definitely provide you with a link to our online menu, and we can also share the wine list in advance. That way, you can take a look at everything and plan ahead. Just let me know if you’d like me to send that over, and I’ll get it done!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Okay, and is there have any special, is there have any food use the mango or lychee inside? Because I'm allergic for that too.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course, I’ll make sure to note that you have an allergy to mango and lychee. We’ll double-check the menu to ensure there are no ingredients that could cause any issues. And if you have any other dietary concerns, just let me know, and we’ll make sure everything is safe and delicious for you!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Okay, and the final, can we confirm the end of our booking detail?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely! So, to recap: we have a reservation for three people on Friday at 7 p.m., with a child’s chair provided. We’ll have vegan and halal options available, and we’ve noted your allergy to mango and lychee. You’re also welcome to bring your own cake and candle, and we’ll provide a lighter. Plus, we’ll make sure the seating is near the door if possible. Everything should be all set! If there’s"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Everything is perfect. Should I give you my name and my phone number?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Yes, that would be perfect! If you could share your name and phone number, we’ll make sure everything is confirmed and easy to reach. Whenever you’re ready, just let me know!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“OK, my name is Jessie, J-E-S-S-I-E. And my phone number is 0430-486-333.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Perfect, Jessie! I’ve got all the details noted down. Your reservation is all set, and we’ll be looking forward to welcoming you on Friday. If you need anything else before then, just let us know. Thanks so much!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“OK, can we double check about my phone number?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Of course! Your phone number is 0430 486 303. I’ve got it noted correctly. If there’s anything else you’d like to confirm or update, just let me know!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Oh sorry, my phone number, the last is 333, not 303.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "No worries at all! I’ve updated it to 0430 486 333. Everything is correct now. Thanks for clarifying! If there’s anything else you need, just let me know."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Yeah, all good. Thank you, see you on Friday. Bye-bye.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m looking forward to it. Have a great day, and we’ll see you on Friday. Bye for now! Task 3: Returning or Exchanging Clothes and Asking About Store Policies"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Hi, can we practice about the return an item at a grocery store? You are a store staff in Australia. Ask questions about my recipes, what I want to buy, and what I will return it.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a great scenario to practice! I'll be the store staff, and you can let me know what item you’d like to return and the reason for it. Whenever you're ready, we can jump right in!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“and the first is I'm going to the shop and I would say hi I bought this shirt last week but it doesn't fit it. Could I exchange it for a larger size?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Of course! I’d respond with something like, “Sure, no problem at all. Let me take a look at the shirt and see if we have the larger size in stock. Do you have your receipt with you?” And then we’d go from there! Let me know if you want to continue or adjust anything."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Yeah, sorry about that. This one is bought from my boyfriend and actually it is a gift and I don't have any receipts.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "No worries at all! I can definitely help you out. Even without the receipt, we can look up the purchase if you have any other details, like the payment method or the date of purchase. And if we can find it in our system, we can definitely do an exchange or store credit. Let me know if that works for you!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Sorry, I cannot understand. Could you explain to me, please?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Of course! No problem at all. What I was saying is that even if you don’t have the receipt, we can still try to help. If you have any other details, like how the item was paid for or when it was purchased, we can look it up in our system. And then we can still do an exchange or offer store credit. Let me know if that helps!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Okay, let me check. My boyfriend would use the credit card to buy for it. And the time maybe is on last Friday.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "That’s perfect, that definitely helps! We can look up the transaction from last Friday using the credit card details. Once we confirm it, we’ll be able to do the exchange for the correct size. Just let us know if you have any other details, and we’ll get it sorted out for you!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“OK, and can I see the other color and the large size first?”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! We can definitely check if we have the larger size in a different color as well. Let me take a look at what’s available, and we’ll find the perfect match for you. Just let me know if you have any preferences, and we’ll go from there!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Excuse me, what is the return policies? Can I also exchange for the money, or I need to exchange for the items?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Sure! Typically, our return policy allows for exchanges or store credit within a certain period, usually around 30 days, as long as the item is in its original condition. And yes, you can choose either an exchange for another item or receive store credit. If you prefer a refund to your original payment method, we can look into that as well. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“okay but the problem is my boyfriend use his credit card but i want to get the money so can i get the money or like the gift card something like that”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "I completely understand! In that case, we can definitely provide store credit in the form of a gift card, so you can use it for future purchases. That way, you can still get value from the return, and you can pick out something else that you love. Just let us know what you prefer, and we’ll make it as smooth as possible!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Okay, perfect. I totally understand. And let me, could you check the size for me? This t-shirt, the size is six, so maybe I need to get the eight or ten.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that for you! Let me check our inventory for sizes 8 and 10 in that shirt. Once we confirm what’s available, we’ll make sure we get the right size for you. I’ll let you know as soon as I have the details!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“and which color do you have this tissue.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Great question! Let me quickly check our available colors for that shirt. Usually, we have it in a range of colors like navy, black, white, and maybe a couple of other options. I’ll confirm the exact colors we have in stock, and we can find the perfect one for you!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“Okay, and I see, I don't like those colors, and can I choose for return for the money?”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "I totally understand! If the colors aren’t quite what you’re looking for, we can definitely look into issuing store credit or even a refund if it’s eligible. We’ll do our best to make sure you’re happy with the outcome. Just let us know what you prefer, and we’ll work it out for you!"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“I forgot to tell you one thing. This T-shirt, I already washed it. So, will it be possible for return?”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "I understand! Generally, if the item has been washed, it might limit the return options a bit. However, we can still check the store policy and see what can be done. In many cases, we can offer store credit or an exchange, and we’ll do our best to help you out. Let’s see what we can arrange!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Absolutely! Just let me know if you have any other questions or if there’s anything else I can do to help. I’m here to make the process as smooth as possible for you!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“I'm sorry, could you say again, like I already watch this t-shirt, so can I return?”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Of course! I understand. Typically, if the t-shirt has been washed, it can limit the return options, but we’ll definitely check our store policy. Often, we can still offer you store credit or maybe an exchange for another item. We’ll do our best to help you out, so just let us know, and we’ll find a solution!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“Okay, perfect. So you can change it, right?”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We’ll definitely do our best to help with an exchange or store credit, depending on what’s possible. Just let us know what you’d prefer, and we’ll make sure everything is sorted out for you. Feel free to reach out anytime!"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "Great choice! And yes, absolutely, you can typically return items bought online to the physical store as well. We can process the return and issue your gift card right here in the store. It’s pretty convenient, so no worries at all. If you have any other questions, I’m here to help!"
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "“Yes, and also the Christmas and Black Friday is coming. So if I have the same problem, can I return the special item in this store or I need to do it online?”"
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a great question! Usually, during busy seasons like Black Friday or Christmas, you can still return items purchased online at the physical store. We’ll make it as convenient as possible for you, and you can always choose whichever method works best. If you run into any issues, we’ll be here to help you out!"
+    },
+    {
+      "turn": 74,
+      "speaker": "learner",
+      "text": "“OK, now I'm going to return this tissue. What kind of details should I give you?”"
+    },
+    {
+      "turn": 75,
+      "speaker": "bot",
+      "text": "You can just bring along the t-shirt itself, and if you have any proof of purchase—like the order confirmation or the credit card used—that would be super helpful. But even if you don’t have those, we’ll still do our best to look it up in our system. Just let us know what you have, and we’ll take it from there!"
+    },
+    {
+      "turn": 76,
+      "speaker": "learner",
+      "text": "“Okay, let me check. Okay, I don't have any credit card number from my boyfriend, and I think I will choose the gift card for return. And how can I use this gift card?”"
+    },
+    {
+      "turn": 77,
+      "speaker": "bot",
+      "text": "No worries at all! Once we issue the gift card, you’ll get a card or a code that you can use either in-store or online. When you’re making a purchase, you can simply present the gift card or enter the code at checkout, and it’ll apply the balance to your order. It’s super flexible and easy to use, so you’ll be all set!"
+    },
+    {
+      "turn": 78,
+      "speaker": "learner",
+      "text": "“Yeah, perfect. And is there a limit on gift card, like how long should I use it and when it will expire?”"
+    },
+    {
+      "turn": 79,
+      "speaker": "bot",
+      "text": "That’s a great question! Usually, our gift cards don’t have an expiration date, so you can use them whenever you’d like. They’re pretty flexible and valid indefinitely. But if there’s ever any special condition, we’ll make sure to let you know when we issue it. Feel free to ask anytime if you have more questions!"
+    },
+    {
+      "turn": 80,
+      "speaker": "learner",
+      "text": "“Yeah, I think it should be fine and thank you for your help. Good service!”"
+    },
+    {
+      "turn": 81,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions in the future, just let me know. Have a wonderful day, and take care!"
+    }
+  ]
+}

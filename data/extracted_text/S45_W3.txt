@@ -1,0 +1,117 @@
+Task 1:  
+你说：
+Hi, my internet has stopped working, so could you please help me to require it?
+English Conversational Partner 说：
+Sure! I can help with that. Could you tell me what kind of internet connection you have — is it Wi-Fi, wired broadband, or mobile data?
+你说：
+Wi-Fi, please, in my apartment.
+English Conversational Partner 说：
+Got it. Is the issue that your Wi-Fi network isn’t showing up, or it’s showing but you can’t connect to the internet?
+你说：
+Actually, I can connect with it and it shows in my screen, but I can't use it to check the view, no, check the moves, or send the message or picture.
+English Conversational Partner 说：
+Alright, so you’re connected to Wi-Fi, but there’s no internet access. Have you tried restarting your router or modem yet?
+你说：
+Oh, I was afraid to restarting it because I don't know the correct connector. Yeah, last time my partner do it and he use a lot of time to use FaceTime to communicate with other workers and start it successfully. I was afraid if I do it, I can't do it.
+English Conversational Partner 说：
+I understand, no worries — it’s good you’re being careful. Could you tell me which company provides your internet service? That’ll help me guide you safely through the right steps.
+你说：
+Oh, I know, Telestra.
+English Conversational Partner 说：
+Thanks! Telstra, got it. Do you happen to know where your Telstra modem or router is placed in your apartment — like near the TV, in the hallway, or another room?
+你说：
+Em adas domos.
+In my partner's rooms, in my platform's rooms, but now he moved so I can go into it and use it.
+English Conversational Partner 说：
+Alright, so the modem is in your partner’s old room and now you can access it — that’s good. Could you check if the lights on the modem are on right now, and tell me what colors they are?
+你说：
+Yellow, maybe that means it works normally.
+English Conversational Partner 说：
+Okay, yellow light — that often means the modem is on but not fully connected to the internet. Could you tell me if the yellow light is steady or blinking?
+你说：
+Sorry, I don't know. Could you please ask a technical to my home to help me?
+English Conversational Partner 说：
+Of course. I can help you with that. Before we request a technician, could you please confirm the address where the service is installed?
+你说：
+Yes, of course.
+English Conversational Partner 说：
+Great, thanks! Could you please tell me your full address, including the street number, street name, and suburb?
+你说：
+Of course, I live in the Morgan, Queen Street, 115-7. And if you ask somebody to this address, please call me. My phone number is 04667891999. You can call me and I will take the lift down and lead to him.
+English Conversational Partner 说：
+Thanks for sharing that. For your privacy and safety, I can’t make real service calls or contact technicians directly. But I can guide you on how to request one through Telstra.
+You can call Telstra support at 13 22 00 or visit telstra.com.au/support — they’ll schedule a technician for you.
+Would you like me to show you exactly what to say when you call them?
+你说：
+Please, actually I can't describe the question I faced, so please teach me what should I say when I call them.
+English Conversational Partner 说：
+Sure! Here’s a simple way you can say it on the phone — nice and clear:
+“Hi, my Wi-Fi is connected, but there’s no internet. The modem light is yellow. I’d like to book a technician to come and check it, please.”
+They may then ask you for:
+Your name
+Your address (you can give 115-7 Queen Street, Morgan)
+Your contact number
+If you’ve tried restarting the modem yet
+Would you like me to help you practice how the conversation might go, like a short roleplay?
+你说：
+No, I will call them later. Thank you.
+English Conversational Partner 说：
+You’re very welcome. I hope your internet gets fixed soon. Have a good day!
+
+Task 2:
+你说： 
+Sorry, excuse me, please, I made a problem when I ate the lunch in the restaurant near in the Melbourne Central, and I don't know when I lost my passport. I lost the whole wallet, and in it there is $200, and my passport, and my credit card.
+English Conversational Partner 说：
+I’m really sorry to hear that. Can you tell me exactly where and when you last remember having your wallet — was it inside the restaurant, or somewhere after you left?
+你说：
+I don't know why I lost it, but when I walk outside and return my apartment, I found there is no wallet.
+English Conversational Partner 说：
+Alright, I understand. We’ll try to sort this out. Could you tell me the name of the restaurant where you had lunch, or describe roughly where it’s located near Melbourne Central?
+你说：
+Uh, yes, I know the name of that restaurant. It's named, uh... Kallaghan. And it's an Indian restaurant. Not India. Uh... Southeast restaurant. It's located in the ground floor.
+English Conversational Partner 说：
+Got it, thanks — Kallaghan, on the ground floor near Melbourne Central. Did you already contact the restaurant to ask if anyone found your wallet, or would you like help with what to say when you call them?
+你说：
+No. I don't know. I don't know what should I do. Maybe I should call the restaurant, but where I can find them?
+English Conversational Partner 说：
+That’s okay — you’re doing the right thing asking for help. You can find the restaurant’s phone number by searching “Kallaghan restaurant Melbourne Central” on Google or Maps.
+When you call, you can say:
+“Hi, I had lunch there today and I think I lost my wallet. Could you please check if anyone found it?”
+Would you like me to show you what to do next if they don’t have your wallet?
+你说：
+Well, now you are the policeman. I ask you for help.
+English Conversational Partner 说：
+Of course — I’ll take your report. Can you tell me your full name, please?
+你说：
+My full name is Lucas Mao, and in my passport is another name, but in Melbourne, I always use Lucas.
+English Conversational Partner 说：
+Thank you, Lucas. Could you tell me when exactly you noticed your wallet was missing — about what time today?
+你说：
+in 4 p.m. maybe from 2 or 4 p.m. because when I go outside from my apartment I use the wallet's apartment card to open my house and take the lift and when I return I don't find it
+English Conversational Partner 说：
+Alright, around 2 to 4 p.m., understood. Could you describe your wallet for me — its color, size, or any special marks or cards inside besides your passport and credit card?
+你说：
+The black... white... but it doesn't have some special point. Uh... it's... the size is similar with my hand.
+English Conversational Partner 说：
+Okay, a black-and-white wallet, about hand-sized. Besides your passport, credit card, and $200, did it also have anything like your driver’s license, student card, or apartment access card inside?
+你说：
+Students have apartment card, but the card is no name, but my student card has my picture.
+English Conversational Partner 说：
+Got it, thank you. Which school or university issued your student card, Lucas?
+你说：
+R.M.I.T. University
+English Conversational Partner 说：
+Thanks. That helps. And just to confirm — your passport was inside the wallet, correct? Do you remember which country it was issued by?
+你说：
+They come from my passport inside my wallet, and it's Chinese.
+English Conversational Partner 说：
+Understood — a Chinese passport inside the wallet. Finally, could you please tell me your current address and a phone number where we can contact you if the wallet is found?
+你说：
+My address is Queen Street, Melbourne, 115-7, United 2912. My phone number is 0409662419919.
+English Conversational Partner 说：
+Thanks, Lucas. For your safety, I can’t record or file real police reports, but here’s what you should do right now: Go to the nearest police station — the Melbourne East Police Station on Flinders Lane is closest to Melbourne Central. Tell them:“I lost my wallet near Melbourne Central around 2–4 p.m. It has my Chinese passport, RMIT student card, apartment card, credit card, and about $200.” Bring any ID or documents you still have. They’ll give you an incident report number, which you can use to cancel your cards and apply for a passport replacement at the Chinese consulate. Would you like me to show you how to tell the police about it step-by-step in English?
+窗体顶端
+
+窗体底端
+
+

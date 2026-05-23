@@ -1,0 +1,250 @@
+{
+  "student_id": 18,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S18_W3_T1",
+  "source_file": "data\\raw\\#18\\#18\\#18. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello, my internet has stopped working.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Oh no, that sounds frustrating! Let's see how I can help. Could you tell me if you're getting any error messages or if the connection is down on all devices?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I don't know, but is there a technician available today?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely arrange that. Could you let me know your location and the best time for the technician to come by?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Okay, I can give you later. Can you check if there's an outage in the area?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course, I can check that for you. Could you please share your internet service provider and maybe your zip code so I can look into that?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And do I need to reset the modem again?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "It might help, yes! Sometimes a quick reset can fix things. Would you like some step-by-step instructions on how to do that?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Oh, that's good. Thank you.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "You're welcome! Alright, so first, you'll want to unplug the power cable from the modem, wait about 30 seconds, and then plug it back in."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, unplug the power... what?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Exactly, yes! And then once it restarts, we can check if the connection is back up. Let me know if you need any help along the way!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, and then, what's the next step?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "After it restarts, you can try connecting to the internet again and see if it works. If it doesn't, we can try a few more troubleshooting steps. Let me know how it goes!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, please wait.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Of course, take your time! I’m here whenever you’re ready, and just let me know how it turns out."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "All right, sounds good!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Do you know what the issue might be?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "It could be a few things, like a temporary outage, or maybe a loose cable, or even something with the modem itself. We can narrow it down as we go along. Just let me know how things look after the reset!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, thank you. Oh, but there's no signal in my apartment.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it, that definitely helps narrow it down. In that case, we might need to check the cables or even see if the modem is placed in a good spot. Let me know if you want any guidance on that!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, but it was fine this morning, but now it won't connect.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "I see, that can definitely happen sometimes. It might be something temporary, like a network issue or a signal interference. If you’d like, we can also try some advanced troubleshooting or even contact support together. Let me know what you prefer!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, so today there's no technician available.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. In that case, we can try the troubleshooting steps now, and if needed, we can schedule a technician for another day. Just let me know how you'd like to proceed!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, maybe we can make, maybe, maybe I can make an appointment, um, tomorrow?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! Just let me know the time that works best for you, and we can get that appointment set up for tomorrow. In the meantime, I’m happy to help with any other troubleshooting you’d like to try!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, so I think tomorrow it's better for me at 10 o'clock. Um, will somebody call me?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely! We can arrange for a technician to come by at 10 o’clock tomorrow, and they’ll give you a call beforehand to confirm. That way, you’ll know exactly when they’re on their way. Sounds good?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, sounds good. Thank you. I'll call back if it doesn't work in after the technicians come tomorrow.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Of course, that sounds like a plan! I’m here whenever you need me, and I hope everything gets sorted out smoothly. Just let me know if you have any other questions."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, thanks for the update, and thank you, that's really helpful.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. Feel free to reach out anytime, and I hope everything gets back to normal soon. Have a great day!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Oh, sorry, sorry, um, can I get, can, uh, can, no, no, no, um, if the service isn't fixed, it...”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "No worries at all! If the service"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“By tomorrow, do I get a refund or credit?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That’s definitely something we can look into. Usually, if there’s an extended outage, you can receive a credit or refund. Once the technician checks it out, we can definitely help you with that process. Just let us know, and we’ll make sure you’re taken care of!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And also, is it possible to change to a different service plan?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely, we can look into that as well! If you’d like, we can discuss the available service plans and find one that suits your needs better. Just let me know what you’re looking for, and we’ll make it happen!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Yeah, maybe I will consider it. And, um...”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Sounds good! Take your time to consider it, and if you have any questions or need any details, just let me know. I’m here to help whenever you’re ready!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“My husband would, my husband want me to do, to make a complaint. What's the process?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "I understand! We can definitely help with that. Usually, the process involves contacting customer support, providing details of the issue, and then they’ll guide you through the complaint form. If you’d like, I can help you with the steps right now as well. Just let me know!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Okay, thank you. But I think maybe just by tomorrow is okay. So I think that's it. Thanks for answering all of the questions and have a good day.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any more questions in the future, just let me know. Have a wonderful day, and I’ll talk to you soon!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Okay, thank you, bye for now.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "You're welcome! Bye for now, and take care!"
+    }
+  ]
+}

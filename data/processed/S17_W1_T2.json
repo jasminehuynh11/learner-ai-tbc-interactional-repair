@@ -1,0 +1,270 @@
+{
+  "student_id": 17,
+  "week": 1,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S17_W1_T2",
+  "source_file": "data\\raw\\#17\\#17\\#17. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Ordering Coffee"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "\"Hi, can I have a long black, please?\""
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, a long black it is! Would you like that in a small, medium, or large size?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "\"Medium, please.\""
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Great choice! And would you like any milk or sugar added to your long black, or do you prefer it black as is?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "\"I prefer it black as is.\""
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, we’ll keep it nice and simple. And how would you like to pay today? Cash, card, or maybe mobile payment?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "\"Can I pay my card?\""
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Of course, card payment works perfectly. All set! Your medium long black will be ready in just a moment. Anything else I can help you with?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "\"Nothing. That’s it.\""
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Awesome, thank you! I’ll have that ready for you in just a moment. Enjoy, and have a great day!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "\"Thank you. Have a good one.\""
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "You too! Take care, and feel free to come by anytime. Cheers!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "\"What’s your recommendations?\""
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Well, if you enjoy a strong, concentrated flavor, an espresso is perfect. If you prefer something a bit milder with more water, then a long black or an Americano would be great. Do you have a preference for intensity?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "\"Yeah, I prefer a little bit strong.\""
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Got it! In that case, I’d recommend going with an espresso. It’s rich and bold. Would you like that in a single shot or a double shot?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "\"Double shot, please. And what size do you have?\""
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Perfect, a double shot it is! We typically have small, medium, and large sizes. For an espresso, it’s usually just a small cup, but we can definitely adjust if you prefer. How does that sound?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "\"I like to drink a lot, so can I have a medium size, please?\""
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, a medium size it is! That’ll give you a bit more to enjoy."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "\"Yeah, that sounds great.\""
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Perfect! I’ll get that ready for you. Anything else I can help you with while you wait?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "\"What is a recommended food that goes well with espresso?\""
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "A classic choice would be a buttery croissant or maybe a biscotti, as they pair really nicely with espresso. We also have some delicious muffins and sandwiches if you’re in the mood for something more filling."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "\"I got it, so I order a convalescent, please.\""
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Excellent choice! I’ll add a croissant to your order as well. That’ll be a perfect pairing with your espresso. Anything else you’d like to add?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "\"Now, that’s all.\""
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "All right, that sounds perfect! I’ll get your espresso and croissant ready for you. Thank you so much, and enjoy!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "\"Thank you, have a good one.\""
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re very welcome! Have a fantastic day, and enjoy your coffee and croissant! 🍽️ Task 2: Booking a Restaurant Table"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "\"Hi, I’d like to book a table for two tonight.\""
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Sure! What time would you like to come in tonight?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "\"Do you have a table available at 7 p.m.?\""
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Let me check that for you. Yes, we do have a table available at 7 p.m. Can I have your name for the reservation?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "\"I’m Leota.\""
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Great, thank you, Layota! I’ve got you down for two people at 7 p.m. Is there any special occasion or any special requests we should know about?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "\"I’m looking for my friend’s birthday, so do you have any decorations or something?\""
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange some birthday decorations for you. Would you like something simple, like balloons, or perhaps a cake as well?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "\"I’d like to order something simple and a cake.\""
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Perfect, that sounds lovely! I’ll make sure we have a simple decoration and a cake ready for you. Is there a specific flavor or any special message you’d like on the cake?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "\"Got it, chocolate flavor.\""
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "And what message would you like written on the cake?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "\"The message is, just happy birthday.\""
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Perfect, we’ll have a chocolate cake with “Happy Birthday” on it. Everything is set for your reservation at 7 p.m. Is there anything else you’d like to add or any other requests?"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "\"Do you have any vegetarian food?\""
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Absolutely, we do have a variety of vegetarian options. Would you like me to include some vegetarian dishes in your reservation, or do you have any specific preferences?"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "\"I got it. My friends is vegetarian, so one is vegetarian options, and the other is no more option.\""
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Perfect, I’ll make sure we have one vegetarian option and one regular option for your table. Everything sounds good to go! If there’s anything else you need, just let me know."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "\"Would you be able to hold my reservation if we are delayed?\""
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Of course! We can hold your reservation for up to 15 minutes past the scheduled time. If you think you’ll be later than that, just give us a quick call, and we’ll adjust accordingly. Sound good?"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "\"Sounds great. Thank you so much. See you then.\""
+    }
+  ]
+}

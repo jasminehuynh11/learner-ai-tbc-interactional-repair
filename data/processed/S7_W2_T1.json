@@ -1,0 +1,105 @@
+{
+  "student_id": 7,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S7_W2_T1",
+  "source_file": "data\\raw\\#7\\#7\\#7. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Of course! Hello there — welcome to the hospital. Are you here to make an appointment for yourself today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Yes. I'd like to make an appointment to see a doctor. I had come to this hospital a few times before, so I have my medicare card here."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Great, thank you for bringing your card. Could you please tell me what kind of doctor or department you’d like to see today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I have a atopic, but I run out all the cream. Today I want to get additional cream. I don't mind which doctor will see me, is it OK?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure, that’s fine. We can book you with a dermatologist for that. Would you like the earliest available appointment, or do you prefer a specific day or time?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I am available anytime. Could you tell me when it will take a little time to finish medicare?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright. Usually, it takes around 10 to 15 minutes to process your Medicare details at reception. Would you like to book your appointment for today, or is tomorrow better for you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "I have already today's plan, so could you book for me tomorrow? And could I ask you a question? If I cancel tomorrow's appointment, could there be a caecellation fee?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure, I can book you for tomorrow. And yes, you can cancel — there’s no cancellation fee as long as you let us know at least two hours before your appointment time. What time tomorrow would you prefer to come in?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I'm glad to hear that. Could you be available before noon? I would like to book as early as you could."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Of course! We have a slot at  a.m. tomorrow with Dr. Kim, our dermatologist. Would that time work for you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Great. I'd like to book that time. Would I have to anything else?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Perfect, I’ll book that for you. You just need to bring your Medicare card and any previous prescriptions or creams you’ve used. Would you like a text message reminder for your appointment?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes, I just tried to ask you that. Do you know my mail address? I feel like I had taught before."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Ah, I see! If you’ve been here before, your email address should already be in our system. Could you please confirm it for me, just to make sure it’s still the same?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Thanks, please confirm my appointment."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "All set — your appointment with Dr. Kim is confirmed for  a.m. tomorrow. Please arrive 10 minutes early for check-in. Is there anything else I can help you with today?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "No, thank you. I'll see you at  a.m."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "You’re very welcome. See you tomorrow at  — have a good day!"
+    }
+  ]
+}

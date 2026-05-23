@@ -1,0 +1,230 @@
+{
+  "student_id": 32,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S32_W3_T1",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an Internet Outage at Your Housing:"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sounds good! Let's imagine you’re having trouble with your internet connection at home. I'll be the support staff ready to help. So, let’s get started! Hi there! How can I assist you with your internet issue today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, yes, my internet this week it wasn't working well, so I want to know if it is possible to someone come or if you can help me to repair the internet because I tried to turn off the internet for a couple of minutes, in the first time the internet was working good but after the program continues, isn’t work”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, that definitely sounds frustrating. Just to help me understand better, can you let me know if there are any specific times or patterns when the internet is dropping, or is it constant throughout the day?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“It's constantly in the day, and it's like you are watching something and suddenly the internet stop working”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I understand, that can definitely be annoying. Just to get a clearer picture, could you let me know what type of modem or router you’re using, and if there have been any recent changes to your network setup?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Can you explain to me, what do you mean, like, what kind of a router?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course! I’m just asking if you know the brand or model of your router, or if it’s a standard one provided by your internet provider. That helps us figure out if there might be any compatibility issues or settings we need to check."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“It's a normal router that the internet service provides me.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. Thank you for letting me know. One more thing: have you noticed if the issue happens on multiple devices, like your phone and your laptop, or is it just one device that’s affected?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“In general, it affects laptops and cell phones, but in the computer, like a table computer, in general is working good.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I see, that’s helpful to know. It sounds like it might be related to certain devices or maybe the Wi-Fi signal strength. Would you happen to know if the devices are far from the router, or maybe if there are any obstacles in between?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I think no, or I don't know, because there is in one room, like in my studio.“They have the space to be there, so I don't know if something is not good.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "No worries, that makes sense. We can definitely explore a few troubleshooting steps to narrow it down. One thing we could try is checking for any firmware updates on the router. Would you like me to guide you through that, or is there anything else you’d like to try first?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I don't know. For me, it's okay if you guide me with the steps to see if the problem is what do you think.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to help! Let’s start by checking if your router’s firmware is up to date, and then we can try a couple of other steps. Just let me know when you’re ready, and we’ll go through it step by step."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yes, I'm ready.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Perfect! Alright, so first, let’s log into your router’s admin page. You can usually do that by typing the router’s IP address into your web browser. Do you know what that IP address is, or would you like some help finding it?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I need some help to find it, please.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "No problem at all! Typically, the router’s IP address is something like 192.168.0.1 or 192.168.1.1. You can usually find it on the back of the router or in the manual. Once you have that, just type it into your browser, and then we can go from there. Let me know if you need more guidance!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, I found the IP number.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Awesome, that’s great! Now, go ahead and enter that IP address into your browser’s address bar, and you should see a login page for your router. Once you’re there, let me know what you see, and we’ll take it step-by-step from that point."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yes, I can find the thing that you told me.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Perfect! Great job. Now the next step is to enter your username and password. If you haven’t changed them, the default credentials are usually something like “admin” for both fields, but let me know if you have any trouble with that. Once you’re logged in, we can check for any firmware updates."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“What's happening if I can't remember the password?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "No worries at all! If you’re having trouble remembering the password, sometimes it’s the default one, or it might be written on a sticker on the router. And if you still can’t find it, we can always reset the router. Just let me know how it goes, and I’ll guide you through it!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, thank you. I will try.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You’re very welcome! Take your time, and if you have any questions or need more help along the way, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, now I can enter to my account, so what is the next step to follow?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Awesome, great job! So the next step is to look for a section called something like “Firmware Update” or “Router Update” in the settings menu. Once you find that, you can check if there’s an update available and follow the prompts to install it. Let me know if you need any help navigating that part!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Yes, I can see the router update.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Perfect! That’s a good sign. Now you can go ahead and click on that option to check for any available updates. If there’s one, it should guide you through the installation process. Just let me know how it goes, and we can troubleshoot further if needed!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, the upload is ready, so it's supposed that they solved the problem that I have, or we have another step to do.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "That’s great to hear! Usually, updating the firmware can definitely help fix connectivity issues. Once it’s updated, you can restart your router and see if the connection improves. If the problem persists after that, we can try a few more troubleshooting steps. But let’s see how it goes after the update first!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Okay, wait a minute. I restart the router and I will tell you about it.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sounds good! Take your time, and I’ll be here whenever you’re ready. Just let me know how it goes once the router’s back up, and we’ll go from there."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Okay, I restart the router and for the moment the internet appears that it's working good.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That’s fantastic to hear! I’m glad it seems to be working well now. If you notice any issues again, definitely let me know, and we can troubleshoot further. But for now, I’m really happy it’s all good!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Okay, thank you for your help. I hope this could solve the problem.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. Hopefully, everything stays smooth from here on out. If you need anything else, just let me know. Have a great day!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“No, I think not. Thank you.” “Have a good day, too.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Thank you so much! Take care, and feel free to reach out anytime. Bye for now!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Bye. Thank you.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "You're welcome! Bye for now, and have a great one!"
+    }
+  ]
+}

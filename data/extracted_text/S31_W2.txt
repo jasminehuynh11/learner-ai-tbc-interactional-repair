@@ -1,0 +1,170 @@
+Week 2: Formal Interactions with Essential Services
+Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment
+You said:
+“Hi.”
+English Conversational Partner said:
+Alright, I can help with that. What type of appointment are you looking to schedule? Is it for a general check-up, a specific concern, or something else?
+You said:
+“I will talk about my symptoms and can you define me where I should go?”
+English Conversational Partner said:
+Of course. To help you best, could you please let me know what symptoms you're experiencing? Also, would you prefer an appointment with a general practitioner or a specialist?
+You said:
+“What is the difference about both of these?”
+English Conversational Partner said:
+Sure. A general practitioner, or GP, handles a wide range of health issues and can treat common illnesses, provide check-ups, and offer general medical advice. A specialist focuses on a specific area of medicine, like cardiology or dermatology, and treats more specialized concerns.
+Which type of appointment do you think would be more suitable for you?
+You said:
+“Maybe both of them because I have a heart and also I want to improve my health.”
+English Conversational Partner said:
+Got it. For a cough, you can see a general practitioner first. They can assess your symptoms and determine if you need to see a specialist. Would you like to book an appointment with our general practitioner? If yes, I can check available times for you.
+You said:
+“Yes, I am. Do you have available appointments for in this week?”
+English Conversational Partner said:
+Let me check. We have available appointments with our general practitioner on Wednesday at 10 AM, Thursday at 2 PM, and Friday at 11 AM. Which time works best for you?
+You said:
+“It is available in Wacom.”
+English Conversational Partner said:
+Our general practitioner's appointments are available from Monday to Friday. If you need a weekend appointment, I can suggest seeing a nurse or another available healthcare professional. Would you prefer a weekday appointment, or would you like to discuss weekend options?
+You said:
+“Yeah, it can be in Friday.”
+English Conversational Partner said:
+Great! I’ll book you an appointment with our general practitioner this Friday at 11 AM. Could you please provide your full name and contact number to confirm the booking?
+You said:
+“My name is Ang. My phone number is 1234567.”
+English Conversational Partner said:
+Thank you, Ms. Ang. I’ve scheduled your appointment for Friday at 11 AM. If you have any questions or need to make changes, feel free to call us. We look forward to seeing you. Take care!
+You said:
+“So why I haven't tell about my symptoms?”
+English Conversational Partner said:
+I apologize for that. Could you please describe your symptoms so we can make sure to address them during your appointment?
+You said:
+“Tuesday ago, I had a headache, a really, really hurt one, and I also still have a headache until now. And also, I also have a lot of blood in my stomach.”
+English Conversational Partner said:
+I'm sorry you're feeling this way. It sounds like you have a headache and a cough. It’s good that you’re coming in for your appointment so we can help you. Please remember to stay hydrated and rest. If you have any other symptoms or concerns, feel free to let us know. We’ll see you on Friday at 11 AM. Take care!
+You said:
+“Should I bring something with me, like medical care or something? Do I have any, like, my family, my husband, or my mother, or my dad to go with me?”
+English Conversational Partner said:
+For your appointment, please bring your ID and your insurance card, if you have one. It’s also helpful to bring a list of any medications you’re taking. If you’d like someone to accompany you, that’s absolutely fine. Family members are welcome to join you if you prefer. If you have any other questions, feel free to ask!
+You said:
+“Can I request a copy of my result after reset?”
+English Conversational Partner said:
+Yes, you can request a copy of your results after your visit. You can either pick them up at the clinic or receive them via email or mail, depending on your preference. Just let the staff know during your appointment, and we’ll make sure you get them. If you have any other questions, feel free to ask!
+You said:
+“So what will be written in the results?”
+English Conversational Partner said:
+The results will include any tests or assessments done during your visit, such as blood tests, imaging, or other diagnostic information. It will also include the doctor's notes and any recommendations or next steps for your care. If you have specific questions about your results, you can discuss them with your doctor during a follow-up appointment. Let us know if you have any other questions!
+You said:
+“So how much will I pay for the results or for meeting a professional?”
+English Conversational Partner said:
+The cost for medical services and test results can vary depending on your insurance coverage and the specific tests or services provided. It’s best to contact our billing department or check with your insurance provider for exact details. If you have any concerns about costs, feel free to ask us, and we’ll do our best to assist you.
+You said:
+“To have the discount for students.”
+English Conversational Partner said:
+We do offer discounts for certain situations. It’s best to speak with our billing department to see if you qualify for any discounts or financial assistance. They’ll be able to provide you with detailed information. If you need help contacting them, just let us know!
+You said:
+“So I don't need to have options if I can't come in person.”
+English Conversational Partner said:
+Yes, we offer telehealth options if you’re unable to come in person. You can schedule a virtual appointment with our healthcare provider to discuss your symptoms and receive care. Please let us know if you’d prefer a telehealth appointment, and we’ll assist you in setting it up.
+You said:
+“Is there anyone available now?”
+English Conversational Partner said:
+Let me check our telehealth appointment availability. We can offer telehealth appointments on weekdays, typically within the same timeframe as in-person visits. If you’d like to book a telehealth appointment now, please let us know your preferred time, and we’ll do our best to accommodate you. Alternatively, you can call our clinic to schedule it directly.
+You said:
+“I won't now. I think that I cannot wait for my way to Friday, so maybe now is the best option.”
+English Conversational Partner said:
+I understand. Let me check the availability for a telehealth appointment today. Please hold on for a moment.
+You said:
+“Hi, are you still there? Do you check up?”
+English Conversational Partner said:
+Thank you for waiting. We do have a telehealth appointment available today at 2 PM. Does that work for you? If so, I can help you set it up.
+You said:
+“It is 1.45pm now, and it's 2pm on 15 minutes away. Okay, that's good.”
+English Conversational Partner said:
+Perfect! I’ve scheduled your telehealth appointment for today at 2 PM. You'll receive a link or instructions to join the virtual appointment. If you have any issues, feel free to contact us. Take care, and we’ll see you soon!
+You said:
+“Yeah, thank you. That really helps. And also, I haven't mentioned about when I have the appointment for my, like, improving my health.”
+English Conversational Partner said:
+You’re welcome! If you have any concerns or want to discuss improving your health, feel free to bring them up during your appointment. Our healthcare provider will be happy to assist you with any health improvement plans. Take care, and we’ll see you soon!
+
+
+
+Task 2: Visiting a Bank and Asking for Help with Banking Services
+You said:
+“Hi, good morning.”
+English Conversational Partner said:
+Good morning! How can I assist you today? Are you looking to open a new account or do you need help with something else?
+You said:
+“I want to update my details because I drank my juice last week. I have moved my phone.”
+English Conversational Partner said:
+Certainly, I can help with that. To update your address, we’ll need a valid ID and a proof of your new address, such as a utility bill or lease agreement. Could you please provide those documents?
+You said:
+Transcript Unavailable
+English Conversational Partner said:
+That’s perfectly fine. You can upload them through our online banking portal or bring them to the branch at your convenience. Is there anything else I can assist you with today?
+You said:
+“Well, can you repeat your sentence because I don't hear really well. I mean the last sentence, the last last sentence and not the latest one.”
+English Conversational Partner said:
+Of course. I mentioned that you can upload your documents through our online banking portal or bring them to the branch whenever it’s convenient for you. Is there anything else I can help you with?
+You said:
+“Now I mean that one document I should bring to you.”
+English Conversational Partner said:
+Got it. You’ll need to bring a valid ID and a proof of your new address, such as a utility bill or lease agreement, to update your details. Please bring those documents to the branch when you can. Is there anything else I can assist you with?
+You said:
+“I have my ID now and I can approve my address now. Can you help me with that?”
+English Conversational Partner said:
+Certainly! You can upload your address proof through our online banking portal. If you prefer, I can guide you through the steps. Would you like me to explain how to do that?
+You said:
+“Not really, I will give my ID card for you and can you approve my address?”
+English Conversational Partner said:
+Of course, you can bring your ID and proof of address to the branch, and we’ll take care of the update for you. Just visit us whenever it’s convenient. Is there anything else
+You said:
+“Now, I mean that I want you to do that for me now, not later. Can you hear me? Can you understand me?”
+English Conversational Partner said:
+I understand. If you’re at the branch, you can provide your ID and proof of address at the customer service desk, and we’ll update your details right away. If you need any assistance while you’re here, please let me know.
+You said:
+“So you are the assistant and I will give my ID card for you now and you will approve my address now in your system. Now, not in, not later, okay?”
+English Conversational Partner said:
+Absolutely, I’ll assist you right now. Please hand me your ID card, and we’ll update your address in the system immediately. Thank you for your patience!
+You said:
+“This is my ID card, my new address is 123 in London, 2299, in Newcastle.”
+English Conversational Partner said:
+Thank you for providing your ID and address details. I’ll update your information in our system right away. If there’s anything else you need, feel free to let me know.
+You said:
+“Can I ask about the internal, international transfer? Because I want to transfer to my parents in Vietnam.”
+English Conversational Partner said:
+Of course! For international transfers, we offer several options. You can do transfers through our online banking platform or by visiting the branch. There might be fees associated, and exchange rates may apply. Could you tell me if you prefer to do it online or in-branch? Also, do you need information on fees or the process?
+You said:
+“Maybe now, maybe I want to transfer now. Can you help me with that? Well, I will transfer about 5,000 to my parents.”
+English Conversational Partner said:
+Certainly, I can help you with that. To proceed, I’ll need to confirm a few details:
+The recipient’s full name and bank account information in Vietnam.
+Your account details and ID for verification.
+Any specific instructions or preferences for the transfer.
+Would you like to proceed with these details?
+You said:
+“Yes, I am. I will write the details for the recipients in the paper, and I will give you later. And I will ask you another question, like, how do I check if the international transfers are confirmed and freely transferred to my parents after that?”
+English Conversational Partner said:
+Sure, to check if international transfers are enabled on your account, you can:
+Log in to your online banking account and check under the international transfers section.
+Call customer service to confirm if the feature is active.
+After you complete the transfer, you can track it through your online banking or by contacting customer service for updates. Is there anything else I can help you with?
+You said:
+“So, what should I do if I accidentally transfer money to the wrong account?”
+English Conversational Partner said:
+If you accidentally transfer money to the wrong account, it’s important to act quickly. Here’s what you can do:
+Contact your bank’s customer service immediately to report the error.
+Provide them with the transaction details, including the amount and the incorrect account information.
+The bank will assist in trying to recover the funds. It’s important to act quickly, as there may be limitations on what can be done once the transfer is completed. Is there anything else I can help with?
+You said:
+“How many, how many days that I have to wait when the fund will, will be covered and I will receive my fund? When will I receive my fund?”
+English Conversational Partner said:
+The time it takes to recover funds from an incorrect transfer can vary. Typically, it depends on the bank’s policies and the circumstances of the transfer. It can take anywhere from a few days to a couple of weeks.
+Your bank will work to resolve the issue as quickly as possible. Make sure to keep any communication with the bank regarding this matter. If you have more questions, feel free to ask!
+You said:
+“Can I request a written statement showing my transaction history?”
+English Conversational Partner said:
+Yes, you can request a written statement showing your transaction history. You can do this through online banking, by visiting the branch, or by contacting customer service. They will provide you with a detailed statement of your account transactions. Is there anything else I can help you with?
+You said:
+“Okay, I will check, I will give my, I will give the details of the recipients in Vietnam and Can you give, and after transfer the money to my parents, can you give me the real statement? my transaction history”
+English Conversational Partner said:
+Certainly! After you complete the transfer, you can request a written statement of your transaction history at the branch, through online banking, or by contacting customer service. We'll make sure you have all the documentation you need.

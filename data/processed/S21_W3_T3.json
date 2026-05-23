@@ -1,0 +1,350 @@
+{
+  "student_id": 21,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S21_W3_T3",
+  "source_file": "data\\raw\\#21\\#21\\#21. Week3.docx.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Requesting Maintenance or Repairs in a Rental Property Scenario: Something is broken or needs fixing in your rental accommodation. You are contacting your property manager or landlord to request a repair. Practise speaking clearly and politely in a service setting. You will need to define the chatbot’s role as a property manager or housing agent. You can choose situations from the examples below; start with a basic repair request and try a more detailed interaction by discussing access arrangements, urgency levels, or safety concerns. Learning objectives: • Use clear descriptive and locational language. • Ask and answer questions about cause and urgency. • Practise formal yet direct request language. • (Advanced option) Manage extended repair requests by negotiating access times, explaining complications, or requesting updates on repair status."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure. I’ll play the role of your property manager. Good morning. This is the property office. What seems to need repair in your unit?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“To request not repair, the heater in my bedroom stopped working last night.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. Could you let me know if there are any other issues with it, and how urgently you need the repair? Also, let me know a suitable time for our maintenance team to come by."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“It's quite cold, so it will be great if someone could come soon.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it. I’ll"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Could someone come to check it today or tomorrow?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll arrange for someone to come by either today or tomorrow. Could you please confirm a preferred time or any time that works best for you?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“So today, if anytime is okay, but tomorrow, I will leave at 3 p.m., so before that time, is it okay for me?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That sounds good. We’ll schedule the repair for today or before 3 p.m. tomorrow. I’ll confirm the exact time shortly. Let me know if you have any other concerns."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“So should I stay home, or can I leave the key at reception?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "You can definitely leave the key at the reception if that’s more convenient for you. Just let us know, and we’ll coordinate accordingly. Whatever works best for you is fine."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, so if”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "All right, that works"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“If the time is so, it's more convenient for me to leave a key at reception, but if you can come today, I can stay at home all day, so it doesn't matter for me. So if you fix the time, please let me know.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, that’s perfect. I’ll confirm the time and let you know as soon as we have it scheduled. Thanks for the flexibility, and we’ll make sure everything gets sorted out."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, so what time you can fix it?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "I’ll check our technician’s schedule and let you know the exact time shortly. We’ll do our best to accommodate your availability. Thank you for your patience."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, so if you fix it, please let me know about this number.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll keep you updated and confirm everything via that number. If you have any other questions in the meantime, just let me know."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“None so far. Thank you for arranging this.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re very welcome! It’s my pleasure to help. If you need anything else, just let me know."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Thank you. Goodbye.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You’re welcome! Goodbye, and take care!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Seeking Technical Support for a Device or Service Scenario: You are contacting customer support for a technical problem with your phone, computer, or an online service. You need help troubleshooting or asking for service options. Practise speaking clearly and politely using technology-related vocabulary. You will need to define the chatbot’s role as a tech support agent or customer service assistant. You can choose situations from the examples below; start with a simple issue and try a more detailed interaction by discussing troubleshooting steps, data recovery, or service coverage. Learning objectives: • Practise using tech-related vocabulary and error descriptions. • Follow instructions and sequence events. • Use polite and persistent enquiry language. • (Advanced option) Manage extended support conversations by clarifying error symptoms, asking about warranties or replacements, and confirming next actions."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure. I’ll be your tech support agent. Hello, this is Technical Support. What device or service are you having trouble with today?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Hi, I'm having trouble with my laptop. It started at 12 a.m., and I cannot fix it myself.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I understand. Let's get this sorted out. Could you please describe the issue in a bit more detail? For example, are you seeing any error messages or does the laptop not power on at all?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Now my computer is showing that error, and I tried to reset or re-reset, um, so I'm gonna say”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "No worries. It sounds like you attempted a reset. Could you let me know what steps you tried exactly, and if there were any specific symptoms, like unusual noises or lights on the laptop? That will help narrow down the issue."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“I'm sorry, pardon?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "No problem at all. What I meant was, if you can share more details about what you tried, like any reset steps or any signs you noticed, that will help me guide you more effectively. Let me know whenever you're ready."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“I've already tried restarting and updating, but it didn't work.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Got it. Thanks for that information. In that case, we can try some more advanced troubleshooting steps. Let me know if you’re able to run any diagnostic tools, or if you’d like guidance on how to proceed further."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“So please let me know about proceed process. What should I do? What can I do?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely. The next step would be to check for any software updates or run a system diagnostic if possible. If that doesn’t resolve it, we can look into potential hardware issues or arrange for further support. Let me know which option works best for you."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“I'm sorry, I beg your pardon.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "No worries at all. Feel free to let me know whenever you’re ready, and I’ll be here to help step by step. Just let me know how you’d like to proceed."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Oh, the first step is better for me.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Understood. Let’s start with the simplest troubleshooting step first, and we’ll build from there. If you need any guidance along the way, just let me know."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“So could you tell me what should I try next?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Certainly. The next step would be to run a system diagnostic tool if your device supports it, or to check for any pending software updates. If you let me know what operating system you’re using, I can guide you through those steps in detail."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“It's, uh, Apple. I know, sorry, Windows 11.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Got it, Windows 11."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“About one year old, the error message says you cannot stop, you cannot use this.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Understood."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Command.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "No problem at all. Whenever you’re ready, we can go step-by-step through the troubleshooting process. Just let me know how you’d like to proceed."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Sounds good. Feel free to reach out anytime you’re ready, and I’ll be here to help. Take your time, and I’m here whenever you need assistance."
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Okay, so I will try some resetting. I'm not sure, sorry, what should I try next one? I forgot the next step. Updating.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "No worries at all. After resetting, the next step would be to check for any available updates on Windows Update. Once that’s done, we can also run the built-in troubleshooting tools to see if they detect any issues. Just let me know if you need guidance on any of these steps."
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Okay, so you mean if it's not fixed or after I updating or something like that, so...”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Exactly. If the issue persists after updating, we can move on to more advanced troubleshooting, like checking hardware components or looking into error logs. But we’ll take it step-by-step, and I’ll be here to help throughout the process."
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Okay, I already tried updating and resetting and restarting, so maybe I couldn't, I cannot fix it, I think, so can I get a case number for”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Of course. I’ll"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“no no no no just can i check or some can i”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "No problem at all."
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“and a fake center or something like that.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange that. I can help you find a nearby service center or guide you on how to get your device checked professionally. Just let me know what you prefer, and we’ll take it from there."
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Sounds good! If you need any further assistance or have any questions as you go along, just let me know. I’m here to help."
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Okay, thank you for your support. I'll try those steps and...”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "You’re very welcome!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“yeah i will go to the customer service service center near from here yeah if i need”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "That sounds like a great plan. If you need any more help or have questions along the way, just let me know. Good luck, and I’m here if you need anything further!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "You’re welcome! Have a great day. Top of Form"
+    }
+  ]
+}

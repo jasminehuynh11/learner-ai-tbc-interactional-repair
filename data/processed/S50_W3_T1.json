@@ -1,0 +1,370 @@
+{
+  "student_id": 50,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S50_W3_T1",
+  "source_file": "data\\raw\\#50\\#50\\#50. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, my computer has stopped working.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Oh no, I’m sorry"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Oh no, I'm sorry.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Let’s see how we can"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Let's see how we do.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Could you tell me a bit more about what exactly happened? For example, are you seeing any error messages, or is it just not turning on at all?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Hi, my computer has stopped working.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that! Could you let me know what kind of computer it is and what was happening right before it stopped working? That’ll help me figure out what to do."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I think any lights on my monitor at all.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Got it, that sounds like a connectivity issue. Are you able to see any lights on your computer or on the monitor at all? And is it just the monitor that’s not displaying, or is the computer completely unresponsive?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I think any lights on my monitor at all. When I connect...”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, that’s helpful"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“When I connect to my monitor, the screen flickers.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "I see, a flickering screen definitely points to some kind of signal or connection issue. Have you tried checking the cable connections or maybe testing the monitor with another device to see if it works fine?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I tried checking already the cable, but it doesn't work.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Got it, that’s good to know. In that case, we might want to try something else, like testing the monitor with another computer or trying a different cable. Have you got another device handy to test it with?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Sorry, I tried a different cable already.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "No worries, that’s really helpful to know. In that case, it might be worth checking the graphics card or the computer’s settings. Have you tried restarting the computer or connecting it to a different power outlet to see if that helps?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I have tried restarting the computer. Actually, it is not a computer, just a laptop.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Ah, I see, it’s your laptop. Thanks for clarifying! In that case, have you tried adjusting the brightness or checking if the laptop’s battery is fully charged? Sometimes that can help as well. 텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright, no problem!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Oh, I should try it.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, give it a go, and let me know how it turns out. And if there’s anything else I can help with, just let me know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Is there a technician available today?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, absolutely! I can help arrange that for you. Could you let me know your location or the best time for the technician to come by?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Can you check if there is an outage in the area?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course, I can do that! Could you let me know the name of your city or the area you’re in, so I can look up the available technicians for you?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I live in Sydney.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Great, thanks for letting me know! I’ll check for available technicians in Sydney and let you know the options. Give me just a moment. 텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Alright, I’ll take a quick look and get back to you with some options as soon as I can. Hang tight, and I’ll let you know what I find!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, sure.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "All right, I’ll get that sorted for you and let you know shortly. If you have any other questions in the meantime, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“What should I try before you send someone?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "That’s a great question! Before we send a technician, it might help to try a few more things, like performing a hard reboot, checking for any recent software updates, or even running a built-in diagnostic tool if your laptop has one. Let me know if you’d like more guidance on any of those steps!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Sorry, I don't know how to running a built-in diagnostic tool.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "No worries at all! I’d be happy to guide you through it. Depending on your laptop brand, there are usually specific keys you can press during startup, or you might have a built-in app in your settings. If you let me know your laptop’s brand, I can walk you through the exact steps!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Thank you, but should I watch two guides for me”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Of course! I’ll be"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "\"On YouTube.\""
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Got it! That sounds like a great idea. There are definitely some helpful tutorials on YouTube that can walk you through the process step-by-step. And of course, if you have any questions along the way, I'm here to help as well!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Please give it to me, the link.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely! I can definitely help you find a good tutorial. Just let me know the brand of your laptop, and I’ll look up a suitable video for you. Let me know whenever you’re ready!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“My laptop's brand is Samsung.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Perfect, thanks for that! I’ll find a Samsung laptop diagnostic guide for you and share the link in just a moment. Stay tuned!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Should I wait here or will someone call me?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "I’ll go ahead and find that for you right now, and I’ll share the link here as soon as I have it. If you need more help afterwards, we can definitely arrange for someone to call you as well. Just let me know!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“When come the technician for me?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Once we figure out the issue and if we do need a technician, I can coordinate that for you as well. Usually, it depends on their availability, but we’ll aim for the earliest possible time. Once we have more details, I’ll let you know the exact timing."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“I want to meet he or she today, but it cannot. I can't.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "I understand! We’ll do our best to get someone out to you as soon as possible. If today isn’t possible, we can definitely arrange the next earliest available slot. Just let me know what works best for you, and we’ll make it happen!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Here I meet the technician end of the weekend.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "That sounds like a plan! I’ll do my best to schedule the technician for the weekend, and I’ll keep you updated on the availability. If anything changes or you have any preferences, just let me know!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“If the service isn't fixed by today, do I get a refund or credit?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "That’s a great question! Typically, service providers do offer either a refund or a credit if the issue isn’t resolved in a timely manner. I can definitely confirm the details with the provider and make sure you’re covered. Once we arrange the service, I’ll let you know exactly what to expect."
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Here I took the extra charge.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "I understand, and I’ll make sure everything is clear and fair for you. If you have any specific concerns or questions about the service charges, just let me know, and I’ll make sure we address them thoroughly."
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“I think I'm hearing weak now. So I don't... I cannot...”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "I’m really sorry to"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Extra Charge”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "I completely understand. I’ll make sure we keep everything transparent and fair, and we’ll do our best to avoid any extra charges. If you have any concerns or need further assistance, just let me know, and I’m here to help every step of the way."
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Thank you. Also, this has happened three times this week. What can be done?”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "I’m sorry you’ve had to deal with this so often. In that case, we can definitely look into more permanent solutions, like a thorough hardware check or even exploring a replacement if needed. We’ll make sure to get to the bottom of it and ensure it’s resolved for good. Just let me know how you’d like to proceed, and I’m here to help."
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Is it possible to change to a different monitor for free?”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "That’s definitely something we can explore. If your monitor is still under warranty or if it’s part of a service plan, we might be able to arrange a replacement at no extra cost. Let me check the details for you, and I’ll do my best to help get that sorted out."
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“I still believe it is warranty year.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "That’s great to hear! In that case, we can definitely look into the warranty coverage and see if a replacement or repair is possible at no additional cost. I’ll get the details and help you through the process, so we can get everything resolved smoothly for you."
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“If you can't solve today, who will be able to contact?”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "If it’s not resolved today, you can definitely reach out to the customer support hotline or the dedicated warranty service. I can also provide you with the contact details or even help escalate the issue if needed. Just let me know, and I’ll make sure you have all the support you need."
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“Can you give me a reference number for this request?”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Absolutely! Once we have your request fully logged, I’ll make sure to provide you with a reference number so you can easily track everything. Just let me know when you’re ready, and I’ll get that set up for you right away."
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“Thank you. Have a good day.”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "You're very welcome! You have a great day as well, and if you need anything else, just let me know. Take care!"
+    }
+  ]
+}

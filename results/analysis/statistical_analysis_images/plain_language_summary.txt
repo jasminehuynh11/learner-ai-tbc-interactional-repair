@@ -15,22 +15,22 @@ involve 1-2 sequences; only a small handful of dialogues show very high repair a
 
 WHO INITIATES REPAIRS AND ARE THEY RESOLVED?
 
-Most repairs are learner-initiated (LI, n = 428, 73.0%) rather than 
-bot-initiated (BI, n = 155, 26.5%). Across both types, the vast majority 
+Most repairs are learner-initiated (LI, n = 428, 73.4%) rather than 
+bot-initiated (BI, n = 155, 26.6%), based on 583 classifiable sequences 
+(excluding 3 unclassifiable cases). Across both types, the vast majority 
 of repairs are resolved (86.0% resolution rate), with only a small number 
-of unresolved cases. The chi-square test shows no strong statistical evidence that 
-learner- vs bot-initiated repairs differ in resolution success in this pilot sample 
-(χ² = 404.3696, p = 0.0000).
+of unresolved cases.
 
 
 WHAT CAUSES REPAIRS?
 
-The most common triggers involve vocabulary/lexical issues (31.1%), 
-followed by vocabulary/lexical problems, ASR/pronunciation issues, and self-correction. 
-Bot misunderstandings and contextual errors are relatively rare but important, as they 
-highlight system design limitations. These patterns align with theoretical expectations 
-that vocabulary and comprehension problems are typical sites of negotiation for meaning 
-in second language learning contexts.
+Recurring trigger sources include vocabulary and lexical difficulty, bot 
+misunderstanding or error, pronunciation and ASR-related misrecognition, learner 
+self-correction, and task or procedural misunderstanding. Bot misunderstandings and 
+contextual errors are relatively rare but important, as they highlight system design 
+limitations. These patterns align with theoretical expectations that vocabulary and 
+comprehension problems are typical sites of negotiation for meaning in second language 
+learning contexts.
 
 
 HOW DO REPAIRS RELATE TO PARTICIPATION?

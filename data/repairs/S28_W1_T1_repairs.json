@@ -1,0 +1,74 @@
+[
+  {
+    "dialogue_id": "S28_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      4,
+      5
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner hesitates and self-corrects their order in turn 4, initially saying 'three of coffee' and then specifying 'One cappuccino, flat white, and the other one is mocha.' The bot successfully processes this corrected order in turn 5, resolving the self-correction."
+  },
+  {
+    "dialogue_id": "S28_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      10,
+      11
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner starts to say 'Let's, oh, can I have it in?' in turn 10, indicating a self-correction. The bot interprets this as a request to have the order for here in turn 11, and the conversation continues smoothly, indicating successful resolution."
+  },
+  {
+    "dialogue_id": "S28_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner uses 'mail' instead of 'meal'",
+    "evidence_summary": "The learner asks for a 'recommendation for mail' in turn 12, which is likely a mispronunciation or vocabulary error. The bot interprets this as a request for food recommendations in turn 13, suggesting pastries and sandwiches, resolving the issue."
+  },
+  {
+    "dialogue_id": "S28_W1_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – unclear reference to 'element custom'",
+    "evidence_summary": "The learner mentions 'element custom to take away' in turn 18, which is unclear. The bot interprets this as adding an almond croissant for takeaway in turn 19, and the conversation continues without further issue, indicating resolution."
+  },
+  {
+    "dialogue_id": "S28_W1_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      22,
+      23
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner realizes they already ordered a mocha and requests to change it to a chai latte in turn 22. The bot acknowledges and makes the change in turn 23, resolving the issue."
+  },
+  {
+    "dialogue_id": "S28_W1_T1",
+    "repair_id": 6,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner requests to change the size of their chai latte to regular in turn 24. The bot confirms the change in turn 25, resolving the issue."
+  }
+]

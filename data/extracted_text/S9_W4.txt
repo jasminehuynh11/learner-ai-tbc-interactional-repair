@@ -1,0 +1,383 @@
+[Week 4] 
+Task 1: Discussing Study
+나의 말:
+“Hello.”
+00:01
+English Conversational Partner의 말:
+Hello there! So, let's get started. What can I help you with today?
+나의 말:
+“Yeah, is this academic advisor office, right?”
+00:04
+English Conversational Partner의 말:
+Absolutely! You’ve reached the academic advisor. So, let’s start with the basics: What kind of program or subject are you looking to get advice on?
+나의 말:
+“Okay, and my role is just a student, a university student, or that.”
+00:10
+English Conversational Partner의 말:
+Alright, a university
+나의 말:
+“I'm studying in English academy here.”
+00:01
+English Conversational Partner의 말:
+Got it! A current student it is. So let’s dive in: Are you looking for advice about your courses this semester, or is this more about planning for next year?
+나의 말:
+“I'm studying in English academy here.”
+00:07
+English Conversational Partner의 말:
+Sure, that makes sense. So you're focusing on English studies here. Now, are you trying to figure out which specific English courses you should take, or is it more about how to meet your overall academic requirements?
+나의 말:
+“Yes, I'm studying English Academy in Sydney. I have two months left, but I want to...”
+00:11
+English Conversational Partner의 말:
+Alright, studying English in Sydney with
+나의 말:
+“I want to go to Sydney University because I already had an economic master's degree back home.”
+00:13
+English Conversational Partner의 말:
+Sure, that makes sense. So you’re aiming to get into a university program in Sydney next, since you’ve already got that economics master’s. Now, are you looking for advice on which English courses will help you qualify for that, or is it more about navigating the university admissions process?
+나의 말:
+“Yes, but I want to get another master's degree.”
+00:06
+English Conversational Partner의 말:
+Alright, understood.
+나의 말:
+“In here.”
+00:00
+English Conversational Partner의 말:
+Sure, that makes sense. So you're aiming for another master’s here. Now, do you already have a particular master's program in mind, or do you need some help choosing the right one that fits your goals?
+나의 말:
+“Oh, sorry. Can you say it again?”
+00:02
+English Conversational Partner의 말:
+Of course! So I was just asking if you already have a specific master's program in mind here in Sydney, or if you need a bit of help choosing the right one for your goals.
+나의 말:
+“Yes, I want to learn about policy.”
+00:04
+English Conversational Partner의 말:
+Got it! So you're interested in something related to policy. Now let me ask: are you more interested in public policy, like government and social issues, or maybe something like economic policy?
+나의 말:
+“Economic policies, because I already had an economic master's degree in Korea.”
+00:05
+English Conversational Partner의 말:
+Sure, that lines up perfectly. So you're leaning toward something in economic policy. Now, let's figure out the next step: have you already looked at which universities in Sydney offer that kind of program, or do you need a bit of help with that part?
+나의 말:
+“I don't know the Sydney programs well, so can you tell me the difference? And what is the diploma before master's degree?”
+00:18
+English Conversational Partner의 말:
+Absolutely, I can help with that. So, basically in Sydney, some universities offer a graduate diploma that you can do before a full master's. It's like a stepping stone. Now, let me ask you: would you prefer to start with that kind of diploma program to get familiar with the field, or do you want to jump straight into a master's program if possible?
+나의 말:
+“I got it.”
+00:00
+English Conversational Partner의 말:
+Great! So now that you’ve got that, let me know: would you rather ease in with a diploma first, or just go straight into the master’s if you can?
+나의 말:
+“How long I take a diploma?”
+00:04
+English Conversational Partner의 말:
+Sure! So typically a graduate diploma might take around a year of full-time study. Now, does that timeline sound like something that would fit into your plans, or are you hoping for something shorter?
+나의 말:
+“Should I do a default LOMA before a master's degree?”
+00:04
+English Conversational Partner의 말:
+Sure! So generally, doing a diploma first can help if you want a smoother entry into a master's, especially if you want to build up some local credentials. So my question for you is: do you feel like you'd be more comfortable easing in that way, or are you confident you want to jump straight into the master's program directly?
+나의 말:
+“I'm not good at English school. Is it okay?”
+00:03
+English Conversational Partner의 말:
+Absolutely, that's totally okay. We can work with that. In fact, starting with a diploma might actually give you some extra time to get comfortable with English. So would you like to go that route and get a bit more used to studying in English first, or do you have another idea in mind?
+나의 말:
+“OK, this sounds like something I'd enjoy.”
+00:04
+English Conversational Partner의 말:
+Great! That sounds like
+나의 말:
+“But I have considered that before.”
+00:05
+English Conversational Partner의 말:
+Sure, that makes total sense. Sometimes it just takes a little chatting to see the options. So let me ask: do you feel ready to look into some specific diploma programs now, or do you want to talk through anything else first?
+나의 말:
+“Okay, thanks for your time.”
+00:03
+English Conversational Partner의 말:
+Of course! Happy to help. And if you need anything else, just let me know. Otherwise, take care and good luck with everything!
+나의 말:
+“Okay, thank you.”
+00:01
+English Conversational Partner의 말:
+You're welcome! Take care and all the best with your studies. If you need any more advice, just drop by anytime.
+나의 말:
+“Can I ask one more?”
+00:02
+English Conversational Partner의 말:
+Absolutely! Go right ahead and ask whatever you need.
+나의 말:
+“How do I find...”
+00:02
+English Conversational Partner의 말:
+Sure! So funding
+나의 말:
+“or Muni, who've taken a similar path.”
+00:03
+English Conversational Partner의 말:
+Absolutely, plenty of students take a similar path, so you're definitely not alone in that. Now, just to help you further: are you interested in connecting with any student groups or resources that can guide you along the way?
+나의 말:
+“Okay, thank you.”
+00:01
+English Conversational Partner의 말:
+You're very welcome! And if you need anything else down the line, just let me know. Otherwise, take care and good luck!
+
+나의 말:
+“Bye-bye.”
+00:00
+English Conversational Partner의 말:
+Bye! Take care and have a great day.
+
+
+Task 2: Participateing in Group Decisions 
+나의 말:
+“Hello, I'm Dami.”
+00:01
+English Conversational Partner의 말:
+Alright! Nice to meet you. So, what kind of help are you looking for at the library today?
+나의 말:
+“Yes, we are the same team.”
+00:02
+English Conversational Partner의 말:
+Sure, got it. So you're all together. Are you looking for a particular book or maybe a study space for your group?
+나의 말:
+“Yes, we have just started our group project.”
+00:05
+English Conversational Partner의 말:
+Alright, a group project,
+
+나의 말:
+텍스트 기록 사용할 수 없음
+00:01
+English Conversational Partner의 말:
+Sure! Makes sense. So let's figure out what you need. Do you want me to help you find a good spot to work or are you looking
+나의 말:
+텍스트 기록 사용할 수 없음
+00:00
+English Conversational Partner의 말:
+Alright, I'll help you
+나의 말:
+“We have to do present.”
+00:04
+English Conversational Partner의 말:
+Got it! A presentation
+나의 말:
+“And make the presentation pile.”
+00:05
+English Conversational Partner의 말:
+Sure! So you're working on a presentation together. Do you need any help finding materials or maybe some software or equipment for your slides?
+나의 말:
+“First, can we blend the text together?”
+00:03
+English Conversational Partner의 말:
+Absolutely! Let's do that. What's the first task you want to tackle for your presentation planning?
+나의 말:
+“Yes, it's a speaking test, so we have to choose the topic.”
+00:05
+English Conversational Partner의 말:
+Sure! Choosing the topic is a great starting point. So, do you have any ideas in mind already, or do you want to brainstorm some options together?
+나의 말:
+“Let's brainstorming, what about you? What is your opinion? Can you recommend your topic?”
+00:08
+English Conversational Partner의 말:
+Absolutely! Let's see. One idea might be to pick a topic that everyone in your group finds interesting, maybe something related to current events or a theme you're all studying. So, is there a subject area you're all curious about that we could start with?
+나의 말:
+“Oh sorry, can you say that again?”
+00:01
+English Conversational Partner의 말:
+Sure! So basically, we can pick a topic that everyone in your group finds interesting. For example, something related to a subject you're all studying or a current event. So is there any area you're all curious about that we could use as a starting point?
+나의 말:
+“Yes, I think, in my case, our country is so different each other, so I recommend, I suggest”
+00:11
+English Conversational Partner의 말:
+Sure, I get that!
+나의 말:
+“Can we speak table manners?”
+00:06
+English Conversational Partner의 말:
+Absolutely! Table
+나의 말:
+“about our country.”
+00:01
+English Conversational Partner의 말:
+Sure! That sounds like a really interesting angle. So let's go with table manners in your country. Now, do you want to focus on any specific traditions or differences that you think might surprise people?
+나의 말:
+텍스트 기록 사용할 수 없음
+00:02
+English Conversational Partner의 말:
+Gotcha! So we
+나의 말:
+“I think we have to talk about different things and the same things, I suppose.”
+00:07
+English Conversational Partner의 말:
+Absolutely, that makes perfect sense. So we can definitely cover both differences and similarities. Let's start by listing maybe one or two unique table manners that are really special in your culture. What comes to mind first?
+
+나의 말:
+“Oh, sorry. Can you say that again?”
+00:01
+English Conversational Partner의 말:
+Sure! I was just saying we can definitely cover both the differences and the similarities. So let's start by thinking of one unique table manner from your culture that stands out to you.
+나의 말:
+“You said we have to think our unitable manner, right?”
+00:04
+English Conversational Partner의 말:
+Exactly! So just one unique table manner from your culture to start with. What's something that really stands out to you?
+나의 말:
+“I think we do have many...”
+00:03
+English Conversational Partner의 말:
+Sure, absolutely!
+나의 말:
+“chat a lot of time about thinking that manner so”
+00:05
+English Conversational Partner의 말:
+Got it! So we'll definitely take our time exploring those manners. Now, how about we pick just one to start with and then we can move on from there?
+나의 말:
+“Oh, it's a good idea.”
+00:01
+English Conversational Partner의 말:
+Great! So let's do that. What's one table manner that you think is a good one to start with for your presentation?
+나의 말:
+“Oh, yes, but, um, we...”
+00:03
+English Conversational Partner의 말:
+Sure! No worries.
+나의 말:
+“Our deadline is...”
+00:01
+English Conversational Partner의 말:
+Ah, got it!
+나의 말:
+“Two days later, so until today, we will search our table minutes about our countries and will give me the URL information.”
+00:17
+English Conversational Partner의 말:
+Absolutely, that makes sense. So we've got a couple of days, and we'll start with the table manners from your countries first. Now, can you share just one detail you'd like to include so I can help you build from there?
+나의 말:
+“One detail.”
+00:01
+English Conversational Partner의 말:
+Exactly! Just one small detail is fine to start with. For example, maybe a certain way people sit at the table or something people say before eating. Just share one of those.
+나의 말:
+“In Korea, with either people, we have to wait for the people eat first.”
+00:17
+English Conversational Partner의 말:
+Perfect! That's a great detail. So in Korea, you wait for the older person to start eating first. That's definitely something we can include. Now, do you have another tradition like that you'd like to add, or should we move on to the next part of your planning?
+나의 말:
+We will search more information
+00:00
+English Conversational Partner의 말:
+Sure! So we've got that first detail down. Let's go ahead and move on to planning the next part of your presentation. What else would you like to include?
+나의 말:
+“Yes, first we will do a search and a search about Table Manners. After that, we will talk about this and, yes, and make the presentation together. Is it right?”
+00:14
+English Conversational Partner의 말:
+Absolutely! That sounds like a great plan. So first you'll do some research on those table manners, and then we can chat about it and shape the presentation. What kind of resources do you think you'll need for the research?
+나의 말:
+“And what thing or kind of?”
+00:02
+English Conversational Partner의 말:
+Sure! I just meant like what kind of sources or maybe books or websites you might want to use. So do you have any idea where you’d like to start looking for those table manners?
+
+나의 말:
+“Also, whatever if you want, whatever, yes, whatever if you want.”
+00:04
+English Conversational Partner의 말:
+All right! That sounds good. We can definitely pick whatever works best for you. So let's just start with maybe a simple website or
+나의 말:
+“Yes, I will use the smartphone.”
+00:03
+English Conversational Partner의 말:
+Sure! Using your smartphone is a great idea. You can just look up some cultural sites or even videos on table manners. So go ahead and start there, and then we can chat about what you find.
+나의 말:
+“OK.”
+00:00
+English Conversational Partner의 말:
+Great! That sounds like
+나의 말:
+“See you tomorrow.”
+00:02
+English Conversational Partner의 말:
+Absolutely, see you then! Feel free to let me know what you find, and we’ll keep building your presentation together.
+나의 말:
+“OK. Bye bye.”
+00:02
+English Conversational Partner의 말:
+All right, bye-bye! Have a good one, and we'll talk soon
+
+
+
+3) Responding to Feedback
+나의 말:
+“Hello.”
+00:00
+English Conversational Partner의 말:
+Hello there! What can I do for you today?
+나의 말:
+“First, I will describe my situation.”
+00:04
+English Conversational Partner의 말:
+Absolutely! Go ahead
+나의 말:
+“And I'm participating in feedback section with teacher, manager, or supervisor, whatever you want. You need to listen activity, and ask a question, respond respectful, like this.”
+00:17
+English Conversational Partner의 말:
+Alright, I can do that! So, let’s say I’m your manager here for a feedback session. To get us started, what’s one thing you’d like to discuss or get feedback on today?
+나의 말:
+“Yes.”
+00:00
+English Conversational Partner의 말:
+Great! So let
+나의 말:
+텍스트 기록 사용할 수 없음
+00:01
+English Conversational Partner의 말:
+Hi again! So let's jump in. What's one area where you'd like some feedback or have a question about how you're doing?
+나의 말:
+“We have just finished our group project. Could you please share your comments?”
+00:07
+English Conversational Partner의 말:
+Sure! I'd be happy to share my thoughts. Overall, you did a really solid job on that group project. Now, can you tell me which part of the project you personally found most challenging?
+나의 말:
+“Oh sorry, can you save it again?”
+00:02
+English Conversational Partner의 말:
+Of course! So, just to share my comments again: you did a really solid job on the project overall. And I'm curious, what part of it did you find the most challenging personally?
+나의 말:
+“Challenging most confidence?”
+00:02
+English Conversational Partner의 말:
+Got it! So the most challenging part for you was building up your confidence. That makes sense and it's totally normal. Now, is there a specific situation where you felt that confidence was the hardest for you?
+나의 말:
+“Okay, thanks. I will make sure to check detail more carefully.”
+00:04
+English Conversational Partner의 말:
+Absolutely! That sounds like a good plan. And is there anything else you'd like some feedback on or any other area you'd like to discuss?
+나의 말:
+“Do you mean I should change?”
+00:02
+English Conversational Partner의 말:
+Sure, I get what you're asking. I just mean maybe it's about small improvements, not necessarily changing who you are. So is there a particular skill you feel you'd like to improve on going forward?
+나의 말:
+“I will make those changes and update later.”
+00:05
+English Conversational Partner의 말:
+Alright, that sounds like a good approach. So we can definitely touch base after you've made those updates. Anything else on your mind that you'd like to go over right now?
+나의 말:
+“Yes, is this finish it your comment?”
+00:06
+English Conversational Partner의 말:
+Absolutely, that covers my main comments for now. If there's nothing else you need, just let me know whenever you're ready.
+나의 말:
+“Okay, thanks again. This gave me a lot of- a lot to think about.”
+00:07
+English Conversational Partner의 말:
+Sure thing! I'm glad it was helpful. If you have any more questions later, just let me know.
+나의 말:
+“Yeah, that's all. Thank you.”
+00:02
+English Conversational Partner의 말:
+You’re welcome! Glad I could help. Take care and see you next time!

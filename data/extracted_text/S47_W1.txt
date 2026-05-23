@@ -1,0 +1,187 @@
+TASK 1: 
+You said: 
+ “Hi, I would like to order a coffee today!”
+English Conversational Partner said:
+Sure! What kind of coffee would you like?
+You said:
+“Can I get a cappuccino, please?”
+00:03
+English Conversational Partner said:
+Absolutely, a cappuccino it is! Would you like it hot or iced today?
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+No worries, take your time! Just let me know when you're ready, and we can go from there.
+You said:
+“Oh, ice. Today, ice. Yes.”
+00:01
+English Conversational Partner said:
+Got it, an iced cappuccino! Would you like any flavor shots or sweeteners added to it?
+You said:
+“Yes, what do you recommend actually?”
+00:02
+English Conversational Partner said:
+Well, some popular choices are vanilla, caramel, or even hazelnut. Do any of those sound appealing to you?
+You said:
+“Please, when you're ready.”
+00:01
+English Conversational Partner said:
+Perfect, a little vanilla it is! Anything else you'd like to add, like extra milk or maybe some whipped cream?
+You said:
+“No, no.”
+00:01
+English Conversational Partner said:
+Alright, that sounds great! So that’s one iced cappuccino with vanilla. Anything else I can help you with today?
+You said:
+“So, yes, what do we recommend today for AIeach?”
+00:03
+English Conversational Partner said:
+For a nice treat, you could try a mocha or maybe a caramel macchiato if you're in the mood for something a bit sweeter. Let me know what you think!
+You said:
+“Do you have anything you wish to toast?”
+00:04
+English Conversational Partner said:
+Absolutely! We’ve got some delicious pastries, like croissants, muffins, or even some biscotti. Anything in particular that you'd like to try?
+You said:
+“Yes, I will try them also.”
+00:01
+English Conversational Partner said:
+Great choice! I’ll add a muffin to your order as well. Anything else I can get for you right now?
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+Perfect, that’s all set then! One iced cappuccino with vanilla and a muffin. I’ll get that ready for you right away!
+TASK2
+🍽️ Booking a table at a restaurant 🗨️ “Hi, I’d like to book a table for two tonight.”
+English Conversational Partner said:
+Sure! What time would you like the table for tonight?
+You said:
+“Hello, I would like to book a table tonight, please.”
+00:05
+English Conversational Partner said:
+Absolutely! Do you have a preferred time for your reservation?
+You said:
+“No, no.”
+00:01
+English Conversational Partner said:
+No worries at all! In that case, would you like to let me know what time range works best for you, or should I suggest some available slots?
+You said:
+“Oh, I'm sorry. Can you do that again, please?”
+00:02
+English Conversational Partner said:
+Of course, no problem at all! Just let me know what time you’d like your reservation, or if you’d like me to recommend some available times for you.
+You said:
+“So please, 8pm.”
+00:02
+English Conversational Partner said:
+Perfect! A table for two at 8 p.m. it is. Could you also let me know the name for the reservation and any special requests?
+You said:
+“Yes, my name is Pedro.”
+00:01
+English Conversational Partner said:
+Great, thank you, Pedro! And just to confirm, is there anything specific you’d like, such as a preference for seating or any dietary restrictions?
+You said:
+“So do we have any tables in outside?”
+00:03
+English Conversational Partner said:
+Yes, we do have outdoor seating available! Would you like to request an outdoor table for your reservation?
+You said:
+“Yeah, please.”
+00:01
+English Conversational Partner said:
+Perfect, I’ll make sure to reserve an outdoor table for you at 8 p.m. for two people. Is there anything else I can help you with, or is that all set?
+You said:
+“Do you have any recommendations for what I drink today?”
+00:04
+English Conversational Partner said:
+Absolutely! We have some great options, like our signature cocktails, or some refreshing mocktails. Do you have a preference for something sweet, fruity, or maybe something more classic?
+You said:
+“So can you have a speech for me while I...”
+00:07
+English Conversational Partner said:
+Of course! I’ll make sure to have a nice spritz ready for you. If you have any other requests or need anything else, just let me know!
+You said:
+“No, that's it.”
+00:01
+English Conversational Partner said:
+Wonderful! All set then. I’ll see you tonight at 8 p.m. for your reservation. If you need anything else, just let me know. Looking forward to having you!
+You said:
+“Thank you. Have a good day.”
+00:01
+English Conversational Partner said:
+You're very welcome! You have a great day as well, and I’ll see you tonight. Take care!
+You said:
+“Thank you, bye.”
+00:00
+English Conversational Partner said:
+You're welcome! Bye for now, and have a great one!
+
+
+
+
+
+
+
+
+
+
+
+
+
+TASK 3: 
+How's it going?”
+00:01
+English Conversational Partner said:
+Hey there! I’m doing great, thank you! How about you? What can I help you with today?
+You said:
+“Let me go, let me go. So, I bought one jacket the last week, but it doesn't fit.”
+00:09
+English Conversational Partner said:
+Ah, gotcha!
+You said:
+“Could I change for a new site?”
+00:04
+English Conversational Partner said:
+Absolutely, you can definitely exchange it. Do you have the receipt with you, and is there a specific size or color you’re looking for in the exchange?
+You said:
+“Yes, I have the receipt and I can exchange for a new color too, but for me the principal is a new size, do you know?”
+00:17
+English Conversational Partner said:
+Got it, that makes sense! Absolutely, we can sort out the right size for you, and if you’d like a different color, we can definitely check availability as well. Could you let me know what size you need now?
+You said:
+“So I need this size large, yeah, and the black color.”
+00:06
+English Conversational Partner said:
+Perfect, a large in black. That should be doable! Let me just confirm our stock, and we’ll get that sorted for you. Is there anything else I can help you with?
+You said:
+“So that, I think is that it, but do you have anything jacket for me, for Missy?”
+00:10
+English Conversational Partner said:
+Absolutely, we can definitely check out some options for you for the winter season as well. Let me know if you have any specific preferences or features in mind, and we’ll find the perfect one for you!
+You said:
+“Thank you.”
+00:00
+English Conversational Partner said:
+Great! I'm glad to help. If you think of anything else or need any more assistance, just let me know. Otherwise, I’m here whenever you need!
+You said:
+“I'm sorry, go again.”
+00:01
+English Conversational Partner said:
+Of course, no worries at all! If you need anything else or have any more questions, just let me know. I’m here to help!
+You said:
+“No, thanks. I don't have a question more. Thank you.”
+00:03
+English Conversational Partner said:
+You’re very welcome! If anything comes up, feel free to reach out. Have a great day!
+You said:
+“Thank you. Have a good day, too.”
+00:01
+English Conversational Partner said:
+Thank you so much!
+You said:
+“You got it?”
+00:00
+English Conversational Partner said:
+Take care, and talk to you later!

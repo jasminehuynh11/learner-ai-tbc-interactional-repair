@@ -1,0 +1,47 @@
+[
+  {
+    "dialogue_id": "S34_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      28,
+      29,
+      30
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "phonological confusion / mishearing ('snow' vs 'smoothly')",
+    "evidence_summary": "The learner asks for clarification on the word 'smoothly' in turn 28. The bot explains the meaning in turn 29, and the learner acknowledges with 'Thank you so much' in turn 30, indicating the issue is resolved."
+  },
+  {
+    "dialogue_id": "S34_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner unsure about providing contact details",
+    "evidence_summary": "The learner questions whether they need to provide contact details in turn 34. The bot reassures them in turn 35, and the learner insists on providing details in turn 36. The bot then asks for the details in turn 39, and the learner provides them in turn 40, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S34_W1_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects the number of additional people",
+    "evidence_summary": "The learner initially asks to add one person in turn 56, but then corrects to 'more two people' in turn 58. The bot confirms the total as four people in turn 59, and the learner agrees in turn 60, resolving the self-correction."
+  }
+]

@@ -1,0 +1,155 @@
+{
+  "student_id": 43,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S43_W3_T2",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting a lost item or filing a minor police report"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, I want to practice reporting a lost item or filling a minor police report. In this scenario, I will lost something very important and the object that I've lost is a wallet and I need to report it to the police station for a minor report. I want to practice speaking clearly and politely in a formal setting and you will play the role of the police officer and”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course, I'd be happy to help! I'll take on the role of the police officer. Let's start. So, can you please tell me what happened and when you noticed that your wallet was missing?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hi, I just realised that I lost my wallet at the train station and I would like to make a report.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. No worries, we’ll sort it out. Could you let me know the exact time or the approximate time when you last had your wallet at the train station?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I left the train station at 7.30 a.m. I think, oh, it's exactly yesterday morning.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, thank you. And could you describe the wallet for me? For example, the color, brand, or any distinctive features it might have?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Thank you for that description. That’s really helpful. And do you happen to remember exactly where in the train station you last saw it, like a specific area or a platform?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I think the last time that I saw my wallet was the time when I bought the ticket at the train station, and after that, I cannot recall any other time that I've seen my wallet.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I see, that’s definitely useful information. And just to confirm, do you remember if you might have had any identification or important cards inside the wallet? That can help us as well."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“As I can remember, in my wallet, I have my bank card, my health insurance card, my identity ID card, and I think I also lost my driver's license. It's in the wallet as well. And besides, I also have just a few coins, and I think I have a $5 bill in the wallet as well.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, that definitely helps us get a clear picture. Thank you for sharing those details. Is there any other information you think might be relevant, or would you like to add anything else before we proceed?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I cannot recall the last time I saw my wallet clearly, but there are some details that I think would help you to trace it.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, any details you can provide will be helpful. Feel free to share anything you think might assist us in locating your wallet. And once we have all the details, we’ll proceed with filing the report."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“As I can remember, after I bought the ticket, I was wandering around the hall at the centre of the train station. I spent some time at a bookshop nearby, and then I went upstairs just to have a look around the city. And then I went down to Platform 2. I sat on some of the benches while waiting for the train. I don't know if at that time I was sitting near a person. I don't want to blame the person or suspect them of being a pickpocket. But I wonder if it would be a good indication for you to trace it.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, that’s really helpful context. We can definitely include those details in the report. And with all this information, we’ll do our best to track it down. If there's anything else you remember or any other details that come to mind, just let me know."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“I just wonder what happens if someone finds it.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Great question! If someone finds it and turns it in, we’ll get in touch with you using the contact details you provided. We’ll also keep you updated on any progress we make. And of course, we’ll do our best to ensure everything is safe and secure. If you have any more questions, I’m here to help!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, I want to ask if there is any lost property website that I can check for.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely! Typically, many police departments have a lost and found webpage, and there are also general community lost property websites that you can check. I can definitely provide more specific details depending on your location. Just let me know, and I’ll help you out!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Thank you very much. Should I leave my contact details?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, absolutely! It’s definitely a good idea to leave your contact details so we can reach out as soon as we have any updates. That way, we can ensure that you’re informed promptly. Let me know if you need any assistance with that!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“No, I think I can do it myself. Thank you for your help. I have another question. Can you call me if it's found?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course, we’ll definitely give you a call as soon as we have any news. Just make sure we have your correct contact information, and we’ll keep you updated. And if you have any other questions, I’m always here to help!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Because I lost my ID card and my driver's license in the wallet as well, I wonder if I'll still be able to drive the car during this time.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "That’s a great question. Typically, you’ll need a valid ID and driver’s license to drive legally. It might be a good idea to carry a temporary permit or visit the nearby service to get a replacement as soon as possible. But definitely let us know if you need any guidance on that!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yes, thank you for that. I will contact the New South Wales Service to see if I can get a permit to drive. Thank you for your help. I think that's it for today, and I would look forward to your good news.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. Definitely feel free to reach out if you have any more questions, and I’ll keep my fingers crossed for some good news. Take care, and have a great day!"
+    }
+  ]
+}

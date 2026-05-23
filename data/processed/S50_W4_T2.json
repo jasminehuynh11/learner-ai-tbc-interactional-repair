@@ -1,0 +1,230 @@
+{
+  "student_id": 50,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S50_W4_T2",
+  "source_file": "data\\raw\\#50\\#50\\#50. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, we've just started our group project. Can we plan the text together?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! I'd love to help out. What kind of project is it, and what specific tasks do you have in mind for us to plan together?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“It's almost vacation time. We have to finish all the work in our department.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! So, let's break down what needs to be done before the vacation. What are the main tasks or milestones that you want to tackle first?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“As a class teacher, it would probably be my job to finalize and check the students’ reports.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, that's an important task! So, we can definitely plan out how to review and finalize those records. Do you already have the students' data on hand, or do we need to gather some information first?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I already have the students' data on hand, but”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect, that definitely 텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“But I had the data, but I couldn't write it down smoothly in my own words after transferring it.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "I understand, that can be tricky sometimes. We can definitely work on refining the wording together. Would you like to go through a specific section, or do you want some general tips on how to summarize the data more smoothly?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Can you recommend go through a specific session?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! Just let me know which section you’d like to focus on first—maybe a particular student's record or a certain type of information—and we can tackle it step by step."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“But that assignment is due next week. Can we decide who will do each part?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a great plan! So, let’s break it down and assign each part. Which sections do you have in mind, and do you already have any preferences for who might handle what?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "\"We just need to choose it.\""
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! So, let’s go ahead and choose the best fit for each part. If you have any ideas about who might be best for certain tasks, we can definitely coordinate that. Let me know what you’re thinking!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, let's talk about how to divide the research and writing sessions fairly.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That sounds great! We can definitely make sure the workload is balanced. Let's consider how much research each section needs and how much writing is involved. Then we can pair up tasks accordingly. Sound good?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Good. Maybe we can pair up tasks accordingly.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, that 텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I see your point, but I want to do the wiring part.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it, that makes perfect sense! We can definitely arrange it so that you handle the writing part. In that case, we can assign the research tasks to others and then you can bring it all together. Sound good?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Can I take notes while someone else presents?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a great idea! You can definitely take notes while others present, and that will help you when you’re working on the writing part. We can coordinate the presentations and the note-taking so everything flows smoothly."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, let's message each other if we run into problems.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "That sounds like a plan! We’ll keep the communication open, and if anything comes up, we’ll handle it together. I’m sure we’ll get everything done smoothly!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“It sounds like good. Can we find a middle option?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely find a good balance and make sure everyone’s comfortable and on the same page. Just let me know what works best for you, and we’ll make it happen!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Should we check in every few days to stay on track?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Yes, definitely! Checking in every few days is a great idea to keep everyone aligned and ensure we’re on track. We can set up a quick check-in schedule so nothing slips through the cracks. Sounds good!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“If someone can't meet the deadline, how should we handle that?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That’s a great question! We can definitely have a backup plan in place. Maybe we can redistribute tasks or offer a little extra support if needed. It’s always good to keep open communication and make adjustments as we go."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“But I can take notes when someone else presents.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, that works perfectly! You can focus on taking notes during those presentations, and that’ll definitely help when it’s time to write everything up. We’ll make sure everything flows smoothly and that you’re all set!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“If I take notes while someone else presents, we will meet the deadline first.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Exactly! That way, we’ll keep everything organized and on schedule, and we’ll definitely meet our deadline. It’s all about teamwork, and I’m sure we’ll do great together!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "\"I'm happy to try the presentation, but I've never done it before. Any tips?\""
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Of course! I’d be happy to help. A good tip is to start by organizing your main points clearly and practicing a few times out loud. Also, keep it simple and engaging, and don’t worry about being perfect. And I’m always here if you need support!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“This part feels a little bit difficult for me. Can you cheer me up?\""
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be glad to help! We can go step-by-step and break it down into smaller, more manageable pieces. And if you ever need more guidance or some practice, I’m here for you every step of the way!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Does anyone have experience with this type of project?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "That’s a great question! 텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“OK, I appreciate it.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Of course! I’m really glad to help, and I’m sure we’ll make this project a success together. Just let me know whenever you need anything!"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "student_id": 18,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S18_W1_T3",
+  "source_file": "data\\raw\\#18. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task three"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello, I bought this shirt last week but it doesn’t fit. I have the receipt here. So, could I exchange it for a smaller size?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely! Usually, as long as you've got the receipt and it's within the return or exchange policy timeframe, you should be able to swap it for a smaller size. Just check with the store, and they’ll guide you through the process."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Thank you. Because it is too large for me and I think there is a little bit stain in the sleeve.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Got it, that makes sense. Hopefully, the store will still accept the exchange, especially if the stain is minor or can be overlooked. It never hurts to ask, and they’ll likely help you out with a solution. “Okay, so can I get a refund or store credit?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Yeah, typically, it depends on the store’s policy. Some places offer a refund if the item is in its original condition, and others might give you store credit. It's always good to confirm with them directly, but usually, you have options."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, so I want to ask more further information, like how many days do I have to return an item?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Yeah, absolutely! Usually, the return window can vary depending on the store, but it's often around 30 days. It’s definitely best to check the specific store’s policy, so you know the exact timeframe and any conditions that apply."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, so, okay, let me take a look. So, can I exchange this for something else in the same price range?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Yeah, absolutely! Usually, if you’re exchanging for something of the same value, it’s pretty straightforward. And if the item you choose costs a bit more, you can just pay the difference. So it should be pretty flexible!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, let me take a look around the shop.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sounds good! Take your time, and if you have any other questions while you’re browsing, just let me know. Hope you find the perfect"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "You're very welcome! Happy to help, and good luck with the exchange. Just let me know if you need anything else!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“OK, then.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, sounds good!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Oh, if I buy this as a, yes, I take this out, maybe I think this is better. And if I buy this as a gift, can the person return it without a receipt?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "It can depend on the store’s policy. Usually, if it’s a gift, they might offer store credit or an exchange at the item’s current price, even without a receipt. It’s always a good idea to check beforehand, but most places are pretty accommodating."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And my husband bought another jumper in the shop and I noticed a loose seam. Could you fix it here or should I return it?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Updated saved memory Got it! If it's just a small loose seam, sometimes the store can fix it on the spot, or they might offer a quick repair service. But if it’s more significant or you’d prefer a new one, returning it is definitely an option. It kind of depends on how comfortable you are with it."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, so can I return this if I've already taken off the tax?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "It really depends on the store’s return policy. Some stores are pretty flexible and will accept returns even if the tags are off, as long as the item is in good condition. Others might require tags to be intact. It’s always best to double-check with them, but it’s definitely worth asking!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And...”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You're welcome!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yes, I bought this”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I bought this electronic device on your online shop. And what happens if the item is damaged when I open it?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Gotcha! If the item arrives damaged, most online shops will typically have a return or replacement policy for that. You’ll usually need to contact their customer service, provide some evidence like photos, and they’ll either send you a replacement or issue a refund. It’s always good to check their specific policy just to be sure."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And of course, because this is near Christmas, right, so do you offer extended returns for Christmas purchases?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Yes, a lot of stores do offer extended return windows around the holiday season, so you might have a longer period to return gifts. It’s definitely worth checking the store’s holiday policy, and that way you can be sure of the exact dates and conditions."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“That's perfect. Thank you very much, and I'm so sorry for asking so many questions.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Oh, no need to apologize at all! I'm always happy to help, and your questions are totally fine. Feel free to ask anything you need!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, thank you, and I appreciate you explaining that policy, and thanks for your help. See you!”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You're so welcome! I'm glad I could help. Anytime you need assistance, just let me know. Have a great day, and see you next time!"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "student_id": 29,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S29_W4_T2",
+  "source_file": "data\\raw\\#29\\#29\\#29. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Participating in Group Decisions and Negotiating"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, we have started our project. Can we plan the task together? We are going to give a presentation in front of the class for the science subject.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! So, to start, maybe we can break down the presentation into sections. Do you have any ideas about which part you'd like to handle, or should we go through the topics first and then decide?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yes, let's go through the topic first and we can decide how deep we need to talk about and what topic is related and then we can share different topics among us.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That sounds like a solid plan! So, let’s start by listing out the main topics we need to cover for the presentation. Once we have that, we can figure out who might be interested in each part. Sound good to you?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yeah, our topic is about how coffee affect human beings.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Perfect, that’s a great topic! So we can consider sections like the history of coffee, the chemistry behind caffeine, its effects on humans, and maybe even the cultural impact. Which of these areas interests you the most?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I'm interested in studying the history of coffee, and for example, which country is the first one to discover coffee bean, and which country has the most variety of coffee.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That’s awesome! The history of coffee is definitely fascinating. We can dive into the origins in Ethiopia and then explore how it spread to the Arab world and beyond. And we can also look at countries like Brazil and Colombia for their coffee varieties. Does that sound good to you?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yeah, that's great. And I'm wondering how much time I should put on this part. The whole presentation is about 20 minutes.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Got it! For a"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“So, I think this part should just cover around 2 minutes. Do you agree?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, that sounds reasonable. Two minutes should give a nice overview without taking too much time. We can then allocate the remaining time to the other sections. Sound like a plan?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yeah, that's a good plan, so what's the next part?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great! Next, we can move on to the chemistry and effects of caffeine on the human body. Does that sound good to you, and would you like to take that section, or should we divide it up differently?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Do you want to include a part that is talking about how the modern coffee culture is affected by the history. So it's just like a transition between the history and the modern coffee culture.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a fantastic idea! We can definitely include a section that bridges the historical origins with how coffee culture has evolved today. That way, it’ll flow nicely into the modern effects and trends. Let’s plan to weave that in between the history and the chemistry sections. Sound good?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yeah, that's great. And do you know anything about the chemistry behind the caffeine?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely! Caffeine is a stimulant that affects the central nervous system, and it works by blocking adenosine receptors, which helps to keep us alert. We can definitely touch on that in the presentation and maybe highlight how it impacts our daily lives. Let me know if you’d like to dive deeper into that part!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, I think we need to talk deeper because this information is quite common in our daily lives and I think lots of us already know this kind of information. So I think we need to talk deeper, like talking about how caffeine affects different careers and different peoples.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "I love that idea! We can definitely explore how caffeine affects different groups, like students, professionals, and even athletes. We could also touch on the varying sensitivities people have to caffeine. That’ll definitely make it more engaging and insightful for the audience. Sounds like a plan!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, that's great. And do you think we need to put one more part talking about the advantages and disadvantages of consuming caffeine?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, that would be a fantastic addition! We could definitely include a section on the pros and cons of coffee culture, like the benefits of socializing in cafes and the potential downsides of excessive caffeine consumption. That would round out our presentation nicely. Sounds perfect!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Do you think we need a shared document on the online platform to manage our tasks?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, definitely! A shared document would help keep us all on the same page and make it easy to coordinate our sections, deadlines, and notes. That way, we can all contribute and edit seamlessly. Let’s set that up and make sure everyone has access. Sounds like a great plan!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Do you have any concern about our plan?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "I think we’re on a good track so far! One thing to keep in mind is making sure we balance the time for each section, and that everyone feels comfortable with their parts. But overall, I’m confident we’ll put together something great! Let me know if there’s anything specific you’re worried about."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yes, I think it's better for us to finalize our project as soon as possible, and then we can do some rehearsal, and then also have time management.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds like a great approach! Finalizing everything quickly will give us plenty of time to rehearse and refine our delivery. And with good time management, we’ll definitely be well-prepared. Let’s keep that momentum going!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Do you think we need to set up dealines now?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Setting up some deadlines for each section will definitely help keep us on track and ensure we have enough time to review everything. Let’s definitely establish those sub-deadlines so we stay organized and efficient!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“And about the theme of the PowerPoint and which colors do you want to use, black and white or some themes with colors?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "I think a balanced approach could work well. We could go with a clean, neutral background, like black or white, and then incorporate some colorful accents to highlight key points. That way, it’ll look professional but still engaging. Let me know if you have any preferences as well!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“That's a good idea. I think black and white theme with highlighting makes the whole presentation look more professional and it's clearer”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, that"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“for our classmates and the teachers to look at.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Exactly, it’ll keep everything clear, professional, and easy to follow, which is always great for a classroom setting. I’m really looking forward to how it all comes together!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“So can you help me set up a structure of the powerpoint now?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Of course, I'd be happy to help! We can start by outlining the main sections we discussed, and then organize them into slides. Once we have that framework, we can decide on visuals and content for each part. Let’s dive in whenever you’re ready!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Do you think we need to include pictures in each slide to make it more attractive? And how many pictures should we put in it?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Absolutely, adding visuals can definitely make it more engaging! Usually, one or two well-chosen images per slide works well, so it doesn’t get too cluttered. We can use pictures that highlight key points and keep the audience’s attention. Let me know what kind of images you have in mind!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“For now, I don't have much idea about the images I need to put in the slides. I will tell you later if I come up with something. One more question. Do you think we should do some survey or get some data from the net to construct a chart or diagram?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "That’s a great idea! Including some survey data or relevant statistics can definitely add depth and credibility to our presentation. We can look for some interesting trends or findings related to coffee consumption and then create a chart or graph to visually represent that. Just let me know whenever you have some ideas, and we can definitely incorporate that!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“I think that's all for now, and we have a group planning and...”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "That sounds perfect!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“We can use our time at home to...”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Exactly, that’s a great plan. We can definitely use our individual time to prepare our parts, and then come together to fine-tune everything. I’m excited to see how it all comes together. Just let me know if you need anything else in the meantime!"
+    }
+  ]
+}

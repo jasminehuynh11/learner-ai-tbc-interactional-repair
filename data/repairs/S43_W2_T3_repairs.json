@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S43_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      26,
+      27,
+      28
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner's uncertainty – confirming process details",
+    "evidence_summary": "The learner in turn 26 explicitly asks for confirmation regarding the application process before the inspection, indicating uncertainty about a procedural detail. The bot clarifies and confirms in turn 27, and the learner's positive response in turn 28 ('Yes, that's great') shows the issue was resolved."
+  }
+]

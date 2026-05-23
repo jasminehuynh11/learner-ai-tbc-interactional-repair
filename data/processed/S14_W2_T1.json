@@ -1,0 +1,145 @@
+{
+  "student_id": 14,
+  "week": 2,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S14_W2_T1",
+  "source_file": "data\\raw\\#14\\#14\\#14. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Formal Interactions with Essential Services"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "\"Hi, l'd like to make an appointment to see a doctor.\""
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! May I ask what the reason for your visit is today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "\"I've had a sore throat and cough a few days. Is anyone available tomorrow morning?\""
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I'm sorry you're feeling under the weather! Let me check the schedule for tomorrow morning. Do you have a preferred time, maybe around 9 AM?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "\"Yes, it works for me.\""
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great! I'll book you in for 9 AM tomorrow. Could I have your full name and a contact number just in case we need to reach you?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "\"012-345-67893.\""
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Perfect, thank you! I've got that down. Is there anything else I can help you with or any other details you'd like to share about your visit?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "\"Is it okay if I come early in 10 minutes?\""
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, that's totally fine! We'll see you in about 10 minutes. If you need anything else before then, just let me know!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "\"Do I need to bring my Medicare card?\""
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, it would be great if you could bring your Medicare card along with you, just to make sure everything's in order. If there's anything else you think of, feel free to ask!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "\"Who will I be seeing?\""
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "You'll be seeing Dr. Smith. She's our general practitioner and she'll take good care of you. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "\"Can I request a copy of my result after the visit?\""
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely! You can definitely request a copy of your results after the visit, and we'll make sure it's ready for you. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "\"Would I need a follow-up appointment after this?\""
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That will depend on what Dr. Smith recommends after your visit. She'll let you know if a follow-up is necessary, but it's always good to keep an eye on how you're feeling. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "\"Do you offer translator or language support for appointments?\""
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Yes, we do offer language support and can arrange a translator if needed. Just let us know in advance, and we’ll make sure everything is set for you. If you have any other requests, feel free to let me know!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "\"Because I'm Japanese and I'm not good at speaking, so it's definitely helpful if there will be a translator who can speak Japanese.\""
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course, we can absolutely arrange for a Japanese-speaking translator for your appointment. That way, you'll feel more comfortable and everything will go smoothly. Just let us know if there's anything else we can do for you!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "\"Could you please repeat the details of my appointment?\""
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course! Your appointment is set for tomorrow at 9 AM with Dr. Smith, and we’ll have a Japanese-speaking translator for you as well. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "\"That really helped.I appreciate your time. Bye for now.\""
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Alright, take care! If you need anything else, just reach out. Bye for now!"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S43_W3_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      20,
+      21
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – 'Pi' for 'pipe' and contradictory statement",
+    "evidence_summary": "In turn 20, the learner referred to 'the Pi condition' and made a somewhat contradictory statement about it being 'great' but also 'will leak again'. The bot initiated the repair by implicitly interpreting 'Pi' as 'pipe' and addressing the concern about future leaks and potential replacement in turn 21, successfully resolving the ambiguity."
+  },
+  {
+    "dialogue_id": "S43_W3_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      22,
+      23
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – 'moody' for 'moldy'",
+    "evidence_summary": "In turn 22, the learner used the word 'moody' in the context of hot and humid weather causing a problem, likely intending to say 'moldy'. The bot initiated the repair by implicitly correcting this lexical error to 'mold growth' in turn 23, demonstrating understanding and resolving the communication trouble."
+  }
+]

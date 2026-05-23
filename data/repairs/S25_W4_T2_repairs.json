@@ -1,0 +1,42 @@
+[
+  {
+    "dialogue_id": "S25_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unsure about 'suit'",
+    "evidence_summary": "The learner asks 'Is it suit?' in turn 8, indicating uncertainty about vocabulary. The bot responds affirmatively in turn 9, interpreting the question as asking if studying overseas is suitable, resolving the issue."
+  },
+  {
+    "dialogue_id": "S25_W4_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      24,
+      25,
+      26
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "clarification request – learner asks for repetition",
+    "evidence_summary": "In turn 24, the learner asks the bot to repeat its previous statement. The bot repeats the information in turn 25, and the learner acknowledges with 'Thank you' in turn 26, indicating the issue is resolved."
+  },
+  {
+    "dialogue_id": "S25_W4_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner's fragmented question",
+    "evidence_summary": "The learner expressed uncertainty about how to study effectively. The bot responded by offering to explore strategies, and the learner agreed with 'That sounds great,' indicating the issue was resolved."
+  }
+]

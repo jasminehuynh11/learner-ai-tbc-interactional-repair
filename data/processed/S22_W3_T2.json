@@ -1,0 +1,325 @@
+{
+  "student_id": 22,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S22_W3_T2",
+  "source_file": "data\\raw\\#22\\#22\\#22. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, I’m calling about a problem in my apartment."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hi there, thanks for calling. No problem at all, I’m happy to help you today. Can you tell me what kind of problem you’re having in your apartment?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "There is water under the sink in the kitchen."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Okay, thanks for letting me know. Water under the sink can definitely be concerning, so it’s good you called. Is the water leaking right now, or did you just notice it earlier?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "It’s leaking slowly. Not big water, but always wet."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I see, thanks for explaining that. So it’s a slow leak but it’s constant, right? When did you first notice the water under the sink?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Maybe two days ago. But yesterday more water."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it. So it started a couple of days ago and then became worse yesterday. That’s helpful information. Can you see where the water is coming from, for example from a pipe or from the sink itself?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Sorry, pipe meaning the silver one?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Yes, exactly, the silver pipe underneath the sink. Thanks for checking. Do you think the water is coming from that pipe or from another part?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yes, from that pipe. I think from the joint."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Okay, that makes sense. A joint leak is quite common and usually easy for a plumber to fix, so don’t worry too much. Have you tried turning off the water valve under the sink yet?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Water valve… I’m not sure where it is."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s completely okay, many people aren’t sure. Under the sink, you should see a small handle or tap connected to the pipe. Take your time and tell me if you can see something like that."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "I see something like handle. Should I turn it now?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Yes, please. You can slowly turn it clockwise. That should stop the water for now. Let me know once you’ve done that."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Okay, I turned it. Now water stop."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Perfect, well done. That’s great. Stopping the water helps prevent any further damage while we organise the repair. Is everything dry now, or is there still some water left under the sink?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Still little water, but no more coming."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That’s fine. You can wipe that up later. The important thing is that it’s no longer leaking. Now, let’s organise a plumber to fix this properly. Are you usually at home during the week, or do you have specific days that work better for you?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "I work from home sometimes. What day is possible?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Okay, that helps. Let me check availability. We have a plumber available tomorrow afternoon or Thursday morning. Tomorrow afternoon would be between 1 and 5 pm. Thursday morning would be between 9 and 12. Which one sounds better for you?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Tomorrow afternoon meaning after lunch?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, exactly, after lunch. Any time from 1 pm onwards. Do you have a preferred time within that window?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "I can do after 3 pm. Is that okay?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, that’s absolutely fine. I’ll make a note for after 3 pm. The plumber will aim to arrive in that time frame. Do you want them to call you before they come?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Yes, please. Can plumber call me before coming?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Of course. I’ll ask the plumber to call you about 30 minutes before arrival so you know exactly when they’re coming. Now, I just want to check: do you need to stay home the whole time, or will you need to go out?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "If I go out shortly, can I leave key?"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Yes, that’s fine. You can leave the key with reception or in the key safe if you have one. Just let us know what you prefer, and we’ll pass that information on to the plumber."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Okay. Thank you. Can I ask one more question?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Of course, take your time. What would you like to ask?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Is this repair free or I need to pay?"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That’s a very common question. If the issue is normal wear and tear, which this sounds like, then there’s no cost for you. We cover the repair."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Wear and tear meaning old problem?"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Yes, exactly. Problems that happen naturally over time, not because something was broken on purpose."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Okay. I didn’t break anything."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "That’s completely fine. Based on what you’ve described, it sounds like normal maintenance. If the plumber finds anything unexpected, they’ll let us know and we’ll handle it."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "If plumber find bigger problem, what happen?"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Good question. If it’s a bigger issue, we’ll contact you and explain the next steps. You won’t need to decide anything on the spot."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Okay. Can you confirm the time again?"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Yes, of course. The plumber is scheduled for tomorrow, Wednesday, after 3 pm, and they’ll call you about 30 minutes before arriving."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "Tomorrow is Wednesday, right?"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Yes, that’s right, Wednesday."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "Okay. And plumber will call me before?"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Yes, they will. I’ve clearly noted that in the request."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "Do I get message or email about this?"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Yes, I’ll send you a confirmation email later today with all the details so you have it in writing."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "Email meaning today?"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Yes, later today. It should arrive within a few hours."
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "Okay. Can I have reference number also?"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Yes, absolutely. Your maintenance reference number is 64218. I’ll say it slowly for you."
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "Sorry, can you repeat slowly?"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Of course. Six… four… two… one… eight."
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "Six four two one eight. Correct?"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Yes, that’s exactly right. You’ve got it."
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "I will write it down now."
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "No problem at all. Take your time."
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "Just confirm, plumber comes tomorrow after 3 pm, right?"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Yes, that’s correct. Tomorrow after 3 pm, with a call before arrival."
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "Okay. Thank you very much for your help."
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "You’re very welcome. You did the right thing by calling early. If anything changes or you have more questions, please don’t hesitate to contact us again. Have a great rest of your day."
+    }
+  ]
+}

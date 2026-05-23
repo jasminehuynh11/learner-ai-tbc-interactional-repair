@@ -1,0 +1,29 @@
+[
+  {
+    "dialogue_id": "S35_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      43,
+      45,
+      46
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'cocktail' vs 'spirit'",
+    "evidence_summary": "The learner expresses confusion about the difference between 'cocktail' and 'spirit' in turn 43. The learner then asks for clarification in turn 45. The bot provides a clear explanation in turn 46, resolving the confusion."
+  },
+  {
+    "dialogue_id": "S35_W4_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – confusion about 'gin and tonic' as spirit or cocktail",
+    "evidence_summary": "The learner is confused about whether 'gin and tonic' is a spirit or a cocktail in turn 47. The bot clarifies the distinction in turn 48, and the learner confirms understanding in turn 49. The bot further affirms the learner's understanding in turn 50, resolving the issue."
+  }
+]

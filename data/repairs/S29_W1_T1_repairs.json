@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S29_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      12,
+      13,
+      14
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's phrase 'which we will do before' was vague, leading to bot's suggestion about oat milk",
+    "evidence_summary": "The learner's phrase 'which we will do before' was unclear, causing the bot to suggest oat milk. The learner then mentioned 'I will try oatmeal,' but the bot misinterpreted it as 'oat milk,' leaving the misunderstanding unresolved."
+  }
+]

@@ -1,0 +1,342 @@
+Week 3 
+Task 1: Reporting an internet outage at your housing
+You said: 
+“Hi, I'm good. I want to practice reporting an internet outage at my house. In this scenario, you will be the person working for the internet provider and I will be the customer.”
+00:18
+English Conversational Partner said:
+Absolutely, that sounds great! I'll be your internet provider representative. Let's get started.
+So, hello! Thank you for contacting us. How can I assist you today with your internet issue?
+You said:
+“Hi, my internet has stopped working.”
+00:03
+English Conversational Partner said:
+Oh, I’m sorry to
+You said:
+“There are no signals in my apartment.”
+00:03
+English Conversational Partner said:
+I understand, that sounds frustrating. Could you let me know if you've tried any troubleshooting steps so far, like restarting your router?
+You said:
+“I did try it several times, but there's still no signal in my apartment. It was fine this morning, but now it won't connect.”
+00:10
+English Conversational Partner said:
+Got it, that definitely helps narrow it down. Could you tell me if there have been any outages reported in your area, or if you’ve noticed any other devices that are also affected?
+You said:
+“I'm sorry, I don't think that I hear my neighbor mention about any outers in my area, can you please check it for me?”
+00:09
+English Conversational Partner said:
+Of course, I can definitely look that up. Just a moment while I check the status for your area. In the meantime, could you confirm your address or the account number so I can look it up accurately?
+You said:
+“Yes, sure, Unit 3.”
+00:02
+English Conversational Partner said:
+Thank you! Let me
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+All right, I’ve
+You said:
+“As soon as 3 is time worth, please.”
+00:02
+English Conversational Partner said:
+Got it, thank you for that. Let me just check the status for Unit 3 in your building. One moment, and I’ll let you know what I find.
+You said:
+“Yes, thank you for that. Did you find any information about the outreach in my area yet?”
+00:06
+English Conversational Partner said:
+Yes, I’m seeing that there is indeed a reported outage affecting your area right now. Our technicians are already working on it, and it should be resolved within the next few hours. Is there anything else I can help you with in the meantime?
+You said:
+Transcript Unavailable
+00:00
+English Conversational Partner said:
+No worries at all! If you have any more questions or need further assistance, just let me know. I’m here to help!
+You said:
+“I just contacted my neighbor and he said that his internet is still working, so I think it's just the problem with my internet. So I wonder if, is there any technician available today to give me your support?”
+00:20
+English Conversational Partner said:
+I see, that definitely helps narrow it down. We can definitely arrange for a technician to come by today. Let me check the availability and schedule an appointment for you. Could you let me know what time works best for you?
+You said:
+“I will be at home from now until maybe 3pm and then I have to go to work.”
+00:07
+English Conversational Partner said:
+Got it, that works perfectly. I'll arrange for a technician to come by before 3 PM today. I’ll confirm the appointment details and let you know once it’s all set. If anything changes, just let me know!
+You said:
+“I just want to make sure that this is not the problem of the internet provider and it's just a problem with my router. So I want to know what should I try before you send someone over.”
+00:22
+English Conversational Partner said:
+Absolutely, that makes sense! One thing you could try is unplugging your router for about 30 seconds and then plugging it back in to see if that helps. Also, you could check if all the cables are securely connected. And if you have a spare router or modem, swapping that out could help as well. Let me know if you need more guidance on any of those steps!
+You said:
+“Yes, thank you. I think I have tried all of these three methods before, but it's still not working.”
+00:08
+English Conversational Partner said:
+I see, got it. In that case, it does sound like it might be something on our end, and we’ll definitely get that technician scheduled for you. If anything else comes up or you need more troubleshooting, just let me know. I’m happy to help!
+You said:
+“Yes, thank you, but this problem has happened three times this month. What can be done?”
+00:06
+English Conversational Partner said:
+I’m really sorry to hear that it’s been recurring so often. We can definitely look into it more deeply, maybe send out a specialist to investigate the root cause. We can also consider upgrading any equipment if needed. Let’s make sure we get this sorted out for good!
+You said:
+“Yes, thank you for your help, but I really like to make a complaint. Can you tell me about the process?”
+00:08
+English Conversational Partner said:
+Of course, I completely understand. To file a complaint, you can either fill out a form on our website or we can document it right now and escalate it for you. I’ll make sure it’s passed along to the right team. Just let me know how you’d like to proceed, and I’m here to help every step of the way.
+You said:
+“Yes, thank you. Maybe I will fill the form online first.”
+00:06
+English Conversational Partner said:
+That sounds great!
+You said:
+“I really want my internet to be sorted out today because I really need to work, I have my study, I need to submit my work today, so who can I contact if this isn't resolved today?”
+00:20
+English Conversational Partner said:
+I completely understand how important that is. If it’s not resolved today, you can definitely reach out to our dedicated support line or our escalation team, and they’ll make sure to prioritize your case. I’ll also keep an eye on it and follow up to make sure everything is on track. Just let me know if you need anything at all!
+You said:
+“I want to check if, what if I change to another service plan, would it be better?”
+00:06
+English Conversational Partner said:
+That’s definitely something we can explore. We can review your current plan and see if another one might offer more stability or better speeds. I can definitely help you compare the options and find what suits your needs best. Just let me know if you’d like to go that route, and we can get started!
+You said:
+“Oh, yes. Thank you. Please...”
+00:03
+English Conversational Partner said:
+Absolutely, I’m happy to help with that! Just let me know any specific preferences or requirements you have, and we’ll find the best plan for you. Feel free to let me know anytime!
+You said:
+“I think I'm happy with the internet plan that I have right now, so please can you recommend some similar plan within the same similar range with the current plan, please?”
+00:16
+English Conversational Partner said:
+Of course! I can definitely do that. I’ll take a look at some plans that are similar in price and features to what you have now, and we’ll find the best match for you. I’ll make sure to keep everything convenient and effective. Just let me know if you have any specific preferences, and I’ll get that info for you right away!
+You said:
+“Thank you so much. Yes, maybe I will just wait until you can give me some recommendations on different service plans. And I will definitely have a look because I experienced this outage for like three times this month and it affected my study dramatically.”
+00:24
+English Conversational Partner said:
+I completely understand, and I'm really sorry for the inconvenience. I’ll make sure to get those recommendations to you as soon as possible, and we’ll find a solution that works for you. In the meantime, if you need anything else or have any questions, just let me know. I’m here to help!
+
+
+
+
+Task 2 – Reporting a lost item or filing a minor police report
+You said: 
+“Hello, I want to practice reporting a lost item or filling a minor police report. In this scenario, I will lost something very important and the object that I've lost is a wallet and I need to report it to the police station for a minor report. I want to practice speaking clearly and politely in a formal setting and you will play the role of the police officer and”
+00:33
+English Conversational Partner said:
+Of course, I'd be happy to help! I'll take on the role of the police officer. Let's start.
+So, can you please tell me what happened and when you noticed that your wallet was missing?
+You said:
+“Hi, I just realised that I lost my wallet at the train station and I would like to make a report.”
+00:08
+English Conversational Partner said:
+I’m sorry to hear that. No worries, we’ll sort it out. Could you let me know the exact time or the approximate time when you last had your wallet at the train station?
+You said:
+“I left the train station at 7.30 a.m. I think, oh, it's exactly yesterday morning.”
+00:11
+English Conversational Partner said:
+Got it, thank you. And could you describe the wallet for me? For example, the color, brand, or any distinctive features it might have?
+You said:
+Transcript Unavailable
+00:16
+English Conversational Partner said:
+Thank you for that description. That’s really helpful. And do you happen to remember exactly where in the train station you last saw it, like a specific area or a platform?
+You said:
+“I think the last time that I saw my wallet was the time when I bought the ticket at the train station, and after that, I cannot recall any other time that I've seen my wallet.”
+00:22
+English Conversational Partner said:
+I see, that’s definitely useful information. And just to confirm, do you remember if you might have had any identification or important cards inside the wallet? That can help us as well.
+You said:
+“As I can remember, in my wallet, I have my bank card, my health insurance card, my identity ID card, and I think I also lost my driver's license. It's in the wallet as well. And besides, I also have just a few coins, and I think I have a $5 bill in the wallet as well.”
+00:41
+English Conversational Partner said:
+Alright, that definitely helps us get a clear picture. Thank you for sharing those details. Is there any other information you think might be relevant, or would you like to add anything else before we proceed?
+You said:
+“I cannot recall the last time I saw my wallet clearly, but there are some details that I think would help you to trace it.”
+00:18
+English Conversational Partner said:
+Absolutely, any details you can provide will be helpful. Feel free to share anything you think might assist us in locating your wallet. And once we have all the details, we’ll proceed with filing the report.
+You said:
+“As I can remember, after I bought the ticket, I was wandering around the hall at the centre of the train station. I spent some time at a bookshop nearby, and then I went upstairs just to have a look around the city. And then I went down to Platform 2. I sat on some of the benches while waiting for the train. I don't know if at that time I was sitting near a person. I don't want to blame the person or suspect them of being a pickpocket. But I wonder if it would be a good indication for you to trace it.”
+01:06
+English Conversational Partner said:
+Absolutely, that’s really helpful context. We can definitely include those details in the report. And with all this information, we’ll do our best to track it down. If there's anything else you remember or any other details that come to mind, just let me know.
+You said:
+“I just wonder what happens if someone finds it.”
+00:03
+English Conversational Partner said:
+Great question! If someone finds it and turns it in, we’ll get in touch with you using the contact details you provided. We’ll also keep you updated on any progress we make. And of course, we’ll do our best to ensure everything is safe and secure. If you have any more questions, I’m here to help!
+You said:
+“Yes, I want to ask if there is any lost property website that I can check for.”
+00:07
+English Conversational Partner said:
+Absolutely! Typically, many police departments have a lost and found webpage, and there are also general community lost property websites that you can check. I can definitely provide more specific details depending on your location. Just let me know, and I’ll help you out!
+You said:
+“Thank you very much. Should I leave my contact details?”
+00:05
+English Conversational Partner said:
+Yes, absolutely! It’s definitely a good idea to leave your contact details so we can reach out as soon as we have any updates. That way, we can ensure that you’re informed promptly. Let me know if you need any assistance with that!
+You said:
+“No, I think I can do it myself. Thank you for your help. I have another question. Can you call me if it's found?”
+00:09
+English Conversational Partner said:
+Of course, we’ll definitely give you a call as soon as we have any news. Just make sure we have your correct contact information, and we’ll keep you updated. And if you have any other questions, I’m always here to help!
+You said:
+“Because I lost my ID card and my driver's license in the wallet as well, I wonder if I'll still be able to drive the car during this time.”
+00:11
+English Conversational Partner said:
+That’s a great question. Typically, you’ll need a valid ID and driver’s license to drive legally. It might be a good idea to carry a temporary permit or visit the nearby service to get a replacement as soon as possible. But definitely let us know if you need any guidance on that!
+You said:
+“Yes, thank you for that. I will contact the New South Wales Service to see if I can get a permit to drive. Thank you for your help. I think that's it for today, and I would look forward to your good news.”
+00:16
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. Definitely feel free to reach out if you have any more questions, and I’ll keep my fingers crossed for some good news. Take care, and have a great day!
+
+Task 3 – Requesting Maintenance or Repairs in a Rental Property
+You said: 
+“Hello, I want to practice requesting maintenance or repairs in a rental property. Something is broken or need fixing in my rental accommodation. In this scenario, I will be the tenant and you will be the property manager or the landlord. And we will talk through the phone.”
+00:26
+English Conversational Partner said:
+Sounds great! I’m ready to help you practice. So, let’s start. Whenever you’re ready, just let me know what issue you’re facing in your rental, and I’ll respond as the property manager. Let’s dive in!
+You said:
+“Hi, hello, how are you? I just want to tell you that there is a leak under the kitchen sink, and I just found out this morning.”
+00:10
+English Conversational Partner said:
+Oh, I’m sorry to hear about that leak! Thanks for letting me know. Could you tell me how severe it is, and if there’s any water damage or pooling? That way, I can prioritize the repair.
+You said:
+“I did not use the sink last night. I only used the sink in the bathroom, actually. And then this morning, I just walked out and I realized that there's a big mop on the kitchen. And I just traced it down and I found out that there is a leak under the sink.”
+00:23
+English Conversational Partner said:
+Got it, that definitely sounds like it could be serious. Thank you for the details. Could you let me know if you’ve noticed any dripping sounds or if the cabinet under the sink is damp to the touch? That’ll help me understand the situation better.
+You said:
+“I think I saw a crack on the pipe but I don't know why it happened. As I can recall, a few days ago I saw some people come into the house, and they fixed the pipe on the laundry room, which is just on the opposite side of my kitchen. I wonder if there is any relation between that repairman and my kitchen situation.”
+00:39
+English Conversational Partner said:
+That’s definitely possible. Sometimes issues can be connected. I’ll look into the previous repair records. In the meantime, could you let me know if the water’s still actively leaking or if it’s slowed down at all? That’ll help me figure out the urgency.
+You said:
+“I just tried, and I realised that the water flow is still normal. But yeah, I think the leak became worse. Can someone come today to help me out?”
+00:18
+English Conversational Partner said:
+Absolutely, I’ll arrange for someone to come by as soon as possible today. Just to confirm, could you let me know your preferred time window for the visit, and if there’s any specific contact instructions we should keep in mind?
+You said:
+“I think today I'm available all day because today I just have the independent study day, and so I don't have to go to the university. I will be at home, so just whenever the plumber or handyman is available, they just come and have a look today.”
+00:21
+English Conversational Partner said:
+That sounds perfect! I'll make sure we schedule someone to come by today at the earliest opportunity. If anything changes, I’ll let you know. And if you have any other concerns in the meantime, just let me know.
+You said:
+“Yes, that would be perfect. But can you tell them that they could call or text me when they are on their way so I can prepare myself?”
+00:11
+English Conversational Partner said:
+Of course, I’ll make sure they give you a call or a text before they arrive. That way, you’ll have plenty of time to get ready. If anything else comes up, just let me know, and I’ll be happy to help!
+You said:
+“Is there anything that I should prepare before they arrive? Or something like, should I turn off the water until they come or not?”
+00:09
+English Conversational Partner said:
+That’s a great question! It might be helpful to turn off the water supply under the sink to minimise any further leakage. Also, if you can clear out the area under the sink, that’ll give them easy access. But don’t worry, I’ll make sure they know what to do as well.
+You said:
+“Should I be worried about any long-term damage? Because I think this leak is quite severe.”
+00:06
+English Conversational Partner said:
+It’s definitely good to be cautious. If the leak has been ongoing for a while, it could cause some water damage or mould over time. But once we get it fixed, we can also inspect for any potential long-term effects. For now, just keep an eye on it, and we’ll make sure to address everything thoroughly.
+You said:
+“Yes, thank you. And I also noticed that the Pi condition is quite great. So I wonder if you can do something with it because I think in the future the Pi will leak again.”
+00:15
+English Conversational Partner said:
+I understand, and that’s definitely important to address. Once the handyman checks it out, we can arrange a more thorough repair or even consider replacing the pipe if needed. I’ll make sure we keep that in mind and keep you updated on the best solution.
+\You said:
+“Yes, thank you for that. At the meantime, it's leaking a lot. I wonder if someone can come even after business hours. I know that it's very hard to find a plumber or a handyman at the moment, but because the water keeps coming out, I'm worried that with this weather, very hot and humid, it will be moody anytime soon.”
+00:25
+English Conversational Partner said:
+I completely understand your concern, and we definitely want to prevent any mold growth. I’ll do my best to arrange for someone as soon as possible, even if it’s outside of normal business hours. I’ll keep you posted, and hopefully we can get it resolved quickly so you don’t have to worry about it.
+You said:
+“Yes, thank you very much. Thank you for organising that so quickly. Let me know if you need any more information.”
+00:06
+English Conversational Partner said:
+You’re very welcome! And I’ll be sure to reach out if anything else comes up. In the meantime, just let me know if you have any other questions or concerns. I’m here to help!
+You said:
+“No, I think that's it for today. Thank you very much. Have a great day.”
+
+
+Task 4 – Seeking technical support for a device or service
+You said:
+“Hello, I want to practice seeking technical support for a device or a service. In this scenario, I will contact the customer support for a technical problem with my airpods, and you will play the role of the customer support person, and I will be the customer. Please help me to speak clearly and politely and use some technology-related vocabulary as well.”
+00:31
+English Conversational Partner said:
+Absolutely, that sounds great! I’m ready to help. So, let’s say you’re reaching out to customer support about your AirPods. Feel free to start the conversation whenever you’re ready, and I’ll respond as the support agent. Let’s get started!
+You said:
+“Hello, good morning. I just want to report an issue about my airport that I'd recently bought.”
+00:07
+English Conversational Partner said:
+Good morning! I’m happy to help. Could you let me know what specific issue you’re experiencing with your AirPods? That way, I can assist you more effectively.
+You said:
+“My AirPort, sometimes I can use both of the earbuds, but sometimes I cannot, especially the left one. I don't know why I charge it, I fully charge and I never drop it, as I just bought it recently, I think just 3 months ago.”
+00:22
+English Conversational Partner said:
+I see, thank you for sharing that. It definitely sounds like a connectivity or battery issue with the left earbud. Could you tell me if you've tried resetting the AirPods or if you’ve noticed any firmware updates that might have been installed?
+You said:
+“I haven't updated my phone yet. I don't know if there is anything to do with the operating system of my phone, and the Bluetooth connection of the AirPods, but especially when I try to pair the AirPods with my iPhone, that problem occurs. There's no problem when I connect my AirPods to my husband's phone at all, so I wonder if there is any relation.”
+00:31
+English Conversational Partner said:
+I see, that’s really helpful information. It does sound like it might be related to the iPhone’s Bluetooth settings or the software version. Have you tried forgetting the AirPods on your iPhone and then re-pairing them? That sometimes helps resolve these kinds of issues.
+You said:
+“Yes, I did try it, and it actually worked, but I wonder why resetting or forgetting the device will and then reconnecting again will help to solve the problem.”
+00:14
+English Conversational Partner said:
+Absolutely, that’s a great question! Essentially, when you forget and re-pair the device, it clears out any old connection data or glitches that might have built up over time. It basically starts fresh, which often resolves any connectivity issues and ensures a smoother pairing process.
+You said:
+“Thank you for your explanation. So should I update my software on my phone?”
+00:06
+English Conversational Partner said:
+Yes, that would definitely be a good idea. Keeping your phone’s software up to date can help maintain compatibility and often fix bugs that might cause these kinds of issues. So I’d recommend giving that a shot as well.
+You said:
+“Yes, I did try it recently, and coincidentally, I found that there is another problem with the AirPod. When I connected to my Pluto on my iPhone, it says that the AirPod is already in range, but I'm sure that no one in the house paired the AirPod with their device.”
+00:25
+English Conversational Partner said:
+I understand, that can definitely be confusing. It might mean that the AirPods are still connected to another device or that there’s some residual connection. We can definitely walk through some steps to fully disconnect them and ensure they’re paired correctly. Let me know if you’d like to try that.
+You said:
+“Yes, please, can you show me the procedure to reset?”
+00:03
+English Conversational Partner said:
+Of course! To reset your AirPods, first you’ll want to place them in their charging case and keep the lid open. Then, press and hold the setup button on the back of the case for about 15 seconds until you see the status light flash amber and then white. After that, you can go ahead and reconnect them to your iPhone. Let me know how that goes!
+You said:
+“Yes, it will definitely help, but I wonder what happens if it's not fixed after trying these steps.”
+00:08
+English Conversational Partner said:
+I totally understand. If it’s still not resolved after that, we might want to look into things like updating the AirPods firmware or checking for any hardware issues. And of course, if all else fails, contacting Apple Support directly or visiting an Apple Store might be the best option.
+You said:
+“Oh great, but because this problem occurred many times since I bought the AirPod, and I bought a new one as well, so I wonder if I can file a complaint with the company?”
+00:17
+English Conversational Partner said:
+Absolutely, you can definitely reach out to the company and file a complaint, especially if the issue has been recurring and the product is still under warranty. They might offer a replacement or further troubleshooting. It’s definitely worth exploring those options for sure.
+You said:
+“So, who do I contact if I want to make a complaint?”
+00:04
+English Conversational Partner said:
+Typically, you can contact the company’s customer support directly through their official website or their support hotline. If you bought your AirPods from an Apple Store, you can also visit them in person. And of course, if you purchased them through another retailer, you can reach out to them as well. They’ll guide you through the complaint process.
+You said:
+“Yes, thank you for your explanation. I just realized that you mentioned before that it might be the problem of the charger from the airport. So, what can I do to maybe try to fix this by myself with the charger things in my airport?”
+00:23
+English Conversational Partner said:
+Absolutely! One thing you can try is making sure that the charging contacts on both the AirPods and the case are clean and free of debris. You can gently wipe them with a soft, dry cloth. Also, you can try using a different charging cable or adapter to see if that helps. And sometimes, letting the AirPods fully drain and then recharge can also help reset any charging issues.
+You said:
+“That information is very useful. I maybe will try to drain the battery out and then recharge it again. And I definitely will give it a try, cleaning around. Can I use a little bit of alcohol to clean around the charger?”
+00:17
+English Conversational Partner said:
+Yes, you can use a tiny amount of isopropyl alcohol on a soft cloth or a cotton swab, just to gently clean the charging contacts. Just make sure it’s completely dry before you put them back in the case. That should help keep everything in good condition.
+You said:
+“Yes, thank you for your help. So, I just want to ask about the return or repair policy.”
+00:09
+English Conversational Partner said:
+Of course! Generally, most companies offer a return or repair policy within a certain warranty period—often about a year from the purchase date. You can usually get a replacement or a repair if the issue is covered under warranty. It’s always best to check the specific policy for your region and keep your proof of purchase handy. Let me know if you need any more details!
+You said:
+“Yes, I bought this one three months ago. It's still under warranty. So, I wonder if my airport can be returned and then I'll get a new one, or I can only be eligible for a repaired one.”
+00:16
+English Conversational Partner said:
+That’s great that it’s still under warranty! Usually, if the issue is a manufacturing defect, you can either get a replacement or a repair, depending on the situation and the company’s policy. It’s definitely worth contacting them and explaining the issue, and they’ll guide you through whether it’s a replacement or a repair.
+You said:
+“Oh, yes, that sounds great. So I will them a complaint, and then they will base it on it and estimate the severity of the problem, and then they will decide whether to let me return it and get a new one, or they will repair it for me for free. Is that right?”
+00:22
+English Conversational Partner said:
+Exactly, you’ve got it! They’ll assess the situation, and if it’s covered under warranty and it’s a genuine defect, they’ll either replace it or repair it at no extra cost. Hopefully, it all gets sorted out smoothly for you!
+You said:
+“Yes, thank you so much. I am going to fill out the complaint right now. I really appreciate your explanations. Very detailed, very helpful. Thank you very much.”
+00:12
+English Conversational Partner said:
+You’re very welcome! I’m really glad I could help. Best of luck with everything, and if you need any more assistance, just let me know. Have a great day!
+

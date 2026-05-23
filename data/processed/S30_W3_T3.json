@@ -1,0 +1,155 @@
+{
+  "student_id": 30,
+  "week": 3,
+  "task": 3,
+  "task_label": "T4",
+  "dialogue_id": "S30_W3_T3",
+  "source_file": "data\\raw\\#30\\#30\\#30. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an issue at a rental property 🗨️"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I'd like to report a damage at my rental property.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course. Could you please tell me what kind of damage you’re reporting?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“So, how are you?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I’m doing well, thank you! How about you? Let me know the details of the damage, and I’ll help you out."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Yes, please, I would like to report a damage at my rental property.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, I’m here to help. Could you let me know what specific damage you’ve noticed, and which part of the property it’s in?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Yes, my shower is only ice water.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Oh, I see! So the shower water is only coming out as ice-cold? That definitely sounds uncomfortable. Could you let me know if this issue started suddenly or if it’s been ongoing for a while?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Okay, the problem started on Monday.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Got it, thanks for sharing that. And just to confirm, have you tried adjusting the temperature settings or is it consistently cold no matter what?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Oh, I don't know the number, but it's very cold.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "I understand, that must be frustrating. All right, could you let me know if there’s any other issue, like with the water pressure or maybe any visible leaks?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Oh, I'm sorry, I don't understand, what do you repeat, please?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course, no problem! I was just asking if you’ve noticed any other issues, like low water pressure or any leaks around the shower area."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I see, so there might be some leaks as well. Thanks for letting me know. Could you also tell me if you’ve already informed your landlord or property manager about this issue?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Got it, thanks for sharing that. In that case, would you like some guidance on how to report it formally, or is there any additional detail you think I should know?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Okay, so...”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Transcrição indisponível"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense. We'll definitely make sure to get that sorted out. Is there anything else you’d like to add or any other concerns you have about the property?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Ah, okay. Perfect.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Great! If you need anything else or have any more questions, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Okay, thank you. For now, that's it. So, thank you.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You’re very welcome! Glad I could help. If you need anything else in the future, just reach out. Have a wonderful day!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Have a good day, see ya!”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You too! Take care and see you next time. Bye for now!"
+    }
+  ]
+}

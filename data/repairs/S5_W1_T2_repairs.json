@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S5_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      17,
+      18
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand 'leaning towards'",
+    "evidence_summary": "The learner expresses confusion about the phrase 'leaning towards' in turn 17. The bot clarifies the meaning in turn 18, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S5_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner clarifies previous order",
+    "evidence_summary": "The learner initially orders 'three' in turn 37, which the bot interprets as three slices of cake. The learner then clarifies in turn 39 that they want one piece of cake with three forks. The bot acknowledges this clarification in turn 40, resolving the misunderstanding."
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "student_id": 20,
+  "week": 4,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S20_W4_T3",
+  "source_file": "data\\raw\\#20\\#20\\#20. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "You are a supervisor, teacher, or manager. Your role is to simulate a formal feedback session with me, the student or employee. Scenario: I am receiving feedback about my performance or recent tasks. You must respond professionally and politely, but you should not always agree with me. Instead, provide constructive feedback, ask clarifying questions, and explain ways I can improve."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. To begin, could you remind me which task or project you’d like feedback on today so I can address it clearly?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Oh hi, I have just finished my class presentation, could you tell me about it?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course! I’d be happy to provide feedback on your presentation. Overall, you did really well with your clarity and engagement. There are a few areas where we can fine-tune things, such as pacing and the use of visuals. Let's dive into some specifics. Would you like to start with any particular aspect you’re curious about?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Now start just to give me feedback and after maybe I will do some questions for understand better.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds good. So, overall, your presentation was clear and well-structured, and you engaged the audience effectively. One area for improvement would be to slow down a bit during key points to ensure clarity. Additionally, you might consider varying your tone a bit more to keep the audience engaged. But overall, you did a great job! Feel free to ask any specific questions you have."
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Do you have some tips for slowdown?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Definitely! One helpful tip is to consciously pause at the end of each main point to give your audience a moment to absorb the information. You can also practice by speaking a bit more deliberately and focusing on enunciating each word. Another strategy is to rehearse with a timer and record yourself, so you can identify where you naturally speed up. Over time, it becomes more natural. Let me know if you’d like more detailed strategies!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Oh, so good, perfect, thank you. And what about the powerpoints?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! For the PowerPoint, one suggestion is to keep your slides clean and uncluttered, using bullet points or visuals to highlight key information. Also, maintaining a consistent design and color scheme can help keep your audience focused. Additionally, try to use visuals, like images or graphs, to support your points rather than just text. If you’d like, I can give more specific feedback on your slides as well."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Give me more feedback, please.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! One more thing to consider is the balance between text and visuals. Aim to keep text concise and let your visuals do a lot of the talking. Also, make sure that each slide has a clear focal point so that the audience isn't overwhelmed. Another tip is to practice transitions between slides to keep the flow natural. And if you want, I can also review your slides in detail and give more targeted suggestions. Just let me know!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Oh, okay, and now I can create a focus point in each slide.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Exactly! By having a clear focus on each slide, you help guide your audience through your narrative, making it easier for them to follow along. It’s also helpful to use consistent fonts, colors, and layouts to create a cohesive look. And of course, practicing with your slides will help you feel more confident. If you’d like, I can give you some examples or even review a draft of your slides anytime."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, okay.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Great! I’m glad that’s helpful."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I can try to do the changement and send you. I can have maybe another possibility to do the test, the presentation, or is enough like this.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, feel free to make those changes and send them over whenever you're ready. We can definitely schedule another review session if needed, just to make sure everything is polished and ready. But if you feel confident, that’s great as well! Just let me know how I can support you along the way."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“You have other feedback to give me about the presentation, the speaking, the language, the movement, or is it enough like this?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure, I can definitely share more details! In terms of speaking, focusing on a steady pace and clear articulation is key. Also, using natural pauses can help emphasize important points. As for body movement, try to maintain open and confident gestures, and avoid distracting movements. And of course, eye contact is really important to connect with your audience. If you’d like, we can do some practice runs, and I can give more tailored feedback. Just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yeah, please, I will practice again today.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! I’m sure the more you practice, the more confident you’ll feel. And whenever you’re ready for feedback or another review session, just let me know. I’m here to help you every step of the way. Good luck with your practice!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Thank you, thank you.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You're very welcome! Anytime, and I’m always happy to help. Best of luck, and just reach out whenever you need. Have a great practice session!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Thank you, Sia.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You're welcome! Take care, and I look forward to hearing from you again soon. Have a wonderful day!"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S32_W4_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10,
+      11
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "In turn 9, the learner asks for examples about 'Anchorage discussions', which is likely an ASR error or mispronunciation of 'encourage discussions' or 'audience discussions'. The bot in turn 10 interprets this as a request for examples on how to 'engage the audience' and 'encourage discussion' by providing relevant techniques. The learner confirms understanding in turn 11, indicating the trouble was resolved."
+  },
+  {
+    "dialogue_id": "S32_W4_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      11,
+      12,
+      13
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "In turn 11, the learner asks about 'the immigration' in the context of presentation visuals and text. The bot in turn 12 interprets this as a question about 'balancing text and visuals' and 'imagery' on the slides, effectively repairing the learner's unclear utterance. The learner confirms understanding in turn 13, indicating the trouble was resolved."
+  }
+]

@@ -1,0 +1,190 @@
+{
+  "student_id": 4,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S4_W1_T2",
+  "source_file": "data\\raw\\#04\\#04\\#4. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Now we can practice a booking in a restaurant by phone, please"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course! 📞 Let’s switch scenes — I’ll be the restaurant receptionist. —Phone ringing— “Good evening, thank you for calling La Bella Vita Restaurant. How can I help you today?”"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Hi, thank you for pick up the call. I'm calling because I'm interested in BukaTable."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course! Thanks for calling. Could you please tell me for which date and time you’d like to book a table?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "It could be in November 22 at 7pm. It's a birthday celebration for 8 people."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Lovely! A birthday celebration sounds wonderful. Would you like to sit inside the restaurant or on our outdoor terrace?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Definitely, I prefer inside the restaurant, because I hate the smoke of the cigarettes, so yeah, definitely inside the restaurant."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it — inside seating for eight on November 22 at 7 p.m. Would you like us to prepare a special decoration or cake for the birthday?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Oh, that's possible, the birthday cake, that will be wonderful. Yes, definitely I want to a cake party. Maybe chocolate, it could be."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Perfect! We can arrange a chocolate birthday cake for your group. Could you please tell me the name we should put on the reservation?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Ah, yes. Pamela Perez, please."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Thank you, Ms. Perez. And could I have a phone number to confirm your booking and contact you if needed?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Yes, for sure. The number is 006145068."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Thanks, Ms. Perez. So, to confirm: a table for 8 people on November 22 at 7 p.m., seated inside, with a chocolate birthday cake, under the name Pamela Perez. Would you like any special message written on the cake?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yes, it could be happy birthday. And I have another, I have a question. Do you have a special menu? I mean, I have two friends, they are vegan people, so I want to know if you have something to offer to them. And so, have you have a special menu for vegan people?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Yes, we do! We have a special vegan menu with dishes like grilled vegetable risotto, tofu salad, and lentil burgers. Would you like me to note that two guests are vegan so the chef can prepare suitable options in advance?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Oh, that sounds good, but it's not necessary to tell them in order for them to know about it. So, thank you."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Sure, no problem at all! Everything is set then — table for 8, inside, chocolate cake with “Happy Birthday,” under the name Pamela Perez. Would you like me to send you a confirmation message for your booking?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Yeah, that's... I'll be alright. Please."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect! I’ll send a confirmation message to your phone shortly. Thank you for choosing La Bella Vita, Ms. Perez — we look forward to celebrating with you! 🎉 Would you like to request anything else for the party, like music or candles?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "I don't know if you have a band music, or a violinist, a musician, do you have something like that?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Yes, actually! On weekends we have a live violinist who plays soft music during dinner. Would you like me to reserve a table near the musician or in a quieter area?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Maybe it's a good idea a table near the musician, but I hope that the position of the table is not so loud. Can I ask a specific song?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely! You can request a song — the violinist loves taking special requests. Do you already have a song in mind you’d like played for the birthday?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "Yes, please. It will be wonderful. I don't know if it's possible the stairs to heaven, please."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Nice choice! “Stairway to Heaven” on violin will sound beautiful. I’ll make sure the musician knows. Would you like the song to be played when the cake is brought out, or earlier during dinner?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Oh, that sounds perfect. Yes, absolutely. And that's right. The song is Stairway to Heaven. Thank you. And I have another question. It is possible that we can, we'd like to, could it be possible to separate the build for each guest at the end?"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Yes, of course! We can do separate bills for each guest — that’s no problem at all. Would you like each person to pay only for what they order, or would you prefer to split the total evenly among everyone?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "It's better that each person pay only for what they ordered."
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Perfect, I’ll note that — each guest pays for their own order. Everything’s arranged just as you requested, Ms. Perez. Would you like me to email you a summary of your reservation as well, or is the phone confirmation enough?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "The phone confirmation is enough. So, I have another question. There are a dress code or whatever we decide to dress, it's okay."
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Good question! Our restaurant has a smart casual dress code — nothing too formal, but we ask guests to avoid sportswear or flip-flops. Would that be comfortable for your group?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Chat, it will be alright. Thank you."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You’re very welcome, Ms. Perez! We’ll see you and your guests on November 22 at 7 p.m. for the birthday celebration. Have a wonderful day! 🎂🎻"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Thank you very much. See you then."
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Thank you, Ms. Perez! We look forward to welcoming you. See you soon and enjoy your evening! 🌙✨ ______________________________"
+    }
+  ]
+}

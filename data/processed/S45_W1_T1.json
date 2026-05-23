@@ -1,0 +1,130 @@
+{
+  "student_id": 45,
+  "week": 1,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S45_W1_T1",
+  "source_file": "data\\raw\\#45\\#45. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hello, how are you today? I would like to order a iced black coffee. Yeah."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! One iced black coffee coming up. Would you like that in a small, medium, or large cup?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "A large cub."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, one large iced black coffee. Would you like any sugar or sweetener with that?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "No, thanks, and I want a cappuccino and a flat white to go away."
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it — one large iced black coffee, plus a cappuccino and a flat white to go. What size would you like for the cappuccino and the flat white?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "Both of them are middle, and also I want to chocolate muffin."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect — one large iced black coffee, two medium coffees (a cappuccino and a flat white), and a chocolate muffin. Would you like the muffin warmed up?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Yes, I need to roast. Sorry, I want to change the size of flat white. I want to change it to large cup."
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "No problem — so that’s a large flat white instead of medium, right? Would you like everything packed together in one bag or separately?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Yeah, they need to be separated."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it — each drink and the muffin will be packed separately. Would you like to pay by cash or card?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I want to pay by card and I want to order other desserts. What do you recommend today?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure! Today we’ve got some fresh desserts — tiramisu, cheesecake, and almond croissants are really popular. Would you like something creamy like tiramisu, or more pastry-style like the croissant?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I want to eat a disease with scream and also not too much sugar in it."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Ah, I think you mean a dessert with cream and not too sweet, right? In that case, I’d recommend our vanilla cheesecake — it’s smooth, creamy, and not overly sugary. Would you like a slice of that?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Yes, of course."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Great! I’ll add one slice of vanilla cheesecake. Would you like to have it here or take it away too?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "I will wait near the door, and when you prepared, I can get."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect, I’ll bring it to you by the door when it’s ready. Would you like a receipt with your order?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Oh, thanks. Mmm, long black and cheesecake, I will eat there. And others, please help me to package it to get takeaway."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure! So you’ll have the long black and cheesecake here, and the cappuccino, flat white, and muffin packed to go. Is that all for your order today?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Yes, alright, have a nice day."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Thanks a lot! Enjoy your coffee and dessert — have a great day too!"
+    }
+  ]
+}

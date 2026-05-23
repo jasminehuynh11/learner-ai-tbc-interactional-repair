@@ -1,0 +1,140 @@
+{
+  "student_id": 47,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S47_W1_T2",
+  "source_file": "data\\raw\\#47\\#47\\#47. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking a table at a restaurant 🗨️ “Hi, I’d like to book a table for two tonight.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! What time would you like the table for tonight?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hello, I would like to book a table tonight, please.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! Do you have a preferred time for your reservation?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“No, no.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "No worries at all! In that case, would you like to let me know what time range works best for you, or should I suggest some available slots?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Oh, I'm sorry. Can you do that again, please?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course, no problem at all! Just let me know what time you’d like your reservation, or if you’d like me to recommend some available times for you."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“So please, 8pm.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Perfect! A table for two at 8 p.m. it is. Could you also let me know the name for the reservation and any special requests?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yes, my name is Pedro.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Great, thank you, Pedro! And just to confirm, is there anything specific you’d like, such as a preference for seating or any dietary restrictions?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“So do we have any tables in outside?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Yes, we do have outdoor seating available! Would you like to request an outdoor table for your reservation?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yeah, please.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect, I’ll make sure to reserve an outdoor table for you at 8 p.m. for two people. Is there anything else I can help you with, or is that all set?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Do you have any recommendations for what I drink today?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely! We have some great options, like our signature cocktails, or some refreshing mocktails. Do you have a preference for something sweet, fruity, or maybe something more classic?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“So can you have a speech for me while I...”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course! I’ll make sure to have a nice spritz ready for you. If you have any other requests or need anything else, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“No, that's it.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Wonderful! All set then. I’ll see you tonight at 8 p.m. for your reservation. If you need anything else, just let me know. Looking forward to having you!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Thank you. Have a good day.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You're very welcome! You have a great day as well, and I’ll see you tonight. Take care!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Thank you, bye.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You're welcome! Bye for now, and have a great one!"
+    }
+  ]
+}

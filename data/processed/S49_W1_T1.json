@@ -1,0 +1,210 @@
+{
+  "student_id": 49,
+  "week": 1,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S49_W1_T1",
+  "source_file": "data\\raw\\#49\\#49\\#49. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, could I get a, uh, cappuccino, please?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely! One cappuccino coming right up. Would you like any specific type of milk, like whole milk, skim milk, or maybe a dairy-free option?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Is there any special milk here? Like oat milk?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do have oat milk available. Would you like to try your cappuccino with oat milk then?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, please. And one pump of vanilla syrup, please.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Perfect, oat milk cappuccino with a pump of vanilla syrup. That sounds delicious! Anything else I can add for you?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Actually, today was a very tough day to me, so I need some special sweet dessert.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that. We do have some lovely desserts! Would you like something like a pastry, maybe a cake, or a cookie to go with your drink?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Cake or pudding. I like it, especially the chocolate one. Could you recommend?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! We have a delicious chocolate cake and also a rich chocolate pudding. I think both would pair wonderfully. Which one would you prefer to try today?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“What kind of chocolate pudding? Please, please explain me more detail.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! Our chocolate pudding is super creamy and made with rich dark chocolate, and it has a smooth, velvety texture. It’s topped with a little whipped cream and maybe a sprinkle of cocoa powder. It’s definitely a treat! Sounds good?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yeah, that's as good.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect! So we’ll get you an oat milk cappuccino with vanilla syrup and a serving of our chocolate pudding. I’ll have that ready for you in just a moment! Anything else I can help with?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“That's all. No, thank you. One more, please. My coffee, can I get a light one? I mean just one shot, please. Maybe it's a two shot, right?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Got it! We can definitely make it a single shot for a lighter coffee flavor. So, one shot of espresso it is! I'll make sure everything's perfect for you. Anything else before I get started?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“That's all. Thank you. And where is the bathroom?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "You're very welcome! The bathroom is just down the hall to your left, right next to the seating area. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Is tissue in there?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Yes, absolutely! You’ll find tissues inside the bathroom as well, so you should be all set. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Now, thank you.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You're very welcome!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Have a good day.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You too! Enjoy, and if you need anything else, just let me know."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Can I get a cup of water, please? And… Is there any… Tea?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course! I’ll get you a cup of water right away. And yes, we do have tea as well. Would you like to try a specific type of tea, like black tea, green tea, or herbal?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I need milk decaffeinated one. I mean, I don't want more. I don't want a caffeinated one. My coffee is enough.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! I’ll bring you a nice, soothing decaf tea with your order. I’ll have that all set for you as well. Let me know if there’s anything else you need!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“I want to know some kind of tea with no caffeine.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely! We have several caffeine-free options, like chamomile, peppermint, and rooibos tea. Any of those sound good to you?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Louisville's, that would be nice, the hot one.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Perfect choice! I’ll get you a hot rooibos tea along with your order. That should be really cozy. If there's anything else, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Now, that's all. Thank you.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You're very welcome! I’ll get everything ready for you. Enjoy, and if you need anything else, just let me know."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“And where can I sit?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "You’re welcome to sit anywhere you’re comfortable! We have seating available just over there by the windows, or you can choose a cozy spot in the corner. Just pick whatever feels best for you!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Oh, next to the window is good, but it looks like a little bit cold. Can I have a kind of blanket or something?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely provide a blanket for you! I'll grab one and make sure you're nice and cozy by the window. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "You're very welcome! I’ll take care of everything, and I hope you have a lovely, relaxing time. Just let me know if you need anything at all!"
+    }
+  ]
+}

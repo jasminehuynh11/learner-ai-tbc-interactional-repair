@@ -1,0 +1,100 @@
+{
+  "student_id": 48,
+  "week": 2,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S48_W2_T1",
+  "source_file": "data\\raw\\#48\\#48\\#48. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Let's role play so I can learn English. The scenario is that I am calling the clinic to make an appointment. I may need to check in, explain my symptoms, ask for available times, or confirm appointment details. You are a receptionist or staff member at a medical clinic"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": ": Sure. Thank you for calling the clinic—how can I help you today? What’s the reason for the appointment you’d like to make?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": ": Hi, I'm Kate. I would like to make an appointment with Dr Jones. My period has not come for 2 months and I would like to know if there is any thing I should concern about my reproductive health."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": ": Alright, Kate. Thanks for explaining that. Have you visited our clinic before, or will this be your first time with us? Yes, I was at your clinic but it was years ago. Does Dr. Jones have any available slot soon?"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": ": Alright, since it’s been a while, I’ll just update your details. To check Dr. Jones’s schedule, what day or time works best for you?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": ": Next Wednesday or Thursday should be fine. I'm available both morning and afternoon these two days."
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": ": Sure. Dr. Jones has openings on both days. On Wednesday, would you prefer a morning time or something in the afternoon? I think morning time would be better. Dr. Jones may indicate several tests for me and it may take time. I want to have the result within the day, so please put my appointment in the morning if it is feasible."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": ": Alright, morning works. We have a  a.m. slot with Dr. Jones on Wednesday—would that be okay for you, Kate?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": ": That sounds great. By the way, do you know about the examine procedures that patients with irregular period usually need to undergo? I'm a little bit anxious about these examinations."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": ": Of course. It’s usually just a quick chat with the doctor, a blood test, and sometimes an ultrasound—nothing painful, and we’ll guide you through each step. To finalize your booking, what’s the best phone number to reach you if we need to confirm anything? Oh if there is blood test, should I do fasting from Tuesday night?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": ": Sure. For most hormone-related blood tests, you don’t need to fast, so you can eat normally unless Dr. Jones tells you otherwise. And just so I can complete your booking, what’s the best phone number for you, Kate?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": ": Thanks for your advice. Please contact my at 041101222."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": ": Alright, got your number as 041101222. To finish updating your file, could you tell me your date of birth, Kate?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": ": No problem. My date of birth is 28 February, 1999. Alright, thanks for that. And just to complete your details, could you confirm your current home address?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": ": My registered address is different from my current address, which one do you like?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": ": Sure. For your appointment record, we just need the address where you’d like us to send any letters or test results. Which one should we use—your registered or your current address?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": ": Please use my current address, which is 79 Patrick St, Hobart."
+    }
+  ]
+}

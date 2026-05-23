@@ -1,0 +1,590 @@
+{
+  "student_id": 26,
+  "week": 3,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S26_W3_T3",
+  "source_file": "data\\raw\\#26\\#26\\#26. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Good morning.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Good morning! How are you today? Let me know if there's anything I can help you with or if you'd like to have a little chat!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I'm going to talk about requesting maintenance or repairing repair in a rental property and your role is as a property manager”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Got it! I"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely! I’ll be your property manager. Just let me know what kind of maintenance or repair you need, and we’ll get it sorted out! What issue are you experiencing?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“There is a leak under the kitchen sink in my home. My home location is near to Crawley Park.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Oh, I see. Thanks for letting me"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“请看这一段视频的评论,并留言,并订阅我们的频道。”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, I can definitely arrange for someone to come by. Could you let me know the best time for the repair, and also if there are any specific details about the leak that I should know about?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“If possible, today is best time for me. It is okay to afternoon time. Could you arrange person to come my home?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, I'll arrange for someone to come by this afternoon. Could you please confirm your contact number so that the maintenance person can reach you if needed?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I will send my email address and exact location of my home and I also send my email address.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Perfect, thank"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Great, I’ve got"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“in your email. Is it okay?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Yes, that’s absolutely fine! I’ll make sure everything’s arranged and you’ll get a confirmation soon. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Could they call or text me when they are on their way?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course, I'll make sure they give you a call or a text when they're on their way. If there's anything else I can do for you, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Will you send me, send a plumber or handyman?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "I’ll send a plumber since it’s a leak under the kitchen sink. They’ll be well-equipped to handle it. If you have any other preferences, just let me know!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Do I need to stay home for the repair?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "It’s usually helpful if you can be there, just in case they have any questions, but if that’s not possible, we can definitely make arrangements. Whatever works best for you!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“and does it cover or I need to pay.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "If it’s a maintenance issue, it should be covered by the property, so no extra cost for you. If you have any concerns, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Should I turn off the water until they come?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That would definitely be a good idea, just to prevent any further leakage. If you need any assistance with that, let me know!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“I will leave a key at the reception if I am out.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "That sounds perfect! Thanks so much for arranging that. We'll make sure everything goes smoothly. If there's anything else you need, just let me know!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Is there anything I should prepare before they arrive?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "It would be helpful to clear out the area under the sink so they have easy access, and maybe keep any pets out of the way. Other than that, you should be all set!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Can you send me a confirmation when the repair is scheduled?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, I'll send you a confirmation as soon as it's all scheduled. If you have any other questions in the meantime, just let me know!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Will I get an email or text message once it's booked?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "I can definitely send you a text message so you'll have a quick and convenient update. I'll make sure you're in the loop!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“No one is coming came today and I would like to follow up”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry about that!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "No worries at all! Let me follow up on that right away and see what happened. I’ll get back to you as soon as I have an update. Thanks for your patience!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“What if I need to organize my own repair and get reimbursed?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Got it! If that's the case, we can definitely arrange for reimbursement. Just keep the receipt and any details of the repair, and we'll sort it out for you. Let me know if you need any help with that process!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“This is the second time it's happened. Can it be checked more thoroughly?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely, I’m really sorry for the inconvenience. I'll make sure the maintenance team does a more thorough check this time to prevent it from happening again. Thanks for bringing it to my attention!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“It was fixed last month, but the issue has returned.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Oh, I see. Thanks for letting me know. I'll make sure that the team takes a closer look and addresses the root cause so that it doesn't come back. I appreciate your patience with this!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“And I am also worried about any long-term damage, so I think it should be fixed properly.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely, I completely understand your concern. We'll make sure it's fixed thoroughly so that there's no long-term damage. Thanks for bringing that up, and we'll take extra care with this repair."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Oh, it's leaking a lot. Can someone come after business hour?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Of course, we can arrange for someone to come after business hours to fix it as soon as possible. I’ll make sure we prioritize that for you!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Is there an emergency number I can call on weekends?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Yes, absolutely! I'll provide you with an emergency contact number that you can reach anytime, even on weekends. That way, you'll always have someone to help you out!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Will they charge extra?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "There might be a small"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“In after hour repairs”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Got it! There might be a small additional fee for after-hours repairs, but I'll make sure to keep you informed about any costs. We'll do our best to make it as convenient as possible for you!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Thanks for organizing that so quickly. Have a good day.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. Have a wonderful day, and if you need anything else, just let me know!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“and I am going to talk about technical support for a device and your role here is”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Got it! I'll be your technical support agent for"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Perfect, I’ll be your tech support agent! Just let me know what device or issue you’re having, and I’ll do my best to help you out!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“My phone keeps restarting by itself and there is an issue in my phone so I couldn't contact anyone.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Oh, that sounds frustrating! Let's get that sorted out for you. Could you let me know the model of your phone and if you’ve noticed any pattern, like when it restarts or any recent changes?"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“It's a Samsung Galaxy 24.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Got it, thanks for"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“It bowed about two years before.”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Thanks for that info! So, a two-year-old Galaxy can sometimes have battery issues. Have you noticed if the phone gets unusually hot or if it restarts at specific times?"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“Yeah, sometimes it's become so hard, so I keep in...”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "I see, that definitely"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“Sometime, I'll eat.”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "No worries, I got"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“and I do not charge sometimes because of a heart condition.”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "That makes sense, it can definitely be uncomfortable. We'll look into that and see if it's a battery issue or something else. We'll get it sorted out for you!"
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“I bought this phone in Nepal.”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "Got it, thanks for"
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "“But now I am in Perth, so what would be there?”"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "No worries at all! We can definitely find a solution for you, no matter where you are. Just let me know what works best for you, and we'll get your phone running smoothly again!"
+    },
+    {
+      "turn": 79,
+      "speaker": "learner",
+      "text": "“I have tried myself by restarting, but it doesn't work.”"
+    },
+    {
+      "turn": 80,
+      "speaker": "bot",
+      "text": "I see, that can be quite tricky. Let's try a few more troubleshooting steps together, and hopefully, we can get it resolved for you quickly!"
+    },
+    {
+      "turn": 81,
+      "speaker": "learner",
+      "text": "“I think there may be some software issue, could I need to update it?”"
+    },
+    {
+      "turn": 82,
+      "speaker": "bot",
+      "text": "That's definitely a possibility! Keeping the software up to date can fix a lot of issues. Let me know if you’d like some guidance on how to check for updates, and we can go from there!"
+    },
+    {
+      "turn": 83,
+      "speaker": "learner",
+      "text": "“How do I reset this setting?”"
+    },
+    {
+      "turn": 84,
+      "speaker": "bot",
+      "text": "I can definitely help with that! We can do a soft reset or a factory reset, depending on what you prefer. Just let me know which one you'd like to try, and I'll guide you through it!"
+    },
+    {
+      "turn": 85,
+      "speaker": "learner",
+      "text": "“I do not find any option here. Could you help me?”"
+    },
+    {
+      "turn": 86,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help! Let me know what kind of options you're seeing, and I'll walk you through the steps to find the reset option!"
+    },
+    {
+      "turn": 87,
+      "speaker": "learner",
+      "text": "“Where can I find that option in the menu?”"
+    },
+    {
+      "turn": 88,
+      "speaker": "bot",
+      "text": "Sure thing! Usually, you'll find the reset option in your phone's settings, under something like \"General Management\" or \"System.\" If you want, I can guide you step-by-step through the process!"
+    },
+    {
+      "turn": 89,
+      "speaker": "learner",
+      "text": "“Do I need full charge at this time while I'm setting my mobile?”"
+    },
+    {
+      "turn": 90,
+      "speaker": "bot",
+      "text": "It’s definitely a good idea to have your phone at least partially charged, preferably above 50%, just to ensure the process goes smoothly. If possible, plug it in just to be on the safe side!"
+    },
+    {
+      "turn": 91,
+      "speaker": "learner",
+      "text": "“I need to come there or you may arrange something.”"
+    },
+    {
+      "turn": 92,
+      "speaker": "bot",
+      "text": "I can definitely guide you remotely, so no need to come over! Just let me know whenever you're ready, and we can get everything set up step by step."
+    },
+    {
+      "turn": 93,
+      "speaker": "learner",
+      "text": "“What happens if it's not fixed after trying these steps?”"
+    },
+    {
+      "turn": 94,
+      "speaker": "bot",
+      "text": "If it’s still not fixed after these steps, we can explore a few more advanced solutions, or possibly have it looked at by a professional. But we’ll definitely do our best to get it working for you!"
+    },
+    {
+      "turn": 95,
+      "speaker": "learner",
+      "text": "“Will Resetting Delete My Files or Photos?”"
+    },
+    {
+      "turn": 96,
+      "speaker": "bot",
+      "text": "It depends on the type of reset we do. A soft reset won't delete anything, but a factory reset will erase all your data. So, if we need to do that, we'll make sure to back up everything first!"
+    },
+    {
+      "turn": 97,
+      "speaker": "learner",
+      "text": "“Is there a way to back up before I reset the phone?”"
+    },
+    {
+      "turn": 98,
+      "speaker": "bot",
+      "text": "Absolutely! You can back up your data to the cloud or to a computer. I can guide you through the steps if you’d like, so we make sure nothing important is lost!"
+    },
+    {
+      "turn": 99,
+      "speaker": "learner",
+      "text": "“Is there any security risk while resetting my phone?”"
+    },
+    {
+      "turn": 100,
+      "speaker": "bot",
+      "text": "Generally, a reset is quite safe, especially if you're following the correct steps. Just make sure you back up your data and follow the instructions carefully, and you’ll be all set!"
+    },
+    {
+      "turn": 101,
+      "speaker": "learner",
+      "text": "“What if this problem keeps happening after today?”"
+    },
+    {
+      "turn": 102,
+      "speaker": "bot",
+      "text": "If the issue keeps happening even after the reset, it might be a hardware problem, and we may need to have it checked by a professional. But let’s cross that bridge if we come to it!"
+    },
+    {
+      "turn": 103,
+      "speaker": "learner",
+      "text": "“OK, if there is no solve of my program, do I need to come here?”"
+    },
+    {
+      "turn": 104,
+      "speaker": "bot",
+      "text": "If the problem persists after we've tried everything, then yes, it might be a good idea to have a hands-on look. But let's hope we can get it sorted out before that! Just let me know how it goes."
+    },
+    {
+      "turn": 105,
+      "speaker": "learner",
+      "text": "“When I need to come, what time do you pick me up?”"
+    },
+    {
+      "turn": 106,
+      "speaker": "bot",
+      "text": "I’ll coordinate a time that’s convenient for you, and we’ll make sure it fits into your schedule seamlessly. Just let me know what time works best for you, and we’ll set it up!"
+    },
+    {
+      "turn": 107,
+      "speaker": "learner",
+      "text": "“and how much it cost, do you say approximate cost for it?”"
+    },
+    {
+      "turn": 108,
+      "speaker": "bot",
+      "text": "The cost can vary a bit depending on the exact issue, but I can definitely give you an estimate once we narrow it down. We'll keep it as transparent as possible, so you'll know what to expect!"
+    },
+    {
+      "turn": 109,
+      "speaker": "learner",
+      "text": "“Do I need to replace battery?”"
+    },
+    {
+      "turn": 110,
+      "speaker": "bot",
+      "text": "It could be a possibility, especially if the phone is a couple of years old and overheating. We can definitely check that out, and if it is the battery, replacing it can often solve the issue. We'll figure it out together!"
+    },
+    {
+      "turn": 111,
+      "speaker": "learner",
+      "text": "“I think I also need to replace my charger.”"
+    },
+    {
+      "turn": 112,
+      "speaker": "bot",
+      "text": "That could definitely be"
+    },
+    {
+      "turn": 113,
+      "speaker": "learner",
+      "text": "“Because at the time of charging, there is too much heat.”"
+    },
+    {
+      "turn": 114,
+      "speaker": "bot",
+      "text": "Got it, that can be a sign that the charger might not be working as efficiently as it should. We can definitely look into that as well. It’s always good to have a reliable charger, so we’ll get that sorted out!"
+    },
+    {
+      "turn": 115,
+      "speaker": "learner",
+      "text": "“Okay, thank you for your time.”"
+    },
+    {
+      "turn": 116,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you need anything else, just let me know. Have a great day!"
+    }
+  ]
+}

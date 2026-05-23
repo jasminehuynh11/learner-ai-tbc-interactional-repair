@@ -1,0 +1,290 @@
+{
+  "student_id": 5,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S5_W3_T2",
+  "source_file": "data\\raw\\#5\\#5\\#5. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I have lost something important and need to report it either to a lost-and-found service for a minor report. Practise speaking clearly and politely in a formal setting. Your role as a lost-and-found assistant or police officer"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course. I can help with that. Could you please tell me what exactly you’ve lost?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I've just realized I lost my phone.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely. Thanks for letting me know. Now, could you let me know where you last remember having it?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I have no idea, but I am at the train station, and I took the train from the Mercury University to Central, and I think I just left them at my seat.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it. That helps a lot. So just to confirm, you think you might have left your phone on the train seat somewhere between the university and Central Station. Could you also let me know the approximate time you were traveling?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yeah, uh, it was today and around 5 p.m. to 6 p.m. I have no idea what to do, so I'm just ask someone to use their phone to call you. So I'm sorry, but I have only 10 minutes.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure, that’s totally understandable. Thanks for sharing the time frame with me. Let’s do this: I’ll note down that it was around 5 to 6 p.m. and we’ll check if any trains arriving at Central have turned in a phone. Now, just one more quick thing: could you describe what your phone looks like or any identifying details about it?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“제 휴대폰은 아이폰 15입니다. 핑크색이지만, 아기 핑크와 흰색의 핑크입니다. 실제 핑크가 아니라 흰색의 핑크입니다. 또한, 두개의 카메라가 있습니다. 제 휴대폰에는 케이스와 케이스와 케이스가 있습니다.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, that’s helpful"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Yeah, I have a case, but it has no color, so it's like a mirror, so I can see my phone's color.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, perfect. So you've got a kind of white-pink iPhone 15 in a mirrored case. That should make it stand out a bit. Now, let me just ask: is there anything else unique about it, like a lock screen image or any stickers, or is it pretty simple otherwise?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I set the background just on a very basic one, so it's maybe pink and black and white color,”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, that’s all"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "텍스트 기록 사용할 수 없음"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure, that’s all I need. I’ll note that down—just a simple pink, black, and white background on the phone. We’ll do our best to see if it’s been handed in. And just to wrap up, is there any particular number or email we should contact you at once we find it?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Oh, yeah, I would just want you to know my email. My email address is quf40a3naver.com.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, got it. I’ll note down that email so we can contact you as soon as it turns up. We’ll do our best to help you out. Thanks for giving me all the details!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yeah, I'm just want to check, so could you please say my email address again so that I can check?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure, absolutely. So the email I’ve got down here is quf4083 at naver.com. Let me know if that sounds right to you."
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yeah, that's perfect. Beautiful.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Great, glad that matches up perfectly. We’ll reach out to you there if we find your phone. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, thank you. Then, do I need to show ID when it's collected?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Sure! Yeah, you'll just need to bring a bit of ID when you come to pick it up, just so we can confirm it’s really yours. Other than that, you're all set!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay then, but I guess in my iPhone on my phone there is a small wallet on the phone and I think my ID is in it, then how can I do that?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, I understand. If your ID is with the phone itself, that’s no problem at all. We’ll just verify things when you arrive by maybe confirming some other detail with you, and we’ll figure it out together. No worries at all."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“You can ask my birth of date or you can ask my name or address, things like that.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Exactly, you’ve got it. We can just confirm something like your name or your date of birth when you come in, and that’ll be enough. So we’ll sort it out once we’ve got your phone here."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, then I'm just curious, I usually have work, so I'm not sure if I have time to find it or not. So if my friends or my family can go there instead of me, and does it work for you?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, that can work just fine. If a friend or family member comes in on your behalf, just let us know in advance who they are, and we can have them confirm a detail or two that you give them. That way, they can pick it up for you and it’ll all be nice and easy."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, then do they need to take an ID as well?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure! Yeah, it's a good idea for them to bring their own ID just so we know who’s picking it up. That way everything’s covered and it’ll be nice and smooth."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Oh, that's a really good idea. Then, if there's no phone, you guys try to find if someone can steal my phone. So I don't, I might not find it, then what should I do?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, I get that concern. So if it turns out we can’t find the phone and it’s possibly lost or stolen, the best next step is to report it as missing to your mobile provider. They can help lock it down or track it. And of course, we’ll keep your details on file in case it turns up later."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“I see. Then, what time should I wait? Like, it's 7pm right now. So, usually you guys will find it today or tomorrow.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure! So typically, we'll do our best to check in with the trains and the station staff today, but realistically, it might be tomorrow before we know for sure. So I’d say just give it until tomorrow and then feel free to check back in if you haven’t heard anything."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Okay, then you mean you guys will Try to find my phone until tomorrow and after tomorrow if there's no phone. I can just call the phone provider or the police then I can Yeah, they can help me. Is that right?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Exactly, you’ve got it. We’ll do our best to track it down until tomorrow, and if it doesn’t turn up by then, you can definitely go ahead and reach out to your phone provider or the police to get some extra help. We'll do everything we can on our side in the meantime."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“I see, okay, thank you. Then how long do you keep lost items on file?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Sure! So generally, we keep lost items for around 30 days. That gives people plenty of time to come and claim them. So if we do find it, you've got about a month to pick it up."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“This sounds perfect. Thank you.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely, happy to help! And if you need anything else, just let me know."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Okay, then, by any chance, if there's no phone, do you have a CCTV?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Sure! We do have some CCTV coverage in certain areas, like the station platforms. If needed, we can coordinate with the station staff to check if there’s any helpful footage. So if it comes to that, we can definitely look into it."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“And can I check it together?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Sure! We can definitely help you with that if it becomes necessary. Usually, the station staff will review the footage first, and then we can let you know what we find. So if we need to check it, we’ll handle it together and keep you in the loop."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“I see. So you mean the staff needs to check first and if there is any problem, then they will let me know and I can check together, right?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Exactly, you’ve got it. The staff will take a look first, and if there's anything relevant, they'll let you know and we can go from there. So we'll keep you informed every step of the way."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“I got you. Thank you for helping me.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Of course, happy to help. And if you need anything else at all, just let me know."
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“I guess that's all. Thanks for explaining everything. I really appreciate your help.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely, you’re very welcome! I’m glad I could help clarify everything for you. If you need anything else, just reach out. Otherwise, take care and good luck!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Take care. Thank you very much. I'll check back tomorrow.”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Sure thing! You're very welcome, and feel free to check back in tomorrow. Have a good one!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Bye-bye.”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Bye! Take care and we'll talk to you soon."
+    }
+  ]
+}

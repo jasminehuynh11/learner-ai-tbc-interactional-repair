@@ -1,0 +1,305 @@
+{
+  "student_id": 42,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S42_W1_T1",
+  "source_file": "data\\raw\\#42\\#42\\#42. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I want to practise how to order coffee at a café. You are a barista working in a café in Sydney. I’ll play the role of a customer. Please create a realistic café scenario and respond as if we were really there. Ask me about my preferences, help me choose from the menu, and explain different coffee options. Keep the conversation going naturally by asking at least 3 follow-up questions about size, milk, and payment."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! Welcome to our little café in Surry Hills—sun’s out, grinder’s humming, and I’m behind the bar wiping down the machine."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "What kind of coffee would you like today?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Transcript unavailable"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely! We've got all the classics: flat whites, cappuccinos, long blacks, you name it. Now, did you have a particular size in mind, or maybe you’re feeling like something a bit larger or smaller today?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I would like a smaller size coffee today because I just had lunch. And which coffee would you recommend?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, a smaller one sounds perfect after lunch. I'd say a nice small flat white is pretty popular around here—it’s got a good balance of espresso and milk. Speaking of which, do you have any preference for the type of milk you'd like in that? We have regular, skim, and a few non-dairy options as well."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Does flat white have a lot of form of milk?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Sure! A flat white actually has just a nice thin layer of microfoam, so it's creamier and not too frothy. Now, let me know which milk you'd like to go with that—regular, skim, or maybe a non-dairy one? 밀크? You just tell me."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I usually have a stomach ache after drinking regular milk. Then what would you recommend to me?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I'd go for something like oat milk then—it's gentle on the stomach and really smooth in a flat white. So we’ll do that. And just to finish up, would you prefer to pay by card or cash today? Let me know!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Is there a surcharge when I pay by a card?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Nope, there's no extra charge at all for card payments, so feel free to use whichever is easiest for you. So, shall we go ahead and put that on your card then? Let me know and we'll get it sorted."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Then I'll pay by card, please. And also, I'd like some sandwiches with coffee. Do you guys have any morning deal discount for it?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure thing, we can pop that on your card. And yep, we actually do have a little combo deal—if you grab a sandwich with your coffee, there's a bit of a discount on the total. So which sandwich would you like to go for? We’ve got a few options, like ham and cheese or a veggie one. Let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I'd like ham and cheese sandwiches and do you guys warm it up for me?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, we can toast that up for you so it’s nice and warm. So, that's a small oat milk flat white and a toasted ham and cheese sandwich. Perfect! Now, just go ahead and tap your card whenever you’re ready, and we’ll get everything started. Sound good? ಮತ್ತೊಂದು ಪ್ರಶ್ನೆ? Let me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Oh, I'd like to pay by cash for the sandwiches.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course, we can do that. We’ll just handle the sandwich part in cash, no worries at all. So once you've got that ready, we’ll be all set. Anything else I can help you with? Let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I'm sorry, but can I change my order with the coffee?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure thing! No problem at all. Just let me know what you'd like to change about the coffee, and we'll fix it up for you. What would you like instead?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I'll get a medium cappuccino with two sugars, please. Because I like rich foam with that.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Got it! We'll switch that to a medium cappuccino with two sugars, nice and foamy just like you want. And that’s all noted. Anything else you need, or are we good to go with that? Let me know!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“And take away, please.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure thing! We'll pack that up for you to go. So, a medium cappuccino with two sugars and a toasted sandwich, all set for takeaway. Anything else before we wrap it up? Let me know if you need anything else!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“And is that macadamia cookie gluten-free?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Yes, it is! Our macadamia cookie is indeed gluten-free, so you can definitely add that if you'd like. So would you like me to pop one of those in with your order as well? Let me know!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yes, and I want you to warm it up.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely! We'll warm that cookie up for you so it's nice and soft. So that's everything: your cappuccino, the sandwich, and a warmed-up macadamia cookie. Just hang tight for a moment while we get it all ready. Anything else you need? Let me know!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“And also, I'd like to add two combos with those white cakes for my colleagues.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure! We'll add those two combos with the white cakes as well, so your colleagues are covered. All right, we'll get all that bundled up for you. Anything else I should add on top of that? Feel free to let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“And with that combos, can I choose any kind of copies with that?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely! You can definitely pick any kind of coffee for those combos. So just let me know which coffees your colleagues would like, and we’ll make it happen. What should I put in for them? Let me know!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“The one will be small-sized soy latte, and another will be more white with white sugar, please. And a little bit of honey as well.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Got it! So one small soy latte and one small flat white with one sugar and a bit of honey—no problem at all. We’ll get those done for your colleagues. And I think we’re all set now! If there’s nothing else, we’ll start prepping everything. Anything else you need? Just let me know!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Do you guys use single-origin beams?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "We sure do! We've got a nice single-origin option if you'd like to switch any of those coffees to that. Just let me know which one you'd like to upgrade, if any. Anything specific you have in mind? Feel free to tell me!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“What kind of options do you guys have?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Right now, we've got a lovely Ethiopian single-origin that’s got a nice fruity note to it. So if that sounds good, we can do that for any of your coffees. Just let me know which one you'd like to try it with! Let me know what you think."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Can you explain the feature of each single origin beam?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Sure! So our Ethiopian beans have this bright, fruity flavor with a hint of berry, and they're a bit more vibrant. It's perfect if you like something a little more complex. Our other single-origin, a Colombian, is more on the nutty and chocolatey side. So just let me know which flavor profile you prefer, and we can swap that in for you! What do you think? Let me know which one you'd like."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Then I'll pick Colombian bins, please.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely, we’ll go ahead and use the Colombian beans for you. That’ll give you that nice nutty, chocolatey note in your coffee. All right, we’ve got it all set now! Anything else you need before we wrap it up? Just let me know! حالة أخرى؟ Let me know!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Well, I'd like that. Then I'll pick Colombian Finns, please. The Ormacadonia cookie, half here, please.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Sure! We can definitely do that. We'll keep the macadamia cookie here for you to enjoy in the café. Everything else will be packed up to go. So that should do it! If there's nothing else, you're all set. Anything else you need? Just let me know!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“That's all for today. I'll wait near the door.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Perfect, sounds good! We’ll have everything ready for you in just a moment, so feel free to hang out by the door and we’ll bring it right over. Thanks so much, and just give us a shout if you need anything else! Enjoy!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“How long will it take?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Appreciate your help today. Thank you so much.”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Sure thing! Thanks so much for stopping by today. Have a great one, and enjoy the rest of your day!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Wait, I ordered old cappuccino, but I think this is almond milk.”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Ah, got it! Sorry about that mix-up. We’ll fix it right away and get you that oat cappuccino instead. Anything else I can sort out for you?"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Transcription unavailable"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’ll go ahead and fix that for you right away. Thanks for letting me know, and enjoy!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Thank you so much.”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "You're very welcome! If you need anything else, just give me a shout. Otherwise, enjoy your coffee and have a great day!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Have a good one.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "You too! Take care and have a wonderful one."
+    }
+  ]
+}

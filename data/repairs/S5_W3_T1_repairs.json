@@ -1,0 +1,41 @@
+[
+  {
+    "dialogue_id": "S5_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10,
+      11
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "miscommunication – learner misheard 'router' as 'louder'",
+    "evidence_summary": "The learner misheard 'router' as 'louder' in turn 9. The bot explains what a router is in turn 10, but the learner's initial question was not about 'router', leading to a partial understanding."
+  },
+  {
+    "dialogue_id": "S5_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      27,
+      28
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "hearing – learner could not hear due to noise",
+    "evidence_summary": "The learner indicates they couldn't hear the bot's previous statement due to noise in turn 27. The bot repeats the information in turn 28, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S5_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "memory – learner needed repetition of reference number",
+    "evidence_summary": "The learner asks for the reference number to be repeated in turn 65. The bot repeats the number in turn 66, and the learner confirms it in turn 67, although with an error. The bot corrects the learner in turn 68, resolving the issue."
+  }
+]

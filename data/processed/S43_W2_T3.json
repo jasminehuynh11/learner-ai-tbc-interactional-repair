@@ -1,0 +1,215 @@
+{
+  "student_id": 43,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S43_W2_T3",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Enquiring About a Rental Property or Housing Inspection"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, I want to practice inquiring about a rental property or making a house inspection. Where you will play the role of the real estate agent, and I will be the customer.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That sounds great! I’m happy to help you practice. Whenever you’re ready, just let me know what kind of property you’re interested in, and we can jump right into it."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Hello! It's great to hear from you. Whenever you’re ready, feel free to let me know what type of rental property you’re looking for, and we can get started with your inquiry or inspection questions!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Hi, I'm interested in the two-bedroom unit on Bridge Street in East Tamworth.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great! I'd be happy to help with that. The two-bedroom unit on Bridge Street sounds lovely. Do you have any specific questions about the property, or would you like to schedule a viewing or an inspection? Let me know how I can assist!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I want a schedule of visiting. Do I need to register my application before attending?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That's a great question! Typically, we do recommend scheduling the inspection in advance so we can make sure everything is prepared and that the property is available. But it's usually a straightforward process, and I can help you with all the details to get that set up. Let me know what time works best for you!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I only have two available schedules this week, which are Wednesday at 2 p.m. and Friday at 11.30 a.m. Do these times fit your inspection schedule?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Yes, those times work just fine! We can definitely arrange the inspection for either Wednesday at 2 PM or Friday at , whichever suits you best. Just let me know your preferred day, and I’ll get everything confirmed for you!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Can I visit the property at 2 p.m. on a Wednesday? That would be better because that's the time when I finish my work.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! We’ll schedule your visit for Wednesday at 2 PM. I’ll make sure everything is ready for you. If you have any other questions in the meantime, just let me know. Looking forward to it!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I have a few questions about a property. Is the property furnished or unfurnished?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great question! The property is actually unfurnished, so you'll have a blank slate to arrange it as you like. If you have any other questions about the amenities or details, feel free to ask!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“I also want to ask about the laundry room. On the photo, I saw that we only have one laundry room, but it looks like it's outside of the unit. I want to ask if we have to share the laundry room with other units, or it belongs to our unit only?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That’s a great question! The laundry room is indeed shared with the other units in the building. It’s a communal space, but it’s well-maintained and usually not too busy. If you have any other concerns or need more details, just let me know!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Oh, so if it's in the common space, so who's going to pay for the water bill for the laundry?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That’s a good point! Typically, the cost for the water used in the communal laundry area is covered by the building’s overall maintenance fees, which are included in your rent. That way, it’s convenient for everyone. But if you have any more questions, I’m happy to clarify further!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh yes, thank you very much. That clarifies a lot of my confusion. I also want to ask if the property allow pets.”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely! The property does allow pets, but there might be some specific guidelines or a pet deposit involved. If you have a particular pet in mind, we can definitely go over the details to make sure everything’s clear. Feel free to let me know if you have any other questions!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Oh yeah, that's very good. I don't plan to have any pets with me, but maybe some friends of mine, who are animal lovers, they will bring some to our home. I just want to check it before they can come.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "That totally makes sense! It’s always good to know in advance. And it’s great that the property is pet-friendly, so you’ll have that flexibility if needed. If you have any other questions or need more details down the line, just let me know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Um, can I ask about the bond fee? How much do I have to pay for the bond?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course! The bond fee typically is equivalent to about four weeks’ rent, though it can vary depending on the property. I can confirm the exact amount for you once we have the final details. Let me know if you need any more specifics or if there’s anything else I can help with!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“So, I need to make an application for the inspection before I go to visit the property on next Wednesday, is that right?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, that's correct! Usually, we do recommend submitting the application or at least letting us know in advance so we can ensure everything is prepared for your visit. That way, we can make the most of your time on-site. If you need any help with the application process, I'm here to help!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Yes, that's great. Thank you for your versatility. I wonder if I can apply online, or do I have to visit the office to finish the application form?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You can absolutely apply online! We have a convenient online application form that you can fill out from anywhere. If you do have any questions or need assistance, you can always reach out, and we’ll help you every step of the way. Let me know if you need anything else!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Oh yeah, that's great. I would like to apply online because my schedule is quite tight at the moment. I will submit my application tonight. Could I confirm if it was received?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely! Once you submit your application, you should receive a confirmation email right away. And if you have any concerns or don’t get that confirmation, just let us know, and we’ll double-check everything for you. We’re here to make it as smooth as possible!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Oh yes, thank you. I have another question about the rental options, because I'm not very sure that my partner will stay at this unit for more than a year, so is that okay if we can negotiate the lease length later?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Absolutely, that’s definitely possible! We can often be flexible with the lease terms, and we can discuss and negotiate the duration that works best for both of you. Just let us know your preferences, and we’ll tailor the arrangement accordingly. Feel free to bring it up anytime!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I want to ask when the lease starts if I'm approved. Can I just move in immediately or do I have to wait at a certain time?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Great question! Usually, once you’re approved, we can arrange a move-in date that works for you. Often, it can be as soon as the lease is signed and the bond is paid, but it can also depend on the current tenant’s move-out date. We’ll do our best to accommodate your schedule and make the transition as smooth as possible. Just let us know what works best for you!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yes, that's perfect. I have a question. I think I have an issue with some of the documents. I can't find the employment agreement with my previous job. Is that okay if I provide it later? Because I understand that there is a lot of application for the unit at the moment. I don't want to miss it.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, that's understandable! We can definitely work with you on that. You can submit the application with the documents you have right now, and then provide the employment agreement later. We’ll keep your application in good standing, and we’ll do our best to ensure you don’t miss out. Just let us know if you need any help along the way!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Oh, that sounds great. I will send an email to my supervisor. I hope that it will reach him well and he can send me the employment agreementư.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Of course! I’m happy to help, and I’m glad we could work it out. If you need any more assistance or have any other questions along the way, just let me know. Good luck with the application, and I hope everything goes smoothly for you!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“I think that's it for today. I really appreciate your help. Thank you again, and I hope you have a great evening.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "You’re very welcome! It was my pleasure to help. If you ever need anything else, just reach out. Have a fantastic evening, and take care! Top of Form"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+Week 3: Reporting Problems and Seeking Help
+Task 1: Reporting an Internet Outage at Your Housing
+Week 3: Reporting Problems and Seeking Help
+Task 1: Reporting an Internet Outage at Your Housing
+English Conversational Partner said:
+Sure! I’ll be Internet Support Staff for your housing provider.
+English Conversational Partner said:
+Alright, I can help with that — can you tell me what problem you’re having with the Internet right now?
+You said:
+“Hi, my internet has stopped working.”
+00:02
+English Conversational Partner said:
+I’m sorry to hear that. Could you let me know when the outage started and if you’ve tried any troubleshooting steps so far?
+You said:
+“I think the outage just started 5 minutes ago.”
+00:05
+English Conversational Partner said:
+Got it, thanks for that info. Have you tried restarting your router or checking the cables in the meantime?
+You said:
+“How can I restart it?”
+00:01
+English Conversational Partner said:
+Sure! To restart your router, you can simply unplug it from the power source, wait about 30 seconds, and then plug it back in. Let me know if that helps or if you need more guidance.
+You said:
+“I will try it now.”
+00:01
+English Conversational Partner said:
+Great! Take your time, and just let me know once you’ve done that. If the issue persists, we can definitely look into other troubleshooting steps.
+You said:
+“After trying your method, I think the outage still appeared and I still cannot use my internet.”
+00:09
+English Conversational Partner said:
+I’m sorry that didn’t help. In that case, we might need to run a few more checks. Could you let me know the model of your router or if there are any error lights showing on it right now?
+You said:
+“The model is ABC123.”
+00:02
+English Conversational Partner said:
+Perfect, thanks for that. I’ll check if there are any known issues with that model. In the meantime, do you happen to know if other residents in your building are also experiencing the same outage?
+You said:
+“I'm not sure because I...”
+00:02
+English Conversational Partner said:
+No worries at all!
+You said:
+“seldom meet them”
+00:01
+English Conversational Partner said:
+Absolutely, that’s totally understandable. If you can, you might want to check with your neighbors later on. In the meantime, I’ll go ahead and look into any service outages in your area. Let me know if there’s anything else you’d like to try!
+You said:
+“As I remember, the light of the source is usually blinking, but now...”
+00:07
+English Conversational Partner said:
+I see, that definitely
+You said:
+“It is not blinking anymore”
+00:01
+English Conversational Partner said:
+…sounds like there might
+You said:
+“I guess the data output from your end has some problem”
+00:00
+English Conversational Partner said:
+…some kind of connectivity issue. Thanks for sharing that detail! We can definitely investigate further. Let me know if you notice any other changes or if you have any other questions in the meantime.
+You said:
+“So I think the data output from your company is not reaching the port of my home so that the source light is not blinking anymore.”
+00:13
+English Conversational Partner said:
+I understand, that makes sense. It could definitely indicate an external connection issue. What I’ll do is check on our end and see if there are any outages or maintenance in your area. I’ll keep you updated as soon as I have more information!
+You said:
+“Can you check the problem from your end?”
+00:05
+English Conversational Partner said:
+Absolutely, I’ll look into it right away. Let me check the system for any reported outages or disruptions in your area. I’ll get back to you in just a moment with what I find!
+You said:
+“Yes, tell me the situation now.”
+00:02
+English Conversational Partner said:
+Alright, I’ve checked the system, and it looks like there is indeed a temporary outage in your area. Our technicians are already working on it, and it should be resolved within the next few hours. I’ll keep you posted if there are any updates. Let me know if there’s anything else I can do for you in the meantime!
+You said:
+“Because I need to use my internet in an hour, I have something important document I need to send to my boss. So, can you send some technician to my home to have a check on the modem or internet port or router?”
+00:22
+English Conversational Partner said:
+I completely understand how important that is. I’ll definitely escalate the issue, and I’ll arrange for a technician to come out as soon as possible. In the meantime, I’ll confirm the timing and keep you updated so that we can get you back online quickly. Thank you for your patience!
+You said:
+“Should I wait for the technician or will someone will call me afterwards?”
+00:06
+English Conversational Partner said:
+Great question! Typically, our technician will give you a call ahead of time to confirm their arrival. In the meantime, you can definitely stay put, and we’ll keep you updated via phone or email. If anything changes, I’ll let you know right away!
+You said:
+“So, is the transition coming and will he arrive at my home in half an hour?”
+00:11
+English Conversational Partner said:
+I’ll do my best to get a technician out as quickly as possible. While I can’t guarantee an exact half-hour timeframe, I’ll prioritize your request and keep you updated on the estimated arrival. Hopefully, we can get everything sorted out for you very soon!
+You said:
+“Understandable. Is there any way I can have access to internet right now?”
+00:09
+English Conversational Partner said:
+I understand the urgency. One option might be using mobile data if you have a smartphone, or perhaps a nearby public Wi-Fi if that’s convenient. If that’s not possible, we can also look into temporary solutions or maybe even a hotspot device if that’s available. Just let me know what works best for you!
+You said:
+“I may have a try with the mobile data from my mobile phone. Can you teach me how to turn it on?”
+00:08
+English Conversational Partner said:
+Of course! To use your mobile data, you can set up a hotspot. On most smartphones, you just go to your settings, then look for the “Personal Hotspot” or “Tethering” option. From there, you can turn it on, set a Wi-Fi password, and then connect your computer or other devices to it. If you need any step-by-step guidance, I’m happy to help!
+You said:
+“It's alright. I can see the function in my phone. I have now turned it on and I have access to the internet. So, thank you for your help and I appreciate your arrangement of the technician.”
+00:16
+English Conversational Partner said:
+You’re very welcome! I’m glad you got connected again. If you need anything else at all, just let me know. And I’ll make sure the technician is scheduled promptly. Thanks for your patience, and good luck with your document!
+You said:
+“Thank you. Have a good day.”
+00:01
+English Conversational Partner said:
+You too! Take care, and feel free to reach out anytime. Have a great day!
+
+
+
+
+
+
+
+
+
+Task 2: Reporting a Lost Item or Filing a Minor Police Report
+English Conversational Partner said:
+Alright. I’m a police officer—please tell me what happened and what item you lost.
+You said:
+“Hi, I've just realized I lost my phone.”
+00:02
+English Conversational Partner said:
+I’m sorry to hear that. Could you please let me know when and where you last had your phone?
+You said:
+“I think I lost my phone in the train station, because before entering the train station, I was still using my mobile phone to pay for the transport fee.”
+00:14
+English Conversational Partner said:
+Got it. That helps a lot. Could you describe the phone for me, like the brand, model, and any distinctive features it might have?
+You said:
+“My phone is Apple and”
+00:03
+English Conversational Partner said:
+Alright, an Apple phone.
+You said:
+“The color is grey.”
+00:02
+English Conversational Partner said:
+Perfect, a grey Apple phone. Could you also let me know the approximate time you think you lost it at the train station? That’ll help us narrow it down.
+You said:
+“I think I just lost it in the last 15 minutes because I've been waiting for my train for 15 minutes.”
+00:13
+English Conversational Partner said:
+Alright, that’s helpful. So, it was likely lost within the last 15 minutes. Did you happen to notice if it was in a specific area of the station, like near a particular platform or a seating area?
+You said:
+“I am now in Platform 5 because I am taking the route to Murdoch University.”
+00:10
+English Conversational Partner said:
+Got it, platform 5 near Murdoch University. That’s great information. Would you also happen to have any identification or any unique details about the phone that could help us identify it more easily?
+You said:
+“As I mentioned before, the phone is grey in color, however, it is still attached with the phone case. The phone case is green in color, and there is a sticker on it.”
+00:16
+English Conversational Partner said:
+Perfect, that definitely helps. So, we have a grey Apple phone with a green case and a sticker on it. Is there anything else that might help us track it down, like a serial number or any specific apps you had open?
+You said:
+“I didn't have the record of the serial number.”
+00:02
+English Conversational Partner said:
+No worries at all, that’s absolutely fine. We’ll do our best with the details we have. Is there anything else you’d like to know about the next steps in the recovery process, or any other questions you have?
+You said:
+“Will the police receive reports from train station staff if they find some lost and found items in the train station?”
+00:11
+English Conversational Partner said:
+Yes, absolutely! Typically, the train station staff will notify us if they find any lost items, and we coordinate with them to ensure that any recovered belongings are returned. So, it’s definitely possible that we’ll hear something soon. Let me know if you have any other questions about that process!
+You said:
+“Do I need to show ID when collecting my phone?”
+00:04
+English Conversational Partner said:
+Yes, typically you would need to show some form of identification to verify that the phone belongs to you. It helps ensure that everything is secure and accurate. If you have any specific concerns, we can definitely go over them as well.
+You said:
+“I just have access to find my iPhone function and I saw that”
+00:10
+English Conversational Partner said:
+That’s great! The
+You said:
+“Someone took my phone and he or she is leaving the station.”
+00:06
+English Conversational Partner said:
+I’m really sorry to hear that. In that case, it’s definitely important to let us know as soon as possible. We’ll take the necessary steps to try and recover it. Let me know if there are any other details you can share, and we’ll do our best to help.
+You said:
+“Do you want me to share the live location of my phone to you? And how can I share it to you?”
+00:06
+English Conversational Partner said:
+Yes, sharing the live location would definitely help us a lot. You can provide the location details through the official reporting channel or send it to the station’s contact. If you’d like, I can guide you step-by-step on how to do that. Let me know what works best for you.
+You said:
+“Can you first send some officer to the train station and help me to stop the theft?”
+00:08
+English Conversational Partner said:
+Of course, we’ll arrange for an officer to head over to the train station right away. In the meantime, it’s helpful if you keep your phone’s location updated. We’ll do our best to help stop the fee and recover your phone as quickly as possible. Let me know if you have any other concerns in the meantime.
+You said:
+“Yes, now I see the guy took my phone leaving the station and now he is entering the department store near the station.”
+00:12
+English Conversational Partner said:
+I understand, and I appreciate you letting us know. We’ll definitely send an officer to the department store area as well. Please stay safe and keep us updated if you notice any changes. We’ll do everything we can to assist you promptly.
+You said:
+“Okay, then how can I communicate with the officer?”
+00:06
+English Conversational Partner said:
+You can stay in touch by keeping your phone’s location updated, and once the officer arrives, they’ll reach out to you directly. You can also call the station’s non-emergency line for real-time updates. We’ll make sure you’re well informed throughout the process. Let me know if you need any additional assistance!
+You said:
+“That's all. I think I will keep in touch in this line to report the situation to you. And can you help me also tell the officer to arrive sooner?”
+00:18
+English Conversational Partner said:
+Absolutely, I’ll make sure the officer is aware and that they arrive as quickly as possible. And definitely keep in touch through this line if you have any updates or questions. We’ll do everything we can to help you out.
+You said:
+“Thank you for your help. The phone is really important to me because there are lots of important photos and documents in it.”
+00:08
+English Conversational Partner said:
+I completely understand, and I’m here to help every step of the way. We’ll do our best to recover it quickly. If you need anything else at all, just let me know, and we’ll keep you updated.
+You said:
+“Has the officer arrived at the department store?”
+00:03
+English Conversational Partner said:
+I’ll check on that right away and confirm their status. Please give me just a moment, and I’ll let you know as soon as possible. Thanks for your patience!
+You said:
+“Can you tell me the situation now?”
+00:01
+English Conversational Partner said:
+Absolutely! I’ve confirmed that the officer is on their way to the department store now. They should arrive very shortly. In the meantime, if you notice anything else or have any updates, just let me know, and we’ll keep everything moving smoothly.

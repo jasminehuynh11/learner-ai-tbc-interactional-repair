@@ -1,0 +1,230 @@
+{
+  "student_id": 18,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S18_W2_T1",
+  "source_file": "data\\raw\\#18\\#18\\#18. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hello, I'd like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course! I'd be happy to help. Do you have a specific doctor or clinic in mind, and is there a particular date or time you're looking at? Let me know, and we can go from there."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Okay, I'd like to book this Friday, Dr. Chen.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Updated saved memory Got it! I’ll assume you mean this upcoming Friday. If you have a preferred time of day, or if you need any specific details, just let me know, and I'll help you get that sorted!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yes, and I'd like to book my next week general checkup. Is that OK?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Updated saved memory Absolutely, that works perfectly! So we’ll arrange both the appointment with Dr. Chen this Friday and then your general check-up next week. Let me know if you have any preferred dates or times"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“General checkup is next year.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Updated saved memory Got it, thanks for clarifying! So, we’ll just focus on booking the appointment with Dr. Chen for this Friday, and we’ll keep the general check-up in mind for next year. If you have any specific time preferences for Friday, just let me know!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And I'd like to cancel my husband's medical appointment at today's 2 p.m. appointment.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Updated saved memory All right, I'll make a note of that. If you need any help with the cancellation process or if there's anything else I can assist with, just let me know!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“You don't need my husband's personal detail.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "No worries at all! I won't need any personal details. I'll just make sure to note that you want to cancel it. If there's anything else you need, I'm here to help!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, is there a cancellation fee?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That can definitely depend on the clinic's policy. If you let me know which clinic or practice it is, I can check that for you, or you can always give them a quick call to confirm. Let me know how you'd like to proceed!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay. Is that okay? Um, but, um, okay. Um,”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, no problem at all! If you need anything else or have any other questions as you go along, just let me know. I'm here to help!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, hello, today is Friday, and I'd like to ask how long is the current wait?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "I’m sorry, but I don’t have the exact wait times for Dr. Chen today. It’s probably best to give the clinic a quick call to get the most accurate info. Let me know if there's anything else I can do for you!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, thanks for remembering me. I'm here for my appointment with Dr. Chen.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course! I’ll make sure to keep that in mind. I hope your appointment goes smoothly, and if you need anything else while you're there or afterwards, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Yes, and also, during my wait time, I'd like to ask, if you're looking to, my friends, my friends, they are looking to see a doctor this week, what times are available?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it! If your friends are looking to see a doctor this week, it's best to check with local clinics directly or use online booking platforms like Healthengine. That way, they'll get the most accurate availability and can find a convenient time. If you need more specifics, just let me know!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Good morning, everyone. Thank you for joining us.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "No worries at all!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, so do they need to bring their Medicare cards?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Yes, typically it's a good idea for them to bring their Medicare card, as it helps with the billing and ensures they get the correct coverage. It's also helpful to bring any relevant medical records or identification. If they have any specific questions, the clinic staff will be happy to guide them as well."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, thank you, and I just let you know if it is possible to firstly to inform the doctor. I've had a sore throat and cough for a few days.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, that's definitely important to let the doctor know beforehand. You can mention it when you arrive or even give the clinic a quick call ahead of time. That way, they'll be prepared and can give you the best care possible. Let me know if you need any more help with that!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And I have to tell about the medical certificate. Is there okay to tell you, the receptionist, or just straightforward to tell doctor?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You can definitely let the receptionist know, and they can make a note of it for the doctor. Usually, the doctor will also discuss it with you during the appointment. So either way works just fine, and the clinic staff will ensure everything is taken care of."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, so generally, how much is a medical certificate cost?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "The cost of a medical certificate can vary depending on the clinic and the doctor. In some cases, it might be included in the consultation fee, while in others, there could be a small additional charge. It’s always a good idea to check with the clinic beforehand so you have a clear idea of the pricing."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, thank you, that really helped. I appreciate your time. Bye for now!”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. If you ever need anything else, just reach out. Have a great day, and bye for now!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“OK, it's next year. And can I request a copy of my results after the visit?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely! You can usually request a copy of your results either right after the visit or through the clinic's patient portal if they have one. Just let the clinic staff know, and they'll make sure you get them. Feel free to ask whenever you need them!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Okay, and also my doctor prescribed me some medications. How many repeats will I get with the prescription?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "That typically depends on the doctor's discretion and the type of medication. Usually, the prescription will specify the number of repeats, and it could be anywhere from one to several, depending on your condition. If you need specifics, your doctor or the pharmacy can confirm that detail for you."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And how would I need a follow-up appointment after lease because my doctor just didn't say that.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "It often depends on the condition being treated and how you're responding to the medication. If your symptoms improve as expected, you might not need a follow-up. But if anything seems off or the doctor wants to monitor your progress, they might schedule one. If you're unsure, it’s always a good idea to give the clinic a quick call and confirm."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Okay, and another question, sorry. Are there any telehealth options if my friends can come in person?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Yes, definitely! Many clinics do offer telehealth options, so your friends can have appointments remotely if they prefer. It's always best to check directly with the clinic to see if they support telehealth for the specific service your friends need. But it’s definitely a convenient option!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Okay, thanks for your responding and have a good day. Bye.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad I could help. Have a wonderful day, and take care! Bye for now!"
+    }
+  ]
+}

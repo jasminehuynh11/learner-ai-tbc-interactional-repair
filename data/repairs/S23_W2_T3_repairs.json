@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S23_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      17,
+      18
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner unfamiliar with 'landlord reference'",
+    "evidence_summary": "The learner expresses confusion about providing a landlord reference in turn 17, indicating it's their first time renting and they don't have a previous landlord. The bot responds in turn 18 by offering alternative forms of reference, resolving the learner's concern."
+  },
+  {
+    "dialogue_id": "S23_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      35,
+      36
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner asks for repetition of document types",
+    "evidence_summary": "In turn 35, the learner asks the bot to repeat the types of documents needed. The bot provides a clear list of required documents in turn 36, resolving the learner's request for clarification."
+  }
+]

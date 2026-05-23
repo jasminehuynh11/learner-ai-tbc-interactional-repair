@@ -1,0 +1,51 @@
+[
+  {
+    "dialogue_id": "S18_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7,
+      8
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – incorrect temporal reference",
+    "evidence_summary": "The bot misunderstood the timing of the general check-up, interpreting 'next week' when the learner meant 'next year' (Turn 6). The learner initiated the repair by explicitly correcting the bot (Turn 7). The bot acknowledged the clarification and updated its understanding, resolving the issue (Turn 8)."
+  },
+  {
+    "dialogue_id": "S18_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "U-A",
+    "trigger": "learner's fragmented/unclear phrasing – hesitation",
+    "evidence_summary": "The learner's utterance in Turn 15 was fragmented and hesitant ('Okay. Is that okay? Um, but, um, okay. Um,”), indicating communication trouble. The learner initiated this trouble. The bot responded with a general reassurance in Turn 16, but the specific nature of the learner's confusion was not clarified, and the learner moved on to a new topic, abandoning the issue."
+  },
+  {
+    "dialogue_id": "S18_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      23,
+      24
+    ],
+    "initiation": "None",
+    "resolution": "None",
+    "trigger": "learner's irrelevant utterance",
+    "evidence_summary": "The learner's utterance in Turn 23 was irrelevant to the ongoing dialogue but did not indicate any communication trouble. The bot's response in Turn 24 did not attempt to address the irrelevance, and there was no repair sequence initiated or needed."
+  },
+  {
+    "dialogue_id": "S18_W2_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      35,
+      36
+    ],
+    "initiation": "LI",
+    "resolution": "U-A",
+    "trigger": "learner's lingering confusion – re-emphasis of resolved point",
+    "evidence_summary": "In Turn 35, the learner re-stated 'OK, it's next year,' which was a point about the general check-up's timing that had already been clarified and resolved in Turns 6-8. This re-emphasis by the learner indicates lingering confusion or a need for re-confirmation. The bot, in Turn 36, ignored this re-statement and only addressed the new question about requesting results. The learner did not pursue the 'next year' point further, so the trouble was abandoned."
+  }
+]

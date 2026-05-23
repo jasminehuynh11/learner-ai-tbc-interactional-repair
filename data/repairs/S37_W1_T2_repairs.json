@@ -1,0 +1,33 @@
+[
+  {
+    "dialogue_id": "S37_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – incomplete phone number",
+    "evidence_summary": "The learner initially provides an incomplete phone number ('3'), which the bot identifies as insufficient. The bot requests the full number multiple times, and the learner eventually provides a complete number in turn 12. The issue is resolved as the bot moves on to the next question."
+  },
+  {
+    "dialogue_id": "S37_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – clarification of decoration preference",
+    "evidence_summary": "The learner initially states 'Flowers, heart,' which the bot interprets as 'flowers in a heart shape.' The learner then clarifies they want 'flowers and heart' with specific colors. The bot acknowledges the clarification, resolving the misunderstanding."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S49_W3_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      25,
+      26
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand explanation",
+    "evidence_summary": "The learner asks the bot to repeat the information about AppleCare coverage, indicating they did not understand the initial explanation. The bot repeats the information, and the learner acknowledges understanding in the subsequent turn, resolving the issue."
+  }
+]

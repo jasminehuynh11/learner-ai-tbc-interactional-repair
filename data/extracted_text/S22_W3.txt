@@ -1,0 +1,287 @@
+Week 3 – Task 1
+Reporting an Internet Outage at Your Housing
+You said:
+ Hi, my internet is not working today. 00:03
+English Conversational Partner said:
+ Hi there, thanks for contacting us today. I’m sorry you’re having trouble with your internet, but don’t worry, I’ll help you check what’s going on. Can you tell me when you first noticed the problem?
+You said:
+ It was working in the morning, but after lunch time, suddenly no internet. 00:07
+English Conversational Partner said:
+ Okay, thank you for explaining that clearly. So it was fine earlier today and then stopped after lunch. That timing is helpful. Are you using Wi-Fi, or are you connected with a cable as well?
+You said:
+ I use Wi-Fi, but I also tried cable and still same problem. 00:06
+English Conversational Partner said:
+ Alright, that’s very helpful information. If both Wi-Fi and cable aren’t working, it could be a wider connection issue. Let’s check a few basic things together first. Have you already tried restarting your modem or router?
+You said:
+ Sorry, modem and router is same thing? 00:03
+English Conversational Partner said:
+ That’s a great question, and many people ask that. They’re usually two different devices, but sometimes they’re combined into one box. Can you see one box or two boxes near where your internet is set up?
+You said:
+ I see two boxes. One small, one little bigger. 00:06
+English Conversational Partner said:
+ Perfect, thanks for checking. That means you have a modem and a router. Have you restarted both of them, or just one?
+You said:
+ I restarted small one only. I didn’t touch the big one. 00:06
+English Conversational Partner said:
+ No problem at all, that’s very common. Let’s try restarting the bigger one as well, just to be sure. You can turn it off, wait about 30 seconds, and then turn it back on. Let me know when you’ve done that.
+You said:
+ Okay, I will wait. 00:04
+English Conversational Partner said:
+ Take your time, that’s fine. While you’re waiting, I’ll stay here with you. Just tell me when it’s back on.
+You said:
+ It’s back on now. But internet still not working. 00:07
+English Conversational Partner said:
+ Thanks for checking that carefully. Since restarting didn’t fix it, let’s look at the lights on the modem. Can you tell me what colour lights you see and whether any are blinking?
+You said:
+ One light is red. Another light is green blinking. 00:06
+English Conversational Partner said:
+ Okay, that’s very useful to know. A red light usually means there’s a connection issue coming from outside your apartment, not something you’ve done wrong.
+You said:
+ Does red light mean broken internet? 00:03
+English Conversational Partner said:
+ Not broken permanently, no. It usually just means the service is temporarily down. Once the issue is fixed, the light should return to green.
+You said:
+ Ah okay. So it will come back? 00:03
+English Conversational Partner said:
+ Yes, in most cases it does. What I’ll do next is check whether there’s an outage in your building or area. To do that, I’ll need to confirm your address. Is that okay?
+You said:
+ Yes. I don’t remember account number. Can I tell address? 00:05
+English Conversational Partner said:
+ That’s completely fine. An address is enough. Please tell me your full address, including the apartment number.
+You said:
+ It’s 12 King Street, apartment 305. 00:06
+English Conversational Partner said:
+ Thank you. Please hold for a moment while I check our system. This might take a few seconds.
+You said:
+ Okay. 00:02
+English Conversational Partner said:
+ Thanks for waiting. I can see that there is a reported outage affecting your building at the moment.
+You said:
+ Oh really? So many people same problem? 00:04
+English Conversational Partner said:
+ Yes, that’s right. Multiple residents in your building are experiencing the same issue, so it’s not just your apartment.
+You said:
+ When did outage start? 00:03
+English Conversational Partner said:
+ According to our records, it started around 1:30 pm today.
+You said:
+ Yes, that is same time for me. 00:03
+English Conversational Partner said:
+ That lines up exactly with what you described earlier, so that confirms it’s a network issue.
+You said:
+ When will it be fixed? 00:03
+English Conversational Partner said:
+ The current estimate is later tonight. Our technicians are already working on it.
+You said:
+ Tonight meaning what time? 00:03
+English Conversational Partner said:
+ Good question. Tonight means before midnight.
+You said:
+ Before midnight… so maybe 10 or 11 pm? 00:05
+English Conversational Partner said:
+ Yes, that’s a reasonable expectation, although sometimes it can be earlier.
+You said:
+ If not fixed tonight, what should I do? 00:05
+English Conversational Partner said:
+ If it’s not fixed by tomorrow morning, you can contact us again, and we can either escalate the case or arrange a technician visit.
+You said:
+ Technician visit is free? 00:03
+English Conversational Partner said:
+ Yes, it’s free if the issue is on our side, which this one appears to be.
+You said:
+ If problem is my side, I need to pay? 00:04
+English Conversational Partner said:
+ Only if the issue is caused by personal equipment, but based on this outage, that’s very unlikely.
+You said:
+ Okay. I think it’s building problem. 00:03
+English Conversational Partner said:
+ Yes, I agree with you. Everything points to a building-wide issue.
+You said:
+ Can I ask one more question? 00:02
+English Conversational Partner said:
+ Of course, feel free to ask as many questions as you need.
+You said:
+ If I work from home tomorrow and still no internet, what can I do? 00:07
+English Conversational Partner said:
+ That’s an important question. If the outage continues, we can provide a written confirmation by email so you can show your employer. We can also advise temporary solutions like mobile data.
+You said:
+ Written confirmation meaning email? 00:03
+English Conversational Partner said:
+ Yes, exactly. An email confirming the outage and the repair status.
+You said:
+ Can you send me that email? 00:03
+English Conversational Partner said:
+ Yes, I can arrange that now. Let me just confirm your email address. Is the one we have on file still correct?
+You said:
+ I’m not sure. Can I tell you again? 00:04
+English Conversational Partner said:
+ Yes, please go ahead.
+You said:
+ It’s laila22@gmail.com. 00:04
+English Conversational Partner said:
+ Thank you. I’ll send the confirmation email later today.
+You said:
+ Okay. And can I get reference number also? 00:04
+English Conversational Partner said:
+ Yes, definitely. It’s always good to have one. Your reference number is 73942. I’ll say it slowly for you.
+You said:
+ Sorry, can you say again slowly? 00:03
+English Conversational Partner said:
+ Of course. Seven… three… nine… four… two.
+You said:
+ Seven three nine four two. Correct? 00:05
+English Conversational Partner said:
+ Yes, that’s exactly right.
+You said:
+ I will write it down now. 00:03
+English Conversational Partner said:
+ No problem at all. Take your time.
+You said:
+ If I call again, I say this number? 00:03
+English Conversational Partner said:
+ Yes, that will help us find your case quickly.
+You said:
+ Okay. Thank you very much for your help today. 00:04
+English Conversational Partner said:
+ You’re very welcome. You explained the problem very clearly, and you did all the right checks. If anything changes or you have more questions, please don’t hesitate to contact us again.
+You said:
+ Just confirm, internet will be back tonight, right? 00:04
+English Conversational Partner said:
+ Yes, that’s the current estimate. We’ll keep monitoring it.
+You said:
+ Okay. I will wait and check later. 00:03
+English Conversational Partner said:
+ Sounds good. I hope it’s resolved soon. Have a good evening, and thanks again for your patience.
+
+
+
+
+
+
+
+Task 3:  Requesting Maintenance or Repairs in a Rental Property
+
+You said:
+ Hi, I’m calling about a problem in my apartment. 00:03
+English Conversational Partner said:
+ Hi there, thanks for calling. No problem at all, I’m happy to help you today. Can you tell me what kind of problem you’re having in your apartment?
+You said:
+ There is water under the sink in the kitchen. 00:05
+English Conversational Partner said:
+ Okay, thanks for letting me know. Water under the sink can definitely be concerning, so it’s good you called. Is the water leaking right now, or did you just notice it earlier?
+You said:
+ It’s leaking slowly. Not big water, but always wet. 00:07
+English Conversational Partner said:
+ I see, thanks for explaining that. So it’s a slow leak but it’s constant, right? When did you first notice the water under the sink?
+You said:
+ Maybe two days ago. But yesterday more water. 00:06
+English Conversational Partner said:
+ Got it. So it started a couple of days ago and then became worse yesterday. That’s helpful information. Can you see where the water is coming from, for example from a pipe or from the sink itself?
+You said:
+ Sorry, pipe meaning the silver one? 00:03
+English Conversational Partner said:
+ Yes, exactly, the silver pipe underneath the sink. Thanks for checking. Do you think the water is coming from that pipe or from another part?
+You said:
+ Yes, from that pipe. I think from the joint. 00:06
+English Conversational Partner said:
+ Okay, that makes sense. A joint leak is quite common and usually easy for a plumber to fix, so don’t worry too much. Have you tried turning off the water valve under the sink yet?
+You said:
+ Water valve… I’m not sure where it is. 00:05
+English Conversational Partner said:
+ That’s completely okay, many people aren’t sure. Under the sink, you should see a small handle or tap connected to the pipe. Take your time and tell me if you can see something like that.
+You said:
+ I see something like handle. Should I turn it now? 00:06
+English Conversational Partner said:
+ Yes, please. You can slowly turn it clockwise. That should stop the water for now. Let me know once you’ve done that.
+You said:
+ Okay, I turned it. Now water stop. 00:05
+English Conversational Partner said:
+ Perfect, well done. That’s great. Stopping the water helps prevent any further damage while we organise the repair. Is everything dry now, or is there still some water left under the sink?
+You said:
+ Still little water, but no more coming. 00:05
+English Conversational Partner said:
+ That’s fine. You can wipe that up later. The important thing is that it’s no longer leaking. Now, let’s organise a plumber to fix this properly. Are you usually at home during the week, or do you have specific days that work better for you?
+You said:
+ I work from home sometimes. What day is possible? 00:06
+English Conversational Partner said:
+ Okay, that helps. Let me check availability. We have a plumber available tomorrow afternoon or Thursday morning. Tomorrow afternoon would be between 1 and 5 pm. Thursday morning would be between 9 and 12. Which one sounds better for you?
+You said:
+ Tomorrow afternoon meaning after lunch? 00:04
+English Conversational Partner said:
+ Yes, exactly, after lunch. Any time from 1 pm onwards. Do you have a preferred time within that window?
+You said:
+ I can do after 3 pm. Is that okay? 00:04
+English Conversational Partner said:
+ Yes, that’s absolutely fine. I’ll make a note for after 3 pm. The plumber will aim to arrive in that time frame. Do you want them to call you before they come?
+You said:
+ Yes, please. Can plumber call me before coming? 00:04
+English Conversational Partner said:
+ Of course. I’ll ask the plumber to call you about 30 minutes before arrival so you know exactly when they’re coming. Now, I just want to check: do you need to stay home the whole time, or will you need to go out?
+You said:
+ If I go out shortly, can I leave key? 00:05
+English Conversational Partner said:
+ Yes, that’s fine. You can leave the key with reception or in the key safe if you have one. Just let us know what you prefer, and we’ll pass that information on to the plumber.
+You said:
+ Okay. Thank you. Can I ask one more question? 00:03
+English Conversational Partner said:
+ Of course, take your time. What would you like to ask?
+You said:
+ Is this repair free or I need to pay? 00:04
+English Conversational Partner said:
+ That’s a very common question. If the issue is normal wear and tear, which this sounds like, then there’s no cost for you. We cover the repair.
+You said:
+ Wear and tear meaning old problem? 00:03
+English Conversational Partner said:
+ Yes, exactly. Problems that happen naturally over time, not because something was broken on purpose.
+You said:
+ Okay. I didn’t break anything. 00:03
+English Conversational Partner said:
+ That’s completely fine. Based on what you’ve described, it sounds like normal maintenance. If the plumber finds anything unexpected, they’ll let us know and we’ll handle it.
+You said:
+ If plumber find bigger problem, what happen? 00:05
+English Conversational Partner said:
+ Good question. If it’s a bigger issue, we’ll contact you and explain the next steps. You won’t need to decide anything on the spot.
+You said:
+ Okay. Can you confirm the time again? 00:04
+English Conversational Partner said:
+ Yes, of course. The plumber is scheduled for tomorrow, Wednesday, after 3 pm, and they’ll call you about 30 minutes before arriving.
+You said:
+ Tomorrow is Wednesday, right? 00:03
+English Conversational Partner said:
+ Yes, that’s right, Wednesday.
+You said:
+ Okay. And plumber will call me before? 00:03
+English Conversational Partner said:
+ Yes, they will. I’ve clearly noted that in the request.
+You said:
+ Do I get message or email about this? 00:04
+English Conversational Partner said:
+ Yes, I’ll send you a confirmation email later today with all the details so you have it in writing.
+You said:
+ Email meaning today? 00:02
+English Conversational Partner said:
+ Yes, later today. It should arrive within a few hours.
+You said:
+ Okay. Can I have reference number also? 00:04
+English Conversational Partner said:
+ Yes, absolutely. Your maintenance reference number is 64218. I’ll say it slowly for you.
+You said:
+ Sorry, can you repeat slowly? 00:03
+English Conversational Partner said:
+ Of course. Six… four… two… one… eight.
+You said:
+ Six four two one eight. Correct? 00:05
+English Conversational Partner said:
+ Yes, that’s exactly right. You’ve got it.
+You said:
+ I will write it down now. 00:03
+English Conversational Partner said:
+ No problem at all. Take your time.
+You said:
+ Just confirm, plumber comes tomorrow after 3 pm, right? 00:05
+English Conversational Partner said:
+ Yes, that’s correct. Tomorrow after 3 pm, with a call before arrival.
+You said:
+ Okay. Thank you very much for your help. 00:04
+English Conversational Partner said:
+ You’re very welcome. You did the right thing by calling early. If anything changes or you have more questions, please don’t hesitate to contact us again. Have a great rest of your day.

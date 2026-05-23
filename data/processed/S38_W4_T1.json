@@ -1,0 +1,165 @@
+{
+  "student_id": 38,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S38_W4_T1",
+  "source_file": "data\\raw\\#38\\#38\\#38. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "So, what are your current study or career goals, and how can I help you today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Saat ini, saya sedang belajar osteopatia tetapi saya tidak tahu sama ada ia adalah kebetulan.” (I don’t know why but when I do the call with chat gpt, it always do that so I rewrote the sentences) “I study osteopathy but I don’t know if this is the right fit your me…”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "I see, that makes sense. Well, we can definitely explore that. What aspects of osteopathy are you unsure about, and what other fields are you considering?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“So I just feel like it's not for me. I really love anatomy and everything that concerns the muscle, but every time that we are in...”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I understand. It"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I feel like I don't belong here.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I get that; it's important to feel passionate about what you’re studying. Are there any specific areas or fields that you’re considering as alternatives, or maybe any particular interests that you’d like to explore?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I'm really interested in psychology.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Oh, that’s wonderful! Psychology is such a fascinating field. What aspects of psychology are you most drawn to, like clinical work, counseling, or maybe research?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“More as a researcher, but I really like the aspect of Consulting too. It's really interesting”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That’s great to hear! There’s definitely a lot of overlap between research and counseling in psychology. Do you have any particular areas of research or counseling that you’re curious about, or any goals you’re aiming for?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Sorry, could you repeat that please in another question? I did not really understand.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Of course! I was just wondering if there are any specific areas within research or counseling in psychology that you’re particularly interested in, or any goals that you have in mind for your future career?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes, I'm really interested in mental illness in general.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s a really important area of focus. There’s definitely a lot of impactful work to be done there. Do you have any particular mental health conditions or populations that you’re especially interested in exploring?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“DALL·E is really vast, so there's a lot of interesting in this that I can potentially do my research on.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, there’s so much to explore! It’s great that you have that curiosity. Would you like to focus more on clinical applications, or are you leaning towards academic research and publishing?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Academic research sounds really good, but I'm still stuck with the fact that I really love anatomy and muscles and learning the human body in general, so that's why I do not know what to do. I'm kind of stuck between those two.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I totally understand; it can be a tough decision. You know, there are some interdisciplinary fields, like neuropsychology or even occupational therapy, that combine anatomy and psychology. Maybe we can explore some of those options together and find a good fit for you!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, of course. So, what would you recommend me?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Well, one option could be exploring fields like neuropsychology, which definitely delves into both the brain and behavior. Another option could be physical therapy, where you still get to work closely with anatomy and muscles, but also help people with their mental well-being. We can definitely look into more detailed options and see what resonates most with you."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“What is the second one? Physical therapy? It sounds really interesting.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, exactly! Physical therapy focuses a lot on the musculoskeletal system and helping patients recover from injuries, and it definitely integrates anatomy and movement. It can be a great blend of hands-on work and helping people feel better. If that sounds exciting, we can definitely explore that further!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“But that sounds exciting, it sounds something that I would enjoy doing as a work.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "That’s awesome to hear! I’m really glad it resonates with you. If you’d like, we can dive into more details about the education path, certification, or even job opportunities in physical therapy. Just let me know how you’d like to proceed!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Oh yes please, I would like to know if since I'm in osteopathic courses, I'm in the second year of Bachelor, should I finish my Bachelor degree in osteopathy and then go directly into physiotherapy, or what should I do?”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "That’s a great question! In many cases, completing your bachelor’s degree can be beneficial, since it provides a solid foundation and can make the transition to physical therapy school smoother. But it also depends on the specific requirements of the physical therapy programs you’re interested in. We can definitely look into the prerequisites and figure out the best path forward for you."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“But how do I explore different carriers if I'm unsure what I want to do?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That’s totally understandable! One great approach is to try out internships, shadowing professionals, or even volunteering in different fields. That way, you can get a real feel for what each career is like. Also, talking to professionals in those fields or even taking some elective courses can help you explore and narrow down your interests."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Alright, I'll do that right now. I'm going to talk about it to a professor and ask for the courses details”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That sounds like a fantastic…(it did not continue ?)"
+    }
+  ]
+}

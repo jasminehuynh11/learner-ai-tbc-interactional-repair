@@ -1,0 +1,94 @@
+[
+  {
+    "dialogue_id": "S36_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      17,
+      18
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – incorrect name",
+    "evidence_summary": "The learner mistakenly refers to 'Mr. Speed' instead of 'Dr. Smith' in turn 17. The bot implicitly corrects this error by using 'Dr. Smith' in its response in turn 18, and the conversation continues smoothly, indicating resolution."
+  },
+  {
+    "dialogue_id": "S36_W2_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      20,
+      21,
+      22
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner clarification – specifying preference",
+    "evidence_summary": "The bot offered options for X-ray timing in turn 20. The learner then clarified their specific preference for 'after' the doctor's visit in turn 21. The bot confirmed understanding and adjusted the plan in turn 22, resolving the clarification."
+  },
+  {
+    "dialogue_id": "S36_W2_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – bot did not directly answer open-ended question",
+    "evidence_summary": "The learner asked for a list of tests in turn 27, but the bot deflected in turn 28. The learner expressed frustration and rephrased their request in turn 29, and explicitly asked for advice in turn 31. The bot finally provided a list of typical tests in turn 32, which the learner accepted in turn 33, resolving the issue."
+  },
+  {
+    "dialogue_id": "S36_W2_T1",
+    "repair_id": 4,
+    "turn_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – bot repeatedly deferred providing specific cost information",
+    "evidence_summary": "The learner repeatedly asked for specific cost information from turn 41 to 53, clarifying their needs and urgency. The bot consistently deferred providing concrete numbers until turn 54, where it finally gave estimated costs, resolving the issue of deferral."
+  },
+  {
+    "dialogue_id": "S36_W2_T1",
+    "repair_id": 5,
+    "turn_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner misunderstanding – bot's explanation of costs was unclear",
+    "evidence_summary": "After the bot provided cost estimates in turn 54, the learner explicitly stated 'I don't understand it all' in turn 55 and asked for repetition. The bot repeated and clarified the information in turn 56, and the learner confirmed understanding in turn 57, resolving the confusion."
+  },
+  {
+    "dialogue_id": "S36_W2_T1",
+    "repair_id": 6,
+    "turn_indices": [
+      10,
+      12
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – missing time information",
+    "evidence_summary": "The bot's response in turn 10 is incomplete, missing the specific time slots. In turn 12, the bot provides the missing information about Dr. Smith's availability, resolving the issue."
+  }
+]

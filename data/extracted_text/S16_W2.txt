@@ -1,0 +1,306 @@
+Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment
+Você disse:
+Hello how are u?
+English Conversational Partner disse:
+Hey there! I’m doing well, thanks for asking. How about you — how’s your day going so far?
+Você disse:
+My day was so good. I'm enjoying it, and I'm studying, and I enjoy it a lot. How about you?
+English Conversational Partner disse:
+That’s great to hear! Sounds like you’re having a productive and fun day. What are you studying at the moment?
+Você disse:
+Yes, now I need to study with you! Are you already?
+English Conversational Partner disse:
+Sure, I’m ready! What would you like to study today — conversation, grammar, vocabulary, or something else?
+Você disse:
+Okay! Today we're going to do a simulation of scheduling an appointment. You will be the secretary for Dr. Charles' consultant, and I need to schedule an appointment; I need you to behave as if you were a real secretary.
+English Conversational Partner disse:
+Alright! Good afternoon, this is Dr. Charles’ office. How can I help you today — are you calling to schedule a new appointment or to change an existing one?
+Você disse:
+“To do an appointment,”
+00:02
+English Conversational Partner disse:
+Absolutely! Let’s get that set up for you. Now, could you let me know what kind of appointment you’re looking to book with Dr. Charles? For example, is it a general consultation or something specific?
+Você disse:
+“Always specific, because I think I took allergies and I need help.”
+00:08
+English Conversational Partner disse:
+Alright, got it. So we'll note that it's for allergy issues. Now, let me check Dr. Charles’ schedule. Could you tell me if you prefer a morning or afternoon appointment?
+Você disse:
+“Please I would like on Wednesday, please!.”
+00:06
+English Conversational Partner disse:
+Sure, afternoon it is! Let's see what we have available. Now, can you let me know which day of the week works best for you?
+Você disse:
+“Could you repeat, please?”
+00:01
+English Conversational Partner disse:
+Of course! I was just asking which day of the week would work best for your appointment. Let me know what day you prefer.
+Você disse:
+“Oh, okay. For me, it's the best if we Wednesday at the afternoon or Friday at the afternoon.”
+00:10
+English Conversational Partner disse:
+Alright, that helps! Let me just check… We can definitely do Wednesday afternoon. Now, can I have your full name to put the appointment under?
+Você disse:
+“Of course my name is Vianna do Valle Junior.”
+00:03
+English Conversational Partner disse:
+Perfect, thank you! I’ve got you down for Wednesday afternoon. Now, just to confirm, do you have any preference for the time slot—like early or late afternoon?
+Você disse:
+“Early, early. Yes, I think it's best.”
+00:03
+English Conversational Partner disse:
+Alright, early afternoon it is! I’ll book you in for the first available slot after lunch. And is there anything else you’d like us to know before your appointment?
+Você disse:
+“Could you repeat, please?”
+00:01
+English Conversational Partner disse:
+Sure! I was just asking if there's anything else you'd like us to know before your appointment. Let me know if you have any other details to share.
+Você disse:
+“No, I think when I stay together with the doctor, I will see other things about my body because sometimes I have allergies in other parts of my body.”
+00:19
+English Conversational Partner disse:
+Absolutely, that makes sense. The doctor can definitely go over all of that with you. For now, we’re all set with your appointment. Anything else I can help you with?
+Você disse:
+“If I needed to change my schedule, there is Cancelling 3.”
+00:12
+English Conversational Partner disse:
+Sure thing! If you do need to change your appointment, just give us a call and there's no cancellation fee. Now, is there anything else you'd like to ask about the scheduling process?
+Você disse:
+“No, no, it's okay for me. It's amazing, your attendance.”
+00:06
+English Conversational Partner disse:
+Great, I’m glad to hear that! In that case, your appointment is all set. If you need anything else, just let us know. Thanks for scheduling with us!
+Você disse:
+“Thank you. Sorry, could you repeat which day you scheduled for me, please?”
+00:07
+English Conversational Partner disse:
+Of course! We’ve got you scheduled for Wednesday afternoon. Let me know if that still works for you or if you need any changes.
+Você disse:
+“I think Friday is the best, could you check if you have a schedule, if it's available in the semi-hour, please?”
+00:12
+English Conversational Partner disse:
+Absolutely! Let me take a look. We do have a Friday slot available around the same time. I’ll switch you to Friday afternoon. Anything else I can help you with?
+Você disse:
+“That's just it. Now I'm very grateful to you.”
+00:03
+English Conversational Partner disse:
+You're very welcome! I'm glad we could sort that out. If there's nothing else, I’ll leave it here. Thanks for scheduling with us, and have a great day!
+Você disse:
+“Thanks so much. I hope you have a great day.”
+00:03
+English Conversational Partner disse:
+Thank you! I appreciate that. Have a wonderful day yourself, and take care!
+Você disse:
+“Thanks!”
+00:00
+English Conversational Partner disse:
+Sure thing! Happy to help. If you need anything else, just let me know. Take care!
+
+
+
+
+
+
+
+
+
+
+
+Task 2: Visiting a Bank and Asking for Help with Banking Services
+
+
+Perfect! [smiles professionally across the counter] Good afternoon, welcome to Westbank. How can I help you today?
+Você disse:
+“Hi, I would like to check why my cart wasn't arrived yet. I opened the account two months ago.”
+00:10
+English Conversational Partner disse:
+Sure, let’s take a look at that for you. Could I just confirm the address we have on file for you, so we can see if everything matches up?
+Você disse:
+“Okay, the street is Pit Street.”
+00:02
+English Conversational Partner disse:
+Got it, Pitt Street. Let me just check that in our system. All right, I do see a slight difference in the address here. Let’s update it to make sure your card can reach you correctly.
+Você disse:
+“Okay, please, could you just change the address and how many time I need to wait for this?”
+00:08
+English Conversational Partner disse:
+Absolutely, I'll update that address right away. It usually takes about a week for the card to arrive once we’ve corrected the details. Anything else I can help you with?
+Você disse:
+“Yes, I would like to know about the services, about credit cards, how kind credit cards I”
+00:13
+English Conversational Partner disse:
+Sure, I can help with that. We
+Você disse:
+Transcrição indisponível
+00:00
+English Conversational Partner disse:
+Absolutely! So we have a few different types of credit cards available depending on what you need, and I can walk you through the options. But first, is there a particular feature or benefit you’re looking for in a card?
+Você disse:
+“Sorry, could you repeat, please?”
+00:03
+English Conversational Partner disse:
+Of course! I was just saying that we have a few different types of credit cards, and I can walk you through the options. So, is there any particular feature or benefit you're looking for in a card?
+Você disse:
+“Yes, if you have a benefits just like a new list, it's good for me.”
+00:07
+English Conversational Partner disse:
+Absolutely, I can do that. We do have cards with mileage benefits, and I'll highlight those for you. So let me go ahead and put together a quick list, and we’ll find one that suits you.
+Você disse:
+“OK.”
+00:00
+English Conversational Partner disse:
+Great! I'll put that together for you right now. So we’ve got everything covered, and if you need anything else, just let me know.
+Você disse:
+“I want to know about this thing. I have a student visa. Would I be eligible for a credit card with no fees?”
+00:14
+English Conversational Partner disse:
+Absolutely, let me explain that. Since you're on a student visa, we do have some no-fee credit card options specifically for students. So yes, you’d definitely be eligible for one of those. Let’s find the best fit for you!
+Você disse:
+“Oh, so good.”
+00:01
+English Conversational Partner disse:
+I’m glad to hear that! We’ll get everything sorted out for you. So just let me know if you have any other questions, and we’ll make sure you’re all set.
+Você disse:
+“Now I would like to know if I pay any fees for sending Remingtones to Brazil.”
+00:09
+English Conversational Partner disse:
+Sure, I can clarify that for you. Typically, there might be a small fee for international remittances, but it depends on the type of account you have. We can definitely check which option would have the lowest fees for sending money to Brazil. Let me know if you’d like me to look into that for you.
+Você disse:
+“Ok, but for example if I send around $10,000, how many fees I probably will have to pay?”
+00:11
+English Conversational Partner disse:
+Of course, to give you an idea, if you send around $10,000, the fee is usually about $20 to $30, depending on the exact service you choose. We can always check the best option to keep your costs as low as possible.
+Você disse:
+“It is possible I pay no fees.”
+00:03
+English Conversational Partner disse:
+It can be possible in some cases. For example, if you have a premium account or a specific arrangement, we might be able to waive the fee. We can definitely look into that for you and see if there’s a no-fee option that applies in your situation.
+Você disse:
+“Okay, so you take my card.”
+00:06
+English Conversational Partner disse:
+Absolutely, I’ll take care of that for you. We’ll get your card details updated and check the best fee options for you. If you have any other questions, just let me know!
+Você disse:
+“No, I have no question more.”
+00:01
+English Conversational Partner disse:
+All right, that sounds great then! We’ve got everything covered. Thanks for stopping by, and have a wonderful day!
+Você disse:
+“Thank you so much. I hope you have a great day.”
+00:03
+English Conversational Partner disse:
+You're very welcome! And thank you—you have a great day as well!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task 3: Enquiring About a Rental Property or Housing Inspection
+
+Você disse:
+Now you will be a real estate agent and we will do the first inspection visit on a property that you will show me. You need to be just like a real estate agent. Can we start now?
+English Conversational Partner disse:
+Of course! [smiles and extends a hand] Hi there, welcome! I’m Emma, the agent showing you the property today. Before we start the tour, could you tell me what kind of place you’re looking for — are you thinking of renting or buying?
+Você disse:
+“Hi Emma, ​​how are you? I'm from Brazil and I came to Sydney to study English. I've been living in Sydney since April and since then I've been living in the CBD, near my school. I'm a little tired of living here and I'd like to find something near a beach, like Ponda Beach, Tamarama, Marouba, Coogee, near that area. I prefer to look for private rooms, but depending on the location, I might accept sharing a room. I went to the building because it has a swimming pool, sauna and jacuzzi.”
+00:53
+English Conversational Partner disse:
+Absolutely, I’ve got it. So you’re looking for something near the beach, like Bondi or Coogee, and ideally with a private room, but you’re flexible if the location is perfect.
+Now, let me ask: are you leaning more towards renting a furnished place, or would you prefer an unfurnished one?
+Você disse:
+“I prefer with final to replace.”
+00:02
+English Conversational Partner disse:
+Sure, a furnished place near the beach—got it. We have a few options that might fit. Now, just to get a sense of your budget range, could you let me know what you're looking to spend per week?
+Você disse:
+“Anything around $300-$350.”
+00:06
+English Conversational Partner disse:
+Absolutely, that gives me a good idea. So around three hundred to three hundred fifty dollars a week. Now, let me check a couple of listings that match that. In the meantime, do you have any preference on how soon you'd like to move in?
+Você disse:
+“Could you repeat, please?”
+00:01
+English Conversational Partner disse:
+Of course! I was just asking if you have any preference on when you'd like to move in. Let me know your timing, and we’ll go from there.
+Você disse:
+“Okay. Okay, now it's November and my current contract finished in December, so I would like to move in January.”
+00:18
+English Conversational Partner disse:
+Got it, January move-in works perfectly. We’ll focus on places available around that time. Now, one last thing: do you have any must-haves besides the pool, sauna, and jacuzzi, like parking or a balcony? Let me know!
+Você disse:
+“Yes, the place that is a balcony for me is perfect, and I don't need parking. I need parking just for my e-bike. And, of course, I need lift in the building, elevator. It's good if you have this. And that's it.”
+00:26
+English Conversational Partner disse:
+Absolutely, that’s all noted. So a balcony is perfect, you just need space for your e-bike, and a building with an elevator. Great! Now let me line up a couple of those options for you. How about we start with a viewing of one of them this week? What day works best for you?
+Você disse:
+“Could you repeat, please?”
+00:01
+English Conversational Partner disse:
+Of course! I was just asking what day this week would work best for you to start viewing one of those options. Let me know what suits you.
+Você disse:
+“Okay, I think it's Wednesday.”
+00:07
+English Conversational Partner disse:
+Perfect, Wednesday it is! I'll set up a viewing for you then. We’ll meet at the property, and I’ll show you around. Anything else you’d like to ask before we confirm that?
+Você disse:
+“Thursday and Friday. It's a good day for me.”
+00:04
+English Conversational Partner disse:
+Absolutely, we can be flexible. If Thursday or Friday works better, we can do that. Let's say Friday then. I'll arrange a viewing on that day. Is there anything else you'd like to go over before we wrap up? ಕಳೆದ
+Você disse:
+“That's it.”
+00:00
+English Conversational Partner disse:
+All right, that sounds perfect then! We’ve got everything set for Friday. Thanks for letting me know, and I’ll see you at the property.
+Você disse:
+“Okay, could you schedule the inspection around after 4 o'clock?”
+00:11
+English Conversational Partner disse:
+Sure, we can definitely do that. I'll schedule the inspection for after 4 o'clock on Friday. That should work out just fine. Anything else you need to know?
+Você disse:
+“That's just it. Do you have any place in your mind?”
+00:04
+English Conversational Partner disse:
+Absolutely, I do! I've got a couple of places in mind near Bondi and Coogee that match your criteria, and I'll show them to you on Friday. I'll see you then!
+Você disse:
+“And could you send for me pictures about this place? Because if I don't want to go there, we don't need to spend time.”
+00:15
+English Conversational Partner disse:
+Sure thing! I’ll email you some pictures and details of those listings so you can take a look beforehand. That way we only visit the ones you like. Sound good?
+Você disse:
+“Yes.”
+00:00
+English Conversational Partner disse:
+Great, I'll get those pictures over to you shortly. And if you have any questions once you’ve seen them, just let me know. Looking forward to Friday!
+Você disse:
+“Okay, so on the Friday we were to go there, okay?”
+00:04
+English Conversational Partner disse:
+Exactly, you’ve got it. We’ll meet there on Friday and take a look together. If you need anything else before then, just let me know!
+Você disse:
+“For me, it's okay. Now, it's okay.”
+00:03
+English Conversational Partner disse:
+Perfect, that sounds great. I’ll see you on Friday then. Thanks for chatting and we’ll catch up soon!
+Você disse:
+“See you soon, have a nice day.”
+00:03
+English Conversational Partner disse:
+You too! Have a wonderful day, and I'll see you soon.

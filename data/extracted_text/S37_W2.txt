@@ -1,0 +1,209 @@
+WEEK2- TASK 1: 
+‍⚕️Booking or Changing a medical appointment ️ “Hi, I’d like to make an appointment to
+see a doctor.”
+English Conversational Partner disse:
+Alright. What’s the reason for your visit today so I can book you with the right doctor?
+Você disse:
+I have a pain. A pain in my leg.
+English Conversational Partner disse:
+Alright, leg pain — got it. When did the pain start?
+Você disse:
+This pain started one week ago.
+English Conversational Partner disse:
+Okay, one week ago — thanks. How would you describe the pain now: is it mild, moderate,
+or quite strong?
+Você disse:
+My pain died when I, uh, drove my... ...joelho?
+English Conversational Partner disse:
+Alright, I think you mean the pain got worse when you moved/bent your knee — “joelho” is
+“knee.”
+How strong is the pain now: mild, moderate, or strong?
+Você disse:
+Yes, I used to say this then. Maybe all the time I drove my knee, I feeling the pain.
+English Conversational Partner disse:
+Alright, I understand — the pain comes every time you bend or move your knee.
+To book you with the right doctor, how strong does the pain feel right now: mild, moderate,
+or strong?
+Você disse:
+So strong vent, I need... I need some... The... Doctor.
+English Conversational Partner disse:
+Alright, it sounds like the pain is strong.
+When would you like to come in for the appointment — which day works best for you?
+Você disse:
+I can go Wednesday, 14th December, 1pm.
+English Conversational Partner disse:
+Sure, Wednesday the 14th at 1pm is available.
+Could I take your full name for the booking?
+Você disse:
+Yes, my name is Vic Lemmis.
+English Conversational Partner disse:
+Alright, thank you, Vic Lemmis.
+Could I have a contact phone number for the appointment?
+Yes is 435678980
+English Conversational Partner disse:
+Alright, thanks for the number.
+Could I have your date of birth, please?
+Você disse:
+05/05/2003
+English Conversational Partner disse:
+Alright, thanks for that.
+Do you have a preferred doctor you’d like to see, or is any doctor okay?
+Você disse:
+Any doctor is good
+English Conversational Partner disse:
+Alright, any doctor is fine.
+Do you have a Medicare or insurance number you’d like us to add to the booking?
+Você disse:
+Yes, I have, 5678943
+English Conversational Partner disse:
+Alright, I’ve added that number.
+Is this your first visit to our clinic?
+Você disse:
+Yes, my first
+English Conversational Partner disse:
+Alright, since it’s your first visit, do you have any medical allergies we should note in your
+file?
+Você disse:
+No, I don’t
+English Conversational Partner disse:
+Alright, thanks for confirming that.
+Would you like an SMS reminder for your appointment?
+Você disse:
+Yes
+English Conversational Partner disse:
+Alright, SMS reminder is set.
+Is there anything else you’d like the doctor to know before your appointment?
+Você disse:
+I think no
+English Conversational Partner disse:
+Alright, everything’s set for your appointment.
+Would you like directions to the clinic for Wednesday?
+Você disse:
+Yes
+English Conversational Partner disse:
+Alright. We’re on Main Street, just opposite the big post office — you’ll see a blue sign that
+says Riverside Medical Clinic.
+Would you like parking information as well?
+
+
+WEEK2- TASK 3: 
+🏠 Reporting an issue at a rental property ️ “Hi, I'd like to report a damage at my rental
+property.”
+English Conversational Partner disse:
+Alright, I can help with that. What kind of damage are you seeing in the property?
+Você disse:
+I see imputation in the bathroom and the floor. Not good smell.
+English Conversational Partner disse:
+Alright. Sounds like you mean there’s some kind of stain or damp area in the bathroom and
+on the floor, and there’s a bad smell too.
+Could you tell me exactly where the damage is—inside the bathroom, around the toilet,
+shower, or somewhere else?
+Você disse:
+Yes, I say it's heavy. I'm full patient in the bathroom, and now the water outside in my
+bedroom, then the carpet in the floor, it's mold and not a good smell. Maybe, I think so, it's
+the shower.
+English Conversational Partner disse:
+Alright, I understand — sounds like you’ve got a serious leak spreading from the bathroom
+into the bedroom, and now the carpet is getting moldy. Thanks for explaining that.
+To help urgently: Is the water still leaking right now, or has it stopped?
+Você disse:
+Always licking, still licking, when I take a shower, then no stop it.
+English Conversational Partner disse:
+Alright, so the leak keeps going whenever you shower and doesn’t fully stop after. That helps
+a lot.
+When did you first notice this problem starting?
+Você disse:
+1 week ago I realized
+English Conversational Partner disse:
+Alright, thanks — about one week ago. That gives us a timeline.
+To arrange repairs quickly, can you tell me which days or times someone can enter the
+property to check the leak?
+Você disse:
+Yes, in the morning I never stay in the house because I study in the morning, but afternoon,
+after 1.50 p.m. I stay in my house, then you can went all the time.
+English Conversational Partner disse:
+Alright, afternoons after 1:50 p.m. work well — thanks for that.
+To schedule the repair team, what’s the full address of the property?
+Você disse:
+Yes is in the 1/55 Kirra shop
+English Conversational Partner disse:
+Alright, thanks. I’ve got 1/55 Kirra…, but I need the full street name and suburb to make
+sure the repair team goes to the right place.
+What’s the complete address?
+Você disse:
+Unit 10
+English Conversational Partner disse:
+Alright, Unit 10 — got it.
+I still need the street name and the suburb to complete the address.
+What’s the street name where the property is located?
+Você disse:
+Luci
+English Conversational Partner disse:
+Alright, thanks — Luci for the street name.
+I just need one more detail for the address.
+What’s the suburb of the property?
+Você disse:
+Suburb 5
+English Conversational Partner disse:
+Alright — sounds like you might mean something else by “Suburb 5.”
+I just need the name of the suburb, like “Kirra”, “Coolangatta”, “Burleigh”, etc.
+What is the suburb called?
+Você disse:
+Kirra
+English Conversational Partner disse:
+Alright, thanks — Kirra. Now the address is almost complete.
+To finish the report, what’s your best phone number in case the repair team needs to
+contact you before they arrive?
+Você disse:
+0435661789
+English Conversational Partner disse:
+Alright, thanks for the number.
+Just one last thing for the repair request — what name should the technicians ask for
+when they arrive?
+Você disse:
+Vic
+English Conversational Partner disse:
+Alright, Vic — thanks.
+Would you like me to lodge the repair request now with all these details?
+Você disse:
+Yes
+English Conversational Partner disse:
+Alright, I’ll get that lodged for you now.
+Afternoon access after 1:50 p.m. is noted, Vic.
+If you need anything else, just let me know.
+Você disse:
+Thanks! You can tell me the name the people came here?
+English Conversational Partner disse:
+Sure, Vic. I can check that for you.
+Are you asking for the name of the repair company or the individual technician who will
+come?
+Você disse:
+Yes
+English Conversational Partner disse:
+Alright — just to be clear, Vic, you said “yes,” but I need to know which one you mean.
+Are you asking for the company name or the technician’s name?
+Você disse:
+Technicians name
+English Conversational Partner disse:
+Alright, Vic. The technician assigned is Mark Delaney.
+How would you like Mark to contact you before he arrives — by call or SMS?
+Você disse:
+Call please
+English Conversational Partner disse:
+Alright, I’ll let Mark know to call you before he arrives.
+Is there anything he should know about access, like a gate code or where to park?
+Você disse:
+Yes, he can park behind for my house and inside for the garage
+English Conversational Partner disse:
+Alright, got it — he can park behind your house and inside the garage.
+Is there anything else Mark should be careful about when he enters, like pets or a tricky door
+lock?
+Você disse:
+No
+English Conversational Partner disse:
+Alright, no worries. I’ll pass that on.
+Take care, Vic, and have a good day.
+Você disse:
+Thanks have a good day
+English Conversational Partner disse:
+Alright, thanks Vic. Have a good day too.

@@ -1,0 +1,160 @@
+{
+  "student_id": 17,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S17_W4_T1",
+  "source_file": "data\\raw\\#17\\#17\\#17. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Alright. As your university advisor, I'm here to help. What's the main question you'd like to talk about regarding your study plan today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I wanna be a interpreter for my job"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure. So you'd like to become an interpreter. Which languages are you planning to work with?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "For now, English"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright. So English will be your working language for now. What kind of interpreting are you most interested in - for example, community interpreting, business, medical, or conference settings?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "l interested in business and conference settings"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great. Business and co rence interpreting can be quite competitive.What level of study or qualification have you completed so far?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "My level is A2 so far"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright. So you're currently at an A2 level. To work in business or conference interpreting, you'll need to reach a much higher level, usually C1 or above. How much time are you hoping to spend improving your English before entering an interpreting program?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I hope to spend 1month"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright. One month is a short but useful start for building your foundation. How many hours per week can you realistically dedicate to studying during that month?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Maybe 10 hours per week"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Sure. Ten hours per week gives you steady progress, though it's still quite intensive to aim for big jumps. What specific skills do you want to focus on first - speaking, listening, vocabulary, or something else? I'm good at listening and writing but speaking is A2 level so l'd like to focus on speaking"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright. So you want to focus mainly on speaking. To plan the right path, I need to know: are you hoping to join a formal speaking course, or would you prefer self-study with practice sessions?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Alright. So you want to focus mainly on speaking.To plan the right path, I need to know: are you hoping to join a formal speaking course, or would you prefer self-study with practice sessions?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "I prefer self-study because I have a job on weekdays"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Sure. Since you prefer self-study while working, it helps to choose the right resources. Do you prefer structured materials like textbooks and online courses, or more practical tools such as conversation apps and speaking partners?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I prefer conversation apps and speaking partners"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright. Conversation apps and speaking partners can help you build fluency fast. How often would you like to practise speaking each week-every day, or just a few focused sessions?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "I'd like to practice speaking 3days a week focused session"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright. Three focused sessions a week sounds very realistic. To shape your plan better, how long would you like each speaking session to be -30 minutes, 1 hour, or longer?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "I'd like to speaking on weekdays are 30 minutes session and on weekends are 1 hour session"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Alright. Weekday 30-minute sessions and 1-hour weekend sessions give you a solid routine. To shape your month-long plan properly, what specific speaking goal & uld you like to achieve by the end of that month?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "My goal is to speak for 3-5 minutes without stopping."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Sure. A 3-5 minute uninterrupted talk is a clear and achievable short-term goal. To help you practise effectively, what topics would you like to be able to speak about with confidence-work, daily life, business situations, or something else?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "I'd like to speak about work and daily life"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Alright. Work and daily life topics are a good foundation for fluency. To guide your plan fully, what kind of support would you like from me next-choosing practice materials, creating a weekly schedule, or setting progress checkpoints?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "What format would you prefer these materials in-links to specific resources, or a list you can save and print."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "That's enough, thank you"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Of course. If you need more guidance later, just"
+    }
+  ]
+}

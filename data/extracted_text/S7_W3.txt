@@ -1,0 +1,154 @@
+Task1: 
+English Conversational Partner said:
+Sure! Thanks for calling. This is Daniel from ConnectNet Support — how can I help you with your internet today?
+
+You said:
+Hi Daniel. My internet has stopped working. It was fine yesterday night, but now it won't connect.
+
+English Conversational Partner said:
+Alright, I see. Sorry about the trouble. Can you tell me if the lights on your modem or router are on right now?
+
+You said:
+I have listened many times before I called you, so whatever. Could you check if there's an outage in this area?
+
+English Conversational Partner said:
+Sure, I can do that. Could you please give me your address or at least your ZIP code so I can check for any local outages?
+
+You said:
+Okay, my address is curly mark 1342, and zip code is 339.
+
+English Conversational Partner said:
+Got it, thanks. I’m checking that now… there doesn’t seem to be any outage in your area. Can I ask which internet device you’re using — a router, a modem, or both together?
+
+You said:
+I'm using Aleutia. Could you know what the issue might be?
+
+English Conversational Partner said:
+Alright, Aleutia — got it. That’s a combined modem and router, right? Can you tell me if you see any red or blinking lights on it right now?
+
+You said:
+I'm sorry, I pronounced it badly. I'm using router, and I can't see. Oh, right, some lights.
+
+English Conversational Partner said:
+No worries! Good catch. Which lights are blinking or showing red on your router?
+
+You said:
+No, that color isn't right. Could you send me some technicians available?
+
+English Conversational Partner said:
+Sure, we can arrange that. Could you tell me when you’d prefer a technician to come—today, tomorrow, or later in the week?
+
+You said:
+I forgot to check what should I try before you send somewhere? Or do I need to reset the router again?
+
+English Conversational Partner said:
+Good question! Before we send someone, let’s try a quick step. Could you unplug your router from the power for about 30 seconds, then plug it back in and see if the lights change?
+
+You said:
+I try now. No, it doesn't work. It won't work. Could you send me someone, please?
+
+English Conversational Partner said:
+Alright, no problem. I’ll arrange a visit. Could you please confirm your full name and a phone number where our technician can reach you?
+
+You said:
+I'm Sasaki Kouta, and my phone number is 765-123-908.
+
+English Conversational Partner said:
+Thanks, Mr. Kouta. One last thing — would you prefer a morning or afternoon appointment for the technician?
+
+You said:
+If you send someone today, I prefer afternoon because I have to work right now. And if you send someone to me tomorrow, I'm available both morning and afternoon.
+
+English Conversational Partner said:
+Got it, thanks. I’ll check availability for this afternoon first, and if no one’s free, we’ll schedule you for tomorrow. Would you like the technician to call before they arrive?
+
+You said:
+Yes, please. So now, could I, should I just be staying at home?
+
+English Conversational Partner said:
+Good question. You don’t need to wait yet — once your appointment is confirmed, we’ll text or call you with the time window. Will you be the one at home when the technician comes, or should we note another contact person?
+
+You said:
+I will be playing at home, so no problem if the technician comes.
+
+English Conversational Partner said:
+Perfect, thank you. I’ve noted that you’ll be available. Before I confirm, could you please tell me which service plan you’re using with us? It helps us match the right technician.
+
+You said:
+For one person's health, I chose
+
+English Conversational Partner said:
+Ah, you mean the individual home plan — great, that helps. Alright, I’ve got everything I need to schedule your visit. Would you like me to confirm the exact time by text or phone call?
+
+You said:
+Please text me later. Okay, that's all. I'll be waiting for your message. Thank you. Thank you for your help.
+
+English Conversational Partner said:
+You’re very welcome, Mr. Kouta. We’ll text you soon with your appointment time. Have a good day and hope your internet’s back up soon!
+
+
+
+Task2:
+English Conversational Partner said:
+Sure. I’m Officer Patel from the Lost Property Unit — I’m sorry this happened. Can you tell me where and when you last remember having your wallet?
+
+You said:
+I just realized I lost my wallet. I was staying at the restaurant and I think I left my wallet on the table and I went straight outside. My wallet is a blue wizard with my debit card and my credit card inside. I will choose here about my lost wallet.
+
+English Conversational Partner said:
+Alright, thanks for explaining. Do you remember the name or location of the restaurant where you were eating?
+
+You said:
+Of course, the restaurant name is DALL, D-A-L-L.
+
+English Conversational Partner said:
+Got it, DALL restaurant. About what time were you there when you think you left the wallet?
+
+You said:
+Okay, and this morning at 7.30 to 8 o'clock, I think.
+
+English Conversational Partner said:
+Thanks, that helps. Did you pay for your meal with the wallet, or did you use something else?
+
+You said:
+I used my... I don't know how to express. Word application on my phone.
+
+English Conversational Partner said:
+Ah, you mean a mobile payment app on your phone — that’s clear. Did you notice anyone near your table after you left, or did the restaurant seem quiet?
+
+You said:
+I think there might be some other people, but I didn't mind. Would I need to fill out some kind of form?
+
+English Conversational Partner said:
+Yes, that’s right. We’ll need you to fill out a lost property report so we can record the details. Could you please tell me your full name for the report?
+
+You said:
+My name is Toshiki. My surname is Kayama.
+
+English Conversational Partner said:
+Thank you, Mr. Kayama. Could you also give me a phone number or email so we can contact you if your wallet is found?
+
+You said:
+My phone number is 703-669-520. Can I ask you a question? Would I need to show my ID when collecting it? And could you call me if it's found?
+
+English Conversational Partner said:
+Yes, exactly — you’ll need to show some form of ID when collecting it, just to confirm it’s yours. And yes, we’ll call you as soon as we get any information. By the way, do you remember if there was any cash or other personal item in the wallet besides the cards?
+
+You said:
+No, there were only my credit card and debit card. That's all.
+
+English Conversational Partner said:
+Alright, that’s noted. We’ll log your report right away and contact DALL restaurant to check their lost-and-found. Do you want us to block or notify your bank about the cards, or have you already done that?
+
+You said:
+Oh, okay. I'm already done, so don't worry about it.
+
+English Conversational Partner said:
+Good, that’s smart. We’ve got all the details we need then, Mr. Kayama. We’ll contact you if your wallet is handed in. Is there anything else you’d like to ask about the process?
+
+You said:
+No, thank you. Thank you for your help.
+
+English Conversational Partner said:
+You’re very welcome, Mr. Kayama. I hope your wallet turns up soon—take care.
+

@@ -1,0 +1,160 @@
+{
+  "student_id": 10,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S10_W1_T3",
+  "source_file": "data\\raw\\#10\\#10\\#10. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Hi there! What can I help you with today?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I’d like to return an item."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Got it! Could you tell me what item you’d like to return?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "It’s a shirt I bought last week."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I see. Could you tell me the reason for the return, and do you have the receipt or order number with you?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "The shirt is too small, and I can’t find the receipt."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "No worries at all! We can usually look up the purchase using your email or order details. Could you tell me the date of purchase or the name on the order?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "It was on October 10th, under my name, Yuki Tanaka."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Perfect, that’ll help us locate your purchase quickly. Once we find it, we can process the return and help you pick the right size. Would you prefer a refund or an exchange?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I’d like a refund, please."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Sure thing! Once we confirm the purchase details, we’ll process your refund right away. Would you like to know how long the refund takes?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yes, please. How long does it take?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Usually it takes about 3–5 business days for the refund to appear in your account. Is that okay for you?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes, that’s fine. By the way, what if the item is damaged?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Good question! If the item is damaged or defective, we can offer either a refund or a replacement, depending on what you prefer. Could you tell me if the shirt has any visible damage?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes, one of the buttons fell off after one wash."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Oh, I understand! Even if the tag is removed, we can still help since the item is defective. We’ll make sure to replace it or give you a full refund. Would you prefer an exchange for a new shirt or just the refund?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I’ll take the refund, please."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "No problem! Once we verify your order, we’ll refund the full amount to your original payment method. Do you have any other questions about the return policy?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Yes, can I return something if I’ve already used it?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That’s a great question! If the item was used but has a manufacturing defect, we can still accept it for a refund or exchange. If it’s simply worn but not faulty, it depends on our return window. When did you buy that item?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "I think it was about a month ago."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Okay! If it’s within 30 days and in good condition, we can still process it. Otherwise, we’ll review it case by case. Would you like me to check for you?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "No, that’s alright. I just wanted to know."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Sure! I’m glad I could help. Is there anything else you’d like to ask about returns or refunds?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "No, that’s all. Thank you so much!"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help today. Have a wonderful day! 💬 Feedback Section (for English practice)"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You communicated very clearly and naturally! Just focus on: Keeping verb tenses consistent Structuring your explanations step-by-step With more practice, your fluency and confidence will definitely improve!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Thank you!"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "You’re very welcome. Keep up the great work — you’re well on your way to reaching a high score in English proficiency tests! 🌟"
+    }
+  ]
+}

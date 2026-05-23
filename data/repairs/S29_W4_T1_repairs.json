@@ -1,0 +1,15 @@
+[
+  {
+    "dialogue_id": "S29_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8,
+      9
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner starts to express frustration but doesn't complete the thought in turn 7. The bot acknowledges the frustration in turn 8, and the learner completes the thought in turn 9. The issue is resolved as the learner clarifies their statement."
+  }
+]

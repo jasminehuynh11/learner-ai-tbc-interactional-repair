@@ -1,0 +1,135 @@
+{
+  "student_id": 17,
+  "week": 3,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S17_W3_T2",
+  "source_file": "data\\raw\\#17\\#17\\#17. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Alright. This is the police front desk - what happened, and what item have you lost?"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi I lost my wallet"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, you've lost your wallet. When did you last have it with you?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I'm not sure because I drunk at 4am"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, sounds like it was sometime around 4 a.m. after drinking. Where were you at that time do you remember the place or area you were in last?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Maybe near the Chinatown"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, near Chinatown. Do you remember which part - maybe a bar, a street, or a station around there?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Cheers bar"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, thanks - Cheers Bar helps narrow it down. Could you describe what your wallet looks like?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Black and folded small wallet"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, a small black folded wallet. What items did you have inside it — cards, ID, cash?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Driver's license and two credit cards, 150 dollars bill"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, so you had your driver's licence, two credit cards, and about $150 in cash inside. Could you tell me the name on the ID so we can record it correctly in the report?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Yes, sure I'm Ryota"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Alright, Ryota, thanks. What's the best phone number for us to contact you if the wallet is turned in?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "0123456"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright, got your number. When did you first notice the wallet was missing — was it this morning when you woke up?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "I noticed when I woke up at"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, you realised it around . Have you had a chance to retrace your steps or contact Cheers Bar to see if anyone handed it in?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "No I haven't"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright, no worries — it happens. Would you like me to file an official lost-property report for you now, or would you prefer to contact the bar first?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "I'd like you to file a lost-property report"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Alright, l'll file the lost-property report for you now under your details. Is there anything else you'd like help with regarding the missing wallet?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Nothing thank you sir"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright, thanks for reporting it — we'll contact you if it's turned in. Take care."
+    }
+  ]
+}

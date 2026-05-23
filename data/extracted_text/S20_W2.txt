@@ -1,0 +1,204 @@
+TASK 1 
+Booking or Changing a medical appointment 🗨️ “Hi, I’d like to make an appointment to see a doctor.” 
+English Conversational Partner said:
+Of course. What kind of appointment do you need — is it for a general check-up or something specific? Got it! And do you have a preferred date or time for your appointment?
+You said:
+“Hi, is it possible to book an appointment for a friend of mine?”
+English Conversational Partner said:
+Absolutely, that's no problem at all. Could you let me know their name and the reason for the visit?
+You said:
+“Yeah, he has a strong cold, and he cannot speak English so good, so it's difficult for him to make a reservation.”
+English Conversational Partner said:
+I understand, no worries at all. I'll make sure everything is clear. Could you let me know his name and the best contact number for him as well?
+You said:
+“Yeah, his name is Mark, and his contact number is 123...”
+English Conversational Partner said:
+Perfect, thank you! And just to
+You said:
+“4 5 6 7 8 9”
+English Conversational Partner said:
+Got it, that’s all noted. Is there a specific date and time that would work best for Mark’s appointment?
+You said:
+“I think the best option is as soon as possible, so I'm not sure if you'll have any availability tomorrow..”
+English Conversational Partner said:
+Absolutely, I’ll check the earliest availability for tomorrow. Would morning or afternoon work better for him?
+You said:
+“I think it can be better in the afternoon, and which time do you have the possibility?”
+English Conversational Partner said:
+Sure! We have availability in the early afternoon, around 2:00 or 3:00 PM. Would either of those times work for Mark?
+You said:
+“And at which time there is the last queue?”
+English Conversational Partner said:
+Sure! The latest slot we have tomorrow is at about 4:30 PM. Would that time work for him, or would you prefer to stick with the earlier options?
+You said:
+“Yeah, maybe it can be good at 4 p.m.?”
+English Conversational Partner said:
+Great, I'll go ahead and book it for 4 PM. Is there anything else I can assist you
+You said:
+“Which kind of document we need to take?”
+English Conversational Partner said:
+Great question! Usually, he'll need to bring a valid ID and any insurance information he has. If there are any previous medical records, those would be helpful too.
+You said:
+“Okay, and he doesn't speak English, so there is any option to use a translator or if there is like an English supporter or something like that?”
+English Conversational Partner said:
+Absolutely, we can arrange for a translator or have someone who speaks his language available during the appointment. I'll make sure that's noted as well.
+You said:
+“and we can arrive with public transport or with a car”
+English Conversational Partner said:
+Both options are totally fine! We have parking available if you come by car, and there are also public transport stops nearby. Just let me know what works best for you.
+You said:
+“and how much it costs to park.”
+English Conversational Partner said:
+Sure! The parking is usually free and available on-site, so that shouldn’t be an issue at all. If you have any other questions, just let me know!
+You said:
+“No, okay, perfect, it's everything like it is, okay.”
+English Conversational Partner said:
+Great! I'm glad everything’s set. If you need any more help, just let me know. Otherwise, we’ll look forward to seeing Mark tomorrow at 4 PM!
+You said:
+“Yeah, okay, and you know the name of the doctor already or we can discover tomorrow?”
+English Conversational Partner said:
+We can confirm the doctor tomorrow, but I'll make sure it's someone who can assist him comfortably. If there's any preference, just let me know!
+You said:
+“No, it's everyone the same. Okay, thank you.”
+English Conversational Partner said:
+You're very welcome! If anything else comes up, just give me a shout. Have a great day!
+
+
+
+
+
+
+
+
+
+Task 2 
+You said:
+You work at a bank as a customer service officer. I will ask you some questions about your bank. Please do not apologize for every question. Sometimes you have to say no form make the conversation more interesting.
+English Conversational Partner said:
+Sure! I can do that. What would you like to ask about our bank today?
+You said:
+“Hi, I'm new here in Australia and I want to open a bank account. Can you give me some information about that?”
+English Conversational Partner said:
+Absolutely! To get started, we usually need to know whether you're looking for a personal or a business account. Also, do you have the required identification documents handy?
+You said:
+“I'm just a student, so I don't know if you have some special bank account for students.”
+English Conversational Partner said:
+Yes, we definitely do have student accounts! They usually have lower fees and some extra benefits. Could you let me know which university you're attending, and maybe how long you'll be staying in Australia?
+You said:
+“I think I will study in IRC school, so in Greystone College, and I think I will stay here in Australia for maybe one year.”
+English Conversational Partner said:
+Got it, that sounds great! In that case, we have some specific student accounts tailored for short-term stays. Just to confirm, do you have your student ID and your passport ready?
+You said:
+“I don't have a student ID at the moment because I need to start a school, but I have my passport, yes.”
+English Conversational Partner said:
+No worries at all! We can start the process with your passport, and once you have your student ID, you can update your account details later. Does that sound good to you?
+You said:
+“Can you please tell me about the fear?”
+English Conversational Partner said:
+Of course! Our student accounts typically have very low monthly fees, and sometimes we even waive them if you meet certain conditions. Would you like details on the exact fee structure, or do you have any specific questions about it?
+You said:
+“No, I just want to know if there is something to pay every month, every year, I don't know, something like that.”
+English Conversational Partner said:
+Absolutely! For most student accounts, there's usually a minimal monthly fee, often around a few dollars, and sometimes it can be waived if you meet certain criteria. There's no annual fee, though, so it's pretty straightforward. Let me know if you need more specifics!
+You said:
+“No, okay. It's okay like that. And I need to come in your bank to open my bank account, or I can do online.”
+English Conversational Partner said:
+You can definitely do it online as well! We have a simple online application process, and if you prefer, you can also visit one of our branches in person. Whatever’s more convenient for you!
+You said:
+“Ok, credo che faccio online. Potresti darmi il sito web per fare questo?”
+English Conversational Partner said:
+Of course! You can visit our official website at www.examplebank.com, and you'll find the online application right there. If you need any help along the way, just let us know!
+You said:
+“which information you need to have about me just the passport or like the address the phone number something like this”
+English Conversational Partner said:
+Yes, we'll definitely need your passport for identification, and we'll also need your Australian address, a phone number, and sometimes proof of enrolment in your school. But we’ll guide you through it step-by-step!
+You said:
+“Ok, ok, thank you.”
+English Conversational Partner said:
+You're very welcome! If you have any more questions or need help at any point, just let me know.
+You said:
+“If I want to return to my country, I can freeze my account.”
+English Conversational Partner said:
+Absolutely! You can close your account whenever you're ready, and we can help you with that process. There's usually no penalty, and you can easily transfer any remaining funds before you leave.
+You said:
+“And like a student, the bank, the credit card have some limits or nothing.”
+English Conversational Partner said:
+Yes, typically student credit cards do have certain limits to help manage spending, and they often have lower credit limits compared to regular accounts. We can definitely go over those details once you apply, and we’ll make sure it fits your needs.
+You said:
+“by!”
+English Conversational Partner said:
+You're very welcome! If anything else comes up, just let me know.
+
+
+
+
+
+
+
+
+
+
+
+Task 3 
+You said:
+Please do not apologize for every question. Sometimes you have to say no.
+English Conversational Partner said:
+Got it — I’ll keep things natural and confident, not over-apologizing. Would you like to start a roleplay scenario now?
+You said:
+you are a real estate agen
+English Conversational Partner said:
+Sure! Are you looking to rent or buy a property?
+You said:
+“Hi, I was walking along the street and I saw a scene with a possibility for an expression in your house. Can you have some more additional details?”
+English Conversational Partner said:
+Absolutely! We do have some properties available for expansion. Could you let me know what type of property you’re interested in and what kind of expansion you have in mind?
+You said:
+“yes in George street.”
+
+English Conversational Partner said:
+Got it! The property on George Street. Could you share what kind of expansion you're considering, like adding more rooms, or perhaps renovating certain areas?
+You said:
+“Can you please talk about the house?”
+English Conversational Partner said:
+Of course! We have a few different options available. Are you looking for something residential, commercial, or maybe a mix of both?
+You said:
+“I'm just a student and I'm searching a room to sleep, maybe with a kitchen, some additional details, something like this.”
+English Conversational Partner said:
+Got it, that makes sense! So, you're looking for a room to rent, ideally with a kitchen area. Do you have any preferences for the location or your budget range?
+You said:
+“No, I tell you which one I saw.”
+English Conversational Partner said:
+Absolutely, that sounds great! Just let me know the location or the specific property you had in mind, and we can dive into the details from there.
+You said:
+“Yeah, but I told to you the first, my sentence was I saw a house in Jarlstreet.”
+English Conversational Partner said:
+Ah, I see what you mean! Thanks for clarifying. In that case, can you let me know the exact address or any more details about the house you saw, so I can give you the right info?
+You said:
+“there is just one in Geroge street.”
+English Conversational Partner said:
+No worries at all! We can definitely explore some options. Would you like to share any preferences about the type of neighborhood or the features you’re looking for in the house?
+You said:
+“tell me about the hause.”
+English Conversational Partner said:
+Absolutely! The house on George Street is a charming, recently renovated property with a modern kitchen and spacious living areas. It also has a cozy bedroom and some extra storage space. If there's anything specific you’d like to know, just let me know!
+You said:
+“And how much for a week?”
+English Conversational Partner said:
+Great question! The weekly rent typically depends on the exact size and features of the property. Would you like me to give you an estimate based on the general range, or do you have any specific details in mind?
+You said:
+“So, you have a property in JavaScript that you don't know how it's big and how it's cost.”
+English Conversational Partner said:
+That's right, I can definitely provide a general idea, but the exact details can vary. If you have any particular preferences or if you can share any more specifics, I can give you a more accurate estimate.
+You said:
+“I'm calling you for no information about the house, and you cannot give me information about the house?”
+English Conversational Partner said:
+I understand, and I appreciate your patience. If you have any specific questions or details you can share, I’ll do my best to help. Otherwise, I'm happy to assist in any other way you need.
+You said:
+“Oh, sorry, but I decided to move to another company because you cannot talk to me about your house, so I cannot understand if you are good or not, and I don't want to stay here for nothing. Sorry, but you have to discover more things about your house and about your job.”
+English Conversational Partner said:
+I completely understand, and I appreciate your honesty. If there's anything I can do in the future, or if you have any other questions, definitely let me know. Best of luck with your search, and thank you for your time.
+You said:
+“Now, bye.”
+English Conversational Partner said:
+Alright, take care! If you ever need anything in the future, just reach out. Bye for now!
+

@@ -1,0 +1,200 @@
+{
+  "student_id": 3,
+  "week": 4,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S3_W4_T1",
+  "source_file": "data\\raw\\#03\\#03\\#3. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi. I have an appointment about my study plan."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Yes, welcome. Please take a seat. I see your booking here. Before we start, can you tell me what you’d like to get out of today’s meeting?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Study plan, but also… future. Like job. I’m confused."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "That’s completely fine, and very common. We can definitely talk about both. Let’s start with your studies, then connect that to career options. What program are you currently enrolled in?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Business. First year."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, first-year Business. And how are you finding it so far? Is it matching what you expected?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Some parts yes. Some parts no. I thought more… practical."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That makes sense. First year can feel theoretical before things become more applied. Which subjects feel the least practical to you right now?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Accounting. Also economics. Too many graphs."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "I hear that a lot. When you say “too many graphs”, is it the maths side, or understanding what the graphs mean?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Meaning. Like… why this graph matters."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That’s a very important question. Often the “why” isn’t explained well at the beginning. Now, thinking ahead, do you have any idea what kind of work you might want after graduation, even loosely?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Not really. Office job maybe. But not boring office."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That’s fair. Most people don’t want boring. When you say “not boring”, do you mean more people-focused, creative, or something else?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "People. Talking. But also stable income."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That combination actually fits several roles, like marketing coordination, client support, project roles, or account management. Have you had any work experience so far?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Café job. Customer service."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That’s very relevant, even if it doesn’t feel academic. Now, can I ask: are you enjoying the café work, or is it just for money?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Both. I like talking to customers. But pay is low."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "That’s honest, and useful information. It suggests you enjoy interaction, which is important for many business roles. Now, about your study plan, are you enrolled full-time this semester?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Yes. Four subjects. But I’m tired."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Four subjects can definitely feel heavy, especially in first year. Are you considering reducing your load, or just feeling overwhelmed right now?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "I was thinking… maybe three subjects. But will that delay graduation?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Good question. Yes, reducing your load can extend your degree slightly, but many students choose that for wellbeing reasons. It’s not a failure. We’d just need to check visa implications before making changes."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Visa is important. If I change subject or load, is that risky?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Minor adjustments within your degree are usually okay, but anything significant should be checked first. I recommend speaking with the international student office before making a decision."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Okay. Another question… if I don’t like accounting, can I avoid it later?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You may still need some core subjects, but later you’ll have electives that align more with your interests. We can plan that strategically."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "That makes me feel better."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Good. Before we finish, is there something you’re worried about that we haven’t talked about yet?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Grades. If my grades are not high, can I still get job?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That’s a very common worry. Grades matter, but employers also value skills, experience, and communication. Your café work already gives you an advantage there."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Okay. So not only grades."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Exactly. Let me summarise briefly. You’re in first-year Business, finding some subjects too theoretical, interested in people-focused but stable work, and considering workload adjustments. For now, we’ll keep your current enrolment, and I’ll email you resources on academic support, career exploration, and visa advice. Does that sound right?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Yes. That sounds right."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Great. You’re asking the right questions at the right time."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Thank you. Week 4"
+    }
+  ]
+}

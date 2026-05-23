@@ -1,0 +1,195 @@
+{
+  "student_id": 22,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S22_W4_T2",
+  "source_file": "data\\raw\\#22\\#22\\#22. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Negotiating Roles and Responsibilities in a Group Assignment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, can we talk about group assignment?"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course. I’m glad you brought this up. Group work can be challenging, so it’s good to discuss it early. What would you like to talk about first?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I feel nervous about presentation part."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Thank you for sharing that. Presentations can be stressful for many people. Can you tell me what part makes you most nervous?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Speaking English in front of class."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That’s very understandable. Would you prefer to take a role that focuses more on preparation or research instead?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Yes, I think research is better for me."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That sounds reasonable. Research is very important for the group. Are you comfortable finding sources and summarising information?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I can find information, but writing summary is little difficult."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That’s okay. We can support each other. Maybe you can collect the information first, and then we can work together on the writing."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Working together meaning we write together?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, exactly. We can review it as a group and help improve it."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "That makes me feel better."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "I’m glad. Now, about deadlines. Do you feel the deadline is too soon?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Yes, I feel time is very short."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I agree, it is quite tight. What if we set an earlier internal deadline so we don’t rush at the end?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Earlier meaning finish faster?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yes, finish earlier so we have more time to fix problems."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Ah okay. That is good idea."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Great. So how about this plan: you focus on research, another member focuses on slides, and I help organise the structure?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "That sounds fair."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Good. Do you want to practise your speaking part together before the presentation?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Practice together meaning rehearsal?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, rehearsal. We can practise in a small group first."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "That would help a lot."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Perfect. Let’s schedule a practice session a few days before the presentation."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "If I still feel nervous, can I read notes?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Yes, short notes are usually okay. We can also help you prepare simple sentences."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Okay. Thank you for understanding."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course. Group work is about supporting each other. Before we finish, is there anything else you’re worried about?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Just want to make sure everyone do their part."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That’s a valid concern. We can check progress regularly and communicate clearly so no one feels overloaded."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Okay. That makes me relaxed."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "I’m glad. You did the right thing by speaking up."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Thank you for talking with me."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "You’re very welcome. Let’s keep supporting each other and check in again soon."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "dialogue_id": "S36_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      37,
+      38
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand explanation",
+    "evidence_summary": "The learner explicitly states they don't understand the bot's explanation about buying a coffee machine. The bot rephrases and clarifies the information, and the learner acknowledges understanding in the subsequent turns, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S36_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner wants to change order",
+    "evidence_summary": "The learner asks to change their order, indicating a misunderstanding or change of preference. The bot confirms the change and clarifies the new order, resolving the issue as the learner accepts the new arrangement."
+  },
+  {
+    "dialogue_id": "S36_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      61,
+      62
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – learner checks order details",
+    "evidence_summary": "The learner checks if the bot remembers the original order details. The bot confirms the details, resolving the learner's concern about the order, as indicated by the learner's acceptance in the following turns."
+  }
+]

@@ -1,0 +1,508 @@
+Task 1:
+English Conversational Partner said:
+Sure! [smiling warmly as you step up to the counter] Hey there, welcome in! What can I get started for you today?
+
+You said:
+Hi, what do you recommend today?
+English Conversational Partner said:
+Sure! Well, today our most popular drink is the caramel latte — it‘s smooth, a bit sweet, and perfect for this chilly weather. We’ve also got a new single-origin Ethiopian espresso if you like something a little bolder.
+
+Do you usually prefer something milky, or more of a strong coffee flavor?
+
+You said:
+I like the taste of Note Peter. Can I get something I want to eat?
+
+English Conversational Partner said:
+Ah, you like nutty flavors — nice choice! In that case, I‘d recommend our hazelnut cappuccino; it’s got a rich, roasted nut taste.
+
+For food, we‘ve got some fresh pastries — almond croissants, banana bread, and a peanut butter cookie that goes great with coffee. Would you like something sweet, or maybe something more like a light lunch?
+
+You said:
+Okay, I’ll… Can I please get a Hazelnut Cappuccino and Banana Blade? Okay. Is Banana Blade a sweet?
+
+English Conversational Partner said:
+Sure! [smiling] Just to check — did you mean banana bread? It‘s a soft, sweet loaf cake, a bit like a muffin, and yes, it’s definitely sweet!
+
+Would you like your hazelnut cappuccino hot or iced?
+
+You said:
+It’s a hot day today, so I’d like to get iced cappuccino, please. And any other do you recommend to me?
+
+English Conversational Partner said:
+Alright! An iced hazelnut cappuccino sounds perfect for a warm day. If you‘d like to try something else, our iced matcha latte is really refreshing, or you could go for a cold brew — it’s smooth and not too bitter.
+
+Do you prefer drinks that are more sweet or less sweet?
+
+You said:
+I already got some sweets. So I like sweeter things. Please.
+
+English Conversational Partner said:
+Got it — since you‘ve already got something sweet, maybe try the cold brew. It’s smoother and less sweet, a nice balance with the banana bread.
+
+Would you like a small or a large for your iced hazelnut cappuccino?
+
+You said:
+I like the big captino. Can you ask me a question? I don't know Code Blue. What is Code Blue?
+
+English Conversational Partner said:
+Of course! [smiling] So, cold brew isn‘t a “code blue” — it’s actually a type of coffee! It‘s made by steeping coffee grounds in cold water for many hours instead of brewing with hot water. That makes it smoother and less acidic, with a gentle flavor.
+
+Would you like to try a small cup of cold brew along with your iced hazelnut cappuccino?
+
+You said:
+Oh, sure. Yes, please. Is there a student discount?
+
+English Conversational Partner said:
+Good question! Yes, we do offer a 10% student discount — you just need to show your student ID when you pay.
+
+Would you like to have your drinks here, or take them to go?
+
+You said:
+Okay, I’ll hop here, and are there a seat near the window?
+
+English Conversational Partner said:
+Sure thing! Yes, there are a couple of seats open by the window — they‘ve got a nice bit of sunlight too.
+
+Would you like me to bring your drinks over once they‘re ready, or will you pick them up at the counter?
+
+You said:
+There are many clusterers, so I'll invite them at the counter later. How many hours do you wait here?
+
+English Conversational Partner said:
+Got it — you‘ll pick them up later, no problem! It’s a bit busy right now, but your order should be ready in about 5 to 7 minutes.
+
+Would you like me to warm up your banana bread while you wait?
+
+You said:
+Warm up, please. By the way, what do you like the most in this shop?
+
+English Conversational Partner said:
+Nice choice — warmed banana bread smells amazing! [chuckles] Personally, I really like our flat white; it‘s smooth and creamy, and I usually have it with a slice of almond croissant.
+
+Do you usually drink coffee every day, or just sometimes as a treat?
+
+You said:
+I can’t drink bitter taste something, so I never tried to drink coffee, but I’ll try some not bitter coffee in the near future.
+
+English Conversational Partner said:
+Ah, that makes sense! If you don‘t like bitterness, starting with something milky like a latte or a flavored cappuccino is perfect — just like the hazelnut one you ordered.
+
+Would you like me to add a little extra milk to make it even smoother?
+
+You said:
+If you can do it, yes please. Thank you very much.
+
+English Conversational Partner said:
+Of course! I‘ll make your iced hazelnut cappuccino extra smooth with a bit more milk. It’ll be ready soon at the counter.
+
+Thanks for coming in — enjoy your drink and the sunny window seat!
+
+You said:
+Oh, I’m sorry. Can I check what I asked you, please?
+
+English Conversational Partner said:
+Sure! Here‘s what you ordered:
+
+One large iced hazelnut cappuccino with extra milk
+
+One slice of warm banana bread
+
+And one small cold brew coffee
+
+You‘ll pick everything up at the counter, and you’ll get a 10% student discount when you show your ID.
+
+Would you like me to repeat anything or change part of your order?
+
+You said:
+I also get a large cold brew coffee, please, and it’s okay.
+
+English Conversational Partner said:
+Alright, got it — I‘ll change your cold brew to a large one instead. So now it’s:
+
+Large iced hazelnut cappuccino (extra milk)
+
+Warm banana bread
+
+Large cold brew coffee
+
+Perfect! Thanks for confirming. Would you like a receipt with your order?
+
+You said:
+Yes, please. And how much is it?
+
+English Conversational Partner said:
+Sure! So your total comes to $11.70 after the student discount — that‘s:
+
+$5.20 for the large iced hazelnut cappuccino
+
+$3.50 for the banana bread
+
+$3.00 for the large cold brew
+
+Minus 10% student discount
+
+Would you like to pay by card or cash?
+
+You said:
+Oh, it’s very reasonable. I’d like to pay by card.
+
+English Conversational Partner said:
+Perfect! You can just tap your card right here on the reader. [smiles]
+
+Alright, it‘s all set — your drinks will be ready soon at the counter. Would you like a tray to carry everything more easily?
+
+You said:
+Oh, yes, please. I’d like a tray to carry. Thank you very much. Have a good day.
+
+English Conversational Partner said:
+You‘re very welcome! [hands you the tray with a smile] Enjoy your coffee and banana bread — have a great day!
+
+You said:
+Hello. Iced hazelnut cappuccino was very good, and also the banana bread was very sweet and great. I liked the cold brew also. That was a great lunch. By the way, today, what do you recommend?
+
+English Conversational Partner said:
+Ah, welcome back! I‘m really glad you enjoyed everything last time — that makes my day. [smiling]
+
+Today I‘d recommend our iced vanilla latte — it’s smooth, not too sweet, and goes perfectly with our blueberry muffin or chicken pesto sandwich if you‘re a bit hungry.
+
+Are you In the mood for something more like a snack or more like a light meal today?
+
+You said:
+I’m hungry now, so do you have something like chicken pesto sandwich?
+
+English Conversational Partner said:
+Sure do! We‘ve got the chicken pesto sandwich on toasted ciabatta — it comes with melted mozzarella and fresh basil. It’s really filling.
+
+Would you like it served hot or just cold and fresh?
+
+You said:
+I’ll try chicken pesto sandwich, but any other out there?
+
+English Conversational Partner said:
+Good choice! Besides the chicken pesto, we also have a smoked salmon bagel, a grilled veggie panini, and a turkey avocado wrap — all really popular for lunch.
+
+Would you like something with meat, or are you thinking of trying something lighter or vegetarian today?
+
+You said:
+Oh, I really love salmon, so I tried smoked salmon bagel, please. And, as you said, I also tried iced vanilla latte, please.
+
+English Conversational Partner said:
+Perfect combo! The smoked salmon bagel and an iced vanilla latte go great together.
+
+Would you like your bagel toasted or just as it is?
+
+You said:
+Toast, please. Have you tried the smoked salmon bagel? Is it great?
+
+English Conversational Partner said:
+Yeah, I have! [grinning] It‘s one of my favorites — the cream cheese and smoky salmon taste amazing together, especially when it’s toasted warm.
+
+Would you like any extra toppings, like capers or sliced tomato?
+
+You said:
+What kind of toppings are there, and what’s your recommended?
+
+English Conversational Partner said:
+Good question! We‘ve got capers, red onion, sliced tomato, and a bit of lemon dill sauce as topping options.
+
+Personally, I‘d recommend adding capers and a little lemon dill sauce — they make the flavor really fresh and balanced. Would you like to add those?
+
+You said:
+Okay, I trust you. Capers and a little lemon juice sauce, please.
+
+English Conversational Partner said:
+Nice! I‘ll add capers and a touch of lemon dill sauce to your toasted smoked salmon bagel. That’ll taste amazing.
+
+Would you like your iced vanilla latte in a regular size or large today?
+
+You said:
+Lodge, please, and I’ll pay by card.
+
+English Conversational Partner said:
+Perfect — one large iced vanilla latte and a toasted smoked salmon bagel with capers and lemon dill sauce. You can just tap your card right here when you‘re ready.
+
+Would you like to have it here or to go today?
+
+You said:
+Today, I’ll take away.
+
+English Conversational Partner said:
+Alright! I‘ll pack everything up for takeaway — it’ll be ready in just a few minutes.
+
+Would you like a napkin and a straw with your order?
+
+You said:
+Yes, please. And I’ll eat it, eat them, with my friend, so two pears, please.
+
+English Conversational Partner said:
+Sure thing! I‘ll pop in two sets of napkins and straws so you can share with your friend. That’s thoughtful of you.
+
+Would you like me to split the sandwich in half for easier sharing?
+
+You said:
+Yes, please. And are there something else to share easily?
+
+English Conversational Partner said:
+Good idea! Yes — we‘ve got a few easy-to-share items: mini quiche bites, chocolate chip cookies, and small fruit cups. They’re perfect for two people.
+
+Would you like to add something sweet or something savory to share?
+
+You said:
+I’d like to add something sweet.
+
+English Conversational Partner said:
+Nice choice! For sweet options, we‘ve got chocolate chip cookies, brownies, and mini blueberry muffins — all freshly baked this morning.
+
+Would you like to try one type, or maybe a small mix of them to share?
+
+You said:
+A small mix of them to share, please. And how much is it? How much are they?
+
+English Conversational Partner said:
+Sure! A small mix box with cookies, brownies, and mini muffins is $4.50.
+
+So your total today is $14.20 — that‘s:
+
+Smoked salmon bagel with toppings — $7.00
+
+Large iced vanilla latte — $4.00
+
+Sweet mix box — $4.50
+
+Minus 10% student discount
+
+Would you like me to put everything in one bag, or separate the sweets from the sandwich?
+
+You said:
+I don’t mind putting everything in one bag. So, please put everything in same bag.
+
+English Conversational Partner said:
+Alright! I‘ll pack everything neatly together in one bag for you — easy to carry and share. [smiles]
+
+Your total is still $14.20 with the student discount. Once you tap your card, I‘ll get your order started.
+
+Would you like me to include any forks or spoons for the sweets?
+
+You said:
+Some categories, please. Okay, that’s all.
+
+English Conversational Partner said:
+Sure thing! I‘ll pop a couple of forks in the bag for you.
+
+Thanks so much — enjoy your food and coffee with your friend, and have a lovely day!
+
+You said:
+Thank you, have a good day too!
+
+English Conversational Partner said:
+You‘re very welcome! [smiles warmly] Enjoy your lunch and see you next time!
+
+You said:
+Good morning. Today I'll have breakfast here. So, what do you recommend to me?
+
+English Conversational Partner said:
+Morning! [smiling brightly] Great way to start the day. For breakfast, I’d recommend our avocado toast with poached egg — really fresh and filling — or a ham and cheese croissant if you want something warm and buttery.
+
+Would you like something more light and healthy, or a bit rich and warm this morning?
+
+You said:
+I can't eat too much at morning, so something more light, please.
+
+English Conversational Partner said:
+Got it — something light sounds perfect. In that case, I’d suggest the avocado toast or maybe a Greek yogurt parfait with granola and fruit. Both are fresh and not too heavy.
+
+Would you like something to drink with your breakfast — maybe coffee, tea, or juice?
+
+You said:
+Okay, I'll buy the avocado toast. And do you have orange juice or apple juice?
+
+English Conversational Partner said:
+Nice choice! Yes, we’ve got both orange juice and apple juice, both fresh and chilled.
+
+Would you like the orange juice or the apple juice with your avocado toast?
+
+You said:
+Which is better? What do you think?
+
+English Conversational Partner said:
+Hmm, good question! I’d go with orange juice — the citrus flavor goes really well with the creamy avocado and toast. It’s a refreshing combo.
+
+Would you like your orange juice in a small or large cup?
+
+You said:
+Small cup, please. Okay, that's all. I'll pay by card.
+
+English Conversational Partner said:
+Perfect! One avocado toast and a small orange juice, and you’ll pay by card — sounds great.
+
+You can tap your card right here, and I’ll bring your breakfast out in just a few minutes. Enjoy your morning!
+
+You said:
+Thank you. What did you eat for morning today?
+
+English Conversational Partner said:
+Ah, good question! [laughs softly] I just had a quick breakfast — a slice of banana bread and a cappuccino before the morning rush. Simple, but it keeps me going!
+
+How about you — do you usually eat breakfast at home or outside?
+
+You said:
+I usually eat cereal at home, but sometimes I don't eat breakfast at all.
+
+English Conversational Partner said:
+I see — yeah, that’s pretty common, especially on busy mornings. Cereal’s quick and easy, though!
+
+Do you prefer something sweet like cereal, or do you sometimes like savory breakfasts too?
+
+You said:
+Can I ask a question? What does the word savory mean? I'm not good at English, sorry.
+
+English Conversational Partner said:
+Of course — no need to apologize! [smiles kindly]
+
+The word “savory” means not sweet — it describes foods that have a salty or rich flavor, like eggs, cheese, or sandwiches. For example, toast with avocado or an omelet are savory foods.
+
+So, do you think you like sweet breakfasts like cereal and fruit, or savory ones like eggs and toast?
+
+You said:
+I always eat sweet breakfast, but truly, actually, I like savory ones.
+
+English Conversational Partner said:
+Ah, nice! So you enjoy savory food but usually end up having sweet breakfasts — that makes sense.
+
+If you like savory things, you might really enjoy our egg and spinach toast or mini quiche next time. They’re light but flavorful.
+
+Do you like eggs for breakfast?
+
+You said:
+Yes, I like eggs. Oh. My lunch are already done. Okay, thank you for... Thank you. Have a good day. If you are free, please tell me your morning recipe.
+
+English Conversational Partner said:
+You’re very welcome! [smiling warmly] I’d love to share my breakfast recipe sometime — it’s really simple: just toasted bread, banana slices, and a drizzle of honey on top.
+
+Have a great day, and enjoy your lunch!
+
+
+Task 2: 
+English Conversational Partner said:
+Sure! Thanks for calling. This is Olive Garden Restaurant, how can I help you today? Are you calling to make a reservation?
+
+You said:
+I'd like to book a table for two tonight. Do you have a table available at 8pm?
+
+English Conversational Partner said:
+Of course! Let me check that for you... Yes, we do have a table available at 8 p.m. May I have your name, please?
+
+You said:
+My name is Arthur. Can we sit near the window if possible?
+
+English Conversational Partner said:
+Sure, Arthur. I’ll note your request for a window seat. Could I get your phone number in case we need to contact you?
+
+You said:
+I'm sure my phone number is 123-456-789. And my friends would like to sit at a quieter table. Can you do that?
+
+English Conversational Partner said:
+Got it, Arthur — I’ll make sure it’s a quiet table by the window if possible. Just to confirm, do you have any special requests or dietary restrictions for tonight?
+
+You said:
+OK, I was thinking now. Would it be possible to separate the bill for each of us at the end?
+
+English Conversational Partner said:
+Of course, that’s no problem at all — we can split the bill for you and your friend. One last thing, Arthur: could you please tell me your arrival time, just to make sure it’s still 8 p.m.?
+
+You said:
+Yes, it's still 8pm. And we want to know about your menu. Is the menu online?
+
+English Conversational Partner said:
+Yes, it is! You can find our full menu on our website under the “Dining” section — it shows all dishes and prices. Would you like me to tell you a bit about our most popular dishes before you come?
+
+You said:
+Yes, please. My friend would like to eat french, so I want her to eat your best french dishes. What kind of dish are you confident?
+
+English Conversational Partner said:
+Sure! We’re quite proud of our French-style chicken with creamy mushroom sauce, and our beef bourguignon is also a guest favorite — rich, slow-cooked, and tender. Would your friend prefer chicken or beef, do you think?
+
+You said:
+I think she prefer beef. OK, that's all. Could you confirm the time, optional requests and my name for me please?
+
+English Conversational Partner said:
+Of course! Here’s your reservation summary:
+— Name: Arthur
+— Date: Tonight
+— Time: 8:00 p.m.
+— Guests: 2 people
+— Requests: Quiet table by the window, separate bills, and interest in beef dishes
+
+Everything looks perfect. We’ll see you at 8 p.m., Arthur — thank you for calling!
+
+You said:
+Thanks so much. We are looking forward to your services. See you then!
+
+English Conversational Partner said:
+You’re very welcome, Arthur! We look forward to serving you tonight. Have a wonderful evening — see you at 8 p.m.!
+
+You said:
+-few minute later
+
+Hi, this is Arthur. I would like to arrange my request. Could I do that?
+
+English Conversational Partner said:
+Of course, Arthur! I can help you with that. What would you like to change in your reservation?
+
+You said:
+Thanks. I confused tonight with next Friday. All of other request are supposed not to be changed. That's all, sorry for taking your time.
+
+English Conversational Partner said:
+No problem at all, Arthur! I’ve moved your reservation to next Friday at 8 p.m., keeping all your other requests the same. Thanks for letting us know — we’ll see you next Friday!
+
+
+
+Task3:
+English Conversational Partner said:
+Sure! I’ll be your retail assistant today.
+
+Hi there, welcome back! What seems to be the issue with your purchase today?
+
+You said:
+Hi, I would like to ask you if I could return or replace a bag I perchased. I purchased this nice bag for myself, but its handle was teared while using in daily life in about two weeks. Of course I have receipt here. Can I return it, or get a refund?
+
+English Conversational Partner said:
+Alright, thanks for letting me know. I’m sorry to hear about the handle — that must be frustrating. Could I please take a quick look at the bag and your receipt to check the purchase details?
+
+You said:
+Yes, please. Here is the tear. It spoil this nice bag.
+
+English Conversational Partner said:
+I see, thanks for showing me. The tear is quite clear. Do you remember if you bought it in-store or online? That helps me check which return policy applies.
+
+You said:
+OK. I remember… I perchased in September fifteenth online. If you can't refund, I want you at least replace its handle, is it OK? Please check your return policy and let me know.
+
+English Conversational Partner said:
+Sure, let me check that for you. Since you bought it online and it’s within 30 days, we can either offer a full refund or send a replacement if the item is faulty. Would you prefer to get a new bag or just have the handle repaired?
+
+You said:
+I use it for my business and it's my favorite, so please give me a new same bag. I will ask you a question. I have already taken off the tags, is it no problem?
+
+English Conversational Partner said:
+No worries — since the damage is a quality issue, the missing tags won’t be a problem. We just need the receipt, which you already have. Could I confirm your order number so I can start the replacement request for you?
+
+You said:
+Yes. My order number is 20941760.
+Thank you so much for your service.
+
+English Conversational Partner said:
+You’re very welcome! I’ve noted your order number — we’ll process the replacement and email you once it’s shipped. It should arrive in about 5–7 business days.
+
+Is there anything else I can help you with today, maybe another item or a question about care instructions for your new bag?
+
+You said:
+No, thank you. That's perfect. I will wait for the new bag arriving.
+
+English Conversational Partner said:
+Great! I’m glad we could sort that out for you. Thanks for coming in, and I hope you enjoy your new bag when it arrives. Have a lovely day!
+
+You said:
+Have a good day too!
+English Conversational Partner said:
+Thanks so much! Take care and see you next time!

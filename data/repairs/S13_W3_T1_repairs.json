@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S13_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's unclear statement about 'no sign out'",
+    "evidence_summary": "The learner mentions 'no sign out' in turn 7, indicating a specific issue. The bot misinterprets this as a general internet problem and suggests restarting the modem in turn 8, which does not address the learner's specific concern."
+  },
+  {
+    "dialogue_id": "S13_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      15,
+      16
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's unclear response – 'No, I can see that'",
+    "evidence_summary": "The learner's response in turn 15 is unclear regarding error lights. The bot proceeds with another troubleshooting step in turn 16, indicating the conversation continues without confusion."
+  },
+  {
+    "dialogue_id": "S13_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      49,
+      50
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "learner request for repetition – reference number",
+    "evidence_summary": "The learner asks for the reference number to be repeated in turn 49. The bot repeats the number in turn 50, and the learner acknowledges it in turn 51, resolving the issue."
+  }
+]

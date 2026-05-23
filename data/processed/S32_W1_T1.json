@@ -1,0 +1,180 @@
+{
+  "student_id": 32,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S32_W1_T1",
+  "source_file": "data\\raw\\#32\\#32\\#32. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering Coffee at a Café:"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Perfect! Let's get started. Welcome to our café! What kind of coffee would you like to order today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I don't know what I want exactly, do you have any recommendations for me?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course! We have a few popular options. If you enjoy something classic, we have a rich espresso or a creamy cappuccino. If you prefer something a bit sweeter, a vanilla latte or a caramel macchiato might be great. Anything catching your eye so far?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Sorry, can you repeat again?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! So, we have a classic espresso, a creamy cappuccino, or if you like something sweeter, a vanilla latte or a caramel macchiato. Let me know which one sounds good to you!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I want to ask if you have Mocha Latte or something like that.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, we do! A mocha latte is definitely on the menu. It’s got that delicious blend of espresso, steamed milk, and chocolate. Would you like to give that a try?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yes, I would like to try this one.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Great choice! So, would you like your mocha latte in a small, medium, or large size?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I would like a medium size, please.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Perfect, a medium mocha latte it is! Would you like any sugar or sweetener added to it?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“What kind of sweeteners do you have?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "We have a few options, like classic white sugar, raw sugar, and also some sugar-free alternatives like stevia. Which one would you prefer?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Can I have stevia, please?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, I'll add some stevia for you. Now, would you like your mocha latte hot, or would you prefer it iced?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I think I would like Iced.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Got it, an iced mocha latte in a medium size with stevia. That sounds delicious! Is there anything else you'd like to add, like whipped cream or maybe a flavor shot?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I would like to add whipped cream.\""
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, I'll add some whipped cream on top as well. So, that's a medium iced mocha latte with stevia and whipped cream. Anything else I can get for you?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“ I want to know if it is possible to make the drink with almond milk or you don't have this kind of milk.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Oh, absolutely, we do have almond milk available! I’ll make sure to use that for your mocha latte. That’ll be no problem at all. Anything else you'd like to add?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You’re very welcome! I'll get that started for you right away. If you need anything else, just let me know."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I think now that's it.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Perfect, then! I’ll have that ready for you in just a moment. Thanks so much, and enjoy!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I want to know how much it is and if I can pay with card or cash, or it's not possible cash.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Sure! The medium iced mocha latte with almond milk and whipped cream comes to about five dollars. And yes, you can absolutely pay with a card; we do accept all major credit and debit cards. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“So you don't accept cash, right?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Oh, actually, we do accept cash as well, so you're welcome to pay either way. Whatever's most convenient for you! Let me know if there's anything else you need."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, I will agree with Cash. Thank you.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "You're very welcome! I'll have your drink ready, and you can pay with cash whenever you're ready. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“And I think that's it. Thank you.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! My pleasure. Enjoy your drink, and have a wonderful day! If you need anything else, just let me know."
+    }
+  ]
+}

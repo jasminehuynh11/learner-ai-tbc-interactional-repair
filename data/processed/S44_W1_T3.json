@@ -1,0 +1,165 @@
+{
+  "student_id": 44,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S44_W1_T3",
+  "source_file": "data\\raw\\#44\\#44\\#44. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Returning or Exchanging Clothes and Asking About Store Policies"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Good morning, I would like to change this pair of pants because it's so large for me.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Good morning! I’m happy to help with that. Do you have the receipt or the original proof of purchase with you?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Yes, I have. Here we are.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Perfect, thank you! And would you like to exchange them for a different size, or are you looking for a different item altogether?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I'm looking for different size, but if you have some other option, I will ask you to show me.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds good! Let me check if we have that size in stock, and I’ll also show you some other options that might interest you. Sound good?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Oh, thank you so much.” Shop English Conversational Partner said: You're very welcome! Just give me a moment, and I’ll get everything sorted for you. In the meantime, is there a particular style or color you prefer? You said: Transcription not available"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, no worries!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I don't know how to say that. Not skinny jeans, but a little bit more larger.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely! You can say something like \"straight-leg jeans\" or \"relaxed fit jeans.\" That way, they're not too tight and have a bit more room. Let me know if that works for you!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Yeah, okay, a large, a relaxed pants of jeans.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Perfect, that sounds great! I’ll find a few options in that style and size for you. Just give me a moment, and I’ll show you what we have!"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“So, do you have something?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We do have a few pairs that match what you're looking for. Let me grab them for you, and we can see which one fits best!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“I think I chose the black one.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Great choice! The black ones will look fantastic. Let me get them ready for you, and if you need any further assistance, just let me know!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“How much is the costa?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Sure! Let me check the price for you right away. I’ll confirm the cost and let you know in just a moment."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“So,”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Alright, I’ve checked the price, and it’s going to be $ fifty-five. Let me know if that works for you, or if you have any other questions!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Oh, it's perfect. If you have also some other clothes, like some t-shirt, that's good with them.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help with that! Let me show you a few t shirts and sweaters that would pair nicely with those black jeans. Just give me a moment, and I'll bring some options for you!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“and”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright, I've got a few options ready for you! Let's take a look and see which ones you like best. If there's anything specific in mind, just let me know!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“No, just something that's sweet with these pants. So maybe some color that's sweet with these black jeans.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Awesome! I'll go ahead—"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“I think the t-shirt that you have in your...”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sure, I’ll bring that t-shirt right over, and we can see how it looks together. Let me know if you have any other preferences or questions!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, it's, uh, it's good, this one.” Shop English Conversational Partner said: Perfect, I’m glad you like it! If there's anything else you need or any other items you’d like to look at, just let me know. Otherwise, we can wrap things up whenever you’re ready!"
+    }
+  ]
+}

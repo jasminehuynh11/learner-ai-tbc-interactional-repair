@@ -1,0 +1,315 @@
+{
+  "student_id": 29,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S29_W1_T1",
+  "source_file": "data\\raw\\#29\\#29\\#29. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I want to practise how to order coffee at a café. You are a barista working in a café in Sydney. I’ll play the role of a customer. Please create a realistic café scenario and respond as if we were really there. Ask me about my preferences, help me choose from the menu, and explain different coffee options. Keep the conversation going naturally by asking at least 3 follow-up questions about size, milk, and payment.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure! Welcome in — what kind of coffee are you thinking about today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I would like to have a flat white."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright! A flat white — great choice. What size would you like: small, medium, or large?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“How much for each of them?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Of course! Our small flat white is 8 ounces, the medium is 12 ounces, and the large is 16 ounces. Which one do you prefer?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Small is fine.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Perfect, a small flat white it is! And would you like any specific type of milk, like whole milk, almond milk, or oat milk?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“What are the differences?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely! So, whole milk gives a creamy and rich texture, almond milk is a bit nutty and lighter, and oat milk is smooth and slightly sweet. Do any of those sound appealing to you?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“which we will do before.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "I personally love oat milk for its creaminess, but it really depends on your taste! Do you want to give oat milk a try, or do you have another preference in mind?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I will try oatmeal.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great choice! Oat milk it is. Now, would you like to pay with cash or card today?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "All right, card it is! Perfect, I’ll get that small flat white with oat milk ready for you. Is there anything else I can get for you today?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely! We"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Would you recommend?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Well, our croissants are always a favorite, and the blueberry muffins are delicious as well. Do either of those sound good to you?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Oh, I like croissant, too.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Excellent choice! I'll add a croissant to your order as well. So, a small flat white with oat milk and a croissant. Anything else I can help you with?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“That's all.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Perfect! I’ll get that all ready for you. Your order will be up in just a moment. Thanks so much, and let me know if you need anything else!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Thank you. Good day.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "You're very welcome! Have a great day and enjoy your coffee and croissant!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "You're welcome! Take care and have a good one!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Good, how about you?”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Thank you! I appreciate that. If you need anything else, just let me know. Have a wonderful day!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“The facts why you made is absolutely amazing.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Oh, that’s so kind of you to say! I’m really glad you enjoyed it. If you ever want to chat again or practice more, I’m here anytime!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“I would like to order for my friend too.”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Of course! I’d be happy to help with that. What would your friend like to have?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“She likes something sweet.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Got it! Something sweet"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Adakah anda mempunyai saran?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely! We have some delicious pastries like cinnamon rolls, almond croissants, and maybe a slice of cake. Anything in particular that you think she’d enjoy?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“How large is the cinnamon roll? Because you cannot eat much.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "No worries at all! Our cinnamon roll is actually pretty large, but we can definitely do a half portion or even just a smaller serving if that works better. How does that sound?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Half-portion is fine. I will take that.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Perfect, a half portion of the cinnamon roll it is! So, we’ll have your order and a sweet treat for your friend. Anything else I can add?"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“She also want to have a coffee.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Great! Let’s find out what kind of coffee she’d like. Does she have a favorite, like a latte, a cappuccino, or maybe something else?"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Do you have something made with matcha?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Absolutely! We do have a delicious matcha latte. Would she like that hot or iced, and any particular milk preference for it?"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“I think she likes iced matcha latte.”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Perfect, an iced match"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Do you think wholemeal is the best option for matcha latte?”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "It definitely adds a nice creaminess and richness, but it’s really up to her taste! We can also use almond milk or oat milk for a slightly different flavor. Whatever she prefers!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“I think the whole view is perfect for”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Awesome, that sounds great! So, we'll get an iced matcha latte with whole milk for her. That should be perfect! If there's anything else you need, just let me know."
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“That's all.”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Great! That’s all set then. I’ll make sure everything is ready for both of you. If you need anything else, just give me a shout. Enjoy!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Oh, I haven't paid yet. How much a day?”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Of course! Let me quickly total it up for you. The small flat white with oat milk, the half portion cinnamon roll, and the iced matcha latte with whole milk will come to a total of… [provides the amount]. Let me know if that works for you!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Here I will play my card again.”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Sounds good! I’ll process that for you right away. Thank you so much, and if you need anything else at all, just let me know."
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“That's all I need. Thank you for your help. Have a good day.”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "You’re very welcome! It was my pleasure. Have a wonderful day, and enjoy your treats!"
+    }
+  ]
+}

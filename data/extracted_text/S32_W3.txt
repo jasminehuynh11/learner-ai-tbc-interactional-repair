@@ -1,0 +1,113 @@
+week 3
+
+Task 1: Reporting an Internet Outage at Your Housing:
+
+Prompt: “I want to practice how to report an internet problem. You are interested to support the staff in Wisman. I will play the review for Kustomer. Please create a realistic scenario and keep going with the conversation naturally.”
+
+AI: Sounds good! Let's imagine you’re having trouble with your internet connection at home. I'll be the support staff ready to help.
+So, let’s get started! Hi there! How can I assist you with your internet issue today?
+ME: “Hi, yes, my internet this week it wasn't working well, so I want to know if it is possible to someone come or if you can help me to repair the internet because I tried to turn off the internet for a couple of minutes, in the first time the internet was working good but after the program continues, isn’t work”
+AI: Got it, that definitely sounds frustrating. Just to help me understand better, can you let me know if there are any specific times or patterns when the internet is dropping, or is it constant throughout the day?
+ME: “It's constantly in the day, and it's like you are watching something and suddenly the internet stop working”
+AI: I understand, that can definitely be annoying. Just to get a clearer picture, could you let me know what type of modem or router you’re using, and if there have been any recent changes to your network setup?
+ME: “Can you explain to me, what do you mean, like, what kind of a router?”
+AI: Of course! I’m just asking if you know the brand or model of your router, or if it’s a standard one provided by your internet provider. That helps us figure out if there might be any compatibility issues or settings we need to check.
+ME: “It's a normal router that the internet service provides me.”
+AI: Got it, that makes sense. Thank you for letting me know. One more thing: have you noticed if the issue happens on multiple devices, like your phone and your laptop, or is it just one device that’s affected?
+ME: “In general, it affects laptops and cell phones, but in the computer, like a table computer, in general is working good.”
+AI: I see, that’s helpful to know. It sounds like it might be related to certain devices or maybe the Wi-Fi signal strength. Would you happen to know if the devices are far from the router, or maybe if there are any obstacles in between?
+ME: “I think no, or I don't know, because there is in one room, like in my studio.“They have the space to be there, so I don't know if something is not good.”
+AI: No worries, that makes sense. We can definitely explore a few troubleshooting steps to narrow it down. One thing we could try is checking for any firmware updates on the router. Would you like me to guide you through that, or is there anything else you’d like to try first?
+ME: “I don't know. For me, it's okay if you guide me with the steps to see if the problem is what do you think.”
+AI: Absolutely, I’d be happy to help! Let’s start by checking if your router’s firmware is up to date, and then we can try a couple of other steps. Just let me know when you’re ready, and we’ll go through it step by step.
+ME: “Yes, I'm ready.”
+AI: Perfect! Alright, so first, let’s log into your router’s admin page. You can usually do that by typing the router’s IP address into your web browser. Do you know what that IP address is, or would you like some help finding it?
+ME: “I need some help to find it, please.”
+AI: No problem at all! Typically, the router’s IP address is something like 192.168.0.1 or 192.168.1.1. You can usually find it on the back of the router or in the manual. Once you have that, just type it into your browser, and then we can go from there. Let me know if you need more guidance!
+ME: “Okay, I found the IP number.”
+AI: Awesome, that’s great! Now, go ahead and enter that IP address into your browser’s address bar, and you should see a login page for your router. Once you’re there, let me know what you see, and we’ll take it step-by-step from that point.
+ME: “Yes, I can find the thing that you told me.”
+AI: Perfect! Great job. Now the next step is to enter your username and password. If you haven’t changed them, the default credentials are usually something like “admin” for both fields, but let me know if you have any trouble with that. Once you’re logged in, we can check for any firmware updates.
+ME: “What's happening if I can't remember the password?”
+AI: No worries at all! If you’re having trouble remembering the password, sometimes it’s the default one, or it might be written on a sticker on the router. And if you still can’t find it, we can always reset the router. Just let me know how it goes, and I’ll guide you through it!
+ME: “Okay, thank you. I will try.”
+AI: You’re very welcome! Take your time, and if you have any questions or need more help along the way, just let me know. I’m here to help!
+ME: “Okay, now I can enter to my account, so what is the next step to follow?”
+AI: Awesome, great job! So the next step is to look for a section called something like “Firmware Update” or “Router Update” in the settings menu. Once you find that, you can check if there’s an update available and follow the prompts to install it. Let me know if you need any help navigating that part!
+ME: “Yes, I can see the router update.”
+AI: Perfect! That’s a good sign. Now you can go ahead and click on that option to check for any available updates. If there’s one, it should guide you through the installation process. Just let me know how it goes, and we can troubleshoot further if needed!
+ME: “Okay, the upload is ready, so it's supposed that they solved the problem that I have, or we have another step to do.”
+AI: That’s great to hear! Usually, updating the firmware can definitely help fix connectivity issues. Once it’s updated, you can restart your router and see if the connection improves. If the problem persists after that, we can try a few more troubleshooting steps. But let’s see how it goes after the update first!
+ME: “Okay, wait a minute. I restart the router and I will tell you about it.” 
+AI: Sounds good! Take your time, and I’ll be here whenever you’re ready. Just let me know how it goes once the router’s back up, and we’ll go from there.
+ME: “Okay, I restart the router and for the moment the internet appears that it's working good.”
+AI: That’s fantastic to hear! I’m glad it seems to be working well now. If you notice any issues again, definitely let me know, and we can troubleshoot further. But for now, I’m really happy it’s all good!
+ME: “Okay, thank you for your help. I hope this could solve the problem.”
+AI: You’re very welcome! I’m glad I could help. Hopefully, everything stays smooth from here on out. If you need anything else, just let me know. Have a great day!
+ME: “No, I think not. Thank you.” “Have a good day, too.”
+AI: Thank you so much! Take care, and feel free to reach out anytime. Bye for now!
+ME: “Bye. Thank you.”
+AI: You're welcome! Bye for now, and have a great one!
+
+Task 2: Reporting a Lost Item or Filing a Minor Police Report:
+
+Prompt: “I want to practice how to report a lost item. You are a lost and found assistant in a train station in Brisbane. I will play the role of customer. Please create a realistic scenario and keep going with the conversation naturally.”
+
+AI: Absolutely, let's do that!
+Hello! Welcome to the Brisbane Train Station Lost and Found. How can I help you today? What item have you lost?
+ME: Yes, hi. Just a few minutes ago, I got off the train to Gold Coast, and I realized that I forgot my shopping bag under the seat of the train. So, I don't know what I have to do”
+AI: No worries at all! We can definitely help you out. Could you let me know what was in the shopping bag or any specific details about it? That way, we can track it down more easily.
+ME: “Yes, sure. The shopping mall is pink, and inside of them I have a t-shirt and they have a perfume that I bought. The bottle of the perfume is purple and the jeans are dark blue.”
+AI: Great, that definitely helps us narrow it down. Could you also let me know approximately what time you were on the train, and which train number it was? That way, we can check the right carriage.
+ME: “I think I was on the train at 4.30pm, and the number, I don't know, I just know there is the usual train that we take to Gold Coast to Brisbane, so I think, I don't know exactly the name, the number of the train.”
+AI: No worries at all, that’s still helpful. We’ll check the trains around that time. Could you also share your contact details, like your phone number or email, so we can reach out if we find your bag?
+ME: “Yeah, sure. Is it necessary that I give my number and my email, or just my number?”
+AI: It’s totally up to you! If you prefer, we can just use your phone number, but having an email as well can be helpful. Either way works perfectly fine!
+ME: “Okay, my phone number is 355678910 And my email is mol1888@gmail.com”
+AI: Great, I’ve got that noted down. We’ll keep an eye out for your bag and let you know as soon as we find it. Is there anything else I can assist you with right now?
+ME: “What happens if someone finds it and is not a person from the staff of the train?”
+AI: That’s a great question! Usually, if someone finds it, they’ll turn it in to the station’s Lost and Found or a staff member. We also have procedures in place to ensure that any found items are logged and held safely until the owner can claim them. But we’ll definitely keep you updated!
+ME: “What's happening if someone didn't report that someone left the shopping bag in the train and just go with them?”
+AI: I understand your concern. In that case, we do rely on passengers and staff to report found items, but we also regularly check the trains and the lost property area. If the bag isn’t turned in right away, we’ll continue to monitor and keep you informed until we can recover it.
+ME: “Okay, thank you. I'm going to wait about the call, and I hope as soon as possible you can advise me about that.”
+AI: Absolutely, we’ll keep you posted as soon as we have any news. And if you have any other questions in the meantime, just let us know. We’ll do our best to help!
+ME: “How long do you think you can find the shopping bag or let me know about that.”
+AI: Absolutely, we’ll do our best to keep you updated as quickly as possible. Usually, it can take a day or two, but we’ll let you know as soon as we have any information. Feel free to reach out anytime in the meantime!
+ME: “Okay, thank you. Thank you for your help. I hope you can find the shopping bag.”
+AI: You’re very welcome! We’ll definitely do our best, and I’m hopeful we’ll get it back to you soon. If you need anything else at all, just let us know. Take care!
+ME: “And that's it. Thank you so much. Have a good day.”
+AI: “Thank you. Bye-bye.”
+ME: You're welcome! Bye-bye, and take care!
+
+Task 3: Requesting Maintenance or Repairs in a Rental Property:
+
+Prompt: “I want to practice how to request maintenance or repair in a rental property. You're a manager of housing rent in Brisbane. I'll play the role of customer. Please create a realistic scenario and keep going with the conversation naturally.”
+
+AI: Got it, that sounds great! Alright, let’s start. Hi there! This is the property manager from your building in Brisbane. How can I assist you today with maintenance or repairs?
+ME: “Yes, I have a problem because today I want to do the laundry, but I have a leak in the washing machine and just start leaking water when I put the clothes on, so I don't know what I am supposed to do now.”
+AI: Oh, I’m sorry to hear that! That definitely sounds frustrating. No worries, I’ll help you out. Could you let me know the exact model of the washing machine and where the leak seems to be coming from? That'll help me figure out the next steps.
+ME: “Yes, the washing machine is LG, I think, but I don't know exactly the model because I'm here and I rent this property, so I don't know exactly what is the model of the washing machine.”
+AI: No problem at all! That’s totally understandable. If you can describe where the leak is coming from—like if it’s from the door seal or underneath the machine—that would help. Also, let me know if you’ve tried any quick fixes so far.
+ME: “I think maybe it's behind of the washing machine. Maybe it's one of the holes that are leaking, but I can't move the washing machine now, so I just close the water service.”
+AI: Got it, that makes sense! It’s great that you turned off the water. That definitely helps prevent any further leakage. What I can do is arrange for a maintenance technician to come by and take a look. Could you let me know when would be a good time for someone to visit?
+ME: “Yeah, if it's possible tomorrow, I have time, and maybe especially after 12 p.m.”
+AI: That sounds perfect! I’ll schedule the maintenance for tomorrow afternoon, after 12 p.m. Is there any other detail or concern that you’d like us to know about the washing machine, or anything else we should keep in mind?
+ME: “Okay, my phone number is 355678910 And my email is mol1888@gmail.com”
+AI: Great, I’ve got that noted down. We’ll keep an eye out for your bag and let you know as soon as we find it. Is there anything else I can assist you with right now?
+ME: “I need to use the water, so maybe I just turn on the service now, but I don't want the host to continue linking. So in this case, what do I do.”
+AI: In that case, it might be best to keep the water turned off until the technician arrives, just to be safe. If you absolutely need water for other purposes, you could temporarily use a different source or make sure to keep an eye on the machine. And of course, we’ll get it all sorted out tomorrow. Let me know if there's anything else I can help with!
+ME: “It's not possible in this case that the plumber can come today.”
+AI: I can definitely check that for you! Let me see if we have any availability today. If we can arrange it, I’ll let you know right away. Just give me a moment to confirm, and I’ll get back to you.
+ME: “OK, I can wait. Don't worry.”
+AI: Great, thank you for your patience! I'll check on that and let you know as soon as possible. In the meantime, if you think of anything else or have any other concerns, just let me know.
+ME: “Hi, I wait a few minutes and I want to know if you know that is possible or not.”
+AI: Absolutely, I appreciate your patience! I’ve just checked, and it looks like we do have a plumber available later today. I’ll go ahead and schedule them for you, and you’ll receive a confirmation shortly. If there's anything else you need, just let me know!
+ME: “Yes, around one time the plumber is coming.”
+AI: Sure! The plumber is scheduled to arrive around 2 p.m. today. If that time needs any adjustment, just let me know. Otherwise, you should be all set!
+ME: “Yeah, no, that's correct. Thank you.”
+AI: You’re very welcome! I’m glad we could sort it out. If you need anything else, just let me know. Otherwise, I’ll make sure everything’s taken care of for you.
+ME: “Now I think that's it. Thank you for your help. I am waiting for the plumber at 2 p.m. Thank you.”
+AI: You’re very welcome! I’m glad I could help. If anything comes up, just reach out. Otherwise, I’ll talk to you soon. Have a great day!
+ME: “Okay, thank you, have a good day, bye.”
+AI: You too! Take care, and goodbye!
+

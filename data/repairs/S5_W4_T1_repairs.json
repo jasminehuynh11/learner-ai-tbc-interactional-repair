@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S5_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'one-on-one session'",
+    "evidence_summary": "The learner asks for clarification on the term 'one-on-one session' in turn 9. The bot explains it as a private lesson in turn 10, resolving the learner's confusion."
+  },
+  {
+    "dialogue_id": "S5_W4_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      19,
+      20
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'in good hands'",
+    "evidence_summary": "The learner asks for the meaning of 'in good hands' in turn 19. The bot clarifies the phrase in turn 20, ensuring the learner understands."
+  }
+]

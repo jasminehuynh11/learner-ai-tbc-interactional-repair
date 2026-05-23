@@ -1,0 +1,465 @@
+{
+  "student_id": 19,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S19_W1_T1",
+  "source_file": "data\\raw\\#19\\#19\\#19. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“I want to practise how to order coffee at a café. You are a barista working in a café in Hobart. I’ll play the role of a customer. Please create a realistic café scenario and respond as if we were really there. Ask me about my preferences, help me choose from the menu, and explain different coffee options. Keep the conversation going naturally by asking at least 3 follow-up questions about size, milk, and payment.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, no worries — happy to help you practise. So, what kind of coffee can I make for you today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely! A long black it is. Now, would you like that in a regular size or a large?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Sure thing, we'll make that a large. And do you have any preference for the type of milk, or are you happy with it just black? रखें that in mind as well? Let me know."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I'm happy with just black.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Alright, just black, perfect. Now, how would you like to pay today? We can do card or cash, whichever you prefer."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Today, yeah.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Great, no problem at all. I'll just ring that up for you. And since we're in Hobart, we do have some local blends if you're ever curious next time. But for now, we'll keep it simple. Anything else I can get you along with that coffee?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Now I will I want to know some local brand land what kind of local plant you have”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Absolutely! We've got a few local favorites here. For instance, there's a nice Tasmanian single origin that's quite popular. But to keep it simple today, I'll get your long black ready first. Now, would you like to hear a bit more about those blends after you’ve got your coffee, or are you all set for now?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Actually, I want to change my mug into a local brand coffee.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure thing! Happy to switch that up for you. I'll make your long black with the local Tasmanian blend then. Now, just to wrap up, would you like to pay by card or cash for that? Let me know."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“And also, I want to order some banana bread, which is gluten-free.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Absolutely, I can add a slice of our gluten-free banana bread for you. So we'll do that and your Tasmanian blend long black. And just to confirm, would you like to pay by card or cash? Let’s sort that out."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Is it possible?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Absolutely, that’s no problem at all. I'll get those sorted for you. So, we'll do the card payment then. Anything else you need before we finish up? Let me know!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Sure, one croissant coming right up as well. So that’s the long black with the local blend, a gluten-free banana bread, and a croissant. We’ll just handle the card payment and you’ll be all set. Anything else I can do for you? Let me know."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll add that coke for you as well. So we’ve got the coffee, the banana bread, the croissant, and a coke all together. We’ll just finish up your payment, and you’ll be good to go. Thanks for ordering—anything else or are we all set?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yeah, that's all.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Perfect, I'll ring that up and you're all set. Thanks for stopping by, and enjoy everything! If you need anything else next time, just let me know. Take care!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Oh, of course! Let’s not forget that part. We’ll just run your card really quickly, and then we’ll be all set for real. Thanks for the reminder. Anything else I can help with once we’re done with that?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“I'd like to pay by my card.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Alright, card it is! I'll just run that through and you're all set. Thanks a lot for practicing with me, and enjoy your coffee and treats. If you need anything else, just give me a shout!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Absolutely, it's all taken care of. So you've got your order and the payment's done. Thanks again for popping by, and if there's anything else you need, just let me know. Enjoy and have a great day!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Cappuccino, please.”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Sure thing, I can add a cappuccino to go as well. I’ll just get that started for you. Anything else you’d like to add on top of that, or is that the last one for today? Let me know!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“마지막 질문입니다. 얼마나 걸릴까요?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "It won't take long at all—just a couple of minutes and your cappuccino will be ready to go. So hang tight and we'll have it out for you in no time. Anything else you're curious about? Let me know."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Okay, I will wait near the door. Thanks.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Sure thing, you can wait right over there. We’ll have everything ready in just a moment. Thanks for your patience, and we’ll call you when it’s all set!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Can I get two drinks? One flair white and one mocha?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. I’ll add a flat white and a mocha for your friend as well. So that’s a cappuccino, a flat white, and a mocha. We’ll get all those ready for you. Anything else you want to add on top, or is that everything now? Let me know!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“What kind of things I can add on top?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Well, you could always add a little sweet treat or maybe some extra flavor shots if you like. But if you're all set, we'll just get these drinks done for you. So, are you good with that, or is there anything else you'd like to add in? Let me know!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“Can I replace milk into soy milk, and then can you put some vanilla syrup on it?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. I'll switch the milk to soy and add some vanilla syrup for you. So that's all set. We'll get those drinks ready, and if there's nothing else, we'll have everything out for you soon. Anything else you need? Let me know!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Uh, do you have any vegan food for my friend?”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Sure, we do have a couple of vegan options, like a nice vegan muffin or a veggie wrap. Just let me know if either of those works for your friend, and I'll add it in. Anything catch your eye?"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Is there a combo with two coffees and cake?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that as a combo. I'll pair those two coffees with a nice slice of cake for you. We'll get that all set up, and if there's anything else you need, just let me know. Otherwise, we’ll have it all ready shortly!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Okay, what do you recommend today?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "I'd say our Tasmanian blend coffee is definitely a highlight today, and you've already got that. If you want a snack recommendation, our vegan muffins are pretty popular. But let me know if you'd like to try anything else, or if you're all set with what we've got!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Okay, I will try. And do you have any oat milk?”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Absolutely, we do have oat milk if you'd prefer that. I can swap it in for any of your drinks. Just let me know which one you’d like it in, and I’ll take care of it! Anything else on your mind?"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“옥수수 우유를 롱블랙으로 바꿀 수 있습니까?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "Sure, I’ll switch that long black to oat milk for you—no problem at all. We’ll get that done and everything will be ready soon. If there’s nothing else, you’ll be all set. Anything else you’d like to adjust? Let me know!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“Okay, can I add a vegan muffin to my order?”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Absolutely, I'll add a vegan muffin to your order as well. So we'll have that ready along with everything else. If that's all, we'll get things wrapped up for you. Anything else you need? Let me know!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“Is anything gluten-free or dairy-free?”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Yes, our vegan muffin is both gluten-free and dairy-free, so it should fit those needs perfectly. We'll get that added for you. If there's anything else at all, just let me know!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“So what's your most popular drink?”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "I’d say our most popular drink is definitely the flat white—locals love it. But your long black with that local blend is a close second! Now, is there anything else you’re curious about, or are we all set for now? Let me know."
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“아이스라떼에 변경할 수 있나요?”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Absolutely, I can change that to an iced latte for you. I'll get that sorted out and everything updated. If there's nothing else, we'll have your order ready in a jiffy. Anything more you'd like to tweak? Let me know!"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“그래서, 평범한 흰색과 라떼의 차이점은 무엇인가요?”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Sure! The main difference is that a flat white usually has a bit less foam and a stronger coffee flavor, while a latte has more milk and a creamier texture. But both are delicious. Now, is there anything else you're curious about or are we good to go? Let me know!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“Can I add... Is there a student discount?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Absolutely, we do offer a student discount, so I'll make sure to apply that for you. That should bring the total down a bit. Anything else you need before we wrap up? Let me know!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“Now, appreciate your help. Have a great day.”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "You're very welcome! You have a great day as well, and thanks for stopping by. If you need anything else next time, just let me know. Take care!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“Thanks, Heaps! See you next time!”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "Absolutely, see you next time! Thanks again and have a good one!"
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "“Ah, one more question. What kind of beans do you use for your espresso?”"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "Sure! For our espresso, we use a locally roasted blend that’s got a nice rich flavor. It's a mix of beans from a couple of different origins to give it a balanced taste. Anything else you’d like to know?"
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "“So, is it a single origin or a blend?”"
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "It's actually a blend, so you've got a mix of a couple of origins in there to keep things balanced and flavorful. If you're curious about anything else, just let me know!"
+    },
+    {
+      "turn": 74,
+      "speaker": "learner",
+      "text": "“So, where are your beans sourced from?”"
+    },
+    {
+      "turn": 75,
+      "speaker": "bot",
+      "text": "They're mainly sourced from a couple of regions—a bit of South America and some from East Africa, so it's a nice balanced blend. If there's anything else you're curious about, just let me know!"
+    },
+    {
+      "turn": 76,
+      "speaker": "learner",
+      "text": "“So do the pullover or only express-based drinks.”"
+    },
+    {
+      "turn": 77,
+      "speaker": "bot",
+      "text": "We mainly do espresso-based drinks here, but we can definitely do a pour-over if you prefer something a little more customized. Just let me know what you're in the mood for!"
+    },
+    {
+      "turn": 78,
+      "speaker": "learner",
+      "text": "“I've never tried a code rule. What's... what it's like?”"
+    },
+    {
+      "turn": 79,
+      "speaker": "bot",
+      "text": "Sure! Cold brew is a bit smoother and less acidic than regular iced coffee since it's brewed slowly with cold water. It's a great choice if you like something really smooth and refreshing. Anything else you're curious about?"
+    },
+    {
+      "turn": 80,
+      "speaker": "learner",
+      "text": "“Do you roast your beans in-house?”"
+    },
+    {
+      "turn": 81,
+      "speaker": "bot",
+      "text": "Absolutely, yeah, we do roast our beans in-house right here, so everything’s nice and fresh. If you’re interested, you can always ask us more about the roasting process. Anything else on your mind?"
+    },
+    {
+      "turn": 82,
+      "speaker": "learner",
+      "text": "“I usually drink something strong. Do you have a bold roast?”"
+    },
+    {
+      "turn": 83,
+      "speaker": "bot",
+      "text": "Absolutely, we do have a bolder roast if you like something stronger. We can definitely make your drink with that. Just let me know if you'd like to go for it!"
+    },
+    {
+      "turn": 84,
+      "speaker": "learner",
+      "text": "“Okay, I'm interested in trying something new today. Any recommendations?”"
+    },
+    {
+      "turn": 85,
+      "speaker": "bot",
+      "text": "Absolutely! If you want to try something a little different, I'd recommend maybe our Tasmanian single-origin as a pour-over. It's got a unique flavor. But if you're feeling like sticking to something bold, we can do that as well. Just let me know what you're leaning toward!"
+    },
+    {
+      "turn": 86,
+      "speaker": "learner",
+      "text": "“So what's the difference between a pullover and an express-based pullover?”"
+    },
+    {
+      "turn": 87,
+      "speaker": "bot",
+      "text": "Sure! So a pour-over is basically made by slowly pouring hot water over coffee grounds, which gives it a cleaner and more delicate flavor. An espresso is made by forcing hot water through finely ground coffee, so it's a bit stronger and more intense. Let me know if that helps or if you have any other questions!"
+    },
+    {
+      "turn": 88,
+      "speaker": "learner",
+      "text": "“Can you make it half strength and with oat milk?”"
+    },
+    {
+      "turn": 89,
+      "speaker": "bot",
+      "text": "Absolutely, I can do that for you. I'll make it half-strength and use oat milk for you. We'll get that sorted out. Anything else you need?"
+    },
+    {
+      "turn": 90,
+      "speaker": "learner",
+      "text": "“No all good, thanks.”"
+    },
+    {
+      "turn": 91,
+      "speaker": "bot",
+      "text": "You got it! I'll get that all ready for you with the oat milk and half-strength just as you asked. Thanks a lot and enjoy your coffee!"
+    }
+  ]
+}

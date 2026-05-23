@@ -1,0 +1,315 @@
+{
+  "student_id": 14,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S14_W3_T2",
+  "source_file": "data\\raw\\#14\\#14\\#14. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Task 1: Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, my internet has stopped working. There is no signal in my apartment."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Oh, that sounds frustrating! Let's see if we can figure it out. First, can you tell me if you've tried restarting your router?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Can you check if there's an outage in the area?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure, I can definitely help with that. Let me just check if there's any known outage in your area. Could you let me know which internet service provider you use?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I'm using Australian internet."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Got it, thanks for that info! I'll check for any outages with that provider. In the meantime, have you noticed if any of the lights on your router are off or blinking in an unusual way?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Unfortunately, I have no idea."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries at all! It's totally fine if you're not sure. I'll look up the outage information for you and see what's going on. In the meantime, if you have any other details or questions, just let me know!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "This has happened three times this month. What can be done?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Oh, I see, that definitely sounds like a recurring issue.In that case, it might be a good idea to reach out to your provider's customer service and see if they can look into it more deeply or even send a technician out."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "OK. Is there a technician available today?"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "I can definitely check that for you! Let me just see if there's availability for a technician today. Could you also let me know your address, just so I can get the accurate details?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "30 South Street."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great, thanks for that! I'll check the availability for a technician in Melbourne at that address and let you know what the earliest possible appointment is!"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "I'm available all day today, so anytime is okay."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That's super helpful, thank you! I'll make a note of that and see what slots are open for today. I'll get back to you in just a moment!"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Should I wait here, or will someone call me?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I'd recommend being available at home just in case they arrive early, but usually, they'll give you a call or send a message when they're on their way. So you should be all set!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Thank you so much."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "You’re very welcome!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "If the service isn't fixed by today, do I get a refund or a credit?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "That's a great question! Usually, providers do offer some kind of credit if the issue isn't resolved in a timely manner. I can help you find out their specific policy if you'd like!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Okay, or is it possible to change to a different service plan?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, you can usually switch providers if you're not satisfied. I'd recommend checking if there are any contract terms or fees, and then comparing the options. If you want, I can help you look into alternative providers as well!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "OK, if this isn't resolved today, I will do that, but who can I contact if this isn't resolved today?"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Got it! If the issue isn't resolved today, you can reach out to their customer support line or even their retention department, and they'll guide you through the next steps. I can also help you find their contact details if you need them!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Can you give me a reference number for this request?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely! I can definitely help you get a reference number. Once you contact their support, they'll generate one for you. If you'd like, I can help you with the contact details or even draft a quick message for you!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Thanks for the update. I'll wait for the technician."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. Fingers crossed everything gets sorted out smoothly today. If you need anything else, just let me know! Task 2: Reporting a Lost Item or Filing a Minor Police Report"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Hi, I've just realized I lost my phone. I'm at the train station and I'd like to check with the lost and found disk."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Oh, I’m sorry to hear that. Let’s get that sorted out for you. Could you tell me when you last saw your phone and where exactly you think you might have lost it?"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "I last saw it at the train station around 3 p.m."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Got it, that helps a lot. So, did you happen to leave it in a specific area, like near a particular platform or maybe a waiting area?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Maybe platform 9 because I took the train from there."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Thanks for that detail! I’ll let the lost and found desk know. Just to confirm, did you have any specific case or cover on your phone that might help identify it?"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Yeah, the phone has a purple case and a cracked screen."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Perfect, that will definitely help them identify it. I’ll pass that along. Is there anything else you remember that could be useful, like any specific apps that were open or any other details?"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "The case design has a Japan flag."
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Oh, that’s a great detail! That should make it even easier to spot. Alright, I’ll make sure they have all that info. Is there a phone number or an email I can leave them so they can contact you if they find it?"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "Yes, My phone number is 123456789."
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Got it! I’ll make sure they have that number as well. Hopefully, they find your phone soon! If there’s anything else I can help with, just let me know."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "Do I need to fill out a form?"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Usually, they do have a simple form for lost items, just to confirm all the details. I can give you the form or guide you through it if you’d like!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "OK, and also do I need to show ID when collecting it?"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Yes, typically they’ll ask for an ID when you pick it up, just to confirm that it’s really yours. But no worries, we’ll get everything set up so you can retrieve it easily!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "Thank you so much. Can you call me if it's found?"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure they have your contact number and give you a call if they find it. Hopefully, you’ll have it back in no time! If you need anything else, just let me know."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "How long do you keep lost items on file?"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Typically, they keep lost items for about 30 days, but it can vary a bit depending on the station’s policy. If it’s not found within that time, they might donate or dispose of it. So, it’s always good to check in sooner rather than later!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "OK, if it's found, I will collect it soon. And what should I do if I lost it in another city?"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "In that case, you’d want to contact the lost and found department of that specific city or station. Usually, you can reach out to them online or by phone, and they’ll guide you through their process. But hopefully, you won’t have to worry about that!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "Yeah, definitely. Is there a lost property website I can check?"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Yes, many train stations and transit systems have their own lost and found websites where they list items. It’s definitely worth checking the official website of the station or the transit authority. If you need help finding it, I can point you in the right direction!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "I appreciate your help. Thank you for explaining everything."
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you have any other questions at all, just let me know. Good luck, and I hope you get your phone back soon!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "I hope. Thank you so much. That's all today."
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "You’re welcome! I’m glad I could help. If you ever need anything else, just reach out. Have a great day!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "Thank you so much, you too."
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Thank you! Take care, and talk to you later!"
+    }
+  ]
+}

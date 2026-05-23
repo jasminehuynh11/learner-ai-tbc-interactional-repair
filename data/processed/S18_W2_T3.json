@@ -1,0 +1,170 @@
+{
+  "student_id": 18,
+  "week": 2,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S18_W2_T3",
+  "source_file": "data\\raw\\#18\\#18\\#18. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, I'm interested in the two-bedroom unit on Main Street.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "That sounds great! Are you looking for more details about the unit, like the price, availability, or maybe the amenities included? Let me know what you'd like to know!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes, I'd like to know about the price and the facilities and are pets allowed?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I couldn’t find the exact details on the price or facilities right now, but generally, you can always reach out to the landlord for that info. As for pets, in New South Wales, tenants can request to have pets, and landlords have to respond within 21 days. They can only refuse for certain reasons, like the pet not being suitable for the property. Let me know if you need more help!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Okay, do I need to register before attending the auction?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Yes, typically for property auctions, you do need to register beforehand. Usually, you'll need to provide some ID and sometimes proof of funds. It's always a good idea to check with the auction house or the real estate agent for their specific requirements. If you need help with that, just let me know!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, so is the property furnished or unfurnished in this two-bedroom unit?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I couldn’t find the exact details on whether the unit is furnished or unfurnished. It’s definitely a good idea to reach out to the landlord or the real estate agent to confirm that info. Let me know if you need help with anything else!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Okay, what usually documents do I need to include with my application?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "For a rental application, you’ll typically need a few key documents. These usually include a photo ID, like a driver's license or passport, proof of income (such as recent pay slips or bank statements), references from previous landlords, and sometimes a rental application form itself. It’s also good to have any additional documents that show your rental history or employment details. If you need more specifics, I’m happy to help!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Okay, so how long does it take to hear back?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "It can vary, but generally, you might hear back within a few days to a week after submitting your application. Some landlords or agencies can respond even sooner, especially if the property is in high demand. It’s always good to follow up after a few days if you haven’t heard anything. Let me know if you have any other questions!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, so do you know when a decision will be made?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Typically, the decision can be made anywhere from a couple of days to about a week after the application deadline, depending on how many applicants there are and how quickly the landlord or agent reviews everything. If there's a competitive market, it might take a bit longer. But usually, they'll let you know once a decision is reached. If you need more details, I'm here to help!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, thank you. And also, I have some other questions, like I'm also interested in another apartment. Could I apply for both?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, you can apply for multiple apartments at the same time. Just keep in mind that you’ll want to be transparent with each landlord or agent about your situation. It’s also a good idea to keep track of the timelines and any responses you get. And of course, if you do get approved for multiple places, you can choose the one that suits you best. If you have any more questions, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, that's good to know. Are there any furnished properties available around the same price?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Yes, there are furnished properties available around that price range. For example, Rent.com.au has a studio in Potts Point for about $490 per week, and Homely.com.au lists another studio in Paddington for around $450 per week. Availability can change quickly, so it’s best to reach out directly for the latest details. Let me know if you need more info!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, if someone else also applies, how do you choose?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "That can definitely depend on the landlord or the agent’s criteria, but generally, they’ll look at factors like your rental history, your income, references, and sometimes even your readiness to move in quickly. Some landlords might prioritize stable employment or a higher rental offer, while others might consider things like the length of the lease. It’s always a bit of a mix, and it can vary from one property to another. If you need more guidance, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Okay, because I don't have rental history in Australia, can I apply now and bring the documents later?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely start the application process now and then provide the rental history documents later. Often, landlords or agents are flexible, especially if you're new to Australia. You can let them know your situation and offer alternative references, like an employer reference or personal references. Just keep communication open, and they’ll likely work with you. If you need help with that, I'm here!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, is that okay to email a copy of my ID?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, that's totally fine. Most landlords and agents will accept a scanned copy or a clear photo of your ID via email. Just make sure you’re sending it securely and to the correct contact. And of course, it’s always good to follow up to confirm they received everything. If you have any concerns about privacy, let me know!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Good, um, do I pay the bond before signing the lease?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Typically, the bond is paid before you move in, but often after you've signed the lease agreement. It’s usually one of the final steps before you get the keys. The bond is held by the relevant authority, like the Rental Bond Board, and it’s refundable at the end of the tenancy if everything’s in good condition. If you need more details, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Okay, will I receive a written tenancy agreement before payment?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Yes, absolutely! You’ll typically receive the written tenancy agreement before you make any payments. It’s important to review all the terms and conditions thoroughly before you pay the bond or the first rent. This way, you’ll know exactly what you’re agreeing to. If you have any concerns or need clarification on any part of the agreement, you can definitely ask before finalizing anything."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yeah, thank you for the information. I'll send through my application tomorrow and maybe I'll attend the auction on Sunday.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Updated saved memory That sounds like a great plan! If you need any more help or have any last-minute questions before the auction or sending your application, just let me know. Good luck with everything, and I hope it all goes smoothly!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, thank you.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "You're very welcome! If anything else comes up, just give me a shout. Good luck, and have a great day!"
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "student_id": 35,
+  "week": 1,
+  "task": 2,
+  "task_label": "T3",
+  "dialogue_id": "S35_W1_T2",
+  "source_file": "data\\raw\\#35\\#35\\#35. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, I would like to book a dinner 🥘"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure! What date and time would you like to book your dinner for?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, I would like to book a table for four people tonight.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Great! What time would you like the reservation for, and do you have any special requests or preferences?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Yeah, I think maybe 7 p.m. around, it's okay, as you're available.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, 7 p.m. works perfectly. Do you have any dietary restrictions or specific cuisine preferences that we should know about?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yeah, for sure. One of my friends is from Israel, so he's Muslim. He can't eat pork. Do you have any other options besides pork?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Of course, we can definitely accommodate that. We'll make sure to have plenty of pork-free options. Anything else we should keep in mind, like seating preferences or any special occasion?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Yeah, actually yes, as you can see, one of my friends and one of the other friends, he's Australian and he's gluten-free and dairy-free. Do you have any option for that, guys?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely, we can cater to that as well! We'll make sure to have gluten-free and dairy-free options available. Is there anything else you’d like to let us know about the reservation, or is that everything for now?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“No, I would like to hear some options, guys, about the...”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Of course! I'd be"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“about the dairy and gluten-free options.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it! We have a variety of dishes, like gluten-free pasta, grilled meats, and plenty of fresh salads that are dairy-free as well. If you have any specific preferences, I’m happy to share more details! Let me know what you’re interested in."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yeah, actually, you asked me if it's a special occasion, and you are totally right. It's my friend's birthday. He's 30, but unfortunately, he's celiac. So, you guys have any option for him?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, we can definitely accommodate that! We have a selection of gluten-free birthday-friendly dishes and even some delicious gluten-free desserts. We’ll make sure your friend has a wonderful experience. Anything else we should keep in mind for the celebration?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yeah, you know, we are in summer, 7 o'clock, it's still with the sun. Can we get a table outside?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange an outdoor table for you so you can enjoy the summer evening. Anything else you'd like us to prepare or consider for the setup?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yeah, about the cake, you guys have a specific or beautiful cake or we should bring our own cake?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "We can definitely provide a beautiful gluten-free birthday cake, and we have some lovely options to choose from. But if you have a special request or a favorite flavor, just let us know. Whatever works best for you!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“uh yeah would be fantastic something like chocolate or red velvet and actually if you have some candles would be amazing would be amazing”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "That sounds wonderful! We can definitely do a chocolate or red velvet cake and add some candles for that special touch. We’ll make sure it’s all set for a lovely celebration. Is there anything else you’d like to add or adjust?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "All right, that sounds"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“I think that's everything for now.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Perfect! Everything’s set then. I’ll make sure your reservation is all arranged, and we’ll look forward to celebrating with you all. If you think of anything else, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Just for now, I'm going to see you at 7 p.m., so thank you.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You're very welcome! We’ll see you at 7 p.m. Have a great day, and we look forward to having you all. Take care!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Oh, you too. Thank you. Have an amazing day.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Thank you so much! You too, and we'll see you tonight. Take care!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Oh hello, this is a new call. It's now 3 p.m. and I called you a couple hours ago to make a reservation at 7 p.m. My name is Nicolas.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Oh, hello Nicolás! Great to hear from you again. Yes, I have your reservation all set for 7 p.m. Is there anything else I can assist you with right now?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Yeah, actually, one of my friends, he's gonna be late. Can we change the hour at 8 p.m.?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course, we can definitely adjust that. I’ll update your reservation to 8 p.m. and everything will be ready for you and your friends. Let me know if there’s anything else you need!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Yeah, actually, yes, one of my friends, he is gonna arrive with his girlfriend, so you guys can add one person more, and actually, yeah.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Got it! I’ll make sure to add one more person to your reservation as well. That’ll bring the total to five people. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Will I get a confirmation message, please, to my iPhone?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure you receive a confirmation message on your phone shortly. If there’s anything else I can help with, just let me know!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Yeah, I'm gonna give you my phone number.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Perfect, that sounds great! Feel free to share your number, and I’ll make sure everything’s updated accordingly."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Thank you. It's 0450-932-105.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Got it! Thank you so much, Nicolás. I’ll make sure everything’s confirmed and that you receive that confirmation message. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Yeah, actually, yes. I'm learning English at this moment, and I don't feel really comfortable. So, can you repeat to me my phone number, just in case to confirm that it's the same one that I—that the RUX one?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Of course! Your phone number is 0450 932 105. Let me know if that matches what you have, and if there’s anything else I can do for you!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Yeah, actually that's my phone number, but actually the new girl in the table. She's vegetarian You know guys any nice options besides salad?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Absolutely! We have plenty of delicious vegetarian options beyond salads, like veggie pastas, stuffed peppers, or even plant-based protein dishes. We’ll make sure she has a great selection! Let me know if you have any specific preferences."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Yeah, for example, something with quinoa. You guys have something with quinoa besides quinoa with salads, for example?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely! We have some delicious quinoa-based dishes, like a quinoa-stuffed bell pepper, or a quinoa and vegetable stir-fry. Those are definitely great options beyond just salads! Let me know if that sounds good, or if you have any other requests."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Yeah, I have a couple. You know, I'm not Australian, as you can see. I'd like to know about any traditional dish from you guys, any Australian dish. You know about anyone in your restaurant?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Absolutely! We do have some classic Australian dishes. For example, we can offer something like a kangaroo steak or a traditional meat pie. We can definitely include some Aussie favorites as well! Just let me know if you're curious about any particular dish."
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Yeah, the first one, kangaroo steak, you say? Can you explain to me that one, please?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Of course! Kangaroo steak is actually quite lean and tender, and it’s known for its rich, slightly gamey flavor. It’s typically cooked quickly, either grilled or pan-seared, and it pairs wonderfully with robust sauces or roasted veggies. It’s definitely a unique Australian experience! Let me know if you'd like to give it a try."
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“Sounds fantastic. And may I see your wine list as well?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Absolutely! We have a lovely selection of wines, including some fantastic Australian reds and whites. I can definitely share some recommendations, and if you have any preferences, just let me know!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "“Yeah, I would like to try any Australian wine. Can you help me with that one option?”"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Of course! We have"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“What kind of Australian wines do you have?”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "No worries at all! We have a great range, including bold Shiraz, crisp Chardonnay, and even some lovely sparkling wines from Australia. I’d be happy to recommend one based on your taste preferences!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“For example, the Shuras, which one, it's quite special.”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Absolutely! Our Shiraz selection includes some exceptional ones, like a Barossa Valley Shiraz, known for its rich flavors and bold character, and also a McLaren Vale Shiraz, which is beautifully balanced and smooth. Either one would be a fantastic choice!"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "“Actually, for me, it's perfect, that one. I think, actually, it's quite cheap. But one of my friends, he's really picky. So you guys have any really, really good wine? Maybe any Shiraz, but a very special one?”"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Absolutely, we have some premium Shiraz options as well. For instance, we have a premium Penfolds Shiraz, which is absolutely exquisite and well-known for its complexity and depth. That would definitely impress your friend! Just let me know if that sounds good, and we can arrange it."
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Yeah, or maybe any chapter name.”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Absolutely, we have some fantastic Australian Chardonnays as well! For example, a Yarra Valley Chardonnay is known for its bright acidity and elegant fruit flavors, and we also have some top-tier, barrel-aged Chardonnays that are truly special. Let me know if that interests you!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“Yeah, can I know, please, about a quite special chat tonight?”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Of course! One really special Chardonnay is the Penfolds Reserve Chardonnay, which offers a rich, complex profile with notes of citrus, stone fruit, and a hint of oak. It’s definitely a standout and would be perfect for a special occasion. Let me know if that catches your interest!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“Yeah, which one is the most fancy chat grenade that you have guys?”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "One of the most luxurious Chardonnays we offer is the Leeuwin Estate Art Series Chardonnay from Margaret River. It’s absolutely renowned for its elegance, complexity, and beautiful balance. It’s definitely a top-tier choice and perfect for a special celebration! Let me know if that sounds good to you."
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“Yeah, maybe. Or can I know something about any good Pinanuaq, for example, from Tasmania? Tasmania Island?”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Absolutely! Tasmanian Pinot Noir is fantastic, and we have some excellent options. For instance, the Tolpuddle Vineyard Pinot Noir is highly acclaimed, known for its finesse, bright fruit flavors, and elegant structure. It’s definitely a wonderful choice if you’re looking for something special from Tasmania! Let me know if that sounds good."
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“Sounds perfect. You guys...”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Great! I’m really glad that sounds good to you. If you need any more details or have any other requests, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "“Yeah, actually, can you wait me just for a while?”"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "Of course! I’m here for as long as you need. Just let me know what you’d like to chat about or if there’s anything else I can do for you."
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“Yeah, I have a new question, actually. I have my dog. He's a Samoyed of bread. Samoyed of bread, sorry. It's any problem if he go with me? Because we are going to stay outside, as you remember.”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "Oh, that sounds lovely! We’re definitely pet-friendly in the outdoor area, so your Samoyed will be more than welcome to join you. Just let us know if you need anything special for him, and we’ll make sure everything’s comfortable!"
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "“Oh, thank you so much. Actually, it's going to be a cold night. It's going to be a long night. What time are you going to close the restaurant, guys?”"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "You're very welcome! Our restaurant typically closes around 10 p.m., so you'll have plenty of time to enjoy the evening. If you need anything to keep your pup comfy or have any other requests, just let us know!"
+    },
+    {
+      "turn": 79,
+      "speaker": "learner",
+      "text": "“Yeah, actually, maybe I have any specific question. You guys have any special dinner for tonight?”"
+    },
+    {
+      "turn": 80,
+      "speaker": "bot",
+      "text": "Absolutely! For tonight, we do have some special dishes, like a chef’s special seafood platter and a unique seasonal dessert that we’re featuring. It’s definitely going to be a treat, and we’re excited to share it with you! If you have any preferences, just let me know."
+    },
+    {
+      "turn": 81,
+      "speaker": "learner",
+      "text": "“Yeah, actually, I don't have restrictions for food. Can I know a little bit more about this seafood dish, please?”"
+    },
+    {
+      "turn": 82,
+      "speaker": "bot",
+      "text": "Of course! Our seafood platter tonight includes a delightful mix of fresh oysters, succulent prawns, tender scallops, and some grilled fish, all served with a zesty dipping sauce and a side of seasonal vegetables. It’s definitely a feast for seafood lovers!"
+    },
+    {
+      "turn": 83,
+      "speaker": "learner",
+      "text": "“Oh, thank you. Actually, seafood is my favorite food, so sounds fantastic. I think I'm really enjoying your dish.”"
+    },
+    {
+      "turn": 84,
+      "speaker": "bot",
+      "text": "That’s wonderful to hear! I’m sure you’ll have a fantastic time and really enjoy the seafood. If you have any other questions or need anything else, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 85,
+      "speaker": "learner",
+      "text": "“Yeah, my friend, one of my friends, you remember the museum guy, he's asking for any specific dish, a special one, can you repeat to me any to tell him?”"
+    },
+    {
+      "turn": 86,
+      "speaker": "bot",
+      "text": "Of course! For your friend, we have some great pork-free options, like our grilled vegetable platter, a delicious quinoa-stuffed bell pepper, and even a hearty vegetable risotto. All of these are full of flavor and perfect for his dietary needs. Just let him know, and we’ll make sure he’s well taken care of!"
+    },
+    {
+      "turn": 87,
+      "speaker": "learner",
+      "text": "“Oh, thank you. We are five of us, can we separate the bill, or is it mandatory for one person to pay?”"
+    },
+    {
+      "turn": 88,
+      "speaker": "bot",
+      "text": "Absolutely, you can definitely split the bill however you prefer. We’re more than happy to accommodate separate payments for each person, so no worries at all! Just let us know when you're ready, and we’ll make it smooth and easy."
+    },
+    {
+      "turn": 89,
+      "speaker": "learner",
+      "text": "“Oh, thank you so much. I think that's all, so I'm going to see you guys in a couple hours. Thank you so much. You're very, very kind.”"
+    },
+    {
+      "turn": 90,
+      "speaker": "bot",
+      "text": "You're so welcome! It’s been my pleasure to help, and we’re looking forward to having you all tonight. Have a wonderful time, and we’ll see you soon!"
+    },
+    {
+      "turn": 91,
+      "speaker": "learner",
+      "text": "“You're still saying, please, have a beautiful day.”"
+    },
+    {
+      "turn": 92,
+      "speaker": "bot",
+      "text": "Thank you so much! You have a wonderful day as well, and we’ll be ready to welcome you later. Take care!"
+    }
+  ]
+}

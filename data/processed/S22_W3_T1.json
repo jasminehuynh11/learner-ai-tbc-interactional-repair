@@ -1,0 +1,395 @@
+{
+  "student_id": 22,
+  "week": 3,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S22_W3_T1",
+  "source_file": "data\\raw\\#22\\#22\\#22. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Reporting an Internet Outage at Your Housing"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, my internet is not working today."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hi there, thanks for contacting us today. I’m sorry you’re having trouble with your internet, but don’t worry, I’ll help you check what’s going on. Can you tell me when you first noticed the problem?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "It was working in the morning, but after lunch time, suddenly no internet."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Okay, thank you for explaining that clearly. So it was fine earlier today and then stopped after lunch. That timing is helpful. Are you using Wi-Fi, or are you connected with a cable as well?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "I use Wi-Fi, but I also tried cable and still same problem."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, that’s very helpful information. If both Wi-Fi and cable aren’t working, it could be a wider connection issue. Let’s check a few basic things together first. Have you already tried restarting your modem or router?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Sorry, modem and router is same thing?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That’s a great question, and many people ask that. They’re usually two different devices, but sometimes they’re combined into one box. Can you see one box or two boxes near where your internet is set up?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "I see two boxes. One small, one little bigger."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Perfect, thanks for checking. That means you have a modem and a router. Have you restarted both of them, or just one?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "I restarted small one only. I didn’t touch the big one."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "No problem at all, that’s very common. Let’s try restarting the bigger one as well, just to be sure. You can turn it off, wait about 30 seconds, and then turn it back on. Let me know when you’ve done that."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Okay, I will wait."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Take your time, that’s fine. While you’re waiting, I’ll stay here with you. Just tell me when it’s back on."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "It’s back on now. But internet still not working."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Thanks for checking that carefully. Since restarting didn’t fix it, let’s look at the lights on the modem. Can you tell me what colour lights you see and whether any are blinking?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "One light is red. Another light is green blinking."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Okay, that’s very useful to know. A red light usually means there’s a connection issue coming from outside your apartment, not something you’ve done wrong."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Does red light mean broken internet?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Not broken permanently, no. It usually just means the service is temporarily down. Once the issue is fixed, the light should return to green."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Ah okay. So it will come back?"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Yes, in most cases it does. What I’ll do next is check whether there’s an outage in your building or area. To do that, I’ll need to confirm your address. Is that okay?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Yes. I don’t remember account number. Can I tell address?"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "That’s completely fine. An address is enough. Please tell me your full address, including the apartment number."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "It’s 12 King Street, apartment 305."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Thank you. Please hold for a moment while I check our system. This might take a few seconds."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Thanks for waiting. I can see that there is a reported outage affecting your building at the moment."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Oh really? So many people same problem?"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Yes, that’s right. Multiple residents in your building are experiencing the same issue, so it’s not just your apartment."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "When did outage start?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "According to our records, it started around  pm today."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Yes, that is same time for me."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "That lines up exactly with what you described earlier, so that confirms it’s a network issue."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "When will it be fixed?"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "The current estimate is later tonight. Our technicians are already working on it."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Tonight meaning what time?"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Good question. Tonight means before midnight."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Before midnight… so maybe 10 or 11 pm?"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Yes, that’s a reasonable expectation, although sometimes it can be earlier."
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "If not fixed tonight, what should I do?"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "If it’s not fixed by tomorrow morning, you can contact us again, and we can either escalate the case or arrange a technician visit."
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "Technician visit is free?"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "Yes, it’s free if the issue is on our side, which this one appears to be."
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "If problem is my side, I need to pay?"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "Only if the issue is caused by personal equipment, but based on this outage, that’s very unlikely."
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "Okay. I think it’s building problem."
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Yes, I agree with you. Everything points to a building-wide issue."
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "Can I ask one more question?"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "Of course, feel free to ask as many questions as you need."
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "If I work from home tomorrow and still no internet, what can I do?"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "That’s an important question. If the outage continues, we can provide a written confirmation by email so you can show your employer. We can also advise temporary solutions like mobile data."
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "Written confirmation meaning email?"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "Yes, exactly. An email confirming the outage and the repair status."
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "Can you send me that email?"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Yes, I can arrange that now. Let me just confirm your email address. Is the one we have on file still correct?"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "I’m not sure. Can I tell you again?"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Yes, please go ahead."
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "It’s laila22@gmail.com."
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "Thank you. I’ll send the confirmation email later today."
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "Okay. And can I get reference number also?"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Yes, definitely. It’s always good to have one. Your reference number is 73942. I’ll say it slowly for you."
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "Sorry, can you say again slowly?"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "Of course. Seven… three… nine… four… two."
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "Seven three nine four two. Correct?"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "Yes, that’s exactly right."
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "I will write it down now."
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "No problem at all. Take your time."
+    },
+    {
+      "turn": 70,
+      "speaker": "learner",
+      "text": "If I call again, I say this number?"
+    },
+    {
+      "turn": 71,
+      "speaker": "bot",
+      "text": "Yes, that will help us find your case quickly."
+    },
+    {
+      "turn": 72,
+      "speaker": "learner",
+      "text": "Okay. Thank you very much for your help today."
+    },
+    {
+      "turn": 73,
+      "speaker": "bot",
+      "text": "You’re very welcome. You explained the problem very clearly, and you did all the right checks. If anything changes or you have more questions, please don’t hesitate to contact us again."
+    },
+    {
+      "turn": 74,
+      "speaker": "learner",
+      "text": "Just confirm, internet will be back tonight, right?"
+    },
+    {
+      "turn": 75,
+      "speaker": "bot",
+      "text": "Yes, that’s the current estimate. We’ll keep monitoring it."
+    },
+    {
+      "turn": 76,
+      "speaker": "learner",
+      "text": "Okay. I will wait and check later."
+    },
+    {
+      "turn": 77,
+      "speaker": "bot",
+      "text": "Sounds good. I hope it’s resolved soon. Have a good evening, and thanks again for your patience."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "dialogue_id": "S26_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      2,
+      3,
+      4
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "task misunderstanding – bot misunderstood current task/topic",
+    "evidence_summary": "The bot in turn 2 assumed the conversation was about a rental property, but the learner in turn 3 explicitly corrected the topic to an internet issue. The bot acknowledged and accepted the new topic in turn 4, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S26_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      11,
+      12,
+      16
+    ],
+    "initiation": "BI",
+    "resolution": "U-P",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner stated their location as 'Crawley Park' in turn 11. The bot misrecognized this as 'Crawley Port' in turn 12 and repeated the incorrect location in turn 16. The learner did not correct the bot, indicating the misrecognition persists."
+  },
+  {
+    "dialogue_id": "S26_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      17,
+      18,
+      21,
+      22
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "bot's unclear answer – bot deferred answering the question",
+    "evidence_summary": "The learner asked about technician availability in turn 17, but the bot gave a deferred answer in turn 18. The learner repeated the exact question in turn 21, prompting the bot to give a clear 'Yes' in turn 22, resolving the learner's uncertainty."
+  }
+]

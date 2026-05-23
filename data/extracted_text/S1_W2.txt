@@ -1,0 +1,266 @@
+Task 1: APPOINTMENT
+
+You said: 
+ “Hello, this week I want to practice calling a clinic to make a medical appointment. You are the receptionist. I'll be the patient. Please respond if this were a real conversation. Help me schedule a check-up appointment, ask questions about my symptoms, and refer time and give me options for available times and doctors. Ask follow-up questions if I seem confused.”
+00:41
+English Conversational Partner said:
+Absolutely, I’d be happy to help! So, let’s start with your symptoms. Can you tell me what symptoms you’ve been experiencing and how long they’ve been going on? Then we can move on from there!
+You said:
+“Okay, I try to book in a doctor's appointment.”
+00:07
+English Conversational Partner said:
+Of course! We can definitely get that sorted out. Could you let me know which day and time would work best for you? That way, we can find a suitable slot with the doctor.
+You said:
+“Okay, I will go on Wednesday or Friday in the evening is good for me.”
+00:13
+English Conversational Partner said:
+Got it! So, we’ll look for an evening slot on either Wednesday or Friday. Could you also let me know if you have a preference for a specific doctor, or if any available doctor would be fine?
+You said:
+“Yes, I want to have a live with doctor, please.”
+00:06
+English Conversational Partner said:
+Perfect, that helps a lot! Now, just to confirm, could you share a bit more about the specific symptoms you’re experiencing? That way, we can make sure the doctor is fully prepared.
+You said:
+“Yes, for the change of the season, I feel tired, and I have a cough, and I have migraine, and I don't know if I have fever, but my temperature is really high.”
+00:25
+English Conversational Partner said:
+I see, that definitely gives us a good picture. Thanks for sharing all those details. Now, let’s find the best available time for you. Would you prefer an appointment on Wednesday evening or Friday evening? Let me know what works best!
+You said:
+“Maybe Wednesday evening, please.”
+00:03
+English Conversational Partner said:
+Alright, Wednesday evening it is! I'll check the available slots for you with Dr. Kline. Is there anything else you'd like to mention or any other questions before we finalize the appointment?
+You said:
+“Maybe how long is the current wait.”
+00:07
+English Conversational Partner said:
+Of course! Usually, appointments in the evening last about 30 to 45 minutes, depending on the complexity of your symptoms. That should give the doctor enough time to go over everything thoroughly. If you have any other concerns, just let me know!
+You said:
+“Yes, is it okay if I come in 10 minutes early?”
+00:08
+English Conversational Partner said:
+Absolutely, that’s perfectly fine! We can definitely arrange it so that you come in about 10 minutes early. That way, you’ll have some time to check in and get settled. If there’s anything else you need, just let me know!
+You said:
+“Yes, though I need to bring my Bupa insurance because I don't have Medicare.”
+00:09
+English Conversational Partner said:
+Got it, no worries at all! We can definitely accommodate that. Just bring your insurance information when you come in, and we’ll take care of the rest. If you have any other questions or concerns, I’m here to help!
+You said:
+“Yes, I need a medical certificate for work.”
+00:03
+English Conversational Partner said:
+Absolutely, that's no problem at all. You can bring your medication list along, and we’ll make sure the doctor has all the information needed. If there’s anything else you think of, just let me know!
+You said:
+“Maybe not, since I'll see you at, you remember the time, the clock to my appointment, please? It's on Wednesday, but I don't remember the time.”
+00:14
+English Conversational Partner said:
+Of course! I’ll double-check the exact time for your Wednesday evening appointment and confirm it for you. I’ll send you all the details, and if you have any other questions, just let me know!
+You said:
+“Okay, thank you, that really helped.”
+00:05
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you need anything else at all, just let me know. Looking forward to seeing you on Wednesday, and take care!
+You said:
+“I appreciate your time, bye for now.”
+00:02
+English Conversational Partner said:
+No worries at all! I'll make sure everything is confirmed, and if anything changes, just let me know. Have a great day, and I’ll be here if you need anything else!
+
+
+Task 2: VISITING A BANK
+
+You said: 
+
+“Hi, hello, I want to practice to visiting a local bank branch or calling customer service to request help with everyday banking service, I may need to open a new account, I would not update my details or ask about specific features such as only in banking or international transfer, because my bank in Colombia built my car, and if you can't to be a person that answer my call to the bank, yes, I play the role of customer, please create a realistic and authentic bank situation and responding and ask if this were our conversation. Okay, we can start.”
+01:30
+English Conversational Partner said:
+Absolutely, I can help with that! We can definitely start by talking about the kind of services you’re looking for, and then we can go through the steps of booking an appointment, as well as how to get the right information from your insurance. Let’s go step-by-step, and if you have any specific questions along the way, I’m here to help!
+You said:
+“okay i opening a new one account okay okay hi i like to open a new save an account”
+00:10
+English Conversational Partner said:
+Sure, I'd be happy to help with that! Let's start with a few details. Is this account for personal or business use? And then we can go from there!
+You said:
+“Iso personal account, please.”
+00:02
+English Conversational Partner said:
+Perfect, got it! So, to get started, I'll just need a few details like your full name, your contact information, and maybe some identification details. Once we have that, we can move on to setting up everything for you. Sound good?
+You said:
+“Yes, my name is Julieth Angarita, my birthday is 7th of April of 1996, and my address is Naivara Street, Paradise.”
+00:19
+English Conversational Partner said:
+Great, thank you for sharing that information, Julieth! That definitely helps us get started. Next, we can move on to verifying your identity and then selecting the account type and any additional preferences. If you have any questions along the way, just let me know!
+You said:
+“Yes, um...”
+00:02
+English Conversational Partner said:
+All right, perfect!
+You said:
+“What types of accounts are available for students?”
+00:05
+English Conversational Partner said:
+Absolutely, we can definitely do that. I’ll make sure we go through all the options and find the best fit for you. And if you have any other questions or need more details at any point, just let me know, and I’m here to help!
+You said:
+“which documents I need to bring.”
+00:04
+English Conversational Partner said:
+You’ll typically need a valid photo ID, like a driver’s license or passport, and any proof of address, such as a utility bill or bank statement. If you have any specific documents related to your previous accounts, that can also be helpful. But we’ll guide you through it step by step!
+You said:
+“Okay, can I open an account without job?”
+00:04
+English Conversational Partner said:
+Absolutely, you can! We can definitely start the process and get everything set up without needing an initial deposit. Once your account is fully established, we can always add funds later on. Let me know if you have any other questions!
+You said:
+“Yes, my last phone number is not good. I need to update my phone number and”
+00:15
+English Conversational Partner said:
+Got it, that makes
+You said:
+“Yeah, no, it's okay.”
+00:02
+English Conversational Partner said:
+No worries at all! Whenever you’re ready, we can update that information and make sure everything is accurate. Just let me know if you need any assistance along the way!
+You said:
+“Yes, my new number is 0480722457.”
+00:12
+English Conversational Partner said:
+Perfect, thanks for sharing that! I’ll make sure we update your contact details accordingly. If there’s anything else you need or any other information you’d like to add, just let me know, and I’m here to help!
+You said:
+“Yes, maybe do you offer debit cards with this account?”
+00:06
+English Conversational Partner said:
+Absolutely, we can definitely go over that. I’ll make sure we review all the fees and charges associated with the account so you know exactly what to expect. If you have any specific questions about the costs, just let me know, and we’ll cover everything thoroughly!
+You said:
+Transcript Unavailable
+00:05
+English Conversational Partner said:
+Great question! Typically, the debit card comes with no initial fee, and there might be some small transaction fees depending on usage. We’ll go over all the details so you have a clear picture. And of course, if you have any other questions, I’m here to help!
+You said:
+“Yeah, I said that my bank blocked my credit card in Colombia. I don't know if you could help me and I don't know what is the process for telling Colombia that my card is blocked.”
+00:23
+English Conversational Partner said:
+I understand, and I’m happy to help with that. We can definitely look into the issue with your card and see what might be causing the block. If you can share any details or any error messages you received, we can try to figure out the best steps to resolve it. Just let me know what you need!
+You said:
+“Yes, I received a message, but I don't understand.”
+00:07
+English Conversational Partner said:
+No worries at all; I’m here to help you every step of the way. We can definitely go through the details together and figure it out. Just let me know any specific concerns you have, and we’ll work through them one by one!
+You said:
+“Yes, but I prefer to  face-to-face because I don't like to speak here for fun about my details, my bank details.”
+00:12
+English Conversational Partner said:
+I completely understand, and your privacy is definitely important. We can handle everything securely and discreetly. If you prefer, we can also go over things in smaller steps or even through a more private channel. Just let me know what you’re comfortable with, and we’ll make sure everything goes smoothly.
+You said:
+“Now it's okay, I'll follow the instructions and maybe... I don't know when I call to go to the bank.”
+00:12
+English Conversational Partner said:
+That’s totally fine! Whenever you’re ready, you can just reach out, and we can schedule the best time for you. In the meantime, if you have any questions or need any assistance, I’m always here to help. Just let me know whenever it’s convenient for you!
+You said:
+“Yes, what is the schedule for the BANK?”
+00:02
+English Conversational Partner said:
+That’s a great question! Usually, we can start by gathering a bit of basic information and then choose a convenient time that works best for you. From there, we can go over any specific needs or preferences you have. And of course, I’m here to help with any questions that pop up along the way!
+You said:
+“Okay, now eat that Anguirus, that Anguirus costumes have a great day.”
+00:07
+English Conversational Partner said:
+Thank you so much! I really appreciate that, and I’m always here if you need anything in the future. Have a wonderful day, and take care!
+You said:
+“Thank you.”
+00:00
+English Conversational Partner said:
+Goodbye! Take care, and have a great day! 
+
+
+Task 3: rental property or house inspection.
+
+You said: 
+“Okay, this practice is about a rental property or house inspection. Maybe you are the real estate agency and I am a customer and I need to, maybe I want to attend an inspection or ask about the application process or follow up after submitting my documents. You are a property manager or a real estate agent and I am a customer and asking about this pension.”
+01:03
+English Conversational Partner said:
+Absolutely, I'm here to help whenever you need. Just let me know what you need assistance with, and I'll do my best to support you. Feel free to reach out anytime. Take care and talk to you soon!
+You said:
+“Yes, ISR-HI, I am interested in the two-bedroom unit or main street.”
+00:14
+English Conversational Partner said:
+No worries at all! I'm here whenever you need, and feel free to reach out with any questions or anything at all. Have a great one, and I’ll be here when you need me!
+You said:
+“yeah is it properly furnished or un-furnished?”
+00:05
+English Conversational Partner said:
+In general, it's always good to be cautious and protect your privacy. If you have any concerns about sharing personal information, definitely keep it to what’s necessary. And if you ever need advice on what to share, I’m happy to help!
+You said:
+Transcript Unavailable
+00:01
+English Conversational Partner said:
+You're very welcome! If you have any other questions or need anything at all, just let me know. Take care and talk to you soon!
+You said:
+“Our pets allow it.”
+00:02
+English Conversational Partner said:
+Of course, it’s my pleasure! Anytime you need help, I’m here for you. Have a great day!
+You said:
+“Okay, this time I practice about the rental property. You are the real estate agent and I am looking for a property for rent, okay?”
+00:25
+English Conversational Partner said:
+Absolutely, that sounds great! I’m glad I could help, and if you need anything else in the future, just reach out. Have a wonderful day!
+You said:
+“Okay, hi, I am interested in the two-bedroom unit on Main Street.”
+00:08
+English Conversational Partner said:
+Oh, I'm sorry to hear that you're not feeling well. I hope you get better soon! If there's anything I can do to help or if you need any assistance, just let me know. Take care!
+You said:
+“Yes, I need appropriate furnishings. Is appropriate furnishings.”
+00:07
+English Conversational Partner said:
+Of course! If you let me know the details or the specific information you need, I’d be happy to help you put that together. Just let me know what you have in mind!
+You said:
+“Yes, I need a bed, a mattress, and a kitchen with cabinets or a sofa and couch in the living room, maybe.”
+00:17
+English Conversational Partner said:
+Got it! I can definitely help with that. If you can share a bit more about what details you need included, like the specific names or any particular requirements, I’ll help you draft that properly. Just let me know!
+You said:
+“Yes, I need to know if our pets allow it.”
+00:07
+English Conversational Partner said:
+Absolutely, I can help with that. If you let me know the specific details or any particular information you want included, I’ll make sure to get it all sorted for you. Just let me know what you need!
+You said:
+“Do I need to register before attending?”
+00:02
+English Conversational Partner said:
+It’s generally a good idea to give some notice, like at least a day or two, but it can depend on the policies of the place you’re working with. If you let me know a bit more context, I can help you figure out the best approach.
+You said:
+“Can I apply online or do I need to visit the office?”
+00:05
+English Conversational Partner said:
+It really depends on the specific organization or service. Some places do allow you to do it entirely online, while others might require you to visit in person or give a call. If you let me know which service or organization you’re dealing with, I can give more tailored advice!
+You said:
+“Okay, but you are a real estate agent, you save me if I come to apply online, please?”
+00:12
+English Conversational Partner said:
+Absolutely, I’m happy to help with that! Just let me know the details you have in mind, and I’ll do my best to guide you through it. Feel free to share whatever you need, and we’ll go from there!
+You said:
+“Yeah, what documents do I need to include with my application?”
+00:05
+English Conversational Partner said:
+That sounds good! Whenever you’re ready, just let me know the specifics of your application, and I’ll be here to help you out step by step. No rush at all!
+You said:
+“Grazie per l'informazione.”
+00:04
+English Conversational Partner said:
+You’re very welcome! I’m glad I could help. If you have any more questions or need assistance in the future, just let me know. Have a great one!
+You said:
+“Yes, when does the list start if I am approved?”
+00:08
+English Conversational Partner said:
+Absolutely, that makes sense! Just let me know whenever you're ready, and we can tackle it together. Take your time, and I’m here whenever you need me!
+You said:
+“Si alguien mas nos oferece alimentos, como escogeis?”
+00:05
+English Conversational Partner said:
+Of course! I’m always happy to help out whenever you need it. Just reach out anytime, and we’ll get everything sorted. Take care and talk to you soon!
+You said:
+“Okay, it's all for today. Thank you so much.”
+00:03
+English Conversational Partner said:
+You're very welcome! It was my pleasure. If you need anything else, just let me know. Have a wonderful day!

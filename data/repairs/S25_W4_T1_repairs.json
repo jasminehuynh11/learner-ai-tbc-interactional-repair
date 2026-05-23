@@ -1,0 +1,27 @@
+[
+  {
+    "dialogue_id": "S25_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's unclear phrasing",
+    "evidence_summary": "The learner's question 'Is it suit?' is unclear but does not indicate a misunderstanding. The bot responds positively about studying overseas, but the learner's original phrasing is not clarified or corrected."
+  },
+  {
+    "dialogue_id": "S25_W4_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      24,
+      25,
+      26
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "clarification request – learner asks for repetition",
+    "evidence_summary": "In turn 24, the learner asks the bot to repeat its previous statement. The bot complies in turn 25, and the learner acknowledges with 'Thank you' in turn 26, indicating the issue is resolved."
+  }
+]

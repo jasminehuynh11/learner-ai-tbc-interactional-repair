@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S39_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand 'budget range'",
+    "evidence_summary": "The learner asks for repetition in turn 9, indicating they did not understand the bot's question about the budget range. The bot repeats the question in turn 10, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S39_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      35,
+      36
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand 'lease start date'",
+    "evidence_summary": "The learner asks for repetition in turn 35, indicating they did not understand the bot's explanation about the lease start date. The bot repeats the information in turn 36, and the conversation continues smoothly, indicating the issue was resolved."
+  }
+]

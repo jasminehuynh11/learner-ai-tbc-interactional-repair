@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S43_W3_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      10,
+      11
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – 'outers' instead of 'outages'",
+    "evidence_summary": "The learner used the incorrect word 'outers' in turn 10. The bot implicitly corrected this by responding with information about 'outages' in turn 11, showing successful interpretation and resolution of the lexical error."
+  },
+  {
+    "dialogue_id": "S43_W3_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      16,
+      17
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "unclear phrasing/grammar – 'As soon as 3 is time worth, please.'",
+    "evidence_summary": "The learner's utterance 'As soon as 3 is time worth, please' in turn 16 was grammatically unclear. The bot successfully interpreted this as a request to check the status for 'Unit 3' in turn 17, resolving the ambiguity and allowing the conversation to progress."
+  },
+  {
+    "dialogue_id": "S43_W3_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      18,
+      19
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "lexical error – 'outreach' instead of 'outage'",
+    "evidence_summary": "The learner used the incorrect word 'outreach' in turn 18. The bot implicitly corrected this by responding with information about a 'reported outage' in turn 19, showing successful interpretation and resolution of the lexical error."
+  }
+]

@@ -1,0 +1,317 @@
+Task 1: 
+You said:
+“Hi, my computer has stopped working.”
+00:03
+English Conversational Partner:
+Oh no, I’m sorry
+You said:
+“Oh no, I'm sorry.”
+00:00
+English Conversational Partner:
+Let’s see how we can
+You said:
+“Let's see how we do.”
+00:00
+English Conversational Partner:
+Could you tell me a bit more about what exactly happened? For example, are you seeing any error messages, or is it just not turning on at all?
+You said:
+“Hi, my computer has stopped working.”
+00:03
+English Conversational Partner:
+Oh, I’m sorry to hear that! Could you let me know what kind of computer it is and what was happening right before it stopped working? That’ll help me figure out what to do.
+You said:
+“I think any lights on my monitor at all.”
+00:05
+English Conversational Partner:
+Got it, that sounds like a connectivity issue. Are you able to see any lights on your computer or on the monitor at all? And is it just the monitor that’s not displaying, or is the computer completely unresponsive?
+You said:
+“I think any lights on my monitor at all. When I connect...”
+00:10
+English Conversational Partner:
+Alright, that’s helpful
+You said:
+“When I connect to my monitor, the screen flickers.”
+00:07
+English Conversational Partner:
+I see, a flickering screen definitely points to some kind of signal or connection issue. Have you tried checking the cable connections or maybe testing the monitor with another device to see if it works fine?
+You said:
+“I tried checking already the cable, but it doesn't work.”
+00:06
+English Conversational Partner:
+Got it, that’s good to know. In that case, we might want to try something else, like testing the monitor with another computer or trying a different cable. Have you got another device handy to test it with?
+You said:
+“Sorry, I tried a different cable already.”
+00:06
+English Conversational Partner:
+No worries, that’s really helpful to know. In that case, it might be worth checking the graphics card or the computer’s settings. Have you tried restarting the computer or connecting it to a different power outlet to see if that helps?
+You said:
+“I have tried restarting the computer. Actually, it is not a computer, just a laptop.”
+00:10
+English Conversational Partner:
+Ah, I see, it’s your laptop. Thanks for clarifying! In that case, have you tried adjusting the brightness or checking if the laptop’s battery is fully charged? Sometimes that can help as well.
+텍스트 기록 사용할 수 없음
+00:00
+English Conversational Partner:
+Alright, no problem!
+You said:
+“Oh, I should try it.”
+00:02
+English Conversational Partner:
+Absolutely, give it a go, and let me know how it turns out. And if there’s anything else I can help with, just let me know!
+You said:
+“Is there a technician available today?”
+00:03
+English Conversational Partner:
+Yes, absolutely! I can help arrange that for you. Could you let me know your location or the best time for the technician to come by?
+You said:
+“Can you check if there is an outage in the area?”
+00:05
+English Conversational Partner:
+Of course, I can do that! Could you let me know the name of your city or the area you’re in, so I can look up the available technicians for you?
+You said:
+“I live in Sydney.”
+00:02
+English Conversational Partner:
+Great, thanks for letting me know! I’ll check for available technicians in Sydney and let you know the options. Give me just a moment.
+텍스트 기록 사용할 수 없음
+00:00
+English Conversational Partner:
+Alright, I’ll take a quick look and get back to you with some options as soon as I can. Hang tight, and I’ll let you know what I find!
+You said:
+“Okay, sure.”
+00:01
+English Conversational Partner:
+All right, I’ll get that sorted for you and let you know shortly. If you have any other questions in the meantime, just let me know!
+You said:
+“What should I try before you send someone?”
+00:04
+English Conversational Partner:
+That’s a great question! Before we send a technician, it might help to try a few more things, like performing a hard reboot, checking for any recent software updates, or even running a built-in diagnostic tool if your laptop has one. Let me know if you’d like more guidance on any of those steps!
+You said:
+“Sorry, I don't know how to running a built-in diagnostic tool.”
+00:09
+English Conversational Partner:
+No worries at all! I’d be happy to guide you through it. Depending on your laptop brand, there are usually specific keys you can press during startup, or you might have a built-in app in your settings. If you let me know your laptop’s brand, I can walk you through the exact steps!
+You said:
+“Thank you, but should I watch two guides for me”
+00:08
+English Conversational Partner:
+Of course! I’ll be
+You said:
+"On YouTube."
+00:01
+English Conversational Partner:
+Got it! That sounds like a great idea. There are definitely some helpful tutorials on YouTube that can walk you through the process step-by-step. And of course, if you have any questions along the way, I'm here to help as well!
+You said:
+“Please give it to me, the link.”
+00:03
+English Conversational Partner:
+Absolutely! I can definitely help you find a good tutorial. Just let me know the brand of your laptop, and I’ll look up a suitable video for you. Let me know whenever you’re ready!
+You said:
+“My laptop's brand is Samsung.”
+00:03
+English Conversational Partner:
+Perfect, thanks for that! I’ll find a Samsung laptop diagnostic guide for you and share the link in just a moment. Stay tuned!
+You said:
+“Should I wait here or will someone call me?”
+00:04
+English Conversational Partner:
+I’ll go ahead and find that for you right now, and I’ll share the link here as soon as I have it. If you need more help afterwards, we can definitely arrange for someone to call you as well. Just let me know!
+You said:
+“When come the technician for me?”
+00:04
+English Conversational Partner:
+Once we figure out the issue and if we do need a technician, I can coordinate that for you as well. Usually, it depends on their availability, but we’ll aim for the earliest possible time. Once we have more details, I’ll let you know the exact timing.
+You said:
+“I want to meet he or she today, but it cannot. I can't.”
+00:13
+English Conversational Partner:
+I understand! We’ll do our best to get someone out to you as soon as possible. If today isn’t possible, we can definitely arrange the next earliest available slot. Just let me know what works best for you, and we’ll make it happen!
+You said:
+“Here I meet the technician end of the weekend.”
+00:04
+English Conversational Partner:
+That sounds like a plan! I’ll do my best to schedule the technician for the weekend, and I’ll keep you updated on the availability. If anything changes or you have any preferences, just let me know!
+You said:
+“If the service isn't fixed by today, do I get a refund or credit?”
+00:06
+English Conversational Partner:
+That’s a great question! Typically, service providers do offer either a refund or a credit if the issue isn’t resolved in a timely manner. I can definitely confirm the details with the provider and make sure you’re covered. Once we arrange the service, I’ll let you know exactly what to expect.
+You said:
+“Here I took the extra charge.”
+00:03
+English Conversational Partner:
+I understand, and I’ll make sure everything is clear and fair for you. If you have any specific concerns or questions about the service charges, just let me know, and I’ll make sure we address them thoroughly.
+You said:
+“I think I'm hearing weak now. So I don't... I cannot...”
+00:15
+English Conversational Partner:
+I’m really sorry to
+You said:
+“Extra Charge”
+00:01
+English Conversational Partner:
+I completely understand. I’ll make sure we keep everything transparent and fair, and we’ll do our best to avoid any extra charges. If you have any concerns or need further assistance, just let me know, and I’m here to help every step of the way.
+You said:
+“Thank you. Also, this has happened three times this week. What can be done?”
+00:07
+English Conversational Partner:
+I’m sorry you’ve had to deal with this so often. In that case, we can definitely look into more permanent solutions, like a thorough hardware check or even exploring a replacement if needed. We’ll make sure to get to the bottom of it and ensure it’s resolved for good. Just let me know how you’d like to proceed, and I’m here to help.
+You said:
+“Is it possible to change to a different monitor for free?”
+00:24
+English Conversational Partner:
+That’s definitely something we can explore. If your monitor is still under warranty or if it’s part of a service plan, we might be able to arrange a replacement at no extra cost. Let me check the details for you, and I’ll do my best to help get that sorted out.
+You said:
+“I still believe it is warranty year.”
+00:03
+English Conversational Partner:
+That’s great to hear! In that case, we can definitely look into the warranty coverage and see if a replacement or repair is possible at no additional cost. I’ll get the details and help you through the process, so we can get everything resolved smoothly for you.
+You said:
+“If you can't solve today, who will be able to contact?”
+00:05
+English Conversational Partner:
+If it’s not resolved today, you can definitely reach out to the customer support hotline or the dedicated warranty service. I can also provide you with the contact details or even help escalate the issue if needed. Just let me know, and I’ll make sure you have all the support you need.
+You said:
+“Can you give me a reference number for this request?”
+00:04
+English Conversational Partner:
+Absolutely! Once we have your request fully logged, I’ll make sure to provide you with a reference number so you can easily track everything. Just let me know when you’re ready, and I’ll get that set up for you right away.
+You said:
+“Thank you. Have a good day.”
+00:02
+English Conversational Partner:
+You're very welcome! You have a great day as well, and if you need anything else, just let me know. Take care!
+
+
+Task 2:
+You said:
+“Excuse me, I'm calling from home. I'm staying at this hotel, and I believe I left my dress, the casual dress, in my room. Could you help me check?”
+00:19
+English Conversational Partner:
+Absolutely, I'd be happy to help. Could you let me know your room number and the date you checked out so we can look into it for you?
+You said:
+“My room number was 603.”
+00:03
+English Conversational Partner:
+Great, thank you! And could you also let me know the date you checked out, just to help us narrow it down?
+You said:
+“It was today morning.”
+00:02
+English Conversational Partner:
+Got it, thank you! I’ll check with housekeeping and see if they found anything in room 603. Is there any specific detail about the dress that might help us identify it?
+You said:
+“It is a casual dress and it has many”
+00:06
+English Conversational Partner:
+Alright, got it! If you can share any details like the color or the pattern, that would definitely help us identify it more easily. Could you let me know?
+You said:
+“It has many buttons and the color is white.”
+00:07
+English Conversational Partner:
+Perfect, that definitely helps. I'll let housekeeping know about the white dress with many buttons in room 603. We'll get back to you as soon as we have any updates. Is there anything else I can assist you with in the meantime?
+You said:
+“I want to speak another details. It has, on the left side, you can see a mini pocket.”
+00:17
+English Conversational Partner:
+Got it, that’s really helpful! So, a white dress with many buttons and a mini pocket on the left side. That should definitely help us narrow it down. We'll keep you updated as soon as we find it. Anything else I can help you with right now?
+You said:
+“Also, the length is very long. Maybe it looks like...”
+00:08
+English Conversational Partner:
+Got it, a long
+You said:
+"It looks like 90 centimeters."
+00:02
+English Conversational Partner:
+Perfect, that’s really detailed! A long dress of about 90 centimeters, white, with buttons and a mini pocket. That definitely helps us pinpoint it. We’ll let you know as soon as we have any news. Let me know if there’s anything else you need in the meantime!
+You said:
+“Thank you. What happens if someone finds it?”
+00:05
+English Conversational Partner:
+If someone finds it, we’ll make sure it’s kept safe at the front desk, and we can arrange to have it sent to you or kept for you until you return. We’ll definitely keep you updated as soon as we have it. If you have any other questions, just let me know!
+You said:
+“Okay, thank you. Can I pay by card when deliver?
+00:05
+English Conversational Partner:
+Absolutely, that works perfectly. We can arrange that for you. Just let us know the details, and we’ll make sure everything’s set up. If you need anything else, just let me know!
+You said:
+“Also, maybe it was in a pink shopping bag.”
+00:06
+English Conversational Partner:
+Got it, that’s really helpful to know! We’ll keep an eye out for the pink shopping bag as well. Thanks for sharing that detail! And if there’s anything else you think of, just let us know.
+You said:
+“If I show my ID card when I pick that card?”
+00:06
+English Conversational Partner:
+Yes, that would be great! Just bring your ID so we can verify your identity and make sure everything goes smoothly when you pick it up. If you have any other questions, feel free to ask!
+You said:
+“Do I need to fill out a form?”
+00:02
+English Conversational Partner:
+In most cases, yes, we'll have a short form for you to fill out just to confirm the details. It’ll be quick and easy, and we’ll guide you through it when you come by. Let us know if you have any other concerns!
+You said:
+“Should I send the form on my email?”
+00:05
+English Conversational Partner:
+That’s definitely an option! If you’d like, we can email you the form in advance, and you can fill it out beforehand. That way, it’ll be even quicker when you pick it up. Just let us know what works best for you!
+You said:
+“Okay, can you call me if it's found?”
+00:03
+English Conversational Partner:
+Of course! We’ll definitely give you a call as soon as we have any updates. Just let us know the best number to reach you, and we’ll keep you posted. Feel free to let us know if there’s anything else you need!
+You said:
+“How long do you keep lost items on file?”
+00:03
+English Conversational Partner:
+Typically, we keep lost items for about 30 days, just to give plenty of time for guests to claim them. After that, we usually donate or dispose of them. But we’ll definitely hold onto it for you until you can pick it up. Let us know if you have any other questions!
+You said:
+“Please just tell me when you cannot find my clothes today.”
+00:09
+English Conversational Partner:
+Absolutely, I’ll keep you informed every step of the way. If we’re unable to locate it today, I’ll let you know right away. And of course, if anything changes, I’ll be sure to reach out. Just let me know if you need anything else!
+You said:
+“What should I do if I lost it in another city?”
+00:05
+English Conversational Partner:
+In that case, it’s best to reach out directly to the hotel where you stayed and let them know the details, just like we did here. They can check their lost and found, and often they can arrange for shipping or keep it safe until you return. And if you need any help coordinating, I’m here to assist as well!
+You said:
+“What time is closed the Lost and Found Desk?”
+00:07
+English Conversational Partner:
+Typically, the lost and found desk is open during regular business hours, usually from about 9 AM to 5 PM, Monday through Friday. But if you need a specific time, it’s always good to call ahead and confirm. And of course, we’ll keep you posted if we find anything!
+You said:
+“Is it closed on weekend?”
+00:02
+English Conversational Partner:
+Yes, usually the lost and found desk is closed on weekends, but it can vary depending on the hotel. It’s always a good idea to check with them directly for their specific hours. And if you need any help, just let me know!
+You said:
+“It is interesting. I think every hotel is used to be on weekend.”
+00:08
+English Conversational Partner:
+That’s a great point! A lot of hotels do have different policies, and some might have weekend hours or someone on call. It definitely can vary, and it’s always good to double-check the specific hotel’s policy. But I’m always here to help if you need any guidance!
+You said:
+“At this point, you are saying the weekend closed, right?”
+00:08
+English Conversational Partner:
+Yes, generally speaking, many hotels do close their lost and found desks over the weekend. But it can definitely vary, and some places might have someone available. It’s always good to confirm with the specific hotel. And of course, I’m here to help with any other questions you have!
+You said:
+“I just talk about your hotel, and I checked out today.”
+00:09
+English Conversational Partner:
+Got it, that makes sense! In that case, we’ll definitely do our best to help you as quickly as possible. We’ll keep an eye out for your item and let you know right away if we find it. And if you need anything else in the meantime, just let me know!
+You said:
+“Is there a lost property website I can check?”
+00:04
+English Conversational Partner:
+Yes, many hotels do have a lost and found page on their website, or they might use a third-party service to help track items. You can always check the hotel’s official website or contact them directly to see if they have an online portal. And if you need help navigating that, I’m more than happy to assist!
+You said:
+“So please send to me your hotel's website link.”
+00:07
+English Conversational Partner:
+Of course! I’ll make sure to send you the link to our hotel’s website right away. That way, you can easily check the lost and found information and any other details you might need. Just let me know if you need anything else!
+You said:
+“Thank you. Please call me today when you find or not find my clothes.”
+00:08
+English Conversational Partner:
+Absolutely, I’ll make sure to give you a call today with any updates, whether we find it or not. And if you need anything else in the meantime, just let me know. I’m here to help!

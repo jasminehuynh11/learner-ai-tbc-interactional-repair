@@ -1,0 +1,260 @@
+{
+  "student_id": 8,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S8_W1_T1",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi, good afternoon.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Good afternoon! How's it going? What can I help you with today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Can I have a cappuccino and...”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Of course! One capp"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, a cappuccino and an Australian crush. Would you like any sugar or any specific toppings on your cappuccino?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Yes, please. One sugar and some milk, please.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Perfect, so that’s one cappuccino with one sugar and some milk, and an Australian crush. Anything else I can get for you?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“And also, do you have a specialty?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely! We have a few specialties, like our caramel macchiato and a signature vanilla latte. Would you like to try one of those as well?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "So our caramel macchiato is made with espresso, steamed milk, and a caramel drizzle on top, while our vanilla latte combines espresso with steamed milk and a touch of vanilla syrup. They’re both really delicious!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yeah, it sounds good.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Awesome! Just let me know if you’d like any of those specialties added to your order, or if there’s anything else I can do for you."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“All right. Yes, please.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect! I’ll get that all set up for you. If you need anything else in the meantime, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Oh yes, I do have a...”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "No worries at all! Just let me know whenever you're ready, and I'll be happy to help with whatever you need."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, can I have a 21 sheet?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely! I'll make sure to include that with your order. Is there anything else I can get for you right now?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“どうもありがとうございました。”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "All right, that sounds"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Great! I'll get everything ready for you. If you think of anything else, just let me know. Otherwise, enjoy, and I’ll have that ready for you shortly!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Thanks a lot.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You’re very welcome! If you need anything else, just let me know. Have a great one!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Can I get a mocha?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Of course! I'll add a mocha to your order as well. Anything else you’d like to include?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Ah, no thanks. I will have a... outside.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sounds good! I’ll get everything prepared for you, and you can enjoy it outside. Just let me know if you need anything else."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Do you have a specialty? I'm allergic to bread, so...”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Got it, thanks for letting me know! We can definitely accommodate that. And we do have some specialty drinks that are bread-free, so if you have any specific preferences, just let me know, and I'll make sure everything is safe and delicious for you."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Hello, everyone.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "They’re really great! If you have any specific questions or if you’d like recommendations, just let me know, and I’ll be happy to help."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Hi, can I get a cappuccino and an americano?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely! I'll get you a cappuccino and an Americano. Would you like either of them with any specific additions, like sugar or milk?"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“No thanks, but in Americano, please put two sugars.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Got it! One Americano with two sugars, and one cappuccino. That sounds great! If there's anything else you need, just let me know."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“And also, do you have a cake?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Yes, we do! We have a variety of cakes, like chocolate cake, cheesecake, and some fruit tarts. Is there a particular flavor you’re interested in?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“私はチョコレートに興味があるので、チョコレートを使わずにケーキを作ってください。”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Got it, no chocolate cake for you! We can definitely do something like a vanilla or a fruit-based cake instead. I’ll make sure it’s all set. Let me know if there’s anything else you’d like!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Do you have a cheesecake?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Yes, we absolutely do! We have a delicious cheesecake available. I’ll add that to your order as well. If there’s anything else you’d like to adjust, just let me know!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“2ピースチーズケーキをください、友達と一緒に。”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Perfect! I’ll include two pieces of cheesecake for you and your friend. That should round out your order nicely. If there’s anything else, just let me know!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“How much is that to sum up?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Sure! Let me quickly total it up for you. You have the cappuccino, the Americano with two sugars, the cheesecake for you and your friend, and the Australian crush. I’ll calculate everything and let you know the final amount in just a moment."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Did you finalize our money?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Yes, absolutely! After adding everything up, your total comes to about [amount]. If you have any questions or need any adjustments, just let me know!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S38_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      24,
+      25
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "pronunciation/ASR – misrecognition of learner speech",
+    "evidence_summary": "The learner mentions a unit in 'Tungun' in turn 24. The bot misinterprets this as 'Tuen Mun' in turn 25, indicating a misrecognition of the learner's speech. The bot's response, based on this misinterpretation, implicitly initiates the repair. However, the learner does not correct the bot's error, and the conversation moves on, leaving the issue unresolved and abandoned."
+  }
+]

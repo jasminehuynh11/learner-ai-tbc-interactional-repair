@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S39_W4_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      8,
+      9
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "bot misunderstanding – learner's intent to work overseas misinterpreted as study overseas",
+    "evidence_summary": "The learner clarifies their intent to work overseas, but the bot initially responds as if the learner wants to study overseas. The bot then acknowledges the correction and provides relevant advice, resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S39_W4_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requests repetition for clarity",
+    "evidence_summary": "The learner asks for the bot to repeat its advice on deciding between further study and work. The bot repeats the information, and the learner continues the conversation, indicating the issue was resolved."
+  }
+]

@@ -1,0 +1,250 @@
+{
+  "student_id": 8,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S8_W2_T1",
+  "source_file": "data\\raw\\#8\\#8\\#8. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "1.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright! So what kind of roleplay scenario are you interested in today? Let me know and we’ll dive right in."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I'd like to make an appointment to see a doctor.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely! So, what’s the reason for your doctor’s visit today?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“I'm having brain tinnitus, but...”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it. Sounds like you've got some foot"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“and GPT-4.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Sure, that makes sense. We definitely want to figure out what's going on. So could you let me know how long this pain has been bothering you?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Sorry, could you say again?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely. So, you've had it for a few days—thanks for letting me know. Now, could you tell me if there's anything that makes the pain better or worse?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“ご覧いただきありがとうございます。”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "All right, no problem."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Sure thing. So it's not really changing with walking or resting—got it. Let me ask you this: Have you ever had any foot injuries or issues like this before?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“So, um, one week ago, my egg was broken because I can't open it.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "All right, that’s helpful to know. So you had a broken ankle a while back—that history definitely matters. Now, is there any swelling or redness around the area right now?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“This was scheduled on Monday at 8pm.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, we can set that up. So just to confirm, does Monday morning generally work best for you?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure, that’s totally fine. We can note that down for 9 a.m. on Monday. And just to wrap things up, do you have any preference for which doctor you’d like to see, or are you okay with the next available?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“One book is sold weekly, so, please be scheduled to, should say, 8, 8am.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "All right, next available it is. We’ve got you down for Monday at nine. Is there anything else you need from me right now?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“So, I write out the code.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Great, happy to help!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“All of it are currently late.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Absolutely, you're welcome! We'll see"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "You got it, take care and we'll see you"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sure thing! Take care and see you soon."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Is it ok if I copy and paste? Ok.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Sure, absolutely! I'm glad we got everything set. If you need anything else, just let me know."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“I have a friend who is travelling in this country, so I'd like to...”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course, you’re very welcome! So we’ve got your appointment all set, and if you need anything else, just reach out. Thanks again and take care!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Sure, you're all set now! I'll stay"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, happy to help. Take care, and we’ll see you at your appointment."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "All right, see you"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“All right, I have.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "You're welcome! Bye for now, and have a great day!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "thanks a lot, take care, and we’ll see you soon!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“And also, I'd like to check my ParallelGate to Tamsin.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Sure, we can definitely check that for you as well. Let me just keep that in mind. So if you need anything else about your priority or anything else at all, just let me know."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“And that's all I have to say. My mouse is too bad. Maybe it's because I feel it.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Of course, no worries at all! It’s totally fine to ask a little more. If you ever need to check on your priority or anything else, just let me know, and I’m here to help."
+    }
+  ]
+}

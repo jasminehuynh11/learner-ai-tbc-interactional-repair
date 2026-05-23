@@ -1,0 +1,170 @@
+{
+  "student_id": 6,
+  "week": 1,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S6_W1_T1",
+  "source_file": "data\\raw\\#06\\#06\\#6. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Ordering Coffee at a Café"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, um, I want to order coffee."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure. What kind of coffee would you like?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "It is my first time here, so what is popular?"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Our popular one is cappuccino. It has milk and foam."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Uh, actually, is anything caffeine free?"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Yes, we have decaf options. We can make a decaf cappuccino or latte."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Um… sorry, what is decaf? Is it no caffeine?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Yes, that’s right. Decaf has no caffeine, or very little."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Okay, I want decaf cappuccino."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Sure. What size would you like?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Um… large size."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright. What milk would you like?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "What is most popular? Sorry… I mean, what milk people choose most."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Most people choose oat milk."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Okay, I want that. Oat milk."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Alright. Large decaf cappuccino with oat milk. Would you like anything to eat?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Um… do you have banana bread?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Yes, we have a banana shake."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Uh… no, not shake. Bread. Banana bread."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Oh, banana bread. Yes, we do. Would you like it warmed?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Yes, please. One."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "No problem. It’ll be ready in about five minutes. Would you like to have it here or take it away?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Here."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Alright. You can sit anywhere inside."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Okay, thank you."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Do you have a student ID for a discount?"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Oh… I don’t have today. So I cannot use it, right?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "That’s right. You can use it next time."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Okay. Actually… I want to change. Sorry, change to iced."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "No problem. I’ll make it an iced decaf cappuccino."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Yes, iced decaf. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S16_W4_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      19,
+      20
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner requests slower speech",
+    "evidence_summary": "The learner requests the bot to speak more slowly in turn 19. The bot acknowledges this request and slows down its speech in turn 20, resolving the issue."
+  },
+  {
+    "dialogue_id": "S16_W4_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      25,
+      26
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "vocabulary – learner requests repetition but bot provides additional information instead",
+    "evidence_summary": "The learner asks the bot to repeat its previous statement in turn 25. However, the bot does not repeat the previous statement and instead provides additional information in turn 26, failing to resolve the learner's request for repetition."
+  },
+  {
+    "dialogue_id": "S16_W4_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      35,
+      36
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "environmental noise – learner requests repetition due to noise",
+    "evidence_summary": "The learner asks for repetition in turn 35 due to noise interference ('mice close to me'). The bot repeats the information in turn 36, resolving the issue."
+  }
+]

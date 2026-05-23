@@ -1,0 +1,300 @@
+{
+  "student_id": 23,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S23_W4_T2",
+  "source_file": "data\\raw\\#23\\#23\\#23. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Okay, I want to practice about participating in group discussion and negotiating responsibilities. I'm gonna explain my situation."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Perfect! That sounds like a great scenario to practice. I’ll be happy to help you navigate that group discussion and negotiation. Whenever you're ready to share your situation, we can jump right into it!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Okay, you are a teammate or project group member and we're gonna discuss about some group project and we're gonna share options and agree or disagree politely and negotiate rules, deadlines, or contributions."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "That sounds like a great setup! I’m ready to jump into that role. Whenever you're ready to start, just let me know the context of our project, and we’ll begin the discussion and negotiation from there!"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Hi. Our assignment is due next week. Can we decide who will do each part?"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Hi there! Absolutely, we can definitely sort that out. Let’s start by breaking down the tasks and seeing what everyone’s strengths and preferences are. How would you like to divide the work?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "What do you mean?"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I think we can start by identifying each person’s strengths and the parts of the project that they feel most comfortable with. Then we can negotiate deadlines and make sure everyone’s on the same page. Let me know which parts you’re interested in, and we’ll go from there!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "um okay then i'm gonna searching information can i?"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "That sounds great! Gathering information is definitely a crucial part. Once you have the details, we can see how to fit everything together. Let me know if you need any help or if you’d like to discuss any specific parts!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Then what do you want to do?"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I’m happy to take on whatever task would be most helpful! Whether it’s organizing the information, coordinating deadlines, or reviewing what we’ve got so far, just let me know what works best for you, and we’ll make it a team effort!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "Okay, who wants to do the writing part?"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "That’s a great question! We can definitely see who feels most comfortable with writing. If anyone has experience or a preference for that part, we can assign it accordingly. Let’s hear from the group and figure out the best fit!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "Yeah, I see your point, but I have bad writing skill, so I think you're good at writing, aren't you?"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "I appreciate that! I’m definitely happy to help with the writing portion. We can work together to make sure everything’s clear and polished. If there’s anything else you’d like to focus on, just let me know, and we’ll make it work!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "Okay, then let's searching, getting information, each part, and then try to think about the good things tomorrow. Is that okay?"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! We can gather all the information today and then reconvene tomorrow to discuss the best approaches. That way, we’ll have everything ready to go. Sounds perfect!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "And let's message each other if we run into a problem."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a great idea! We’ll keep the communication open, and if any issues come up, we can help each other out right away. Sounds like a solid plan!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Do you think we need a shared document to manage tasks?"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "I think that’s a fantastic idea! A shared document will definitely help us stay organized and keep track of everyone’s contributions and deadlines. Let’s set that up, and it’ll make collaboration even smoother!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "Let's try to share information every night. Everyone is fine for that?"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "That sounds like a great plan! Sharing updates every night will keep everyone on the same page and help us stay on track. I’m sure everyone will be on board with that. Let’s make it happen!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "and who wants to do presentation. Not me."
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Got it! No worries at all. Let’s see who feels comfortable with the presentation part. We can definitely find someone who’s excited about that, and we’ll support them as needed. Let’s figure it out together!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Because this part feels too difficult for me, because I've never done it before."
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I completely understand! It can definitely feel challenging at first, but we’ll make sure to support you and make it as smooth as possible. We can also work on it together and build your confidence along the way. Just let us know how we can help!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "So we are all agreed on the new timeline. Next week?"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Yes, it sounds like we’re all on the same page! The new timeline for next week works well for everyone. We’ll keep everything on track and make sure we’re all set. If anything comes up, we’ll adjust as needed. Sounds perfect!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Oh, perfect. Then let's talk about this later online."
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That sounds like a plan! We’ll touch base later and keep everything moving forward. Thanks for coordinating, and I’m looking forward to it!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "Thank you, see you later."
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You're very welcome! See you later, and have a great one!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "What do you think about this conversation?"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "I think it went really well! You shared your thoughts clearly, and we had a productive discussion. It was great collaborating and planning things out together. If there’s anything else you’d like to refine or explore, I’m always here to help!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "okay and then let's try to make more aggressive conversation like you are not agree with me"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Got it! I can definitely adopt a more assertive stance and we can practice some more challenging discussions. Just let me know the scenario, and we’ll dive right in and see how it goes!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "Like let's say, I said our deadline should be until this Friday, but you want to finish on next week."
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Alright, that sounds like a perfect scenario! So, I’ll take the position that I believe we should extend the deadline to next week, and we can have a more spirited discussion about it. Let’s dive in and see how it unfolds!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "Hi, everyone. I know our deadline is next week, but I want to finish earlier than before. So, can we finish at this Friday?"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "I see where you're coming from, and I definitely appreciate the eagerness to wrap things up quickly. However, I do think that aiming for Friday might rush some of the quality and thoroughness we need. Let’s talk about how we can balance both speed and quality so that we can meet our goals effectively."
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Um, yeah, I see your point, but I think we can do it because we already learned about this topic as well. And so, we can finish quickly before next week. What do you think?"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "I definitely appreciate your confidence and the progress we’ve made so far! If we can ensure that the quality remains high and everyone’s comfortable with the workload, then finishing by Friday could definitely be possible. Let’s make sure we’re all aligned and keep open communication so we can get it done effectively."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "Yeah, I mean, divide each part, and then we can make it really good presentation. Like, you are really good at presentation. The other people can gather information very quickly because they are professional. And I'm really good at writing, so it's going to be very easy for us."
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "That sounds like a fantastic plan! With everyone playing to their strengths, I’m confident we’ll produce a really strong presentation. Let’s keep that momentum going, and I’m sure we’ll wrap everything up smoothly by Friday!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "thank you so much because you know next week is gonna be very busy because the christmas is coming so i just want to finish before christmas holiday"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Absolutely, that makes perfect sense! Wrapping everything up before the holidays will definitely help everyone enjoy the break without any stress. I’m glad we’re on the same page, and I’m sure we’ll make it happen smoothly. Let’s get it done and enjoy the holiday season!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "Yeah, thank you for understanding. Then let's keep in touch after gathering information. What do you think tonight?"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "That sounds great to me! Let’s definitely stay in touch and share updates as we go. I’m looking forward to seeing what everyone finds, and we can touch base tonight to make sure we’re on track. Sounds like a plan!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "Okay, then, see you, and if someone need our help, just don't hesitate to message us."
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! We’ll keep the communication open, and I’m always here to help as well. Looking forward to it, and I’ll see you soon!"
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "See you, thank you!"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "You're very welcome! Take care, and I’ll talk to you soon!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "Yeah, what do you think about this conversation?"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "I think it was really productive and engaging! You shared your ideas clearly, and we had a great back-and-forth. It was really nice to see how we collaborated and worked through different ideas. If there's anything else you'd like to explore, I'm always here!"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "Thank you for today."
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "You're very welcome! It was my pleasure. Have a wonderful rest of your day, and I look forward to chatting again soon!"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "student_id": 3,
+  "week": 2,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S3_W2_T1",
+  "source_file": "data\\raw\\#03\\#03\\#3. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, excuse me. I want to see a doctor."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course! Absolutely, you’ve come to the right place. Let me just help you with that. So you’re looking to book an appointment with one of our doctors today or another day?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "Uh, yes. New one."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Perfect, no problem at all — we see new patients all the time. Before I look at the schedule, I’ll just ask a couple of quick questions so I can book you in properly. What seems to be going on?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Stomach. Something strange."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Okay, stomach issues — thank you for telling me. When you say “something strange”, are you feeling pain, discomfort, bloating, or maybe a burning feeling?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Bloating. And sometimes burning."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it — bloating and sometimes a burning sensation. That’s really helpful information. And has that been happening for a few days, or longer than that?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Two days. Maybe three."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Okay, two to three days — that gives us a good idea. Now let me just check what appointments we have available. Alright… just a moment… okay."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "So today we’re actually fully booked, unfortunately. But the good news is we do have availability tomorrow, and we can usually find something that works around work schedules as well."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Tomorrow is okay."
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great. So tomorrow we have a couple of options. The first one is in the morning at am, and the second one is later at am. Let me know which one sounds better for you."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "… No. I work at ten."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Ah yes, that would be cutting it very close — you’re right to flag that. In that case, the am appointment would be much more comfortable and less stressful."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Yes. ."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Perfect. I’ll lock that in for you. Now I’ll just grab a few details to complete the booking. Can I take your full name, please?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "James Lee."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Lovely, thank you. And just to double-check the spelling — that’s J-A-M-E-S, L-E-E, is that right?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Yes."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Great, all sorted. Now, do you have Medicare, or are you covered by Overseas Student Health Cover?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Student insurance. OSHC."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Perfect — OSHC is absolutely fine here. Just make sure you bring your card with you tomorrow so we can process everything smoothly."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "And just so you know what to expect, you’ll pay for the appointment after you see the doctor, and then you can submit a claim to your insurance provider if you need to."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Claim later?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Yes, exactly — pay first, then claim afterward. A lot of students do it that way."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Okay."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "We also ask patients to arrive about ten minutes early. That just gives you time to fill out a short paper form at reception — nothing complicated, just basic details."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Paper is fine."
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Great, that makes things easy. Now, just one more thing — during the appointment, you can absolutely ask the doctor about medication, tests, or anything else you’re worried about."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Test also? Like blood?"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Yes, if the doctor thinks it’s necessary, they can arrange blood tests or other checks. And if you need a medical certificate for work, you can request that as well."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Yes. Medical certificate."
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "No problem at all — very common request. Alright, let me just recap everything so we’re on the same page. You’re booked in for tomorrow at am. Please bring your OSHC card, arrive about ten minutes early, and let the doctor know about the bloating and burning after meals."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "Tomorrow. . Okay."
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Perfect. You’re all set. If anything changes or your symptoms get worse tonight, don’t hesitate to seek urgent care. Otherwise, we’ll see you tomorrow."
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "Okay. Thank you."
+    }
+  ]
+}

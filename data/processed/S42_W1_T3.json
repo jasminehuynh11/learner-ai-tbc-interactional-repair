@@ -1,0 +1,155 @@
+{
+  "student_id": 42,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S42_W1_T3",
+  "source_file": "data\\raw\\#42\\#42\\#42. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Returning or Exchanging Clothes and Asking About Store Policies"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "I want to practise returning or exchanging an item at a clothing store. You will play the role of a retail store assistant working in a busy shop in Australia, and I will play the role of a customer. Please create a realistic and natural conversation as if this were a real in-store interaction."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Alright, no worries — happy to help. What would you like to return or exchange today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Well, I'd like to return my T-shirt.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Sure thing! And did you have the receipt for that t-shirt with you, by any chance? If not, that's okay, we'll sort it out. Just let me know."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“I bought this t-shirt last week, but it doesn't fit. And I think there's a damage on it.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Alright, got it. We can definitely help with that. Could you show me where the damage is, or what exactly seems to be wrong with it? Let's have a quick look."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“There's a hole in the bottom.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Ah, I see what you mean. Thanks for pointing that out. Now, would you like to exchange it for the same t-shirt in a better condition, or were you thinking of a refund or maybe a different item altogether? Let me know what suits you best."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, I'd like to refund it, and maybe I can buy another T-shirt in another color. Well, I think it's been more than three days. What's your exchange policy or refund policy?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, so our standard policy is that we've got a 30-day window for returns and exchanges, so you're well within that time frame. We can definitely process a refund for you, and then you can pick out that different color t-shirt if you’d like. Which color did you have in mind?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“So you mean I can refund or exchange it within 30 days, right?”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Exactly! You've got it. You can refund or exchange within that 30-day period, no problem at all. So let's go ahead and sort that out. Which color were you thinking of switching to?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“First, it's a bit small for me, so I'd like to change it into, I mean, I'd like to pick up a medium-sized one. And I don't think this pink is not that good on me, so I'd like to pick a black one.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Sure thing! We can definitely do that. So we'll grab you a medium size in black instead of the pink. That should be easy. Just hang tight for a moment—anything else you need while we're at it?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Do I need the original packaging to return this?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "No worries at all, you don't need the original packaging as long as you've got the item itself in reasonable condition. We'll handle the rest. Anything else you'd like to ask about?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“I think the tag on the existing one is a bit teared.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "That's all good; a slightly torn tag won't be a problem for the return. We'll still sort it out for you. So let's get that black medium set aside. Anything else on your mind? ಸ್ವಲ್ಪ torn tag won't be a problem for the return. We'll still sort it out for you. So let's get that black medium set aside. Anything else on your mind? Let me know."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“And I think there's a small tear in the sleeve with this black one. Do you guys offer any store credit instead or a little bit of discount for it?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. If there's a small flaw on that black one as well, we can definitely offer you store credit or a bit of a discount on it. Just let me know which you'd prefer. Feel free to ask if there's anything else on your mind."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“I'd like to get a discount for it.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Alright, a discount it is! We'll apply that for you. So we'll get you that black medium with a little discount for the flaw, no worries at all. Anything else you need help with today?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“And thanks for your help. That's perfect.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "You're very welcome! Glad we could sort that out for you. If there's nothing else, just let me know anytime. Thanks for stopping by, and have a great day!"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Oh wait, just one more thing. Can I return online purchases in this store? Because I have another t-shirt in my home.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Of course! Yep, you can return online purchases here in-store as well, no problem at all. Just bring it in whenever you’re ready. Anything else on your mind? Let me know."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Okay then, maybe next week I can stop by. Thank you so much.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "No worries at all! Sounds like a plan. We'll see you next week then. Thanks again, and have a lovely day!"
+    }
+  ]
+}

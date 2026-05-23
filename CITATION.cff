@@ -14,13 +14,19 @@ authors:
     given-names: "Michael"
   - family-names: "Roger"
     given-names: "Peter"
+  - family-names: "Huynh"
+    given-names: "Phuong Thao"
 repository-code: "https://github.com/jasminehuynh11/learner-ai-tbc-interactional-repair"
-abstract: "Replication materials for interactional repair analyses in learner-AI task-based conversations."
+doi: "10.5281/zenodo.20036386"
+abstract: "Replication package for the manuscript 'Interactional Repair in Learner-AI Task-Based Conversations: Patterns of Initiation, Resolution and Participation'. Includes reproduction code and configuration, frozen analysis outputs, human-validation documentation, and language tasks for a study of 465 learner-AI dialogues produced by 50 English language learners over four weeks of task-based interaction with a customised AI chatbot."
 license: "CC-BY-4.0"
 keywords:
-  - learner-ai interaction
+  - artificial intelligence
   - interactional repair
-  - task-based conversation
-  - llm-assisted coding
+  - learner-AI dialogue
+  - conversational practice
+  - task-based interaction
+  - ELICOS
+  - second language interaction
 version: "1.0.0"
 date-released: 2026-04-29

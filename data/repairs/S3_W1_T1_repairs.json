@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S3_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially requests an 'ice long black or banded ice' but then self-corrects to 'extra ice' in turn 5. The bot confirms the corrected order in turn 6, resolving the issue."
+  },
+  {
+    "dialogue_id": "S3_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      23,
+      24
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "vocabulary – did not understand word/phrase",
+    "evidence_summary": "The learner asks for a 'reset' in turn 23, which is unclear. The bot misinterprets this as a request for a receipt in turn 24, and the learner does not clarify or correct the misunderstanding, indicating the issue remains unresolved."
+  }
+]

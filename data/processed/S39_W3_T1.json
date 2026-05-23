@@ -1,0 +1,200 @@
+{
+  "student_id": 39,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S39_W3_T1",
+  "source_file": "data\\raw\\#39\\#39\\#39. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "I want to practice how to request a repair the Internet in my rental apartment. You are a housing manager. I am a tenant. Please create realistic and professional housing scenarios and respond as if I were reporting a real issue. Ask questions about what the problem is, how urgent it is, and when someone can come to fix it. Also ask about access and whether I need to do anything before the repair. Be polite and clear about the issue."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure. What exactly is happening with your internet in the apartment?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hi, my internet has stopped working.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. Could you let me know how long it’s been out and whether it’s affecting all devices in your apartment?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“One more time, please.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! No worries at all. So, could you let me know how long the internet has been down and if it’s affecting all of your devices, like your phone and laptop?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“It was fine yesterday, but now it won't connect.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "I see, got it."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Umm”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "No problem at all."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“5 hours ago”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Alright, that makes sense. Could you also let me know if there have been any recent changes, like new equipment or anything unusual that happened before it stopped working?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I do nothing, but this has happened three times this month. What can be done?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "I understand. It sounds like it might be a recurring issue. Could you let me know if you’ve tried any troubleshooting steps on your end, or if there’s a specific time it tends to happen?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I tried to turn off the power of router, but the internet isn't connected.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Got it, thanks for letting me know. In that case, we might need to send someone over. Could you tell me the best time for a technician to come by and if there’s a specific access code or instructions for entry?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Is there a technician available today?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Let me check that for you. What time would be most convenient for you today, and is there a particular way we should access your apartment?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I prefer 2 p.m. today.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "That works perfectly. I’ll schedule the technician for 2 p.m. today. Is there anything else you’d like to let us know before the appointment?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Who will come?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to note that. The technician’s name and details will be provided in advance. If you have any other questions or concerns, just let me know!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Do you know what the issue might be?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "It could be a few things, like a problem with the router, an issue with the wiring, or even something on the service provider’s end. The technician will be able to diagnose it more accurately once they’re there."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Can you check if there is an outage in the area?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Of course, I’ll look into that right away and let you know if there’s any outage reported. In the meantime, if you notice anything else, just let me know."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“What should I try before you send someone?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Certainly! Before we send someone over, you can try restarting the router one more time, checking all the cables to make sure they’re secure, and confirming that there’s no service outage in your area. If that doesn’t help, we’ll definitely arrange a technician visit."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Should I wait here or will some call me?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "We’ll definitely give you a call in advance to confirm the appointment and let you know when the technician is on their way. But you can definitely stay at home, and we’ll coordinate everything with you."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“If the service isn't fixed by today, do I get a refund or a credit?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That’s a great question. Typically, we do offer credits for any prolonged service outages. Once the technician checks the issue, we’ll make sure to apply any applicable credits to your account."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, who can I contact if this isn't resolved today?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You can always reach out to our maintenance hotline, or you can email our support team directly. I’ll make sure you have all the contact details, and we’ll be here to help you until it’s resolved."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Can you give me a reference number for this request?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to provide you with a reference number once we schedule the service, and you can use that whenever you reach out to us. That way, we can keep track of everything smoothly."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Thank you so much. That was helpful. I'll wait for the technician.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you need anything else in the meantime, just let me know. We’ll take care of it and talk to you soon!"
+    }
+  ]
+}

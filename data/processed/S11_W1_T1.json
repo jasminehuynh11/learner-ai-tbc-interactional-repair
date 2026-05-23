@@ -1,0 +1,440 @@
+{
+  "student_id": 11,
+  "week": 1,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S11_W1_T1",
+  "source_file": "data\\raw\\#11\\#11\\#11. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“I want to practice how to order coffee at a cafe. In this case, you are a barista working in a big cafe store and you are very busy. I play the role of a customer. Please create a realistic scenario and respond to me if we were really there. Ask me a question about my preference, help me to choose, and explain me about the different options, but you are very, very busy. Keep the conversation going naturally by asking at least three follow-up questions about size, milk, and payment.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, let's do it! So imagine you're stepping into this bustling little café, and I’m the barista who’s got a line of orders behind me but I’m still here to help you out. So I’d say something like, “Hey there! Welcome in. It's a bit hectic today, but I’ve got you. What are you thinking? Maybe a coffee, a latte, or do you need a little help choosing?” And then once you tell me what you’re leaning toward, I’ll jump in with a couple of quick follow-ups. For example, “Great choice! Do you have a preference on size—like a small, medium, or large? And what kind of milk do you usually like? We have regular, soy, oat, you name it. And finally, I can take contactless payment or card, whatever’s quickest for you.” We can keep it going naturally from there!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Yes, go ahead.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Awesome! All right, let's dive in. So I’d say, “All right, I see you’re eyeing the menu. Let me know what sounds good. Maybe a classic latte or something else? And if you're not sure, just tell me what you usually like, and I’ll help you pick!” (Then once you choose something, I’ll go on.) “Perfect, a latte it is! Now, let me just ask real quick: do you want that small, medium, or large? And what kind of milk are you feeling today? We’ve got regular whole milk, oat milk, soy, whatever works for you.” (Then after you answer that, I’d add:) “Great, got it! And whenever you’re ready, you can just tap your card or phone right here and we’ll be all set. Thanks for your patience!” So that’s how it might flow if we were really in the café."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“But I want you to be the buyers and I am the customer. It's a roleplay.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Oh, got it! Absolutely, let’s switch it up and dive right into that roleplay. So here we go: I’m now the busy barista. “Hey there! Welcome in. It's a bit of a rush today, but I’m happy to help you out. What can I get started for you?” (You go ahead and tell me what you’d like!)"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I'd like to drink something very special, what type of coffee there are here.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! So let’s see, we've got a few special options. We do a really nice flat white if you want something smooth and velvety, or maybe a mocha if you like a bit of chocolate in there. We can also do a flavored latte—like vanilla or caramel—if you want a little sweetness. Now, just let me know which one sounds good to you. And once you've got that, I'll ask you about the size you want and what kind of milk, and we’ll get it all set up."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Do you speak very fast for me, because I don't understand very well, but I want something, a drink, a hot drink, but not have a lot of sugar, and something that give me energy for my day.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Ah, of course! Sorry about that—I'll slow it down a bit. So if you're looking for a hot drink that’s not too sugary and gives you a nice energy boost, I’d say let’s go for something like a flat white or a classic latte without any syrup. It’s still got that nice coffee kick, but it’s not loaded with sugar. Now, let me know what size you'd like—small, medium, or large—and what kind of milk you prefer. And once we’ve got that, we’ll get you all set."
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Talk to me about the Latte. What is the process for your preparation, for his preparation? I'd like to drink something special.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, I’d love to tell you! So for a latte, what we do is we start by pulling a nice shot of espresso, which is going to give you that rich coffee base and a good energy boost. Then we steam up some milk to get it nice and silky, and we pour that over the espresso. It's not super sweet on its own, but it’s really smooth and a little creamy. And of course, we can always adjust the type of milk if you want something like oat or soy. So if that sounds good, just let me know what size you’d like and we’ll get it going."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Okay, but when I drink a meal, I have problems with my stomach. I feel so stomachache and different things, like a flart.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Oh, I totally get it—no worries at all. We can absolutely make that latte with a milk alternative so it’s gentler on your stomach. Oat milk is a great choice if you want something creamy but still easy to digest, or we can do almond milk or soy. Just let me know which one you prefer. So we’ll do that latte with a milk alternative, and then just let me know the size you’d like and we’ll be all set to go!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Okay, and when you say espresso, do you mean for what? I think it's only coffee and water, or what more there are in this process?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, let me clarify that for you. So when I say espresso, I really just mean a concentrated coffee shot. It's basically finely ground coffee brewed with a little bit of hot water under pressure. There's nothing else in it—no extra ingredients, just coffee and water. So for a latte, we just add steamed milk to that espresso shot, and that’s what gives you that nice, smooth drink. Let me know if that makes sense, and we’ll get your order going!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, okay. I understand very well. I'd like to drink a latte, but I'm not sure about the size. What size do you recommend? I mean...”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely! So if you’re not sure about the size, I'd say a medium is usually a good place to start. It’s a nice balance—not"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Thanks, everyone.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "You're so welcome! I'm glad that made sense. So we'll do a medium latte with a milk alternative that suits your stomach, and that'll give you a great start to your day without any worries. If you’re all set, I’ll just ring that up and you'll be good to go!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“But how much is the median? What is your size in my hand?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure thing! So our medium is about 12 ounces, which is a nice comfortable size—kind of like a standard coffee cup that you’d hold in your hand. It’s not too big and not too small, just a nice middle ground. And price-wise, the medium latte is about five dollars. So if that works for you, we’ll go ahead and get that ready!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Okay, this is a good price for a latte, but I saw before in videos the barista made a figure, a picture on the top with a meal. Can you explain me about that?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Oh, absolutely! So that’s what we call latte art. Basically, once we steam the milk, we pour it in a certain way so we can create little patterns on top of your latte. It might be a heart, a rosetta, or a little tulip, and it just adds a special touch to your drink. And even though we’re busy, we can definitely do a little bit of latte art for you. It’s just a fun way to make your coffee feel a bit more special!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Okay, and what type of picture do you know to do in the latte? Latte art, sorry.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Oh, sure! So personally, I love doing a classic heart shape. It's simple but really sweet. I can also do a little rosetta, which kind of looks like a fern leaf or a tulip pattern on top of the latte. Those are some of the more common ones, and they’re a fun little finishing touch. So if you'd like, I can definitely add a little heart on top of your latte today!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“If you try to have something special, for example, a flower in the top, is it possible?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that! A little flower design on top is definitely possible. It's a nice touch and we’ll make it look special just for you. So we'll do that medium latte with your milk of choice and a little flower on top, and you'll have something both delicious and pretty to enjoy."
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Oh, I almost forgot about the milk. Is it possible with soy milk?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Oh, absolutely! We can definitely do that with soy milk. That’s no problem at all. So we’ll make your medium latte with soy milk, add that little flower on top, and you'll have a nice special drink that’s just right for you. Thanks for letting me know!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Okay, and about the sugar, what do you recommend me? Is better put someone of sugar or do you recommend me and don't put sugar?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Yeah, absolutely! Honestly, I’d say it’s totally up to your taste. If you like your coffee a little sweeter, you can add a small amount of sugar or maybe just a half a teaspoon to start. But if you prefer to taste the natural flavor of the coffee and the milk, it’s perfectly fine to skip the sugar altogether. So my recommendation would be maybe try it without sugar first, and you can always add a little bit later if you feel like it needs it."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, but tell me about the beans, because I know about the coffee. There are different beans, and these beans, there are different flavors in my mouth.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, that's a great question! So the type of coffee beans we use definitely influences the flavor of your latte. For example, we use a medium roast blend that’s got a nice balanced flavor—a little bit of nuttiness, a little bit of chocolate notes. It's not too bitter, not too light, just a really nice smooth profile. But you're right, different beans can have all sorts of flavors. Some are fruitier, some are more chocolatey, and we can always chat about that if you’re curious in the future. But for today, you'll just get a nice, balanced, medium roast flavor in your latte."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Okay, but I have other question. I have to go for my job and I don't have time in this moment to drink here. Is possible take away?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Oh, of course!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "Transcripción no disponible"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm glad we could sort everything out. So we’ll get that latte all ready for you to take away, and you can head off to work without any delay. Thanks for your patience and have an awesome day!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Okay, and how much time I have for drink the coffee that without waste your flavor?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Yeah, absolutely! So generally, a latte will stay nice and flavorful for a good while. If you're taking it to go, you probably have a good 20, 30 minutes where it'll still taste just as delicious. Of course, it might cool down a bit, but the flavor will still be there. So you’ve got a little window of time to enjoy it on your way to work."
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Okay, I'd like to eat something with my latte. What do you recommend? Something like a bread or maybe a cake? Or do you recommend I don't eat anything?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Oh, absolutely! A little snack with your latte is always a nice idea. If you want something light, maybe a pastry or a muffin is a good choice. If you prefer something more like a little slice of cake or banana bread, that's also great. So really, whatever you're in the mood for. But I definitely recommend having a little something if you’re hungry. It pairs really well with the coffee!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "Transcripción no disponible"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Yeah, absolutely! If you want something a bit less sweet, maybe a savory option would be good. Sometimes cafés have things like a cheese scone or maybe a little savory pastry, or even just a simple piece of bread with a little butter. That can be a nice complement to your latte without being too sweet. So something like that could be a perfect match!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Okay, maybe their best option is T-SPAY, no? What do you think?”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Yeah, I think a cheese pastry sounds like a really great choice. It's got that nice savory flavor, a little bit of richness, and it'll pair really well with the coffee without adding too much sweetness. So I’d say go for that, and I think you'll have a great combo."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Okay, but this chase is with soy milk? Or what is the product? Because remember, everything products by makes with a base of milk, cold milk is a problem for me.”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Oh, got it! Absolutely, that makes perfect sense. We definitely want to keep that in mind. So let’s make sure we find a cheese pastry or a savory option that’s made without regular dairy milk. Some places do offer dairy-free or vegan options that use alternatives like soy or almond milk in the baking process as well. So we’ll just double-check that and make sure we get you something that won’t upset your stomach. Thanks for mentioning that!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Maybe, what is the vegan option do you have?”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Yeah, absolutely! So if we're looking at vegan options, a lot of cafés will have something like a vegan muffin or maybe a vegan savory roll. Sometimes they have a little vegan pastry filled with veggies or dairy-free cheese. So we can definitely find something along those lines that’ll be completely vegan and dairy-free and pair that up with your latte."
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Can you tell me about the Third-Party Role?”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely! So a strawberry roll is usually a sweet pastry that has a nice fruity strawberry filling rolled up inside a soft dough. It's a bit like a cinnamon roll but with a fruity twist. It's definitely on the sweeter side, so if you're looking for something that’s not too sweet, that might not be the perfect fit. But if you do have a sweet tooth, it’s a really delicious treat and a nice complement to your coffee."
+    },
+    {
+      "turn": 53,
+      "speaker": "learner",
+      "text": "“But how is the preparation that Thurbery, what it means Thurbery?”"
+    },
+    {
+      "turn": 54,
+      "speaker": "bot",
+      "text": "Ah, I see what you mean! So it sounds like maybe there was a little confusion. I was talking about a strawberry roll as an example of a sweet pastry, but if you meant a savory roll—like something that's not sweet—that's a different thing. So a savory roll might be filled with things like spinach or cheese or vegetables, and it's more of a salty or savory snack. So if you're looking for something that's not sweet at all, then a savory roll would be a good choice. But if you were asking about strawberry, that would be a sweet pastry. Let me know which one you meant!"
+    },
+    {
+      "turn": 55,
+      "speaker": "learner",
+      "text": "Transcripción no disponible"
+    },
+    {
+      "turn": 56,
+      "speaker": "bot",
+      "text": "Oh, I see! So you're thinking of something"
+    },
+    {
+      "turn": 57,
+      "speaker": "learner",
+      "text": "“Oh, it's different.”"
+    },
+    {
+      "turn": 58,
+      "speaker": "bot",
+      "text": "Yeah, it's a little bit different. So a strawberry roll or a strawberry pastry is definitely more of a sweet treat, not like a sandwich. But if you're looking for something more sandwich-like, we can definitely think about a savory roll or even a little sandwich that has maybe veggies or something more on the salty side. So definitely let me know if you want something more like a sandwich and we can go that route!"
+    },
+    {
+      "turn": 59,
+      "speaker": "learner",
+      "text": "“Okay, I am confused about what is my best option to it, because I don't understand very well about the sobriety. How is the spelling that works?”"
+    },
+    {
+      "turn": 60,
+      "speaker": "bot",
+      "text": "Oh, of course! No problem at all. I was saying \"savory,\" which is spelled S"
+    },
+    {
+      "turn": 61,
+      "speaker": "learner",
+      "text": "Transcripción no disponible"
+    },
+    {
+      "turn": 62,
+      "speaker": "bot",
+      "text": "Exactly! So \"savory\" just means something that's not sweet—more on the salty or savory side of flavors. So if you want a savory snack, we’ll go with something like a savory pastry or a little sandwich, and that’ll pair nicely with your latte. Thanks for clarifying, and we’ll get you set up with that!"
+    },
+    {
+      "turn": 63,
+      "speaker": "learner",
+      "text": "“Question, what is the flavor?”"
+    },
+    {
+      "turn": 64,
+      "speaker": "bot",
+      "text": "Yeah, absolutely! So a savory option might have flavors like cheese, spinach, or maybe some herbs. It's going to be more on the salty or herby side rather than sweet. So something like a cheese and spinach pastry might have that nice, rich, savory flavor. It’s a good balance with the coffee and definitely not sweet at all. So that should be a great option for you!"
+    },
+    {
+      "turn": 65,
+      "speaker": "learner",
+      "text": "“And maybe there are other talks.”"
+    },
+    {
+      "turn": 66,
+      "speaker": "bot",
+      "text": "Oh, I see what you're saying! Maybe you’re thinking of something like a savory pastry that's almost like a little filled pocket or roll—sometimes they have those with cheese or veggies. And if you’re wondering about the flavor, yeah, it’s usually just a nice, savory, herby taste. So if that sounds good to you, we’ll get you one of those savory pastries and your soy latte, and you’ll be all set!"
+    },
+    {
+      "turn": 67,
+      "speaker": "learner",
+      "text": "“Okay, and what is the price if I join my latte and eat the food? What is the price?”"
+    },
+    {
+      "turn": 68,
+      "speaker": "bot",
+      "text": "Absolutely! So let’s break it down. For the medium soy latte, we said it was about five dollars. And for a savory pastry, let’s say it’s around four dollars. So together, you’re looking at about nine dollars total for both your latte and your food. That should cover everything!"
+    },
+    {
+      "turn": 69,
+      "speaker": "learner",
+      "text": "“Maybe are there combos when you have more cheaper price if you join a drink without food?”"
+    },
+    {
+      "turn": 70,
+      "speaker": "bot",
+      "text": "Yeah, definitely! A lot of cafés do offer combos where you can save a little bit if you get a drink and food together. So let’s say if we do a combo, maybe it's around eight dollars total instead of nine. That way you get a little discount for ordering them together. So that works out nicely!"
+    },
+    {
+      "turn": 71,
+      "speaker": "learner",
+      "text": "“And what is the difference between a combo and if I choose a single one?”"
+    },
+    {
+      "turn": 72,
+      "speaker": "bot",
+      "text": "Yeah, absolutely! So basically, the difference is just a little bit of savings. If you buy the latte and the food item separately, it might add up to about nine dollars total. But if you get them as a combo, we give you a little discount—maybe a dollar off—so you pay about eight dollars total. So it’s just a nice little way to save a bit of money when you order them together!"
+    },
+    {
+      "turn": 73,
+      "speaker": "learner",
+      "text": "Transcripción no disponible"
+    },
+    {
+      "turn": 74,
+      "speaker": "bot",
+      "text": "Absolutely, I'll set you up with that combo! And as for payment, you can just pay right here at the counter. We take cards, contactless payments like tapping your phone, or even cash if you have it. So whatever's easiest for you, just let me know and we’ll ring it up."
+    },
+    {
+      "turn": 75,
+      "speaker": "learner",
+      "text": "“Okay, it's possible to pay one part in cash and another part with card contact?”"
+    },
+    {
+      "turn": 76,
+      "speaker": "bot",
+      "text": "Yeah, absolutely, that’s totally doable. We can split the payment however you like. So if you want to pay part of it in cash and then the rest with your card, that’s no problem at all. Just let me know how you want to split it up and we’ll take care of it for you."
+    },
+    {
+      "turn": 77,
+      "speaker": "learner",
+      "text": "“Okay, I'd like to pay in cash $2 and the rest with card contact.”"
+    },
+    {
+      "turn": 78,
+      "speaker": "bot",
+      "text": "Absolutely, that works perfectly. So we'll take two dollars in cash from you, and then we’ll just put the rest on your card with a quick tap. Super easy, and we'll get you all set. Thanks for that, and we'll have everything ready for you in just a moment!"
+    },
+    {
+      "turn": 79,
+      "speaker": "learner",
+      "text": "“Okay, how much time do I have to wait for the other?”"
+    },
+    {
+      "turn": 80,
+      "speaker": "bot",
+      "text": "Yeah, no worries at all! It should just be a few minutes. We’ll have your latte and your savory pastry ready in probably about three to four minutes. So you won't have to wait long at all, and then you'll be good to go!"
+    },
+    {
+      "turn": 81,
+      "speaker": "learner",
+      "text": "“Okay, I wait for the order, but can you call me when the order is ready?”"
+    },
+    {
+      "turn": 82,
+      "speaker": "bot",
+      "text": "Absolutely, I'll let you know as soon as it's ready. You can just hang out for a couple of minutes, and I'll call you up when your order is all set to go. Thanks for your patience!"
+    },
+    {
+      "turn": 83,
+      "speaker": "learner",
+      "text": "“OK, this is everything I've seen. Maybe I'm going to look around, and maybe if I have something, I have any question for you, meanwhile I wait for my order, I'm going to ask you in the future.”"
+    },
+    {
+      "turn": 84,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds perfect! Feel free to look around, and if you have any more questions at all, just let me know. I'm here to help. And I'll give you a shout as soon as your order's ready."
+    },
+    {
+      "turn": 85,
+      "speaker": "learner",
+      "text": "“OK.”"
+    },
+    {
+      "turn": 86,
+      "speaker": "bot",
+      "text": "All right, sounds good! Take your time, and I'll let you know when everything’s set. Let me know if you need anything else!"
+    }
+  ]
+}

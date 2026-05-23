@@ -1,0 +1,190 @@
+{
+  "student_id": 49,
+  "week": 4,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S49_W4_T1",
+  "source_file": "data\\raw\\#49\\#49\\#49. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, I want to study overseas in the future. Could you tell me how to prepare now?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, that's exciting! To get started, it would help to know which country you're interested in and what kind of program or field you want to study. Also, have you thought about the language requirements or the application deadlines? Let me know where you're at, and we can go from there!"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“I want to go to the UK.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Awesome choice! The UK has some fantastic universities. So, to help you prepare, we can look at things like English proficiency tests, like the IELTS or TOEFL, and also the application requirements for the universities you're interested in. Do you have a specific course or university in mind?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“No, not really. Could you recommend?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Of course! It really depends on what you're interested in studying. For example, if you're into business, universities like London Business School or the University of Manchester are great. If you're leaning towards something like engineering or computer science, then universities like Imperial College London or the University of Edinburgh might be good fits. Let me know your field of interest, and I can narrow it down further!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“I really love Harry Potter so someday I want to make a novel like that.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Oh, that's fantastic!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Then, what subject do I need to study?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "If you're aiming to write a novel, especially something like fantasy, then studying creative writing or English literature would be a great start. You could also explore courses in storytelling, journalism, or even media studies. And of course, the UK has some amazing creative writing programs that can help you hone your skills. Let me know if you'd like recommendations for specific programs!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Media writing would be great.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely, media writing is a great choice, and it can give you a lot of versatility in storytelling. There are fantastic programs in the UK, like those at the University of Westminster or City, University of London. They offer a blend of practical skills and creative approaches. If you want, I can help you look into some specific programs or even scholarship opportunities!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Please tell me about scholarship.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Definitely! There are quite a few scholarships available for international students heading to the UK. For example, the Chevening Scholarships are quite prestigious and cover a wide range of fields. Many universities also have their own scholarships based on merit or need, and there are also country-specific scholarships depending on where you're from. If you let me know your nationality or any particular requirements, I can help you narrow it down further!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“I am a Korean.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect! As a Korean student, you have several great options. For instance, the Korean Government Scholarship Program (KGSP) sometimes partners with UK universities. Also, many UK universities offer specific scholarships for Korean students or East Asian students. For example, universities like the University of Edinburgh or the University of Manchester have dedicated scholarships. I can definitely help you explore those in more detail if you'd like!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I’m interested in Manchester.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely! The University of Manchester offers several scholarships for international students, including those from Korea. For instance, they have the GREAT Scholarships, which are in partnership with the British Council and the UK government, and these are available for Korean students as well. They also have merit-based scholarships and some specific funds for postgraduate students. If you’re interested in a particular program, I can help you look into the exact criteria and deadlines as well!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Yes, tell me about the deadline, please.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course! For the University of Manchester, the deadlines can vary depending on the program. Generally, for postgraduate courses, applications tend to close around the spring or early summer for a September start. For scholarships like the GREAT Scholarships, the deadlines are often in the early part of the year, around January to March. I can definitely look up the specific dates for your chosen program, so just let me know which course you're interested in, and we can get into those details!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“I don't know which course is best for me.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "No worries at all! We can definitely explore that together. It might help to think about what aspects of writing or storytelling you enjoy the most. For example, if you're into creative writing, you might look at programs focused on fiction or fantasy writing. Or if you're more interested in media and journalism, there are programs that blend writing with digital media. So if you share a bit more about your interests, I’d be happy to help you narrow it down!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“media and fiction sounds like good but I'm not interested in journalism”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! In that case, you might want to look into creative writing programs that have a strong focus on fiction, fantasy, and storytelling techniques. The University of Manchester, for example, has excellent creative writing master's programs. They also often have workshops and mentorship opportunities with published authors. If that sounds appealing, I can definitely give you more details on those programs and their requirements!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yes, what is the master's degree?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure! A master's degree in creative writing typically focuses on developing your writing skills through workshops, seminars, and one-on-one mentorship. You'll have the chance to work on your own projects, get feedback from peers and instructors, and often even have opportunities to get published. Typically, it takes about one year full-time or two years part-time. If you're interested, I can give you more details on the curriculum and what to expect!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Yes, please tell me about more details.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Of course! In a typical creative writing master’s program, you’ll usually start with core modules that cover different genres, writing techniques, and storytelling craft. You’ll participate in workshops where you’ll share your work and get constructive feedback from fellow students and instructors. There are often elective courses, so you can specialize in areas like fantasy, screenwriting, or poetry. Plus, many programs offer opportunities for public readings, publication, and networking events with authors. If you have any specific questions or want to dive deeper into any part of the program, just let me know!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Oh, poetry sounds interesting.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "That’s wonderful! Poetry is such a rich and rewarding field. In a creative writing master’s with a focus on poetry, you’ll dive into form, imagery, rhythm, and the nuances of language. You’ll also get plenty of opportunities to workshop your poems, attend readings, and engage with established poets. Plus, you’ll build a portfolio that could help you get published. If you’re curious about particular programs or any specific poets that inspire you, just let me know!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Workshop, that sounds like something I'd enjoy.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Absolutely, workshops are such a key part of the experience! They give you a supportive environment to share your work, get feedback, and refine your poetry with constructive critique. Plus, you’ll get to connect with fellow writers who share your passion. It’s a great way to build confidence and find your unique voice. If you’d like, I can help you look at specific programs that emphasize those workshop components!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Okay, thank you for your time.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm really glad we could chat about it. If you have any more questions down the line, just let me know. Best of luck with everything, and I hope you have a wonderful journey ahead!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Thanks. Good night.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "You're welcome! Take care and goodbye for now! Feel free to reach out anytime."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Task 1 (AI model ChatGPT 4o)
+Student: Hello, hello, can I get a chai latte, please?
+ChatGPT said: Hi there! Absolutely, I'd love to make you a chai latte. Would you prefer that with regular milk, or do you have another preference?
+Student: Um, regular mail, please.
+ChatGPT said: Perfect! And would you like that hot or iced today? It's always nice to have options, especially if it's a warm day!
+Student: Hot please?
+ChatGPT said: Student and AI (Transcript not available, Student would like a slice of cake and AI provided some options)
+Student: Chocolate cake is fine. Thank you.
+ChatGPT said: Great choice, chocolate cake it is! I’ll have that ready for you in just a moment. Do you have any preference for how sweet or spicy you like your chai latte? I can adjust it a bit if you like!
+Student: This is normal. It's fine. And I want to ask, where's the restaurant? Where's the restaurant?
+ChatGPT said: No problem, I'll keep it just as it is! And the restroom is right around the corner to your left. Just let me know if you need anything else while you're here!
+Student: Okay, thank you. Um, did you have, uh, when I buy a coffee, did you have a card to remember how I order? How to, uh, then you, when I get a 10, you can, uh, give me one Wolfberry.
+ChatGPT said: Ah, you're talking about a loyalty card, right? Yes, we do have one! 
+Student: Yes, that’s all I want, thank you.
+ChatGPT said: You're very welcome! Enjoy your chai latte and that chocolate cake. Let me know if you need anything else, and have a wonderful day!
+
+
+
+
+Task 2 (AI model ChatGPT 5)
+Student: “Hello, hello. Hi.”
+ChatGPT said: Hello! Thank you for calling. This is Luna from the restaurant. How can I assist you today?

@@ -1,0 +1,91 @@
+☕ Ordering at a café 🗨️
+
+Task 1: 
+You said: 
+ Hi, I would like to order a coffee today!
+English Conversational Partner said:
+Sure! What kind of coffee would you like — something like an espresso, latte, or cappuccino?
+You said:
+Can I have a latte to go?
+English Conversational Partner said:
+Of course! Would you like that latte with regular milk, or do you prefer a non-dairy option like oat or soy?
+You said:
+Do you have almond milk?
+English Conversational Partner said:
+Yes, we do! Almond milk’s a popular choice. Would you like any flavor added — maybe vanilla or caramel?
+You said:
+Vanilla, please.
+English Conversational Partner said:
+Great choice! Would you like it hot or iced today?
+You said:
+hot, please
+English Conversational Partner said:
+Perfect. What size would you like — small, medium, or large?
+You said:
+small, thank you
+English Conversational Partner said:
+Got it — a small hot vanilla almond latte to go. Would you like any pastries or snacks with that?
+You said:
+what are your options?
+English Conversational Partner said:
+We’ve got croissants, muffins, banana bread, and a few cookies — chocolate chip or oatmeal raisin. Would you like to add one of those?
+You said:
+I would like a banana bread, please 
+English Conversational Partner said:
+Sure thing! One slice of banana bread. Would you like it warmed up a bit?
+You said:
+Yes, please 
+English Conversational Partner said:
+Alright, I’ll warm that up for you. Would you like to pay by card or cash today?
+You said:
+By card 
+English Conversational Partner said:
+Perfect, you can tap or insert your card just here. Would you like a receipt with your order?
+You said:
+Yes, please 
+English Conversational Partner said:
+All set — here’s your receipt and your hot vanilla almond latte with warm banana bread. Would you like a napkin or any sugar on the side?
+You said:
+No, it’s ok thank you 
+English Conversational Partner said:
+Alright, thanks so much! Enjoy your coffee and have a great day. ☕
+You said:
+Thank you, you too 
+English Conversational Partner said:
+Thanks! Take care and see you next time. 😊
+
+Task 2: 
+🍽️ Booking a table at a restaurant 🗨️ 
+
+You said: 
+Hi, I’d like to book a table for two tonight.
+English Conversational Partner said:
+Of course! What time would you like to come in tonight?
+You said:
+I would like to go around 6 p.m. if it's okay.
+English Conversational Partner said:
+Sure, 6 p.m. works fine. Would you prefer to sit indoors or outside on the terrace?
+You said:
+Perfect! How’s the weather there? Would you say the terrace has a nice vibe tonight?
+English Conversational Partner said:
+Yeah, it’s a lovely evening—mild breeze and clear skies. The terrace has a great atmosphere right now. Would you like me to reserve a table out there for you?
+You said:
+yeah, sure. Thank you!
+English Conversational Partner said:
+Great! I’ll reserve a terrace table for two at 6 p.m. tonight. Could I have your name for the booking, please?
+You said:
+Under the name of Natalia Cardona 
+English Conversational Partner said:
+Perfect, Natalia. Your table for two on the terrace at 6 p.m. is all set. Would you like me to note any special requests—like a birthday, dietary preference, or seating preference?
+You said:
+Yeah, it's my friend's birthday, and she's vegetarian, actually 
+English Conversational Partner said:
+Got it, thanks for letting me know! We’ll make sure there are good vegetarian options and a little birthday touch for your friend. Would you like us to bring out a small dessert with a candle after your meal?
+You said:
+That would be great , thank you.
+English Conversational Partner said:
+Perfect, we’ll arrange that for you. Everything’s confirmed for tonight at 6 p.m.—terrace table for two, vegetarian-friendly menu, and a birthday dessert. See you this evening, Natalia!
+You said:
+Thank you, see you!
+English Conversational Partner said:
+You’re very welcome, Natalia. See you tonight—enjoy the celebration!

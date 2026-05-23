@@ -1,0 +1,355 @@
+{
+  "student_id": 26,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S26_W4_T1",
+  "source_file": "data\\raw\\#26\\#26\\#26. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "bot",
+      "text": "Hey there! How's it going? Let me know how I can help!"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, Good Morning.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Good morning! How can I help you today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Today I would like to talk about my career plan and your role here is University Advisor or Career Counselor.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help with that! Let's start with the basics: what are your main career goals or interests right now?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Currently, I am studying PhD in Agricultural Economics in Australia and I want to know about my career and some possible jobs in my field.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That sounds like a great field! So, are you leaning more towards academia and research, or are you looking at industry roles, maybe with government or private companies?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Currently, I have worked part-time in some company, but I would like to try something new.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it! It's great that you're open to new opportunities. Could you tell me a bit about what kind of work environment you prefer or any specific skills you'd like to use?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“I want to gain new skill and some technical job that I can get very fast new job.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That makes a lot of"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Absolutely! Gaining new technical skills can definitely open doors. Are there any specific areas or industries that you're curious about, like data analysis, sustainable development, or something else?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, I want to work in data analysis. What skill do I need for this?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Data analysis is a fantastic choice! Some key skills would include proficiency in tools like Excel, Python, or R, as well as understanding statistics and data visualization. Are you currently familiar with any of these tools?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“My experience is Stata software, but I don't familiar with R and Python, then what can I do?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Got it! Since you're already familiar with Stata, you have a strong foundation. I’d suggest starting with some introductory courses in Python or R, and maybe focusing on data visualization tools like Tableau. Would you like some recommendations on where to start learning?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“This data is not working. It is not good for this purpose.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Stata is definitely useful, but for broader data analysis roles, Python and R are more commonly used. So, picking up one of those will definitely boost your skill set. Let me know if you'd like any resources or tips on getting started with those!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“How can I learn R and Python?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "No worries at all! There are plenty of great online resources for learning both R and Python. Websites like Coursera, edX, and DataCamp have fantastic courses. Would you like any specific recommendations for a starting point?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“But I need job in currently, so is it possible?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, it's definitely possible to transition quickly! You can start with some foundational courses and also look for entry-level roles that value your existing skills in agriculture economics and your willingness to learn data analysis. Let's find a way to make that happen!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Before data analysis, I need a job, because I need a very quick job about any field, if there is a possibility of any training.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "I completely understand! There are definitely some entry-level roles that offer on-the-job training, especially in data-related fields. We can explore opportunities like data entry, junior analyst positions, or even internships that will help you get your foot in the door. Let's see what options we can find for you!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Then, could I change my study now?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "It's definitely possible to pivot your studies if you feel that's the best path for you. It might take a bit of planning, but it can be a great way to align your academic background with your career goals. Let me know if you'd like to explore that option further!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I need more information about some demanding job here, so I need to take training in that field.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, that's a great approach! There are definitely some high-demand fields like data analysis, cybersecurity, and digital marketing that offer good training programs. If you let me know which area you're most interested in, I can point you to some specific training options!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“And how long will be the training for these courses?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "The length of training can vary quite a bit depending on the field and the depth of the course. For instance, some introductory data analysis courses might take a few months, while more intensive bootcamps could be around 8 to 12 weeks. If you have a specific field in mind, I can give you a more tailored estimate!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Data analysis is very good here or not in Australia.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Yes, absolutely! Data analysis is in high demand in Australia, especially in sectors like finance, healthcare, and tech. So it’s definitely a great career path to consider!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Where can I get job if I study data analysis?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "With skills in data analysis, you can find opportunities in a variety of places, like tech companies, financial institutions, healthcare organizations, and even government agencies. So there are plenty of exciting options out there!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "Transcribing…"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Then, is it possible to change my field from Agrieconomics to Data Analysis?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Absolutely, it's definitely possible! Your background in agricultural economics gives you a strong foundation in data and analysis, and you can definitely build on that. With some targeted training, you'll be well on your way!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“which should provide training on data analysis.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "There are quite a few reputable institutes that offer data analysis training. For example, General Assembly, DataCamp, Coursera, and even universities like the University of Melbourne offer specialized courses. It really depends on your preference and schedule!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“अधेवार्ड इन्पार्ट”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "India definitely has a lot of great options as well! Institutes like upGrad, Simplilearn, and even the Indian School of Business offer excellent data analysis programs. So you’ll have plenty of choices to find something that fits your needs!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“and currently I need some job and do you think I need more work experience before applying in data science?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "It can definitely help to have some prior experience, but there are also entry-level roles that are open to people who are transitioning from other fields. Your background in economics will definitely be an asset. So, you can start applying and continue learning on the side, and that can really set you up for success!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“I think it is more competitive, then how can I get job.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "It can be competitive, but there are definitely ways to stand out! You can focus on building a strong portfolio with projects, maybe contribute to open-source work, and network with professionals in the field. And of course, continuous learning and possibly some certifications can really boost your chances. It's definitely achievable!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“What type of certification do I need to work in this field?”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "There are a few really well-recognized certifications that can help you stand out. For instance, the Google Data Analytics Professional Certificate is quite popular. Also, certifications from Coursera or edX in data analysis, Python, or even Tableau can be very beneficial. It really depends on the specific area you want to focus on!"
+    },
+    {
+      "turn": 48,
+      "speaker": "learner",
+      "text": "“Is it free or they take some money?”"
+    },
+    {
+      "turn": 49,
+      "speaker": "bot",
+      "text": "Most of these certifications do have a fee, but they're usually quite affordable, and sometimes you can find financial aid or free trials. There are also some free resources and courses that can help you get started, so you can definitely find a good balance!"
+    },
+    {
+      "turn": 50,
+      "speaker": "learner",
+      "text": "“Transcribing…”"
+    },
+    {
+      "turn": 51,
+      "speaker": "bot",
+      "text": "You're very welcome! I'm so glad to hear that. If you ever have more questions or need any more guidance, just let me know. Have a great day!"
+    },
+    {
+      "turn": 52,
+      "speaker": "learner",
+      "text": "“Last, I want to ask some questions. How can I decide between doing further study or starting work after graduation?”"
+    },
+    {
+      "turn": 53,
+      "speaker": "bot",
+      "text": "That's a great question and a big decision. It really depends on your personal goals and circumstances. Further study can deepen your expertise and open specialized career paths, while starting work right away can give you practical experience and financial independence. I'd be happy to chat more about the pros and cons if you'd like!"
+    },
+    {
+      "turn": 54,
+      "speaker": "learner",
+      "text": "“What are some signs that a course or subject might not be the right fit for me?”"
+    },
+    {
+      "turn": 55,
+      "speaker": "bot",
+      "text": "That's a really insightful question! Some signs might include feeling unengaged or uninterested, struggling to connect the material to your goals, or feeling consistently overwhelmed. It can also help to reflect on whether the subject excites you and aligns with your long-term aspirations. It's all about finding that fit!"
+    },
+    {
+      "turn": 56,
+      "speaker": "learner",
+      "text": "“How do I explore different careers if I am unsure what I want to do?”"
+    },
+    {
+      "turn": 57,
+      "speaker": "bot",
+      "text": "Exploring different careers can be a fun and enlightening process! You could try informational interviews with professionals, internships, or even short courses in different fields. Volunteering or taking on side projects can also give you a taste of various roles. And of course, talking to a career counselor can provide some personalized guidance!"
+    },
+    {
+      "turn": 58,
+      "speaker": "learner",
+      "text": "“Are there any new industries or roles I should consider based on my strength?”"
+    },
+    {
+      "turn": 59,
+      "speaker": "bot",
+      "text": "Absolutely! Given your background in agriculture economics, you might find exciting opportunities in sustainable development, agtech, or data-driven agriculture. Also, emerging fields like AI in agriculture, renewable energy, and even environmental economics are definitely worth considering. There's a lot of innovation happening in these areas!"
+    },
+    {
+      "turn": 60,
+      "speaker": "learner",
+      "text": "“What should I do now if I want to apply for internship next year in some industry?”"
+    },
+    {
+      "turn": 61,
+      "speaker": "bot",
+      "text": "That’s a great plan! I’d suggest starting by identifying the industries that interest you most, and then focusing on building relevant skills. You can also start networking with professionals in those fields, maybe attend industry events or webinars, and work on any projects that can showcase your skills. That way, you'll be all set when application time comes around!"
+    },
+    {
+      "turn": 62,
+      "speaker": "learner",
+      "text": "“How can I stay motivated if I am not sure about my goal yet?”"
+    },
+    {
+      "turn": 63,
+      "speaker": "bot",
+      "text": "Staying motivated can definitely be challenging, but a good strategy is to set small, manageable milestones and celebrate each one. Also, exploring different interests and staying curious can help a lot. Connecting with mentors or a supportive community can also give you that extra boost. Just remember to be patient with yourself!"
+    },
+    {
+      "turn": 64,
+      "speaker": "learner",
+      "text": "“Who else can I talk to for career or study advice at the university?”"
+    },
+    {
+      "turn": 65,
+      "speaker": "bot",
+      "text": "You can definitely reach out to the career services or student advisory center at your university. They usually have career counselors who can help you figure out your path. You can also look for workshops or one-on-one sessions with them to get personalized guidance. It’s a great resource!"
+    },
+    {
+      "turn": 66,
+      "speaker": "learner",
+      "text": "“How do I find alumni who have taken a similar path?”"
+    },
+    {
+      "turn": 67,
+      "speaker": "bot",
+      "text": "A great way to find alumni is to check out your university's alumni network or LinkedIn. You can search for graduates from your program and see their career paths. You can also attend alumni events or reach out to the alumni association. They’re usually more than happy to share their experiences!"
+    },
+    {
+      "turn": 68,
+      "speaker": "learner",
+      "text": "“Okay, thank you for your time.”"
+    },
+    {
+      "turn": 69,
+      "speaker": "bot",
+      "text": "You're so welcome! I'm glad I could help. If you ever have more questions, just reach out. Have a wonderful day!"
+    }
+  ]
+}

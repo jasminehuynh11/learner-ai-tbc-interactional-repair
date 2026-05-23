@@ -1,0 +1,260 @@
+{
+  "student_id": 36,
+  "week": 3,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S36_W3_T1",
+  "source_file": "data\\raw\\#36\\#36\\#36. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Hi! I want practice how to report a lost backpack to a police station. You - a policeman, who answered for phone call and try to help me, note all my information and give me questions about my lost backpack. Try to help me and contain request for search my backpack. I will start first in next message."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure — I’m ready when you are. Send your first message and I’ll answer as the police officer on the phone."
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hello, this is police, can you help me?”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Hello! Yes, absolutely, I’m here to help. Could you please tell me what happened with your backpack and when you noticed it was missing?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“This is my very big problem. I walking with my friends and I mean I forget my backpack on bench, but after 5 minutes I come back to this bench and I don't found my backpack. I mean someone stolen him.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. I’ll definitely help you out. Could you please describe the backpack for me, like its color, brand, or any distinctive features it might have?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“Okay, thank you, I try. My backpack is black and has two logos, and the first logo is Nike, and the second logo is the name of my company.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Got it, that’s helpful."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, thank you for"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“to picture, and this backpack view like very old, because I bought this maybe five years ago.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "I understand, that definitely helps paint a clearer picture. Could you let me know the exact location or area where you lost it, so we can narrow down the search?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yes, it has been Moorpark, Sydney, near CBD, and yesterday, maybe 6 p.m.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Thank you for that information. That’s definitely useful. Could you also let me know if there were any important items inside the backpack, or any documents that we should be aware of?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yes, of course, I had in this backpack my box with two spoons, one cap, and two fork. This is a present for my near friend who have a birthday yesterday. And in this backpack I have a power bank, Xiaomi, and if I remember, I have two packs of dark chocolate. It's all, if I remember. But maybe in this backpack I have my notebook, what I use for studying.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Alright, thank you for sharing those details. That definitely helps us understand the situation better. Is there a contact number or any other way we can reach you if we find any updates on the backpack?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Yes, can you write my phone number?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Of course, absolutely. Please go ahead and share your phone number, and I’ll make sure we have it noted down."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, 0, 4, 1, 2, 3, 1, 7, 6, 8, 0.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Got it, thank you! I’ve noted that down. Is there anything else you’d like to add, or any other detail you think might be helpful for us to know?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Maybe you need to have my email too.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "That would be great, thank you! Feel free to share your email, and we’ll make sure to keep you updated as well."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“My mail is s-t-a-e-n-i-v-2 and gmail.com”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Perfect, I’ve got that noted as well. Thank you so much for providing all these details. We’ll do our best to help locate your backpack. If there’s anything else, just let me know!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“How you mean, what time you need for search my backpack?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "We’ll start the search right away and keep you updated as soon as we have any news. Usually, it can take a little time, but we’ll do our best to get back to you within a day or so. If we find anything, we’ll contact you immediately."
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Спасибо за вашу информацию. Можете ли вы мне помочь? Сколько раз в Сиднее были украдены вещи, но когда я был в Сиднее, я читал книги, читал артиклы о этой городе, и всегда читал, что в Сиднее не было зубов. Но я действительно был удивлен, когда мой багажник был украден.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "I can understand that surprise. Sydney is generally considered safe, but unfortunately, theft can still happen occasionally. We’ll do our best to help you out, and hopefully, we can recover your backpack quickly. If you have any other questions or concerns, just let me know!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yes, can I set a word for search my backpack? Maybe someone can help me and have, and after will have a reward for this.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Absolutely, that’s definitely something we can arrange. We can note that down and let people know that there’s a reward for the return of your backpack. Just let me know the details of the reward, and we’ll include that in the information we share."
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Oh sure, so I try to give men who found my backpack 100 Australian dollars.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "That sounds great, and we’ll be sure to include that information. Hopefully, that will encourage someone to help us out. If there’s anything else you’d like to add or any other details you need, just let me know!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Thank you for advice, can you help me?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course! I’m happy to help. Just let me know what kind of advice you need, and I’ll do my best to assist you."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Maybe you know what company else.”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "I’m here to help with"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“Maybe, sorry, can you help me something else? What company I can call and try to give me more information about my stolen things? Maybe in Sydney we have company who can help to me found my backpack. Maybe this is station for stolen things or something else.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Absolutely, I can definitely point you in the right direction. In Sydney, you can reach out to local lost property offices, or even some private recovery services that specialize in lost items. Additionally, you can also contact local pawn shops or online marketplaces in case your belongings turn up there. Let me know if you’d like more specific recommendations!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Oh, thank you. Can you give me a phone number about the station?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Of course! I can definitely provide you with some contact information. I’ll make sure to share the details of the local lost property office and any relevant services. Just give me a moment, and I’ll get that for you!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“Hello?”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "All right, I’ll gather that information for you. If you have any other questions in the meantime, just let me know, and I’ll be happy to help!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Yes, I just repeat I try to give more information about station What can help me for found my backpack? Can you give me a phone number of the station?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll get that for you. I’ll provide you with the contact number for the local lost property office in Sydney, and that way you can reach out directly. Just give me a moment, and I’ll have those details for you."
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“Yes, vote for number, I read it for writing.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Great! Whenever you’re ready, go ahead and share it, and I’ll make sure to note it down and help you out with everything you need."
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Please give me a number of local office of...”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Of course! One of the main contacts for lost property in Sydney is the NSW Police Lost Property Office. You can reach them at +61 2 9265 8490. Feel free to reach out to them, and hopefully, they’ll be able to assist you further."
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“Oh, thank you very much. I write in information. Have a nice day. I hope that you can help me to find my backpack as soon as possible. Thank you.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help, and I truly hope your backpack is found quickly. If you need anything else at all, just let me know. Have a wonderful day!"
+    }
+  ]
+}

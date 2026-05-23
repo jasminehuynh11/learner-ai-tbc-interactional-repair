@@ -1,0 +1,28 @@
+[
+  {
+    "dialogue_id": "S1_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner changes mind about updating phone number",
+    "evidence_summary": "The learner initially states they need to update their phone number but then changes their mind, saying 'Yeah, no, it's okay.' The bot acknowledges this change and offers assistance if needed, resolving the issue."
+  },
+  {
+    "dialogue_id": "S1_W2_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      30,
+      31
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner does not understand message",
+    "evidence_summary": "The learner mentions receiving a message they don't understand. The bot reassures the learner and offers to help figure it out, indicating a resolution to the learner's confusion."
+  }
+]

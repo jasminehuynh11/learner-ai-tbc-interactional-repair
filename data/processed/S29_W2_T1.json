@@ -1,0 +1,230 @@
+{
+  "student_id": 29,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S29_W2_T1",
+  "source_file": "data\\raw\\#29\\#29\\#29. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Visiting a Medical Clinic and Booking or Changing an Appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "i'd like to make an appointment to see a doctor"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Sure, no problem. To book you in, could you tell me what you need to see the doctor about today?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "i have coughed for two weeks and sometimes have a headache"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, thanks for letting me know. Do you have a preferred doctor you’d like to see, or is the next available doctor fine for you?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "i have not been to this clinic before, so next available doctor is perfect"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Great, we can do that. What day or time would you prefer for the appointment?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "when is the earliest date and time?"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Sure. The earliest appointment we have is tomorrow at  a.m. with our on-duty physician. Would that time work for you, and could I have your full name to hold the booking?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "the time works for me. My name is Ken"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Alright, thanks Ken. Could you give me your date of birth so I can complete the booking?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yesterday was my 25th birthday. So 4-12-2000 is my birthday"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Alright, got it—4 December 2000. Thanks, Ken. To finalise your appointment, could you give me a contact phone number?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "0431509658"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Alright, thanks for that number. One last thing, Ken—do you have a Medicare card or any health insurance you’ll be using for the visit?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "I have a student insurance. Do i need to show you the medicare card for application?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Sure, thanks for checking, Ken. Since you have student insurance, you don’t need a Medicare card, but we’ll just need your insurance provider name when you come in. Which student insurance are you covered by?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "OSHC"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Alright, thanks, Ken. Since you’re with OSHC, we’ll just need your policy number when you arrive. Do you happen to have that number with you now?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "i forgot the number. Can I give you tomorrow?"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "No problem, Ken. You can give us the policy number when you arrive for your appointment. Just to confirm, your appointment is tomorrow at  a.m. with the next available doctor for your cough and headaches. Would you like me to explain what you should bring or any check-in procedures for tomorrow? “I'm sorry, but I cannot do 9.20. Can I make a new appointment?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Of course, that’s absolutely fine. Let’s find another time that works better for you. What day and time would you prefer instead?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“And I'll do each one of them.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Alright, let me check our availability for Tuesday. We have an opening at  p.m. on Tuesday. Does that time work for you?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Yeah, that's okay.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Perfect, I’ll book you in for Tuesday at  p.m. Then. If you have any other questions or need anything else before your visit, just let me know!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“That's all. See you on that day.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Sounds good, Ken! We’ll see you then. Have a great day, and take care!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“That's all you have. Have a good day for you too.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Thank you so much! Take care, and we’ll look forward to seeing you soon. Bye for now!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Of course! When you arrive, just check in at the front desk with your name and date of birth. We’ll also confirm your insurance details and any paperwork. If you have any questions at that time, our staff will be happy to help."
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“At the same time, can I do a blood test because my school needs the vaccination checks for me?”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, you can arrange a blood test as well. Just let us know when you arrive, and we’ll schedule it for you. If you have any specific requirements for the vaccination checks, just bring that information along, and we’ll take care of it."
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“Yeah, I will bring the list on my appointment date, and can I do the blood test on the same day I have the meeting with the GPs?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "Yes, absolutely! We can coordinate the blood test on the same day as your appointment with the GP. We’ll make sure everything is arranged so that it’s convenient for you. Just let us know if you have any special requests when you arrive."
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“And I allowed you to get a sick leave certificate after meeting GP.”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Yes, absolutely! After your appointment, the GP can provide you with a sick leave certificate if needed. Just let the doctor know about your situation, and they’ll take care of that for you."
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Sorry, one last thing I want to ask about V.”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Of course, I’m happy to help! Feel free to ask me anything about the fees, and I’ll provide all the details you need. What would you like to know?"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“I want to ask about medication fee and doctor fee.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "Absolutely! The doctor’s consultation fee will depend on the type of appointment, but we can give you a clear breakdown when you arrive. As for medication fees, those will vary depending on the prescriptions, but we can discuss all that during your visit. If you have any specific concerns, just let me know!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“Thank you. That really helped. See you on Tuesday.”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. We’ll see you on Tuesday, and take care until then!"
+    }
+  ]
+}

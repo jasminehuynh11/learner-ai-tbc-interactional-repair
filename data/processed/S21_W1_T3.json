@@ -1,0 +1,120 @@
+{
+  "student_id": 21,
+  "week": 1,
+  "task": 3,
+  "task_label": "T3",
+  "dialogue_id": "S21_W1_T3",
+  "source_file": "data\\raw\\#21\\#21\\#21. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Returning or Exchanging Clothes Scenario: You visit a clothing store to return or exchange something. Your Role: Customer Chatbot Role: Store assistant"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Sure. (Role: Store Assistant) Hi there, welcome back. Are you looking to return or exchange an item today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“last week, but it doesn't fit me.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "I understand. No worries. Could you let me know the item you have and the reason it doesn’t fit?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“It's a little bit tiny for me, so is it possible to return or exchange the size, this medium to large?”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Absolutely, we can help with that. Do you have the receipt with you, and would you prefer to exchange it for the larger size or would you like a refund?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“We have the recipe here, so what's the return policy?”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Our return policy allows returns or exchanges within 30 days of purchase, as long as the item is in its original condition and you have the receipt. We can definitely proceed with the exchange for a larger size."
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Thank you so much. So, I have received and I also bought it last week, so maybe it's in our condition, I think. So, could you exchange the larger one, please?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Of course, we can do that. Let me just verify the item and get the larger size for you. Thank you for bringing everything in!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Oh, I'm sorry. I realize now. So can I return this? I've already taken off the text. I forgot to remove this text.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "No problem at all. We can still help with the exchange as long as the item is in good condition. Let’s take a look and we’ll get that sorted for you."
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Uh, so thank you so much. Thank you for your help. I appreciate your explaining the policy. Thank you so much.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m happy to help. If you need anything else, just let me know."
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“Yeah, so should I wait here or something next day or something like that? Should I come again?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "You’re welcome to wait here while we get it ready, or if you prefer, you can come back later and we’ll have it prepared for you. Just let us know what’s most convenient for you."
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, how many hours or how many minutes, how much time?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "It should only take about 10 to 15 minutes to get everything sorted. Feel free to relax, and we’ll let you know as soon as it’s ready."
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, so thank you so much. So I will stay here and I will waiting for you. Thank you very much.”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Of course! We’ll get everything done promptly. Thank you for your patience, and if you need anything in the meantime, just let us know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“And now that's all. Thank you very much. Thank you for helping.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "You’re very welcome! It’s my pleasure. If you need anything else, just let us know. Have a great day!"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "dialogue_id": "S38_W1_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      5
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own indecision/choice",
+    "evidence_summary": "The learner initially states they don't know what to take for breakfast, then self-corrects within the same turn by deciding on 'eggs and toast'. This is a learner-initiated self-correction that is resolved as the learner makes a clear choice."
+  },
+  {
+    "dialogue_id": "S38_W1_T1",
+    "repair_id": 2,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "unintelligible learner speech – 'Transcript Unavailable'",
+    "evidence_summary": "The learner's utterance in turn 7 is marked 'Transcript Unavailable', making it unclear. The bot in turn 8 interprets this as a request for 'two hash browns and a side salad'. This is a bot-initiated repair as the bot attempts to make sense of an unclear input. The dialogue continues without the learner challenging this interpretation, indicating it was resolved."
+  },
+  {
+    "dialogue_id": "S38_W1_T1",
+    "repair_id": 3,
+    "turn_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "ambiguous question – learner's utterance was unclear, leading to partial understanding by bot",
+    "evidence_summary": "The learner's utterance in turn 11 ('Here is their student discount') was ambiguous. The bot in turn 12 responded generally about the discount's existence and application, but didn't address the specific percentage. The learner in turn 13 then explicitly clarified their intent to know the percentage. This is a learner-initiated repair to clarify their own previous ambiguous statement, which is resolved when the bot provides the percentage in turn 14."
+  }
+]

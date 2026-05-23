@@ -1,0 +1,150 @@
+{
+  "student_id": 47,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S47_W2_T2",
+  "source_file": "data\\raw\\#47\\#47\\#47. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Hi, I'm good, and you?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "I'm doing great, thanks for asking! How's your day been so far?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“So I would like to open a new saving account, please.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Absolutely, I can help with that! Are you looking for any specific features or a particular bank, or do you just want some general guidance on how to get started?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“No, no, the general.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, no worries! In that case, if you let me know what you're looking for, like interest rates or account features, I can definitely point you in the right direction. Just let me know what you need!"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“So I need to save money and run an account.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, that makes sense! If you're looking for something straightforward, we can look into high-yield savings accounts or ones with low fees. Let me know if you have any preferences, and I can definitely help you find the best option!"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“I'm sorry, I came again more slow, please.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "No worries at all! What I was saying is that if you’re looking for a simple savings account, we can explore options like high-yield accounts or ones with minimal fees. Just let me know what you prefer, and I’ll help you find the best fit!"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“So, I don't know. I... I... I just... I just...”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "That's totally fine!"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“I need to save an account.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it, you just need a savings account, no worries at all. We can definitely explore some options and find one that suits you best. Just let me know if you have any particular preferences or questions, and I'm here to help!"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“So, can I set up online banking at the same time?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Absolutely, yes! Most banks let you set up online banking right when you open the account, so you can manage everything digitally from the start. Once you open your account, they'll usually give you access to an online portal or a mobile app. If you need any help with that process, just let me know!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Okay, do I need to IG for this?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Yes, typically you will need some form of identification, like your ID or passport, to open a savings account. Banks usually require that for verification purposes. If you have any questions about the documents needed, I’m happy to help!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Perfect! If you need any more details or have any other questions as you go through the process, just let me know. I’m here to help!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“What files do I need?”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Usually, you'll need a government-issued ID, like a driver's license or passport. You might also need proof of address, such as a utility bill or a bank statement. And sometimes, they might ask for your Social Security number or Tax ID, depending on your country. If you let me know where you're located, I can give you more specific details!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“I gotcha, I gotcha. Thank you so much.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "You're very welcome! If anything else comes up, just let me know. I'm happy to help anytime!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Thank you. Have a good day.”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "You're welcome! Have a great day, and feel free to reach out anytime. Take care!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Thanks a lot! Talk to you soon! Bye for now!"
+    }
+  ]
+}

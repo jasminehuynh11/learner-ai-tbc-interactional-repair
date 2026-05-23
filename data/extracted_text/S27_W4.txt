@@ -1,0 +1,74 @@
+Week 4
+Task 1: 
+Me: I’m studying natural environment, but I’m not sure it’s the right fit.
+AI: Thanks for sharing that. What parts of the course do you enjoy, and which parts feel difficult or uninteresting?
+Me: I enjoy fieldwork, but I struggle with heavy data analysis.
+AI: That makes sense. Some careers combine environmental work with more practical or people-focused roles.
+Me: That sounds like something I’d enjoy.
+AI: For example, environmental consulting, sustainability coordination, or policy support roles focus less on raw data and more on application.
+Me: So what are some signs that a course or subject might not be the right fit for me?
+AI: Common signs include constant lack of motivation, stress that doesn’t improve, or difficulty seeing how the subject connects to your future goals.
+Me: I do feel unsure about job options.
+AI: That’s very common. Talking to graduates or doing short internships can really help clarify that.
+Me: What should I do now if I want to apply for internships next year?
+AI: Start by updating your CV, identifying 3–5 organisations you like, and building relevant skills through volunteering or short courses.
+Me: I see. Do you think I need more work experience before applying?
+AI: Not necessarily—many internships expect beginners. Showing interest, basic skills, and motivation is often enough.
+Me: That makes me feel more confident.
+AI: I’m glad to hear that. We can review your CV together if you’d like.
+
+
+
+Task 2: 
+Me: Hi, we’ve just started our group project. Can we plan the tasks together?
+AI: Sure, that sounds like a good idea. Maybe we can first list all the tasks we need to complete.
+Me: We’ll need research, writing, and a presentation.
+AI: Agreed. I’m comfortable with research, but I’d prefer less writing if possible.
+Me: Well, let’s talk about how to divide the research and writing sections fairly.
+AI: How about we split the research evenly, then each person writes one section based on their research?
+Me: That could work, but I’m worried about the workload balance.
+AI: That’s fair. We could set word limits so everyone has a similar amount.
+Me: It sounds like we have different views. Can we find a middle option?
+AI: Yes—maybe two people focus more on research, and two focus more on writing, but everyone contributes a bit to both.
+Me: Sounds good! I’m happy to try the presentation, but I’ve never done it before. Any tips?
+AI: No problem. Practising early and using simple slides really helps. I can review your slides with you.
+Me: Do you think we need a shared document to manage tasks?
+AI: Definitely. Let’s use Google Docs and add a task list with deadlines.
+Me: Great, I’ll set that up.
+AI: Perfect—thanks for taking initiative.
+
+
+
+
+
+Task 3: 
+Me: Hi, we’ve just finished our group project. I’d appreciate your feedback on my contribution and communication.
+AI: Of course. Overall, you communicated clearly and were reliable with deadlines. You attended meetings regularly and followed through on what you promised, which is very important in group work.
+Me: That’s good to hear.
+AI: Yes, your teammates could depend on you, and that really helped the group stay organised.
+Me: yes.
+AI: One area to improve would be speaking up earlier when you disagree, instead of waiting until the last minute. Sharing your thoughts sooner can help the group adjust direction more easily.
+Me: Thank you! What does success look like for this task?
+AI: Success means consistent participation, respectful communication, and taking responsibility for your assigned role. It also includes being proactive—raising concerns, offering ideas, and supporting your teammates when needed.
+Me: Could you please give an example of something I did this well and something I could improve?
+AI: Certainly. You summarised group decisions very clearly in meetings, which helped everyone stay on the same page—that was excellent. One thing you could improve is asking more follow-up questions, especially when instructions or ideas aren’t completely clear.
+Me: That makes sense.
+AI: Yes, asking questions shows engagement and interest, and it can prevent misunderstandings later on. It also helps others feel more confident about the plan.
+Me: I’ll try to do that next time.
+AI: That’s a great plan. It’s a small change, but it can make a big difference to teamwork and communication.
+Me: Could we schedule a follow-up meeting in a few weeks to review progress?
+AI: Yes, that’s a very good idea. Let’s schedule a follow-up meeting in three weeks so we can see how things are going and discuss any further improvements.
+Me: That works for me. Thank you!
+AI: Excellent. I look forward to seeing your progress and continuing this conversation then.
+
+
+
+
+
+
+
+
+
+
+
+

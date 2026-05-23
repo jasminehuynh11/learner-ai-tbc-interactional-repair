@@ -1,0 +1,130 @@
+{
+  "student_id": 40,
+  "week": 3,
+  "task": 1,
+  "task_label": "T4",
+  "dialogue_id": "S40_W3_T1",
+  "source_file": "data\\raw\\#40\\#40\\#40. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "🏠 Reporting an issue at a rental property 🗨️ “Hi, I'd like to report a damage at my rental property.”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course. Could you tell me what kind of damage you’re reporting?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Hey, I would like to report that the kitchen faucet is broken."
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, thanks for letting me know. Is the faucet leaking, completely detached, or just not working properly?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "The faucet is leaking"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it. How bad is the leak — is it a steady drip, or is water running continuously?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "the water is running continuously"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "That sounds quite serious. Have you been able to turn off the water supply to stop the flow for now?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "Currently, the water supply is turned off. I can use the bathroom, sink or dishwasher"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Good move turning it off. Could you tell me the property address so I can log the maintenance request properly?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "My address is 123 Hawker Street, north Adelaide."
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Thanks for that. When did the leak start — was it today, or has it been going on for a while?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "I'm not sure. I think so. It started yesterday at night."
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Alright, thanks for the info. Just to confirm — are you the main tenant listed on the lease, or are you reporting this on behalf of someone else?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "I am reporting this on behalf of someone else."
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Understood. Could you please tell me the tenant’s full name so I can match the report to the right lease record?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "the main tenant is Juan Antonio Duque Gómez."
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Perfect, thank you. Lastly, could you share a contact number or email in case the maintenance team needs access or more details?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "Sure, of course. My number is 310-458-9948. And my email address is asuarex0521@gmail."
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Thanks, that’s all I need to file the report. Our maintenance team will contact you or the tenant soon to arrange a repair visit. Is there any preferred time for them to come by?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "Of course, the maintainers can call me, and for me the best time is after 12 p.m., thank you."
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Great, I’ll note that down — after 12 p.m. works best. Thanks for reporting the issue; we’ll get it sorted soon. Have a good day!"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "You too. Have a good one."
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Thanks! Take care and goodbye."
+    }
+  ]
+}

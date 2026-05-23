@@ -1,0 +1,26 @@
+[
+  {
+    "dialogue_id": "S30_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      6,
+      7
+    ],
+    "initiation": "LI",
+    "resolution": "U-P",
+    "trigger": "learner's unclear statement",
+    "evidence_summary": "The learner's statement 'maybe time-free' in turn 6 is unclear, indicating potential confusion. The bot's response in turn 7 does not address this ambiguity and instead moves the conversation forward without resolving the misunderstanding."
+  },
+  {
+    "dialogue_id": "S30_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "BI",
+    "resolution": "U-A",
+    "trigger": "learner's unclear utterance – 'You old hippie, please?'",
+    "evidence_summary": "The learner's statement 'You old hippie, please?' in turn 12 is unclear and does not relate to the context. The bot responds in turn 13 with a generic reassurance, but there is no attempt to clarify or resolve the unclear utterance, and the conversation moves on."
+  }
+]

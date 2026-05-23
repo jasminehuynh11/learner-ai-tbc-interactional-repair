@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S16_W2_T3",
+    "repair_id": 1,
+    "turn_indices": [
+      12,
+      13
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's explanation",
+    "evidence_summary": "The learner asks the bot to repeat its explanation about credit card options in turn 12. The bot repeats the information in turn 13, and the conversation continues smoothly, indicating the issue was resolved."
+  },
+  {
+    "dialogue_id": "S16_W2_T3",
+    "repair_id": 2,
+    "turn_indices": [
+      42,
+      43
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner asks the bot to repeat its question about move-in preferences in turn 42. The bot repeats the question in turn 43, and the learner responds appropriately in turn 44, resolving the issue."
+  },
+  {
+    "dialogue_id": "S16_W2_T3",
+    "repair_id": 3,
+    "turn_indices": [
+      48,
+      49
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner did not understand bot's question",
+    "evidence_summary": "The learner asks the bot to repeat its question about scheduling a viewing in turn 48. The bot repeats the question in turn 49, and the learner responds in turn 50, indicating the issue was resolved."
+  }
+]

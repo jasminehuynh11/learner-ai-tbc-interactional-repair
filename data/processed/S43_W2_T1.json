@@ -1,0 +1,235 @@
+{
+  "student_id": 43,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S43_W2_T1",
+  "source_file": "data\\raw\\#43\\#43\\#43. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Making a clinic appointment"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hello, I want to practice making a clinic appointment. We will play a role where you are the receptionist, and I will be the person who's calling for you to make an appointment for a person who cannot speak English.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Absolutely, that sounds great! I'll be the receptionist. Let's get started. So, to begin, can you let me know the reason for the appointment and the name of the person who needs it?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Can we start now?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Of course, we can start right away! Whenever you're ready, just let me know the details, and I'll help you set up that appointment. Feel free to begin whenever you like."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Hello.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Hello! How can I assist you today? Is there someone I can help schedule an appointment for? Let me know the details."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“I'm Monica. Actually, I'm not the one who need an appointment. I just want to help my friend who cannot speak English. She want to make an appointment maybe tomorrow morning.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, Monica! That’s absolutely fine. I can definitely help with that. Could you let me know your friend's name and what kind of appointment they need, as well as any specific time preferences for tomorrow morning?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "No worries at all, Monica! I'm happy to help. So, we’ll make sure we have everything ready for Jessica. Could you let me know what type of appointment she needs, like whether it’s a general check-up or something specific? And, any preferred time in the morning would be great!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Maybe she just wants to make an appointment for a general check-up tomorrow.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Perfect, that sounds good! And do you know if she has any preferred time in the morning, like a specific hour, or would any time in the morning work for her?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“I think she told me that she wants to make an appointment at around 11.30. Is that too late?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "That should be fine! We can definitely schedule her for  in the morning. Is there anything else that we need to know, like her contact information or any special requirements?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yes, I will give you her contact information.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That sounds great! Whenever you’re ready, just share the details, and I’ll make sure we have everything set up for Jessica’s appointment."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Yet, just a second. Her full name is Jessica Jung, T-R-A-N. That's her last name. And her phone number is 0475-7765.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Perfect, thank you for that information! I’ve got Jessica’s details, and we’ll book her appointment for tomorrow at  in the morning. If there’s anything else you think of, just let me know. Otherwise, we’ll be all set!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Oh, I'm sorry. She just texted me and she asked me if I can ask you to change the appointment to maybe 2 p.m.?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "No problem at all! I’ll update the appointment to 2 p.m. for Jessica. Thanks for letting me know. If there’s anything else or any other changes, just give me a shout!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yeah, she also asked me if she can make the appointment with Dr. John.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, we can arrange that. I’ll make sure to schedule Jessica’s appointment with Dr. John at 2 p.m. tomorrow. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Do you want me to describe some reasons or some symptoms that she has?”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Yes, that would definitely help in making sure we arrange the right type of appointment. Feel free to share any symptoms or concerns Jessica has, and we’ll make sure everything’s set up accordingly."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“I will check the text. She texted me that she feels very dizzy. She has a stomach-ache, mostly in the early morning. And whenever she stands up, or she's lying down, or she turns her head, she feels really dizzy. And sometimes it makes her feel nauseous as well. And she's also told me that her daily diet is quite balanced. She ate lots of vegetables, but she wondered why she felt dizzy all the time.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Got it, that definitely helps. I’ll make a note of those symptoms so that Dr. John can be prepared. We’ll make sure Jessica gets the right care for her dizziness and stomach issues. If there’s anything else you remember or need, just let me know!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“She asked me if those types of appointment, like a general check-up, she will need to”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, I"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“I'm sorry, she just wondered if she needs to do a blood test or something because she's quite worried about a blood test.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "I understand! We can definitely let Dr. John know about her concerns, and he can advise whether a blood test is necessary. We’ll make sure she feels comfortable and has all the information she needs. If there’s anything else you’re curious about, just let me know!"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Do I need to bring, I'm sorry, does she need to bring the Medicare to the appointment?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yes, it would be helpful for her to bring her Medicare card to the appointment, just to make things smoother. But if she forgets, we can still help her out. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make a note of that as well. That information will definitely help Dr. John look into the possible connection between her iron deficiency and the dizziness and stomach issues. Thanks for sharing that, and if there’s anything else, just let me know!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yes, absolutely, I have a long note of what she wants me to transfer to you before she comes to the appointment tomorrow. She's also asked about the book billing, and she wonders if it's available for her.”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Of course, I can definitely check on the bulk billing option for her. I’ll make sure everything’s arranged so it’s as smooth as possible. And whenever you’re ready, feel free to share any additional notes, and we’ll make sure Jessica’s appointment is all set."
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Another note is that she wants to ask if she does she have to bring her own translator or do you have any translator or language support for her appointment because she can't speak English and some very professional term or some how related terms she might cannot understand.”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "That’s a great point! I’ll make sure to arrange language support for her appointment so that she feels comfortable and understood. She doesn’t need to bring her own translator. I’ll handle that for her. If there’s anything else you think of, just let me know!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Yeah, she also wants to ask if she has to pay for the translator.”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Got it! I’ll make sure to confirm that the translation service is provided at no extra cost for her. That way, Jessica can focus on her health without any worries. If there’s anything else you need, just let me know!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“I think that's it for today. Yeah, I will tell her about the appointment that we made today. I really appreciate your help. Thank you very much.”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "You’re very welcome! I’m glad I could help. If you need anything else at all, just let me know. Have a great day, and I’ll be here whenever you need me!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Yeah, that's it. Thank you. Have a lovely evening. Bye”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "You too! Have a wonderful evening, and take care. Bye for now!"
+    }
+  ]
+}

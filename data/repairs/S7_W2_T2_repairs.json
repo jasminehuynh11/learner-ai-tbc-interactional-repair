@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S7_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – did not understand 'deposit'",
+    "evidence_summary": "The learner explicitly asks for the meaning of the word 'deposit' in turn 7, indicating a vocabulary issue. The bot provides a clear explanation in turn 8, and the conversation continues smoothly, indicating the issue was resolved."
+  }
+]

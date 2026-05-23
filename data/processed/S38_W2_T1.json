@@ -1,0 +1,125 @@
+{
+  "student_id": 38,
+  "week": 2,
+  "task": 1,
+  "task_label": "T3",
+  "dialogue_id": "S38_W2_T1",
+  "source_file": "data\\raw\\#38\\#38\\#38. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "BANK"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Good evening. I would like to open a bank account, please, if possible.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Of course! I can definitely help you with that. Let me know what type of account you’re interested in, and I’ll guide you through the process."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“I would like to get a MasterCard, what type of card do you have?”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "We offer a variety of cards, including debit cards, credit cards, and also prepaid cards. If you're interested in a Mastercard, we can definitely look at the options available for that as well. Let me know what you're looking for, and I’ll help you find the best fit!"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Actually, I would like to have a credit card with a MasterCard. Is it possible to get two, or should I?”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Yes, absolutely!"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Splendid”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "No worries at all! If you’d like to get two credit cards, we can definitely discuss the options and see what works best for you. Just let me know your preferences, and we’ll make it happen!"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Alright, do I need to book an appointment for, to have, to create my bank account, or?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "It’s usually possible to do it either way. You can either come in and we’ll assist you right away, or you can schedule an appointment if you prefer a more personalized experience. Just let us know what works best for you!"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“All right, I need to bring my ID card or anything that concerns...”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Yes, definitely! You’ll want to bring a valid ID, like your driver’s license or passport, and also any proof of address, like a utility bill. If you’re applying for a credit card, we might also need some financial documents. But I’ll guide you through all of that when you come in."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“May I know the advantages of having a credit card and a MasterCard?”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely! Having a credit card can help you build your credit history, offer rewards like cashback or travel points, and provide fraud protection. A Mastercard, in particular, is widely accepted globally, and it often comes with additional benefits like travel insurance and purchase protection. It’s definitely a convenient and secure way to manage your finances."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“How interesting. Do I get taxes when I pay with my MasterCard and, for example, if I ever go overseas, do I need to pay a tax with it or no?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Great questions! Typically, when you use your Mastercard, the taxes are determined by the merchant and the local laws, so it’s not really the card itself that adds taxes. When you travel overseas, you might encounter foreign transaction fees, which are usually a small percentage of the purchase amount. Some cards do offer travel-friendly features that reduce or waive those fees, so it’s definitely something to consider."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“Thank you very much. Is it possible if I come on the afternoon after work?”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Of course! That’s absolutely fine. You can come by in the afternoon, and we’ll be happy to assist you then. Just let us know the exact time that works best for you, and we’ll have everything ready!"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Is 5 pm okay? What time do you close?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Yes, 5 PM works perfectly! Our clinic usually closes around 6 PM, so you’ll have plenty of time. If anything changes or you need to adjust the timing, just let us know, and we’ll accommodate you!"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Oh, thank you very much. See you later.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "You're very welcome! Looking forward to seeing you later. Have a great day!"
+    }
+  ]
+}

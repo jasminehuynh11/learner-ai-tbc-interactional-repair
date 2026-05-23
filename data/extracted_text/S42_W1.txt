@@ -1,0 +1,287 @@
+Week 1: Everyday Services and Informal Interactions
+Task 1: Ordering Coffee at a Café
+You said:
+I want to practise how to order coffee at a café. You are a barista working in a café in Sydney. I’ll play the role of a customer. Please create a realistic café scenario and respond as if we were really there. Ask me about my preferences, help me choose from the menu, and explain different coffee options. Keep the conversation going naturally by asking at least 3 follow-up questions about size, milk, and payment.
+English Conversational partner said:
+Sure! Welcome to our little café in Surry Hills—sun’s out, grinder’s humming, and I’m behind the bar wiping down the machine.
+English Conversational partner said:
+What kind of coffee would you like today?
+English Conversational partner said:
+Transcript unavailable
+English Conversational partner said:
+Absolutely! We've got all the classics: flat whites, cappuccinos, long blacks, you name it. Now, did you have a particular size in mind, or maybe you’re feeling like something a bit larger or smaller today?
+You said:
+“I would like a smaller size coffee today because I just had lunch. And which coffee would you recommend?”
+English Conversational partner said:
+Alright, a smaller one sounds perfect after lunch. I'd say a nice small flat white is pretty popular around here—it’s got a good balance of espresso and milk. Speaking of which, do you have any preference for the type of milk you'd like in that? We have regular, skim, and a few non-dairy options as well.
+You said:
+“Does flat white have a lot of form of milk?”
+English Conversational partner said:
+Sure! A flat white actually has just a nice thin layer of microfoam, so it's creamier and not too frothy. Now, let me know which milk you'd like to go with that—regular, skim, or maybe a non-dairy one? 밀크? You just tell me.
+You said:
+“I usually have a stomach ache after drinking regular milk. Then what would you recommend to me?”
+English Conversational partner said:
+I'd go for something like oat milk then—it's gentle on the stomach and really smooth in a flat white. So we’ll do that. And just to finish up, would you prefer to pay by card or cash today? Let me know!
+You said:
+“Is there a surcharge when I pay by a card?”
+English Conversational partner said:
+Nope, there's no extra charge at all for card payments, so feel free to use whichever is easiest for you. So, shall we go ahead and put that on your card then? Let me know and we'll get it sorted.
+You said:
+“Then I'll pay by card, please. And also, I'd like some sandwiches with coffee. Do you guys have any morning deal discount for it?”
+English Conversational partner said:
+Sure thing, we can pop that on your card. And yep, we actually do have a little combo deal—if you grab a sandwich with your coffee, there's a bit of a discount on the total. So which sandwich would you like to go for? We’ve got a few options, like ham and cheese or a veggie one. Let me know!
+You said:
+“I'd like ham and cheese sandwiches and do you guys warm it up for me?”
+English Conversational partner said:
+Absolutely, we can toast that up for you so it’s nice and warm. So, that's a small oat milk flat white and a toasted ham and cheese sandwich. Perfect! Now, just go ahead and tap your card whenever you’re ready, and we’ll get everything started. Sound good? ಮತ್ತೊಂದು ಪ್ರಶ್ನೆ? Let me know!
+You said:
+“Oh, I'd like to pay by cash for the sandwiches.”
+English Conversational partner said:
+Of course, we can do that. We’ll just handle the sandwich part in cash, no worries at all. So once you've got that ready, we’ll be all set. Anything else I can help you with? Let me know!
+You said:
+“I'm sorry, but can I change my order with the coffee?”
+English Conversational partner said:
+Sure thing! No problem at all. Just let me know what you'd like to change about the coffee, and we'll fix it up for you. What would you like instead?
+You said:
+“I'll get a medium cappuccino with two sugars, please. Because I like rich foam with that.”
+English Conversational partner said:
+Got it! We'll switch that to a medium cappuccino with two sugars, nice and foamy just like you want. And that’s all noted. Anything else you need, or are we good to go with that? Let me know!
+You said:
+“And take away, please.”
+English Conversational partner said:
+Sure thing! We'll pack that up for you to go. So, a medium cappuccino with two sugars and a toasted sandwich, all set for takeaway. Anything else before we wrap it up? Let me know if you need anything else!
+You said:
+“And is that macadamia cookie gluten-free?”
+English Conversational partner said:
+Yes, it is! Our macadamia cookie is indeed gluten-free, so you can definitely add that if you'd like. So would you like me to pop one of those in with your order as well? Let me know!
+You said:
+“Yes, and I want you to warm it up.”
+English Conversational partner said:
+Absolutely! We'll warm that cookie up for you so it's nice and soft. So that's everything: your cappuccino, the sandwich, and a warmed-up macadamia cookie. Just hang tight for a moment while we get it all ready. Anything else you need? Let me know!
+You said:
+“And also, I'd like to add two combos with those white cakes for my colleagues.”
+English Conversational partner said:
+Sure! We'll add those two combos with the white cakes as well, so your colleagues are covered. All right, we'll get all that bundled up for you. Anything else I should add on top of that? Feel free to let me know!
+You said:
+“And with that combos, can I choose any kind of copies with that?”
+English Conversational partner said:
+Absolutely! You can definitely pick any kind of coffee for those combos. So just let me know which coffees your colleagues would like, and we’ll make it happen. What should I put in for them? Let me know!
+You said:
+“The one will be small-sized soy latte, and another will be more white with white sugar, please. And a little bit of honey as well.”
+English Conversational partner said:
+Got it! So one small soy latte and one small flat white with one sugar and a bit of honey—no problem at all. We’ll get those done for your colleagues. And I think we’re all set now! If there’s nothing else, we’ll start prepping everything. Anything else you need? Just let me know!
+You said:
+“Do you guys use single-origin beams?”
+English Conversational partner said:
+We sure do! We've got a nice single-origin option if you'd like to switch any of those coffees to that. Just let me know which one you'd like to upgrade, if any. Anything specific you have in mind? Feel free to tell me!
+You said:
+“What kind of options do you guys have?”
+English Conversational partner said:
+Right now, we've got a lovely Ethiopian single-origin that’s got a nice fruity note to it. So if that sounds good, we can do that for any of your coffees. Just let me know which one you'd like to try it with! Let me know what you think.
+You said:
+“Can you explain the feature of each single origin beam?”
+English Conversational partner said:
+Sure! So our Ethiopian beans have this bright, fruity flavor with a hint of berry, and they're a bit more vibrant. It's perfect if you like something a little more complex. Our other single-origin, a Colombian, is more on the nutty and chocolatey side. So just let me know which flavor profile you prefer, and we can swap that in for you! What do you think? Let me know which one you'd like.
+You said:
+“Then I'll pick Colombian bins, please.”
+English Conversational partner said:
+Absolutely, we’ll go ahead and use the Colombian beans for you. That’ll give you that nice nutty, chocolatey note in your coffee. All right, we’ve got it all set now! Anything else you need before we wrap it up? Just let me know! حالة أخرى؟ Let me know!
+You said:
+“Well, I'd like that. Then I'll pick Colombian Finns, please. The Ormacadonia cookie, half here, please.”
+English Conversational partner said:
+Sure! We can definitely do that. We'll keep the macadamia cookie here for you to enjoy in the café. Everything else will be packed up to go. So that should do it! If there's nothing else, you're all set. Anything else you need? Just let me know!
+You said:
+“That's all for today. I'll wait near the door.”
+English Conversational partner said:
+Perfect, sounds good! We’ll have everything ready for you in just a moment, so feel free to hang out by the door and we’ll bring it right over. Thanks so much, and just give us a shout if you need anything else! Enjoy!
+You said:
+“How long will it take?”
+You said:
+“Appreciate your help today. Thank you so much.”
+English Conversational partner said:
+Sure thing! Thanks so much for stopping by today. Have a great one, and enjoy the rest of your day!
+You said:
+“Wait, I ordered old cappuccino, but I think this is almond milk.”
+English Conversational partner said:
+Ah, got it! Sorry about that mix-up. We’ll fix it right away and get you that oat cappuccino instead. Anything else I can sort out for you?
+English Conversational partner said:
+Transcription unavailable
+English Conversational partner said:
+You’re very welcome! I’ll go ahead and fix that for you right away. Thanks for letting me know, and enjoy!
+You said:
+“Thank you so much.”
+English Conversational partner said:
+You're very welcome! If you need anything else, just give me a shout. Otherwise, enjoy your coffee and have a great day!
+You said:
+“Have a good one.”
+English Conversational partner said:
+You too! Take care and have a wonderful one.
+
+
+
+
+
+Task 2: Booking a Restaurant Table
+You said:
+I want to practise making a restaurant reservation. You are a professional front-of-house staff member at a modern Australian restaurant in Sydney. I will play the role of a guest trying to make a booking, either in person or over the phone. Please create a realistic and authentic restaurant interaction and respond exactly as real staff would.
+English Conversational partner said:
+Sure. Thanks for calling Kauri & Co. — when were you hoping to book?
+You said:
+“Hi, I'd like to book a table for two tonight.”
+English Conversational partner said:
+Absolutely! For two tonight, we can do that. What time would you like to come in?
+You said:
+“We'd like to go at 7pm. Is it available?”
+English Conversational partner said:
+Absolutely, we do have a spot at seven. Now, do you have any dietary preferences or any special requests for the evening?
+You said:
+“Well, can I request outdoor seating? Because you guys have rooftop with a nice view.”
+English Conversational partner said:
+Sure thing! We can definitely note down a request for the rooftop seating with that nice view. And just to double-check, under what name should I make this reservation for you?
+You said:
+“It's WANI, W O N N Y.”
+English Conversational partner said:
+Great, got it under Wonnie for seven p.m. on the rooftop. Now, just one last thing: could I grab a contact number just in case we need to reach you?
+You said:
+“Yes, it's 0493000000, and I'm booking for my friend's birthday. Do you offer any singing or decorations?”
+English Conversational partner said:
+Absolutely, I’ve got that number noted down. And yes, we can definitely arrange a little birthday dessert or a small decoration if you’d like. Anything special in mind for the celebration?
+You said:
+“Then, we'd like a celebration dessert for my friend. Also, can I bring the own cake for the celebration?”
+English Conversational partner said:
+Of course! We can absolutely sort out a celebration dessert on the house. And sure, you’re welcome to bring your own cake along as well. We'll just keep it here for you. Anything else I can help you with for the evening?
+You said:
+“Do you have vegetarian options? Yes, I'm a vegetarian.”
+English Conversational partner said:
+Absolutely, we do have a range of vegetarian options on our menu, so you'll be all set. Is there anything else you need to know about the menu or the booking?
+You said:
+“Can I see the wine list in advance?”
+English Conversational partner said:
+Sure thing! I can absolutely email you our wine list so you can take a look before you arrive. What's the best email address to send that to?
+You said:
+“Well, actually, I don't use my email, so could you send me through my phone number?”
+English Conversational partner said:
+Sure, not a problem at all. I'll send you a text with a link to our wine list so you can check it out on your phone. And if you have any other questions before you come in, just let me know.
+You said:
+“Well, we have two children with us. Would that be a problem for outdoor sitting?”
+English Conversational partner said:
+Not at all! We’re totally family-friendly, so kids are welcome on the rooftop as well. Anything else you need to know about the setup?
+You said:
+“Do you guys have the chairs for the children?”
+English Conversational partner said:
+Absolutely, we've got high chairs and booster seats available if you need them. Just let us know, and we'll have them ready. Anything else I can help you with?
+You said:
+“Wow, thank you so much. And that's OK if you can't confirm the set menu now. Would someone be able to call me later today?”
+English Conversational partner said:
+Of course! We can definitely have someone give you a call later today to confirm any details about the set menu or anything else you need. Just let us know the best time.
+You said:
+“And I'd like to know any policies we should know about because we're gonna bring like cakes and some children and we also have like vegetarians in us.”
+English Conversational partner said:
+Absolutely! So just to reassure you, there's no problem with bringing your own cake, and kids are totally welcome. We just ask that you let us know ahead of time, which you've done, and we’ll take care of everything else. Anything else on your mind before we wrap up?
+You said:
+“I'm sorry but is there any flexibility if we arrive 15 minutes late?”
+English Conversational partner said:
+Absolutely, a few minutes here and there is totally fine. We understand things happen. Just give us a quick heads-up if you think you'll be running late. Anything else I can help with?
+You said:
+“I think half of us will arrive on time and the other one will arrive 15 minutes late.”
+English Conversational partner said:
+All right, that’s totally fine. We’ll just seat the first half of your group and the others can join when they get here. Anything else you’d like to check on?
+You said:
+“Oh, well, uh, I think I told you, like, we have only two of us, but there are ten of us. Sorry about that.”
+English Conversational partner said:
+Oh, got it! No worries at all. We’ll make sure we have a table set for ten of you then. Thanks for letting me know. Anything else I can update for you?
+You said:
+“And I think it's gonna be rain tonight, so can we change to sit near the window if possible?”
+English Conversational partner said:
+Sure thing! We can definitely move you to a window table inside if the weather’s looking rainy. Thanks for the heads-up. Any other last-minute changes on your mind?
+You said:
+“So you mean the cake and light up the candle is available inside, right?”
+English Conversational partner said:
+Absolutely, yes. We can still do the cake and light the candle inside by the window, no problem at all. Anything else you’re wondering about?
+You said:
+“Here are private rooms inside.”
+English Conversational partner said:
+Absolutely, we do have a private dining area available if you'd prefer that for your group. Would you like me to go ahead and arrange that for you?
+You said:
+“Yes, please. We'd like to use the private room, please.”
+English Conversational partner said:
+Sure, I'll get that private room reserved for you right away. Everything’s all set then, and we look forward to seeing you tonight!
+You said:
+“So could you confirm what I requested?”
+English Conversational partner said:
+Absolutely! So we've got you down for a private room tonight at 7 p.m. for 10 guests. We'll have a vegetarian-friendly menu ready, you can bring your own cake, and we'll help you with the candle and everything. And of course, we'll text you the wine list. If that all sounds good, then you're all set!
+You said:
+“Perfect, thank you.”
+English Conversational partner said:
+You're very welcome! We'll see you tonight then, and have a fantastic celebration.
+You said:
+“All right, have a good one.”
+English Conversational partner said:
+You too! Thanks for booking with us, and have a lovely day.
+
+
+
+
+
+
+
+
+
+
+Task 3: Returning or Exchanging Clothes and Asking About Store Policies
+You said:
+I want to practise returning or exchanging an item at a clothing store. You will play the role of a retail store assistant working in a busy shop in Australia, and I will play the role of a customer. Please create a realistic and natural conversation as if this were a real in-store interaction.
+English Conversational partner said:
+Alright, no worries — happy to help. What would you like to return or exchange today?
+You said:
+“Well, I'd like to return my T-shirt.”
+English Conversational partner said:
+Sure thing! And did you have the receipt for that t-shirt with you, by any chance? If not, that's okay, we'll sort it out. Just let me know.
+You said:
+“I bought this t-shirt last week, but it doesn't fit. And I think there's a damage on it.”
+English Conversational partner said:
+Alright, got it. We can definitely help with that. Could you show me where the damage is, or what exactly seems to be wrong with it? Let's have a quick look.
+You said:
+“There's a hole in the bottom.”
+English Conversational partner said:
+Ah, I see what you mean. Thanks for pointing that out. Now, would you like to exchange it for the same t-shirt in a better condition, or were you thinking of a refund or maybe a different item altogether? Let me know what suits you best.
+You said:
+“Yes, I'd like to refund it, and maybe I can buy another T-shirt in another color. Well, I think it's been more than three days. What's your exchange policy or refund policy?”
+English Conversational partner said:
+Absolutely, so our standard policy is that we've got a 30-day window for returns and exchanges, so you're well within that time frame. We can definitely process a refund for you, and then you can pick out that different color t-shirt if you’d like. Which color did you have in mind?
+You said:
+“So you mean I can refund or exchange it within 30 days, right?”
+English Conversational partner said:
+Exactly! You've got it. You can refund or exchange within that 30-day period, no problem at all. So let's go ahead and sort that out. Which color were you thinking of switching to?
+You said:
+“First, it's a bit small for me, so I'd like to change it into, I mean, I'd like to pick up a medium-sized one. And I don't think this pink is not that good on me, so I'd like to pick a black one.”
+English Conversational partner said:
+Sure thing! We can definitely do that. So we'll grab you a medium size in black instead of the pink. That should be easy. Just hang tight for a moment—anything else you need while we're at it?
+You said:
+“Do I need the original packaging to return this?”
+English Conversational partner said:
+No worries at all, you don't need the original packaging as long as you've got the item itself in reasonable condition. We'll handle the rest. Anything else you'd like to ask about?
+You said:
+“I think the tag on the existing one is a bit teared.”
+English Conversational partner said:
+That's all good; a slightly torn tag won't be a problem for the return. We'll still sort it out for you. So let's get that black medium set aside. Anything else on your mind? ಸ್ವಲ್ಪ torn tag won't be a problem for the return. We'll still sort it out for you. So let's get that black medium set aside. Anything else on your mind? Let me know.
+You said:
+“And I think there's a small tear in the sleeve with this black one. Do you guys offer any store credit instead or a little bit of discount for it?”
+English Conversational partner said:
+Absolutely, we can do that. If there's a small flaw on that black one as well, we can definitely offer you store credit or a bit of a discount on it. Just let me know which you'd prefer. Feel free to ask if there's anything else on your mind.
+You said:
+“I'd like to get a discount for it.”
+English Conversational partner said:
+Alright, a discount it is! We'll apply that for you. So we'll get you that black medium with a little discount for the flaw, no worries at all. Anything else you need help with today?
+You said:
+“And thanks for your help. That's perfect.”
+English Conversational partner said:
+You're very welcome! Glad we could sort that out for you. If there's nothing else, just let me know anytime. Thanks for stopping by, and have a great day!
+You said:
+“Oh wait, just one more thing. Can I return online purchases in this store? Because I have another t-shirt in my home.”
+English Conversational partner said:
+Of course! Yep, you can return online purchases here in-store as well, no problem at all. Just bring it in whenever you’re ready. Anything else on your mind? Let me know.
+You said:
+“Okay then, maybe next week I can stop by. Thank you so much.”
+English Conversational partner said:
+No worries at all! Sounds like a plan. We'll see you next week then. Thanks again, and have a lovely day!

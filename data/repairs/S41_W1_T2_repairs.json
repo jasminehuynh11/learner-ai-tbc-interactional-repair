@@ -1,0 +1,38 @@
+[
+  {
+    "dialogue_id": "S41_W1_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      7,
+      8,
+      9
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner initially struggles with phrasing in turn 7, hesitating and correcting themselves about the candle and fridge. In turn 8, they clearly ask about the menu, and the bot responds appropriately in turn 9, resolving the issue."
+  },
+  {
+    "dialogue_id": "S41_W1_T2",
+    "repair_id": 2,
+    "turn_indices": [
+      17
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner realizes they mentioned the wrong day for the reservation and corrects it from next Tuesday to next Wednesday in turn 17. This self-correction resolves the issue without further confusion."
+  },
+  {
+    "dialogue_id": "S41_W1_T2",
+    "repair_id": 3,
+    "turn_indices": [
+      18,
+      19
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "self-correction – learner corrects own previous utterance",
+    "evidence_summary": "The learner struggles to articulate their question in turn 18, repeating themselves. In turn 19, they clarify their question about receiving a reservation message, resolving the issue."
+  }
+]

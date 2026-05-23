@@ -1,0 +1,14 @@
+[
+  {
+    "dialogue_id": "S38_W2_T1",
+    "repair_id": 1,
+    "turn_indices": [
+      16,
+      17
+    ],
+    "initiation": "BI",
+    "resolution": "R",
+    "trigger": "learner's imprecise language – 'taxes' vs. 'fees'",
+    "evidence_summary": "The learner asked about 'taxes' when paying with a MasterCard, especially overseas, in turn 16. The bot, in turn 17, clarified that taxes are determined by merchants and local laws, and introduced the more appropriate term 'foreign transaction fees' for overseas transactions, implicitly correcting the learner's terminology. The issue was resolved as the bot provided a clear explanation, and the conversation continued smoothly."
+  }
+]

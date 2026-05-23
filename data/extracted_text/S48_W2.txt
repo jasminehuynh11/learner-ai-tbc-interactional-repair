@@ -1,0 +1,102 @@
+Task 1: Visiting a Medical Clinic and Booking or Changing an Appointment
+Scenario: You are visiting a medical clinic in person or calling the clinic to make,
+change, or cancel an appointment. You may need to check in, explain your
+symptoms, ask for available times, or confirm appointment details. You will need to
+define the chatbot’s role as a receptionist or staff member at a medical clinic. You can
+choose situations from the examples below; start with a simple booking and try a
+more detailed interaction by asking about check-up procedures, prescription
+requirements, or clinic policies.
+
+Let's role play so I can learn English. The scenario is that I am calling the clinic to make an appointment. I may need to check in, explain my symptoms, ask for available times, or confirm appointment details. You are a receptionist or staff member at a medical clinic. 
+English Conversational Partner said:
+Sure. Thank you for calling the clinic—how can I help you today? What’s the reason for the appointment you’d like to make?
+You said:
+Hi, I'm Kate. I would like to make an appointment with Dr Jones. My period has not come for 2 months and I would like to know if there is any thing I should concern about my reproductive health.
+English Conversational Partner said:
+Alright, Kate. Thanks for explaining that. Have you visited our clinic before, or will this be your first time with us?
+Yes, I was at your clinic but it was years ago. Does Dr. Jones have any available slot soon?
+English Conversational Partner said:
+Alright, since it’s been a while, I’ll just update your details. To check Dr. Jones’s schedule, what day or time works best for you?
+You said:
+Next Wednesday or Thursday should be fine. I'm available both morning and afternoon these two days.
+English Conversational Partner said:
+Sure. Dr. Jones has openings on both days. On Wednesday, would you prefer a morning time or something in the afternoon?
+I think morning time would be better. Dr. Jones may indicate several tests for me and it may take time. I want to have the result within the day, so please put my appointment in the morning if it is feasible.
+English Conversational Partner said:
+Alright, morning works. We have a 9:20 a.m. slot with Dr. Jones on Wednesday—would that be okay for you, Kate?
+You said:
+That sounds great. By the way, do you know about the examine procedures that patients with irregular period usually need to undergo? I'm a little bit anxious about these examinations.
+English Conversational Partner said:
+Of course. It’s usually just a quick chat with the doctor, a blood test, and sometimes an ultrasound—nothing painful, and we’ll guide you through each step. To finalize your booking, what’s the best phone number to reach you if we need to confirm anything?
+Oh if there is blood test, should I do fasting from Tuesday night?
+English Conversational Partner said:
+Sure. For most hormone-related blood tests, you don’t need to fast, so you can eat normally unless Dr. Jones tells you otherwise. And just so I can complete your booking, what’s the best phone number for you, Kate?
+You said:
+Thanks for your advice. Please contact my at 041101222.
+English Conversational Partner said:
+Alright, got your number as 041101222. To finish updating your file, could you tell me your date of birth, Kate?
+You said:
+No problem. My date of birth is 28 February, 1999.
+Alright, thanks for that. And just to complete your details, could you confirm your current home address?
+You said:
+My registered address is different from my current address, which one do you like?
+English Conversational Partner said:
+Sure. For your appointment record, we just need the address where you’d like us to send any letters or test results. Which one should we use—your registered or your current address?
+You said:
+Please use my current address, which is 79 Patrick St, Hobart.
+
+
+Task 3: Enquiring About a Rental Property or Housing Inspection
+Scenario: You are calling, emailing, or visiting a real estate agency to ask about a
+rental property. You may want to attend an inspection, ask about the application
+process, or follow up after submitting your documents. Practise speaking clearly and
+politely in a formal setting. You will need to define the chatbot’s role as a property
+manager or real estate agent. You can choose situations from the examples below;
+start with a simple enquiry and try a more detailed interaction by asking about
+inspections, application documents, or follow-up procedures.
+
+Let's role play so I can learn English. The scenario is that I am calling a real estate agency to ask about a rental property. I may want to attend an inspection, ask about the application process, or follow up after submitting your documents. Practise speaking clearly and politely in a formal setting. You are a property rmanager or real estate agent. 
+English Conversational Partner said:
+Sure, thanks for calling. Which rental property are you enquiring about today?
+You said:
+I am interested in the house at 79 Patrick St, Hobart. I would like to ask if I can come to inspect it sometimes this week.
+English Conversational Partner said:
+Alright, thanks for that. I can organise an inspection for you — what day and time this week would suit you best?
+You said:
+Wednesday or Thursday morning works well for me.
+Great, Wednesday or Thursday morning is fine. Which of those days would you prefer, and what time in the morning suits you?
+You said:
+How about 10 am on Thursday. Do I need to bring my ID or something else?
+English Conversational Partner said:
+Sure, Thursday at 10 am is booked. You don’t need to bring anything just to view the property, but having photo ID is helpful if we need to verify your details.
+Just so I can note it down, how many people would be moving into the house with you?
+Only me and my partner. What is the maximum number of people to stay in the house?
+English Conversational Partner said:
+Alright, just you and your partner is perfectly fine. The house is generally suited for up to four people, so you’re well within the limit.
+By the way, will you be bringing any pets with you?
+You said:
+No worries. We currently don't have any pet. It should be no trouble. How about the application process if I'm happy with the house?
+Sure, if you like the house after the inspection, you can submit a rental application online with your ID, income documents, and references.
+To guide you properly, when are you hoping to move in?
+You said:
+That sounds good. I'd like to move in next month if it is feasible. How long does it usually take for the application process? 
+English Conversational Partner said:
+Sure, moving in next month is usually workable. Application processing typically takes two to five business days, depending on how quickly references respond.
+Just so I can check availability for you, how long are you hoping to stay in the property—are you looking for a 6-month lease, 12-month lease, or longer?
+I prefer a 12-month lease, but I am flexible with other options.
+English Conversational Partner said:
+Alright, a 12-month lease is very standard, so that works well. Since you’re flexible, I’ll note that down.
+Just to be sure the property fits your situation, may I ask what weekly rent range you’re comfortable with?
+You said:
+I expect the rent to be around 500-700 weekly.
+Sure, that range fits well with this property. Thanks for letting me know.
+To make your application stronger, could you tell me what your and your partner’s employment or income situation is?
+You said:
+We are both engineer and working. Our total income is approximately 250K per year.
+English Conversational Partner said:
+Great, that income level is more than sufficient for this property.
+To finalise the inspection booking and keep you updated, what’s the best phone number or email for me to contact you on?
+You said:
+Please contact me at 041338277
+
+

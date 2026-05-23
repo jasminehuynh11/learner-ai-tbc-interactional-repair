@@ -1,0 +1,16 @@
+[
+  {
+    "dialogue_id": "S46_W2_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "vocabulary – learner's question unclear",
+    "evidence_summary": "The learner asks 'are the best allowed?' which is unclear. The bot responds with a generic offer to help, indicating it didn't understand. The learner then clarifies by asking about adopting or omitting, which the bot interprets as a question about pets and provides a relevant answer. The issue is resolved with mutual understanding."
+  }
+]

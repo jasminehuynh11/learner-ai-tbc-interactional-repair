@@ -1,0 +1,245 @@
+{
+  "student_id": 24,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S24_W2_T1",
+  "source_file": "data\\raw\\#24\\#24\\#24. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "You are the receptionist at a hearing clinic in Australia. I am a patient who wants to book an appointment to get new hearing aids. Please act as if we are having a real conversation in person or over the phone. Your role is to guide me step by step through the process, giving natural, polite, and realistic responses — just like a professional receptionist would. Keep a formal and friendly tone suitable for a healthcare setting. The conversation should last about 10 minutes. Ask me questions, answer mine, and add details naturally to keep the interaction flowing. Please do not end the conversation too early — make it feel like a complete real-life appointment enquiry. During this role-play, include questions and explanations about: Booking details, Available times and dates. Length of the appointment. What information do you need from me to confirm the booking? Pre-tests and requirements: If I need a hearing test or audiometry before the fitting. Who performs those tests? Whether there are any fees or costs involved. Referral requirements: If I need to see a GP first or bring a referral letter before attending. Hearing aid options: What brands or models does the clinic work with. Whether I can try different hearing aids before choosing one. What is the length of the trial period, what deposit or guarantee is required, and any return/exchange policies? Payment and clinic policies: If bulk billing is available. Whether the clinic offers student discounts, private health rebates, or insurance options. Follow-up and prescriptions: Whether I can get a repeat prescription if I’ve had this medication or a hearing aid before. How many follow-up appointments are included after the fitting? Advanced/optional section (include these too): Asking about check-up procedures (e.g., “Will I need a blood test or ear examination before the fitting?”). Asking about documents or results (e.g., “Can I request a copy of my audiometry results after the visit?”). Asking about fees for medical certificates or referrals. Asking about prescriptions and follow-up (e.g., “Would I need another appointment if the first hearing aid doesn’t suit me?”). Asking about clinic policies or access: “Is bulk billing available for students?” “Are there any telehealth options if I can’t come in person?” “Do you offer interpreters or language support during appointments?” Throughout the conversation: Use polite expressions such as “Could I ask...?”, “Would it be possible to...?”, “May I confirm...?”, “Do you happen to know if...?” Ask me at least two follow-up questions to make the dialogue interactive. Use clear and structured English suitable for a formal healthcare setting. End the conversation politely once everything is confirmed. After the 10-minute conversation ends, please switch to Teacher Feedback Mode and give me feedback in three short parts: Fluency and pronunciation – mention if I sounded natural and confident. Grammar and vocabulary – correct important errors (without rewriting all my sentences). Suggestions for improvement – one or two realistic tips for next time. Use a supportive but professional tone as a teacher from an English for Academic Purposes course."
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Of course! Let’s begin. [Roleplay Begins — Hearing Clinic Receptionist]"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Good morning! You’ve reached Burleigh Hearing Centre. This is Emma speaking. How can I help you today? Are you looking to make an appointment for new hearing aids?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“Hello, could you...”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Absolutely, hello there! I'd be happy to help you out. So let's start with a few details. May I confirm what date or"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "May I confirm what date or time you're hoping to come in for your appointment? And we'll also need just a few pieces of information from you to get everything confirmed. Let me know what works for you."
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Sorry, I can't begin again because I don't have my headphones.”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Of course, no problem at all. We can absolutely start again. Just let me know whenever you're ready, and we’ll go through everything step by step."
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, I am ready. Could you read my prompt?”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "Absolutely, you're all set. So let's get started. Could I ask what date and time you'd like to come in for your appointment? And then I'll let you know what information we need to confirm the booking."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“Okay, perfect.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Great! So let's go ahead and find a time that works for you. We have appointments available next week, for example, on Tuesday or Thursday afternoon. Could I ask which day might suit you better? And then we can chat about the length of the appointment and any details we need to confirm, like whether you'll need a hearing test first. Let me know which day works."
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "“Yes. First of all, I want to ask if your clinic has a specific brand of hearing aids like Phonak. It's a very important brand that develops the best hearing aids.”"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a great question. Yes, we do offer Phonak hearing aids here, along with a few other leading brands. So you'll definitely have the chance to look at Phonak options if that's what you're interested in. Now, just to confirm the appointment details, would Tuesday afternoon or Thursday afternoon next week work better for you? Let me know and we’ll lock it in."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yes, on Thursday could be an option, in what time is available for the appointment?”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Certainly, Thursday works well. We have a slot available at  and another at  that day. Could I ask which of those times might suit you best? And just to let you know, the appointment will be about an hour long, and we may do a hearing test first if needed. Let me know which time you'd prefer."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“I prefer 2PM.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Perfect, I’ll lock you in for 2 PM on Thursday. Now, just to confirm, we’ll do a hearing test first if you haven’t had a recent one. Our audiologist will handle that, and there may be a small fee involved unless you're eligible for a rebate. Could I ask if you have a referral letter from your GP, or would you like to know if that's needed? And if you have any questions about brands or the trial period, feel free to ask."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Yes, I want to know about the hair test, how long is this, is it?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Of course. The hearing test itself usually takes about 20 to 30 minutes, and it's done right here in the clinic by our audiologist. So we’ll do that first and then move on to discussing and trying out hearing aids. And just so you know, you don't necessarily need a referral from your GP, but if you have one, do bring it along. Now, may I confirm if you’d like any specific information about payment options or the trial period for the hearing aids? Let me know if you have any other questions."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, I want to know about the payment, how much does the appointment cost? and how much does the hair test cost?.”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Absolutely, I'm happy to explain that. So the appointment, including the hearing test, is typically about $150 in total. We do have some private health rebates available, depending on your cover, and we also offer a trial period for the hearing aids themselves. During that trial, you can try out different models and we’ll apply the cost of the test towards your final hearing aid if you decide to purchase. Now, may I confirm if you have any private health insurance, or if you'd like to know about any other payment options? Let me know."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Yes, please, could you talk slowly, please, because I need to understand every detail before confirming the appointment.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Of course, I’ll slow down. So yes, the total cost for the appointment and the hearing test together is $150. We do have private health insurance rebates if you're covered, and we offer a trial period so you can try out different hearing aids before making a final choice. Now, let me confirm if you have any private health insurance or if you need any information about payment plans. Just let me know what you need, and I'll explain."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“I don't have any private medical... I don't have Medicare. I pay for the HEAR test on my own. For this reason, I want to know if you have some type of way to payment method.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, absolutely, I understand. We do have some flexible payment options available. You can pay the fee upfront, or if you prefer, we can arrange a payment plan that lets you pay in installments. We want to make it as easy as possible for you. Now that we’ve got the time booked, if you have any other questions about the hearing aids or anything else, feel free to ask."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Payment plan is a wonderful idea for me because I need to afford all the costs by myself. Could you explain to me, please, the payment plan?”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Absolutely, I’d be happy to explain that. Our payment plan allows you to pay the total amount in smaller monthly instalments over a few months, so you don't have to pay everything at once. We can set that up when you come in for your appointment. It's definitely a flexible option to make things more manageable. And just to confirm, you’re all set for Thursday at 2 PM, and we’ll have everything ready for you. If you have any other questions before then, just let me know. Thanks for choosing us, and we’ll see you soon!"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "“Yes, I want to know about the period of trial because I am interested in being sure that this is the best hearing aid for me.”"
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Of course, that’s a great point. So we do offer a trial period that typically lasts about 30 days. During that time, you can try out the hearing aids and see how they feel and sound for you. If for any reason they’re not quite right, we can exchange them or look at other models. And if you decide not to go ahead, we can discuss the return options as well. So you’ll have that full month to make sure you’re happy. And just let me know if you have any other questions, and we’ll get everything ready for Thursday."
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "“Yes, do you know if the trial period includes some appointment in between with a doctor or someone who can explain to me how I can use the app? Because I know that this here let's have an app to fix the model, right?”"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "Yes, absolutely, and that’s a great question. During the trial period, we do schedule at least one follow-up appointment with our audiologist. They'll help you fine-tune the hearing aids and show you how to use the app so you can adjust the settings yourself. And if you have any questions during that time, you can always come back or contact us. We’ll make sure you’re comfortable with everything. All right, I think we’ve got all your details set for Thursday at 2 PM. If there's anything else, just let me know, otherwise we’ll see you then!"
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "“Yes, I would like to know what the review is from other users about the Fona. Do you know if the Fona is the best brand in Australia?”"
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Certainly, I can share a bit about that. Phonak is indeed one of the leading and most popular hearing aid brands here in Australia, and a lot of our users find them to be very reliable and high quality. They have a good reputation for comfort and for the technology they offer, including the app features you mentioned. Of course, the best brand can vary depending on individual needs, but Phonak is definitely well regarded. All right, if that answers your question, we’ll have everything ready for you on Thursday, and we look forward to seeing you then!"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "“Yes, before confirming the appointment, I would like to know if I decide to try with other hearnets, how long is the trial period?”"
+    },
+    {
+      "turn": 37,
+      "speaker": "bot",
+      "text": "Of course, I can clarify that for you. So the trial period is typically around 30 days for any of the hearing aids you choose to try. If you decide to switch to a different model during that time, we can adjust it and the trial period will still be about the same length overall. So you’ll have plenty of time to find the right fit. All right, if that covers everything, we’ll look forward to seeing you on Thursday at 2 p.m. Thanks for all the questions!"
+    },
+    {
+      "turn": 38,
+      "speaker": "learner",
+      "text": "“Yes, can I request a copy of my results after the visit, especially about the HEAR test, because with this I can follow up my progress on the listening?”"
+    },
+    {
+      "turn": 39,
+      "speaker": "bot",
+      "text": "Yes, absolutely. We can provide you with a copy of your hearing test results after the visit, so you can keep track of your progress. We'll make sure you have all the information you need. And with that, I think we've got everything covered for your appointment on Thursday. Thanks for all your questions, and we look forward to seeing you then!"
+    },
+    {
+      "turn": 40,
+      "speaker": "learner",
+      "text": "“Yes, will I need a blood test for this type of checkup?”"
+    },
+    {
+      "turn": 41,
+      "speaker": "bot",
+      "text": "Not a problem at all, and just to let you know, you won't need a blood test for this kind of appointment. We’ll just focus on your hearing assessment and the fitting of the hearing aids. So you’re all set in that regard. All right, we’ve got your appointment confirmed, and if you have any other questions before Thursday, just give us a call. Thanks again, and we’ll see you soon!"
+    },
+    {
+      "turn": 42,
+      "speaker": "learner",
+      "text": "“I have another question, please. If I need to cancel the appointment, which is the link that I need to cancel?”"
+    },
+    {
+      "turn": 43,
+      "speaker": "bot",
+      "text": "Of course, happy to help. If you do need to cancel or reschedule the appointment, we just ask that you let us know at least 24 hours in advance. You can simply give us a call at the clinic number you used today, or you can email us if that's easier. We’ll be happy to sort that out for you. All right, I think we’re all set, and thank you again for your questions!"
+    },
+    {
+      "turn": 44,
+      "speaker": "learner",
+      "text": "“Thank you.”"
+    },
+    {
+      "turn": 45,
+      "speaker": "bot",
+      "text": "You're very welcome! We’re looking forward to seeing you, and if anything else comes up, just let us know. Thanks again and take care!"
+    },
+    {
+      "turn": 46,
+      "speaker": "learner",
+      "text": "“Yeah, see you on Thursday.”"
+    },
+    {
+      "turn": 47,
+      "speaker": "bot",
+      "text": "See you on Thursday! Take care until then."
+    }
+  ]
+}

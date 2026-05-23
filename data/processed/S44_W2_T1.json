@@ -1,0 +1,155 @@
+{
+  "student_id": 44,
+  "week": 2,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S44_W2_T1",
+  "source_file": "data\\raw\\#44\\#44\\#44. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Booking or Changing a medical appointment 🗨️“Hi, I’d like to make an"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "“Hi, Doctor.”"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Hello! It’s nice to meet you. How can I assist you today? Let me know what’s been going on, and we’ll figure out the best course of action."
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "“I'm not feeling very well this week. I have a headache and a lot of stomach problems. Also, I'm feeling very tired. I have no idea what's happening in my body.”"
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "I’m sorry to hear that. That does sound uncomfortable. Let’s get some more details. How long have you been experiencing these symptoms, and have you tried any remedies or medications so far?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "“Since last week, I start feeling these things. I just try to eat a lot of food and to eat vitamins and magnesium and stuff that give me energy, but it's not working.”"
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "I see, that definitely helps to know. It sounds like you’ve tried some basic remedies. Have you noticed any other symptoms, like nausea, changes in appetite, or maybe any fever?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "“Know any one of these?”"
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Got it, that’s helpful to know. Alright, and just to get a clearer picture, have you had any recent changes in your routine, like stress, sleep patterns, or diet?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "“Yes, I changed my sleep habits because I move on another country, so I really feel bad for the jet lag. Also, my alimentation, my habits, my alimentary habits have changed a lot because I'm trying to be vegetarian. So maybe it's for this.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That definitely could be a factor. Adjusting to a new time zone and changing your diet can both impact how you feel. Let’s explore that a bit more. Have you been able to maintain a balanced diet, or do you feel like you’re missing certain nutrients?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "“I think I missed some protein.”"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "That makes sense, especially if you're transitioning to a vegetarian diet. We can definitely look into that. In the meantime, how have your energy levels been throughout the day? Are you feeling more tired at certain times?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "(Transcription not available)"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Of course! I was asking how your energy levels have been throughout the day. Are you feeling more tired at certain times?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "“Yes, I'm feeling always tired. Also, because due to my bad sleep habits in this week, I'm feeling always tired and also the fact that I don't feel that I have the right nutrients makes me feel so tired.”"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "I completely understand. It sounds like it’s a combination of factors. We can definitely look into some nutritional adjustments and maybe some tips to help with sleep as well. Is there anything specific you’d like advice on first?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "“No, it's the same, just I don't understand why I had also headache, a strong headache.”"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "I see, that definitely adds another layer. Headaches can sometimes come from dehydration, sleep issues, or even changes in diet. We can definitely explore those possibilities. In the meantime, make sure you’re staying hydrated, and we can go from there."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "“Okay, perfect. Did you have some, um, pharma that you suggest me?”"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Absolutely! For headaches, sometimes a mild over-the-counter pain reliever like ibuprofen or acetaminophen can help. And of course, we can also look at some supplements or dietary changes for the fatigue. If you’d like, I can recommend a few options for both."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "“Yes, thank you. Can you write me the receive?”"
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Of course! I’ll be happy to do that. I’ll put together a list of suggestions and make sure everything’s clear for you. And if you have any other questions or need anything else, just let me know!"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "“Can I ask you to book an appointment? Because I prefer to see you in face, for real.”"
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Absolutely, I can arrange that for you! Let me know what day and time works best for you, and I'll make sure we set up that appointment for an in-person visit."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "“Next Monday, at 7... 6 p.m.”"
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Great, Monday at 6 PM works perfectly. I’ll go ahead and book that for you. If anything changes or you need to adjust the time, just let me know. Looking forward to seeing you then!"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "“Okay, bye.”"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Alright, take care! If you need anything else, just let me know. Bye for now!"
+    }
+  ]
+}

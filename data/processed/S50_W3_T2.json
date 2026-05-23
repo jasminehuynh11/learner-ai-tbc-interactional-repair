@@ -1,0 +1,270 @@
+{
+  "student_id": 50,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S50_W3_T2",
+  "source_file": "data\\raw\\#50\\#50\\#50. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "“Excuse me, I'm calling from home. I'm staying at this hotel, and I believe I left my dress, the casual dress, in my room. Could you help me check?”"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Absolutely, I'd be happy to help. Could you let me know your room number and the date you checked out so we can look into it for you?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“My room number was 603.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Great, thank you! And could you also let me know the date you checked out, just to help us narrow it down?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“It was today morning.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Got it, thank you! I’ll check with housekeeping and see if they found anything in room 603. Is there any specific detail about the dress that might help us identify it?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“It is a casual dress and it has many”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, got it! If you can share any details like the color or the pattern, that would definitely help us identify it more easily. Could you let me know?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“It has many buttons and the color is white.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Perfect, that definitely helps. I'll let housekeeping know about the white dress with many buttons in room 603. We'll get back to you as soon as we have any updates. Is there anything else I can assist you with in the meantime?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“I want to speak another details. It has, on the left side, you can see a mini pocket.”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it, that’s really helpful! So, a white dress with many buttons and a mini pocket on the left side. That should definitely help us narrow it down. We'll keep you updated as soon as we find it. Anything else I can help you with right now?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Also, the length is very long. Maybe it looks like...”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Got it, a long"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "\"It looks like 90 centimeters.\""
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Perfect, that’s really detailed! A long dress of about 90 centimeters, white, with buttons and a mini pocket. That definitely helps us pinpoint it. We’ll let you know as soon as we have any news. Let me know if there’s anything else you need in the meantime!"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Thank you. What happens if someone finds it?”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "If someone finds it, we’ll make sure it’s kept safe at the front desk, and we can arrange to have it sent to you or kept for you until you return. We’ll definitely keep you updated as soon as we have it. If you have any other questions, just let me know!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Okay, thank you. Can I pay by card when deliver?"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, that works perfectly. We can arrange that for you. Just let us know the details, and we’ll make sure everything’s set up. If you need anything else, just let me know!"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“Also, maybe it was in a pink shopping bag.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Got it, that’s really helpful to know! We’ll keep an eye out for the pink shopping bag as well. Thanks for sharing that detail! And if there’s anything else you think of, just let us know."
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“If I show my ID card when I pick that card?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Yes, that would be great! Just bring your ID so we can verify your identity and make sure everything goes smoothly when you pick it up. If you have any other questions, feel free to ask!"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Do I need to fill out a form?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "In most cases, yes, we'll have a short form for you to fill out just to confirm the details. It’ll be quick and easy, and we’ll guide you through it when you come by. Let us know if you have any other concerns!"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Should I send the form on my email?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "That’s definitely an option! If you’d like, we can email you the form in advance, and you can fill it out beforehand. That way, it’ll be even quicker when you pick it up. Just let us know what works best for you!"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Okay, can you call me if it's found?”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Of course! We’ll definitely give you a call as soon as we have any updates. Just let us know the best number to reach you, and we’ll keep you posted. Feel free to let us know if there’s anything else you need!"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“How long do you keep lost items on file?”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Typically, we keep lost items for about 30 days, just to give plenty of time for guests to claim them. After that, we usually donate or dispose of them. But we’ll definitely hold onto it for you until you can pick it up. Let us know if you have any other questions!"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“Please just tell me when you cannot find my clothes today.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll keep you informed every step of the way. If we’re unable to locate it today, I’ll let you know right away. And of course, if anything changes, I’ll be sure to reach out. Just let me know if you need anything else!"
+    },
+    {
+      "turn": 35,
+      "speaker": "learner",
+      "text": "“What should I do if I lost it in another city?”"
+    },
+    {
+      "turn": 36,
+      "speaker": "bot",
+      "text": "In that case, it’s best to reach out directly to the hotel where you stayed and let them know the details, just like we did here. They can check their lost and found, and often they can arrange for shipping or keep it safe until you return. And if you need any help coordinating, I’m here to assist as well!"
+    },
+    {
+      "turn": 37,
+      "speaker": "learner",
+      "text": "“What time is closed the Lost and Found Desk?”"
+    },
+    {
+      "turn": 38,
+      "speaker": "bot",
+      "text": "Typically, the lost and found desk is open during regular business hours, usually from about 9 AM to 5 PM, Monday through Friday. But if you need a specific time, it’s always good to call ahead and confirm. And of course, we’ll keep you posted if we find anything!"
+    },
+    {
+      "turn": 39,
+      "speaker": "learner",
+      "text": "“Is it closed on weekend?”"
+    },
+    {
+      "turn": 40,
+      "speaker": "bot",
+      "text": "Yes, usually the lost and found desk is closed on weekends, but it can vary depending on the hotel. It’s always a good idea to check with them directly for their specific hours. And if you need any help, just let me know!"
+    },
+    {
+      "turn": 41,
+      "speaker": "learner",
+      "text": "“It is interesting. I think every hotel is used to be on weekend.”"
+    },
+    {
+      "turn": 42,
+      "speaker": "bot",
+      "text": "That’s a great point! A lot of hotels do have different policies, and some might have weekend hours or someone on call. It definitely can vary, and it’s always good to double-check the specific hotel’s policy. But I’m always here to help if you need any guidance!"
+    },
+    {
+      "turn": 43,
+      "speaker": "learner",
+      "text": "“At this point, you are saying the weekend closed, right?”"
+    },
+    {
+      "turn": 44,
+      "speaker": "bot",
+      "text": "Yes, generally speaking, many hotels do close their lost and found desks over the weekend. But it can definitely vary, and some places might have someone available. It’s always good to confirm with the specific hotel. And of course, I’m here to help with any other questions you have!"
+    },
+    {
+      "turn": 45,
+      "speaker": "learner",
+      "text": "“I just talk about your hotel, and I checked out today.”"
+    },
+    {
+      "turn": 46,
+      "speaker": "bot",
+      "text": "Got it, that makes sense! In that case, we’ll definitely do our best to help you as quickly as possible. We’ll keep an eye out for your item and let you know right away if we find it. And if you need anything else in the meantime, just let me know!"
+    },
+    {
+      "turn": 47,
+      "speaker": "learner",
+      "text": "“Is there a lost property website I can check?”"
+    },
+    {
+      "turn": 48,
+      "speaker": "bot",
+      "text": "Yes, many hotels do have a lost and found page on their website, or they might use a third-party service to help track items. You can always check the hotel’s official website or contact them directly to see if they have an online portal. And if you need help navigating that, I’m more than happy to assist!"
+    },
+    {
+      "turn": 49,
+      "speaker": "learner",
+      "text": "“So please send to me your hotel's website link.”"
+    },
+    {
+      "turn": 50,
+      "speaker": "bot",
+      "text": "Of course! I’ll make sure to send you the link to our hotel’s website right away. That way, you can easily check the lost and found information and any other details you might need. Just let me know if you need anything else!"
+    },
+    {
+      "turn": 51,
+      "speaker": "learner",
+      "text": "“Thank you. Please call me today when you find or not find my clothes.”"
+    },
+    {
+      "turn": 52,
+      "speaker": "bot",
+      "text": "Absolutely, I’ll make sure to give you a call today with any updates, whether we find it or not. And if you need anything else in the meantime, just let me know. I’m here to help!"
+    }
+  ]
+}

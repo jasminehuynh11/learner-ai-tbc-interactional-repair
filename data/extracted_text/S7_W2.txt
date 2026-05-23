@@ -1,0 +1,159 @@
+Task1: 
+English Conversational Partner said:
+Of course! Hello there — welcome to the hospital. Are you here to make an appointment for yourself today?
+
+You said:
+Yes. I'd like to make an appointment to see a doctor. I had come to this hospital a few times before, so I have my medicare card here.
+
+English Conversational Partner said:
+Great, thank you for bringing your card. Could you please tell me what kind of doctor or department you’d like to see today?
+
+You said:
+I have a atopic, but I run out all the cream. Today I want to get additional cream. I don't mind which doctor will see me, is it OK?
+
+English Conversational Partner said:
+Sure, that’s fine. We can book you with a dermatologist for that. Would you like the earliest available appointment, or do you prefer a specific day or time?
+
+You said:
+I am available anytime. Could you tell me when it will take a little time to finish medicare?
+
+English Conversational Partner said:
+Alright. Usually, it takes around 10 to 15 minutes to process your Medicare details at reception. Would you like to book your appointment for today, or is tomorrow better for you?
+
+You said:
+I have already today's plan, so could you book for me tomorrow? And could I ask you a question? If I cancel tomorrow's appointment, could there be a caecellation fee?
+
+English Conversational Partner said:
+Sure, I can book you for tomorrow. And yes, you can cancel — there’s no cancellation fee as long as you let us know at least two hours before your appointment time. What time tomorrow would you prefer to come in?
+
+You said:
+I'm glad to hear that. Could you be available before noon? I would like to book as early as you could.
+
+English Conversational Partner said:
+Of course! We have a slot at 9:30 a.m. tomorrow with Dr. Kim, our dermatologist. Would that time work for you?
+
+You said:
+Great. I'd like to book that time. Would I have to anything else?
+
+English Conversational Partner said:
+Perfect, I’ll book that for you. You just need to bring your Medicare card and any previous prescriptions or creams you’ve used. Would you like a text message reminder for your appointment?
+
+You said:
+Yes, I just tried to ask you that. Do you know my mail address? I feel like I had taught before.
+
+English Conversational Partner said:
+Ah, I see! If you’ve been here before, your email address should already be in our system. Could you please confirm it for me, just to make sure it’s still the same?
+
+You said:
+Thanks, please confirm my appointment.
+
+English Conversational Partner said:
+All set — your appointment with Dr. Kim is confirmed for 9:30 a.m. tomorrow. Please arrive 10 minutes early for check-in. Is there anything else I can help you with today?
+
+You said:
+No, thank you. I'll see you at 9:30 a.m.
+
+English Conversational Partner said:
+You’re very welcome. See you tomorrow at 9:30 — have a good day!
+
+
+
+Task2: 
+You said:
+Hi, today I'd like to open a new saving account.
+
+English Conversational Partner said:
+Sure, no problem! I can help with that. Could you please tell me if this savings account will be for your personal use, or are you saving for something specific, like your education or future plans?
+
+You said:
+It will be for my personal use. Could I open a new account although I am still a uni student?
+
+English Conversational Partner said:
+Yes, absolutely! Students can open savings accounts too. We just need to confirm a few details.
+
+Could you tell me if you already have any other account with our bank, or will this be your first one here?
+
+You said:
+It'll be my first account. Could I ask you questions? What kinds of accounts are available for uni students? And could I operate the new account online as well?
+
+English Conversational Partner said:
+Of course! For university students, we usually offer two main options: a basic savings account with no monthly fees, and a student saver account that gives a bit more interest if you deposit regularly.
+
+Yes, you can definitely manage both types online — through our app or website.
+
+Would you like me to explain the main differences between the two account types?
+
+You said:
+Yes, please. I'm sorry for my poor English, what's the word deposit mean?
+
+English Conversational Partner said:
+No worries at all — your English is clear! The word “deposit” means to put money into your bank account. For example, when you get money from a part-time job and add it to your account, that’s a deposit.
+
+So, here’s the difference:
+
+The basic savings account is simple — no monthly fee, and you can use it anytime.
+
+The student saver account gives a higher interest rate, but you need to deposit a small amount each month to keep that rate.
+
+Do you think you’d prefer something simple, or would you like to earn extra interest by saving regularly?
+
+You said:
+I do part-time job regularly, so is the student saves account matches me?
+
+English Conversational Partner said:
+Yes, that sounds perfect for you! Since you have a regular part-time job, the student saver account would suit you well — you can deposit a small amount each month and earn more interest on your savings.
+
+Could you tell me what kind of ID you have with you today — for example, a passport, student card, or national ID?
+
+You said:
+I have a student card and national ID. I forgot to ask this. Could I use a debit card with this account?
+
+English Conversational Partner said:
+Yes, you can! Every savings account comes with a debit card, which you can use to withdraw cash, shop online, or make payments in stores.
+
+Would you like your debit card to be a physical card, a digital one for your phone, or both?
+
+You said:
+I have already made this card, so I'll use this, thank you. It's OK, could you start opening my account?
+
+English Conversational Partner said:
+Perfect, that makes it easier! Since you already have a card, we’ll just link it to your new savings account. I’ll need a few details to start — could you please tell me your full name as it appears on your ID?
+
+You said:
+My name is Tanaka Teru.
+
+English Conversational Partner said:
+Thank you, Mr. Tanaka. Nice to meet you! Next, could you please tell me your current address for the account registration?
+
+You said:
+Corrimal 654.
+
+English Conversational Partner said:
+Got it, thank you. And just to confirm, that’s Corrimal, New South Wales, right? Also, could you please give me your date of birth for verification?
+
+You said:
+Yes, it's right. My birthday is November 23.
+
+English Conversational Partner said:
+Thank you, Mr. Tanaka. Could you please tell me the year of your birth as well, just to complete the record?
+
+You said:
+It's 1989.
+
+English Conversational Partner said:
+Perfect, thank you. Just one last thing — could you give me your phone number or email address so we can contact you if there’s any issue with your account?
+
+You said:
+I'm sorry, I don't have time now, so could I confirm this online?
+
+English Conversational Partner said:
+Of course, that’s completely fine! You can finish the verification online anytime through our secure portal.
+
+Thanks for coming in today, Mr. Tanaka. Have a great day, and good luck with your studies!
+
+You said:
+Thank you for your consideration, have a good day too!
+
+English Conversational Partner said:
+You’re very welcome, Mr. Tanaka. Take care, and we look forward to seeing you again!
+

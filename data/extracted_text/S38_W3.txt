@@ -1,0 +1,75 @@
+WEEK 3  - TASK 2:
+You said: 
+“Good morning, I would like to file a police report on a robbery.”
+00:06
+English Conversational Partner said:
+Good morning! I’m really sorry to hear that. I can definitely help you with that. Let’s get started. Could you please share some details about the incident, like the date, time, and what was taken? And then we’ll proceed from there.
+You said:
+“yes everything happened yesterday i went out to go eat with a friend and i received a notification on my camera because yes i installed a couple of camera around the house and i saw that there were i think five men I’m not quite sure about that but yeah they broke into my house and they shattered the window, they stole a couple of things, they stole a tv a couple of jewellery um.. anything concerning electronics yeah.”
+00:43
+English Conversational Partner said:
+I’m really sorry that happened to you. Thank you for sharing those details. We’ll definitely make sure to document everything thoroughly. If you have any footage from your cameras, that can be really helpful for the investigation. Once we have all the information, we’ll guide you through the next steps. Let me know if there’s anything else you need or any other details you’d like to add.
+You said:
+“Yes, I will leave everything, I will leave my contact details too, in case. Is it possible to get an update every now and then?”
+00:09
+English Conversational Partner said:
+Absolutely, we can keep you updated regularly. We’ll make sure to share any progress and let you know if we need any additional information. And if you have any questions at any time, don’t hesitate to reach out. We’re here to help.
+You said:
+“Do I need to fill out a form?”
+00:01
+English Conversational Partner said:
+Yes, we’ll have a form for you to fill out with all the details of the incident. Once we have that completed, we can proceed with the report. If you need any assistance while filling it out, just let me know, and I’ll be happy to help!
+You said:
+“Alright, thank you very much. Have a nice day. I'll check back tomorrow.”
+00:03
+English Conversational Partner said:
+You're very welcome! If you need anything else, just let me know. Have a great day, and I'll look forward to hearing from you tomorrow. Take care!
+ 
+TASK 3: 
+
+You said:  
+Hi, I'd like to report a damage at my rental property.”
+English Conversational Partner said:
+Alright. Can you tell me exactly what kind of damage you’ve noticed at the property?
+You said:
+Yes, so there's a leak coming from the ceiling in the bathroom with a weird smell. I think it is mold
+English Conversational Partner said:
+Alright. Is the leak still actively dripping right now, or has it stopped?
+You said:
+it is still leaking 
+English Conversational Partner said:
+Alright. Since it’s still dripping, when did you first notice the leak starting?
+You said:
+i noticed it a week ago when I entered the shower and didn't opened the water, something was leaking from above my head and that's when I looked up and saw it
+English Conversational Partner said:
+Alright. How large is the wet or damaged area on the ceiling now—just a small patch, or has it spread out?
+You said:
+there's small patch but it did spread a bit on the side of the wall
+English Conversational Partner said:
+Alright. Thanks for explaining that. Is there anything like discoloration, strong odor, or any electrical fixtures near the damp area that we should be aware of?
+You said:
+the spots are quite dark and it smell a bit but other than that there is not electrical fixtures near it
+English Conversational Partner said:
+Alright. Since the spots are dark and there’s a smell, that helps a lot. Do you know what’s directly above that bathroom—another bathroom, a kitchen, or another unit?
+You said:
+I live in an apartment so I think there's another bathroom above but I might be mistaken
+English Conversational Partner said:
+Alright. Have you had a chance to check with the upstairs neighbor or building management to see if anyone above might be having plumbing issues?
+You said:
+yes, I went upstairs to ask them if there's any issue with anything like mold but they told me that everything is fine. 
+English Conversational Partner said:
+Alright. Thanks for checking with them. When would be a good time for a maintenance person to come by and inspect the ceiling?
+You said:
+Is tomorrow morning at 8 am good for you ?
+English Conversational Partner said:
+Alright. Tomorrow at 8 am works. Will you be home to let the maintenance person in, or should they use a building key?
+You said:
+I'll be home, yes, as I work from home
+English Conversational Partner said:
+Alright. Since you’ll be home, that’s perfect. What’s the best phone number for the maintenance person to reach you if they need to check in before arriving?
+You said:
+sure thing, so my number is...404765209.
+English Conversational Partner said:
+Perfect, everything is noted. Have a nice day !
+You said:
+Thank you very much sir, have a nice day !

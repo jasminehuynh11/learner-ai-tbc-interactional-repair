@@ -1,0 +1,150 @@
+{
+  "student_id": 19,
+  "week": 3,
+  "task": 3,
+  "task_label": "T4",
+  "dialogue_id": "S19_W3_T3",
+  "source_file": "data\\raw\\#19\\#19\\#19. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Requesting Maintenance or Repairs in a Rental Property Scenario: Something is broken or needs fixing in your rental accommodation. You are contacting your property manager or landlord to request a repair. Practise speaking clearly and politely in a service setting. You will need to define the chatbot’s role as a property manager or housing agent. You can choose situations from the examples below; start with a basic repair request and try a more detailed interaction by discussing access arrangements, urgency levels, or safety concerns. Learning objectives: • Use clear descriptive and locational language. • Ask and answer questions about cause and urgency. • Practise formal yet direct request language. • (Advanced option) Manage extended repair requests by negotiating access times, explaining complications, or requesting updates on repair status. Instructions: Try to: • Describe the issue clearly with location and urgency. • Ask how and when it can be fixed. • Respond to any questions about damage or access. • Confirm next steps and thank the person. • (Advanced option) Use the extension prompts below to have a longer conversation"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. This is the property management office — how can I help you today? What exactly needs fixing in your rental?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, I understand. So the heater in your bathroom isn't turning on. Could you let me know how urgent this feels for you and if there's a particular time that's best for someone to come take a look?"
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure thing. Thanks"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“and GPT-4.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. Now just to confirm, could you let me know which days or times you're generally at home so we can arrange a visit that works for you?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Friday at 2 p.m. is all right.”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Alright, Friday at 2 p.m. works just fine. We'll have someone come by then. And just to double-check, is there anything else we should know about getting into the bathroom or any other issues we should be aware of?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "Transcript Unavailable"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Got it. Thanks for letting me know about the fridge as well. We'll definitely note that down and have the maintenance team check both. Now, before we wrap up, can you confirm that Friday at 2 p.m. works for both the bathroom heater and the fridge, and then we'll get it all arranged?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“about today or tomorrow.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Absolutely, let me see"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“It's possible.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure, we can try to arrange that sooner. Let me just check our availability and would you prefer today or tomorrow?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“Also, it's working for me.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Alright, got it. We can definitely aim for tomorrow then. So, just to confirm, we'll have someone come by tomorrow to look at both the heater and the fridge. Thanks for letting us know, and we'll see you then!"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“Do I need to stay home for the repair?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Sure. Usually, it's good if someone can be home just to let them in and point things out. But if that's tricky, let me know and we can figure out an alternative. How does that sound?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“If I'm not there, I will leave a key at reception if I out.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Sure, that works perfectly. If you leave a key at the reception, we'll let the maintenance team know to pick it up. So with that settled, is there anything else you need us to handle for you?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Will I get an email or text message once it’s booked?”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Absolutely, we can do that. We'll send you a quick message as soon as everything's done. Thanks for arranging that, and we'll take care of it."
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Should I be worried about any long-term damage?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure. Generally, it doesn't sound like anything too major, so I wouldn't worry. But once we take a look, we'll let you know if there's anything more serious. Is that okay with you?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“Yes, is there an emergency number I can call on a weekend?”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, there is. We do have an emergency number you can use if anything urgent pops up over the weekend. I'll make sure to share that with you right after this. Anything else you need for now?"
+    }
+  ]
+}

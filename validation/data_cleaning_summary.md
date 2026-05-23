@@ -25,7 +25,7 @@ During Nov-Dec 2025, Coder 3 (Jasmine Huynh) ran the repair pipeline per student
 
 ## Cleaning procedure (Feb-Mar 2026 review workflow)
 
-1. Search `repairs_export.xlsx` `Brief notes` column for the following markers:
+1. Search `repairs_export.xlsx` `Brief notes` column for the following markers (source file not included in public package — access subject to data governance restrictions described in `docs/DATA_AVAILABILITY.md`):
    - `no genuine communication trouble`
    - `no signs of communication issues`
    - `conversation proceeded without interruption`

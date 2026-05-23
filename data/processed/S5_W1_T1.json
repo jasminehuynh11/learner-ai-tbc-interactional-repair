@@ -1,0 +1,15 @@
+{
+  "student_id": 5,
+  "week": 1,
+  "task": 1,
+  "task_label": "T1",
+  "dialogue_id": "S5_W1_T1",
+  "source_file": "data\\raw\\#5\\#5\\#5. Week1.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "STUDENT NUMBER: 60785462"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "student_id": 6,
+  "week": 2,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S6_W2_T2",
+  "source_file": "data\\raw\\#06\\#06\\#6. Week2.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Talking to a Bank About a Card Problem"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hello… I have some problem with my bank card. It didn’t work yesterday."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "Okay, I can help you with that. Let’s take a look together. Can you tell me what happened when you tried to use the card?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "I was in supermarket. I try to pay, but machine say declined. I try two times."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Alright, so the card was declined at the supermarket. Thank you for explaining. Did this happen just once, or has it happened at other places as well?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "Just one place. After that, I didn’t try again. I was little worried."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "That’s understandable. There are a few possible reasons why a card can be declined, so we’ll check them one by one. First, do you have the card with you right now?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "Yes, I bring it."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "Great. And do you also have some identification with you, such as a passport or a student card?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "Identification… Sorry, what do you mean?"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "No problem. Identification means a document that shows who you are, for example a passport or a student ID."
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Ah, okay. I have passport with me."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "Perfect. Thank you. Now, one common reason for a declined card is that the daily spending limit has been reached. Do you know what your daily limit is?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "Daily limit… I hear before, but I don’t really know. Is it like money per day?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Yes, that’s right. It’s the maximum amount of money you can spend using your card in one day."
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Okay… I think I don’t change that before."
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "That’s fine. Another possible reason is the account balance. Let me check your account for you now. Okay, I can see your balance here. You currently have one hundred and twenty dollars in your account."
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "Sorry… one hundred twenty? Or two hundred twenty?"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "One hundred and twenty — one two zero — dollars."
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Oh, okay. One hundred twenty. That makes sense."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Yes. The purchase you tried to make was one hundred and fifty dollars, so the card was declined because there wasn’t enough money in the account."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Ah… I see. I didn’t check before. That’s my mistake."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "That’s okay. It happens quite often. Would you like me to explain how you can check your balance and spending limit using the bank app?"
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Yes, please. I have app, but I don’t use it much. I’m not very good with it."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "No problem at all. I’ll explain it slowly. First, you open the app and log in. Then you go to the section called “Accounts”, where you can see your balance. After that, you can go to “Card settings” to see or change your daily limit."
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Card settings… Okay. I think I saw that before."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Yes, that’s the one. You can increase the limit if you need to, but it’s a good idea to keep it at a safe amount."
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Okay. If I put more money, then card will work, right?"
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Yes, exactly. Once you add more money to the account, the card should work normally again."
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Alright. I will transfer money today."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "That sounds good. Is there anything else you’d like help with while you’re here today?"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Um… one more thing. If card declined again, what should I do?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "If that happens, you can check your balance and limit in the app first. If everything looks fine and it still doesn’t work, you can contact us or come back to the branch, and we’ll help you."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Okay. I understand now. Thank you for explaining."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "You’re very welcome. I’m glad I could help."
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Thank you."
+    }
+  ]
+}

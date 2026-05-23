@@ -1,0 +1,190 @@
+{
+  "student_id": 4,
+  "week": 4,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S4_W4_T2",
+  "source_file": "data\\raw\\#04\\#04\\#4. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Responding to Feedback or a Performance Review"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Hi, yes, thank you. I got feedback from my supervisor. It’s not horrible, but I feel… eh… nervous, because I don’t know how to respond correctly without sounding defensive."
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": "That’s a very mature concern. Feedback can feel personal even when it’s practical. Was it written, or said in a meeting?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": "It was a meeting, but after they sent a short email with the points, so now it feels more official."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": "Okay, spoken and written. What were the main points? Let’s start with one positive thing."
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": "They said I’m friendly, customers like me, and I’m reliable. So I feel good about that. But then they said I need to be more “assertive” when it’s busy, and I don’t know what they want, because I don’t want to be rude."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": "Important nuance. Assertive doesn’t mean rude. Usually it means clear, confident, direct when needed. Did they give examples?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": "They said when customers are waiting, I spend too long explaining, then the line becomes big. But I’m like, I’m trying to be helpful… so I felt confused."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": "That makes sense. Your intention is helpfulness, but the impact is slower service during peak time. Did you ask them what “assertive” looks like?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": "No… in the moment my brain went blank. I was smiling, but inside I was like “oh no.”"
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": "That happens a lot. You can still ask now, like a follow-up. Would you feel comfortable asking for one or two concrete examples?"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": "Yes, but I don’t know how to say it without sounding like I’m challenging them."
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": "We can keep it collaborative. Like: “Thank you for the feedback, I want to improve. Could you share an example of what assertive communication looks like in busy periods?”"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": "That sounds good. Also I want to explain I’m not slow because I don’t care, it’s because I’m trying to be polite. But maybe I should not explain too much?"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": "Great self-awareness. You can briefly acknowledge intention, but focus on action: “I understand the need to keep service moving. I’ll practise being concise in busy times.”"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": "Concise, yes, that’s the word. Sometimes I talk too much because I want to sound friendly, and also because I’m thinking in my head and speaking at the same time, you know?"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": "Very normal for multilingual speakers. Did they mention anything else?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": "They also said “take more initiative.” And again I’m like, what initiative? In café job everything is routine. I don’t want to do something and it’s wrong."
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": "Good question. Initiative can be small proactive things: restocking, wiping tables, checking who needs help, without being asked. Does that match your workplace?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": "Yes, it matches. I do some, but maybe not enough, or they didn’t notice. And I don’t like interrupting people."
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": "Understandable. You can mention you’ll focus on visible proactive actions, especially between busy and quiet moments."
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": "Okay. And should I reply to the email quickly? If I wait, it looks bad. If I reply too fast, my English is messy."
+    },
+    {
+      "turn": 23,
+      "speaker": "bot",
+      "text": "Reply within one or two days is ideal. Keep it simple. Draft it, leave it, reread."
+    },
+    {
+      "turn": 24,
+      "speaker": "learner",
+      "text": "Yes, I like that. Another thing, they said “confidence.” They said I should sound more confident with customers. But I’m confident inside, it’s just my accent. I mean, I have accent and then I feel less confident."
+    },
+    {
+      "turn": 25,
+      "speaker": "bot",
+      "text": "Important point. Accent is not lack of competence. Confidence can show through pace, clarity, short phrases. Want to practise a few set phrases for busy times?"
+    },
+    {
+      "turn": 26,
+      "speaker": "learner",
+      "text": "Yes, please. Like short phrases I can repeat without thinking too much."
+    },
+    {
+      "turn": 27,
+      "speaker": "bot",
+      "text": "Perfect. Examples: “I’ll be right with you,” “Thanks for waiting,” “Let me confirm that,” “I can explain more in a moment.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "learner",
+      "text": "Oh, I like “I can explain more in a moment.” It’s polite but it keeps the line moving."
+    },
+    {
+      "turn": 29,
+      "speaker": "bot",
+      "text": "Exactly. Do you want to respond by email, or in person?"
+    },
+    {
+      "turn": 30,
+      "speaker": "learner",
+      "text": "Email is safer because I can think. In person I become nervous and I say too many things."
+    },
+    {
+      "turn": 31,
+      "speaker": "bot",
+      "text": "Great strategy. In the email: thank them, acknowledge key points, state actions, ask for examples of “assertive” and “initiative.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "learner",
+      "text": "Yes. And can I ask for a check-in in some weeks, to see if I improve? Or is that too much?"
+    },
+    {
+      "turn": 33,
+      "speaker": "bot",
+      "text": "That’s actually excellent. It shows commitment."
+    },
+    {
+      "turn": 34,
+      "speaker": "learner",
+      "text": "Okay. I feel much better now. I thought feedback means I’m failing, but now I see it’s like… adjustment."
+    },
+    {
+      "turn": 35,
+      "speaker": "bot",
+      "text": "Exactly. Quick check: positive feedback for friendliness/reliability, improvement points were assertiveness in busy times, initiative, confidence. You’ll reply with thanks, clarification request, and concrete actions, and ask for a follow-up check-in. Correct?"
+    },
+    {
+      "turn": 36,
+      "speaker": "learner",
+      "text": "Yes, correct. Thank you. I feel calmer, and like I have a plan instead of just feelings."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "dialogue_id": "S38_W4_T2",
+    "repair_id": 1,
+    "turn_indices": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "initiation": "LI",
+    "resolution": "R",
+    "trigger": "misunderstanding – learner's role in presentation",
+    "evidence_summary": "In turn 9, the learner states they will 'do the presentation.' The bot in turn 10 interprets this as the learner handling the entire presentation. In turn 11, the learner clarifies that they meant co-presenting ('overall we do it together') and handling specific 'four points.' The bot acknowledges this clarification with 'Oh, got it!' in turn 12 and reconfirms the collaborative presentation, indicating the misunderstanding was resolved."
+  }
+]

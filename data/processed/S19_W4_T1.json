@@ -1,0 +1,180 @@
+{
+  "student_id": 19,
+  "week": 4,
+  "task": 1,
+  "task_label": "T2",
+  "dialogue_id": "S19_W4_T1",
+  "source_file": "data\\raw\\#19\\#19\\#19. Week4.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Discussing Study or Career Plans with an Advisor Scenario: You are speaking with an academic advisor or career counsellor to get guidance about your current study plans or future career options. You want to explain your situation, ask for advice, and clarify next steps. Practise speaking clearly and professionally in a formal setting. You will need to define the chatbot’s role as a university advisor or career counsellor. You can choose situations from the examples below; start with a basic question about your study plan, and try a more extended interaction by exploring course structures, comparing qualifications, or evaluating career outcomes. Learning objectives: • Practise describing academic or professional goals. • Use formal and polite question forms. • Respond to suggestions and express uncertainty or preferences. • (Advanced option) Manage a longer discussion by comparing study pathways, discussing industry requirements, or asking for help with future planning. Instructions: Try to: • Explain your current situation (what you study or do). • Ask about career pathways or study options. • Respond to advice and ask follow-up questions. • Summarise your next steps politely. • (Advanced option) Use the extension prompts below to have a longer conversation"
+    },
+    {
+      "turn": 2,
+      "speaker": "bot",
+      "text": "Alright. I’m your university academic advisor—could you briefly tell me what you’re currently studying or working in and what prompted you to seek advice today?"
+    },
+    {
+      "turn": 3,
+      "speaker": "learner",
+      "text": "“Hey, I'm studying business, but I'm not sure it's the right fit.”"
+    },
+    {
+      "turn": 4,
+      "speaker": "bot",
+      "text": "Alright, thanks for sharing that. So, what specifically makes you uncertain about continuing in business? If you can tell me a bit more about what you're feeling unsure about, we can figure out what options might suit you better."
+    },
+    {
+      "turn": 5,
+      "speaker": "learner",
+      "text": "“Uh, I feel like I don't know much of business.”"
+    },
+    {
+      "turn": 6,
+      "speaker": "bot",
+      "text": "Sure, that makes sense. So maybe you're feeling a bit disconnected from the subject. Let's start by figuring out what parts of your studies you do enjoy or find interesting. Are there any topics or courses that have caught your attention more than others?"
+    },
+    {
+      "turn": 7,
+      "speaker": "learner",
+      "text": "“And now I'm sure for my future in this area.”"
+    },
+    {
+      "turn": 8,
+      "speaker": "bot",
+      "text": "Alright, that’s understandable. Let’s explore that a bit more. Can you tell me if there’s a particular career path you’ve considered, or maybe something outside of business that you’re curious about?"
+    },
+    {
+      "turn": 9,
+      "speaker": "learner",
+      "text": "“Just I want to know just can I change my degree? Could you help me understand my options?”"
+    },
+    {
+      "turn": 10,
+      "speaker": "bot",
+      "text": "Absolutely. So, changing your degree is definitely something we can talk through. Let’s start by looking at what alternative programs interest you the most. Are there any specific fields or areas of study that you think you might want to explore instead of business?"
+    },
+    {
+      "turn": 11,
+      "speaker": "learner",
+      "text": "“Maybe IT is good. Do you think I needed more work experience before applying?”"
+    },
+    {
+      "turn": 12,
+      "speaker": "bot",
+      "text": "Sure, that sounds like a good direction. So for IT, experience can help, but it’s not always a must before you start. Let’s look at the course structure first. Are you interested in seeing how the IT program compares to what you’re doing now?"
+    },
+    {
+      "turn": 13,
+      "speaker": "learner",
+      "text": "“Yeah, just show me, please.”"
+    },
+    {
+      "turn": 14,
+      "speaker": "bot",
+      "text": "Of course! So let me give you a quick rundown of the IT course structure. Typically, you’ll start with some foundational programming classes and maybe a bit of networking. Now, do you have any specific questions about how that might fit with your future career plans?"
+    },
+    {
+      "turn": 15,
+      "speaker": "learner",
+      "text": "“What’s different between a diploma and a master course?”"
+    },
+    {
+      "turn": 16,
+      "speaker": "bot",
+      "text": "Sure, good question! So a diploma is usually shorter and more practical, while a master's is more advanced and takes longer. Now, would you prefer a shorter program or are you thinking of going for a full master’s degree down the line?"
+    },
+    {
+      "turn": 17,
+      "speaker": "learner",
+      "text": "“I'm not sure what types of jobs are common for people in the master's degree.”"
+    },
+    {
+      "turn": 18,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a fair thing to wonder about. With a master’s in IT, you could aim for more specialized or senior roles, like systems analyst or IT project manager. Now, do you think you'd prefer that kind of advanced role, or are you leaning more towards getting into the workforce sooner with a shorter qualification?"
+    },
+    {
+      "turn": 19,
+      "speaker": "learner",
+      "text": "“I don't know. How can I stay motivated if I'm not sure about my goals yet?”"
+    },
+    {
+      "turn": 20,
+      "speaker": "bot",
+      "text": "Absolutely, it's normal to feel that way. I’d say just focus on exploring a little bit at a time and see what excites you. So, maybe we can set a short-term step for now: would you like to try an introductory IT course just to see how it feels before making a bigger decision?"
+    },
+    {
+      "turn": 21,
+      "speaker": "learner",
+      "text": "“After diploma short course and then I can just jump into master degree or I have to do full master degree again.”"
+    },
+    {
+      "turn": 22,
+      "speaker": "bot",
+      "text": "Absolutely, that’s a good plan. So yes, often you can start with a diploma or a shorter course, and then later on those credits might count towards a master's. Now, do you feel comfortable starting with that shorter program first to see how it fits you?"
+    },
+    {
+      "turn": 23,
+      "speaker": "learner",
+      "text": "“Yeah, I think this sounds great.”"
+    },
+    {
+      "turn": 24,
+      "speaker": "bot",
+      "text": "Perfect! That sounds like a solid way to move forward. So let's note that down as your next step. Is there anything else you'd like to ask or any other detail you want to go over before we wrap up?"
+    },
+    {
+      "turn": 25,
+      "speaker": "learner",
+      "text": "“Actually, I got some offering from job, so how can I decide between doing further study or starting work after graduation?”"
+    },
+    {
+      "turn": 26,
+      "speaker": "bot",
+      "text": "Sure, that's a common dilemma. I’d say it really depends on whether you’re more eager to get hands-on experience or if you’d like to deepen your knowledge first. So, what do you think suits your personality better: jumping straight into work or continuing with a bit more study?"
+    },
+    {
+      "turn": 27,
+      "speaker": "learner",
+      "text": "“I'm not sure.”"
+    },
+    {
+      "turn": 28,
+      "speaker": "bot",
+      "text": "Absolutely, it’s okay to be unsure. We can take it step by step. So let’s just say for now you explore a little of both. Maybe do an internship to get a taste of work and see how that feels. Does that sound like a plan for you?"
+    },
+    {
+      "turn": 29,
+      "speaker": "learner",
+      "text": "“Yeah, sounds great. So, why did I just go for an internship? I should consider it based on my strengths.”"
+    },
+    {
+      "turn": 30,
+      "speaker": "bot",
+      "text": "Sure, absolutely. So let’s think about your strengths. If you're good at problem-solving or you enjoy working with technology, look for an internship that lets you use those skills. Now, is there any particular area within IT or business that you think plays to your strengths that we should focus on for that internship search?"
+    },
+    {
+      "turn": 31,
+      "speaker": "learner",
+      "text": "“Yeah, I can make a code.”"
+    },
+    {
+      "turn": 32,
+      "speaker": "bot",
+      "text": "Great, that sounds like a plan then! So we’ll aim to find you an internship that matches those strengths, and you can see how it feels from there. Is there anything else on your mind before we wrap this up?"
+    },
+    {
+      "turn": 33,
+      "speaker": "learner",
+      "text": "“No, all good. Thanks for your time.”"
+    },
+    {
+      "turn": 34,
+      "speaker": "bot",
+      "text": "Of course, happy to help! Best of luck with your plans, and feel free to reach out any time you need more advice. Take care!"
+    }
+  ]
+}

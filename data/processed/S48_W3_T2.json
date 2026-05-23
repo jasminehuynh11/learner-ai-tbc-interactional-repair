@@ -1,0 +1,120 @@
+{
+  "student_id": 48,
+  "week": 3,
+  "task": 2,
+  "task_label": "T2",
+  "dialogue_id": "S48_W3_T2",
+  "source_file": "data\\raw\\#48\\#48\\#48. Week3.docx",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "learner",
+      "text": "Requesting Maintenance or Repairs in a Rental Property"
+    },
+    {
+      "turn": 2,
+      "speaker": "learner",
+      "text": "Let's role play so I can learn English. Scenario: Something is broken or needs fixing in my rental accommodation. I am are contacting my property manager or landlord to request a repair. You are the property manager or housing agent"
+    },
+    {
+      "turn": 3,
+      "speaker": "bot",
+      "text": ": Sure! Happy to help. Hi there, this is Sam from Riverside Property Management. What seems to be the problem in your rental?"
+    },
+    {
+      "turn": 4,
+      "speaker": "learner",
+      "text": ": Hi Sam. Sorry to ringing you early in the morning but we are running out of hot water this morning. I think there was something wrong with water boiling system. It worked well yesterday night but stopped working today."
+    },
+    {
+      "turn": 5,
+      "speaker": "bot",
+      "text": ": Alright, thanks for letting me know. Just to make sure I send the right technician, which unit number are you in?"
+    },
+    {
+      "turn": 6,
+      "speaker": "learner",
+      "text": ": Mine is unit 2. When will the technician come? I do not want to be pushy but it is quite difficult for us without hot water as the weather is currently very cold."
+    },
+    {
+      "turn": 7,
+      "speaker": "bot",
+      "text": ": Sure, unit 2—got it. I’ll get someone out as soon as possible. To book the visit, what times today or this afternoon are you available for the technician to come by?"
+    },
+    {
+      "turn": 8,
+      "speaker": "learner",
+      "text": ": I would appreciate if they can come around 11 am to 1 pm as I can come home during the lunch break."
+    },
+    {
+      "turn": 9,
+      "speaker": "bot",
+      "text": ": Alright, 11 am to 1 pm works. I’ll pencil that in. Just so the plumber can prepare, is your hot-water system gas or electric, do you know?"
+    },
+    {
+      "turn": 10,
+      "speaker": "learner",
+      "text": ": I'm not sure. We still have electricity applicants work well this morning."
+    },
+    {
+      "turn": 11,
+      "speaker": "bot",
+      "text": ": Sure, no problem — that helps a little. Since you’re not sure, can you tell me where the hot-water unit is located in your place? (Usually outside, in a cupboard, or near the laundry.)"
+    },
+    {
+      "turn": 12,
+      "speaker": "learner",
+      "text": ": It is in the corner, between the stove and the sink. I will be at home when the technician comes so no worries"
+    },
+    {
+      "turn": 13,
+      "speaker": "bot",
+      "text": ": Alright, thanks — that sounds like an electric under-bench system, which is helpful to know. Before I confirm the booking, is there any leaking, tripping of power, or unusual noise coming from the unit?"
+    },
+    {
+      "turn": 14,
+      "speaker": "learner",
+      "text": ": Nothing like that"
+    },
+    {
+      "turn": 15,
+      "speaker": "bot",
+      "text": ": Alright, good to know there’s no leaking or power issues. Just so the technician can enter smoothly, is there any gate code, key access detail, or anything special they should know when arriving at unit 2?"
+    },
+    {
+      "turn": 16,
+      "speaker": "learner",
+      "text": ": Please just knock on the door and I will let them in"
+    },
+    {
+      "turn": 17,
+      "speaker": "bot",
+      "text": ": Alright, a simple knock works. Just for the booking record, what name should I give the technician for the visit?"
+    },
+    {
+      "turn": 18,
+      "speaker": "learner",
+      "text": ": It's Kate"
+    },
+    {
+      "turn": 19,
+      "speaker": "bot",
+      "text": ": Alright, thanks Kate — I’ll book the technician for the 11 am–1 pm window. Before I send the final request, is there anything else in the unit that needs checking while they’re there?"
+    },
+    {
+      "turn": 20,
+      "speaker": "learner",
+      "text": ": Not right now I guess. Everything else seems fine except for the hot water"
+    },
+    {
+      "turn": 21,
+      "speaker": "bot",
+      "text": ": Sure, good to hear everything else is fine. Just in case the technician needs to reach you directly, what’s the best phone number for them to call when they’re on the way?"
+    },
+    {
+      "turn": 22,
+      "speaker": "learner",
+      "text": ": It’s 041339348"
+    }
+  ]
+}

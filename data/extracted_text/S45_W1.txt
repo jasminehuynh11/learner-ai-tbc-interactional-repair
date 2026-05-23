@@ -1,0 +1,72 @@
+Task 1:
+
+你说：
+Hello, how are you today? I would like to order a iced black coffee. Yeah.
+English Conversational Partner 说：
+Sure! One iced black coffee coming up. Would you like that in a small, medium, or large cup?
+你说：
+A large cub.
+English Conversational Partner 说：
+Alright, one large iced black coffee. Would you like any sugar or sweetener with that?
+你说：
+No, thanks, and I want a cappuccino and a flat white to go away.
+English Conversational Partner 说：
+Got it — one large iced black coffee, plus a cappuccino and a flat white to go. What size would you like for the cappuccino and the flat white?
+你说：
+Both of them are middle, and also I want to chocolate muffin.
+English Conversational Partner 说：
+Perfect — one large iced black coffee, two medium coffees (a cappuccino and a flat white), and a chocolate muffin. Would you like the muffin warmed up?
+你说：
+Yes, I need to roast. Sorry, I want to change the size of flat white. I want to change it to large cup.
+English Conversational Partner 说：
+No problem — so that’s a large flat white instead of medium, right? Would you like everything packed together in one bag or separately?
+你说：
+Yeah, they need to be separated.
+English Conversational Partner 说：
+Got it — each drink and the muffin will be packed separately. Would you like to pay by cash or card?
+你说：
+I want to pay by card and I want to order other desserts. What do you recommend today?
+English Conversational Partner 说：
+Sure! Today we’ve got some fresh desserts — tiramisu, cheesecake, and almond croissants are really popular. Would you like something creamy like tiramisu, or more pastry-style like the croissant?
+你说：
+I want to eat a disease with scream and also not too much sugar in it.
+English Conversational Partner 说：
+Ah, I think you mean a dessert with cream and not too sweet, right? In that case, I’d recommend our vanilla cheesecake — it’s smooth, creamy, and not overly sugary. Would you like a slice of that?
+你说：
+Yes, of course.
+English Conversational Partner 说：
+Great! I’ll add one slice of vanilla cheesecake. Would you like to have it here or take it away too?
+你说：
+I will wait near the door, and when you prepared, I can get.
+English Conversational Partner 说：
+Perfect, I’ll bring it to you by the door when it’s ready. Would you like a receipt with your order?
+你说：
+Oh, thanks. Mmm, long black and cheesecake, I will eat there. And others, please help me to package it to get takeaway.
+English Conversational Partner 说：
+Sure! So you’ll have the long black and cheesecake here, and the cappuccino, flat white, and muffin packed to go. Is that all for your order today?
+你说：
+Yes, alright, have a nice day.
+English Conversational Partner 说：
+Thanks a lot! Enjoy your coffee and dessert — have a great day too!
+
+
+TASK 3: 
+你说： I want to exchange this shirt for a larger size.
+English Conversational Partner 说： Sure! Would you like to exchange it for a larger size, or would you prefer a refund instead?
+你说： I want to exchange it for a larger size and also change the color — maybe deep blue or black.
+English Conversational Partner 说： Absolutely, we can do that. Do you prefer deep blue or black?
+你说： I want to return the white one.
+English Conversational Partner 说： Sure, we’ll process a return for the white shirt, and then you can pick out a new one in the color you like. Would you like any help choosing the new shirt after we do the return?
+你说： No worries!
+English Conversational Partner 说： I was just asking if you’d like any help picking out the new shirt after we do the return.
+你说： I actually want a more formal shirt for a presentation.
+English Conversational Partner 说： Absolutely! We can help you find a formal shirt perfect for a presentation. Do you have a specific style or color in mind?
+你说： I want something deep-colored, and also I want to buy a hat for my father.
+English Conversational Partner 说： Sure! For a formal look in a deep color, I’d recommend a navy or charcoal dress shirt — both look sharp. And we can help you pick a nice hat for your father. What kind of hat are you thinking of?
+你说： Maybe I can try it and send my father a picture.
+English Conversational Partner 说： Of course! You can definitely try it on and send him a photo. Would you like to try the shirt and hat right now?
+你说： Yes, I’ll try.
+English Conversational Partner 说： Great! Go ahead and try them on. If you buy two items or more, you’ll get a 10% discount.
+你说： Okay, thanks.
+English Conversational Partner 说： You’re welcome! Take your time trying them on, and just let me know if you need anything else.
+
